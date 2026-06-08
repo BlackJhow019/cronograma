@@ -1,15 +1,110 @@
-LOTSF=05:05
-LA3=05:08
-BARSF=05:11
-NAVIO=03:16
-ILHA=04:37
-CASSINO=01:56
-LOTLS=00:03
-LA2=12:50
-MOTEL=15:44
-LA1=05:23
-BLS=15:02
-PUTEIRO=01:38
-CAIXA=05:21
-CC=02:49
-BPS=11:04
+{
+  "roubos": {
+    "CC": {
+      "status": "DESATUALIZADO",
+      "horarioStr": null,
+      "disponivelEm": null,
+      "updatedBy": "system",
+      "updatedAt": 0
+    },
+    "BPS": {
+      "status": "DESATUALIZADO",
+      "horarioStr": null,
+      "disponivelEm": null,
+      "updatedBy": "system",
+      "updatedAt": 0
+    },
+    "ILHA": {
+      "status": "DESATUALIZADO",
+      "horarioStr": null,
+      "disponivelEm": null,
+      "updatedBy": "system",
+      "updatedAt": 0
+    },
+    "CASSINO": {
+      "status": "DESATUALIZADO",
+      "horarioStr": null,
+      "disponivelEm": null,
+      "updatedBy": "system",
+      "updatedAt": 0
+    },
+    "BLS": {
+      "status": "INDISPONIVEL",
+      "horarioStr": "07:33",
+      "disponivelEm": "2026-06-08T10:33:13.317Z",
+      "updatedBy": "1511063310722924664",
+      "updatedAt": 1780905837203
+    },
+    "NAVIO": {
+      "status": "DESATUALIZADO",
+      "horarioStr": null,
+      "disponivelEm": null,
+      "updatedBy": "system",
+      "updatedAt": 0
+    },
+    "BARSF": {
+      "status": "DESATUALIZADO",
+      "horarioStr": null,
+      "disponivelEm": null,
+      "updatedBy": "system",
+      "updatedAt": 0
+    },
+    "LA1": {
+      "status": "DESATUALIZADO",
+      "horarioStr": null,
+      "disponivelEm": null,
+      "updatedBy": "system",
+      "updatedAt": 0
+    },
+    "LA2": {
+      "status": "DESATUALIZADO",
+      "horarioStr": null,
+      "disponivelEm": null,
+      "updatedBy": "system",
+      "updatedAt": 0
+    },
+    "LA3": {
+      "status": "DESATUALIZADO",
+      "horarioStr": null,
+      "disponivelEm": null,
+      "updatedBy": "system",
+      "updatedAt": 0
+    },
+    "MOTEL": {
+      "status": "DESATUALIZADO",
+      "horarioStr": null,
+      "disponivelEm": null,
+      "updatedBy": "system",
+      "updatedAt": 0
+    },
+    "PUTEIRO": {
+      "status": "DESATUALIZADO",
+      "horarioStr": null,
+      "disponivelEm": null,
+      "updatedBy": "system",
+      "updatedAt": 0
+    },
+    "CAIXA": {
+      "status": "DESATUALIZADO",
+      "horarioStr": null,
+      "disponivelEm": null,
+      "updatedBy": "system",
+      "updatedAt": 0
+    },
+    "LOTSF": {
+      "status": "DESATUALIZADO",
+      "horarioStr": null,
+      "disponivelEm": null,
+      "updatedBy": "system",
+      "updatedAt": 0
+    },
+    "LOTLS": {
+      "status": "DESATUALIZADO",
+      "horarioStr": null,
+      "disponivelEm": null,
+      "updatedBy": "system",
+      "updatedAt": 0
+    }
+  },
+  "atualizadoEm": "2026-06-08T08:03:59.872Z"
+}

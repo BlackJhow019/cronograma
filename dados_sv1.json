@@ -71,11 +71,11 @@
       "updatedAt": 1780905717369
     },
     "MOTEL": {
-      "status": "EM_ANDAMENTO",
-      "horarioStr": null,
-      "disponivelEm": null,
+      "status": "INDISPONIVEL",
+      "horarioStr": "07:45",
+      "disponivelEm": "2026-06-08T10:45:03.720Z",
       "updatedBy": "1511063146138304572",
-      "updatedAt": 1780906427179
+      "updatedAt": 1780906547534
     },
     "PUTEIRO": {
       "status": "INDISPONIVEL",
@@ -106,5 +106,5 @@
       "updatedAt": 1780905716696
     }
   },
-  "atualizadoEm": "2026-06-08T08:13:49.764Z"
+  "atualizadoEm": "2026-06-08T08:15:50.123Z"
 }

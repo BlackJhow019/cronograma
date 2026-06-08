@@ -85,11 +85,11 @@
       "updatedAt": 1780906703475
     },
     "CAIXA": {
-      "status": "EM_ANDAMENTO",
-      "horarioStr": null,
-      "disponivelEm": null,
+      "status": "INDISPONIVEL",
+      "horarioStr": "07:50",
+      "disponivelEm": "2026-06-08T10:50:25.205Z",
       "updatedBy": "1511063310722924664",
-      "updatedAt": 1780906803401
+      "updatedAt": 1780906869031
     },
     "LOTSF": {
       "status": "DESATUALIZADO",
@@ -106,5 +106,5 @@
       "updatedAt": 1780905985107
     }
   },
-  "atualizadoEm": "2026-06-08T08:20:06.388Z"
+  "atualizadoEm": "2026-06-08T08:21:11.676Z"
 }

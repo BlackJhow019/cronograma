@@ -85,18 +85,18 @@
       "updatedAt": 1780905956473
     },
     "CAIXA": {
-      "status": "EM_ANDAMENTO",
-      "horarioStr": null,
-      "disponivelEm": null,
+      "status": "INDISPONIVEL",
+      "horarioStr": "07:37",
+      "disponivelEm": "2026-06-08T10:37:20.449Z",
       "updatedBy": "1511063310722924664",
-      "updatedAt": 1780906018640
+      "updatedAt": 1780906084295
     },
     "LOTSF": {
       "status": "DESATUALIZADO",
       "horarioStr": null,
       "disponivelEm": null,
-      "updatedBy": "system",
-      "updatedAt": 0
+      "updatedBy": "github",
+      "updatedAt": 1780906022561
     },
     "LOTLS": {
       "status": "INDISPONIVEL",
@@ -106,5 +106,5 @@
       "updatedAt": 1780905985107
     }
   },
-  "atualizadoEm": "2026-06-08T08:07:01.306Z"
+  "atualizadoEm": "2026-06-08T08:08:07.020Z"
 }

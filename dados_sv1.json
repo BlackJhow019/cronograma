@@ -1,15 +1,110 @@
-LOTSF=DISPONÍVEL
-LA3=12:22
-BARSF=DISPONÍVEL
-NAVIO=12:19
-ILHA=DISPONÍVEL
-CASSINO=DISPONÍVEL
-LOTLS=DISPONÍVEL
-LA2=DISPONÍVEL
-MOTEL=DISPONÍVEL
-LA1=DISPONÍVEL
-BLS=DISPONÍVEL
-PUTEIRO=DISPONÍVEL
-CAIXA=10:16
-CC=11:18
-BPS=11:50
+{
+  "roubos": {
+    "CC": {
+      "status": "INDISPONIVEL",
+      "horarioStr": "07:23",
+      "disponivelEm": "2026-06-08T10:23:18.378Z",
+      "updatedBy": "1511063146138304572",
+      "updatedAt": 1780905719232
+    },
+    "BPS": {
+      "status": "INDISPONIVEL",
+      "horarioStr": "13:25",
+      "disponivelEm": "2026-06-08T16:25:38.702Z",
+      "updatedBy": "1511063146138304572",
+      "updatedAt": 1780905717367
+    },
+    "ILHA": {
+      "status": "DISPONIVEL",
+      "horarioStr": null,
+      "disponivelEm": null,
+      "updatedBy": "1511063146138304572",
+      "updatedAt": 1780905720556
+    },
+    "CASSINO": {
+      "status": "INDISPONIVEL",
+      "horarioStr": "07:01",
+      "disponivelEm": "2026-06-08T10:01:39.904Z",
+      "updatedBy": "1511063146138304572",
+      "updatedAt": 1780905717371
+    },
+    "BLS": {
+      "status": "INDISPONIVEL",
+      "horarioStr": "07:24",
+      "disponivelEm": "2026-06-08T10:24:00.301Z",
+      "updatedBy": "1511063146138304572",
+      "updatedAt": 1780905716698
+    },
+    "NAVIO": {
+      "status": "INDISPONIVEL",
+      "horarioStr": "06:55",
+      "disponivelEm": "2026-06-08T09:55:34.074Z",
+      "updatedBy": "1511063146138304572",
+      "updatedAt": 1780905718030
+    },
+    "BARSF": {
+      "status": "INDISPONIVEL",
+      "horarioStr": "07:07",
+      "disponivelEm": "2026-06-08T10:07:04.790Z",
+      "updatedBy": "1511063146138304572",
+      "updatedAt": 1780905717370
+    },
+    "LA1": {
+      "status": "DISPONIVEL",
+      "horarioStr": null,
+      "disponivelEm": null,
+      "updatedBy": "1511063146138304572",
+      "updatedAt": 1780905728891
+    },
+    "LA2": {
+      "status": "DISPONIVEL",
+      "horarioStr": null,
+      "disponivelEm": null,
+      "updatedBy": "1511063146138304572",
+      "updatedAt": 1780905736001
+    },
+    "LA3": {
+      "status": "INDISPONIVEL",
+      "horarioStr": "07:12",
+      "disponivelEm": "2026-06-08T10:12:51.846Z",
+      "updatedBy": "1511063146138304572",
+      "updatedAt": 1780905717369
+    },
+    "MOTEL": {
+      "status": "DISPONIVEL",
+      "horarioStr": null,
+      "disponivelEm": null,
+      "updatedBy": "1511063146138304572",
+      "updatedAt": 1780905735374
+    },
+    "PUTEIRO": {
+      "status": "EM_ANDAMENTO",
+      "horarioStr": null,
+      "disponivelEm": null,
+      "updatedBy": "1511063146138304572",
+      "updatedAt": 1780905804834
+    },
+    "CAIXA": {
+      "status": "DISPONIVEL",
+      "horarioStr": null,
+      "disponivelEm": null,
+      "updatedBy": "1511063146138304572",
+      "updatedAt": 1780905728275
+    },
+    "LOTSF": {
+      "status": "DESATUALIZADO",
+      "horarioStr": null,
+      "disponivelEm": null,
+      "updatedBy": "system",
+      "updatedAt": 0
+    },
+    "LOTLS": {
+      "status": "INDISPONIVEL",
+      "horarioStr": "07:26",
+      "disponivelEm": "2026-06-08T10:26:33.843Z",
+      "updatedBy": "1511063146138304572",
+      "updatedAt": 1780905716696
+    }
+  },
+  "atualizadoEm": "2026-06-08T08:03:27.511Z"
+}

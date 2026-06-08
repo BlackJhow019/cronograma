@@ -1,110 +1,20 @@
 {
   "roubos": {
-    "CC": {
-      "status": "DISPONIVEL",
-      "horarioStr": null,
-      "disponivelEm": null,
-      "updatedBy": "1511063310722924664",
-      "updatedAt": 1780907825544
-    },
-    "BPS": {
-      "status": "INDISPONIVEL",
-      "horarioStr": "13:38",
-      "disponivelEm": "2026-06-08T16:38:35.563Z",
-      "updatedBy": "1511063310722924664",
-      "updatedAt": 1780907776183
-    },
-    "ILHA": {
-      "status": "DISPONIVEL",
-      "horarioStr": null,
-      "disponivelEm": null,
-      "updatedBy": "1511063310722924664",
-      "updatedAt": 1780907803796
-    },
-    "CASSINO": {
-      "status": "INDISPONIVEL",
-      "horarioStr": "06:55",
-      "disponivelEm": "2026-06-08T09:55:58.648Z",
-      "updatedBy": "1511063310722924664",
-      "updatedAt": 1780907776932
-    },
-    "BLS": {
-      "status": "INDISPONIVEL",
-      "horarioStr": "07:33",
-      "disponivelEm": "2026-06-08T10:33:13.317Z",
-      "updatedBy": "1511063310722924664",
-      "updatedAt": 1780907775608
-    },
-    "NAVIO": {
-      "status": "INDISPONIVEL",
-      "horarioStr": "07:03",
-      "disponivelEm": "2026-06-08T10:03:26.715Z",
-      "updatedBy": "1511063310722924664",
-      "updatedAt": 1780907776188
-    },
-    "BARSF": {
-      "status": "INDISPONIVEL",
-      "horarioStr": "07:22",
-      "disponivelEm": "2026-06-08T10:22:37.440Z",
-      "updatedBy": "1511063310722924664",
-      "updatedAt": 1780907776185
-    },
-    "LA1": {
-      "status": "INDISPONIVEL",
-      "horarioStr": "07:39",
-      "disponivelEm": "2026-06-08T10:39:52.375Z",
-      "updatedBy": "1511063310722924664",
-      "updatedAt": 1780907775605
-    },
-    "LA2": {
-      "status": "INDISPONIVEL",
-      "horarioStr": "07:43",
-      "disponivelEm": "2026-06-08T10:43:03.584Z",
-      "updatedBy": "1511063310722924664",
-      "updatedAt": 1780907775604
-    },
-    "LA3": {
-      "status": "INDISPONIVEL",
-      "horarioStr": "07:19",
-      "disponivelEm": "2026-06-08T10:19:46.363Z",
-      "updatedBy": "1511063310722924664",
-      "updatedAt": 1780907776187
-    },
-    "MOTEL": {
-      "status": "DISPONIVEL",
-      "horarioStr": null,
-      "disponivelEm": null,
-      "updatedBy": "1511063310722924664",
-      "updatedAt": 1780907775599
-    },
-    "PUTEIRO": {
-      "status": "INDISPONIVEL",
-      "horarioStr": "07:47",
-      "disponivelEm": "2026-06-08T10:47:39.660Z",
-      "updatedBy": "1511063310722924664",
-      "updatedAt": 1780907775603
-    },
-    "CAIXA": {
-      "status": "INDISPONIVEL",
-      "horarioStr": "07:50",
-      "disponivelEm": "2026-06-08T10:50:25.205Z",
-      "updatedBy": "1511063310722924664",
-      "updatedAt": 1780907775595
-    },
-    "LOTSF": {
-      "status": "DESATUALIZADO",
-      "horarioStr": null,
-      "disponivelEm": null,
-      "updatedBy": "github",
-      "updatedAt": 1780907878639
-    },
-    "LOTLS": {
-      "status": "INDISPONIVEL",
-      "horarioStr": "07:35",
-      "disponivelEm": "2026-06-08T10:35:41.190Z",
-      "updatedBy": "1511063310722924664",
-      "updatedAt": 1780907775607
-    }
+    "CC": "DISPONIVEL",
+    "BPS": "13:38|08/06/2026",
+    "ILHA": "DISPONIVEL",
+    "CASSINO": "06:55|08/06/2026",
+    "BLS": "07:33|08/06/2026",
+    "NAVIO": "07:03|08/06/2026",
+    "BARSF": "07:22|08/06/2026",
+    "LA1": "07:39|08/06/2026",
+    "LA2": "07:43|08/06/2026",
+    "LA3": "07:19|08/06/2026",
+    "MOTEL": "DISPONIVEL",
+    "PUTEIRO": "07:47|08/06/2026",
+    "CAIXA": "07:50|08/06/2026",
+    "LOTSF": "DESATUALIZADO",
+    "LOTLS": "07:35|08/06/2026"
   },
-  "atualizadoEm": "2026-06-08T08:38:00.474Z"
+  "atualizadoEm": "2026-06-08T08:43:21.644Z"
 }

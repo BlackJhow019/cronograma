@@ -50,11 +50,11 @@
       "updatedAt": 1780905717370
     },
     "LA1": {
-      "status": "EM_ANDAMENTO",
-      "horarioStr": null,
-      "disponivelEm": null,
+      "status": "INDISPONIVEL",
+      "horarioStr": "07:37",
+      "disponivelEm": "2026-06-08T10:37:53.344Z",
       "updatedBy": "1511063146138304572",
-      "updatedAt": 1780906007482
+      "updatedAt": 1780906117179
     },
     "LA2": {
       "status": "DISPONIVEL",
@@ -106,5 +106,5 @@
       "updatedAt": 1780905716696
     }
   },
-  "atualizadoEm": "2026-06-08T08:07:01.809Z"
+  "atualizadoEm": "2026-06-08T08:08:39.987Z"
 }

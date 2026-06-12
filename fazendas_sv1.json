@@ -42,14 +42,14 @@
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
-    "idNumerico": null,
+    "idNumerico": "39",
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:30|12/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "NIKE SHOX": {
-    "idNumerico": null,
+    "idNumerico": "42",
     "nome": "NIKE SHOX",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -70,7 +70,7 @@
     "cofreConsertado": false
   },
   "PT FARM'S": {
-    "idNumerico": null,
+    "idNumerico": "13",
     "nome": "PT farm's",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -142,12 +142,12 @@
   "< GAUBRE LTDA >": {
     "idNumerico": null,
     "nome": "< GAUBRE LTDA >",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:50|12/06/2026",
     "cofreConsertado": false
   },
   "VENDO 500KM ACEITO TROCAS": {
-    "idNumerico": null,
+    "idNumerico": "24",
     "nome": "VENDO 500km ACEITO TROCAS",
     "status": "DISPONIVEL",
     "disponivelEm": null,

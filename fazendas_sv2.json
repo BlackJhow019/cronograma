@@ -63,10 +63,10 @@
     "cofreConsertado": false
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {
-    "idNumerico": "37",
+    "idNumerico": null,
     "nome": "WELCOME > MELHOR FAZENDA DO BPS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:56|12/06/2026",
     "cofreConsertado": false
   },
   "TA NO GRALI": {
@@ -137,7 +137,7 @@
     "nome": "CANNABIS",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:02|12/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "AMO O LOWER": {
     "idNumerico": "2",

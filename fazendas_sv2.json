@@ -109,7 +109,7 @@
     "nome": "Malvada's Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:52|12/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
@@ -135,8 +135,8 @@
   "CANNABIS": {
     "idNumerico": null,
     "nome": "CANNABIS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:02|12/06/2026",
     "cofreConsertado": false
   },
   "AMO O LOWER": {

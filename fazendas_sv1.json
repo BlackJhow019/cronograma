@@ -1,6 +1,6 @@
 {
   "POLEMICO$ INDUSTRI$": {
-    "idNumerico": null,
+    "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -21,14 +21,14 @@
     "cofreConsertado": false
   },
   "PLANTACAO DE MARIHUANA": {
-    "idNumerico": null,
+    "idNumerico": "5",
     "nome": "Plantacao de Marihuana",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
   "PREFEITO ROADBLOCK": {
-    "idNumerico": null,
+    "idNumerico": "41",
     "nome": "Prefeito Roadblock",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -86,9 +86,9 @@
   "THUG LIFE": {
     "idNumerico": null,
     "nome": "THUG LIFE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:31|12/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -210,10 +210,10 @@
     "cofreConsertado": false
   },
   "FAZENDA PUTEIRO DO DEATH 4": {
-    "idNumerico": "31",
+    "idNumerico": null,
     "nome": "Fazenda puteiro do Death 4",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:48|12/06/2026",
     "cofreConsertado": false
   },
   "SANTINO EMPREENDIMENTOS LTDA": {
@@ -221,7 +221,7 @@
     "nome": "SANTINO EMPREENDIMENTOS LTDA",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:44|12/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "4I20 HASH FARM'S": {
     "idNumerico": "16",

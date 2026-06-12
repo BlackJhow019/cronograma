@@ -217,10 +217,10 @@
     "cofreConsertado": false
   },
   "FARM DA THATY": {
-    "idNumerico": "1",
+    "idNumerico": null,
     "nome": "Farm da Thaty",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:54|13/06/2026",
     "cofreConsertado": false
   },
   "FARM DO SAPATO": {
@@ -280,7 +280,7 @@
     "cofreConsertado": false
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
-    "idNumerico": null,
+    "idNumerico": "3",
     "nome": "$ Company $r.RC_PlinioDmG $",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:51|13/06/2026",

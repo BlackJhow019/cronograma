@@ -7,11 +7,11 @@
     "cofreConsertado": true
   },
   "JESUS EA SOLUCAO": {
-    "idNumerico": "0",
+    "idNumerico": null,
     "nome": "JESUS EA SOLUCAO",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true
+    "cofreConsertado": false
   },
   "AWAKE COMPANY": {
     "idNumerico": "13",
@@ -24,14 +24,14 @@
     "idNumerico": "11",
     "nome": "RocK Farm",
     "status": "INDISPONIVEL",
-    "disponivelEm": "05:15|12/06/2026",
+    "disponivelEm": null,
     "cofreConsertado": true
   },
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",
     "nome": "Fazendinha BeTreZe 2",
     "status": "INDISPONIVEL",
-    "disponivelEm": "05:14|12/06/2026",
+    "disponivelEm": null,
     "cofreConsertado": true
   },
   "EVENTO": {
@@ -45,22 +45,22 @@
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
     "status": "INDISPONIVEL",
-    "disponivelEm": "05:09|12/06/2026",
+    "disponivelEm": null,
     "cofreConsertado": true
   },
   "LA FAMILIA CHIARADIA": {
-    "idNumerico": "43",
+    "idNumerico": null,
     "nome": "LA FAMILIA CHIARADIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:45|12/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FARMA DA FAMILIA ELITE": {
-    "idNumerico": "33",
+    "idNumerico": null,
     "nome": "Farma Da Familia Elite",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true
+    "cofreConsertado": false
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {
     "idNumerico": null,
@@ -77,10 +77,10 @@
     "cofreConsertado": false
   },
   "ELITE FARMS": {
-    "idNumerico": null,
+    "idNumerico": "17",
     "nome": "Elite Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:42|12/06/2026",
     "cofreConsertado": false
   },
   "B13 :)": {
@@ -220,8 +220,8 @@
     "idNumerico": "1",
     "nome": "Farm da Thaty",
     "status": "INDISPONIVEL",
-    "disponivelEm": "06:05|12/06/2026",
-    "cofreConsertado": true
+    "disponivelEm": "11:20|12/06/2026",
+    "cofreConsertado": false
   },
   "FARM DO SAPATO": {
     "idNumerico": "9",

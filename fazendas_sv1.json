@@ -24,71 +24,71 @@
     "idNumerico": "5",
     "nome": "Plantacao de Marihuana",
     "status": "INDISPONIVEL",
-    "disponivelEm": "04:31|12/06/2026",
+    "disponivelEm": "09:59|12/06/2026",
     "cofreConsertado": false
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
     "status": "INDISPONIVEL",
-    "disponivelEm": "04:17|12/06/2026",
+    "disponivelEm": "09:30|12/06/2026",
     "cofreConsertado": false
   },
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
     "status": "INDISPONIVEL",
-    "disponivelEm": "04:16|12/06/2026",
-    "cofreConsertado": true
+    "disponivelEm": "09:22|12/06/2026",
+    "cofreConsertado": false
   },
   "GRUPO NEXUS": {
     "idNumerico": "30",
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
-    "disponivelEm": "06:39|12/06/2026",
+    "disponivelEm": "10:05|12/06/2026",
     "cofreConsertado": false
   },
   "NIKE SHOX": {
     "idNumerico": "42",
     "nome": "NIKE SHOX",
     "status": "INDISPONIVEL",
-    "disponivelEm": "04:12|12/06/2026",
+    "disponivelEm": "09:21|12/06/2026",
     "cofreConsertado": false
   },
   "FAZENDINHA DO FIRE": {
     "idNumerico": "12",
     "nome": "Fazendinha Do Fire",
     "status": "INDISPONIVEL",
-    "disponivelEm": "03:57|12/06/2026",
-    "cofreConsertado": true
+    "disponivelEm": "09:13|12/06/2026",
+    "cofreConsertado": false
   },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
     "status": "INDISPONIVEL",
-    "disponivelEm": "03:53|12/06/2026",
-    "cofreConsertado": false
+    "disponivelEm": "09:15|12/06/2026",
+    "cofreConsertado": true
   },
   "PT FARM'S": {
     "idNumerico": "13",
     "nome": "PT farm's",
     "status": "INDISPONIVEL",
-    "disponivelEm": "03:49|12/06/2026",
-    "cofreConsertado": true
+    "disponivelEm": "09:27|12/06/2026",
+    "cofreConsertado": false
   },
   "RAFHA INVESTIMENTOS $": {
-    "idNumerico": "26",
+    "idNumerico": null,
     "nome": "Rafha investimentos $",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:41|12/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "THUG LIFE": {
     "idNumerico": "21",
     "nome": "THUG LIFE",
     "status": "INDISPONIVEL",
-    "disponivelEm": "03:32|12/06/2026",
-    "cofreConsertado": true
+    "disponivelEm": "09:21|12/06/2026",
+    "cofreConsertado": false
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -154,11 +154,11 @@
     "cofreConsertado": false
   },
   "CLUBE DA LULUZINHA": {
-    "idNumerico": null,
+    "idNumerico": "8",
     "nome": "Clube da Luluzinha",
     "status": "INDISPONIVEL",
-    "disponivelEm": "09:06|12/06/2026",
-    "cofreConsertado": false
+    "disponivelEm": "09:12|12/06/2026",
+    "cofreConsertado": true
   },
   "BEE": {
     "idNumerico": "7",
@@ -261,8 +261,15 @@
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:06|12/06/2026",
+    "cofreConsertado": true
+  },
+  "K1NG FARM'S": {
+    "idNumerico": "25",
+    "nome": "K1NG Farm's",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:18|12/06/2026",
     "cofreConsertado": false
   }
 }

@@ -14,7 +14,7 @@
     "cofreConsertado": false
   },
   "021": {
-    "idNumerico": null,
+    "idNumerico": "1",
     "nome": "021",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -42,7 +42,7 @@
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
-    "idNumerico": null,
+    "idNumerico": "40",
     "nome": "GRUPO NEXUS",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -79,8 +79,8 @@
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": null,
     "nome": "Rafha investimentos $",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:20|12/06/2026",
     "cofreConsertado": false
   },
   "THUG LIFE": {
@@ -88,7 +88,7 @@
     "nome": "THUG LIFE",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:31|12/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -133,7 +133,7 @@
     "cofreConsertado": false
   },
   "OS DE RACA": {
-    "idNumerico": null,
+    "idNumerico": "0",
     "nome": "OS DE RACA",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -177,9 +177,9 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:11|12/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "MONOPOLIO FARMS": {
     "idNumerico": "20",
@@ -196,7 +196,7 @@
     "cofreConsertado": true
   },
   "LOS SMITH'S": {
-    "idNumerico": null,
+    "idNumerico": "44",
     "nome": "Los SmiTh's",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -210,7 +210,7 @@
     "cofreConsertado": false
   },
   "FAZENDA PUTEIRO DO DEATH 4": {
-    "idNumerico": null,
+    "idNumerico": "31",
     "nome": "Fazenda puteiro do Death 4",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -224,7 +224,7 @@
     "cofreConsertado": false
   },
   "4I20 HASH FARM'S": {
-    "idNumerico": null,
+    "idNumerico": "16",
     "nome": "4i20 HASH FARM'S",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -238,7 +238,7 @@
     "cofreConsertado": false
   },
   "PEEEEERFEITO!!!": {
-    "idNumerico": null,
+    "idNumerico": "10",
     "nome": "Peeeeerfeito!!!",
     "status": "DISPONIVEL",
     "disponivelEm": null,

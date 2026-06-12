@@ -10,15 +10,15 @@
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
     "status": "INDISPONIVEL",
-    "disponivelEm": "04:28|12/06/2026",
+    "disponivelEm": null,
     "cofreConsertado": true
   },
   "AWAKE COMPANY": {
     "idNumerico": "13",
     "nome": "AwaKe Company",
     "status": "INDISPONIVEL",
-    "disponivelEm": "10:23|12/06/2026",
-    "cofreConsertado": false
+    "disponivelEm": "10:29|12/06/2026",
+    "cofreConsertado": true
   },
   "ROCK FARM": {
     "idNumerico": "11",
@@ -59,15 +59,15 @@
     "idNumerico": "33",
     "nome": "Farma Da Familia Elite",
     "status": "INDISPONIVEL",
-    "disponivelEm": "04:31|12/06/2026",
+    "disponivelEm": null,
     "cofreConsertado": true
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {
-    "idNumerico": "37",
+    "idNumerico": null,
     "nome": "WELCOME > MELHOR FAZENDA DO BPS",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true
+    "cofreConsertado": false
   },
   "TA NO GRALI": {
     "idNumerico": null,
@@ -136,7 +136,7 @@
     "idNumerico": "8",
     "nome": "CANNABIS",
     "status": "INDISPONIVEL",
-    "disponivelEm": "10:23|12/06/2026",
+    "disponivelEm": "10:28|12/06/2026",
     "cofreConsertado": false
   },
   "AMO O LOWER": {

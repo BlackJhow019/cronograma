@@ -35,7 +35,7 @@
     "cofreConsertado": false
   },
   "KODIAK": {
-    "idNumerico": null,
+    "idNumerico": "3",
     "nome": "KodiaK",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -109,7 +109,7 @@
     "nome": "fazendinha do igeze",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:50|12/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
@@ -128,8 +128,8 @@
   "WESKER_U$METRALHA": {
     "idNumerico": null,
     "nome": "Wesker_u$MeTraLha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:45|12/06/2026",
     "cofreConsertado": false
   },
   "OS DE RACA": {

@@ -144,7 +144,7 @@
     "nome": "< GAUBRE LTDA >",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:50|12/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
@@ -161,7 +161,7 @@
     "cofreConsertado": false
   },
   "BEE": {
-    "idNumerico": null,
+    "idNumerico": "7",
     "nome": "BEE",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -191,9 +191,9 @@
   "AZEROX": {
     "idNumerico": null,
     "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:10|12/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "LOS SMITH'S": {
     "idNumerico": "44",
@@ -219,8 +219,8 @@
   "SANTINO EMPREENDIMENTOS LTDA": {
     "idNumerico": null,
     "nome": "SANTINO EMPREENDIMENTOS LTDA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:44|12/06/2026",
     "cofreConsertado": false
   },
   "4I20 HASH FARM'S": {
@@ -245,7 +245,7 @@
     "cofreConsertado": false
   },
   "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": null,
+    "idNumerico": "38",
     "nome": "Work Industria's Limited",
     "status": "DISPONIVEL",
     "disponivelEm": null,

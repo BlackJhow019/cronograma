@@ -1,9 +1,9 @@
 {
   "999": {
-    "idNumerico": "39",
+    "idNumerico": null,
     "nome": "999",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:45|13/06/2026",
     "cofreConsertado": false
   },
   "JESUS EA SOLUCAO": {
@@ -182,11 +182,11 @@
     "cofreConsertado": false
   },
   "FAZENDA DO GALIN": {
-    "idNumerico": null,
+    "idNumerico": "15",
     "nome": "Fazenda do Galin",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:09|13/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "~E V O M~": {
     "idNumerico": "25",

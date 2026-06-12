@@ -4,7 +4,7 @@
     "nome": "999",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:45|13/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
@@ -280,10 +280,10 @@
     "cofreConsertado": false
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
-    "idNumerico": "3",
+    "idNumerico": null,
     "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:51|13/06/2026",
     "cofreConsertado": false
   }
 }

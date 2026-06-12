@@ -28,11 +28,11 @@
     "cofreConsertado": false
   },
   "FAZENDINHA BETREZE 2": {
-    "idNumerico": null,
+    "idNumerico": "38",
     "nome": "Fazendinha BeTreZe 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:32|12/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "EVENTO": {
     "idNumerico": "12",
@@ -182,10 +182,10 @@
     "cofreConsertado": false
   },
   "FAZENDA DO GALIN": {
-    "idNumerico": "15",
+    "idNumerico": null,
     "nome": "Fazenda do Galin",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:09|13/06/2026",
     "cofreConsertado": false
   },
   "~E V O M~": {
@@ -268,9 +268,9 @@
   "RICK FARM'S": {
     "idNumerico": null,
     "nome": "Rick Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:41|12/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "GRUPO RANTER": {
     "idNumerico": "19",

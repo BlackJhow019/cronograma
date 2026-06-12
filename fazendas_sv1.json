@@ -107,8 +107,8 @@
   "FAZENDINHA DO IGEZE": {
     "idNumerico": null,
     "nome": "fazendinha do igeze",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:50|12/06/2026",
     "cofreConsertado": false
   },
   "FAMILIA KUSH": {
@@ -266,7 +266,7 @@
     "cofreConsertado": false
   },
   "K1NG FARM'S": {
-    "idNumerico": null,
+    "idNumerico": "25",
     "nome": "K1NG Farm's",
     "status": "DISPONIVEL",
     "disponivelEm": null,

@@ -14,7 +14,7 @@
     "cofreConsertado": false
   },
   "AWAKE COMPANY": {
-    "idNumerico": null,
+    "idNumerico": "13",
     "nome": "AwaKe Company",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -56,7 +56,7 @@
     "cofreConsertado": false
   },
   "FARMA DA FAMILIA ELITE": {
-    "idNumerico": null,
+    "idNumerico": "33",
     "nome": "Farma Da Familia Elite",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -86,8 +86,8 @@
   "B13 :)": {
     "idNumerico": null,
     "nome": "B13 :)",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:49|12/06/2026",
     "cofreConsertado": false
   },
   "FAZENDA DO MIRIM": {
@@ -126,7 +126,7 @@
     "cofreConsertado": false
   },
   "FARMS DE GALOPISITAS": {
-    "idNumerico": null,
+    "idNumerico": "20",
     "nome": "Farms de Galopisitas",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -154,7 +154,7 @@
     "cofreConsertado": false
   },
   "ARIANA_B13": {
-    "idNumerico": null,
+    "idNumerico": "10",
     "nome": "Ariana_B13",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -189,7 +189,7 @@
     "cofreConsertado": false
   },
   "~E V O M~": {
-    "idNumerico": null,
+    "idNumerico": "25",
     "nome": "~E V O M~",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -203,7 +203,7 @@
     "cofreConsertado": false
   },
   "QG FARM KHAOS": {
-    "idNumerico": null,
+    "idNumerico": "18",
     "nome": "QG FARM KHAOS",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -217,7 +217,7 @@
     "cofreConsertado": false
   },
   "FARM DA THATY": {
-    "idNumerico": null,
+    "idNumerico": "1",
     "nome": "Farm da Thaty",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -233,8 +233,8 @@
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:49|12/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "PROPRIEDADE FORSAKEN": {
@@ -270,6 +270,20 @@
     "nome": "Rick Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:41|12/06/2026",
+    "cofreConsertado": true
+  },
+  "GRUPO RANTER": {
+    "idNumerico": "19",
+    "nome": "GRUPO RANTER",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
+  },
+  "$ COMPANY $R.RC_PLINIODMG $": {
+    "idNumerico": "3",
+    "nome": "$ Company $r.RC_PlinioDmG $",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   }
 }

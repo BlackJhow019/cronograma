@@ -14,7 +14,7 @@
     "cofreConsertado": false
   },
   "AWAKE COMPANY": {
-    "idNumerico": null,
+    "idNumerico": "13",
     "nome": "AwaKe Company",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -63,7 +63,7 @@
     "cofreConsertado": false
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {
-    "idNumerico": null,
+    "idNumerico": "37",
     "nome": "WELCOME > MELHOR FAZENDA DO BPS",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -147,11 +147,11 @@
     "cofreConsertado": false
   },
   "SE ROUBAR MORRE": {
-    "idNumerico": "41",
+    "idNumerico": null,
     "nome": "SE ROUBAR MORRE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:56|13/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "ARIANA_B13": {
     "idNumerico": null,
@@ -193,14 +193,14 @@
     "nome": "~E V O M~",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:45|13/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FARM'S NAY E NICK": {
-    "idNumerico": "5",
+    "idNumerico": null,
     "nome": "FARM'S NAY E NICK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:55|13/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "QG FARM KHAOS": {
     "idNumerico": "18",
@@ -259,10 +259,10 @@
     "cofreConsertado": false
   },
   "SUCCUBUS FARMS": {
-    "idNumerico": "29",
+    "idNumerico": null,
     "nome": "Succubus Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:26|13/06/2026",
     "cofreConsertado": false
   },
   "RICK FARM'S": {

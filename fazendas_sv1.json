@@ -42,11 +42,11 @@
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
-    "idNumerico": null,
+    "idNumerico": "40",
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:06|13/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -77,14 +77,14 @@
     "cofreConsertado": false
   },
   "RAFHA INVESTIMENTOS $": {
-    "idNumerico": null,
+    "idNumerico": "26",
     "nome": "Rafha investimentos $",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
   "THUG LIFE": {
-    "idNumerico": null,
+    "idNumerico": "21",
     "nome": "THUG LIFE",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -105,7 +105,7 @@
     "cofreConsertado": false
   },
   "FAZENDINHA DO IGEZE": {
-    "idNumerico": null,
+    "idNumerico": "36",
     "nome": "fazendinha do igeze",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -161,10 +161,10 @@
     "cofreConsertado": false
   },
   "BEE": {
-    "idNumerico": "7",
+    "idNumerico": null,
     "nome": "BEE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:11|13/06/2026",
     "cofreConsertado": false
   },
   "FAZENDA DA MILLY": {
@@ -238,7 +238,7 @@
     "cofreConsertado": true
   },
   "PEEEEERFEITO!!!": {
-    "idNumerico": null,
+    "idNumerico": "10",
     "nome": "Peeeeerfeito!!!",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -266,10 +266,10 @@
     "cofreConsertado": false
   },
   "K1NG FARM'S": {
-    "idNumerico": "25",
+    "idNumerico": null,
     "nome": "K1NG Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:07|13/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   }
 }

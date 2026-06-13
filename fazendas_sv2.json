@@ -81,7 +81,7 @@
     "nome": "Elite Farms",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:35|13/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "B13 :)": {
     "idNumerico": "23",
@@ -140,14 +140,14 @@
     "cofreConsertado": false
   },
   "AMO O LOWER": {
-    "idNumerico": "2",
+    "idNumerico": null,
     "nome": "Amo o Lower",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:08|13/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "SE ROUBAR MORRE": {
-    "idNumerico": null,
+    "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -217,18 +217,18 @@
     "cofreConsertado": false
   },
   "FARM DA THATY": {
-    "idNumerico": "1",
+    "idNumerico": null,
     "nome": "Farm da Thaty",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:40|13/06/2026",
     "cofreConsertado": false
   },
   "FARM DO SAPATO": {
-    "idNumerico": null,
+    "idNumerico": "9",
     "nome": "FARM DO SAPATO",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:18|13/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FRANCA": {
     "idNumerico": null,
@@ -289,6 +289,13 @@
   "FAZENDA MAO DE VACA": {
     "idNumerico": "14",
     "nome": "Fazenda Mao de Vaca",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
+  },
+  "/VENDERPRODUTOS": {
+    "idNumerico": "7",
+    "nome": "/VENDERPRODUTOS",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false

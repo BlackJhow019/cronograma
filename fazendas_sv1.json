@@ -42,7 +42,7 @@
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
-    "idNumerico": null,
+    "idNumerico": "40",
     "nome": "GRUPO NEXUS",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -72,16 +72,16 @@
   "PT FARM'S": {
     "idNumerico": null,
     "nome": "PT farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:38|13/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": null,
     "nome": "Rafha investimentos $",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:12|13/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "THUG LIFE": {
     "idNumerico": "21",
@@ -98,7 +98,7 @@
     "cofreConsertado": false
   },
   "LEK0ZIKA": {
-    "idNumerico": null,
+    "idNumerico": "35",
     "nome": "Lek0zika",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -107,9 +107,9 @@
   "FAZENDINHA DO IGEZE": {
     "idNumerico": null,
     "nome": "fazendinha do igeze",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:12|13/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
@@ -161,10 +161,10 @@
     "cofreConsertado": false
   },
   "BEE": {
-    "idNumerico": null,
+    "idNumerico": "7",
     "nome": "BEE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:11|13/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FAZENDA DA MILLY": {
@@ -198,9 +198,9 @@
   "LOS SMITH'S": {
     "idNumerico": null,
     "nome": "Los SmiTh's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:29|13/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "ALCATRAZ INVESTIMENTOS LTDA": {
     "idNumerico": "6",
@@ -212,9 +212,9 @@
   "FAZENDA PUTEIRO DO DEATH 4": {
     "idNumerico": null,
     "nome": "Fazenda puteiro do Death 4",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:18|13/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "SANTINO EMPREENDIMENTOS LTDA": {
     "idNumerico": "32",
@@ -247,8 +247,8 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": null,
     "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:17|14/06/2026",
     "cofreConsertado": false
   },
   "U$METRALHA FARM'S": {

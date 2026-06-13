@@ -126,18 +126,18 @@
     "cofreConsertado": true
   },
   "FARMS DE GALOPISITAS": {
-    "idNumerico": "20",
+    "idNumerico": null,
     "nome": "Farms de Galopisitas",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:19|13/06/2026",
     "cofreConsertado": false
   },
   "CANNABIS": {
     "idNumerico": null,
     "nome": "CANNABIS",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true
+    "cofreConsertado": false
   },
   "AMO O LOWER": {
     "idNumerico": "2",

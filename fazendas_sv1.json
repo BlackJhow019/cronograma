@@ -14,7 +14,7 @@
     "cofreConsertado": false
   },
   "021": {
-    "idNumerico": null,
+    "idNumerico": "1",
     "nome": "021",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -72,8 +72,8 @@
   "PT FARM'S": {
     "idNumerico": null,
     "nome": "PT farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:38|13/06/2026",
     "cofreConsertado": false
   },
   "RAFHA INVESTIMENTOS $": {
@@ -200,7 +200,7 @@
     "nome": "Los SmiTh's",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:29|13/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "ALCATRAZ INVESTIMENTOS LTDA": {
     "idNumerico": "6",

@@ -189,7 +189,7 @@
     "cofreConsertado": false
   },
   "AZEROX": {
-    "idNumerico": null,
+    "idNumerico": "23",
     "nome": "AzeRoX",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -235,7 +235,7 @@
     "nome": "PRESO NAO FOGE",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:02|13/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "PEEEEERFEITO!!!": {
     "idNumerico": null,
@@ -245,10 +245,10 @@
     "cofreConsertado": false
   },
   "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": "38",
+    "idNumerico": null,
     "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:49|13/06/2026",
     "cofreConsertado": false
   },
   "U$METRALHA FARM'S": {

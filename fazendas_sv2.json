@@ -14,10 +14,10 @@
     "cofreConsertado": false
   },
   "AWAKE COMPANY": {
-    "idNumerico": "13",
+    "idNumerico": null,
     "nome": "AwaKe Company",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:21|13/06/2026",
     "cofreConsertado": false
   },
   "ROCK FARM": {
@@ -49,7 +49,7 @@
     "cofreConsertado": false
   },
   "LA FAMILIA CHIARADIA": {
-    "idNumerico": null,
+    "idNumerico": "43",
     "nome": "LA FAMILIA CHIARADIA",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -98,7 +98,7 @@
     "cofreConsertado": false
   },
   "FARM DO GALO": {
-    "idNumerico": null,
+    "idNumerico": "40",
     "nome": "FARM DO GALO",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -196,7 +196,7 @@
     "cofreConsertado": false
   },
   "FARM'S NAY E NICK": {
-    "idNumerico": null,
+    "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
     "status": "DISPONIVEL",
     "disponivelEm": null,

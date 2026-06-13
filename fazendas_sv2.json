@@ -16,8 +16,8 @@
   "AWAKE COMPANY": {
     "idNumerico": "13",
     "nome": "AwaKe Company",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:36|13/06/2026",
     "cofreConsertado": false
   },
   "ROCK FARM": {
@@ -37,8 +37,8 @@
   "EVENTO": {
     "idNumerico": "12",
     "nome": "EVENTO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:11|13/06/2026",
     "cofreConsertado": false
   },
   "FAZENDA DO TEMOR": {
@@ -51,8 +51,8 @@
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
     "nome": "LA FAMILIA CHIARADIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:16|13/06/2026",
     "cofreConsertado": false
   },
   "FARMA DA FAMILIA ELITE": {
@@ -72,9 +72,9 @@
   "TA NO GRALI": {
     "idNumerico": "4",
     "nome": "ta no grali",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:25|13/06/2026",
+    "cofreConsertado": true
   },
   "ELITE FARMS": {
     "idNumerico": "17",
@@ -84,32 +84,32 @@
     "cofreConsertado": false
   },
   "B13 :)": {
-    "idNumerico": null,
+    "idNumerico": "23",
     "nome": "B13 :)",
     "status": "INDISPONIVEL",
-    "disponivelEm": "20:49|12/06/2026",
-    "cofreConsertado": false
+    "disponivelEm": "03:35|13/06/2026",
+    "cofreConsertado": true
   },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:02|13/06/2026",
     "cofreConsertado": false
   },
   "FARM DO GALO": {
     "idNumerico": "40",
     "nome": "FARM DO GALO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:25|13/06/2026",
     "cofreConsertado": false
   },
   "MALVADA'S FARM": {
-    "idNumerico": null,
+    "idNumerico": "32",
     "nome": "Malvada's Farm",
     "status": "INDISPONIVEL",
-    "disponivelEm": "20:52|12/06/2026",
-    "cofreConsertado": true
+    "disponivelEm": "03:09|13/06/2026",
+    "cofreConsertado": false
   },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
@@ -119,11 +119,11 @@
     "cofreConsertado": false
   },
   "VALE DAS SOMBRAS": {
-    "idNumerico": null,
+    "idNumerico": "24",
     "nome": "Vale das Sombras",
     "status": "INDISPONIVEL",
-    "disponivelEm": "01:20|13/06/2026",
-    "cofreConsertado": false
+    "disponivelEm": "01:21|13/06/2026",
+    "cofreConsertado": true
   },
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
@@ -136,7 +136,7 @@
     "idNumerico": null,
     "nome": "CANNABIS",
     "status": "INDISPONIVEL",
-    "disponivelEm": "21:02|12/06/2026",
+    "disponivelEm": null,
     "cofreConsertado": true
   },
   "AMO O LOWER": {
@@ -149,15 +149,15 @@
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:56|13/06/2026",
+    "cofreConsertado": true
   },
   "ARIANA_B13": {
     "idNumerico": "10",
     "nome": "Ariana_B13",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:13|13/06/2026",
     "cofreConsertado": false
   },
   "FARME DO DRAKE": {
@@ -170,9 +170,9 @@
   "DEAD (:": {
     "idNumerico": "27",
     "nome": "Dead (:",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:36|13/06/2026",
+    "cofreConsertado": true
   },
   "DONA SEM RAZAO": {
     "idNumerico": "26",
@@ -191,16 +191,16 @@
   "~E V O M~": {
     "idNumerico": "25",
     "nome": "~E V O M~",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:21|13/06/2026",
+    "cofreConsertado": true
   },
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:55|13/06/2026",
+    "cofreConsertado": true
   },
   "QG FARM KHAOS": {
     "idNumerico": "18",
@@ -226,16 +226,16 @@
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:32|13/06/2026",
+    "cofreConsertado": true
   },
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:40|13/06/2026",
+    "cofreConsertado": true
   },
   "PROPRIEDADE FORSAKEN": {
     "idNumerico": "6",
@@ -254,8 +254,8 @@
   "AURA + EGO": {
     "idNumerico": "22",
     "nome": "Aura + Ego",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:11|13/06/2026",
     "cofreConsertado": false
   },
   "SUCCUBUS FARMS": {
@@ -275,9 +275,9 @@
   "GRUPO RANTER": {
     "idNumerico": "19",
     "nome": "GRUPO RANTER",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:41|13/06/2026",
+    "cofreConsertado": true
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",

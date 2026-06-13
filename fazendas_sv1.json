@@ -98,11 +98,11 @@
     "cofreConsertado": false
   },
   "LEK0ZIKA": {
-    "idNumerico": null,
+    "idNumerico": "35",
     "nome": "Lek0zika",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:56|13/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": null,
@@ -196,10 +196,10 @@
     "cofreConsertado": true
   },
   "LOS SMITH'S": {
-    "idNumerico": "44",
+    "idNumerico": null,
     "nome": "Los SmiTh's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:11|13/06/2026",
     "cofreConsertado": false
   },
   "ALCATRAZ INVESTIMENTOS LTDA": {

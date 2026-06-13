@@ -58,8 +58,8 @@
   "FAZENDINHA DO FIRE": {
     "idNumerico": null,
     "nome": "Fazendinha Do Fire",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:45|13/06/2026",
     "cofreConsertado": false
   },
   "RANCHO DO DOUTOR": {
@@ -98,11 +98,11 @@
     "cofreConsertado": false
   },
   "LEK0ZIKA": {
-    "idNumerico": "35",
+    "idNumerico": null,
     "nome": "Lek0zika",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:56|13/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": null,
@@ -112,7 +112,7 @@
     "cofreConsertado": false
   },
   "FAMILIA KUSH": {
-    "idNumerico": null,
+    "idNumerico": "34",
     "nome": "Familia KuSh",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -137,7 +137,7 @@
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:47|13/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "< GAUBRE LTDA >": {
     "idNumerico": null,
@@ -198,9 +198,9 @@
   "LOS SMITH'S": {
     "idNumerico": null,
     "nome": "Los SmiTh's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:11|13/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "ALCATRAZ INVESTIMENTOS LTDA": {
     "idNumerico": "6",

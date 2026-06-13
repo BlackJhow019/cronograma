@@ -14,10 +14,10 @@
     "cofreConsertado": false
   },
   "AWAKE COMPANY": {
-    "idNumerico": "13",
+    "idNumerico": null,
     "nome": "AwaKe Company",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:21|13/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "ROCK FARM": {
@@ -39,7 +39,7 @@
     "nome": "EVENTO",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:10|13/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
@@ -56,7 +56,7 @@
     "cofreConsertado": false
   },
   "FARMA DA FAMILIA ELITE": {
-    "idNumerico": null,
+    "idNumerico": "33",
     "nome": "Farma Da Familia Elite",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -94,7 +94,7 @@
     "idNumerico": null,
     "nome": "Fazenda Do MIRIM",
     "status": "INDISPONIVEL",
-    "disponivelEm": "17:26|13/06/2026",
+    "disponivelEm": "23:41|13/06/2026",
     "cofreConsertado": false
   },
   "FARM DO GALO": {
@@ -107,8 +107,8 @@
   "MALVADA'S FARM": {
     "idNumerico": null,
     "nome": "Malvada's Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:27|13/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "YELLOWSTONE - BY MONSTER": {
@@ -140,7 +140,7 @@
     "cofreConsertado": false
   },
   "AMO O LOWER": {
-    "idNumerico": null,
+    "idNumerico": "2",
     "nome": "Amo o Lower",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -266,7 +266,7 @@
     "cofreConsertado": false
   },
   "RICK FARM'S": {
-    "idNumerico": null,
+    "idNumerico": "34",
     "nome": "Rick Farm's",
     "status": "DISPONIVEL",
     "disponivelEm": null,

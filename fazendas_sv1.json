@@ -42,14 +42,14 @@
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
-    "idNumerico": "40",
+    "idNumerico": null,
     "nome": "GRUPO NEXUS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:06|13/06/2026",
     "cofreConsertado": false
   },
   "NIKE SHOX": {
-    "idNumerico": null,
+    "idNumerico": "42",
     "nome": "NIKE SHOX",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -79,8 +79,8 @@
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": null,
     "nome": "Rafha investimentos $",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:56|13/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "THUG LIFE": {

@@ -42,11 +42,11 @@
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
-    "idNumerico": "40",
+    "idNumerico": null,
     "nome": "GRUPO NEXUS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:06|13/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -58,9 +58,9 @@
   "FAZENDINHA DO FIRE": {
     "idNumerico": null,
     "nome": "Fazendinha Do Fire",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:45|13/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
@@ -214,7 +214,7 @@
     "nome": "Fazenda puteiro do Death 4",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:18|13/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "SANTINO EMPREENDIMENTOS LTDA": {
     "idNumerico": "32",
@@ -224,7 +224,7 @@
     "cofreConsertado": false
   },
   "4I20 HASH FARM'S": {
-    "idNumerico": null,
+    "idNumerico": "16",
     "nome": "4i20 HASH FARM'S",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -233,22 +233,22 @@
   "PRESO NAO FOGE": {
     "idNumerico": null,
     "nome": "PRESO NAO FOGE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:02|13/06/2026",
-    "cofreConsertado": true
-  },
-  "PEEEEERFEITO!!!": {
-    "idNumerico": "10",
-    "nome": "Peeeeerfeito!!!",
     "status": "DISPONIVEL",
     "disponivelEm": null,
+    "cofreConsertado": false
+  },
+  "PEEEEERFEITO!!!": {
+    "idNumerico": null,
+    "nome": "Peeeeerfeito!!!",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:29|13/06/2026",
     "cofreConsertado": false
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": null,
     "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:49|13/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "U$METRALHA FARM'S": {

@@ -46,7 +46,7 @@
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:35|13/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -58,8 +58,8 @@
   "FAZENDINHA DO FIRE": {
     "idNumerico": null,
     "nome": "Fazendinha Do Fire",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:01|13/06/2026",
     "cofreConsertado": false
   },
   "RANCHO DO DOUTOR": {
@@ -219,9 +219,9 @@
   "SANTINO EMPREENDIMENTOS LTDA": {
     "idNumerico": null,
     "nome": "SANTINO EMPREENDIMENTOS LTDA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:44|12/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "4I20 HASH FARM'S": {
     "idNumerico": "16",

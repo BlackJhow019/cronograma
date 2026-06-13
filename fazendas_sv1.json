@@ -1,9 +1,9 @@
 {
   "POLEMICO$ INDUSTRI$": {
-    "idNumerico": "37",
+    "idNumerico": null,
     "nome": "PoLeMiCo$ industri$",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:32|13/06/2026",
     "cofreConsertado": false
   },
   "RICO LOUCO": {
@@ -60,7 +60,7 @@
     "nome": "Fazendinha Do Fire",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:01|13/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
@@ -210,14 +210,14 @@
     "cofreConsertado": true
   },
   "FAZENDA PUTEIRO DO DEATH 4": {
-    "idNumerico": null,
+    "idNumerico": "31",
     "nome": "Fazenda puteiro do Death 4",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:48|12/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "SANTINO EMPREENDIMENTOS LTDA": {
-    "idNumerico": null,
+    "idNumerico": "32",
     "nome": "SANTINO EMPREENDIMENTOS LTDA",
     "status": "DISPONIVEL",
     "disponivelEm": null,

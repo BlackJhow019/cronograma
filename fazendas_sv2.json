@@ -130,7 +130,7 @@
     "nome": "Farms de Galopisitas",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:14|13/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "CANNABIS": {
     "idNumerico": "8",
@@ -140,10 +140,10 @@
     "cofreConsertado": false
   },
   "AMO O LOWER": {
-    "idNumerico": "2",
+    "idNumerico": null,
     "nome": "Amo o Lower",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:08|13/06/2026",
     "cofreConsertado": false
   },
   "SE ROUBAR MORRE": {
@@ -219,9 +219,9 @@
   "FARM DA THATY": {
     "idNumerico": null,
     "nome": "Farm da Thaty",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:55|13/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FARM DO SAPATO": {
     "idNumerico": null,

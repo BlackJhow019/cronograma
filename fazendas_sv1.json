@@ -58,9 +58,9 @@
   "FAZENDINHA DO FIRE": {
     "idNumerico": null,
     "nome": "Fazendinha Do Fire",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:01|13/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
@@ -268,8 +268,8 @@
   "K1NG FARM'S": {
     "idNumerico": null,
     "nome": "K1NG Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:07|13/06/2026",
     "cofreConsertado": false
   }
 }

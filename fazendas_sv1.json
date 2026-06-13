@@ -60,7 +60,7 @@
     "nome": "Fazendinha Do Fire",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:45|13/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
@@ -233,8 +233,8 @@
   "PRESO NAO FOGE": {
     "idNumerico": null,
     "nome": "PRESO NAO FOGE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:02|13/06/2026",
     "cofreConsertado": false
   },
   "PEEEEERFEITO!!!": {

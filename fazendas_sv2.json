@@ -42,7 +42,7 @@
     "cofreConsertado": false
   },
   "FAZENDA DO TEMOR": {
-    "idNumerico": null,
+    "idNumerico": "30",
     "nome": "Fazenda do Temor",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:25|15/06/2026",
@@ -84,7 +84,7 @@
     "cofreConsertado": false
   },
   "B13 :)": {
-    "idNumerico": null,
+    "idNumerico": "23",
     "nome": "B13 :)",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -231,10 +231,10 @@
     "cofreConsertado": false
   },
   "FRANCA": {
-    "idNumerico": "28",
+    "idNumerico": null,
     "nome": "FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:33|15/06/2026",
     "cofreConsertado": false
   },
   "PROPRIEDADE FORSAKEN": {

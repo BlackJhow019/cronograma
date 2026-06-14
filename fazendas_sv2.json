@@ -35,10 +35,10 @@
     "cofreConsertado": false
   },
   "EVENTO": {
-    "idNumerico": "12",
+    "idNumerico": null,
     "nome": "EVENTO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:11|15/06/2026",
     "cofreConsertado": false
   },
   "FAZENDA DO TEMOR": {
@@ -256,7 +256,7 @@
     "nome": "Aura + Ego",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:08|15/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "SUCCUBUS FARMS": {
     "idNumerico": null,

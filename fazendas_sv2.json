@@ -1,10 +1,10 @@
 {
   "999": {
-    "idNumerico": null,
+    "idNumerico": "39",
     "nome": "999",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:15|15/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
@@ -28,14 +28,14 @@
     "cofreConsertado": false
   },
   "FAZENDINHA BETREZE 2": {
-    "idNumerico": null,
+    "idNumerico": "38",
     "nome": "Fazendinha BeTreZe 2",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
   "EVENTO": {
-    "idNumerico": null,
+    "idNumerico": "12",
     "nome": "EVENTO",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -46,7 +46,7 @@
     "nome": "Fazenda do Temor",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:25|15/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
@@ -63,7 +63,7 @@
     "cofreConsertado": false
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {
-    "idNumerico": null,
+    "idNumerico": "37",
     "nome": "WELCOME > MELHOR FAZENDA DO BPS",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -126,7 +126,7 @@
     "cofreConsertado": false
   },
   "FARMS DE GALOPISITAS": {
-    "idNumerico": null,
+    "idNumerico": "20",
     "nome": "Farms de Galopisitas",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -231,11 +231,11 @@
     "cofreConsertado": false
   },
   "FRANCA": {
-    "idNumerico": null,
+    "idNumerico": "28",
     "nome": "FRANCA",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:33|15/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "PROPRIEDADE FORSAKEN": {
     "idNumerico": "6",
@@ -289,8 +289,8 @@
   "FAZENDA MAO DE VACA": {
     "idNumerico": null,
     "nome": "Fazenda Mao de Vaca",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:52|15/06/2026",
     "cofreConsertado": false
   },
   "/VENDERPRODUTOS": {

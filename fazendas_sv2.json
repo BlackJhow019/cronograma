@@ -14,7 +14,7 @@
     "cofreConsertado": true
   },
   "AWAKE COMPANY": {
-    "idNumerico": null,
+    "idNumerico": "13",
     "nome": "AwaKe Company",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -128,8 +128,8 @@
   "FARMS DE GALOPISITAS": {
     "idNumerico": null,
     "nome": "Farms de Galopisitas",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:57|14/06/2026",
     "cofreConsertado": false
   },
   "CANNABIS": {
@@ -263,7 +263,7 @@
     "nome": "Succubus Farms",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:17|14/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "RICK FARM'S": {
     "idNumerico": "34",

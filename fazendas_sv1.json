@@ -45,7 +45,7 @@
     "idNumerico": "22",
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
-    "disponivelEm": "04:24|14/06/2026",
+    "disponivelEm": "09:53|14/06/2026",
     "cofreConsertado": true
   },
   "NIKE SHOX": {
@@ -86,8 +86,8 @@
   "THUG LIFE": {
     "idNumerico": null,
     "nome": "THUG LIFE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:19|14/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "SAO PEDRO 2": {
@@ -168,7 +168,7 @@
     "cofreConsertado": false
   },
   "FAZENDA DA MILLY": {
-    "idNumerico": null,
+    "idNumerico": "19",
     "nome": "Fazenda da Milly",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:18|14/06/2026",
@@ -247,7 +247,7 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": null,
     "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
@@ -266,10 +266,10 @@
     "cofreConsertado": false
   },
   "K1NG FARM'S": {
-    "idNumerico": null,
+    "idNumerico": "25",
     "nome": "K1NG Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:34|14/06/2026",
+    "cofreConsertado": true
   }
 }

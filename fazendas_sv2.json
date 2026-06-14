@@ -93,8 +93,8 @@
   "FAZENDA DO MIRIM": {
     "idNumerico": null,
     "nome": "Fazenda Do MIRIM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:54|14/06/2026",
     "cofreConsertado": false
   },
   "FARM DO GALO": {
@@ -128,9 +128,9 @@
   "FARMS DE GALOPISITAS": {
     "idNumerico": null,
     "nome": "Farms de Galopisitas",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true
+    "cofreConsertado": false
   },
   "CANNABIS": {
     "idNumerico": "8",
@@ -304,7 +304,7 @@
     "idNumerico": null,
     "nome": "Fazenda Rei Drogado",
     "status": "INDISPONIVEL",
-    "disponivelEm": "04:54|14/06/2026",
+    "disponivelEm": null,
     "cofreConsertado": false
   }
 }

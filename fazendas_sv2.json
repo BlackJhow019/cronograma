@@ -7,11 +7,11 @@
     "cofreConsertado": false
   },
   "JESUS EA SOLUCAO": {
-    "idNumerico": null,
+    "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:35|14/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "AWAKE COMPANY": {
     "idNumerico": "13",
@@ -37,8 +37,8 @@
   "EVENTO": {
     "idNumerico": null,
     "nome": "EVENTO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:53|14/06/2026",
     "cofreConsertado": false
   },
   "FAZENDA DO TEMOR": {
@@ -149,9 +149,9 @@
   "SE ROUBAR MORRE": {
     "idNumerico": null,
     "nome": "SE ROUBAR MORRE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:46|14/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "ARIANA_B13": {
     "idNumerico": "10",
@@ -231,7 +231,7 @@
     "cofreConsertado": false
   },
   "FRANCA": {
-    "idNumerico": null,
+    "idNumerico": "28",
     "nome": "FRANCA",
     "status": "DISPONIVEL",
     "disponivelEm": null,

@@ -4,7 +4,7 @@
     "nome": "PoLeMiCo$ industri$",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:19|14/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "RICO LOUCO": {
     "idNumerico": null,
@@ -56,7 +56,7 @@
     "cofreConsertado": false
   },
   "FAZENDINHA DO FIRE": {
-    "idNumerico": null,
+    "idNumerico": "12",
     "nome": "Fazendinha Do Fire",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -168,10 +168,10 @@
     "cofreConsertado": false
   },
   "FAZENDA DA MILLY": {
-    "idNumerico": "19",
+    "idNumerico": null,
     "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:18|14/06/2026",
     "cofreConsertado": false
   },
   "HWD INVESTIMENTOS": {
@@ -248,7 +248,7 @@
     "idNumerico": null,
     "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
-    "disponivelEm": "02:17|14/06/2026",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "U$METRALHA FARM'S": {

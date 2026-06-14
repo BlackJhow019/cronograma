@@ -42,10 +42,10 @@
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
-    "idNumerico": "40",
+    "idNumerico": null,
     "nome": "GRUPO NEXUS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:24|14/06/2026",
     "cofreConsertado": false
   },
   "NIKE SHOX": {
@@ -70,7 +70,7 @@
     "cofreConsertado": false
   },
   "PT FARM'S": {
-    "idNumerico": null,
+    "idNumerico": "13",
     "nome": "PT farm's",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -231,18 +231,18 @@
     "cofreConsertado": false
   },
   "PRESO NAO FOGE": {
-    "idNumerico": null,
+    "idNumerico": "15",
     "nome": "PRESO NAO FOGE",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
   "PEEEEERFEITO!!!": {
-    "idNumerico": null,
+    "idNumerico": "10",
     "nome": "Peeeeerfeito!!!",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:29|13/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": null,

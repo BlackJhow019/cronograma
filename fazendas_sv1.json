@@ -14,10 +14,10 @@
     "cofreConsertado": false
   },
   "021": {
-    "idNumerico": "1",
+    "idNumerico": null,
     "nome": "021",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:35|14/06/2026",
     "cofreConsertado": false
   },
   "PLANTACAO DE MARIHUANA": {
@@ -200,7 +200,7 @@
     "nome": "Los SmiTh's",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:28|14/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "ALCATRAZ INVESTIMENTOS LTDA": {
     "idNumerico": "6",

@@ -1,13 +1,13 @@
 {
   "POLEMICO$ INDUSTRI$": {
-    "idNumerico": null,
+    "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
   "RICO LOUCO": {
-    "idNumerico": null,
+    "idNumerico": "11",
     "nome": "rico louco",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -37,9 +37,9 @@
   "KODIAK": {
     "idNumerico": null,
     "nome": "KodiaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:15|14/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "GRUPO NEXUS": {
     "idNumerico": "39",
@@ -53,7 +53,7 @@
     "nome": "NIKE SHOX",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:19|14/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAZENDINHA DO FIRE": {
     "idNumerico": "12",
@@ -105,7 +105,7 @@
     "cofreConsertado": false
   },
   "FAZENDINHA DO IGEZE": {
-    "idNumerico": null,
+    "idNumerico": "36",
     "nome": "fazendinha do igeze",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -142,8 +142,8 @@
   "< GAUBRE LTDA >": {
     "idNumerico": null,
     "nome": "< GAUBRE LTDA >",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:16|14/06/2026",
     "cofreConsertado": false
   },
   "VENDO 500KM ACEITO TROCAS": {
@@ -168,7 +168,7 @@
     "cofreConsertado": false
   },
   "FAZENDA DA MILLY": {
-    "idNumerico": null,
+    "idNumerico": "19",
     "nome": "Fazenda da Milly",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -245,7 +245,7 @@
     "cofreConsertado": false
   },
   "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": null,
+    "idNumerico": "38",
     "nome": "Work Industria's Limited",
     "status": "DISPONIVEL",
     "disponivelEm": null,

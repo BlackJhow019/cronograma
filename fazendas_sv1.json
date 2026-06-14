@@ -14,7 +14,7 @@
     "cofreConsertado": false
   },
   "021": {
-    "idNumerico": null,
+    "idNumerico": "1",
     "nome": "021",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:35|14/06/2026",
@@ -35,25 +35,25 @@
     "cofreConsertado": false
   },
   "KODIAK": {
-    "idNumerico": null,
+    "idNumerico": "3",
     "nome": "KodiaK",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
-    "idNumerico": null,
+    "idNumerico": "30",
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:04|14/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "NIKE SHOX": {
     "idNumerico": null,
     "nome": "NIKE SHOX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:19|14/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FAZENDINHA DO FIRE": {
     "idNumerico": "12",
@@ -70,10 +70,10 @@
     "cofreConsertado": false
   },
   "PT FARM'S": {
-    "idNumerico": "13",
+    "idNumerico": null,
     "nome": "PT farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:22|15/06/2026",
     "cofreConsertado": false
   },
   "RAFHA INVESTIMENTOS $": {
@@ -133,7 +133,7 @@
     "cofreConsertado": true
   },
   "OS DE RACA": {
-    "idNumerico": null,
+    "idNumerico": "0",
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:07|14/06/2026",
@@ -196,7 +196,7 @@
     "cofreConsertado": false
   },
   "LOS SMITH'S": {
-    "idNumerico": null,
+    "idNumerico": "44",
     "nome": "Los SmiTh's",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:28|14/06/2026",

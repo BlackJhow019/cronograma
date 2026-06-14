@@ -18,7 +18,7 @@
     "nome": "021",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:35|14/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "PLANTACAO DE MARIHUANA": {
     "idNumerico": "5",
@@ -42,10 +42,10 @@
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
-    "idNumerico": "39",
+    "idNumerico": null,
     "nome": "GRUPO NEXUS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:04|14/06/2026",
     "cofreConsertado": false
   },
   "NIKE SHOX": {

@@ -1,9 +1,9 @@
 {
   "999": {
-    "idNumerico": "39",
+    "idNumerico": null,
     "nome": "999",
     "status": "INDISPONIVEL",
-    "disponivelEm": "09:51|14/06/2026",
+    "disponivelEm": "00:15|15/06/2026",
     "cofreConsertado": false
   },
   "JESUS EA SOLUCAO": {
@@ -14,10 +14,10 @@
     "cofreConsertado": false
   },
   "AWAKE COMPANY": {
-    "idNumerico": "13",
+    "idNumerico": null,
     "nome": "AwaKe Company",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:16|14/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "ROCK FARM": {
@@ -30,22 +30,22 @@
   "FAZENDINHA BETREZE 2": {
     "idNumerico": null,
     "nome": "Fazendinha BeTreZe 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:38|14/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "EVENTO": {
-    "idNumerico": "12",
+    "idNumerico": null,
     "nome": "EVENTO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:26|14/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FAZENDA DO TEMOR": {
-    "idNumerico": "30",
+    "idNumerico": null,
     "nome": "Fazenda do Temor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:55|14/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "LA FAMILIA CHIARADIA": {
@@ -84,17 +84,17 @@
     "cofreConsertado": false
   },
   "B13 :)": {
-    "idNumerico": "23",
+    "idNumerico": null,
     "nome": "B13 :)",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:12|14/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FAZENDA DO MIRIM": {
-    "idNumerico": null,
+    "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:54|14/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FARM DO GALO": {
@@ -147,10 +147,10 @@
     "cofreConsertado": false
   },
   "SE ROUBAR MORRE": {
-    "idNumerico": "41",
+    "idNumerico": null,
     "nome": "SE ROUBAR MORRE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:19|14/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "ARIANA_B13": {
@@ -161,10 +161,10 @@
     "cofreConsertado": false
   },
   "FARME DO DRAKE": {
-    "idNumerico": "35",
+    "idNumerico": null,
     "nome": "Farme do Drake",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:22|14/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "DEAD (:": {
@@ -254,8 +254,8 @@
   "AURA + EGO": {
     "idNumerico": null,
     "nome": "Aura + Ego",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:18|14/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "SUCCUBUS FARMS": {
@@ -268,8 +268,8 @@
   "RICK FARM'S": {
     "idNumerico": null,
     "nome": "Rick Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:10|14/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "GRUPO RANTER": {
@@ -289,8 +289,8 @@
   "FAZENDA MAO DE VACA": {
     "idNumerico": null,
     "nome": "Fazenda Mao de Vaca",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:31|14/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "/VENDERPRODUTOS": {
@@ -303,7 +303,7 @@
   "FAZENDA REI DROGADO": {
     "idNumerico": null,
     "nome": "Fazenda Rei Drogado",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   }

@@ -38,7 +38,7 @@
     "idNumerico": "42",
     "nome": "EVENTO",
     "status": "INDISPONIVEL",
-    "disponivelEm": "23:10|13/06/2026",
+    "disponivelEm": null,
     "cofreConsertado": true
   },
   "FAZENDA DO TEMOR": {
@@ -266,10 +266,10 @@
     "cofreConsertado": true
   },
   "RICK FARM'S": {
-    "idNumerico": "34",
+    "idNumerico": null,
     "nome": "Rick Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:10|14/06/2026",
     "cofreConsertado": false
   },
   "GRUPO RANTER": {

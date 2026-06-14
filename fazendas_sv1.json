@@ -2,8 +2,8 @@
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": null,
     "nome": "PoLeMiCo$ industri$",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:19|14/06/2026",
     "cofreConsertado": false
   },
   "RICO LOUCO": {
@@ -137,7 +137,7 @@
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:08|14/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "< GAUBRE LTDA >": {
     "idNumerico": null,

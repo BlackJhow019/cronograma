@@ -158,7 +158,7 @@
     "nome": "Clube da Luluzinha",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:19|15/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "BEE": {
     "idNumerico": "7",
@@ -217,10 +217,10 @@
     "cofreConsertado": false
   },
   "SANTINO EMPREENDIMENTOS LTDA": {
-    "idNumerico": "32",
+    "idNumerico": null,
     "nome": "SANTINO EMPREENDIMENTOS LTDA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:12|15/06/2026",
     "cofreConsertado": false
   },
   "4I20 HASH FARM'S": {

@@ -35,7 +35,7 @@
     "cofreConsertado": false
   },
   "EVENTO": {
-    "idNumerico": null,
+    "idNumerico": "42",
     "nome": "EVENTO",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:14|15/06/2026",
@@ -77,17 +77,17 @@
     "cofreConsertado": false
   },
   "ELITE FARMS": {
-    "idNumerico": null,
+    "idNumerico": "17",
     "nome": "Elite Farms",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:36|15/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "B13 :)": {
-    "idNumerico": "23",
+    "idNumerico": null,
     "nome": "B13 :)",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:07|15/06/2026",
     "cofreConsertado": false
   },
   "FAZENDA DO MIRIM": {
@@ -301,7 +301,7 @@
     "cofreConsertado": false
   },
   "FAZENDA REI DROGADO": {
-    "idNumerico": null,
+    "idNumerico": "31",
     "nome": "Fazenda Rei Drogado",
     "status": "DISPONIVEL",
     "disponivelEm": null,

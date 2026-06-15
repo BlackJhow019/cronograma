@@ -46,7 +46,7 @@
     "nome": "Fazenda do Temor",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:27|15/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": null,
@@ -203,10 +203,10 @@
     "cofreConsertado": false
   },
   "QG FARM KHAOS": {
-    "idNumerico": "18",
+    "idNumerico": null,
     "nome": "QG FARM KHAOS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:45|15/06/2026",
     "cofreConsertado": false
   },
   "RAMONZIN_FRANCA": {

@@ -154,10 +154,10 @@
     "cofreConsertado": false
   },
   "ARIANA_B13": {
-    "idNumerico": "10",
+    "idNumerico": null,
     "nome": "Ariana_B13",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:30|15/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FARME DO DRAKE": {
@@ -233,8 +233,8 @@
   "FRANCA": {
     "idNumerico": null,
     "nome": "FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:16|15/06/2026",
     "cofreConsertado": false
   },
   "PROPRIEDADE FORSAKEN": {

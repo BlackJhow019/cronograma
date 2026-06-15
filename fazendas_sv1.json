@@ -16,9 +16,9 @@
   "021": {
     "idNumerico": "1",
     "nome": "021",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true
+    "cofreConsertado": false
   },
   "PLANTACAO DE MARIHUANA": {
     "idNumerico": "5",
@@ -133,7 +133,7 @@
     "cofreConsertado": false
   },
   "OS DE RACA": {
-    "idNumerico": null,
+    "idNumerico": "0",
     "nome": "OS DE RACA",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -196,7 +196,7 @@
     "cofreConsertado": false
   },
   "LOS SMITH'S": {
-    "idNumerico": null,
+    "idNumerico": "44",
     "nome": "Los SmiTh's",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -231,10 +231,10 @@
     "cofreConsertado": false
   },
   "PRESO NAO FOGE": {
-    "idNumerico": "15",
+    "idNumerico": null,
     "nome": "PRESO NAO FOGE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:21|15/06/2026",
     "cofreConsertado": false
   },
   "PEEEEERFEITO!!!": {

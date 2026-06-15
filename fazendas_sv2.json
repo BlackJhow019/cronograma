@@ -39,7 +39,7 @@
     "nome": "EVENTO",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:14|15/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAZENDA DO TEMOR": {
     "idNumerico": null,
@@ -98,10 +98,10 @@
     "cofreConsertado": false
   },
   "FARM DO GALO": {
-    "idNumerico": "40",
+    "idNumerico": null,
     "nome": "FARM DO GALO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:24|15/06/2026",
     "cofreConsertado": false
   },
   "MALVADA'S FARM": {
@@ -196,7 +196,7 @@
     "cofreConsertado": false
   },
   "FARM'S NAY E NICK": {
-    "idNumerico": null,
+    "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
     "status": "DISPONIVEL",
     "disponivelEm": null,

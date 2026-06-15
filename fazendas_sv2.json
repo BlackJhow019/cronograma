@@ -49,7 +49,7 @@
     "cofreConsertado": true
   },
   "LA FAMILIA CHIARADIA": {
-    "idNumerico": null,
+    "idNumerico": "43",
     "nome": "LA FAMILIA CHIARADIA",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -254,8 +254,8 @@
   "AURA + EGO": {
     "idNumerico": null,
     "nome": "Aura + Ego",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:38|15/06/2026",
     "cofreConsertado": false
   },
   "SUCCUBUS FARMS": {

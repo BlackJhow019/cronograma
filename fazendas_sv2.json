@@ -207,7 +207,7 @@
     "nome": "QG FARM KHAOS",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:47|15/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",
@@ -224,10 +224,10 @@
     "cofreConsertado": false
   },
   "FARM DO SAPATO": {
-    "idNumerico": "9",
+    "idNumerico": null,
     "nome": "FARM DO SAPATO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:55|15/06/2026",
     "cofreConsertado": false
   },
   "FRANCA": {

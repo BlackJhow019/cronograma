@@ -42,7 +42,7 @@
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
-    "idNumerico": null,
+    "idNumerico": "40",
     "nome": "GRUPO NEXUS",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -74,7 +74,7 @@
     "nome": "PT farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:37|15/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": null,
@@ -154,10 +154,10 @@
     "cofreConsertado": false
   },
   "CLUBE DA LULUZINHA": {
-    "idNumerico": "8",
+    "idNumerico": null,
     "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:19|15/06/2026",
     "cofreConsertado": false
   },
   "BEE": {

@@ -4,7 +4,7 @@
     "nome": "999",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:30|15/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "JESUS EA SOLUCAO": {
     "idNumerico": null,
@@ -77,10 +77,10 @@
     "cofreConsertado": false
   },
   "ELITE FARMS": {
-    "idNumerico": "17",
+    "idNumerico": null,
     "nome": "Elite Farms",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:20|15/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "B13 :)": {
@@ -105,14 +105,14 @@
     "cofreConsertado": false
   },
   "MALVADA'S FARM": {
-    "idNumerico": "32",
+    "idNumerico": null,
     "nome": "Malvada's Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:34|15/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "YELLOWSTONE - BY MONSTER": {
-    "idNumerico": null,
+    "idNumerico": "16",
     "nome": "YellowStone - By Monster",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -126,11 +126,11 @@
     "cofreConsertado": false
   },
   "FARMS DE GALOPISITAS": {
-    "idNumerico": "20",
+    "idNumerico": null,
     "nome": "Farms de Galopisitas",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:02|15/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "CANNABIS": {
     "idNumerico": "8",
@@ -154,18 +154,18 @@
     "cofreConsertado": true
   },
   "ARIANA_B13": {
-    "idNumerico": "10",
+    "idNumerico": null,
     "nome": "Ariana_B13",
     "status": "INDISPONIVEL",
-    "disponivelEm": "03:10|15/06/2026",
-    "cofreConsertado": true
+    "disponivelEm": "10:30|15/06/2026",
+    "cofreConsertado": false
   },
   "FARME DO DRAKE": {
-    "idNumerico": "35",
+    "idNumerico": null,
     "nome": "Farme do Drake",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:01|15/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "DEAD (:": {
     "idNumerico": "27",
@@ -182,11 +182,11 @@
     "cofreConsertado": false
   },
   "FAZENDA DO GALIN": {
-    "idNumerico": "15",
+    "idNumerico": null,
     "nome": "Fazenda do Galin",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:59|15/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "~E V O M~": {
     "idNumerico": "25",
@@ -210,7 +210,7 @@
     "cofreConsertado": false
   },
   "RAMONZIN_FRANCA": {
-    "idNumerico": null,
+    "idNumerico": "21",
     "nome": "RAMONZIN_FRANCA",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -266,10 +266,10 @@
     "cofreConsertado": false
   },
   "RICK FARM'S": {
-    "idNumerico": "34",
+    "idNumerico": null,
     "nome": "Rick Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:11|15/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "GRUPO RANTER": {

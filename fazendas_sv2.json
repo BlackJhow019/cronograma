@@ -158,7 +158,7 @@
     "nome": "Ariana_B13",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:56|15/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FARME DO DRAKE": {
     "idNumerico": "35",
@@ -294,10 +294,10 @@
     "cofreConsertado": false
   },
   "/VENDERPRODUTOS": {
-    "idNumerico": "7",
+    "idNumerico": null,
     "nome": "/VENDERPRODUTOS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:02|15/06/2026",
     "cofreConsertado": false
   },
   "FAZENDA REI DROGADO": {

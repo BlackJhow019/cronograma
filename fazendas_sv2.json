@@ -151,7 +151,7 @@
     "nome": "SE ROUBAR MORRE",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:23|15/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "ARIANA_B13": {
     "idNumerico": "10",
@@ -231,11 +231,11 @@
     "cofreConsertado": false
   },
   "FRANCA": {
-    "idNumerico": "28",
+    "idNumerico": null,
     "nome": "FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:33|15/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "PROPRIEDADE FORSAKEN": {
     "idNumerico": "6",
@@ -280,10 +280,10 @@
     "cofreConsertado": false
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
-    "idNumerico": "3",
+    "idNumerico": null,
     "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:45|15/06/2026",
     "cofreConsertado": false
   },
   "FAZENDA MAO DE VACA": {

@@ -1,10 +1,10 @@
 {
   "999": {
-    "idNumerico": "39",
+    "idNumerico": null,
     "nome": "999",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:15|15/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
@@ -149,8 +149,8 @@
   "SE ROUBAR MORRE": {
     "idNumerico": null,
     "nome": "SE ROUBAR MORRE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:23|15/06/2026",
     "cofreConsertado": false
   },
   "ARIANA_B13": {

@@ -44,9 +44,9 @@
   "FAZENDA DO TEMOR": {
     "idNumerico": null,
     "nome": "Fazenda do Temor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:27|15/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
@@ -56,7 +56,7 @@
     "cofreConsertado": false
   },
   "FARMA DA FAMILIA ELITE": {
-    "idNumerico": null,
+    "idNumerico": "33",
     "nome": "Farma Da Familia Elite",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:01|15/06/2026",
@@ -140,7 +140,7 @@
     "cofreConsertado": false
   },
   "AMO O LOWER": {
-    "idNumerico": null,
+    "idNumerico": "2",
     "nome": "Amo o Lower",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -182,7 +182,7 @@
     "cofreConsertado": false
   },
   "FAZENDA DO GALIN": {
-    "idNumerico": null,
+    "idNumerico": "15",
     "nome": "Fazenda do Galin",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:09|15/06/2026",
@@ -203,10 +203,10 @@
     "cofreConsertado": false
   },
   "QG FARM KHAOS": {
-    "idNumerico": "18",
+    "idNumerico": null,
     "nome": "QG FARM KHAOS",
     "status": "INDISPONIVEL",
-    "disponivelEm": "17:45|15/06/2026",
+    "disponivelEm": "23:47|15/06/2026",
     "cofreConsertado": false
   },
   "RAMONZIN_FRANCA": {
@@ -231,11 +231,11 @@
     "cofreConsertado": false
   },
   "FRANCA": {
-    "idNumerico": "28",
+    "idNumerico": null,
     "nome": "FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:16|15/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "PROPRIEDADE FORSAKEN": {
     "idNumerico": "6",
@@ -252,11 +252,11 @@
     "cofreConsertado": false
   },
   "AURA + EGO": {
-    "idNumerico": null,
+    "idNumerico": "22",
     "nome": "Aura + Ego",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:38|15/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "SUCCUBUS FARMS": {
     "idNumerico": null,

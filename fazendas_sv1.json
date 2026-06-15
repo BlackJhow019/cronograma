@@ -77,10 +77,10 @@
     "cofreConsertado": false
   },
   "RAFHA INVESTIMENTOS $": {
-    "idNumerico": "26",
+    "idNumerico": null,
     "nome": "Rafha investimentos $",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:11|16/06/2026",
     "cofreConsertado": false
   },
   "THUG LIFE": {
@@ -105,7 +105,7 @@
     "cofreConsertado": false
   },
   "FAZENDINHA DO IGEZE": {
-    "idNumerico": null,
+    "idNumerico": "36",
     "nome": "fazendinha do igeze",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -119,7 +119,7 @@
     "cofreConsertado": false
   },
   "BORRACHAS FARM": {
-    "idNumerico": null,
+    "idNumerico": "33",
     "nome": "Borrachas Farm",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -189,7 +189,7 @@
     "cofreConsertado": false
   },
   "AZEROX": {
-    "idNumerico": null,
+    "idNumerico": "23",
     "nome": "AzeRoX",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:37|15/06/2026",
@@ -212,15 +212,15 @@
   "FAZENDA PUTEIRO DO DEATH 4": {
     "idNumerico": null,
     "nome": "Fazenda puteiro do Death 4",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:13|15/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "SANTINO EMPREENDIMENTOS LTDA": {
     "idNumerico": null,
     "nome": "SANTINO EMPREENDIMENTOS LTDA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:12|15/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "4I20 HASH FARM'S": {

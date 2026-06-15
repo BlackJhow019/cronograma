@@ -60,7 +60,7 @@
     "nome": "Fazendinha Do Fire",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:39|15/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
@@ -72,8 +72,8 @@
   "PT FARM'S": {
     "idNumerico": null,
     "nome": "PT farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:22|15/06/2026",
     "cofreConsertado": false
   },
   "RAFHA INVESTIMENTOS $": {
@@ -154,11 +154,11 @@
     "cofreConsertado": false
   },
   "CLUBE DA LULUZINHA": {
-    "idNumerico": "8",
+    "idNumerico": null,
     "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:19|15/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "BEE": {
     "idNumerico": "7",

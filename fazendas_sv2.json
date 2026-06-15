@@ -2,19 +2,19 @@
   "999": {
     "idNumerico": null,
     "nome": "999",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:30|15/06/2026",
+    "cofreConsertado": false
+  },
+  "JESUS EA SOLUCAO": {
+    "idNumerico": null,
+    "nome": "JESUS EA SOLUCAO",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
-  "JESUS EA SOLUCAO": {
-    "idNumerico": "0",
-    "nome": "JESUS EA SOLUCAO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:28|15/06/2026",
-    "cofreConsertado": false
-  },
   "AWAKE COMPANY": {
-    "idNumerico": null,
+    "idNumerico": "13",
     "nome": "AwaKe Company",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -35,18 +35,18 @@
     "cofreConsertado": false
   },
   "EVENTO": {
-    "idNumerico": "12",
+    "idNumerico": null,
     "nome": "EVENTO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:28|15/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FAZENDA DO TEMOR": {
-    "idNumerico": "30",
+    "idNumerico": null,
     "nome": "Fazenda do Temor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:26|15/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
@@ -56,10 +56,10 @@
     "cofreConsertado": false
   },
   "FARMA DA FAMILIA ELITE": {
-    "idNumerico": "33",
+    "idNumerico": null,
     "nome": "Farma Da Familia Elite",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:03|15/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {
@@ -91,11 +91,11 @@
     "cofreConsertado": false
   },
   "FAZENDA DO MIRIM": {
-    "idNumerico": "36",
+    "idNumerico": null,
     "nome": "Fazenda Do MIRIM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:27|15/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FARM DO GALO": {
     "idNumerico": "40",
@@ -112,10 +112,10 @@
     "cofreConsertado": true
   },
   "YELLOWSTONE - BY MONSTER": {
-    "idNumerico": "16",
+    "idNumerico": null,
     "nome": "YellowStone - By Monster",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:26|15/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "VALE DAS SOMBRAS": {
@@ -144,7 +144,7 @@
     "nome": "Amo o Lower",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:47|15/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "SE ROUBAR MORRE": {
     "idNumerico": null,
@@ -210,18 +210,18 @@
     "cofreConsertado": false
   },
   "RAMONZIN_FRANCA": {
-    "idNumerico": "21",
+    "idNumerico": null,
     "nome": "RAMONZIN_FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:25|15/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FARM DA THATY": {
-    "idNumerico": "1",
+    "idNumerico": null,
     "nome": "Farm da Thaty",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:27|15/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FARM DO SAPATO": {
     "idNumerico": "9",
@@ -252,11 +252,11 @@
     "cofreConsertado": false
   },
   "AURA + EGO": {
-    "idNumerico": "22",
+    "idNumerico": null,
     "nome": "Aura + Ego",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:28|15/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "SUCCUBUS FARMS": {
     "idNumerico": null,
@@ -284,13 +284,13 @@
     "nome": "$ Company $r.RC_PlinioDmG $",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:45|15/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAZENDA MAO DE VACA": {
-    "idNumerico": "14",
+    "idNumerico": null,
     "nome": "Fazenda Mao de Vaca",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:27|15/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "/VENDERPRODUTOS": {

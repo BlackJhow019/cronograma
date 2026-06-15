@@ -88,7 +88,7 @@
     "nome": "B13 :)",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:07|15/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
@@ -156,12 +156,12 @@
   "ARIANA_B13": {
     "idNumerico": null,
     "nome": "Ariana_B13",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:56|15/06/2026",
     "cofreConsertado": false
   },
   "FARME DO DRAKE": {
-    "idNumerico": null,
+    "idNumerico": "35",
     "nome": "Farme do Drake",
     "status": "DISPONIVEL",
     "disponivelEm": null,

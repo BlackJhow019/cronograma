@@ -17,7 +17,7 @@
     "idNumerico": "1",
     "nome": "021",
     "status": "INDISPONIVEL",
-    "disponivelEm": "21:35|14/06/2026",
+    "disponivelEm": null,
     "cofreConsertado": true
   },
   "PLANTACAO DE MARIHUANA": {
@@ -133,10 +133,10 @@
     "cofreConsertado": false
   },
   "OS DE RACA": {
-    "idNumerico": "0",
+    "idNumerico": null,
     "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:07|14/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "< GAUBRE LTDA >": {
@@ -196,11 +196,11 @@
     "cofreConsertado": false
   },
   "LOS SMITH'S": {
-    "idNumerico": "44",
+    "idNumerico": null,
     "nome": "Los SmiTh's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:28|14/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "ALCATRAZ INVESTIMENTOS LTDA": {
     "idNumerico": "6",
@@ -240,8 +240,8 @@
   "PEEEEERFEITO!!!": {
     "idNumerico": "10",
     "nome": "Peeeeerfeito!!!",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:09|15/06/2026",
     "cofreConsertado": false
   },
   "WORK INDUSTRIA'S LIMITED": {

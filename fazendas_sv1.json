@@ -42,10 +42,10 @@
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
-    "idNumerico": "40",
+    "idNumerico": null,
     "nome": "GRUPO NEXUS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:44|15/06/2026",
     "cofreConsertado": false
   },
   "NIKE SHOX": {
@@ -108,7 +108,7 @@
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
     "status": "INDISPONIVEL",
-    "disponivelEm": "13:44|15/06/2026",
+    "disponivelEm": null,
     "cofreConsertado": true
   },
   "FAMILIA KUSH": {
@@ -193,7 +193,7 @@
     "nome": "AzeRoX",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:37|15/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "LOS SMITH'S": {
     "idNumerico": "44",

@@ -35,7 +35,7 @@
     "cofreConsertado": false
   },
   "EVENTO": {
-    "idNumerico": null,
+    "idNumerico": "12",
     "nome": "EVENTO",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:13|16/06/2026",
@@ -79,12 +79,12 @@
   "ELITE FARMS": {
     "idNumerico": null,
     "nome": "Elite Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:35|16/06/2026",
     "cofreConsertado": false
   },
   "B13 :)": {
-    "idNumerico": null,
+    "idNumerico": "23",
     "nome": "B13 :)",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -121,8 +121,8 @@
   "VALE DAS SOMBRAS": {
     "idNumerico": null,
     "nome": "Vale das Sombras",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:16|16/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FARMS DE GALOPISITAS": {
@@ -149,8 +149,8 @@
   "SE ROUBAR MORRE": {
     "idNumerico": null,
     "nome": "SE ROUBAR MORRE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:33|16/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "ARIANA_B13": {
@@ -224,7 +224,7 @@
     "cofreConsertado": false
   },
   "FARM DO SAPATO": {
-    "idNumerico": null,
+    "idNumerico": "9",
     "nome": "FARM DO SAPATO",
     "status": "DISPONIVEL",
     "disponivelEm": null,

@@ -58,8 +58,8 @@
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": null,
     "nome": "Farma Da Familia Elite",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:20|17/06/2026",
     "cofreConsertado": false
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {
@@ -119,11 +119,11 @@
     "cofreConsertado": false
   },
   "VALE DAS SOMBRAS": {
-    "idNumerico": "24",
+    "idNumerico": null,
     "nome": "Vale das Sombras",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:11|16/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
@@ -245,11 +245,11 @@
     "cofreConsertado": false
   },
   "CHAMA A POLICIA": {
-    "idNumerico": null,
+    "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:56|16/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "AURA + EGO": {
     "idNumerico": null,

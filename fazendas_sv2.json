@@ -93,8 +93,8 @@
   "FAZENDA DO MIRIM": {
     "idNumerico": null,
     "nome": "Fazenda Do MIRIM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:09|16/06/2026",
     "cofreConsertado": false
   },
   "FARM DO GALO": {
@@ -263,7 +263,7 @@
     "nome": "Succubus Farms",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:55|16/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "RICK FARM'S": {
     "idNumerico": "34",

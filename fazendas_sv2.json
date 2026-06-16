@@ -11,7 +11,7 @@
     "nome": "JESUS EA SOLUCAO",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:05|17/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "AWAKE COMPANY": {
     "idNumerico": "13",
@@ -28,18 +28,18 @@
     "cofreConsertado": false
   },
   "FAZENDINHA BETREZE 2": {
-    "idNumerico": "38",
+    "idNumerico": null,
     "nome": "Fazendinha BeTreZe 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:08|16/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "EVENTO": {
-    "idNumerico": "12",
+    "idNumerico": "42",
     "nome": "EVENTO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:33|16/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FAZENDA DO TEMOR": {
     "idNumerico": null,
@@ -140,10 +140,10 @@
     "cofreConsertado": false
   },
   "AMO O LOWER": {
-    "idNumerico": "2",
+    "idNumerico": null,
     "nome": "Amo o Lower",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:06|16/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "SE ROUBAR MORRE": {
@@ -154,25 +154,25 @@
     "cofreConsertado": false
   },
   "ARIANA_B13": {
-    "idNumerico": "10",
+    "idNumerico": null,
     "nome": "Ariana_B13",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:17|16/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FARME DO DRAKE": {
-    "idNumerico": "35",
+    "idNumerico": null,
     "nome": "Farme do Drake",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:42|16/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "DEAD (:": {
-    "idNumerico": "27",
+    "idNumerico": null,
     "nome": "Dead (:",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:20|16/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "DONA SEM RAZAO": {
     "idNumerico": "26",
@@ -196,10 +196,10 @@
     "cofreConsertado": true
   },
   "FARM'S NAY E NICK": {
-    "idNumerico": "5",
+    "idNumerico": null,
     "nome": "FARM'S NAY E NICK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:02|16/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "QG FARM KHAOS": {
@@ -224,10 +224,10 @@
     "cofreConsertado": false
   },
   "FARM DO SAPATO": {
-    "idNumerico": "9",
+    "idNumerico": null,
     "nome": "FARM DO SAPATO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:21|17/06/2026",
     "cofreConsertado": false
   },
   "FRANCA": {

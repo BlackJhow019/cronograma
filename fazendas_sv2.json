@@ -91,7 +91,7 @@
     "cofreConsertado": false
   },
   "FAZENDA DO MIRIM": {
-    "idNumerico": null,
+    "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
     "status": "INDISPONIVEL",
     "disponivelEm": "11:37|16/06/2026",
@@ -210,10 +210,10 @@
     "cofreConsertado": false
   },
   "RAMONZIN_FRANCA": {
-    "idNumerico": null,
+    "idNumerico": "21",
     "nome": "RAMONZIN_FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:04|16/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FARM DA THATY": {
@@ -275,8 +275,8 @@
   "GRUPO RANTER": {
     "idNumerico": null,
     "nome": "GRUPO RANTER",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:50|16/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
@@ -289,15 +289,15 @@
   "FAZENDA MAO DE VACA": {
     "idNumerico": null,
     "nome": "Fazenda Mao de Vaca",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:59|16/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "/VENDERPRODUTOS": {
     "idNumerico": null,
     "nome": "/VENDERPRODUTOS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:50|16/06/2026",
     "cofreConsertado": false
   },
   "FAZENDA REI DROGADO": {

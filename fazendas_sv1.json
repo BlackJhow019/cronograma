@@ -14,11 +14,11 @@
     "cofreConsertado": false
   },
   "021": {
-    "idNumerico": null,
+    "idNumerico": "1",
     "nome": "021",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:14|16/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "PLANTACAO DE MARIHUANA": {
     "idNumerico": "5",
@@ -91,11 +91,11 @@
     "cofreConsertado": false
   },
   "SAO PEDRO 2": {
-    "idNumerico": null,
+    "idNumerico": "43",
     "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:07|16/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "LEK0ZIKA": {
     "idNumerico": null,
@@ -161,10 +161,10 @@
     "cofreConsertado": false
   },
   "BEE": {
-    "idNumerico": "7",
+    "idNumerico": null,
     "nome": "BEE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:42|16/06/2026",
     "cofreConsertado": false
   },
   "FAZENDA DA MILLY": {
@@ -268,8 +268,8 @@
   "K1NG FARM'S": {
     "idNumerico": null,
     "nome": "K1NG Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:17|16/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   }
 }

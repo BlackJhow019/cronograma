@@ -28,11 +28,11 @@
     "cofreConsertado": false
   },
   "PREFEITO ROADBLOCK": {
-    "idNumerico": null,
+    "idNumerico": "41",
     "nome": "Prefeito Roadblock",
     "status": "INDISPONIVEL",
-    "disponivelEm": "19:19|16/06/2026",
-    "cofreConsertado": false
+    "disponivelEm": "19:24|16/06/2026",
+    "cofreConsertado": true
   },
   "KODIAK": {
     "idNumerico": "3",
@@ -170,9 +170,9 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:26|16/06/2026",
+    "cofreConsertado": true
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": null,
@@ -184,16 +184,16 @@
   "MONOPOLIO FARMS": {
     "idNumerico": "20",
     "nome": "Monopolio Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:24|16/06/2026",
+    "cofreConsertado": true
   },
   "AZEROX": {
-    "idNumerico": null,
+    "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:46|16/06/2026",
+    "cofreConsertado": true
   },
   "LOS SMITH'S": {
     "idNumerico": "44",
@@ -226,8 +226,8 @@
   "4I20 HASH FARM'S": {
     "idNumerico": "16",
     "nome": "4i20 HASH FARM'S",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:56|16/06/2026",
     "cofreConsertado": false
   },
   "PRESO NAO FOGE": {

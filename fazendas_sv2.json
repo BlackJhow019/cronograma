@@ -119,11 +119,11 @@
     "cofreConsertado": false
   },
   "VALE DAS SOMBRAS": {
-    "idNumerico": null,
+    "idNumerico": "24",
     "nome": "Vale das Sombras",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:11|16/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
@@ -280,10 +280,10 @@
     "cofreConsertado": false
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
-    "idNumerico": "3",
+    "idNumerico": null,
     "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:32|16/06/2026",
     "cofreConsertado": false
   },
   "FAZENDA MAO DE VACA": {

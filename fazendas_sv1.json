@@ -42,10 +42,10 @@
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
-    "idNumerico": "40",
+    "idNumerico": null,
     "nome": "GRUPO NEXUS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:15|16/06/2026",
     "cofreConsertado": false
   },
   "NIKE SHOX": {
@@ -175,7 +175,7 @@
     "cofreConsertado": true
   },
   "HWD INVESTIMENTOS": {
-    "idNumerico": null,
+    "idNumerico": "27",
     "nome": "hwd investimentos",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -259,7 +259,7 @@
     "cofreConsertado": false
   },
   "FARM'S DE CAFE": {
-    "idNumerico": null,
+    "idNumerico": "4",
     "nome": "Farm's de Cafe",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:40|16/06/2026",

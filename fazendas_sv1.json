@@ -44,8 +44,8 @@
   "GRUPO NEXUS": {
     "idNumerico": null,
     "nome": "GRUPO NEXUS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:02|16/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "NIKE SHOX": {
@@ -98,10 +98,10 @@
     "cofreConsertado": false
   },
   "LEK0ZIKA": {
-    "idNumerico": "35",
+    "idNumerico": null,
     "nome": "Lek0zika",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:25|16/06/2026",
     "cofreConsertado": false
   },
   "FAZENDINHA DO IGEZE": {

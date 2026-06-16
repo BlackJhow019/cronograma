@@ -42,7 +42,7 @@
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
-    "idNumerico": null,
+    "idNumerico": "40",
     "nome": "GRUPO NEXUS",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -144,7 +144,7 @@
     "nome": "< GAUBRE LTDA >",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:49|16/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
@@ -266,10 +266,10 @@
     "cofreConsertado": true
   },
   "K1NG FARM'S": {
-    "idNumerico": "25",
+    "idNumerico": null,
     "nome": "K1NG Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:17|16/06/2026",
     "cofreConsertado": false
   }
 }

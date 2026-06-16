@@ -42,10 +42,10 @@
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
-    "idNumerico": "39",
+    "idNumerico": null,
     "nome": "GRUPO NEXUS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:02|16/06/2026",
     "cofreConsertado": false
   },
   "NIKE SHOX": {
@@ -266,7 +266,7 @@
     "cofreConsertado": false
   },
   "K1NG FARM'S": {
-    "idNumerico": null,
+    "idNumerico": "25",
     "nome": "K1NG Farm's",
     "status": "DISPONIVEL",
     "disponivelEm": null,

@@ -39,7 +39,7 @@
     "nome": "EVENTO",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:13|16/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
@@ -158,7 +158,7 @@
     "nome": "Ariana_B13",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:07|16/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FARME DO DRAKE": {
     "idNumerico": "35",
@@ -172,7 +172,7 @@
     "nome": "Dead (:",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:15|16/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "DONA SEM RAZAO": {
     "idNumerico": "26",
@@ -196,10 +196,10 @@
     "cofreConsertado": false
   },
   "FARM'S NAY E NICK": {
-    "idNumerico": "5",
+    "idNumerico": null,
     "nome": "FARM'S NAY E NICK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:22|16/06/2026",
     "cofreConsertado": false
   },
   "QG FARM KHAOS": {

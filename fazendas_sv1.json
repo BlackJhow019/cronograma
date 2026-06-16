@@ -28,17 +28,17 @@
     "cofreConsertado": false
   },
   "PREFEITO ROADBLOCK": {
-    "idNumerico": "41",
+    "idNumerico": null,
     "nome": "Prefeito Roadblock",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:24|16/06/2026",
-    "cofreConsertado": true
-  },
-  "KODIAK": {
-    "idNumerico": "3",
-    "nome": "KodiaK",
     "status": "DISPONIVEL",
     "disponivelEm": null,
+    "cofreConsertado": false
+  },
+  "KODIAK": {
+    "idNumerico": null,
+    "nome": "KodiaK",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:51|17/06/2026",
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
@@ -189,11 +189,11 @@
     "cofreConsertado": true
   },
   "AZEROX": {
-    "idNumerico": "23",
+    "idNumerico": null,
     "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:46|16/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "LOS SMITH'S": {
     "idNumerico": "44",
@@ -207,7 +207,7 @@
     "nome": "AlcatraZ Investimentos LTDA",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:28|17/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAZENDA PUTEIRO DO DEATH 4": {
     "idNumerico": "31",
@@ -228,7 +228,7 @@
     "nome": "4i20 HASH FARM'S",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:56|16/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "PRESO NAO FOGE": {
     "idNumerico": null,

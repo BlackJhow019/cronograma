@@ -102,7 +102,7 @@
     "nome": "FARM DO GALO",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:34|17/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "MALVADA'S FARM": {
     "idNumerico": null,
@@ -121,8 +121,8 @@
   "VALE DAS SOMBRAS": {
     "idNumerico": null,
     "nome": "Vale das Sombras",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:48|17/06/2026",
     "cofreConsertado": false
   },
   "FARMS DE GALOPISITAS": {

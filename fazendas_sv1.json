@@ -133,10 +133,10 @@
     "cofreConsertado": false
   },
   "OS DE RACA": {
-    "idNumerico": "0",
+    "idNumerico": null,
     "nome": "OS DE RACA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:09|16/06/2026",
     "cofreConsertado": false
   },
   "< GAUBRE LTDA >": {
@@ -249,7 +249,7 @@
     "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:05|16/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "U$METRALHA FARM'S": {
     "idNumerico": "29",

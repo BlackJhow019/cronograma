@@ -142,8 +142,8 @@
   "< GAUBRE LTDA >": {
     "idNumerico": null,
     "nome": "< GAUBRE LTDA >",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:49|16/06/2026",
     "cofreConsertado": false
   },
   "VENDO 500KM ACEITO TROCAS": {
@@ -263,7 +263,7 @@
     "nome": "Farm's de Cafe",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:40|16/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "K1NG FARM'S": {
     "idNumerico": "25",

@@ -168,11 +168,11 @@
     "cofreConsertado": false
   },
   "FAZENDA DA MILLY": {
-    "idNumerico": "19",
+    "idNumerico": null,
     "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:26|16/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
@@ -182,11 +182,11 @@
     "cofreConsertado": false
   },
   "MONOPOLIO FARMS": {
-    "idNumerico": "20",
+    "idNumerico": null,
     "nome": "Monopolio Farms",
     "status": "INDISPONIVEL",
-    "disponivelEm": "20:24|16/06/2026",
-    "cofreConsertado": true
+    "disponivelEm": "02:33|17/06/2026",
+    "cofreConsertado": false
   },
   "AZEROX": {
     "idNumerico": null,
@@ -224,11 +224,11 @@
     "cofreConsertado": false
   },
   "4I20 HASH FARM'S": {
-    "idNumerico": "16",
+    "idNumerico": null,
     "nome": "4i20 HASH FARM'S",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:56|16/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "PRESO NAO FOGE": {
     "idNumerico": null,
@@ -259,7 +259,7 @@
     "cofreConsertado": true
   },
   "FARM'S DE CAFE": {
-    "idNumerico": null,
+    "idNumerico": "4",
     "nome": "Farm's de Cafe",
     "status": "DISPONIVEL",
     "disponivelEm": null,

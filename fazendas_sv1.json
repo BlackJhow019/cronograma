@@ -84,10 +84,10 @@
     "cofreConsertado": false
   },
   "THUG LIFE": {
-    "idNumerico": "21",
+    "idNumerico": null,
     "nome": "THUG LIFE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:38|16/06/2026",
     "cofreConsertado": false
   },
   "SAO PEDRO 2": {
@@ -100,9 +100,9 @@
   "LEK0ZIKA": {
     "idNumerico": null,
     "nome": "Lek0zika",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:25|16/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
@@ -140,7 +140,7 @@
     "cofreConsertado": false
   },
   "< GAUBRE LTDA >": {
-    "idNumerico": null,
+    "idNumerico": "2",
     "nome": "< GAUBRE LTDA >",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:49|16/06/2026",
@@ -235,7 +235,7 @@
     "nome": "PRESO NAO FOGE",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:23|16/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "PEEEEERFEITO!!!": {
     "idNumerico": "10",

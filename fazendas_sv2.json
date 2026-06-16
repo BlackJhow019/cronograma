@@ -14,7 +14,7 @@
     "cofreConsertado": false
   },
   "AWAKE COMPANY": {
-    "idNumerico": null,
+    "idNumerico": "13",
     "nome": "AwaKe Company",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -95,7 +95,7 @@
     "nome": "Fazenda Do MIRIM",
     "status": "INDISPONIVEL",
     "disponivelEm": "11:37|16/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FARM DO GALO": {
     "idNumerico": "40",
@@ -147,7 +147,7 @@
     "cofreConsertado": false
   },
   "SE ROUBAR MORRE": {
-    "idNumerico": null,
+    "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -205,8 +205,8 @@
   "QG FARM KHAOS": {
     "idNumerico": null,
     "nome": "QG FARM KHAOS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:20|16/06/2026",
     "cofreConsertado": false
   },
   "RAMONZIN_FRANCA": {
@@ -298,7 +298,7 @@
     "nome": "/VENDERPRODUTOS",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:50|16/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",

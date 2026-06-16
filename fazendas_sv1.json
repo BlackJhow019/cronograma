@@ -102,7 +102,7 @@
     "nome": "Lek0zika",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:25|16/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
@@ -259,10 +259,10 @@
     "cofreConsertado": false
   },
   "FARM'S DE CAFE": {
-    "idNumerico": "4",
+    "idNumerico": null,
     "nome": "Farm's de Cafe",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:40|16/06/2026",
     "cofreConsertado": false
   },
   "K1NG FARM'S": {

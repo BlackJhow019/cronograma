@@ -7,11 +7,11 @@
     "cofreConsertado": false
   },
   "JESUS EA SOLUCAO": {
-    "idNumerico": null,
+    "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:45|16/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "AWAKE COMPANY": {
     "idNumerico": null,
@@ -79,16 +79,16 @@
   "ELITE FARMS": {
     "idNumerico": null,
     "nome": "Elite Farms",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:48|16/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "B13 :)": {
     "idNumerico": null,
     "nome": "B13 :)",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:50|16/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FAZENDA DO MIRIM": {
     "idNumerico": null,
@@ -154,10 +154,10 @@
     "cofreConsertado": false
   },
   "ARIANA_B13": {
-    "idNumerico": "10",
+    "idNumerico": null,
     "nome": "Ariana_B13",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:07|16/06/2026",
     "cofreConsertado": false
   },
   "FARME DO DRAKE": {

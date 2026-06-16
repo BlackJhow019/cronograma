@@ -121,8 +121,8 @@
   "VALE DAS SOMBRAS": {
     "idNumerico": null,
     "nome": "Vale das Sombras",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:11|16/06/2026",
     "cofreConsertado": false
   },
   "FARMS DE GALOPISITAS": {
@@ -231,11 +231,11 @@
     "cofreConsertado": false
   },
   "FRANCA": {
-    "idNumerico": null,
+    "idNumerico": "28",
     "nome": "FRANCA",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:43|16/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "PROPRIEDADE FORSAKEN": {
     "idNumerico": "6",

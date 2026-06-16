@@ -100,8 +100,8 @@
   "LEK0ZIKA": {
     "idNumerico": null,
     "nome": "Lek0zika",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:56|16/06/2026",
     "cofreConsertado": false
   },
   "FAZENDINHA DO IGEZE": {
@@ -140,11 +140,11 @@
     "cofreConsertado": false
   },
   "< GAUBRE LTDA >": {
-    "idNumerico": "2",
+    "idNumerico": null,
     "nome": "< GAUBRE LTDA >",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:49|16/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
@@ -256,7 +256,7 @@
     "nome": "u$MeTraLha farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:45|16/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FARM'S DE CAFE": {
     "idNumerico": null,

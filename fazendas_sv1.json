@@ -44,9 +44,9 @@
   "GRUPO NEXUS": {
     "idNumerico": "39",
     "nome": "GRUPO NEXUS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:44|15/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -56,11 +56,11 @@
     "cofreConsertado": false
   },
   "FAZENDINHA DO FIRE": {
-    "idNumerico": null,
+    "idNumerico": "12",
     "nome": "Fazendinha Do Fire",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:39|15/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
@@ -70,14 +70,14 @@
     "cofreConsertado": false
   },
   "PT FARM'S": {
-    "idNumerico": null,
+    "idNumerico": "13",
     "nome": "PT farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:22|15/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "RAFHA INVESTIMENTOS $": {
-    "idNumerico": null,
+    "idNumerico": "26",
     "nome": "Rafha investimentos $",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:11|16/06/2026",
@@ -177,8 +177,8 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": null,
     "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:32|15/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "MONOPOLIO FARMS": {
@@ -189,11 +189,11 @@
     "cofreConsertado": false
   },
   "AZEROX": {
-    "idNumerico": "23",
+    "idNumerico": null,
     "nome": "AzeRoX",
     "status": "INDISPONIVEL",
-    "disponivelEm": "19:37|15/06/2026",
-    "cofreConsertado": true
+    "disponivelEm": "05:55|16/06/2026",
+    "cofreConsertado": false
   },
   "LOS SMITH'S": {
     "idNumerico": "44",
@@ -210,14 +210,14 @@
     "cofreConsertado": false
   },
   "FAZENDA PUTEIRO DO DEATH 4": {
-    "idNumerico": null,
+    "idNumerico": "31",
     "nome": "Fazenda puteiro do Death 4",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
   "SANTINO EMPREENDIMENTOS LTDA": {
-    "idNumerico": null,
+    "idNumerico": "32",
     "nome": "SANTINO EMPREENDIMENTOS LTDA",
     "status": "DISPONIVEL",
     "disponivelEm": null,

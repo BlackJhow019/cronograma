@@ -252,18 +252,18 @@
     "cofreConsertado": true
   },
   "U$METRALHA FARM'S": {
-    "idNumerico": "29",
+    "idNumerico": null,
     "nome": "u$MeTraLha farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:45|16/06/2026",
     "cofreConsertado": false
   },
   "FARM'S DE CAFE": {
-    "idNumerico": "4",
+    "idNumerico": null,
     "nome": "Farm's de Cafe",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:40|16/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "K1NG FARM'S": {
     "idNumerico": null,

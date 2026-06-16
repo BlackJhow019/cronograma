@@ -210,10 +210,10 @@
     "cofreConsertado": false
   },
   "RAMONZIN_FRANCA": {
-    "idNumerico": "21",
+    "idNumerico": null,
     "nome": "RAMONZIN_FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:04|16/06/2026",
     "cofreConsertado": false
   },
   "FARM DA THATY": {
@@ -291,7 +291,7 @@
     "nome": "Fazenda Mao de Vaca",
     "status": "INDISPONIVEL",
     "disponivelEm": "09:59|16/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "/VENDERPRODUTOS": {
     "idNumerico": null,

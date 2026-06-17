@@ -102,7 +102,7 @@
     "nome": "Lek0zika",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:39|17/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
@@ -170,8 +170,8 @@
   "FAZENDA DA MILLY": {
     "idNumerico": null,
     "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:22|17/06/2026",
     "cofreConsertado": false
   },
   "HWD INVESTIMENTOS": {

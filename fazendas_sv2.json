@@ -28,7 +28,7 @@
     "cofreConsertado": false
   },
   "FAZENDINHA BETREZE 2": {
-    "idNumerico": null,
+    "idNumerico": "38",
     "nome": "Fazendinha BeTreZe 2",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -93,8 +93,8 @@
   "FAZENDA DO MIRIM": {
     "idNumerico": null,
     "nome": "Fazenda Do MIRIM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:09|16/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FARM DO GALO": {
@@ -107,8 +107,8 @@
   "MALVADA'S FARM": {
     "idNumerico": null,
     "nome": "Malvada's Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:13|16/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "YELLOWSTONE - BY MONSTER": {
@@ -261,9 +261,9 @@
   "SUCCUBUS FARMS": {
     "idNumerico": null,
     "nome": "Succubus Farms",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:55|16/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "RICK FARM'S": {
     "idNumerico": "34",
@@ -277,7 +277,7 @@
     "nome": "GRUPO RANTER",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:21|17/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": null,
@@ -289,15 +289,15 @@
   "FAZENDA MAO DE VACA": {
     "idNumerico": null,
     "nome": "Fazenda Mao de Vaca",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:51|16/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "/VENDERPRODUTOS": {
     "idNumerico": null,
     "nome": "/VENDERPRODUTOS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:24|17/06/2026",
     "cofreConsertado": false
   },
   "FAZENDA REI DROGADO": {

@@ -1,10 +1,10 @@
 {
   "999": {
-    "idNumerico": null,
+    "idNumerico": "39",
     "nome": "999",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:35|17/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "JESUS EA SOLUCAO": {
     "idNumerico": null,
@@ -70,7 +70,7 @@
     "cofreConsertado": false
   },
   "TA NO GRALI": {
-    "idNumerico": null,
+    "idNumerico": "4",
     "nome": "ta no grali",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:56|17/06/2026",
@@ -93,8 +93,8 @@
   "FAZENDA DO MIRIM": {
     "idNumerico": null,
     "nome": "Fazenda Do MIRIM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:19|17/06/2026",
     "cofreConsertado": false
   },
   "FARM DO GALO": {
@@ -184,12 +184,12 @@
   "FAZENDA DO GALIN": {
     "idNumerico": null,
     "nome": "Fazenda do Galin",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:39|17/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "~E V O M~": {
-    "idNumerico": null,
+    "idNumerico": "25",
     "nome": "~E V O M~",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -247,8 +247,8 @@
   "CHAMA A POLICIA": {
     "idNumerico": null,
     "nome": "CHAMA A POLICIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:06|17/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "AURA + EGO": {
@@ -275,9 +275,9 @@
   "GRUPO RANTER": {
     "idNumerico": null,
     "nome": "GRUPO RANTER",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:21|17/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": null,
@@ -296,9 +296,9 @@
   "/VENDERPRODUTOS": {
     "idNumerico": null,
     "nome": "/VENDERPRODUTOS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:24|17/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",

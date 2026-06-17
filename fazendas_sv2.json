@@ -235,7 +235,7 @@
     "nome": "FRANCA",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:49|17/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "PROPRIEDADE FORSAKEN": {
     "idNumerico": "6",
@@ -254,8 +254,8 @@
   "AURA + EGO": {
     "idNumerico": null,
     "nome": "Aura + Ego",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:18|17/06/2026",
     "cofreConsertado": false
   },
   "SUCCUBUS FARMS": {
@@ -273,7 +273,7 @@
     "cofreConsertado": false
   },
   "GRUPO RANTER": {
-    "idNumerico": null,
+    "idNumerico": "19",
     "nome": "GRUPO RANTER",
     "status": "DISPONIVEL",
     "disponivelEm": null,

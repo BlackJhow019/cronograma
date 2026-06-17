@@ -39,7 +39,7 @@
     "nome": "EVENTO",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:22|17/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
@@ -70,10 +70,10 @@
     "cofreConsertado": false
   },
   "TA NO GRALI": {
-    "idNumerico": "4",
+    "idNumerico": null,
     "nome": "ta no grali",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:56|17/06/2026",
     "cofreConsertado": false
   },
   "ELITE FARMS": {

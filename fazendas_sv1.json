@@ -42,10 +42,10 @@
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
-    "idNumerico": "39",
+    "idNumerico": null,
     "nome": "GRUPO NEXUS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:58|18/06/2026",
     "cofreConsertado": false
   },
   "NIKE SHOX": {
@@ -107,9 +107,9 @@
   "FAZENDINHA DO IGEZE": {
     "idNumerico": null,
     "nome": "fazendinha do igeze",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:38|17/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
@@ -179,7 +179,7 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:21|18/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "MONOPOLIO FARMS": {
     "idNumerico": "20",
@@ -266,7 +266,7 @@
     "cofreConsertado": false
   },
   "U$METRALHA": {
-    "idNumerico": null,
+    "idNumerico": "32",
     "nome": "u$MeTralha",
     "status": "DISPONIVEL",
     "disponivelEm": null,

@@ -224,17 +224,17 @@
     "cofreConsertado": false
   },
   "FARM DO SAPATO": {
-    "idNumerico": null,
+    "idNumerico": "9",
     "nome": "FARM DO SAPATO",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:47|17/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FRANCA": {
-    "idNumerico": "28",
+    "idNumerico": null,
     "nome": "FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:49|17/06/2026",
     "cofreConsertado": false
   },
   "PROPRIEDADE FORSAKEN": {

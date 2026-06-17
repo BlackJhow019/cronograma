@@ -95,7 +95,7 @@
     "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:30|17/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "LEK0ZIKA": {
     "idNumerico": "35",
@@ -245,10 +245,10 @@
     "cofreConsertado": false
   },
   "U$METRALHA FARM'S": {
-    "idNumerico": "29",
+    "idNumerico": null,
     "nome": "u$MeTraLha farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:03|17/06/2026",
     "cofreConsertado": false
   },
   "FARM'S DE CAFE": {

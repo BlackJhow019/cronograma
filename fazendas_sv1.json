@@ -14,7 +14,7 @@
     "cofreConsertado": false
   },
   "021": {
-    "idNumerico": null,
+    "idNumerico": "1",
     "nome": "021",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -91,10 +91,10 @@
     "cofreConsertado": false
   },
   "SAO PEDRO 2": {
-    "idNumerico": "43",
+    "idNumerico": null,
     "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:30|17/06/2026",
     "cofreConsertado": false
   },
   "LEK0ZIKA": {
@@ -235,7 +235,7 @@
     "nome": "Peeeeerfeito!!!",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:56|17/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",

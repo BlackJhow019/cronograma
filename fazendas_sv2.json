@@ -247,8 +247,8 @@
   "CHAMA A POLICIA": {
     "idNumerico": null,
     "nome": "CHAMA A POLICIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:32|17/06/2026",
     "cofreConsertado": false
   },
   "AURA + EGO": {

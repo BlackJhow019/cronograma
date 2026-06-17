@@ -37,8 +37,8 @@
   "KODIAK": {
     "idNumerico": null,
     "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:33|17/06/2026",
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
@@ -158,7 +158,7 @@
     "nome": "Clube da Luluzinha",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:19|17/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "BEE": {
     "idNumerico": "7",
@@ -270,6 +270,6 @@
     "nome": "u$MeTralha",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:21|17/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   }
 }

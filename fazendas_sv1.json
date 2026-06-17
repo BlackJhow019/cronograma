@@ -42,7 +42,7 @@
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
-    "idNumerico": null,
+    "idNumerico": "39",
     "nome": "GRUPO NEXUS",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -175,10 +175,10 @@
     "cofreConsertado": true
   },
   "HWD INVESTIMENTOS": {
-    "idNumerico": "27",
+    "idNumerico": null,
     "nome": "hwd investimentos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:21|18/06/2026",
     "cofreConsertado": false
   },
   "MONOPOLIO FARMS": {
@@ -214,7 +214,7 @@
     "nome": "Fazenda puteiro do Death 4",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:59|17/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "4I20 HASH FARM'S": {
     "idNumerico": null,

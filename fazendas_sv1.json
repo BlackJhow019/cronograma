@@ -35,11 +35,11 @@
     "cofreConsertado": false
   },
   "KODIAK": {
-    "idNumerico": null,
+    "idNumerico": "3",
     "nome": "KodiaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:33|17/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "GRUPO NEXUS": {
     "idNumerico": "39",
@@ -100,8 +100,8 @@
   "LEK0ZIKA": {
     "idNumerico": null,
     "nome": "Lek0zika",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:39|17/06/2026",
     "cofreConsertado": false
   },
   "FAZENDINHA DO IGEZE": {
@@ -182,11 +182,11 @@
     "cofreConsertado": false
   },
   "MONOPOLIO FARMS": {
-    "idNumerico": "20",
+    "idNumerico": null,
     "nome": "Monopolio Farms",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:33|17/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "AZEROX": {
     "idNumerico": null,

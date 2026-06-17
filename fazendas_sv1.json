@@ -16,8 +16,8 @@
   "021": {
     "idNumerico": null,
     "nome": "021",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:01|17/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "PLANTACAO DE MARIHUANA": {
@@ -42,11 +42,11 @@
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
-    "idNumerico": null,
+    "idNumerico": "30",
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:44|17/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -105,10 +105,10 @@
     "cofreConsertado": false
   },
   "FAZENDINHA DO IGEZE": {
-    "idNumerico": "36",
+    "idNumerico": null,
     "nome": "fazendinha do igeze",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:38|17/06/2026",
     "cofreConsertado": false
   },
   "FAMILIA KUSH": {
@@ -154,7 +154,7 @@
     "cofreConsertado": false
   },
   "CLUBE DA LULUZINHA": {
-    "idNumerico": null,
+    "idNumerico": "8",
     "nome": "Clube da Luluzinha",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -203,14 +203,14 @@
     "cofreConsertado": false
   },
   "ALCATRAZ INVESTIMENTOS LTDA": {
-    "idNumerico": null,
+    "idNumerico": "6",
     "nome": "AlcatraZ Investimentos LTDA",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
   "FAZENDA PUTEIRO DO DEATH 4": {
-    "idNumerico": null,
+    "idNumerico": "31",
     "nome": "Fazenda puteiro do Death 4",
     "status": "DISPONIVEL",
     "disponivelEm": null,

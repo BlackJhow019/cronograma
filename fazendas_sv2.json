@@ -35,11 +35,11 @@
     "cofreConsertado": false
   },
   "EVENTO": {
-    "idNumerico": null,
+    "idNumerico": "42",
     "nome": "EVENTO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:22|17/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
@@ -70,11 +70,11 @@
     "cofreConsertado": false
   },
   "TA NO GRALI": {
-    "idNumerico": "4",
+    "idNumerico": null,
     "nome": "ta no grali",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:56|17/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "ELITE FARMS": {
     "idNumerico": "17",
@@ -107,8 +107,8 @@
   "MALVADA'S FARM": {
     "idNumerico": null,
     "nome": "Malvada's Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:26|17/06/2026",
     "cofreConsertado": false
   },
   "YELLOWSTONE - BY MONSTER": {
@@ -161,10 +161,10 @@
     "cofreConsertado": false
   },
   "FARME DO DRAKE": {
-    "idNumerico": "35",
+    "idNumerico": null,
     "nome": "Farme do Drake",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:20|17/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "DEAD (:": {

@@ -14,7 +14,7 @@
     "cofreConsertado": false
   },
   "021": {
-    "idNumerico": null,
+    "idNumerico": "1",
     "nome": "021",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -37,8 +37,8 @@
   "KODIAK": {
     "idNumerico": null,
     "nome": "KodiaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:51|17/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
@@ -154,10 +154,10 @@
     "cofreConsertado": false
   },
   "CLUBE DA LULUZINHA": {
-    "idNumerico": "8",
+    "idNumerico": null,
     "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:19|17/06/2026",
     "cofreConsertado": false
   },
   "BEE": {
@@ -182,11 +182,11 @@
     "cofreConsertado": false
   },
   "MONOPOLIO FARMS": {
-    "idNumerico": null,
+    "idNumerico": "20",
     "nome": "Monopolio Farms",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:33|17/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "AZEROX": {
     "idNumerico": null,
@@ -217,7 +217,7 @@
     "cofreConsertado": false
   },
   "4I20 HASH FARM'S": {
-    "idNumerico": null,
+    "idNumerico": "16",
     "nome": "4i20 HASH FARM'S",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -245,7 +245,7 @@
     "cofreConsertado": false
   },
   "U$METRALHA FARM'S": {
-    "idNumerico": null,
+    "idNumerico": "29",
     "nome": "u$MeTraLha farm's",
     "status": "DISPONIVEL",
     "disponivelEm": null,

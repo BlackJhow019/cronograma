@@ -70,7 +70,7 @@
     "cofreConsertado": false
   },
   "TA NO GRALI": {
-    "idNumerico": null,
+    "idNumerico": "4",
     "nome": "ta no grali",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -93,8 +93,8 @@
   "FAZENDA DO MIRIM": {
     "idNumerico": null,
     "nome": "Fazenda Do MIRIM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:19|17/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FARM DO GALO": {
@@ -130,7 +130,7 @@
     "nome": "Farms de Galopisitas",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:22|17/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "CANNABIS": {
     "idNumerico": null,
@@ -147,10 +147,10 @@
     "cofreConsertado": false
   },
   "SE ROUBAR MORRE": {
-    "idNumerico": "41",
+    "idNumerico": null,
     "nome": "SE ROUBAR MORRE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:24|17/06/2026",
     "cofreConsertado": false
   },
   "ARIANA_B13": {
@@ -161,7 +161,7 @@
     "cofreConsertado": false
   },
   "FARME DO DRAKE": {
-    "idNumerico": null,
+    "idNumerico": "35",
     "nome": "Farme do Drake",
     "status": "DISPONIVEL",
     "disponivelEm": null,

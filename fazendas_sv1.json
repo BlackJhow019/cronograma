@@ -7,10 +7,10 @@
     "cofreConsertado": false
   },
   "RICO LOUCO": {
-    "idNumerico": "11",
+    "idNumerico": null,
     "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:38|17/06/2026",
     "cofreConsertado": false
   },
   "021": {
@@ -28,7 +28,7 @@
     "cofreConsertado": false
   },
   "PREFEITO ROADBLOCK": {
-    "idNumerico": null,
+    "idNumerico": "41",
     "nome": "Prefeito Roadblock",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -77,7 +77,7 @@
     "cofreConsertado": false
   },
   "RAFHA INVESTIMENTOS $": {
-    "idNumerico": null,
+    "idNumerico": "26",
     "nome": "Rafha investimentos $",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -91,7 +91,7 @@
     "cofreConsertado": false
   },
   "SAO PEDRO 2": {
-    "idNumerico": null,
+    "idNumerico": "43",
     "nome": "SAO PEDRO 2",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -205,9 +205,9 @@
   "ALCATRAZ INVESTIMENTOS LTDA": {
     "idNumerico": null,
     "nome": "AlcatraZ Investimentos LTDA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:28|17/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FAZENDA PUTEIRO DO DEATH 4": {
     "idNumerico": null,

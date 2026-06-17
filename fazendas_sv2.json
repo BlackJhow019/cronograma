@@ -1,9 +1,9 @@
 {
   "999": {
-    "idNumerico": "39",
+    "idNumerico": null,
     "nome": "999",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:35|17/06/2026",
     "cofreConsertado": false
   },
   "JESUS EA SOLUCAO": {
@@ -74,7 +74,7 @@
     "nome": "ta no grali",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:56|17/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "ELITE FARMS": {
     "idNumerico": "17",
@@ -226,9 +226,9 @@
   "FARM DO SAPATO": {
     "idNumerico": null,
     "nome": "FARM DO SAPATO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:21|17/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FRANCA": {
     "idNumerico": "28",
@@ -287,7 +287,7 @@
     "cofreConsertado": false
   },
   "FAZENDA MAO DE VACA": {
-    "idNumerico": null,
+    "idNumerico": "14",
     "nome": "Fazenda Mao de Vaca",
     "status": "DISPONIVEL",
     "disponivelEm": null,

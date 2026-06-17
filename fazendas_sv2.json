@@ -42,7 +42,7 @@
     "cofreConsertado": false
   },
   "FAZENDA DO TEMOR": {
-    "idNumerico": null,
+    "idNumerico": "30",
     "nome": "Fazenda do Temor",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -98,7 +98,7 @@
     "cofreConsertado": false
   },
   "FARM DO GALO": {
-    "idNumerico": null,
+    "idNumerico": "40",
     "nome": "FARM DO GALO",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:34|17/06/2026",
@@ -119,7 +119,7 @@
     "cofreConsertado": false
   },
   "VALE DAS SOMBRAS": {
-    "idNumerico": null,
+    "idNumerico": "24",
     "nome": "Vale das Sombras",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:48|17/06/2026",
@@ -154,7 +154,7 @@
     "cofreConsertado": false
   },
   "ARIANA_B13": {
-    "idNumerico": null,
+    "idNumerico": "10",
     "nome": "Ariana_B13",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -203,7 +203,7 @@
     "cofreConsertado": false
   },
   "QG FARM KHAOS": {
-    "idNumerico": null,
+    "idNumerico": "18",
     "nome": "QG FARM KHAOS",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -245,11 +245,11 @@
     "cofreConsertado": false
   },
   "CHAMA A POLICIA": {
-    "idNumerico": "44",
+    "idNumerico": null,
     "nome": "CHAMA A POLICIA",
     "status": "INDISPONIVEL",
-    "disponivelEm": "23:56|16/06/2026",
-    "cofreConsertado": true
+    "disponivelEm": "06:06|17/06/2026",
+    "cofreConsertado": false
   },
   "AURA + EGO": {
     "idNumerico": null,
@@ -298,7 +298,7 @@
     "nome": "/VENDERPRODUTOS",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:24|17/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",

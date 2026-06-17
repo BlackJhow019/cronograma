@@ -42,10 +42,10 @@
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
-    "idNumerico": "9",
+    "idNumerico": null,
     "nome": "GRUPO NEXUS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:44|17/06/2026",
     "cofreConsertado": false
   },
   "NIKE SHOX": {
@@ -172,7 +172,7 @@
     "nome": "Fazenda da Milly",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:41|17/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",

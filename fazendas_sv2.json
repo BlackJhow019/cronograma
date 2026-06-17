@@ -98,7 +98,7 @@
     "cofreConsertado": false
   },
   "FARM DO GALO": {
-    "idNumerico": null,
+    "idNumerico": "40",
     "nome": "FARM DO GALO",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -119,7 +119,7 @@
     "cofreConsertado": false
   },
   "VALE DAS SOMBRAS": {
-    "idNumerico": null,
+    "idNumerico": "24",
     "nome": "Vale das Sombras",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -189,10 +189,10 @@
     "cofreConsertado": false
   },
   "~E V O M~": {
-    "idNumerico": "25",
+    "idNumerico": null,
     "nome": "~E V O M~",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:54|17/06/2026",
     "cofreConsertado": false
   },
   "FARM'S NAY E NICK": {
@@ -245,7 +245,7 @@
     "cofreConsertado": false
   },
   "CHAMA A POLICIA": {
-    "idNumerico": null,
+    "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:32|17/06/2026",
@@ -280,7 +280,7 @@
     "cofreConsertado": false
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
-    "idNumerico": null,
+    "idNumerico": "3",
     "nome": "$ Company $r.RC_PlinioDmG $",
     "status": "DISPONIVEL",
     "disponivelEm": null,

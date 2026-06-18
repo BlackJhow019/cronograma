@@ -74,7 +74,7 @@
     "nome": "ta no grali",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:10|18/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "ELITE FARMS": {
     "idNumerico": "17",
@@ -112,10 +112,10 @@
     "cofreConsertado": true
   },
   "YELLOWSTONE - BY MONSTER": {
-    "idNumerico": "16",
+    "idNumerico": null,
     "nome": "YellowStone - By Monster",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:14|18/06/2026",
     "cofreConsertado": false
   },
   "VALE DAS SOMBRAS": {
@@ -149,8 +149,8 @@
   "SE ROUBAR MORRE": {
     "idNumerico": null,
     "nome": "SE ROUBAR MORRE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:24|17/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "ARIANA_B13": {
@@ -191,9 +191,9 @@
   "~E V O M~": {
     "idNumerico": null,
     "nome": "~E V O M~",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:54|17/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
@@ -217,7 +217,7 @@
     "cofreConsertado": false
   },
   "FARM DA THATY": {
-    "idNumerico": null,
+    "idNumerico": "1",
     "nome": "Farm da Thaty",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:00|17/06/2026",
@@ -247,8 +247,8 @@
   "CHAMA A POLICIA": {
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:32|17/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "AURA + EGO": {
@@ -261,8 +261,8 @@
   "SUCCUBUS FARMS": {
     "idNumerico": null,
     "nome": "Succubus Farms",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:32|17/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "RICK FARM'S": {

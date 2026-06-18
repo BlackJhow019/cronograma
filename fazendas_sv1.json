@@ -7,7 +7,7 @@
     "cofreConsertado": false
   },
   "RICO LOUCO": {
-    "idNumerico": null,
+    "idNumerico": "11",
     "nome": "rico louco",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -91,7 +91,7 @@
     "cofreConsertado": false
   },
   "SAO PEDRO 2": {
-    "idNumerico": null,
+    "idNumerico": "43",
     "nome": "SAO PEDRO 2",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -133,10 +133,10 @@
     "cofreConsertado": false
   },
   "OS DE RACA": {
-    "idNumerico": "0",
+    "idNumerico": null,
     "nome": "OS DE RACA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:54|18/06/2026",
     "cofreConsertado": false
   },
   "< GAUBRE LTDA >": {
@@ -284,6 +284,6 @@
     "nome": "Vaqueiro Farm´s",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:16|18/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   }
 }

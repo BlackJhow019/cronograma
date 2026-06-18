@@ -119,10 +119,10 @@
     "cofreConsertado": true
   },
   "BORRACHAS FARM": {
-    "idNumerico": "33",
+    "idNumerico": null,
     "nome": "Borrachas Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:27|18/06/2026",
     "cofreConsertado": false
   },
   "WESKER_U$METRALHA": {
@@ -161,7 +161,7 @@
     "cofreConsertado": false
   },
   "BEE": {
-    "idNumerico": null,
+    "idNumerico": "7",
     "nome": "BEE",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -266,7 +266,7 @@
     "cofreConsertado": false
   },
   "U$METRALHA": {
-    "idNumerico": null,
+    "idNumerico": "32",
     "nome": "u$MeTralha",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:14|18/06/2026",

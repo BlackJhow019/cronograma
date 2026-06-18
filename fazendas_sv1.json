@@ -116,7 +116,7 @@
     "nome": "Familia KuSh",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:08|18/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -266,10 +266,10 @@
     "cofreConsertado": false
   },
   "U$METRALHA": {
-    "idNumerico": "32",
+    "idNumerico": null,
     "nome": "u$MeTralha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:14|18/06/2026",
     "cofreConsertado": false
   },
   "FAZENDA ROTA DO CAFÉ": {

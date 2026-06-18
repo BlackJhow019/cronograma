@@ -7,11 +7,11 @@
     "cofreConsertado": false
   },
   "RICO LOUCO": {
-    "idNumerico": null,
+    "idNumerico": "11",
     "nome": "rico louco",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:56|18/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "021": {
     "idNumerico": null,
@@ -119,10 +119,10 @@
     "cofreConsertado": false
   },
   "BORRACHAS FARM": {
-    "idNumerico": "33",
+    "idNumerico": null,
     "nome": "Borrachas Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:47|18/06/2026",
     "cofreConsertado": false
   },
   "WESKER_U$METRALHA": {
@@ -245,7 +245,7 @@
     "cofreConsertado": false
   },
   "U$METRALHA FARM'S": {
-    "idNumerico": null,
+    "idNumerico": "29",
     "nome": "u$MeTraLha farm's",
     "status": "DISPONIVEL",
     "disponivelEm": null,

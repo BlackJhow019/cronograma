@@ -1,6 +1,6 @@
 {
   "999": {
-    "idNumerico": null,
+    "idNumerico": "39",
     "nome": "999",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -9,8 +9,8 @@
   "JESUS EA SOLUCAO": {
     "idNumerico": null,
     "nome": "JESUS EA SOLUCAO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:52|19/06/2026",
     "cofreConsertado": false
   },
   "AWAKE COMPANY": {
@@ -35,10 +35,10 @@
     "cofreConsertado": false
   },
   "EVENTO": {
-    "idNumerico": "12",
+    "idNumerico": null,
     "nome": "EVENTO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:42|18/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FAZENDA DO TEMOR": {
@@ -58,8 +58,8 @@
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": null,
     "nome": "Farma Da Familia Elite",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:04|18/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {
@@ -112,7 +112,7 @@
     "cofreConsertado": true
   },
   "YELLOWSTONE - BY MONSTER": {
-    "idNumerico": null,
+    "idNumerico": "16",
     "nome": "YellowStone - By Monster",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -126,7 +126,7 @@
     "cofreConsertado": false
   },
   "FARMS DE GALOPISITAS": {
-    "idNumerico": null,
+    "idNumerico": "20",
     "nome": "Farms de Galopisitas",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -154,7 +154,7 @@
     "cofreConsertado": false
   },
   "ARIANA_B13": {
-    "idNumerico": null,
+    "idNumerico": "10",
     "nome": "Ariana_B13",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -182,7 +182,7 @@
     "cofreConsertado": true
   },
   "FAZENDA DO GALIN": {
-    "idNumerico": null,
+    "idNumerico": "15",
     "nome": "Fazenda do Galin",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -210,7 +210,7 @@
     "cofreConsertado": false
   },
   "RAMONZIN_FRANCA": {
-    "idNumerico": null,
+    "idNumerico": "21",
     "nome": "RAMONZIN_FRANCA",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -231,7 +231,7 @@
     "cofreConsertado": false
   },
   "FRANCA": {
-    "idNumerico": null,
+    "idNumerico": "28",
     "nome": "FRANCA",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -287,7 +287,7 @@
     "cofreConsertado": false
   },
   "/VENDERPRODUTOS": {
-    "idNumerico": null,
+    "idNumerico": "7",
     "nome": "/VENDERPRODUTOS",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -296,9 +296,9 @@
   "FAZENDA REI DROGADO": {
     "idNumerico": null,
     "nome": "Fazenda Rei Drogado",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:18|18/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "AMO A MAZZI": {
     "idNumerico": "6",

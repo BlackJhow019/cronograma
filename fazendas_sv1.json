@@ -14,15 +14,8 @@
     "cofreConsertado": true
   },
   "021": {
-    "idNumerico": null,
+    "idNumerico": "1",
     "nome": "021",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
-  },
-  "PLANTACAO DE MARIHUANA": {
-    "idNumerico": "5",
-    "nome": "Plantacao de Marihuana",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
@@ -37,19 +30,19 @@
   "KODIAK": {
     "idNumerico": null,
     "nome": "KodiaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:52|18/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "GRUPO NEXUS": {
-    "idNumerico": null,
+    "idNumerico": "40",
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:13|19/06/2026",
     "cofreConsertado": false
   },
   "NIKE SHOX": {
-    "idNumerico": null,
+    "idNumerico": "42",
     "nome": "NIKE SHOX",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -133,11 +126,11 @@
     "cofreConsertado": false
   },
   "OS DE RACA": {
-    "idNumerico": null,
+    "idNumerico": "0",
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:13|19/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "< GAUBRE LTDA >": {
     "idNumerico": "2",
@@ -168,7 +161,7 @@
     "cofreConsertado": false
   },
   "FAZENDA DA MILLY": {
-    "idNumerico": null,
+    "idNumerico": "19",
     "nome": "Fazenda da Milly",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:11|19/06/2026",
@@ -203,10 +196,10 @@
     "cofreConsertado": false
   },
   "ALCATRAZ INVESTIMENTOS LTDA": {
-    "idNumerico": "6",
+    "idNumerico": null,
     "nome": "AlcatraZ Investimentos LTDA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:47|19/06/2026",
     "cofreConsertado": false
   },
   "FAZENDA PUTEIRO DO DEATH 4": {
@@ -282,6 +275,13 @@
   "VAQUEIRO FARM´S": {
     "idNumerico": null,
     "nome": "Vaqueiro Farm´s",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
+  },
+  "RICK FARM´S": {
+    "idNumerico": "5",
+    "nome": "Rick Farm´s",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false

@@ -18,7 +18,7 @@
     "nome": "021",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:27|18/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "PLANTACAO DE MARIHUANA": {
     "idNumerico": "5",
@@ -56,10 +56,10 @@
     "cofreConsertado": false
   },
   "FAZENDINHA DO FIRE": {
-    "idNumerico": "12",
+    "idNumerico": null,
     "nome": "Fazendinha Do Fire",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:11|18/06/2026",
     "cofreConsertado": false
   },
   "RANCHO DO DOUTOR": {
@@ -168,11 +168,11 @@
     "cofreConsertado": true
   },
   "FAZENDA DA MILLY": {
-    "idNumerico": "19",
+    "idNumerico": null,
     "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:41|17/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": null,
@@ -212,12 +212,12 @@
   "FAZENDA PUTEIRO DO DEATH 4": {
     "idNumerico": null,
     "nome": "Fazenda puteiro do Death 4",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:59|17/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "4I20 HASH FARM'S": {
-    "idNumerico": null,
+    "idNumerico": "16",
     "nome": "4i20 HASH FARM'S",
     "status": "DISPONIVEL",
     "disponivelEm": null,

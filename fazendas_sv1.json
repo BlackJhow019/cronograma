@@ -16,8 +16,8 @@
   "021": {
     "idNumerico": null,
     "nome": "021",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:54|18/06/2026",
     "cofreConsertado": false
   },
   "PLANTACAO DE MARIHUANA": {
@@ -231,7 +231,7 @@
     "cofreConsertado": false
   },
   "PEEEEERFEITO!!!": {
-    "idNumerico": null,
+    "idNumerico": "10",
     "nome": "Peeeeerfeito!!!",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:48|18/06/2026",

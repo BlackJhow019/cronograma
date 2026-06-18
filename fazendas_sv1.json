@@ -42,10 +42,10 @@
     "cofreConsertado": true
   },
   "GRUPO NEXUS": {
-    "idNumerico": "9",
+    "idNumerico": null,
     "nome": "GRUPO NEXUS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:13|19/06/2026",
     "cofreConsertado": false
   },
   "NIKE SHOX": {
@@ -98,7 +98,7 @@
     "cofreConsertado": false
   },
   "LEK0ZIKA": {
-    "idNumerico": null,
+    "idNumerico": "35",
     "nome": "Lek0zika",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:52|18/06/2026",

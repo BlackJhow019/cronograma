@@ -119,7 +119,7 @@
     "cofreConsertado": false
   },
   "VALE DAS SOMBRAS": {
-    "idNumerico": null,
+    "idNumerico": "24",
     "nome": "Vale das Sombras",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:07|18/06/2026",
@@ -231,10 +231,10 @@
     "cofreConsertado": false
   },
   "FRANCA": {
-    "idNumerico": "28",
+    "idNumerico": null,
     "nome": "FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:04|18/06/2026",
     "cofreConsertado": false
   },
   "CHAMA A POLICIA": {

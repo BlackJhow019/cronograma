@@ -35,10 +35,10 @@
     "cofreConsertado": false
   },
   "KODIAK": {
-    "idNumerico": "3",
+    "idNumerico": null,
     "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:32|18/06/2026",
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
@@ -112,7 +112,7 @@
     "cofreConsertado": false
   },
   "FAMILIA KUSH": {
-    "idNumerico": null,
+    "idNumerico": "34",
     "nome": "Familia KuSh",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:08|18/06/2026",
@@ -133,11 +133,11 @@
     "cofreConsertado": false
   },
   "OS DE RACA": {
-    "idNumerico": null,
+    "idNumerico": "0",
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:20|18/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "< GAUBRE LTDA >": {
     "idNumerico": "2",
@@ -182,7 +182,7 @@
     "cofreConsertado": false
   },
   "MONOPOLIO FARMS": {
-    "idNumerico": null,
+    "idNumerico": "20",
     "nome": "Monopolio Farms",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:43|18/06/2026",

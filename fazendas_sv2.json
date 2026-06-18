@@ -186,7 +186,7 @@
     "nome": "Fazenda do Galin",
     "status": "INDISPONIVEL",
     "disponivelEm": "10:44|18/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "~E V O M~": {
     "idNumerico": "25",
@@ -205,8 +205,8 @@
   "QG FARM KHAOS": {
     "idNumerico": null,
     "nome": "QG FARM KHAOS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:24|18/06/2026",
     "cofreConsertado": false
   },
   "RAMONZIN_FRANCA": {

@@ -38,7 +38,7 @@
     "idNumerico": null,
     "nome": "EVENTO",
     "status": "INDISPONIVEL",
-    "disponivelEm": "11:30|18/06/2026",
+    "disponivelEm": "18:42|18/06/2026",
     "cofreConsertado": false
   },
   "FAZENDA DO TEMOR": {
@@ -70,7 +70,7 @@
     "cofreConsertado": false
   },
   "TA NO GRALI": {
-    "idNumerico": null,
+    "idNumerico": "4",
     "nome": "ta no grali",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -133,7 +133,7 @@
     "cofreConsertado": false
   },
   "CANNABIS": {
-    "idNumerico": null,
+    "idNumerico": "8",
     "nome": "CANNABIS",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -158,7 +158,7 @@
     "nome": "Ariana_B13",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:22|18/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FARME DO DRAKE": {
     "idNumerico": "35",
@@ -184,9 +184,9 @@
   "FAZENDA DO GALIN": {
     "idNumerico": null,
     "nome": "Fazenda do Galin",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:44|18/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "~E V O M~": {
     "idNumerico": "25",
@@ -205,8 +205,8 @@
   "QG FARM KHAOS": {
     "idNumerico": null,
     "nome": "QG FARM KHAOS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:24|18/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "RAMONZIN_FRANCA": {

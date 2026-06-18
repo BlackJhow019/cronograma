@@ -93,9 +93,9 @@
   "SAO PEDRO 2": {
     "idNumerico": null,
     "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:30|17/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "LEK0ZIKA": {
     "idNumerico": "35",
@@ -105,7 +105,7 @@
     "cofreConsertado": false
   },
   "FAZENDINHA DO IGEZE": {
-    "idNumerico": null,
+    "idNumerico": "36",
     "nome": "fazendinha do igeze",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -165,7 +165,7 @@
     "nome": "BEE",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:04|18/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
@@ -219,12 +219,12 @@
   "4I20 HASH FARM'S": {
     "idNumerico": null,
     "nome": "4i20 HASH FARM'S",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:10|17/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "PRESO NAO FOGE": {
-    "idNumerico": null,
+    "idNumerico": "15",
     "nome": "PRESO NAO FOGE",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -233,9 +233,9 @@
   "PEEEEERFEITO!!!": {
     "idNumerico": null,
     "nome": "Peeeeerfeito!!!",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:56|17/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
@@ -247,8 +247,8 @@
   "U$METRALHA FARM'S": {
     "idNumerico": null,
     "nome": "u$MeTraLha farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:03|17/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FARM'S DE CAFE": {
@@ -270,6 +270,20 @@
     "nome": "u$MeTralha",
     "status": "DISPONIVEL",
     "disponivelEm": null,
+    "cofreConsertado": false
+  },
+  "FAZENDA ROTA DO CAFÉ": {
+    "idNumerico": "17",
+    "nome": "Fazenda Rota do Café",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
+  },
+  "VAQUEIRO FARM´S": {
+    "idNumerico": null,
+    "nome": "Vaqueiro Farm´s",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:16|18/06/2026",
     "cofreConsertado": false
   }
 }

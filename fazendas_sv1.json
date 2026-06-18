@@ -98,11 +98,11 @@
     "cofreConsertado": false
   },
   "LEK0ZIKA": {
-    "idNumerico": "35",
+    "idNumerico": null,
     "nome": "Lek0zika",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:52|18/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
@@ -140,7 +140,7 @@
     "cofreConsertado": false
   },
   "< GAUBRE LTDA >": {
-    "idNumerico": null,
+    "idNumerico": "2",
     "nome": "< GAUBRE LTDA >",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:17|19/06/2026",
@@ -168,10 +168,10 @@
     "cofreConsertado": false
   },
   "FAZENDA DA MILLY": {
-    "idNumerico": "19",
+    "idNumerico": null,
     "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:11|19/06/2026",
     "cofreConsertado": false
   },
   "HWD INVESTIMENTOS": {
@@ -259,7 +259,7 @@
     "cofreConsertado": false
   },
   "K1NG FARM'S": {
-    "idNumerico": null,
+    "idNumerico": "25",
     "nome": "K1NG Farm's",
     "status": "DISPONIVEL",
     "disponivelEm": null,

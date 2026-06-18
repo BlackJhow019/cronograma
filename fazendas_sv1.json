@@ -60,7 +60,7 @@
     "nome": "Fazendinha Do Fire",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:11|18/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
@@ -177,15 +177,15 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": null,
     "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:21|18/06/2026",
-    "cofreConsertado": true
-  },
-  "MONOPOLIO FARMS": {
-    "idNumerico": "20",
-    "nome": "Monopolio Farms",
     "status": "DISPONIVEL",
     "disponivelEm": null,
+    "cofreConsertado": false
+  },
+  "MONOPOLIO FARMS": {
+    "idNumerico": null,
+    "nome": "Monopolio Farms",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:43|18/06/2026",
     "cofreConsertado": false
   },
   "AZEROX": {

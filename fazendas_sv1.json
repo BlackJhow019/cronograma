@@ -14,10 +14,10 @@
     "cofreConsertado": false
   },
   "021": {
-    "idNumerico": "1",
+    "idNumerico": null,
     "nome": "021",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:27|18/06/2026",
     "cofreConsertado": false
   },
   "PLANTACAO DE MARIHUANA": {
@@ -137,7 +137,7 @@
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:54|18/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "< GAUBRE LTDA >": {
     "idNumerico": "2",

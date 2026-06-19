@@ -9,9 +9,9 @@
   "JESUS EA SOLUCAO": {
     "idNumerico": null,
     "nome": "JESUS EA SOLUCAO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:50|19/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "AWAKE COMPANY": {
     "idNumerico": "13",
@@ -23,15 +23,15 @@
   "ROCK FARM": {
     "idNumerico": "11",
     "nome": "RocK Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:50|19/06/2026",
     "cofreConsertado": false
   },
   "FAZENDINHA BETREZE 2": {
-    "idNumerico": null,
+    "idNumerico": "38",
     "nome": "Fazendinha BeTreZe 2",
     "status": "INDISPONIVEL",
-    "disponivelEm": "23:59|19/06/2026",
+    "disponivelEm": "23:58|19/06/2026",
     "cofreConsertado": false
   },
   "EVENTO": {
@@ -80,8 +80,8 @@
     "idNumerico": "17",
     "nome": "Elite Farms",
     "status": "INDISPONIVEL",
-    "disponivelEm": "18:37|19/06/2026",
-    "cofreConsertado": true
+    "disponivelEm": "00:34|20/06/2026",
+    "cofreConsertado": false
   },
   "B13 :)": {
     "idNumerico": "23",
@@ -164,7 +164,7 @@
     "idNumerico": null,
     "nome": "Farme do Drake",
     "status": "INDISPONIVEL",
-    "disponivelEm": "18:51|19/06/2026",
+    "disponivelEm": null,
     "cofreConsertado": true
   },
   "DEAD (:": {
@@ -227,7 +227,7 @@
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
     "status": "INDISPONIVEL",
-    "disponivelEm": "19:50|19/06/2026",
+    "disponivelEm": "00:53|20/06/2026",
     "cofreConsertado": false
   },
   "FRANCA": {
@@ -238,10 +238,10 @@
     "cofreConsertado": false
   },
   "CHAMA A POLICIA": {
-    "idNumerico": null,
+    "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:06|20/06/2026",
     "cofreConsertado": false
   },
   "AURA + EGO": {
@@ -303,8 +303,8 @@
   "AMO A MAZZI": {
     "idNumerico": "6",
     "nome": "Amo a Mazzi",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:54|19/06/2026",
     "cofreConsertado": false
   }
 }

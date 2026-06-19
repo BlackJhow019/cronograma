@@ -14,11 +14,11 @@
     "cofreConsertado": false
   },
   "021": {
-    "idNumerico": "1",
+    "idNumerico": null,
     "nome": "021",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:27|19/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
@@ -38,8 +38,8 @@
     "idNumerico": "30",
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
-    "disponivelEm": "14:40|19/06/2026",
-    "cofreConsertado": true
+    "disponivelEm": "20:38|19/06/2026",
+    "cofreConsertado": false
   },
   "NIKE SHOX": {
     "idNumerico": null,
@@ -59,8 +59,8 @@
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
     "status": "INDISPONIVEL",
-    "disponivelEm": "14:34|19/06/2026",
-    "cofreConsertado": true
+    "disponivelEm": "19:43|19/06/2026",
+    "cofreConsertado": false
   },
   "PT FARM'S": {
     "idNumerico": "13",
@@ -164,7 +164,7 @@
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
     "status": "INDISPONIVEL",
-    "disponivelEm": "14:38|19/06/2026",
+    "disponivelEm": null,
     "cofreConsertado": true
   },
   "HWD INVESTIMENTOS": {
@@ -189,17 +189,17 @@
     "cofreConsertado": false
   },
   "LOS SMITH'S": {
-    "idNumerico": null,
+    "idNumerico": "44",
     "nome": "Los SmiTh's",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:37|19/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "ALCATRAZ INVESTIMENTOS LTDA": {
     "idNumerico": "6",
     "nome": "AlcatraZ Investimentos LTDA",
     "status": "INDISPONIVEL",
-    "disponivelEm": "14:29|19/06/2026",
+    "disponivelEm": "20:23|19/06/2026",
     "cofreConsertado": true
   },
   "FAZENDA PUTEIRO DO DEATH 4": {
@@ -226,9 +226,9 @@
   "PEEEEERFEITO!!!": {
     "idNumerico": "10",
     "nome": "Peeeeerfeito!!!",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:31|19/06/2026",
+    "cofreConsertado": true
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": null,

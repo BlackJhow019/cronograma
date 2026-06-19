@@ -77,10 +77,10 @@
     "cofreConsertado": true
   },
   "ELITE FARMS": {
-    "idNumerico": "17",
+    "idNumerico": null,
     "nome": "Elite Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:37|19/06/2026",
     "cofreConsertado": false
   },
   "B13 :)": {
@@ -130,7 +130,7 @@
     "nome": "Farms de Galopisitas",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:14|19/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "CANNABIS": {
     "idNumerico": null,

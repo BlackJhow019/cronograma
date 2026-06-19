@@ -126,7 +126,7 @@
     "cofreConsertado": false
   },
   "FARMS DE GALOPISITAS": {
-    "idNumerico": null,
+    "idNumerico": "20",
     "nome": "Farms de Galopisitas",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:14|19/06/2026",
@@ -177,8 +177,8 @@
   "DONA SEM RAZAO": {
     "idNumerico": null,
     "nome": "Dona sem razao",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:21|19/06/2026",
     "cofreConsertado": false
   },
   "FAZENDA DO GALIN": {
@@ -240,8 +240,8 @@
   "CHAMA A POLICIA": {
     "idNumerico": null,
     "nome": "CHAMA A POLICIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:16|19/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "AURA + EGO": {

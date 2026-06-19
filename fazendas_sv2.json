@@ -84,7 +84,7 @@
     "cofreConsertado": false
   },
   "B13 :)": {
-    "idNumerico": null,
+    "idNumerico": "23",
     "nome": "B13 :)",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:18|19/06/2026",
@@ -238,10 +238,10 @@
     "cofreConsertado": true
   },
   "CHAMA A POLICIA": {
-    "idNumerico": "44",
+    "idNumerico": null,
     "nome": "CHAMA A POLICIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:16|19/06/2026",
     "cofreConsertado": false
   },
   "AURA + EGO": {

@@ -7,11 +7,11 @@
     "cofreConsertado": false
   },
   "RICO LOUCO": {
-    "idNumerico": "11",
+    "idNumerico": null,
     "nome": "rico louco",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:56|18/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "021": {
     "idNumerico": "1",
@@ -28,17 +28,17 @@
     "cofreConsertado": false
   },
   "KODIAK": {
-    "idNumerico": null,
+    "idNumerico": "3",
     "nome": "KodiaK",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
-    "idNumerico": "40",
+    "idNumerico": "30",
     "nome": "GRUPO NEXUS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:13|19/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "NIKE SHOX": {
@@ -105,17 +105,17 @@
     "cofreConsertado": false
   },
   "FAMILIA KUSH": {
-    "idNumerico": "34",
+    "idNumerico": null,
     "nome": "Familia KuSh",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:24|19/06/2026",
     "cofreConsertado": false
   },
   "BORRACHAS FARM": {
     "idNumerico": null,
     "nome": "Borrachas Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:47|18/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "WESKER_U$METRALHA": {
@@ -126,17 +126,17 @@
     "cofreConsertado": false
   },
   "OS DE RACA": {
-    "idNumerico": "0",
+    "idNumerico": null,
     "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:13|19/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "< GAUBRE LTDA >": {
-    "idNumerico": "2",
+    "idNumerico": null,
     "nome": "< GAUBRE LTDA >",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:17|19/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "VENDO 500KM ACEITO TROCAS": {
@@ -163,9 +163,9 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:11|19/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
@@ -196,11 +196,11 @@
     "cofreConsertado": false
   },
   "ALCATRAZ INVESTIMENTOS LTDA": {
-    "idNumerico": null,
+    "idNumerico": "6",
     "nome": "AlcatraZ Investimentos LTDA",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:47|19/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAZENDA PUTEIRO DO DEATH 4": {
     "idNumerico": "31",

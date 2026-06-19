@@ -45,7 +45,7 @@
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
     "status": "INDISPONIVEL",
-    "disponivelEm": "15:06|19/06/2026",
+    "disponivelEm": "20:17|19/06/2026",
     "cofreConsertado": false
   },
   "LA FAMILIA CHIARADIA": {
@@ -112,11 +112,11 @@
     "cofreConsertado": false
   },
   "YELLOWSTONE - BY MONSTER": {
-    "idNumerico": null,
+    "idNumerico": "16",
     "nome": "YellowStone - By Monster",
     "status": "INDISPONIVEL",
-    "disponivelEm": "19:42|19/06/2026",
-    "cofreConsertado": false
+    "disponivelEm": "19:46|19/06/2026",
+    "cofreConsertado": true
   },
   "VALE DAS SOMBRAS": {
     "idNumerico": null,
@@ -171,8 +171,8 @@
     "idNumerico": "27",
     "nome": "Dead (:",
     "status": "INDISPONIVEL",
-    "disponivelEm": "15:20|19/06/2026",
-    "cofreConsertado": true
+    "disponivelEm": "20:29|19/06/2026",
+    "cofreConsertado": false
   },
   "DONA SEM RAZAO": {
     "idNumerico": "26",
@@ -217,25 +217,25 @@
     "cofreConsertado": false
   },
   "FARM DA THATY": {
-    "idNumerico": "1",
+    "idNumerico": null,
     "nome": "Farm da Thaty",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:52|19/06/2026",
-    "cofreConsertado": true
-  },
-  "FARM DO SAPATO": {
-    "idNumerico": "9",
-    "nome": "FARM DO SAPATO",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
+  "FARM DO SAPATO": {
+    "idNumerico": "9",
+    "nome": "FARM DO SAPATO",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:50|19/06/2026",
+    "cofreConsertado": false
+  },
   "FRANCA": {
-    "idNumerico": null,
+    "idNumerico": "28",
     "nome": "FRANCA",
     "status": "INDISPONIVEL",
-    "disponivelEm": "13:44|19/06/2026",
-    "cofreConsertado": true
+    "disponivelEm": "20:02|19/06/2026",
+    "cofreConsertado": false
   },
   "CHAMA A POLICIA": {
     "idNumerico": null,
@@ -259,17 +259,17 @@
     "cofreConsertado": false
   },
   "RICK FARM'S": {
-    "idNumerico": null,
+    "idNumerico": "34",
     "nome": "Rick Farm's",
     "status": "INDISPONIVEL",
-    "disponivelEm": "14:26|19/06/2026",
+    "disponivelEm": "19:48|19/06/2026",
     "cofreConsertado": true
   },
   "GRUPO RANTER": {
     "idNumerico": "19",
     "nome": "GRUPO RANTER",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:19|19/06/2026",
     "cofreConsertado": false
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
@@ -282,8 +282,8 @@
   "FAZENDA MAO DE VACA": {
     "idNumerico": "14",
     "nome": "Fazenda Mao de Vaca",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:43|19/06/2026",
     "cofreConsertado": false
   },
   "/VENDERPRODUTOS": {
@@ -296,9 +296,9 @@
   "FAZENDA REI DROGADO": {
     "idNumerico": null,
     "nome": "Fazenda Rei Drogado",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:18|19/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "AMO A MAZZI": {
     "idNumerico": null,

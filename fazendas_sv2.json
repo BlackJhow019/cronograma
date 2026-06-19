@@ -37,9 +37,9 @@
   "EVENTO": {
     "idNumerico": "42",
     "nome": "EVENTO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:36|19/06/2026",
+    "cofreConsertado": true
   },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
@@ -70,11 +70,11 @@
     "cofreConsertado": false
   },
   "TA NO GRALI": {
-    "idNumerico": null,
+    "idNumerico": "4",
     "nome": "ta no grali",
     "status": "INDISPONIVEL",
-    "disponivelEm": "23:31|19/06/2026",
-    "cofreConsertado": false
+    "disponivelEm": "23:33|19/06/2026",
+    "cofreConsertado": true
   },
   "ELITE FARMS": {
     "idNumerico": "17",
@@ -129,7 +129,7 @@
     "idNumerico": "20",
     "nome": "Farms de Galopisitas",
     "status": "INDISPONIVEL",
-    "disponivelEm": "18:14|19/06/2026",
+    "disponivelEm": "23:28|19/06/2026",
     "cofreConsertado": true
   },
   "CANNABIS": {
@@ -175,10 +175,10 @@
     "cofreConsertado": false
   },
   "DONA SEM RAZAO": {
-    "idNumerico": null,
+    "idNumerico": "26",
     "nome": "Dona sem razao",
     "status": "INDISPONIVEL",
-    "disponivelEm": "23:21|19/06/2026",
+    "disponivelEm": "23:24|19/06/2026",
     "cofreConsertado": true
   },
   "FAZENDA DO GALIN": {

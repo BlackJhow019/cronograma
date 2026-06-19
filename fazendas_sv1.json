@@ -7,17 +7,17 @@
     "cofreConsertado": false
   },
   "RICO LOUCO": {
-    "idNumerico": null,
+    "idNumerico": "11",
     "nome": "rico louco",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
   "021": {
-    "idNumerico": "1",
+    "idNumerico": null,
     "nome": "021",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:24|19/06/2026",
     "cofreConsertado": false
   },
   "PREFEITO ROADBLOCK": {
@@ -107,12 +107,12 @@
   "FAMILIA KUSH": {
     "idNumerico": null,
     "nome": "Familia KuSh",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:24|19/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "BORRACHAS FARM": {
-    "idNumerico": null,
+    "idNumerico": "33",
     "nome": "Borrachas Farm",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -126,7 +126,7 @@
     "cofreConsertado": false
   },
   "OS DE RACA": {
-    "idNumerico": null,
+    "idNumerico": "0",
     "nome": "OS DE RACA",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -198,9 +198,9 @@
   "ALCATRAZ INVESTIMENTOS LTDA": {
     "idNumerico": "6",
     "nome": "AlcatraZ Investimentos LTDA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:47|19/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FAZENDA PUTEIRO DO DEATH 4": {
     "idNumerico": "31",

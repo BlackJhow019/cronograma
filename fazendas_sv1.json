@@ -7,11 +7,11 @@
     "cofreConsertado": false
   },
   "RICO LOUCO": {
-    "idNumerico": null,
+    "idNumerico": "11",
     "nome": "rico louco",
     "status": "INDISPONIVEL",
-    "disponivelEm": "23:14|19/06/2026",
-    "cofreConsertado": false
+    "disponivelEm": "23:15|19/06/2026",
+    "cofreConsertado": true
   },
   "021": {
     "idNumerico": "1",
@@ -38,8 +38,8 @@
     "idNumerico": "30",
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
-    "disponivelEm": "21:50|19/06/2026",
-    "cofreConsertado": false
+    "disponivelEm": "23:21|19/06/2026",
+    "cofreConsertado": true
   },
   "NIKE SHOX": {
     "idNumerico": null,
@@ -240,8 +240,8 @@
   "U$METRALHA FARM'S": {
     "idNumerico": "29",
     "nome": "u$MeTraLha farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:11|19/06/2026",
     "cofreConsertado": false
   },
   "FARM'S DE CAFE": {

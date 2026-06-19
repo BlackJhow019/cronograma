@@ -49,10 +49,10 @@
     "cofreConsertado": false
   },
   "FAZENDINHA DO FIRE": {
-    "idNumerico": "12",
+    "idNumerico": null,
     "nome": "Fazendinha Do Fire",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:46|19/06/2026",
     "cofreConsertado": false
   },
   "RANCHO DO DOUTOR": {
@@ -102,7 +102,7 @@
     "nome": "fazendinha do igeze",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:33|19/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAMILIA KUSH": {
     "idNumerico": null,

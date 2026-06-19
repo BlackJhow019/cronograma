@@ -100,8 +100,8 @@
   "FARM DO GALO": {
     "idNumerico": null,
     "nome": "FARM DO GALO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:17|19/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "MALVADA'S FARM": {
@@ -142,8 +142,8 @@
   "AMO O LOWER": {
     "idNumerico": null,
     "nome": "Amo o Lower",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:09|19/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "SE ROUBAR MORRE": {
@@ -175,7 +175,7 @@
     "cofreConsertado": false
   },
   "DONA SEM RAZAO": {
-    "idNumerico": null,
+    "idNumerico": "26",
     "nome": "Dona sem razao",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -221,7 +221,7 @@
     "nome": "Farm da Thaty",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:52|19/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FARM DO SAPATO": {
     "idNumerico": "9",
@@ -294,17 +294,17 @@
     "cofreConsertado": false
   },
   "FAZENDA REI DROGADO": {
-    "idNumerico": "31",
+    "idNumerico": null,
     "nome": "Fazenda Rei Drogado",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:18|19/06/2026",
     "cofreConsertado": false
   },
   "AMO A MAZZI": {
     "idNumerico": null,
     "nome": "Amo a Mazzi",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:13|19/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   }
 }

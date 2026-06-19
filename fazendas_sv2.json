@@ -23,9 +23,9 @@
   "ROCK FARM": {
     "idNumerico": null,
     "nome": "RocK Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:43|19/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",
@@ -51,9 +51,9 @@
   "LA FAMILIA CHIARADIA": {
     "idNumerico": null,
     "nome": "LA FAMILIA CHIARADIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:55|19/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
@@ -72,9 +72,9 @@
   "TA NO GRALI": {
     "idNumerico": null,
     "nome": "ta no grali",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:46|19/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "ELITE FARMS": {
     "idNumerico": "17",
@@ -135,19 +135,19 @@
   "CANNABIS": {
     "idNumerico": null,
     "nome": "CANNABIS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:57|19/06/2026",
     "cofreConsertado": false
   },
   "AMO O LOWER": {
-    "idNumerico": null,
+    "idNumerico": "2",
     "nome": "Amo o Lower",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
   "SE ROUBAR MORRE": {
-    "idNumerico": null,
+    "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:41|19/06/2026",

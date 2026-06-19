@@ -72,8 +72,8 @@
   "TA NO GRALI": {
     "idNumerico": null,
     "nome": "ta no grali",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:31|19/06/2026",
     "cofreConsertado": false
   },
   "ELITE FARMS": {
@@ -179,7 +179,7 @@
     "nome": "Dona sem razao",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:21|19/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAZENDA DO GALIN": {
     "idNumerico": "15",

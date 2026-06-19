@@ -91,11 +91,11 @@
     "cofreConsertado": false
   },
   "FAZENDA DO MIRIM": {
-    "idNumerico": null,
+    "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:31|20/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FARM DO GALO": {
     "idNumerico": "40",
@@ -112,11 +112,11 @@
     "cofreConsertado": false
   },
   "YELLOWSTONE - BY MONSTER": {
-    "idNumerico": "16",
+    "idNumerico": null,
     "nome": "YellowStone - By Monster",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:46|19/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "VALE DAS SOMBRAS": {
     "idNumerico": null,
@@ -259,11 +259,11 @@
     "cofreConsertado": false
   },
   "RICK FARM'S": {
-    "idNumerico": "34",
+    "idNumerico": null,
     "nome": "Rick Farm's",
     "status": "INDISPONIVEL",
-    "disponivelEm": "19:48|19/06/2026",
-    "cofreConsertado": true
+    "disponivelEm": "01:50|20/06/2026",
+    "cofreConsertado": false
   },
   "GRUPO RANTER": {
     "idNumerico": "19",
@@ -280,10 +280,10 @@
     "cofreConsertado": true
   },
   "FAZENDA MAO DE VACA": {
-    "idNumerico": "14",
+    "idNumerico": null,
     "nome": "Fazenda Mao de Vaca",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:43|19/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "/VENDERPRODUTOS": {

@@ -7,7 +7,7 @@
     "cofreConsertado": false
   },
   "JESUS EA SOLUCAO": {
-    "idNumerico": null,
+    "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -163,9 +163,9 @@
   "FARME DO DRAKE": {
     "idNumerico": null,
     "nome": "Farme do Drake",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true
+    "cofreConsertado": false
   },
   "DEAD (:": {
     "idNumerico": "27",
@@ -219,8 +219,8 @@
   "FARM DA THATY": {
     "idNumerico": null,
     "nome": "Farm da Thaty",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:25|20/06/2026",
     "cofreConsertado": false
   },
   "FARM DO SAPATO": {
@@ -228,7 +228,7 @@
     "nome": "FARM DO SAPATO",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:53|20/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FRANCA": {
     "idNumerico": "28",
@@ -254,8 +254,8 @@
   "SUCCUBUS FARMS": {
     "idNumerico": null,
     "nome": "Succubus Farms",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:56|19/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "RICK FARM'S": {

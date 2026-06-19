@@ -123,7 +123,7 @@
     "nome": "Vale das Sombras",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:41|19/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FARMS DE GALOPISITAS": {
     "idNumerico": null,
@@ -219,8 +219,8 @@
   "FARM DA THATY": {
     "idNumerico": null,
     "nome": "Farm da Thaty",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:52|19/06/2026",
     "cofreConsertado": false
   },
   "FARM DO SAPATO": {
@@ -235,7 +235,7 @@
     "nome": "FRANCA",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:44|19/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "CHAMA A POLICIA": {
     "idNumerico": "44",

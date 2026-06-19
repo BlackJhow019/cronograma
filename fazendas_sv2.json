@@ -7,10 +7,10 @@
     "cofreConsertado": false
   },
   "JESUS EA SOLUCAO": {
-    "idNumerico": "0",
+    "idNumerico": null,
     "nome": "JESUS EA SOLUCAO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:52|19/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "AWAKE COMPANY": {
@@ -140,10 +140,10 @@
     "cofreConsertado": false
   },
   "AMO O LOWER": {
-    "idNumerico": "2",
+    "idNumerico": null,
     "nome": "Amo o Lower",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:09|19/06/2026",
     "cofreConsertado": false
   },
   "SE ROUBAR MORRE": {
@@ -219,8 +219,8 @@
   "FARM DA THATY": {
     "idNumerico": null,
     "nome": "Farm da Thaty",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:58|19/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FARM DO SAPATO": {
@@ -252,7 +252,7 @@
     "cofreConsertado": false
   },
   "SUCCUBUS FARMS": {
-    "idNumerico": null,
+    "idNumerico": "29",
     "nome": "Succubus Farms",
     "status": "DISPONIVEL",
     "disponivelEm": null,

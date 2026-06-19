@@ -60,7 +60,7 @@
     "nome": "Rancho do Doutor",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:43|19/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "PT FARM'S": {
     "idNumerico": "13",
@@ -91,7 +91,7 @@
     "cofreConsertado": false
   },
   "LEK0ZIKA": {
-    "idNumerico": null,
+    "idNumerico": "35",
     "nome": "Lek0zika",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -156,8 +156,8 @@
   "BEE": {
     "idNumerico": null,
     "nome": "BEE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:27|20/06/2026",
     "cofreConsertado": false
   },
   "FAZENDA DA MILLY": {

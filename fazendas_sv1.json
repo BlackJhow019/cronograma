@@ -42,10 +42,10 @@
     "cofreConsertado": true
   },
   "NIKE SHOX": {
-    "idNumerico": "42",
+    "idNumerico": null,
     "nome": "NIKE SHOX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:05|19/06/2026",
     "cofreConsertado": false
   },
   "FAZENDINHA DO FIRE": {
@@ -105,7 +105,7 @@
     "cofreConsertado": true
   },
   "FAMILIA KUSH": {
-    "idNumerico": null,
+    "idNumerico": "34",
     "nome": "Familia KuSh",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -158,7 +158,7 @@
     "nome": "BEE",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:59|19/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",

@@ -14,11 +14,11 @@
     "cofreConsertado": false
   },
   "021": {
-    "idNumerico": null,
+    "idNumerico": "1",
     "nome": "021",
     "status": "INDISPONIVEL",
-    "disponivelEm": "14:24|19/06/2026",
-    "cofreConsertado": false
+    "disponivelEm": "14:27|19/06/2026",
+    "cofreConsertado": true
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
@@ -37,9 +37,9 @@
   "GRUPO NEXUS": {
     "idNumerico": "30",
     "nome": "GRUPO NEXUS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:40|19/06/2026",
+    "cofreConsertado": true
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -58,9 +58,9 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:34|19/06/2026",
+    "cofreConsertado": true
   },
   "PT FARM'S": {
     "idNumerico": "13",
@@ -163,9 +163,9 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:38|19/06/2026",
+    "cofreConsertado": true
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
@@ -177,8 +177,8 @@
   "MONOPOLIO FARMS": {
     "idNumerico": "20",
     "nome": "Monopolio Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:14|19/06/2026",
     "cofreConsertado": false
   },
   "AZEROX": {
@@ -198,9 +198,9 @@
   "ALCATRAZ INVESTIMENTOS LTDA": {
     "idNumerico": "6",
     "nome": "AlcatraZ Investimentos LTDA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:29|19/06/2026",
+    "cofreConsertado": true
   },
   "FAZENDA PUTEIRO DO DEATH 4": {
     "idNumerico": "31",
@@ -254,9 +254,9 @@
   "K1NG FARM'S": {
     "idNumerico": "25",
     "nome": "K1NG Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:15|19/06/2026",
+    "cofreConsertado": true
   },
   "U$METRALHA": {
     "idNumerico": "32",
@@ -273,10 +273,10 @@
     "cofreConsertado": false
   },
   "VAQUEIRO FARM´S": {
-    "idNumerico": null,
+    "idNumerico": "18",
     "nome": "Vaqueiro Farm´s",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:48|19/06/2026",
     "cofreConsertado": false
   },
   "RICK FARM´S": {

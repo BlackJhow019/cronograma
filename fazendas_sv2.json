@@ -46,7 +46,7 @@
     "nome": "Fazenda do Temor",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:17|19/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": null,
@@ -156,8 +156,8 @@
   "ARIANA_B13": {
     "idNumerico": null,
     "nome": "Ariana_B13",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:09|20/06/2026",
     "cofreConsertado": false
   },
   "FARME DO DRAKE": {
@@ -231,10 +231,10 @@
     "cofreConsertado": true
   },
   "FRANCA": {
-    "idNumerico": "28",
+    "idNumerico": null,
     "nome": "FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:02|19/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "CHAMA A POLICIA": {
@@ -263,7 +263,7 @@
     "nome": "Rick Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:50|20/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "GRUPO RANTER": {
     "idNumerico": "19",

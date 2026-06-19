@@ -2,8 +2,8 @@
   "999": {
     "idNumerico": "39",
     "nome": "999",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:25|19/06/2026",
     "cofreConsertado": false
   },
   "JESUS EA SOLUCAO": {
@@ -65,8 +65,8 @@
   "WELCOME > MELHOR FAZENDA DO BPS": {
     "idNumerico": "37",
     "nome": "WELCOME > MELHOR FAZENDA DO BPS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:36|19/06/2026",
     "cofreConsertado": false
   },
   "TA NO GRALI": {
@@ -87,7 +87,7 @@
     "idNumerico": "23",
     "nome": "B13 :)",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:18|19/06/2026",
+    "disponivelEm": "21:53|19/06/2026",
     "cofreConsertado": false
   },
   "FAZENDA DO MIRIM": {
@@ -133,11 +133,11 @@
     "cofreConsertado": true
   },
   "CANNABIS": {
-    "idNumerico": null,
+    "idNumerico": "8",
     "nome": "CANNABIS",
     "status": "INDISPONIVEL",
-    "disponivelEm": "20:57|19/06/2026",
-    "cofreConsertado": false
+    "disponivelEm": "20:58|19/06/2026",
+    "cofreConsertado": true
   },
   "AMO O LOWER": {
     "idNumerico": "2",
@@ -150,8 +150,8 @@
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
     "status": "INDISPONIVEL",
-    "disponivelEm": "15:41|19/06/2026",
-    "cofreConsertado": true
+    "disponivelEm": "20:54|19/06/2026",
+    "cofreConsertado": false
   },
   "ARIANA_B13": {
     "idNumerico": null,
@@ -175,11 +175,11 @@
     "cofreConsertado": false
   },
   "DONA SEM RAZAO": {
-    "idNumerico": "26",
+    "idNumerico": null,
     "nome": "Dona sem razao",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:23|19/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FAZENDA DO GALIN": {
     "idNumerico": "15",
@@ -189,17 +189,17 @@
     "cofreConsertado": false
   },
   "~E V O M~": {
-    "idNumerico": "25",
+    "idNumerico": null,
     "nome": "~E V O M~",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:18|19/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:48|19/06/2026",
     "cofreConsertado": false
   },
   "QG FARM KHAOS": {
@@ -247,9 +247,9 @@
   "AURA + EGO": {
     "idNumerico": "22",
     "nome": "Aura + Ego",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:50|19/06/2026",
+    "cofreConsertado": true
   },
   "SUCCUBUS FARMS": {
     "idNumerico": null,
@@ -289,15 +289,15 @@
   "/VENDERPRODUTOS": {
     "idNumerico": "7",
     "nome": "/VENDERPRODUTOS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:20|19/06/2026",
     "cofreConsertado": false
   },
   "FAZENDA REI DROGADO": {
-    "idNumerico": null,
+    "idNumerico": "31",
     "nome": "Fazenda Rei Drogado",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:54|19/06/2026",
     "cofreConsertado": false
   },
   "AMO A MAZZI": {

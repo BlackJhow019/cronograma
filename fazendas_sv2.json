@@ -21,17 +21,17 @@
     "cofreConsertado": true
   },
   "ROCK FARM": {
-    "idNumerico": null,
+    "idNumerico": "11",
     "nome": "RocK Farm",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
   "FAZENDINHA BETREZE 2": {
-    "idNumerico": "38",
+    "idNumerico": null,
     "nome": "Fazendinha BeTreZe 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:59|19/06/2026",
     "cofreConsertado": false
   },
   "EVENTO": {
@@ -98,7 +98,7 @@
     "cofreConsertado": false
   },
   "FARM DO GALO": {
-    "idNumerico": null,
+    "idNumerico": "40",
     "nome": "FARM DO GALO",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -203,7 +203,7 @@
     "cofreConsertado": false
   },
   "QG FARM KHAOS": {
-    "idNumerico": null,
+    "idNumerico": "18",
     "nome": "QG FARM KHAOS",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -301,7 +301,7 @@
     "cofreConsertado": false
   },
   "AMO A MAZZI": {
-    "idNumerico": null,
+    "idNumerico": "6",
     "nome": "Amo a Mazzi",
     "status": "DISPONIVEL",
     "disponivelEm": null,

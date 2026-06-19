@@ -23,8 +23,8 @@
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:39|19/06/2026",
     "cofreConsertado": false
   },
   "KODIAK": {
@@ -38,15 +38,15 @@
     "idNumerico": "30",
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
-    "disponivelEm": "23:21|19/06/2026",
-    "cofreConsertado": true
+    "disponivelEm": "00:16|20/06/2026",
+    "cofreConsertado": false
   },
   "NIKE SHOX": {
     "idNumerico": null,
     "nome": "NIKE SHOX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:05|19/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FAZENDINHA DO FIRE": {
     "idNumerico": null,
@@ -79,9 +79,9 @@
   "THUG LIFE": {
     "idNumerico": "21",
     "nome": "THUG LIFE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:06|20/06/2026",
+    "cofreConsertado": true
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -149,9 +149,9 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:28|20/06/2026",
+    "cofreConsertado": true
   },
   "BEE": {
     "idNumerico": null,
@@ -170,9 +170,9 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:05|20/06/2026",
+    "cofreConsertado": true
   },
   "MONOPOLIO FARMS": {
     "idNumerico": "20",
@@ -192,8 +192,8 @@
     "idNumerico": "44",
     "nome": "Los SmiTh's",
     "status": "INDISPONIVEL",
-    "disponivelEm": "18:37|19/06/2026",
-    "cofreConsertado": true
+    "disponivelEm": "00:14|20/06/2026",
+    "cofreConsertado": false
   },
   "ALCATRAZ INVESTIMENTOS LTDA": {
     "idNumerico": "6",
@@ -205,9 +205,9 @@
   "FAZENDA PUTEIRO DO DEATH 4": {
     "idNumerico": "31",
     "nome": "Fazenda puteiro do Death 4",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:21|20/06/2026",
+    "cofreConsertado": true
   },
   "4I20 HASH FARM'S": {
     "idNumerico": "16",
@@ -224,11 +224,11 @@
     "cofreConsertado": false
   },
   "PEEEEERFEITO!!!": {
-    "idNumerico": "10",
+    "idNumerico": null,
     "nome": "Peeeeerfeito!!!",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:31|19/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
@@ -241,14 +241,14 @@
     "idNumerico": "29",
     "nome": "u$MeTraLha farm's",
     "status": "INDISPONIVEL",
-    "disponivelEm": "23:11|19/06/2026",
+    "disponivelEm": "00:45|20/06/2026",
     "cofreConsertado": false
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:49|20/06/2026",
     "cofreConsertado": false
   },
   "K1NG FARM'S": {

@@ -46,7 +46,7 @@
     "nome": "NIKE SHOX",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:05|19/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAZENDINHA DO FIRE": {
     "idNumerico": null,
@@ -189,10 +189,10 @@
     "cofreConsertado": false
   },
   "LOS SMITH'S": {
-    "idNumerico": "44",
+    "idNumerico": null,
     "nome": "Los SmiTh's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:37|19/06/2026",
     "cofreConsertado": false
   },
   "ALCATRAZ INVESTIMENTOS LTDA": {
@@ -277,7 +277,7 @@
     "nome": "Vaqueiro Farm´s",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:48|19/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "RICK FARM´S": {
     "idNumerico": "5",

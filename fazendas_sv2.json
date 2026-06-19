@@ -28,7 +28,7 @@
     "cofreConsertado": false
   },
   "FAZENDINHA BETREZE 2": {
-    "idNumerico": null,
+    "idNumerico": "38",
     "nome": "Fazendinha BeTreZe 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:52|18/06/2026",
@@ -151,7 +151,7 @@
     "nome": "SE ROUBAR MORRE",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:51|19/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "ARIANA_B13": {
     "idNumerico": "10",
@@ -161,10 +161,10 @@
     "cofreConsertado": false
   },
   "FARME DO DRAKE": {
-    "idNumerico": "35",
+    "idNumerico": null,
     "nome": "Farme do Drake",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:25|19/06/2026",
     "cofreConsertado": false
   },
   "DEAD (:": {
@@ -177,9 +177,9 @@
   "DONA SEM RAZAO": {
     "idNumerico": null,
     "nome": "Dona sem razao",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:20|18/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FAZENDA DO GALIN": {
     "idNumerico": "15",

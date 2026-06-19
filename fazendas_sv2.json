@@ -14,11 +14,11 @@
     "cofreConsertado": true
   },
   "AWAKE COMPANY": {
-    "idNumerico": null,
+    "idNumerico": "13",
     "nome": "AwaKe Company",
     "status": "INDISPONIVEL",
-    "disponivelEm": "17:33|19/06/2026",
-    "cofreConsertado": false
+    "disponivelEm": "22:57|19/06/2026",
+    "cofreConsertado": true
   },
   "ROCK FARM": {
     "idNumerico": null,
@@ -275,9 +275,9 @@
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",
     "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:44|19/06/2026",
+    "cofreConsertado": true
   },
   "FAZENDA MAO DE VACA": {
     "idNumerico": "14",

@@ -49,10 +49,10 @@
     "cofreConsertado": false
   },
   "LA FAMILIA CHIARADIA": {
-    "idNumerico": "43",
+    "idNumerico": null,
     "nome": "LA FAMILIA CHIARADIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:55|19/06/2026",
     "cofreConsertado": false
   },
   "FARMA DA FAMILIA ELITE": {
@@ -74,7 +74,7 @@
     "nome": "ta no grali",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:46|19/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "ELITE FARMS": {
     "idNumerico": "17",

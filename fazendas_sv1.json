@@ -112,10 +112,10 @@
     "cofreConsertado": false
   },
   "BORRACHAS FARM": {
-    "idNumerico": "33",
+    "idNumerico": null,
     "nome": "Borrachas Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:22|20/06/2026",
     "cofreConsertado": false
   },
   "WESKER_U$METRALHA": {
@@ -161,7 +161,7 @@
     "cofreConsertado": false
   },
   "FAZENDA DA MILLY": {
-    "idNumerico": null,
+    "idNumerico": "19",
     "nome": "Fazenda da Milly",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -193,7 +193,7 @@
     "nome": "Los SmiTh's",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:01|20/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "ALCATRAZ INVESTIMENTOS LTDA": {
     "idNumerico": "6",

@@ -77,10 +77,10 @@
     "cofreConsertado": false
   },
   "THUG LIFE": {
-    "idNumerico": "21",
+    "idNumerico": null,
     "nome": "THUG LIFE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:50|20/06/2026",
     "cofreConsertado": false
   },
   "SAO PEDRO 2": {
@@ -130,7 +130,7 @@
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:41|20/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "< GAUBRE LTDA >": {
     "idNumerico": "2",

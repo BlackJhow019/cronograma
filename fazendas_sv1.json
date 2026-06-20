@@ -9,15 +9,15 @@
   "RICO LOUCO": {
     "idNumerico": null,
     "nome": "rico louco",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:58|20/06/2026",
-    "cofreConsertado": true
-  },
-  "021": {
-    "idNumerico": "1",
-    "nome": "021",
     "status": "DISPONIVEL",
     "disponivelEm": null,
+    "cofreConsertado": false
+  },
+  "021": {
+    "idNumerico": null,
+    "nome": "021",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:43|20/06/2026",
     "cofreConsertado": false
   },
   "PREFEITO ROADBLOCK": {
@@ -35,11 +35,11 @@
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
-    "idNumerico": "22",
+    "idNumerico": "30",
     "nome": "GRUPO NEXUS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:06|20/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -81,7 +81,7 @@
     "nome": "THUG LIFE",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:50|20/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -261,8 +261,8 @@
   "U$METRALHA": {
     "idNumerico": null,
     "nome": "u$MeTralha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:26|20/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FAZENDA ROTA DO CAFÉ": {

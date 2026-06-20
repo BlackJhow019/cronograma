@@ -35,7 +35,7 @@
     "cofreConsertado": false
   },
   "EVENTO": {
-    "idNumerico": null,
+    "idNumerico": "12",
     "nome": "EVENTO",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:31|20/06/2026",
@@ -49,7 +49,7 @@
     "cofreConsertado": false
   },
   "LA FAMILIA CHIARADIA": {
-    "idNumerico": null,
+    "idNumerico": "43",
     "nome": "LA FAMILIA CHIARADIA",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -135,8 +135,8 @@
   "CANNABIS": {
     "idNumerico": null,
     "nome": "CANNABIS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:03|20/06/2026",
     "cofreConsertado": false
   },
   "AMO O LOWER": {
@@ -147,7 +147,7 @@
     "cofreConsertado": false
   },
   "SE ROUBAR MORRE": {
-    "idNumerico": null,
+    "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -224,7 +224,7 @@
     "cofreConsertado": false
   },
   "FARM DO SAPATO": {
-    "idNumerico": null,
+    "idNumerico": "9",
     "nome": "FARM DO SAPATO",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:52|20/06/2026",
@@ -249,7 +249,7 @@
     "nome": "Aura + Ego",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:54|20/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "SUCCUBUS FARMS": {
     "idNumerico": null,
@@ -259,7 +259,7 @@
     "cofreConsertado": false
   },
   "RICK FARM'S": {
-    "idNumerico": null,
+    "idNumerico": "34",
     "nome": "Rick Farm's",
     "status": "DISPONIVEL",
     "disponivelEm": null,

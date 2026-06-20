@@ -49,11 +49,11 @@
     "cofreConsertado": false
   },
   "FAZENDINHA DO FIRE": {
-    "idNumerico": "12",
+    "idNumerico": null,
     "nome": "Fazendinha Do Fire",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:58|20/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
@@ -63,10 +63,10 @@
     "cofreConsertado": false
   },
   "PT FARM'S": {
-    "idNumerico": "13",
+    "idNumerico": null,
     "nome": "PT farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:16|20/06/2026",
     "cofreConsertado": false
   },
   "RAFHA INVESTIMENTOS $": {
@@ -98,7 +98,7 @@
     "cofreConsertado": false
   },
   "FAZENDINHA DO IGEZE": {
-    "idNumerico": null,
+    "idNumerico": "36",
     "nome": "fazendinha do igeze",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -238,7 +238,7 @@
     "cofreConsertado": false
   },
   "U$METRALHA FARM'S": {
-    "idNumerico": null,
+    "idNumerico": "29",
     "nome": "u$MeTraLha farm's",
     "status": "DISPONIVEL",
     "disponivelEm": null,

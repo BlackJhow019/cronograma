@@ -184,8 +184,8 @@
   "FAZENDA DO GALIN": {
     "idNumerico": null,
     "nome": "Fazenda do Galin",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:57|20/06/2026",
     "cofreConsertado": false
   },
   "~E V O M~": {
@@ -226,8 +226,8 @@
   "FARM DO SAPATO": {
     "idNumerico": null,
     "nome": "FARM DO SAPATO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:50|20/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FRANCA": {
@@ -277,7 +277,7 @@
     "nome": "$ Company $r.RC_PlinioDmG $",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:48|20/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAZENDA MAO DE VACA": {
     "idNumerico": "14",

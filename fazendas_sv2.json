@@ -42,7 +42,7 @@
     "cofreConsertado": true
   },
   "FAZENDA DO TEMOR": {
-    "idNumerico": null,
+    "idNumerico": "30",
     "nome": "Fazenda do Temor",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -112,7 +112,7 @@
     "cofreConsertado": false
   },
   "YELLOWSTONE - BY MONSTER": {
-    "idNumerico": null,
+    "idNumerico": "16",
     "nome": "YellowStone - By Monster",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -154,7 +154,7 @@
     "cofreConsertado": false
   },
   "ARIANA_B13": {
-    "idNumerico": null,
+    "idNumerico": "10",
     "nome": "Ariana_B13",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -168,7 +168,7 @@
     "cofreConsertado": false
   },
   "DEAD (:": {
-    "idNumerico": null,
+    "idNumerico": "27",
     "nome": "Dead (:",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -226,8 +226,8 @@
   "FARM DO SAPATO": {
     "idNumerico": null,
     "nome": "FARM DO SAPATO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:50|20/06/2026",
     "cofreConsertado": false
   },
   "FRANCA": {
@@ -266,11 +266,11 @@
     "cofreConsertado": false
   },
   "GRUPO RANTER": {
-    "idNumerico": "19",
+    "idNumerico": null,
     "nome": "GRUPO RANTER",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:22|20/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",

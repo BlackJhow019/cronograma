@@ -14,11 +14,11 @@
     "cofreConsertado": false
   },
   "021": {
-    "idNumerico": null,
+    "idNumerico": "1",
     "nome": "021",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:49|21/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
@@ -39,7 +39,7 @@
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:50|21/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -49,10 +49,10 @@
     "cofreConsertado": false
   },
   "FAZENDINHA DO FIRE": {
-    "idNumerico": "12",
+    "idNumerico": null,
     "nome": "Fazendinha Do Fire",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:00|21/06/2026",
     "cofreConsertado": false
   },
   "RANCHO DO DOUTOR": {

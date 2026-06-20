@@ -1,6 +1,6 @@
 {
   "999": {
-    "idNumerico": null,
+    "idNumerico": "39",
     "nome": "999",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -35,11 +35,11 @@
     "cofreConsertado": false
   },
   "EVENTO": {
-    "idNumerico": "12",
+    "idNumerico": null,
     "nome": "EVENTO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:56|20/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
@@ -72,8 +72,8 @@
   "TA NO GRALI": {
     "idNumerico": null,
     "nome": "ta no grali",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:07|20/06/2026",
     "cofreConsertado": false
   },
   "ELITE FARMS": {
@@ -84,7 +84,7 @@
     "cofreConsertado": false
   },
   "B13 :)": {
-    "idNumerico": null,
+    "idNumerico": "23",
     "nome": "B13 :)",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -175,7 +175,7 @@
     "cofreConsertado": false
   },
   "DONA SEM RAZAO": {
-    "idNumerico": null,
+    "idNumerico": "26",
     "nome": "Dona sem razao",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -184,9 +184,9 @@
   "FAZENDA DO GALIN": {
     "idNumerico": null,
     "nome": "Fazenda do Galin",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:02|20/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "~E V O M~": {
     "idNumerico": "25",
@@ -233,16 +233,16 @@
   "FRANCA": {
     "idNumerico": null,
     "nome": "FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:36|20/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "CHAMA A POLICIA": {
-    "idNumerico": "44",
+    "idNumerico": null,
     "nome": "CHAMA A POLICIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:31|20/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "AURA + EGO": {
     "idNumerico": null,
@@ -266,7 +266,7 @@
     "cofreConsertado": false
   },
   "GRUPO RANTER": {
-    "idNumerico": null,
+    "idNumerico": "19",
     "nome": "GRUPO RANTER",
     "status": "DISPONIVEL",
     "disponivelEm": null,

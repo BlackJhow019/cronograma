@@ -144,7 +144,7 @@
     "nome": "VENDO 500km ACEITO TROCAS",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:25|20/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
@@ -191,8 +191,8 @@
   "LOS SMITH'S": {
     "idNumerico": null,
     "nome": "Los SmiTh's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:01|20/06/2026",
     "cofreConsertado": false
   },
   "ALCATRAZ INVESTIMENTOS LTDA": {

@@ -35,10 +35,10 @@
     "cofreConsertado": false
   },
   "EVENTO": {
-    "idNumerico": "42",
+    "idNumerico": null,
     "nome": "EVENTO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:58|21/06/2026",
     "cofreConsertado": false
   },
   "FAZENDA DO TEMOR": {
@@ -182,10 +182,10 @@
     "cofreConsertado": false
   },
   "FAZENDA DO GALIN": {
-    "idNumerico": "15",
+    "idNumerico": null,
     "nome": "Fazenda do Galin",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:57|20/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "~E V O M~": {
@@ -196,10 +196,10 @@
     "cofreConsertado": false
   },
   "FARM'S NAY E NICK": {
-    "idNumerico": "5",
+    "idNumerico": null,
     "nome": "FARM'S NAY E NICK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:13|21/06/2026",
     "cofreConsertado": false
   },
   "QG FARM KHAOS": {
@@ -224,10 +224,10 @@
     "cofreConsertado": false
   },
   "FARM DO SAPATO": {
-    "idNumerico": "9",
+    "idNumerico": null,
     "nome": "FARM DO SAPATO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:52|20/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FRANCA": {
@@ -247,16 +247,16 @@
   "AURA + EGO": {
     "idNumerico": null,
     "nome": "Aura + Ego",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:54|20/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "SUCCUBUS FARMS": {
     "idNumerico": null,
     "nome": "Succubus Farms",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:39|20/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "RICK FARM'S": {
     "idNumerico": "34",
@@ -273,11 +273,11 @@
     "cofreConsertado": false
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
-    "idNumerico": null,
+    "idNumerico": "3",
     "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:48|20/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FAZENDA MAO DE VACA": {
     "idNumerico": "14",

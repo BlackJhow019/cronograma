@@ -7,11 +7,11 @@
     "cofreConsertado": false
   },
   "JESUS EA SOLUCAO": {
-    "idNumerico": "0",
+    "idNumerico": null,
     "nome": "JESUS EA SOLUCAO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:03|21/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "AWAKE COMPANY": {
     "idNumerico": "13",
@@ -35,11 +35,11 @@
     "cofreConsertado": false
   },
   "EVENTO": {
-    "idNumerico": "42",
+    "idNumerico": "12",
     "nome": "EVENTO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:58|21/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
@@ -121,15 +121,15 @@
   "VALE DAS SOMBRAS": {
     "idNumerico": null,
     "nome": "Vale das Sombras",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:05|21/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FARMS DE GALOPISITAS": {
-    "idNumerico": "20",
+    "idNumerico": null,
     "nome": "Farms de Galopisitas",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:15|21/06/2026",
     "cofreConsertado": false
   },
   "CANNABIS": {
@@ -151,7 +151,7 @@
     "nome": "SE ROUBAR MORRE",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:12|21/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "ARIANA_B13": {
     "idNumerico": "10",
@@ -196,25 +196,25 @@
     "cofreConsertado": false
   },
   "FARM'S NAY E NICK": {
-    "idNumerico": "5",
+    "idNumerico": null,
     "nome": "FARM'S NAY E NICK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:13|21/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "QG FARM KHAOS": {
-    "idNumerico": "18",
+    "idNumerico": null,
     "nome": "QG FARM KHAOS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:52|21/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "RAMONZIN_FRANCA": {
-    "idNumerico": "21",
+    "idNumerico": null,
     "nome": "RAMONZIN_FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:48|21/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FARM DA THATY": {
     "idNumerico": "1",
@@ -224,10 +224,10 @@
     "cofreConsertado": false
   },
   "FARM DO SAPATO": {
-    "idNumerico": null,
+    "idNumerico": "9",
     "nome": "FARM DO SAPATO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:31|21/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FRANCA": {
@@ -245,7 +245,7 @@
     "cofreConsertado": false
   },
   "AURA + EGO": {
-    "idNumerico": null,
+    "idNumerico": "22",
     "nome": "Aura + Ego",
     "status": "DISPONIVEL",
     "disponivelEm": null,

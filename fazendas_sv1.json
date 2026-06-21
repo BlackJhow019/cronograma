@@ -2,23 +2,23 @@
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:17|21/06/2026",
+    "cofreConsertado": true
   },
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:37|21/06/2026",
+    "disponivelEm": "22:21|21/06/2026",
     "cofreConsertado": true
   },
   "021": {
-    "idNumerico": null,
+    "idNumerico": "1",
     "nome": "021",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:13|21/06/2026",
+    "cofreConsertado": true
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": null,
@@ -38,18 +38,18 @@
     "idNumerico": "39",
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
-    "disponivelEm": "18:41|21/06/2026",
+    "disponivelEm": "22:19|21/06/2026",
     "cofreConsertado": true
   },
   "NIKE SHOX": {
     "idNumerico": "42",
     "nome": "NIKE SHOX",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:36|21/06/2026",
+    "disponivelEm": null,
     "cofreConsertado": true
   },
   "FAZENDINHA DO FIRE": {
-    "idNumerico": null,
+    "idNumerico": "12",
     "nome": "Fazendinha Do Fire",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:39|21/06/2026",
@@ -66,8 +66,8 @@
     "idNumerico": "13",
     "nome": "PT farm's",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:51|21/06/2026",
-    "cofreConsertado": true
+    "disponivelEm": "22:30|21/06/2026",
+    "cofreConsertado": false
   },
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
@@ -86,8 +86,8 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:46|21/06/2026",
     "cofreConsertado": false
   },
   "LEK0ZIKA": {
@@ -154,11 +154,11 @@
     "cofreConsertado": true
   },
   "BEE": {
-    "idNumerico": null,
+    "idNumerico": "7",
     "nome": "BEE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:05|21/06/2026",
+    "cofreConsertado": true
   },
   "FAZENDA DA MILLY": {
     "idNumerico": null,
@@ -196,17 +196,17 @@
     "cofreConsertado": false
   },
   "ALCATRAZ INVESTIMENTOS LTDA": {
-    "idNumerico": null,
+    "idNumerico": "6",
     "nome": "AlcatraZ Investimentos LTDA",
     "status": "INDISPONIVEL",
-    "disponivelEm": "21:49|21/06/2026",
-    "cofreConsertado": false
+    "disponivelEm": "21:51|21/06/2026",
+    "cofreConsertado": true
   },
   "FAZENDA PUTEIRO DO DEATH 4": {
     "idNumerico": "31",
     "nome": "Fazenda puteiro do Death 4",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:11|21/06/2026",
+    "disponivelEm": "22:36|21/06/2026",
     "cofreConsertado": true
   },
   "4I20 HASH FARM'S": {
@@ -219,8 +219,8 @@
   "PRESO NAO FOGE": {
     "idNumerico": "15",
     "nome": "PRESO NAO FOGE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:34|21/06/2026",
     "cofreConsertado": false
   },
   "PEEEEERFEITO!!!": {

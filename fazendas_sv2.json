@@ -175,11 +175,11 @@
     "cofreConsertado": false
   },
   "DONA SEM RAZAO": {
-    "idNumerico": "26",
+    "idNumerico": null,
     "nome": "Dona sem razao",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true
+    "cofreConsertado": false
   },
   "FAZENDA DO GALIN": {
     "idNumerico": "15",
@@ -206,14 +206,14 @@
     "idNumerico": "18",
     "nome": "QG FARM KHAOS",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:41|21/06/2026",
+    "disponivelEm": "22:51|21/06/2026",
     "cofreConsertado": true
   },
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",
     "nome": "RAMONZIN_FRANCA",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:58|21/06/2026",
+    "disponivelEm": "22:47|21/06/2026",
     "cofreConsertado": false
   },
   "FARM DA THATY": {

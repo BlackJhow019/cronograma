@@ -77,10 +77,10 @@
     "cofreConsertado": false
   },
   "THUG LIFE": {
-    "idNumerico": "21",
+    "idNumerico": null,
     "nome": "THUG LIFE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:33|21/06/2026",
     "cofreConsertado": false
   },
   "SAO PEDRO 2": {
@@ -186,7 +186,7 @@
     "nome": "AzeRoX",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:25|21/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "LOS SMITH'S": {
     "idNumerico": "44",

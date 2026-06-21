@@ -28,31 +28,31 @@
     "cofreConsertado": false
   },
   "FAZENDINHA BETREZE 2": {
-    "idNumerico": "38",
+    "idNumerico": null,
     "nome": "Fazendinha BeTreZe 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:01|21/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "EVENTO": {
     "idNumerico": "12",
     "nome": "EVENTO",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:42|21/06/2026",
+    "disponivelEm": "22:29|21/06/2026",
     "cofreConsertado": true
   },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:21|21/06/2026",
+    "disponivelEm": "21:59|21/06/2026",
     "cofreConsertado": true
   },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
     "nome": "LA FAMILIA CHIARADIA",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:40|21/06/2026",
+    "disponivelEm": "22:14|21/06/2026",
     "cofreConsertado": true
   },
   "FARMA DA FAMILIA ELITE": {
@@ -157,8 +157,8 @@
     "idNumerico": "10",
     "nome": "Ariana_B13",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:19|21/06/2026",
-    "cofreConsertado": true
+    "disponivelEm": "21:43|21/06/2026",
+    "cofreConsertado": false
   },
   "FARME DO DRAKE": {
     "idNumerico": "35",
@@ -168,24 +168,24 @@
     "cofreConsertado": false
   },
   "DEAD (:": {
-    "idNumerico": "27",
+    "idNumerico": null,
     "nome": "Dead (:",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:05|21/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "DONA SEM RAZAO": {
     "idNumerico": "26",
     "nome": "Dona sem razao",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:36|21/06/2026",
+    "disponivelEm": null,
     "cofreConsertado": true
   },
   "FAZENDA DO GALIN": {
     "idNumerico": "15",
     "nome": "Fazenda do Galin",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:45|21/06/2026",
     "cofreConsertado": false
   },
   "~E V O M~": {
@@ -254,8 +254,8 @@
   "SUCCUBUS FARMS": {
     "idNumerico": "29",
     "nome": "Succubus Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:44|21/06/2026",
     "cofreConsertado": false
   },
   "RICK FARM'S": {
@@ -287,7 +287,7 @@
     "cofreConsertado": false
   },
   "/VENDERPRODUTOS": {
-    "idNumerico": null,
+    "idNumerico": "7",
     "nome": "/VENDERPRODUTOS",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:51|21/06/2026",

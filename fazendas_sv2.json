@@ -35,11 +35,11 @@
     "cofreConsertado": false
   },
   "EVENTO": {
-    "idNumerico": null,
+    "idNumerico": "42",
     "nome": "EVENTO",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:58|21/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
@@ -70,7 +70,7 @@
     "cofreConsertado": false
   },
   "TA NO GRALI": {
-    "idNumerico": null,
+    "idNumerico": "4",
     "nome": "ta no grali",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -115,8 +115,8 @@
     "idNumerico": null,
     "nome": "YellowStone - By Monster",
     "status": "INDISPONIVEL",
-    "disponivelEm": "21:59|20/06/2026",
-    "cofreConsertado": true
+    "disponivelEm": "04:25|21/06/2026",
+    "cofreConsertado": false
   },
   "VALE DAS SOMBRAS": {
     "idNumerico": null,
@@ -154,7 +154,7 @@
     "cofreConsertado": false
   },
   "ARIANA_B13": {
-    "idNumerico": null,
+    "idNumerico": "10",
     "nome": "Ariana_B13",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -182,7 +182,7 @@
     "cofreConsertado": false
   },
   "FAZENDA DO GALIN": {
-    "idNumerico": null,
+    "idNumerico": "15",
     "nome": "Fazenda do Galin",
     "status": "DISPONIVEL",
     "disponivelEm": null,

@@ -121,8 +121,8 @@
   "VALE DAS SOMBRAS": {
     "idNumerico": null,
     "nome": "Vale das Sombras",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:39|21/06/2026",
     "cofreConsertado": false
   },
   "FARMS DE GALOPISITAS": {
@@ -249,7 +249,7 @@
     "nome": "Aura + Ego",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:13|21/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",
@@ -289,8 +289,8 @@
   "/VENDERPRODUTOS": {
     "idNumerico": null,
     "nome": "/VENDERPRODUTOS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:17|21/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FAZENDA REI DROGADO": {

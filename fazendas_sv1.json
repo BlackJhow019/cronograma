@@ -9,12 +9,12 @@
   "RICO LOUCO": {
     "idNumerico": null,
     "nome": "rico louco",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:42|21/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "021": {
-    "idNumerico": null,
+    "idNumerico": "1",
     "nome": "021",
     "status": "INDISPONIVEL",
     "disponivelEm": "10:56|21/06/2026",
@@ -49,7 +49,7 @@
     "cofreConsertado": false
   },
   "FAZENDINHA DO FIRE": {
-    "idNumerico": null,
+    "idNumerico": "12",
     "nome": "Fazendinha Do Fire",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -170,8 +170,8 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": null,
     "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:52|21/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "MONOPOLIO FARMS": {
@@ -203,10 +203,10 @@
     "cofreConsertado": true
   },
   "FAZENDA PUTEIRO DO DEATH 4": {
-    "idNumerico": "31",
+    "idNumerico": null,
     "nome": "Fazenda puteiro do Death 4",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:11|21/06/2026",
     "cofreConsertado": false
   },
   "4I20 HASH FARM'S": {
@@ -235,7 +235,7 @@
     "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:13|21/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "U$METRALHA FARM'S": {
     "idNumerico": null,
@@ -259,10 +259,10 @@
     "cofreConsertado": false
   },
   "U$METRALHA": {
-    "idNumerico": null,
+    "idNumerico": "32",
     "nome": "u$MeTralha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:34|21/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FAZENDA ROTA DO CAFÉ": {

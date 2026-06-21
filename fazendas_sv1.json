@@ -21,10 +21,10 @@
     "cofreConsertado": false
   },
   "PREFEITO ROADBLOCK": {
-    "idNumerico": "41",
+    "idNumerico": null,
     "nome": "Prefeito Roadblock",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:19|21/06/2026",
     "cofreConsertado": false
   },
   "KODIAK": {
@@ -35,7 +35,7 @@
     "cofreConsertado": true
   },
   "GRUPO NEXUS": {
-    "idNumerico": null,
+    "idNumerico": "9",
     "nome": "GRUPO NEXUS",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -116,7 +116,7 @@
     "nome": "Borrachas Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:57|21/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
@@ -154,11 +154,11 @@
     "cofreConsertado": false
   },
   "BEE": {
-    "idNumerico": "7",
+    "idNumerico": null,
     "nome": "BEE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:12|21/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FAZENDA DA MILLY": {
     "idNumerico": null,
@@ -238,11 +238,11 @@
     "cofreConsertado": true
   },
   "U$METRALHA FARM'S": {
-    "idNumerico": "29",
+    "idNumerico": null,
     "nome": "u$MeTraLha farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:59|21/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",

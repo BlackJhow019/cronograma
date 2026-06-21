@@ -9,8 +9,8 @@
   "JESUS EA SOLUCAO": {
     "idNumerico": null,
     "nome": "JESUS EA SOLUCAO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:03|21/06/2026",
     "cofreConsertado": false
   },
   "AWAKE COMPANY": {
@@ -214,7 +214,7 @@
     "nome": "RAMONZIN_FRANCA",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:48|21/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FARM DA THATY": {
     "idNumerico": "1",

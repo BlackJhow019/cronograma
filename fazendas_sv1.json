@@ -35,7 +35,7 @@
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
-    "idNumerico": null,
+    "idNumerico": "40",
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
     "disponivelEm": "11:07|21/06/2026",
@@ -72,8 +72,8 @@
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": null,
     "nome": "Rafha investimentos $",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:19|21/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "THUG LIFE": {
@@ -105,11 +105,11 @@
     "cofreConsertado": false
   },
   "FAMILIA KUSH": {
-    "idNumerico": "34",
+    "idNumerico": null,
     "nome": "Familia KuSh",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:14|21/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "BORRACHAS FARM": {
     "idNumerico": null,
@@ -182,7 +182,7 @@
     "cofreConsertado": false
   },
   "AZEROX": {
-    "idNumerico": null,
+    "idNumerico": "23",
     "nome": "AzeRoX",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -200,7 +200,7 @@
     "nome": "AlcatraZ Investimentos LTDA",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:49|21/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAZENDA PUTEIRO DO DEATH 4": {
     "idNumerico": "31",
@@ -210,10 +210,10 @@
     "cofreConsertado": false
   },
   "4I20 HASH FARM'S": {
-    "idNumerico": "16",
+    "idNumerico": null,
     "nome": "4i20 HASH FARM'S",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:25|21/06/2026",
     "cofreConsertado": false
   },
   "PRESO NAO FOGE": {

@@ -42,11 +42,11 @@
     "cofreConsertado": true
   },
   "NIKE SHOX": {
-    "idNumerico": "42",
+    "idNumerico": null,
     "nome": "NIKE SHOX",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true
+    "cofreConsertado": false
   },
   "FAZENDINHA DO FIRE": {
     "idNumerico": "12",
@@ -73,8 +73,8 @@
     "idNumerico": "26",
     "nome": "Rafha investimentos $",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:52|21/06/2026",
-    "cofreConsertado": false
+    "disponivelEm": "22:48|21/06/2026",
+    "cofreConsertado": true
   },
   "THUG LIFE": {
     "idNumerico": null,
@@ -91,11 +91,11 @@
     "cofreConsertado": false
   },
   "LEK0ZIKA": {
-    "idNumerico": "35",
+    "idNumerico": null,
     "nome": "Lek0zika",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:48|21/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
@@ -220,8 +220,8 @@
     "idNumerico": "15",
     "nome": "PRESO NAO FOGE",
     "status": "INDISPONIVEL",
-    "disponivelEm": "22:34|21/06/2026",
-    "cofreConsertado": false
+    "disponivelEm": "22:41|21/06/2026",
+    "cofreConsertado": true
   },
   "PEEEEERFEITO!!!": {
     "idNumerico": null,

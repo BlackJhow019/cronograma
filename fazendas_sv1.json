@@ -39,7 +39,7 @@
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
     "disponivelEm": "11:07|21/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -126,10 +126,10 @@
     "cofreConsertado": false
   },
   "OS DE RACA": {
-    "idNumerico": "0",
+    "idNumerico": null,
     "nome": "OS DE RACA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:22|21/06/2026",
     "cofreConsertado": false
   },
   "< GAUBRE LTDA >": {

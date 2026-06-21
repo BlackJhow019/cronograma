@@ -114,8 +114,8 @@
   "BORRACHAS FARM": {
     "idNumerico": null,
     "nome": "Borrachas Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:57|21/06/2026",
     "cofreConsertado": false
   },
   "WESKER_U$METRALHA": {
@@ -154,7 +154,7 @@
     "cofreConsertado": false
   },
   "BEE": {
-    "idNumerico": null,
+    "idNumerico": "7",
     "nome": "BEE",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:12|21/06/2026",
@@ -196,7 +196,7 @@
     "cofreConsertado": false
   },
   "ALCATRAZ INVESTIMENTOS LTDA": {
-    "idNumerico": null,
+    "idNumerico": "6",
     "nome": "AlcatraZ Investimentos LTDA",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:49|21/06/2026",
@@ -238,11 +238,11 @@
     "cofreConsertado": true
   },
   "U$METRALHA FARM'S": {
-    "idNumerico": null,
+    "idNumerico": "29",
     "nome": "u$MeTraLha farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "11:59|21/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",

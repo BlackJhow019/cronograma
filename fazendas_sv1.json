@@ -23,8 +23,8 @@
   "PREFEITO ROADBLOCK": {
     "idNumerico": null,
     "nome": "Prefeito Roadblock",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:57|22/06/2026",
     "cofreConsertado": false
   },
   "KODIAK": {
@@ -144,7 +144,7 @@
     "nome": "VENDO 500km ACEITO TROCAS",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:48|22/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "CLUBE DA LULUZINHA": {
     "idNumerico": null,

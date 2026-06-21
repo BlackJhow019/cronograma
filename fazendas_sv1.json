@@ -126,7 +126,7 @@
     "cofreConsertado": true
   },
   "OS DE RACA": {
-    "idNumerico": null,
+    "idNumerico": "0",
     "nome": "OS DE RACA",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -151,7 +151,7 @@
     "nome": "Clube da Luluzinha",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:20|21/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "BEE": {
     "idNumerico": null,
@@ -212,8 +212,8 @@
   "4I20 HASH FARM'S": {
     "idNumerico": null,
     "nome": "4i20 HASH FARM'S",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:25|21/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "PRESO NAO FOGE": {
@@ -245,10 +245,10 @@
     "cofreConsertado": false
   },
   "FARM'S DE CAFE": {
-    "idNumerico": "4",
+    "idNumerico": null,
     "nome": "Farm's de Cafe",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:41|21/06/2026",
     "cofreConsertado": false
   },
   "K1NG FARM'S": {

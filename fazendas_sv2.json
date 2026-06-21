@@ -14,10 +14,10 @@
     "cofreConsertado": false
   },
   "AWAKE COMPANY": {
-    "idNumerico": "13",
+    "idNumerico": null,
     "nome": "AwaKe Company",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:58|21/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "ROCK FARM": {
@@ -80,14 +80,14 @@
     "idNumerico": "17",
     "nome": "Elite Farms",
     "status": "INDISPONIVEL",
-    "disponivelEm": "15:14|21/06/2026",
-    "cofreConsertado": false
+    "disponivelEm": null,
+    "cofreConsertado": true
   },
   "B13 :)": {
-    "idNumerico": "23",
+    "idNumerico": null,
     "nome": "B13 :)",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:15|21/06/2026",
     "cofreConsertado": false
   },
   "FAZENDA DO MIRIM": {
@@ -105,7 +105,7 @@
     "cofreConsertado": false
   },
   "MALVADA'S FARM": {
-    "idNumerico": null,
+    "idNumerico": "32",
     "nome": "Malvada's Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:37|21/06/2026",
@@ -123,7 +123,7 @@
     "nome": "Vale das Sombras",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:39|21/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FARMS DE GALOPISITAS": {
     "idNumerico": null,
@@ -133,7 +133,7 @@
     "cofreConsertado": false
   },
   "CANNABIS": {
-    "idNumerico": null,
+    "idNumerico": "8",
     "nome": "CANNABIS",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -228,7 +228,7 @@
     "nome": "FARM DO SAPATO",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:44|21/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FRANCA": {
     "idNumerico": "28",

@@ -84,7 +84,7 @@
     "cofreConsertado": false
   },
   "SAO PEDRO 2": {
-    "idNumerico": null,
+    "idNumerico": "43",
     "nome": "SAO PEDRO 2",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -196,10 +196,10 @@
     "cofreConsertado": false
   },
   "ALCATRAZ INVESTIMENTOS LTDA": {
-    "idNumerico": "6",
+    "idNumerico": null,
     "nome": "AlcatraZ Investimentos LTDA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:49|21/06/2026",
     "cofreConsertado": false
   },
   "FAZENDA PUTEIRO DO DEATH 4": {

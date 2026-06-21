@@ -9,16 +9,16 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:37|21/06/2026",
     "cofreConsertado": false
   },
   "021": {
-    "idNumerico": "1",
+    "idNumerico": null,
     "nome": "021",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:56|21/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
@@ -30,8 +30,8 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:55|21/06/2026",
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
@@ -44,8 +44,8 @@
   "NIKE SHOX": {
     "idNumerico": "42",
     "nome": "NIKE SHOX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:36|21/06/2026",
     "cofreConsertado": false
   },
   "FAZENDINHA DO FIRE": {
@@ -63,17 +63,17 @@
     "cofreConsertado": false
   },
   "PT FARM'S": {
-    "idNumerico": null,
+    "idNumerico": "13",
     "nome": "PT farm's",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:42|21/06/2026",
-    "cofreConsertado": false
+    "disponivelEm": "16:51|21/06/2026",
+    "cofreConsertado": true
   },
   "RAFHA INVESTIMENTOS $": {
-    "idNumerico": null,
+    "idNumerico": "26",
     "nome": "Rafha investimentos $",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:52|21/06/2026",
     "cofreConsertado": false
   },
   "THUG LIFE": {
@@ -93,9 +93,9 @@
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:48|21/06/2026",
+    "cofreConsertado": true
   },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",

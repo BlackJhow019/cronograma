@@ -128,8 +128,8 @@
   "OS DE RACA": {
     "idNumerico": null,
     "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:53|22/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "< GAUBRE LTDA >": {
@@ -142,8 +142,8 @@
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": null,
     "nome": "VENDO 500km ACEITO TROCAS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:57|22/06/2026",
     "cofreConsertado": false
   },
   "CLUBE DA LULUZINHA": {
@@ -172,7 +172,7 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:41|22/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "MONOPOLIO FARMS": {
     "idNumerico": "20",

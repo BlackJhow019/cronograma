@@ -77,11 +77,11 @@
     "cofreConsertado": false
   },
   "THUG LIFE": {
-    "idNumerico": "21",
+    "idNumerico": null,
     "nome": "THUG LIFE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:41|22/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -149,8 +149,8 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": null,
     "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:50|22/06/2026",
     "cofreConsertado": false
   },
   "BEE": {
@@ -203,7 +203,7 @@
     "cofreConsertado": false
   },
   "FAZENDA PUTEIRO DO DEATH 4": {
-    "idNumerico": null,
+    "idNumerico": "31",
     "nome": "Fazenda puteiro do Death 4",
     "status": "DISPONIVEL",
     "disponivelEm": null,

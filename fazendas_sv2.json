@@ -18,7 +18,7 @@
     "nome": "AwaKe Company",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:41|22/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "ROCK FARM": {
     "idNumerico": null,
@@ -224,10 +224,10 @@
     "cofreConsertado": false
   },
   "FARM DO SAPATO": {
-    "idNumerico": "9",
+    "idNumerico": null,
     "nome": "FARM DO SAPATO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:56|22/06/2026",
     "cofreConsertado": false
   },
   "FRANCA": {

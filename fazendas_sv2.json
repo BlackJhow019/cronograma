@@ -63,11 +63,11 @@
     "cofreConsertado": false
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {
-    "idNumerico": "37",
+    "idNumerico": null,
     "nome": "WELCOME > MELHOR FAZENDA DO BPS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:27|22/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "TA NO GRALI": {
     "idNumerico": "4",
@@ -88,7 +88,7 @@
     "nome": "B13 :)",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:37|22/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
@@ -105,17 +105,17 @@
     "cofreConsertado": false
   },
   "MALVADA'S FARM": {
-    "idNumerico": "32",
+    "idNumerico": null,
     "nome": "Malvada's Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:48|22/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "YELLOWSTONE - BY MONSTER": {
-    "idNumerico": "16",
+    "idNumerico": null,
     "nome": "YellowStone - By Monster",
     "status": "INDISPONIVEL",
-    "disponivelEm": "18:23|22/06/2026",
+    "disponivelEm": "01:04|23/06/2026",
     "cofreConsertado": false
   },
   "VALE DAS SOMBRAS": {
@@ -133,11 +133,11 @@
     "cofreConsertado": false
   },
   "CANNABIS": {
-    "idNumerico": "8",
+    "idNumerico": null,
     "nome": "CANNABIS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:43|22/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "AMO O LOWER": {
     "idNumerico": "2",
@@ -203,7 +203,7 @@
     "cofreConsertado": false
   },
   "QG FARM KHAOS": {
-    "idNumerico": null,
+    "idNumerico": "18",
     "nome": "QG FARM KHAOS",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -259,11 +259,11 @@
     "cofreConsertado": false
   },
   "RICK FARM'S": {
-    "idNumerico": "34",
+    "idNumerico": null,
     "nome": "Rick Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:22|22/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "GRUPO RANTER": {
     "idNumerico": "19",

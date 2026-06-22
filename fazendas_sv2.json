@@ -30,19 +30,19 @@
   "FAZENDINHA BETREZE 2": {
     "idNumerico": null,
     "nome": "Fazendinha BeTreZe 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:01|22/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "EVENTO": {
-    "idNumerico": null,
+    "idNumerico": "12",
     "nome": "EVENTO",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
   "FAZENDA DO TEMOR": {
-    "idNumerico": null,
+    "idNumerico": "30",
     "nome": "Fazenda do Temor",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -84,7 +84,7 @@
     "cofreConsertado": false
   },
   "B13 :)": {
-    "idNumerico": null,
+    "idNumerico": "23",
     "nome": "B13 :)",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -119,14 +119,14 @@
     "cofreConsertado": false
   },
   "VALE DAS SOMBRAS": {
-    "idNumerico": null,
+    "idNumerico": "24",
     "nome": "Vale das Sombras",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
   "FARMS DE GALOPISITAS": {
-    "idNumerico": null,
+    "idNumerico": "20",
     "nome": "Farms de Galopisitas",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -168,10 +168,10 @@
     "cofreConsertado": false
   },
   "DEAD (:": {
-    "idNumerico": "27",
+    "idNumerico": null,
     "nome": "Dead (:",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:03|22/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "DONA SEM RAZAO": {
@@ -184,8 +184,8 @@
   "FAZENDA DO GALIN": {
     "idNumerico": null,
     "nome": "Fazenda do Galin",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:04|22/06/2026",
     "cofreConsertado": false
   },
   "~E V O M~": {
@@ -203,7 +203,7 @@
     "cofreConsertado": false
   },
   "QG FARM KHAOS": {
-    "idNumerico": null,
+    "idNumerico": "18",
     "nome": "QG FARM KHAOS",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -217,11 +217,11 @@
     "cofreConsertado": false
   },
   "FARM DA THATY": {
-    "idNumerico": null,
+    "idNumerico": "1",
     "nome": "Farm da Thaty",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:41|22/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FARM DO SAPATO": {
     "idNumerico": "9",
@@ -238,7 +238,7 @@
     "cofreConsertado": false
   },
   "CHAMA A POLICIA": {
-    "idNumerico": null,
+    "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
     "status": "DISPONIVEL",
     "disponivelEm": null,

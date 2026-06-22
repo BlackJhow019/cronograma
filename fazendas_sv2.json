@@ -147,10 +147,10 @@
     "cofreConsertado": false
   },
   "SE ROUBAR MORRE": {
-    "idNumerico": "41",
+    "idNumerico": null,
     "nome": "SE ROUBAR MORRE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:41|22/06/2026",
     "cofreConsertado": false
   },
   "ARIANA_B13": {
@@ -182,7 +182,7 @@
     "cofreConsertado": false
   },
   "FAZENDA DO GALIN": {
-    "idNumerico": null,
+    "idNumerico": "15",
     "nome": "Fazenda do Galin",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:04|22/06/2026",

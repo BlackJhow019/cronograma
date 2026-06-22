@@ -14,7 +14,7 @@
     "cofreConsertado": false
   },
   "021": {
-    "idNumerico": null,
+    "idNumerico": "1",
     "nome": "021",
     "status": "INDISPONIVEL",
     "disponivelEm": "10:16|22/06/2026",
@@ -149,9 +149,9 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": null,
     "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:50|22/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "BEE": {
     "idNumerico": null,
@@ -179,20 +179,13 @@
     "nome": "Monopolio Farms",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:49|22/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "AZEROX": {
     "idNumerico": null,
     "nome": "AzeRoX",
     "status": "INDISPONIVEL",
     "disponivelEm": "11:09|22/06/2026",
-    "cofreConsertado": false
-  },
-  "LOS SMITH'S": {
-    "idNumerico": "44",
-    "nome": "Los SmiTh's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
     "cofreConsertado": false
   },
   "ALCATRAZ INVESTIMENTOS LTDA": {
@@ -284,6 +277,13 @@
     "nome": "Rick Farm´s",
     "status": "DISPONIVEL",
     "disponivelEm": null,
+    "cofreConsertado": false
+  },
+  "XAUBLAU INVESTIMENTO LTDA": {
+    "idNumerico": null,
+    "nome": "XauBlau INVESTIMENTO LTDA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:04|22/06/2026",
     "cofreConsertado": false
   }
 }

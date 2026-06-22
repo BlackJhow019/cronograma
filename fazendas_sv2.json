@@ -23,15 +23,15 @@
   "ROCK FARM": {
     "idNumerico": null,
     "nome": "RocK Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:22|22/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FAZENDINHA BETREZE 2": {
     "idNumerico": null,
     "nome": "Fazendinha BeTreZe 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:21|22/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "EVENTO": {
@@ -91,10 +91,10 @@
     "cofreConsertado": false
   },
   "FAZENDA DO MIRIM": {
-    "idNumerico": "36",
+    "idNumerico": null,
     "nome": "Fazenda Do MIRIM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:28|22/06/2026",
     "cofreConsertado": false
   },
   "FARM DO GALO": {
@@ -182,10 +182,10 @@
     "cofreConsertado": false
   },
   "FAZENDA DO GALIN": {
-    "idNumerico": "15",
+    "idNumerico": null,
     "nome": "Fazenda do Galin",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:04|22/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "~E V O M~": {

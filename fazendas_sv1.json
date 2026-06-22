@@ -56,7 +56,7 @@
     "cofreConsertado": false
   },
   "RANCHO DO DOUTOR": {
-    "idNumerico": null,
+    "idNumerico": "14",
     "nome": "Rancho do Doutor",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -156,8 +156,8 @@
   "BEE": {
     "idNumerico": null,
     "nome": "BEE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:33|22/06/2026",
     "cofreConsertado": false
   },
   "FAZENDA DA MILLY": {

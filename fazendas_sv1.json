@@ -23,8 +23,8 @@
   "PREFEITO ROADBLOCK": {
     "idNumerico": null,
     "nome": "Prefeito Roadblock",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:14|22/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "KODIAK": {
@@ -63,7 +63,7 @@
     "cofreConsertado": false
   },
   "PT FARM'S": {
-    "idNumerico": null,
+    "idNumerico": "13",
     "nome": "PT farm's",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -163,15 +163,15 @@
   "FAZENDA DA MILLY": {
     "idNumerico": null,
     "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:36|22/06/2026",
-    "cofreConsertado": true
-  },
-  "HWD INVESTIMENTOS": {
-    "idNumerico": "27",
-    "nome": "hwd investimentos",
     "status": "DISPONIVEL",
     "disponivelEm": null,
+    "cofreConsertado": false
+  },
+  "HWD INVESTIMENTOS": {
+    "idNumerico": null,
+    "nome": "hwd investimentos",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:41|22/06/2026",
     "cofreConsertado": false
   },
   "MONOPOLIO FARMS": {
@@ -254,9 +254,9 @@
   "K1NG FARM'S": {
     "idNumerico": null,
     "nome": "K1NG Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:35|22/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "U$METRALHA": {
     "idNumerico": "32",

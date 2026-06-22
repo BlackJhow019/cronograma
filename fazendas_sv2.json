@@ -95,7 +95,7 @@
     "nome": "Fazenda Do MIRIM",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:28|22/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FARM DO GALO": {
     "idNumerico": "40",
@@ -210,10 +210,10 @@
     "cofreConsertado": false
   },
   "RAMONZIN_FRANCA": {
-    "idNumerico": "21",
+    "idNumerico": null,
     "nome": "RAMONZIN_FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:38|22/06/2026",
     "cofreConsertado": false
   },
   "FARM DA THATY": {

@@ -294,10 +294,10 @@
     "cofreConsertado": false
   },
   "FAZENDA REI DROGADO": {
-    "idNumerico": "31",
+    "idNumerico": null,
     "nome": "Fazenda Rei Drogado",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:41|22/06/2026",
     "cofreConsertado": false
   },
   "AMO A MAZZI": {
@@ -305,6 +305,6 @@
     "nome": "Amo a Mazzi",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:48|22/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   }
 }

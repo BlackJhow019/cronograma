@@ -112,10 +112,10 @@
     "cofreConsertado": false
   },
   "YELLOWSTONE - BY MONSTER": {
-    "idNumerico": "16",
+    "idNumerico": null,
     "nome": "YellowStone - By Monster",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:23|22/06/2026",
     "cofreConsertado": false
   },
   "VALE DAS SOMBRAS": {
@@ -259,11 +259,11 @@
     "cofreConsertado": false
   },
   "RICK FARM'S": {
-    "idNumerico": null,
+    "idNumerico": "34",
     "nome": "Rick Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:18|22/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "GRUPO RANTER": {
     "idNumerico": "19",

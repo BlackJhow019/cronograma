@@ -28,7 +28,7 @@
     "cofreConsertado": true
   },
   "KODIAK": {
-    "idNumerico": null,
+    "idNumerico": "3",
     "nome": "KodiaK",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -42,17 +42,17 @@
     "cofreConsertado": true
   },
   "NIKE SHOX": {
-    "idNumerico": null,
+    "idNumerico": "42",
     "nome": "NIKE SHOX",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
   "FAZENDINHA DO FIRE": {
-    "idNumerico": "12",
+    "idNumerico": null,
     "nome": "Fazendinha Do Fire",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:39|21/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "RANCHO DO DOUTOR": {
@@ -60,7 +60,7 @@
     "nome": "Rancho do Doutor",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:34|22/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "PT FARM'S": {
     "idNumerico": "13",
@@ -80,7 +80,7 @@
     "idNumerico": null,
     "nome": "THUG LIFE",
     "status": "INDISPONIVEL",
-    "disponivelEm": "21:33|21/06/2026",
+    "disponivelEm": "03:41|22/06/2026",
     "cofreConsertado": false
   },
   "SAO PEDRO 2": {
@@ -112,7 +112,7 @@
     "cofreConsertado": false
   },
   "BORRACHAS FARM": {
-    "idNumerico": null,
+    "idNumerico": "33",
     "nome": "Borrachas Farm",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -149,9 +149,9 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": null,
     "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:20|21/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "BEE": {
     "idNumerico": "7",
@@ -184,9 +184,9 @@
   "AZEROX": {
     "idNumerico": null,
     "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:25|21/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "LOS SMITH'S": {
     "idNumerico": "44",
@@ -231,7 +231,7 @@
     "cofreConsertado": false
   },
   "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": null,
+    "idNumerico": "38",
     "nome": "Work Industria's Limited",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -247,9 +247,9 @@
   "FARM'S DE CAFE": {
     "idNumerico": null,
     "nome": "Farm's de Cafe",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:41|21/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "K1NG FARM'S": {
     "idNumerico": "25",

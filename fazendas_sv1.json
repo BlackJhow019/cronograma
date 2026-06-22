@@ -112,10 +112,10 @@
     "cofreConsertado": false
   },
   "BORRACHAS FARM": {
-    "idNumerico": "33",
+    "idNumerico": null,
     "nome": "Borrachas Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:04|22/06/2026",
     "cofreConsertado": false
   },
   "WESKER_U$METRALHA": {

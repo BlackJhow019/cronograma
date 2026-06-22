@@ -14,10 +14,10 @@
     "cofreConsertado": false
   },
   "AWAKE COMPANY": {
-    "idNumerico": "13",
+    "idNumerico": null,
     "nome": "AwaKe Company",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:41|22/06/2026",
     "cofreConsertado": false
   },
   "ROCK FARM": {
@@ -214,7 +214,7 @@
     "nome": "RAMONZIN_FRANCA",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:38|22/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FARM DA THATY": {
     "idNumerico": "1",

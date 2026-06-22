@@ -14,7 +14,7 @@
     "cofreConsertado": true
   },
   "021": {
-    "idNumerico": null,
+    "idNumerico": "1",
     "nome": "021",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -35,10 +35,10 @@
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
-    "idNumerico": "39",
+    "idNumerico": null,
     "nome": "GRUPO NEXUS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:30|22/06/2026",
     "cofreConsertado": false
   },
   "NIKE SHOX": {
@@ -114,8 +114,8 @@
   "BORRACHAS FARM": {
     "idNumerico": null,
     "nome": "Borrachas Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:04|22/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "WESKER_U$METRALHA": {
@@ -142,8 +142,8 @@
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": null,
     "nome": "VENDO 500km ACEITO TROCAS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:57|22/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "CLUBE DA LULUZINHA": {
@@ -168,14 +168,14 @@
     "cofreConsertado": false
   },
   "HWD INVESTIMENTOS": {
-    "idNumerico": null,
+    "idNumerico": "27",
     "nome": "hwd investimentos",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
   "MONOPOLIO FARMS": {
-    "idNumerico": null,
+    "idNumerico": "20",
     "nome": "Monopolio Farms",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:49|22/06/2026",

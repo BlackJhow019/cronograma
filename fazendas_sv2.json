@@ -252,7 +252,7 @@
     "cofreConsertado": false
   },
   "SUCCUBUS FARMS": {
-    "idNumerico": null,
+    "idNumerico": "29",
     "nome": "Succubus Farms",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -301,10 +301,10 @@
     "cofreConsertado": false
   },
   "AMO A MAZZI": {
-    "idNumerico": "6",
+    "idNumerico": null,
     "nome": "Amo a Mazzi",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:48|22/06/2026",
     "cofreConsertado": false
   }
 }

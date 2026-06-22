@@ -7,21 +7,21 @@
     "cofreConsertado": false
   },
   "RICO LOUCO": {
-    "idNumerico": "11",
+    "idNumerico": null,
     "nome": "rico louco",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:37|22/06/2026",
+    "cofreConsertado": false
+  },
+  "021": {
+    "idNumerico": null,
+    "nome": "021",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
-  "021": {
-    "idNumerico": "1",
-    "nome": "021",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:16|22/06/2026",
-    "cofreConsertado": true
-  },
   "PREFEITO ROADBLOCK": {
-    "idNumerico": null,
+    "idNumerico": "41",
     "nome": "Prefeito Roadblock",
     "status": "DISPONIVEL",
     "disponivelEm": null,

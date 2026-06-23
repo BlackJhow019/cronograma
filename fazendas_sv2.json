@@ -242,7 +242,7 @@
     "nome": "CHAMA A POLICIA",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:16|23/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "AURA + EGO": {
     "idNumerico": "22",
@@ -280,10 +280,10 @@
     "cofreConsertado": true
   },
   "FAZENDA MAO DE VACA": {
-    "idNumerico": "14",
+    "idNumerico": null,
     "nome": "Fazenda Mao de Vaca",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:38|23/06/2026",
     "cofreConsertado": false
   },
   "/VENDERPRODUTOS": {

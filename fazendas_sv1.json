@@ -130,7 +130,7 @@
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:39|24/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "< GAUBRE LTDA >": {
     "idNumerico": "2",
@@ -224,10 +224,10 @@
     "cofreConsertado": false
   },
   "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": "38",
+    "idNumerico": null,
     "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:43|24/06/2026",
     "cofreConsertado": false
   },
   "U$METRALHA FARM'S": {
@@ -287,7 +287,7 @@
     "cofreConsertado": false
   },
   "XAUBLAU INVESTIMENTO LTDA": {
-    "idNumerico": null,
+    "idNumerico": "44",
     "nome": "XauBlau INVESTIMENTO LTDA",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:15|23/06/2026",

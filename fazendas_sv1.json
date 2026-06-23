@@ -2,8 +2,8 @@
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": null,
     "nome": "PoLeMiCo$ industri$",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:37|23/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "RICO LOUCO": {
@@ -98,14 +98,14 @@
     "cofreConsertado": false
   },
   "FAZENDINHA DO IGEZE": {
-    "idNumerico": null,
+    "idNumerico": "36",
     "nome": "fazendinha do igeze",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
   "FAMILIA KUSH": {
-    "idNumerico": null,
+    "idNumerico": "34",
     "nome": "Familia KuSh",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -130,7 +130,7 @@
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:55|23/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "< GAUBRE LTDA >": {
     "idNumerico": "2",
@@ -163,8 +163,8 @@
   "FAZENDA DA MILLY": {
     "idNumerico": null,
     "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:23|23/06/2026",
     "cofreConsertado": false
   },
   "HWD INVESTIMENTOS": {

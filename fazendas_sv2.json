@@ -35,10 +35,10 @@
     "cofreConsertado": false
   },
   "EVENTO": {
-    "idNumerico": "42",
+    "idNumerico": null,
     "nome": "EVENTO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:31|23/06/2026",
     "cofreConsertado": false
   },
   "FAZENDA DO TEMOR": {

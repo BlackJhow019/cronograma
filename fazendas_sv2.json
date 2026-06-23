@@ -116,7 +116,7 @@
     "nome": "YellowStone - By Monster",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:03|23/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
@@ -210,7 +210,7 @@
     "cofreConsertado": false
   },
   "RAMONZIN_FRANCA": {
-    "idNumerico": null,
+    "idNumerico": "21",
     "nome": "RAMONZIN_FRANCA",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:03|23/06/2026",
@@ -240,8 +240,8 @@
   "CHAMA A POLICIA": {
     "idNumerico": null,
     "nome": "CHAMA A POLICIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:16|23/06/2026",
     "cofreConsertado": false
   },
   "AURA + EGO": {

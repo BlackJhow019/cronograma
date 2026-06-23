@@ -119,11 +119,11 @@
     "cofreConsertado": false
   },
   "VALE DAS SOMBRAS": {
-    "idNumerico": null,
+    "idNumerico": "24",
     "nome": "Vale das Sombras",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:29|23/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
@@ -182,10 +182,10 @@
     "cofreConsertado": false
   },
   "FAZENDA DO GALIN": {
-    "idNumerico": "15",
+    "idNumerico": null,
     "nome": "Fazenda do Galin",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:10|23/06/2026",
     "cofreConsertado": false
   },
   "~E V O M~": {
@@ -224,7 +224,7 @@
     "cofreConsertado": false
   },
   "FARM DO SAPATO": {
-    "idNumerico": null,
+    "idNumerico": "9",
     "nome": "FARM DO SAPATO",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -294,7 +294,7 @@
     "cofreConsertado": false
   },
   "FAZENDA REI DROGADO": {
-    "idNumerico": null,
+    "idNumerico": "31",
     "nome": "Fazenda Rei Drogado",
     "status": "DISPONIVEL",
     "disponivelEm": null,

@@ -16,8 +16,8 @@
   "AWAKE COMPANY": {
     "idNumerico": null,
     "nome": "AwaKe Company",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:04|23/06/2026",
     "cofreConsertado": false
   },
   "ROCK FARM": {
@@ -238,11 +238,11 @@
     "cofreConsertado": true
   },
   "CHAMA A POLICIA": {
-    "idNumerico": "44",
+    "idNumerico": null,
     "nome": "CHAMA A POLICIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:00|22/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "AURA + EGO": {
     "idNumerico": "22",
@@ -291,7 +291,7 @@
     "nome": "/VENDERPRODUTOS",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:58|23/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",

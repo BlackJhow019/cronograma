@@ -1,6 +1,6 @@
 {
   "999": {
-    "idNumerico": null,
+    "idNumerico": "39",
     "nome": "999",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -112,10 +112,10 @@
     "cofreConsertado": false
   },
   "YELLOWSTONE - BY MONSTER": {
-    "idNumerico": null,
+    "idNumerico": "16",
     "nome": "YellowStone - By Monster",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:04|23/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "VALE DAS SOMBRAS": {
@@ -133,7 +133,7 @@
     "cofreConsertado": false
   },
   "CANNABIS": {
-    "idNumerico": null,
+    "idNumerico": "8",
     "nome": "CANNABIS",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -165,7 +165,7 @@
     "nome": "Farme do Drake",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:54|23/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "DEAD (:": {
     "idNumerico": null,
@@ -182,7 +182,7 @@
     "cofreConsertado": false
   },
   "FAZENDA DO GALIN": {
-    "idNumerico": null,
+    "idNumerico": "15",
     "nome": "Fazenda do Galin",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -217,7 +217,7 @@
     "cofreConsertado": false
   },
   "FARM DA THATY": {
-    "idNumerico": null,
+    "idNumerico": "1",
     "nome": "Farm da Thaty",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -294,10 +294,10 @@
     "cofreConsertado": true
   },
   "FAZENDA REI DROGADO": {
-    "idNumerico": "31",
+    "idNumerico": null,
     "nome": "Fazenda Rei Drogado",
     "status": "INDISPONIVEL",
-    "disponivelEm": "01:14|23/06/2026",
+    "disponivelEm": "07:44|23/06/2026",
     "cofreConsertado": false
   },
   "AMO A MAZZI": {

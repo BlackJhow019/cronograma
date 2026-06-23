@@ -63,7 +63,7 @@
     "cofreConsertado": false
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {
-    "idNumerico": null,
+    "idNumerico": "37",
     "nome": "WELCOME > MELHOR FAZENDA DO BPS",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:42|23/06/2026",
@@ -100,9 +100,9 @@
   "FARM DO GALO": {
     "idNumerico": null,
     "nome": "FARM DO GALO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:11|23/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "MALVADA'S FARM": {
     "idNumerico": "32",
@@ -240,8 +240,8 @@
   "CHAMA A POLICIA": {
     "idNumerico": null,
     "nome": "CHAMA A POLICIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:36|23/06/2026",
     "cofreConsertado": false
   },
   "AURA + EGO": {
@@ -294,7 +294,7 @@
     "cofreConsertado": true
   },
   "FAZENDA REI DROGADO": {
-    "idNumerico": null,
+    "idNumerico": "31",
     "nome": "Fazenda Rei Drogado",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:44|23/06/2026",

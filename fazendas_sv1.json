@@ -30,16 +30,16 @@
   "KODIAK": {
     "idNumerico": null,
     "nome": "KodiaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:05|23/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "GRUPO NEXUS": {
-    "idNumerico": null,
+    "idNumerico": "22",
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:05|23/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -112,14 +112,14 @@
     "cofreConsertado": false
   },
   "BORRACHAS FARM": {
-    "idNumerico": null,
+    "idNumerico": "33",
     "nome": "Borrachas Farm",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
   "WESKER_U$METRALHA": {
-    "idNumerico": null,
+    "idNumerico": "28",
     "nome": "Wesker_u$MeTraLha",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -168,17 +168,17 @@
     "cofreConsertado": false
   },
   "HWD INVESTIMENTOS": {
-    "idNumerico": null,
+    "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:26|23/06/2026",
-    "cofreConsertado": true
-  },
-  "MONOPOLIO FARMS": {
-    "idNumerico": "20",
-    "nome": "Monopolio Farms",
     "status": "DISPONIVEL",
     "disponivelEm": null,
+    "cofreConsertado": false
+  },
+  "MONOPOLIO FARMS": {
+    "idNumerico": null,
+    "nome": "Monopolio Farms",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:12|24/06/2026",
     "cofreConsertado": false
   },
   "AZEROX": {
@@ -196,11 +196,11 @@
     "cofreConsertado": false
   },
   "FAZENDA PUTEIRO DO DEATH 4": {
-    "idNumerico": "31",
+    "idNumerico": null,
     "nome": "Fazenda puteiro do Death 4",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:22|23/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "4I20 HASH FARM'S": {
     "idNumerico": null,

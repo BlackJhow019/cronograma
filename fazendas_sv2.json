@@ -112,10 +112,10 @@
     "cofreConsertado": false
   },
   "YELLOWSTONE - BY MONSTER": {
-    "idNumerico": "16",
+    "idNumerico": null,
     "nome": "YellowStone - By Monster",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:03|23/06/2026",
     "cofreConsertado": false
   },
   "VALE DAS SOMBRAS": {
@@ -266,7 +266,7 @@
     "cofreConsertado": false
   },
   "GRUPO RANTER": {
-    "idNumerico": null,
+    "idNumerico": "19",
     "nome": "GRUPO RANTER",
     "status": "DISPONIVEL",
     "disponivelEm": null,

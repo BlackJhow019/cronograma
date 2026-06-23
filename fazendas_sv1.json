@@ -121,9 +121,9 @@
   "WESKER_U$METRALHA": {
     "idNumerico": null,
     "nome": "Wesker_u$MeTraLha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:27|23/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "OS DE RACA": {
     "idNumerico": null,
@@ -226,8 +226,8 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": null,
     "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:32|23/06/2026",
     "cofreConsertado": false
   },
   "U$METRALHA FARM'S": {

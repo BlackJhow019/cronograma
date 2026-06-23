@@ -35,11 +35,11 @@
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
-    "idNumerico": null,
+    "idNumerico": "40",
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:41|23/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -147,7 +147,7 @@
     "cofreConsertado": false
   },
   "CLUBE DA LULUZINHA": {
-    "idNumerico": null,
+    "idNumerico": "8",
     "nome": "Clube da Luluzinha",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -196,10 +196,10 @@
     "cofreConsertado": false
   },
   "FAZENDA PUTEIRO DO DEATH 4": {
-    "idNumerico": "31",
+    "idNumerico": null,
     "nome": "Fazenda puteiro do Death 4",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:22|23/06/2026",
     "cofreConsertado": false
   },
   "4I20 HASH FARM'S": {

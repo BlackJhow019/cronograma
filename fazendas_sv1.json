@@ -1,9 +1,9 @@
 {
   "POLEMICO$ INDUSTRI$": {
-    "idNumerico": "37",
+    "idNumerico": null,
     "nome": "PoLeMiCo$ industri$",
     "status": "INDISPONIVEL",
-    "disponivelEm": "19:08|22/06/2026",
+    "disponivelEm": "03:37|23/06/2026",
     "cofreConsertado": false
   },
   "RICO LOUCO": {
@@ -16,9 +16,9 @@
   "021": {
     "idNumerico": "1",
     "nome": "021",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:57|22/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
@@ -39,7 +39,7 @@
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:13|22/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -49,24 +49,24 @@
     "cofreConsertado": false
   },
   "FAZENDINHA DO FIRE": {
-    "idNumerico": "12",
+    "idNumerico": null,
     "nome": "Fazendinha Do Fire",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:35|22/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:31|22/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "PT FARM'S": {
-    "idNumerico": "13",
+    "idNumerico": null,
     "nome": "PT farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:20|22/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "RAFHA INVESTIMENTOS $": {
@@ -77,17 +77,17 @@
     "cofreConsertado": false
   },
   "THUG LIFE": {
-    "idNumerico": "21",
+    "idNumerico": null,
     "nome": "THUG LIFE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:02|22/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "SAO PEDRO 2": {
-    "idNumerico": "43",
+    "idNumerico": null,
     "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:59|22/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "LEK0ZIKA": {
@@ -126,11 +126,11 @@
     "cofreConsertado": false
   },
   "OS DE RACA": {
-    "idNumerico": "0",
+    "idNumerico": null,
     "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:43|22/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "< GAUBRE LTDA >": {
     "idNumerico": "2",
@@ -154,31 +154,31 @@
     "cofreConsertado": false
   },
   "BEE": {
-    "idNumerico": "7",
+    "idNumerico": null,
     "nome": "BEE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:08|22/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FAZENDA DA MILLY": {
-    "idNumerico": "19",
+    "idNumerico": null,
     "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:59|22/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "HWD INVESTIMENTOS": {
-    "idNumerico": "27",
+    "idNumerico": null,
     "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:06|22/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "MONOPOLIO FARMS": {
-    "idNumerico": "20",
+    "idNumerico": null,
     "nome": "Monopolio Farms",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:23|22/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "AZEROX": {
@@ -191,9 +191,9 @@
   "ALCATRAZ INVESTIMENTOS LTDA": {
     "idNumerico": null,
     "nome": "AlcatraZ Investimentos LTDA",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true
+    "cofreConsertado": false
   },
   "FAZENDA PUTEIRO DO DEATH 4": {
     "idNumerico": "31",
@@ -205,29 +205,29 @@
   "4I20 HASH FARM'S": {
     "idNumerico": "16",
     "nome": "4i20 HASH FARM'S",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:03|22/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "PRESO NAO FOGE": {
-    "idNumerico": "15",
+    "idNumerico": null,
     "nome": "PRESO NAO FOGE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:26|22/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "PEEEEERFEITO!!!": {
-    "idNumerico": "10",
+    "idNumerico": null,
     "nome": "Peeeeerfeito!!!",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:51|22/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": "38",
+    "idNumerico": null,
     "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:18|22/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "U$METRALHA FARM'S": {
@@ -240,23 +240,23 @@
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:15|22/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "K1NG FARM'S": {
-    "idNumerico": "25",
+    "idNumerico": null,
     "nome": "K1NG Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:14|22/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "U$METRALHA": {
-    "idNumerico": "32",
+    "idNumerico": null,
     "nome": "u$MeTralha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:33|22/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FAZENDA ROTA DO CAFÉ": {
     "idNumerico": "17",

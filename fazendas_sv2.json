@@ -28,18 +28,18 @@
     "cofreConsertado": false
   },
   "FAZENDINHA BETREZE 2": {
-    "idNumerico": "38",
+    "idNumerico": null,
     "nome": "Fazendinha BeTreZe 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:27|23/06/2026",
     "cofreConsertado": false
   },
   "EVENTO": {
-    "idNumerico": null,
+    "idNumerico": "42",
     "nome": "EVENTO",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:31|23/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
@@ -172,7 +172,7 @@
     "nome": "Dead (:",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:23|23/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "DONA SEM RAZAO": {
     "idNumerico": "26",

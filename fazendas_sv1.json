@@ -84,10 +84,10 @@
     "cofreConsertado": false
   },
   "SAO PEDRO 2": {
-    "idNumerico": "43",
+    "idNumerico": null,
     "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:24|23/06/2026",
     "cofreConsertado": false
   },
   "LEK0ZIKA": {
@@ -291,7 +291,7 @@
     "nome": "XauBlau INVESTIMENTO LTDA",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:15|23/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",

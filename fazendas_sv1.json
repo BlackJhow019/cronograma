@@ -16,9 +16,9 @@
   "021": {
     "idNumerico": null,
     "nome": "021",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:29|23/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
@@ -32,7 +32,7 @@
     "nome": "KodiaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:05|23/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "GRUPO NEXUS": {
     "idNumerico": "40",
@@ -91,7 +91,7 @@
     "cofreConsertado": false
   },
   "LEK0ZIKA": {
-    "idNumerico": null,
+    "idNumerico": "35",
     "nome": "Lek0zika",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -114,9 +114,9 @@
   "BORRACHAS FARM": {
     "idNumerico": null,
     "nome": "Borrachas Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:09|23/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "WESKER_U$METRALHA": {
     "idNumerico": null,
@@ -175,10 +175,10 @@
     "cofreConsertado": true
   },
   "MONOPOLIO FARMS": {
-    "idNumerico": null,
+    "idNumerico": "20",
     "nome": "Monopolio Farms",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:39|23/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "AZEROX": {
@@ -224,18 +224,18 @@
     "cofreConsertado": false
   },
   "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": null,
+    "idNumerico": "38",
     "nome": "Work Industria's Limited",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
   "U$METRALHA FARM'S": {
-    "idNumerico": "29",
+    "idNumerico": null,
     "nome": "u$MeTraLha farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:35|23/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
@@ -287,10 +287,10 @@
     "cofreConsertado": false
   },
   "XAUBLAU INVESTIMENTO LTDA": {
-    "idNumerico": "44",
+    "idNumerico": null,
     "nome": "XauBlau INVESTIMENTO LTDA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:15|23/06/2026",
     "cofreConsertado": false
   },
   "FAMILIA ALMANAK": {

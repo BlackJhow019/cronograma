@@ -1,6 +1,6 @@
 {
   "POLEMICO$ INDUSTRI$": {
-    "idNumerico": null,
+    "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -16,8 +16,8 @@
   "021": {
     "idNumerico": null,
     "nome": "021",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:20|23/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "PREFEITO ROADBLOCK": {
@@ -35,11 +35,11 @@
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
-    "idNumerico": "22",
+    "idNumerico": null,
     "nome": "GRUPO NEXUS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:26|23/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -77,10 +77,10 @@
     "cofreConsertado": false
   },
   "THUG LIFE": {
-    "idNumerico": null,
+    "idNumerico": "21",
     "nome": "THUG LIFE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:05|23/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "SAO PEDRO 2": {
@@ -142,9 +142,9 @@
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": null,
     "nome": "VENDO 500km ACEITO TROCAS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:02|23/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "CLUBE DA LULUZINHA": {
     "idNumerico": null,
@@ -175,10 +175,10 @@
     "cofreConsertado": false
   },
   "MONOPOLIO FARMS": {
-    "idNumerico": "20",
+    "idNumerico": null,
     "nome": "Monopolio Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:39|23/06/2026",
     "cofreConsertado": false
   },
   "AZEROX": {

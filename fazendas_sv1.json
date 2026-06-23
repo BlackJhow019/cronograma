@@ -37,8 +37,8 @@
   "GRUPO NEXUS": {
     "idNumerico": null,
     "nome": "GRUPO NEXUS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:41|23/06/2026",
     "cofreConsertado": false
   },
   "NIKE SHOX": {
@@ -84,7 +84,7 @@
     "cofreConsertado": false
   },
   "SAO PEDRO 2": {
-    "idNumerico": null,
+    "idNumerico": "43",
     "nome": "SAO PEDRO 2",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -126,11 +126,11 @@
     "cofreConsertado": false
   },
   "OS DE RACA": {
-    "idNumerico": null,
+    "idNumerico": "0",
     "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:55|23/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "< GAUBRE LTDA >": {
     "idNumerico": "2",
@@ -231,11 +231,11 @@
     "cofreConsertado": false
   },
   "U$METRALHA FARM'S": {
-    "idNumerico": null,
+    "idNumerico": "29",
     "nome": "u$MeTraLha farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:35|23/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
@@ -287,8 +287,15 @@
     "cofreConsertado": false
   },
   "XAUBLAU INVESTIMENTO LTDA": {
-    "idNumerico": null,
+    "idNumerico": "44",
     "nome": "XauBlau INVESTIMENTO LTDA",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
+  },
+  "FAMILIA ALMANAK": {
+    "idNumerico": "32",
+    "nome": "Familia AlmanaK",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false

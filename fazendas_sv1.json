@@ -84,10 +84,10 @@
     "cofreConsertado": false
   },
   "SAO PEDRO 2": {
-    "idNumerico": "43",
+    "idNumerico": null,
     "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:07|24/06/2026",
     "cofreConsertado": false
   },
   "LEK0ZIKA": {
@@ -207,7 +207,7 @@
     "nome": "4i20 HASH FARM'S",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:25|24/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "PRESO NAO FOGE": {
     "idNumerico": "15",

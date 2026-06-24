@@ -128,8 +128,8 @@
   "OS DE RACA": {
     "idNumerico": null,
     "nome": "OS DE RACA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:08|24/06/2026",
     "cofreConsertado": false
   },
   "< GAUBRE LTDA >": {
@@ -165,7 +165,7 @@
     "nome": "Fazenda da Milly",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:49|24/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",

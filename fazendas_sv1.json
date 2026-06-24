@@ -14,10 +14,10 @@
     "cofreConsertado": false
   },
   "021": {
-    "idNumerico": "1",
+    "idNumerico": null,
     "nome": "021",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:13|24/06/2026",
     "cofreConsertado": false
   },
   "PREFEITO ROADBLOCK": {
@@ -158,7 +158,7 @@
     "nome": "BEE",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:54|24/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",

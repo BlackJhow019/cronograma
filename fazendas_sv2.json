@@ -119,7 +119,7 @@
     "cofreConsertado": false
   },
   "VALE DAS SOMBRAS": {
-    "idNumerico": null,
+    "idNumerico": "24",
     "nome": "Vale das Sombras",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -140,10 +140,10 @@
     "cofreConsertado": false
   },
   "AMO O LOWER": {
-    "idNumerico": "2",
+    "idNumerico": null,
     "nome": "Amo o Lower",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:34|24/06/2026",
     "cofreConsertado": false
   },
   "SE ROUBAR MORRE": {

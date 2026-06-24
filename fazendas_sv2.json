@@ -39,7 +39,7 @@
     "nome": "EVENTO",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:37|24/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
@@ -301,10 +301,10 @@
     "cofreConsertado": false
   },
   "AMO A MAZZI": {
-    "idNumerico": "6",
+    "idNumerico": null,
     "nome": "Amo a Mazzi",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:49|24/06/2026",
     "cofreConsertado": false
   }
 }

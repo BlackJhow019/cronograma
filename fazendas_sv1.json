@@ -35,7 +35,7 @@
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
-    "idNumerico": null,
+    "idNumerico": "9",
     "nome": "GRUPO NEXUS",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -109,7 +109,7 @@
     "nome": "Familia KuSh",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:16|24/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -161,10 +161,10 @@
     "cofreConsertado": true
   },
   "FAZENDA DA MILLY": {
-    "idNumerico": "19",
+    "idNumerico": null,
     "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:49|24/06/2026",
     "cofreConsertado": false
   },
   "HWD INVESTIMENTOS": {
@@ -182,7 +182,7 @@
     "cofreConsertado": false
   },
   "AZEROX": {
-    "idNumerico": null,
+    "idNumerico": "23",
     "nome": "AzeRoX",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -196,11 +196,11 @@
     "cofreConsertado": false
   },
   "FAZENDA PUTEIRO DO DEATH 4": {
-    "idNumerico": "31",
+    "idNumerico": null,
     "nome": "Fazenda puteiro do Death 4",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:22|24/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "4I20 HASH FARM'S": {
     "idNumerico": null,

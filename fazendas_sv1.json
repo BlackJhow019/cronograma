@@ -56,10 +56,10 @@
     "cofreConsertado": false
   },
   "RANCHO DO DOUTOR": {
-    "idNumerico": "14",
+    "idNumerico": null,
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:25|24/06/2026",
     "cofreConsertado": false
   },
   "PT FARM'S": {

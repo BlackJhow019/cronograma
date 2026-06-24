@@ -35,7 +35,7 @@
     "cofreConsertado": false
   },
   "EVENTO": {
-    "idNumerico": null,
+    "idNumerico": "42",
     "nome": "EVENTO",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:37|24/06/2026",
@@ -119,10 +119,10 @@
     "cofreConsertado": false
   },
   "VALE DAS SOMBRAS": {
-    "idNumerico": "24",
+    "idNumerico": null,
     "nome": "Vale das Sombras",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:33|24/06/2026",
     "cofreConsertado": false
   },
   "FARMS DE GALOPISITAS": {
@@ -137,7 +137,7 @@
     "nome": "CANNABIS",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:29|24/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "AMO O LOWER": {
     "idNumerico": "2",

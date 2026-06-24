@@ -16,8 +16,8 @@
   "021": {
     "idNumerico": null,
     "nome": "021",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:13|24/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "PREFEITO ROADBLOCK": {
@@ -35,11 +35,11 @@
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
-    "idNumerico": null,
+    "idNumerico": "40",
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:05|25/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -56,10 +56,10 @@
     "cofreConsertado": false
   },
   "RANCHO DO DOUTOR": {
-    "idNumerico": "14",
+    "idNumerico": null,
     "nome": "Rancho do Doutor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:25|24/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "PT FARM'S": {
@@ -294,10 +294,10 @@
     "cofreConsertado": false
   },
   "FAMILIA ALMANAK": {
-    "idNumerico": "32",
+    "idNumerico": null,
     "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:30|25/06/2026",
     "cofreConsertado": false
   }
 }

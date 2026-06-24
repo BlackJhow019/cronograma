@@ -102,7 +102,7 @@
     "nome": "fazendinha do igeze",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:04|24/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
@@ -289,8 +289,8 @@
   "XAUBLAU INVESTIMENTO LTDA": {
     "idNumerico": null,
     "nome": "XauBlau INVESTIMENTO LTDA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:15|24/06/2026",
     "cofreConsertado": false
   },
   "FAMILIA ALMANAK": {

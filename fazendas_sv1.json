@@ -130,7 +130,7 @@
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:11|24/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "< GAUBRE LTDA >": {
     "idNumerico": "2",
@@ -175,7 +175,7 @@
     "cofreConsertado": false
   },
   "MONOPOLIO FARMS": {
-    "idNumerico": null,
+    "idNumerico": "20",
     "nome": "Monopolio Farms",
     "status": "INDISPONIVEL",
     "disponivelEm": "09:20|24/06/2026",
@@ -203,10 +203,10 @@
     "cofreConsertado": false
   },
   "4I20 HASH FARM'S": {
-    "idNumerico": "16",
+    "idNumerico": null,
     "nome": "4i20 HASH FARM'S",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:23|24/06/2026",
     "cofreConsertado": false
   },
   "PRESO NAO FOGE": {

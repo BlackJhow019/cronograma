@@ -37,8 +37,8 @@
   "EVENTO": {
     "idNumerico": null,
     "nome": "EVENTO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:37|24/06/2026",
     "cofreConsertado": false
   },
   "FAZENDA DO TEMOR": {
@@ -60,7 +60,7 @@
     "nome": "Farma Da Familia Elite",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:24|24/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {
     "idNumerico": "37",

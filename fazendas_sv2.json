@@ -14,7 +14,7 @@
     "cofreConsertado": false
   },
   "AWAKE COMPANY": {
-    "idNumerico": null,
+    "idNumerico": "13",
     "nome": "AwaKe Company",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -91,10 +91,10 @@
     "cofreConsertado": false
   },
   "FAZENDA DO MIRIM": {
-    "idNumerico": "36",
+    "idNumerico": null,
     "nome": "Fazenda Do MIRIM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:23|24/06/2026",
     "cofreConsertado": false
   },
   "FARM DO GALO": {
@@ -123,7 +123,7 @@
     "nome": "Vale das Sombras",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:33|24/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
@@ -294,7 +294,7 @@
     "cofreConsertado": false
   },
   "FAZENDA REI DROGADO": {
-    "idNumerico": null,
+    "idNumerico": "31",
     "nome": "Fazenda Rei Drogado",
     "status": "DISPONIVEL",
     "disponivelEm": null,

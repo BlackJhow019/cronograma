@@ -1,9 +1,9 @@
 {
   "999": {
-    "idNumerico": "39",
+    "idNumerico": null,
     "nome": "999",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:20|24/06/2026",
     "cofreConsertado": false
   },
   "JESUS EA SOLUCAO": {
@@ -109,7 +109,7 @@
     "nome": "Malvada's Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:07|24/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": null,
@@ -305,6 +305,6 @@
     "nome": "Amo a Mazzi",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:06|24/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   }
 }

@@ -144,7 +144,7 @@
     "nome": "Amo o Lower",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:34|24/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
@@ -273,7 +273,7 @@
     "cofreConsertado": false
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
-    "idNumerico": null,
+    "idNumerico": "3",
     "nome": "$ Company $r.RC_PlinioDmG $",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -303,8 +303,8 @@
   "AMO A MAZZI": {
     "idNumerico": null,
     "nome": "Amo a Mazzi",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:06|24/06/2026",
     "cofreConsertado": false
   }
 }

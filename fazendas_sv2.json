@@ -77,11 +77,11 @@
     "cofreConsertado": false
   },
   "ELITE FARMS": {
-    "idNumerico": "17",
+    "idNumerico": null,
     "nome": "Elite Farms",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:02|23/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "B13 :)": {
     "idNumerico": "23",
@@ -133,10 +133,10 @@
     "cofreConsertado": false
   },
   "CANNABIS": {
-    "idNumerico": "8",
+    "idNumerico": null,
     "nome": "CANNABIS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:29|24/06/2026",
     "cofreConsertado": false
   },
   "AMO O LOWER": {
@@ -305,6 +305,6 @@
     "nome": "Amo a Mazzi",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:49|24/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   }
 }

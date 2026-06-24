@@ -21,10 +21,10 @@
     "cofreConsertado": false
   },
   "PREFEITO ROADBLOCK": {
-    "idNumerico": "41",
+    "idNumerico": null,
     "nome": "Prefeito Roadblock",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:22|24/06/2026",
     "cofreConsertado": false
   },
   "KODIAK": {
@@ -291,7 +291,7 @@
     "nome": "XauBlau INVESTIMENTO LTDA",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:15|24/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",

@@ -56,10 +56,10 @@
     "cofreConsertado": false
   },
   "FARMA DA FAMILIA ELITE": {
-    "idNumerico": "33",
+    "idNumerico": null,
     "nome": "Farma Da Familia Elite",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:24|24/06/2026",
     "cofreConsertado": false
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {
@@ -186,7 +186,7 @@
     "nome": "Fazenda do Galin",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:21|24/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "~E V O M~": {
     "idNumerico": "25",

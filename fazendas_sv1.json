@@ -39,7 +39,7 @@
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:34|25/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -77,10 +77,10 @@
     "cofreConsertado": false
   },
   "THUG LIFE": {
-    "idNumerico": "21",
+    "idNumerico": null,
     "nome": "THUG LIFE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:17|25/06/2026",
     "cofreConsertado": false
   },
   "SAO PEDRO 2": {
@@ -109,7 +109,7 @@
     "nome": "Familia KuSh",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:49|25/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -196,14 +196,14 @@
     "cofreConsertado": false
   },
   "FAZENDA PUTEIRO DO DEATH 4": {
-    "idNumerico": null,
+    "idNumerico": "31",
     "nome": "Fazenda puteiro do Death 4",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
   "4I20 HASH FARM'S": {
-    "idNumerico": null,
+    "idNumerico": "16",
     "nome": "4i20 HASH FARM'S",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:01|25/06/2026",

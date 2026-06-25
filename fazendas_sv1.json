@@ -11,7 +11,7 @@
     "nome": "rico louco",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:16|25/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "021": {
     "idNumerico": null,
@@ -35,7 +35,7 @@
     "cofreConsertado": true
   },
   "GRUPO NEXUS": {
-    "idNumerico": null,
+    "idNumerico": "22",
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:37|25/06/2026",
@@ -56,10 +56,10 @@
     "cofreConsertado": false
   },
   "RANCHO DO DOUTOR": {
-    "idNumerico": "14",
+    "idNumerico": null,
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:25|25/06/2026",
     "cofreConsertado": false
   },
   "PT FARM'S": {

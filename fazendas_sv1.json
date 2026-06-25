@@ -35,7 +35,7 @@
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
-    "idNumerico": null,
+    "idNumerico": "39",
     "nome": "GRUPO NEXUS",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -147,10 +147,10 @@
     "cofreConsertado": false
   },
   "CLUBE DA LULUZINHA": {
-    "idNumerico": "8",
+    "idNumerico": null,
     "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:29|25/06/2026",
     "cofreConsertado": false
   },
   "BEE": {
@@ -161,7 +161,7 @@
     "cofreConsertado": false
   },
   "FAZENDA DA MILLY": {
-    "idNumerico": null,
+    "idNumerico": "19",
     "nome": "Fazenda da Milly",
     "status": "DISPONIVEL",
     "disponivelEm": null,

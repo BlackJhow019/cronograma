@@ -42,10 +42,10 @@
     "cofreConsertado": false
   },
   "NIKE SHOX": {
-    "idNumerico": "42",
+    "idNumerico": null,
     "nome": "NIKE SHOX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:06|25/06/2026",
     "cofreConsertado": false
   },
   "FAZENDINHA DO FIRE": {
@@ -77,7 +77,7 @@
     "cofreConsertado": false
   },
   "THUG LIFE": {
-    "idNumerico": null,
+    "idNumerico": "21",
     "nome": "THUG LIFE",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -170,12 +170,12 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": null,
     "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:32|25/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "MONOPOLIO FARMS": {
-    "idNumerico": null,
+    "idNumerico": "20",
     "nome": "Monopolio Farms",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -298,6 +298,6 @@
     "nome": "Familia AlmanaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:20|25/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   }
 }

@@ -70,10 +70,10 @@
     "cofreConsertado": false
   },
   "TA NO GRALI": {
-    "idNumerico": "4",
+    "idNumerico": null,
     "nome": "ta no grali",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:08|25/06/2026",
     "cofreConsertado": false
   },
   "ELITE FARMS": {
@@ -105,7 +105,7 @@
     "cofreConsertado": false
   },
   "MALVADA'S FARM": {
-    "idNumerico": null,
+    "idNumerico": "32",
     "nome": "Malvada's Farm",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -277,7 +277,7 @@
     "nome": "$ Company $r.RC_PlinioDmG $",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:12|25/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAZENDA MAO DE VACA": {
     "idNumerico": "14",

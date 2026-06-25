@@ -280,10 +280,10 @@
     "cofreConsertado": false
   },
   "FAZENDA MAO DE VACA": {
-    "idNumerico": "14",
+    "idNumerico": null,
     "nome": "Fazenda Mao de Vaca",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:00|25/06/2026",
     "cofreConsertado": false
   },
   "/VENDERPRODUTOS": {

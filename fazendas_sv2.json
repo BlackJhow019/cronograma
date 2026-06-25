@@ -2,8 +2,8 @@
   "999": {
     "idNumerico": null,
     "nome": "999",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:20|24/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "JESUS EA SOLUCAO": {
@@ -107,9 +107,9 @@
   "MALVADA'S FARM": {
     "idNumerico": null,
     "nome": "Malvada's Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:07|24/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": null,
@@ -142,9 +142,9 @@
   "AMO O LOWER": {
     "idNumerico": null,
     "nome": "Amo o Lower",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:34|24/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
@@ -228,7 +228,7 @@
     "nome": "FARM DO SAPATO",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:03|25/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FRANCA": {
     "idNumerico": "28",
@@ -259,10 +259,10 @@
     "cofreConsertado": false
   },
   "RICK FARM'S": {
-    "idNumerico": "34",
+    "idNumerico": null,
     "nome": "Rick Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:30|25/06/2026",
     "cofreConsertado": false
   },
   "GRUPO RANTER": {
@@ -303,8 +303,8 @@
   "AMO A MAZZI": {
     "idNumerico": null,
     "nome": "Amo a Mazzi",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:06|24/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   }
 }

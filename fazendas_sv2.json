@@ -91,11 +91,11 @@
     "cofreConsertado": false
   },
   "FAZENDA DO MIRIM": {
-    "idNumerico": null,
+    "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:12|25/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FARM DO GALO": {
     "idNumerico": "40",
@@ -221,7 +221,7 @@
     "nome": "Farm da Thaty",
     "status": "INDISPONIVEL",
     "disponivelEm": "11:17|25/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FARM DO SAPATO": {
     "idNumerico": null,
@@ -275,9 +275,9 @@
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": null,
     "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:12|25/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FAZENDA MAO DE VACA": {
     "idNumerico": "14",
@@ -287,10 +287,10 @@
     "cofreConsertado": false
   },
   "/VENDERPRODUTOS": {
-    "idNumerico": "7",
+    "idNumerico": null,
     "nome": "/VENDERPRODUTOS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:38|25/06/2026",
     "cofreConsertado": false
   },
   "FAZENDA REI DROGADO": {

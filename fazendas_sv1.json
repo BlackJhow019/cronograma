@@ -35,10 +35,10 @@
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
-    "idNumerico": "39",
+    "idNumerico": null,
     "nome": "GRUPO NEXUS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:34|25/06/2026",
     "cofreConsertado": false
   },
   "NIKE SHOX": {
@@ -294,10 +294,10 @@
     "cofreConsertado": false
   },
   "FAMILIA ALMANAK": {
-    "idNumerico": "32",
+    "idNumerico": null,
     "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:30|25/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   }
 }

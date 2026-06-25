@@ -172,7 +172,7 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:33|25/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "MONOPOLIO FARMS": {
     "idNumerico": "20",
@@ -203,10 +203,10 @@
     "cofreConsertado": false
   },
   "4I20 HASH FARM'S": {
-    "idNumerico": "16",
+    "idNumerico": null,
     "nome": "4i20 HASH FARM'S",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:46|25/06/2026",
     "cofreConsertado": false
   },
   "PRESO NAO FOGE": {

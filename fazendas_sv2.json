@@ -4,7 +4,7 @@
     "nome": "999",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:58|25/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
@@ -35,7 +35,7 @@
     "cofreConsertado": false
   },
   "EVENTO": {
-    "idNumerico": null,
+    "idNumerico": "42",
     "nome": "EVENTO",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -94,8 +94,8 @@
     "idNumerico": null,
     "nome": "Fazenda Do MIRIM",
     "status": "INDISPONIVEL",
-    "disponivelEm": "00:06|25/06/2026",
-    "cofreConsertado": true
+    "disponivelEm": "06:12|25/06/2026",
+    "cofreConsertado": false
   },
   "FARM DO GALO": {
     "idNumerico": "40",
@@ -112,7 +112,7 @@
     "cofreConsertado": false
   },
   "YELLOWSTONE - BY MONSTER": {
-    "idNumerico": null,
+    "idNumerico": "16",
     "nome": "YellowStone - By Monster",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -182,11 +182,11 @@
     "cofreConsertado": false
   },
   "FAZENDA DO GALIN": {
-    "idNumerico": null,
+    "idNumerico": "15",
     "nome": "Fazenda do Galin",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:26|24/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "~E V O M~": {
     "idNumerico": "25",
@@ -287,7 +287,7 @@
     "cofreConsertado": false
   },
   "/VENDERPRODUTOS": {
-    "idNumerico": null,
+    "idNumerico": "7",
     "nome": "/VENDERPRODUTOS",
     "status": "DISPONIVEL",
     "disponivelEm": null,

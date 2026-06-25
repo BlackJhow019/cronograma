@@ -95,7 +95,7 @@
     "nome": "Fazenda Do MIRIM",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:12|25/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FARM DO GALO": {
     "idNumerico": "40",
@@ -226,9 +226,9 @@
   "FARM DO SAPATO": {
     "idNumerico": null,
     "nome": "FARM DO SAPATO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:03|25/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FRANCA": {
     "idNumerico": "28",
@@ -273,10 +273,10 @@
     "cofreConsertado": false
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
-    "idNumerico": "3",
+    "idNumerico": null,
     "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:12|25/06/2026",
     "cofreConsertado": false
   },
   "FAZENDA MAO DE VACA": {

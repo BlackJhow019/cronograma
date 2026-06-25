@@ -9,12 +9,12 @@
   "JESUS EA SOLUCAO": {
     "idNumerico": null,
     "nome": "JESUS EA SOLUCAO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:48|25/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "AWAKE COMPANY": {
-    "idNumerico": null,
+    "idNumerico": "13",
     "nome": "AwaKe Company",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -56,10 +56,10 @@
     "cofreConsertado": false
   },
   "FARMA DA FAMILIA ELITE": {
-    "idNumerico": "33",
+    "idNumerico": null,
     "nome": "Farma Da Familia Elite",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:26|26/06/2026",
     "cofreConsertado": false
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {
@@ -121,8 +121,8 @@
   "VALE DAS SOMBRAS": {
     "idNumerico": null,
     "nome": "Vale das Sombras",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:29|25/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FARMS DE GALOPISITAS": {
@@ -151,7 +151,7 @@
     "nome": "SE ROUBAR MORRE",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:10|25/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "ARIANA_B13": {
     "idNumerico": "10",
@@ -182,7 +182,7 @@
     "cofreConsertado": false
   },
   "FAZENDA DO GALIN": {
-    "idNumerico": null,
+    "idNumerico": "15",
     "nome": "Fazenda do Galin",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -273,7 +273,7 @@
     "cofreConsertado": false
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
-    "idNumerico": null,
+    "idNumerico": "3",
     "nome": "$ Company $r.RC_PlinioDmG $",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -284,7 +284,7 @@
     "nome": "Fazenda Mao de Vaca",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:00|25/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "/VENDERPRODUTOS": {
     "idNumerico": null,
@@ -301,7 +301,7 @@
     "cofreConsertado": false
   },
   "AMO A MAZZI": {
-    "idNumerico": null,
+    "idNumerico": "6",
     "nome": "Amo a Mazzi",
     "status": "DISPONIVEL",
     "disponivelEm": null,

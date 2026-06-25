@@ -84,7 +84,7 @@
     "cofreConsertado": false
   },
   "SAO PEDRO 2": {
-    "idNumerico": null,
+    "idNumerico": "43",
     "nome": "SAO PEDRO 2",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -107,8 +107,8 @@
   "FAMILIA KUSH": {
     "idNumerico": null,
     "nome": "Familia KuSh",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:49|25/06/2026",
     "cofreConsertado": false
   },
   "BORRACHAS FARM": {
@@ -175,7 +175,7 @@
     "cofreConsertado": false
   },
   "MONOPOLIO FARMS": {
-    "idNumerico": null,
+    "idNumerico": "20",
     "nome": "Monopolio Farms",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:53|25/06/2026",

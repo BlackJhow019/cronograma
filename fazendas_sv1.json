@@ -49,7 +49,7 @@
     "cofreConsertado": true
   },
   "FAZENDINHA DO FIRE": {
-    "idNumerico": null,
+    "idNumerico": "12",
     "nome": "Fazendinha Do Fire",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -158,7 +158,7 @@
     "nome": "BEE",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:38|25/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAZENDA DA MILLY": {
     "idNumerico": null,
@@ -210,10 +210,10 @@
     "cofreConsertado": false
   },
   "PRESO NAO FOGE": {
-    "idNumerico": "15",
+    "idNumerico": null,
     "nome": "PRESO NAO FOGE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:55|25/06/2026",
     "cofreConsertado": false
   },
   "PEEEEERFEITO!!!": {

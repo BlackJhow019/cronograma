@@ -1,6 +1,6 @@
 {
   "999": {
-    "idNumerico": null,
+    "idNumerico": "39",
     "nome": "999",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -217,17 +217,17 @@
     "cofreConsertado": false
   },
   "FARM DA THATY": {
-    "idNumerico": null,
+    "idNumerico": "1",
     "nome": "Farm da Thaty",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
   "FARM DO SAPATO": {
-    "idNumerico": "9",
+    "idNumerico": null,
     "nome": "FARM DO SAPATO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:45|25/06/2026",
     "cofreConsertado": false
   },
   "FRANCA": {
@@ -263,7 +263,7 @@
     "nome": "Rick Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:25|25/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "GRUPO RANTER": {
     "idNumerico": "19",

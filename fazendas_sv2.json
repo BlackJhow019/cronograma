@@ -2,8 +2,8 @@
   "999": {
     "idNumerico": null,
     "nome": "999",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:58|25/06/2026",
     "cofreConsertado": false
   },
   "JESUS EA SOLUCAO": {
@@ -18,7 +18,7 @@
     "nome": "AwaKe Company",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:55|25/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "ROCK FARM": {
     "idNumerico": "11",

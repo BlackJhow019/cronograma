@@ -1,6 +1,6 @@
 {
   "999": {
-    "idNumerico": null,
+    "idNumerico": "39",
     "nome": "999",
     "status": "INDISPONIVEL",
     "disponivelEm": "10:16|25/06/2026",
@@ -72,16 +72,16 @@
   "TA NO GRALI": {
     "idNumerico": null,
     "nome": "ta no grali",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:08|25/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "ELITE FARMS": {
     "idNumerico": null,
     "nome": "Elite Farms",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:39|25/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "B13 :)": {
     "idNumerico": "23",
@@ -133,7 +133,7 @@
     "cofreConsertado": false
   },
   "CANNABIS": {
-    "idNumerico": null,
+    "idNumerico": "8",
     "nome": "CANNABIS",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -203,10 +203,10 @@
     "cofreConsertado": false
   },
   "QG FARM KHAOS": {
-    "idNumerico": "18",
+    "idNumerico": null,
     "nome": "QG FARM KHAOS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:01|25/06/2026",
     "cofreConsertado": false
   },
   "RAMONZIN_FRANCA": {
@@ -224,7 +224,7 @@
     "cofreConsertado": true
   },
   "FARM DO SAPATO": {
-    "idNumerico": null,
+    "idNumerico": "9",
     "nome": "FARM DO SAPATO",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -259,7 +259,7 @@
     "cofreConsertado": false
   },
   "RICK FARM'S": {
-    "idNumerico": null,
+    "idNumerico": "34",
     "nome": "Rick Farm's",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -287,7 +287,7 @@
     "cofreConsertado": false
   },
   "/VENDERPRODUTOS": {
-    "idNumerico": null,
+    "idNumerico": "7",
     "nome": "/VENDERPRODUTOS",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:38|25/06/2026",

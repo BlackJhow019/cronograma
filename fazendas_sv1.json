@@ -14,7 +14,7 @@
     "cofreConsertado": false
   },
   "021": {
-    "idNumerico": null,
+    "idNumerico": "1",
     "nome": "021",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -56,7 +56,7 @@
     "cofreConsertado": false
   },
   "RANCHO DO DOUTOR": {
-    "idNumerico": null,
+    "idNumerico": "14",
     "nome": "Rancho do Doutor",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -86,8 +86,8 @@
   "SAO PEDRO 2": {
     "idNumerico": null,
     "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:07|24/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "LEK0ZIKA": {
@@ -107,9 +107,9 @@
   "FAMILIA KUSH": {
     "idNumerico": null,
     "nome": "Familia KuSh",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:16|24/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -163,9 +163,9 @@
   "FAZENDA DA MILLY": {
     "idNumerico": null,
     "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:49|24/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
@@ -175,10 +175,10 @@
     "cofreConsertado": false
   },
   "MONOPOLIO FARMS": {
-    "idNumerico": "20",
+    "idNumerico": null,
     "nome": "Monopolio Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:53|25/06/2026",
     "cofreConsertado": false
   },
   "AZEROX": {
@@ -205,9 +205,9 @@
   "4I20 HASH FARM'S": {
     "idNumerico": null,
     "nome": "4i20 HASH FARM'S",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:25|24/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "PRESO NAO FOGE": {
     "idNumerico": "15",
@@ -294,10 +294,10 @@
     "cofreConsertado": false
   },
   "FAMILIA ALMANAK": {
-    "idNumerico": null,
+    "idNumerico": "32",
     "nome": "Familia AlmanaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:30|25/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   }
 }

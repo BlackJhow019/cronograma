@@ -56,10 +56,10 @@
     "cofreConsertado": false
   },
   "RANCHO DO DOUTOR": {
-    "idNumerico": "14",
+    "idNumerico": null,
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:26|25/06/2026",
     "cofreConsertado": false
   },
   "PT FARM'S": {
@@ -221,7 +221,7 @@
     "nome": "Peeeeerfeito!!!",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:51|25/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
@@ -280,11 +280,11 @@
     "cofreConsertado": false
   },
   "DM2 FARM": {
-    "idNumerico": "6",
+    "idNumerico": null,
     "nome": "Dm2 Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:55|24/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "XAUBLAU INVESTIMENTO LTDA": {
     "idNumerico": null,

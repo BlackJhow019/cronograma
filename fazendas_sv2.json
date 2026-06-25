@@ -70,7 +70,7 @@
     "cofreConsertado": false
   },
   "TA NO GRALI": {
-    "idNumerico": null,
+    "idNumerico": "4",
     "nome": "ta no grali",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -140,7 +140,7 @@
     "cofreConsertado": false
   },
   "AMO O LOWER": {
-    "idNumerico": null,
+    "idNumerico": "2",
     "nome": "Amo o Lower",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -259,10 +259,10 @@
     "cofreConsertado": false
   },
   "RICK FARM'S": {
-    "idNumerico": "34",
+    "idNumerico": null,
     "nome": "Rick Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:25|25/06/2026",
     "cofreConsertado": false
   },
   "GRUPO RANTER": {
@@ -287,10 +287,10 @@
     "cofreConsertado": false
   },
   "/VENDERPRODUTOS": {
-    "idNumerico": "7",
+    "idNumerico": null,
     "nome": "/VENDERPRODUTOS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:38|25/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FAZENDA REI DROGADO": {

@@ -126,11 +126,11 @@
     "cofreConsertado": false
   },
   "OS DE RACA": {
-    "idNumerico": "0",
+    "idNumerico": null,
     "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:08|24/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "< GAUBRE LTDA >": {
     "idNumerico": "2",
@@ -207,7 +207,7 @@
     "nome": "4i20 HASH FARM'S",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:01|25/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "PRESO NAO FOGE": {
     "idNumerico": "15",
@@ -217,10 +217,10 @@
     "cofreConsertado": false
   },
   "PEEEEERFEITO!!!": {
-    "idNumerico": "10",
+    "idNumerico": null,
     "nome": "Peeeeerfeito!!!",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:51|25/06/2026",
     "cofreConsertado": false
   },
   "WORK INDUSTRIA'S LIMITED": {
@@ -280,7 +280,7 @@
     "cofreConsertado": false
   },
   "DM2 FARM": {
-    "idNumerico": null,
+    "idNumerico": "6",
     "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:55|24/06/2026",

@@ -105,11 +105,11 @@
     "cofreConsertado": false
   },
   "FAMILIA KUSH": {
-    "idNumerico": "34",
+    "idNumerico": null,
     "nome": "Familia KuSh",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:04|25/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -207,7 +207,7 @@
     "nome": "4i20 HASH FARM'S",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:46|25/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "PRESO NAO FOGE": {
     "idNumerico": null,
@@ -238,10 +238,10 @@
     "cofreConsertado": false
   },
   "FARM'S DE CAFE": {
-    "idNumerico": "4",
+    "idNumerico": null,
     "nome": "Farm's de Cafe",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:24|26/06/2026",
     "cofreConsertado": false
   },
   "K1NG FARM'S": {

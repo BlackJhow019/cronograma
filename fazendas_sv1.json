@@ -18,7 +18,7 @@
     "nome": "021",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:17|25/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
@@ -28,14 +28,14 @@
     "cofreConsertado": false
   },
   "KODIAK": {
-    "idNumerico": "3",
+    "idNumerico": null,
     "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:38|25/06/2026",
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
-    "idNumerico": null,
+    "idNumerico": "30",
     "nome": "GRUPO NEXUS",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -163,9 +163,9 @@
   "FAZENDA DA MILLY": {
     "idNumerico": null,
     "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:11|25/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
@@ -233,8 +233,8 @@
   "U$METRALHA FARM'S": {
     "idNumerico": null,
     "nome": "u$MeTraLha farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:08|25/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FARM'S DE CAFE": {
@@ -296,9 +296,9 @@
   "FAMILIA ALMANAK": {
     "idNumerico": null,
     "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:20|25/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",

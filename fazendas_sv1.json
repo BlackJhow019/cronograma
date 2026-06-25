@@ -79,8 +79,8 @@
   "THUG LIFE": {
     "idNumerico": null,
     "nome": "THUG LIFE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:17|25/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "SAO PEDRO 2": {
@@ -165,7 +165,7 @@
     "nome": "Fazenda da Milly",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:11|25/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": null,
@@ -296,8 +296,8 @@
   "FAMILIA ALMANAK": {
     "idNumerico": null,
     "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:20|25/06/2026",
     "cofreConsertado": false
   }
 }

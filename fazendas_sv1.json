@@ -65,8 +65,8 @@
   "PT FARM'S": {
     "idNumerico": null,
     "nome": "PT farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:22|26/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "RAFHA INVESTIMENTOS $": {
@@ -109,7 +109,7 @@
     "nome": "Familia KuSh",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:30|26/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -126,7 +126,7 @@
     "cofreConsertado": false
   },
   "OS DE RACA": {
-    "idNumerico": null,
+    "idNumerico": "0",
     "nome": "OS DE RACA",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -282,8 +282,8 @@
   "DM2 FARM": {
     "idNumerico": null,
     "nome": "Dm2 Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:20|26/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "XAUBLAU INVESTIMENTO LTDA": {
@@ -303,8 +303,8 @@
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": null,
     "nome": "Quem Roubar e Petista",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:41|26/06/2026",
     "cofreConsertado": false
   }
 }

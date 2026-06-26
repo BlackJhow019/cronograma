@@ -14,11 +14,11 @@
     "cofreConsertado": true
   },
   "021": {
-    "idNumerico": null,
+    "idNumerico": "1",
     "nome": "021",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:17|25/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
@@ -30,19 +30,19 @@
   "KODIAK": {
     "idNumerico": null,
     "nome": "KodiaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:38|25/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "GRUPO NEXUS": {
-    "idNumerico": "22",
+    "idNumerico": null,
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
-    "disponivelEm": "21:37|25/06/2026",
-    "cofreConsertado": true
+    "disponivelEm": "03:42|26/06/2026",
+    "cofreConsertado": false
   },
   "NIKE SHOX": {
-    "idNumerico": null,
+    "idNumerico": "42",
     "nome": "NIKE SHOX",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -105,7 +105,7 @@
     "cofreConsertado": false
   },
   "FAMILIA KUSH": {
-    "idNumerico": null,
+    "idNumerico": "34",
     "nome": "Familia KuSh",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -154,14 +154,14 @@
     "cofreConsertado": false
   },
   "BEE": {
-    "idNumerico": null,
+    "idNumerico": "7",
     "nome": "BEE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:38|25/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FAZENDA DA MILLY": {
-    "idNumerico": null,
+    "idNumerico": "19",
     "nome": "Fazenda da Milly",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -212,9 +212,9 @@
   "PRESO NAO FOGE": {
     "idNumerico": null,
     "nome": "PRESO NAO FOGE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:55|25/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "PEEEEERFEITO!!!": {
     "idNumerico": "10",
@@ -231,7 +231,7 @@
     "cofreConsertado": false
   },
   "U$METRALHA FARM'S": {
-    "idNumerico": null,
+    "idNumerico": "29",
     "nome": "u$MeTraLha farm's",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -242,7 +242,7 @@
     "nome": "Farm's de Cafe",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:24|26/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "K1NG FARM'S": {
     "idNumerico": "25",

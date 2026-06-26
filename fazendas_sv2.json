@@ -42,10 +42,10 @@
     "cofreConsertado": false
   },
   "FAZENDA DO TEMOR": {
-    "idNumerico": "30",
+    "idNumerico": null,
     "nome": "Fazenda do Temor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:57|26/06/2026",
     "cofreConsertado": false
   },
   "LA FAMILIA CHIARADIA": {
@@ -77,11 +77,11 @@
     "cofreConsertado": false
   },
   "ELITE FARMS": {
-    "idNumerico": null,
+    "idNumerico": "17",
     "nome": "Elite Farms",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:14|25/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "B13 :)": {
     "idNumerico": "23",
@@ -109,7 +109,7 @@
     "nome": "Malvada's Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:29|26/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
@@ -226,9 +226,9 @@
   "FARM DO SAPATO": {
     "idNumerico": null,
     "nome": "FARM DO SAPATO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:45|25/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FRANCA": {
     "idNumerico": "28",

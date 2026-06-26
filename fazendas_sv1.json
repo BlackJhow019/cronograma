@@ -77,10 +77,10 @@
     "cofreConsertado": false
   },
   "THUG LIFE": {
-    "idNumerico": "21",
+    "idNumerico": null,
     "nome": "THUG LIFE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:37|27/06/2026",
     "cofreConsertado": false
   },
   "SAO PEDRO 2": {
@@ -135,9 +135,9 @@
   "< GAUBRE LTDA >": {
     "idNumerico": null,
     "nome": "< GAUBRE LTDA >",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:21|26/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
@@ -154,7 +154,7 @@
     "cofreConsertado": false
   },
   "BEE": {
-    "idNumerico": null,
+    "idNumerico": "7",
     "nome": "BEE",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -163,16 +163,16 @@
   "FAZENDA DA MILLY": {
     "idNumerico": null,
     "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true
+    "cofreConsertado": false
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:59|27/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "MONOPOLIO FARMS": {
     "idNumerico": "20",
@@ -226,8 +226,8 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": null,
     "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:35|26/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "U$METRALHA FARM'S": {

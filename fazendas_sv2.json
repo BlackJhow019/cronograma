@@ -21,10 +21,10 @@
     "cofreConsertado": false
   },
   "ROCK FARM": {
-    "idNumerico": "11",
+    "idNumerico": null,
     "nome": "RocK Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:11|26/06/2026",
     "cofreConsertado": false
   },
   "FAZENDINHA BETREZE 2": {
@@ -39,7 +39,7 @@
     "nome": "EVENTO",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:50|26/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAZENDA DO TEMOR": {
     "idNumerico": null,

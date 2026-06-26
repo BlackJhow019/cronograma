@@ -35,10 +35,10 @@
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
-    "idNumerico": "30",
+    "idNumerico": null,
     "nome": "GRUPO NEXUS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:49|26/06/2026",
     "cofreConsertado": false
   },
   "NIKE SHOX": {
@@ -84,7 +84,7 @@
     "cofreConsertado": false
   },
   "SAO PEDRO 2": {
-    "idNumerico": null,
+    "idNumerico": "43",
     "nome": "SAO PEDRO 2",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -126,7 +126,7 @@
     "cofreConsertado": false
   },
   "OS DE RACA": {
-    "idNumerico": null,
+    "idNumerico": "0",
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "11:38|26/06/2026",

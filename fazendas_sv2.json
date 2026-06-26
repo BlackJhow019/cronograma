@@ -56,7 +56,7 @@
     "cofreConsertado": false
   },
   "FARMA DA FAMILIA ELITE": {
-    "idNumerico": null,
+    "idNumerico": "33",
     "nome": "Farma Da Familia Elite",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:22|26/06/2026",
@@ -98,14 +98,14 @@
     "cofreConsertado": false
   },
   "FARM DO GALO": {
-    "idNumerico": "40",
+    "idNumerico": null,
     "nome": "FARM DO GALO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:43|26/06/2026",
     "cofreConsertado": false
   },
   "MALVADA'S FARM": {
-    "idNumerico": null,
+    "idNumerico": "32",
     "nome": "Malvada's Farm",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -147,7 +147,7 @@
     "cofreConsertado": false
   },
   "SE ROUBAR MORRE": {
-    "idNumerico": null,
+    "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -182,7 +182,7 @@
     "cofreConsertado": false
   },
   "FAZENDA DO GALIN": {
-    "idNumerico": null,
+    "idNumerico": "15",
     "nome": "Fazenda do Galin",
     "status": "DISPONIVEL",
     "disponivelEm": null,

@@ -35,10 +35,10 @@
     "cofreConsertado": false
   },
   "EVENTO": {
-    "idNumerico": "42",
+    "idNumerico": null,
     "nome": "EVENTO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:50|26/06/2026",
     "cofreConsertado": false
   },
   "FAZENDA DO TEMOR": {
@@ -270,7 +270,7 @@
     "nome": "GRUPO RANTER",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:19|26/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",

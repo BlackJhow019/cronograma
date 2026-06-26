@@ -4,10 +4,10 @@
     "nome": "999",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:05|26/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "JESUS EA SOLUCAO": {
-    "idNumerico": null,
+    "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -105,10 +105,10 @@
     "cofreConsertado": false
   },
   "MALVADA'S FARM": {
-    "idNumerico": "32",
+    "idNumerico": null,
     "nome": "Malvada's Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:29|26/06/2026",
     "cofreConsertado": false
   },
   "YELLOWSTONE - BY MONSTER": {
@@ -261,9 +261,9 @@
   "RICK FARM'S": {
     "idNumerico": null,
     "nome": "Rick Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:25|25/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "GRUPO RANTER": {
     "idNumerico": "19",

@@ -112,7 +112,7 @@
     "cofreConsertado": false
   },
   "BORRACHAS FARM": {
-    "idNumerico": null,
+    "idNumerico": "33",
     "nome": "Borrachas Farm",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -137,7 +137,7 @@
     "nome": "< GAUBRE LTDA >",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:21|26/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
@@ -224,10 +224,10 @@
     "cofreConsertado": false
   },
   "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": "38",
+    "idNumerico": null,
     "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:35|26/06/2026",
     "cofreConsertado": false
   },
   "U$METRALHA FARM'S": {

@@ -21,10 +21,10 @@
     "cofreConsertado": false
   },
   "PREFEITO ROADBLOCK": {
-    "idNumerico": "41",
+    "idNumerico": null,
     "nome": "Prefeito Roadblock",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:33|26/06/2026",
     "cofreConsertado": false
   },
   "KODIAK": {
@@ -114,9 +114,9 @@
   "BORRACHAS FARM": {
     "idNumerico": null,
     "nome": "Borrachas Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:31|26/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
@@ -249,7 +249,7 @@
     "nome": "K1NG Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:27|26/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "U$METRALHA": {
     "idNumerico": null,

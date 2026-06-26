@@ -46,7 +46,7 @@
     "nome": "NIKE SHOX",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:36|26/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAZENDINHA DO FIRE": {
     "idNumerico": "12",
@@ -84,10 +84,10 @@
     "cofreConsertado": false
   },
   "SAO PEDRO 2": {
-    "idNumerico": "43",
+    "idNumerico": null,
     "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:41|26/06/2026",
     "cofreConsertado": false
   },
   "LEK0ZIKA": {
@@ -305,6 +305,6 @@
     "nome": "Quem Roubar e Petista",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:30|26/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   }
 }

@@ -1,13 +1,13 @@
 {
   "999": {
-    "idNumerico": "39",
+    "idNumerico": null,
     "nome": "999",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:29|26/06/2026",
     "cofreConsertado": false
   },
   "JESUS EA SOLUCAO": {
-    "idNumerico": null,
+    "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:22|26/06/2026",
@@ -88,7 +88,7 @@
     "nome": "B13 :)",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:25|26/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",

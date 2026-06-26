@@ -116,7 +116,7 @@
     "nome": "Borrachas Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:31|26/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
@@ -156,9 +156,9 @@
   "BEE": {
     "idNumerico": null,
     "nome": "BEE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:19|26/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
@@ -280,10 +280,10 @@
     "cofreConsertado": false
   },
   "DM2 FARM": {
-    "idNumerico": "6",
+    "idNumerico": null,
     "nome": "Dm2 Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:20|26/06/2026",
     "cofreConsertado": false
   },
   "XAUBLAU INVESTIMENTO LTDA": {

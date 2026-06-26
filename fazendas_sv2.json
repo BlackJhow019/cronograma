@@ -186,7 +186,7 @@
     "nome": "Fazenda do Galin",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:37|26/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "~E V O M~": {
     "idNumerico": "25",
@@ -305,6 +305,13 @@
     "nome": "Amo a Mazzi",
     "status": "DISPONIVEL",
     "disponivelEm": null,
+    "cofreConsertado": false
+  },
+  "KAROL E COM C OU K?": {
+    "idNumerico": null,
+    "nome": "Karol e com C ou K?",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:52|26/06/2026",
     "cofreConsertado": false
   }
 }

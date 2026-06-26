@@ -49,7 +49,7 @@
     "cofreConsertado": false
   },
   "FAZENDINHA DO FIRE": {
-    "idNumerico": null,
+    "idNumerico": "12",
     "nome": "Fazendinha Do Fire",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:32|26/06/2026",
@@ -156,8 +156,8 @@
   "BEE": {
     "idNumerico": null,
     "nome": "BEE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:03|26/06/2026",
     "cofreConsertado": false
   },
   "FAZENDA DA MILLY": {

@@ -14,10 +14,10 @@
     "cofreConsertado": false
   },
   "021": {
-    "idNumerico": "1",
+    "idNumerico": null,
     "nome": "021",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:09|27/06/2026",
     "cofreConsertado": false
   },
   "PREFEITO ROADBLOCK": {
@@ -100,8 +100,8 @@
   "FAZENDINHA DO IGEZE": {
     "idNumerico": null,
     "nome": "fazendinha do igeze",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:44|26/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FAMILIA KUSH": {
@@ -156,9 +156,9 @@
   "BEE": {
     "idNumerico": null,
     "nome": "BEE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:03|26/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FAZENDA DA MILLY": {
     "idNumerico": null,

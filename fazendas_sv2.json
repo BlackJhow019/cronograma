@@ -7,11 +7,11 @@
     "cofreConsertado": true
   },
   "JESUS EA SOLUCAO": {
-    "idNumerico": "0",
+    "idNumerico": null,
     "nome": "JESUS EA SOLUCAO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:22|26/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "AWAKE COMPANY": {
     "idNumerico": "13",
@@ -123,7 +123,7 @@
     "nome": "Vale das Sombras",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:09|26/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
@@ -205,8 +205,8 @@
   "QG FARM KHAOS": {
     "idNumerico": null,
     "nome": "QG FARM KHAOS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:39|26/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "RAMONZIN_FRANCA": {
@@ -227,8 +227,8 @@
     "idNumerico": null,
     "nome": "FARM DO SAPATO",
     "status": "INDISPONIVEL",
-    "disponivelEm": "15:44|26/06/2026",
-    "cofreConsertado": true
+    "disponivelEm": "21:53|26/06/2026",
+    "cofreConsertado": false
   },
   "FRANCA": {
     "idNumerico": "28",

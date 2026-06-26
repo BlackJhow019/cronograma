@@ -1,10 +1,10 @@
 {
   "999": {
-    "idNumerico": "39",
+    "idNumerico": null,
     "nome": "999",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:29|26/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "JESUS EA SOLUCAO": {
     "idNumerico": null,
@@ -35,11 +35,11 @@
     "cofreConsertado": false
   },
   "EVENTO": {
-    "idNumerico": "12",
+    "idNumerico": null,
     "nome": "EVENTO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:44|26/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FAZENDA DO TEMOR": {
     "idNumerico": null,
@@ -51,15 +51,15 @@
   "LA FAMILIA CHIARADIA": {
     "idNumerico": null,
     "nome": "LA FAMILIA CHIARADIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:51|26/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FARMA DA FAMILIA ELITE": {
-    "idNumerico": "33",
+    "idNumerico": null,
     "nome": "Farma Da Familia Elite",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:22|26/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {
@@ -86,9 +86,9 @@
   "B13 :)": {
     "idNumerico": null,
     "nome": "B13 :)",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:25|26/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
@@ -100,8 +100,8 @@
   "FARM DO GALO": {
     "idNumerico": null,
     "nome": "FARM DO GALO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:43|26/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "MALVADA'S FARM": {
@@ -154,7 +154,7 @@
     "cofreConsertado": false
   },
   "ARIANA_B13": {
-    "idNumerico": null,
+    "idNumerico": "10",
     "nome": "Ariana_B13",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:48|26/06/2026",
@@ -224,11 +224,11 @@
     "cofreConsertado": false
   },
   "FARM DO SAPATO": {
-    "idNumerico": null,
+    "idNumerico": "9",
     "nome": "FARM DO SAPATO",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:53|26/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FRANCA": {
     "idNumerico": "28",
@@ -245,10 +245,10 @@
     "cofreConsertado": false
   },
   "AURA + EGO": {
-    "idNumerico": "22",
+    "idNumerico": null,
     "nome": "Aura + Ego",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:37|27/06/2026",
     "cofreConsertado": false
   },
   "SUCCUBUS FARMS": {

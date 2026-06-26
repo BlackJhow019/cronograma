@@ -11,7 +11,7 @@
     "nome": "JESUS EA SOLUCAO",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:22|26/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "AWAKE COMPANY": {
     "idNumerico": "13",
@@ -203,10 +203,10 @@
     "cofreConsertado": false
   },
   "QG FARM KHAOS": {
-    "idNumerico": "18",
+    "idNumerico": null,
     "nome": "QG FARM KHAOS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:39|26/06/2026",
     "cofreConsertado": false
   },
   "RAMONZIN_FRANCA": {

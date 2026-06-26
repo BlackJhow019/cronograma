@@ -35,11 +35,11 @@
     "cofreConsertado": false
   },
   "EVENTO": {
-    "idNumerico": null,
+    "idNumerico": "12",
     "nome": "EVENTO",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:44|26/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
@@ -84,10 +84,10 @@
     "cofreConsertado": false
   },
   "B13 :)": {
-    "idNumerico": "23",
+    "idNumerico": null,
     "nome": "B13 :)",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:25|26/06/2026",
     "cofreConsertado": false
   },
   "FAZENDA DO MIRIM": {
@@ -266,7 +266,7 @@
     "cofreConsertado": false
   },
   "GRUPO RANTER": {
-    "idNumerico": null,
+    "idNumerico": "19",
     "nome": "GRUPO RANTER",
     "status": "DISPONIVEL",
     "disponivelEm": null,

@@ -28,10 +28,10 @@
     "cofreConsertado": true
   },
   "KODIAK": {
-    "idNumerico": "3",
+    "idNumerico": null,
     "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:39|26/06/2026",
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {

@@ -149,9 +149,9 @@
   "SE ROUBAR MORRE": {
     "idNumerico": null,
     "nome": "SE ROUBAR MORRE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:10|25/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "ARIANA_B13": {
     "idNumerico": "10",
@@ -228,7 +228,7 @@
     "nome": "FARM DO SAPATO",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:19|26/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FRANCA": {
     "idNumerico": "28",
@@ -266,10 +266,10 @@
     "cofreConsertado": false
   },
   "GRUPO RANTER": {
-    "idNumerico": "19",
+    "idNumerico": null,
     "nome": "GRUPO RANTER",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:19|26/06/2026",
     "cofreConsertado": false
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
@@ -280,11 +280,11 @@
     "cofreConsertado": false
   },
   "FAZENDA MAO DE VACA": {
-    "idNumerico": "14",
+    "idNumerico": null,
     "nome": "Fazenda Mao de Vaca",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:00|25/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "/VENDERPRODUTOS": {
     "idNumerico": null,

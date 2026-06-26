@@ -44,8 +44,8 @@
   "FAZENDA DO TEMOR": {
     "idNumerico": null,
     "nome": "Fazenda do Temor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:46|26/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "LA FAMILIA CHIARADIA": {
@@ -65,9 +65,9 @@
   "WELCOME > MELHOR FAZENDA DO BPS": {
     "idNumerico": "37",
     "nome": "WELCOME > MELHOR FAZENDA DO BPS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:30|27/06/2026",
+    "cofreConsertado": true
   },
   "TA NO GRALI": {
     "idNumerico": "4",
@@ -114,15 +114,15 @@
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
     "nome": "YellowStone - By Monster",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:33|27/06/2026",
+    "cofreConsertado": true
   },
   "VALE DAS SOMBRAS": {
-    "idNumerico": null,
+    "idNumerico": "24",
     "nome": "Vale das Sombras",
     "status": "INDISPONIVEL",
-    "disponivelEm": "20:09|26/06/2026",
+    "disponivelEm": "01:46|27/06/2026",
     "cofreConsertado": true
   },
   "FARMS DE GALOPISITAS": {
@@ -154,11 +154,11 @@
     "cofreConsertado": false
   },
   "ARIANA_B13": {
-    "idNumerico": "10",
+    "idNumerico": null,
     "nome": "Ariana_B13",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:48|26/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FARME DO DRAKE": {
     "idNumerico": "35",
@@ -203,11 +203,11 @@
     "cofreConsertado": false
   },
   "QG FARM KHAOS": {
-    "idNumerico": null,
+    "idNumerico": "18",
     "nome": "QG FARM KHAOS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:00|27/06/2026",
+    "cofreConsertado": true
   },
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",
@@ -240,16 +240,16 @@
   "CHAMA A POLICIA": {
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:48|27/06/2026",
+    "cofreConsertado": true
   },
   "AURA + EGO": {
-    "idNumerico": null,
+    "idNumerico": "22",
     "nome": "Aura + Ego",
     "status": "INDISPONIVEL",
-    "disponivelEm": "01:37|27/06/2026",
-    "cofreConsertado": false
+    "disponivelEm": "01:38|27/06/2026",
+    "cofreConsertado": true
   },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",

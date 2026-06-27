@@ -175,10 +175,10 @@
     "cofreConsertado": false
   },
   "DONA SEM RAZAO": {
-    "idNumerico": "26",
+    "idNumerico": null,
     "nome": "Dona sem razao",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:14|28/06/2026",
     "cofreConsertado": false
   },
   "FAZENDA DO GALIN": {
@@ -200,7 +200,7 @@
     "nome": "FARM'S NAY E NICK",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:46|28/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "QG FARM KHAOS": {
     "idNumerico": "18",

@@ -18,7 +18,7 @@
     "nome": "AwaKe Company",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:49|27/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "ROCK FARM": {
     "idNumerico": null,
@@ -308,10 +308,10 @@
     "cofreConsertado": false
   },
   "KAROL E COM C OU K?": {
-    "idNumerico": "34",
+    "idNumerico": null,
     "nome": "Karol e com C ou K?",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:01|27/06/2026",
     "cofreConsertado": false
   }
 }

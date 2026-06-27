@@ -214,7 +214,7 @@
     "nome": "PRESO NAO FOGE",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:18|27/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "PEEEEERFEITO!!!": {
     "idNumerico": "10",
@@ -240,8 +240,8 @@
   "FARM'S DE CAFE": {
     "idNumerico": null,
     "nome": "Farm's de Cafe",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:26|27/06/2026",
     "cofreConsertado": false
   },
   "K1NG FARM'S": {

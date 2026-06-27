@@ -28,11 +28,11 @@
     "cofreConsertado": false
   },
   "KODIAK": {
-    "idNumerico": "3",
+    "idNumerico": null,
     "nome": "KodiaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:03|27/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "GRUPO NEXUS": {
     "idNumerico": null,
@@ -42,11 +42,11 @@
     "cofreConsertado": false
   },
   "NIKE SHOX": {
-    "idNumerico": "42",
+    "idNumerico": null,
     "nome": "NIKE SHOX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:04|27/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FAZENDINHA DO FIRE": {
     "idNumerico": "12",
@@ -84,7 +84,7 @@
     "cofreConsertado": true
   },
   "SAO PEDRO 2": {
-    "idNumerico": null,
+    "idNumerico": "43",
     "nome": "SAO PEDRO 2",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -154,10 +154,10 @@
     "cofreConsertado": false
   },
   "BEE": {
-    "idNumerico": "7",
+    "idNumerico": null,
     "nome": "BEE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:14|27/06/2026",
     "cofreConsertado": false
   },
   "FAZENDA DA MILLY": {
@@ -168,11 +168,11 @@
     "cofreConsertado": false
   },
   "HWD INVESTIMENTOS": {
-    "idNumerico": "27",
+    "idNumerico": null,
     "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:59|27/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "MONOPOLIO FARMS": {
     "idNumerico": null,
@@ -245,11 +245,11 @@
     "cofreConsertado": false
   },
   "K1NG FARM'S": {
-    "idNumerico": null,
+    "idNumerico": "25",
     "nome": "K1NG Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:56|27/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "U$METRALHA": {
     "idNumerico": null,

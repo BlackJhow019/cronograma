@@ -25,7 +25,7 @@
     "nome": "Prefeito Roadblock",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:43|27/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "KODIAK": {
     "idNumerico": null,
@@ -37,8 +37,8 @@
   "GRUPO NEXUS": {
     "idNumerico": null,
     "nome": "GRUPO NEXUS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:19|27/06/2026",
     "cofreConsertado": false
   },
   "NIKE SHOX": {
@@ -308,10 +308,10 @@
     "cofreConsertado": false
   },
   "BERNARDO FARM'S": {
-    "idNumerico": "16",
+    "idNumerico": null,
     "nome": "Bernardo Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:54|27/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   }
 }

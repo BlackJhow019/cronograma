@@ -23,8 +23,8 @@
   "PREFEITO ROADBLOCK": {
     "idNumerico": null,
     "nome": "Prefeito Roadblock",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:43|27/06/2026",
     "cofreConsertado": false
   },
   "KODIAK": {
@@ -77,11 +77,11 @@
     "cofreConsertado": true
   },
   "THUG LIFE": {
-    "idNumerico": "21",
+    "idNumerico": null,
     "nome": "THUG LIFE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:37|27/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -242,7 +242,7 @@
     "nome": "Farm's de Cafe",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:26|27/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "K1NG FARM'S": {
     "idNumerico": "25",

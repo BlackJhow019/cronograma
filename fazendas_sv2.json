@@ -35,18 +35,18 @@
     "cofreConsertado": false
   },
   "EVENTO": {
-    "idNumerico": "42",
+    "idNumerico": null,
     "nome": "EVENTO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:50|27/06/2026",
     "cofreConsertado": false
   },
   "FAZENDA DO TEMOR": {
-    "idNumerico": "30",
+    "idNumerico": null,
     "nome": "Fazenda do Temor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:42|27/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": null,
@@ -60,7 +60,7 @@
     "nome": "Farma Da Familia Elite",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:34|27/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {
     "idNumerico": null,

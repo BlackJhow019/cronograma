@@ -35,7 +35,7 @@
     "cofreConsertado": false
   },
   "EVENTO": {
-    "idNumerico": null,
+    "idNumerico": "42",
     "nome": "EVENTO",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -126,10 +126,10 @@
     "cofreConsertado": true
   },
   "FARMS DE GALOPISITAS": {
-    "idNumerico": "20",
+    "idNumerico": null,
     "nome": "Farms de Galopisitas",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:02|27/06/2026",
     "cofreConsertado": false
   },
   "CANNABIS": {

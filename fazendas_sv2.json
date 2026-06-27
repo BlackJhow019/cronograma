@@ -16,15 +16,15 @@
   "AWAKE COMPANY": {
     "idNumerico": null,
     "nome": "AwaKe Company",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:49|27/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "ROCK FARM": {
     "idNumerico": null,
     "nome": "RocK Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:47|27/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FAZENDINHA BETREZE 2": {
@@ -58,9 +58,9 @@
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": null,
     "nome": "Farma Da Familia Elite",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:31|27/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {
     "idNumerico": null,
@@ -77,24 +77,24 @@
     "cofreConsertado": false
   },
   "ELITE FARMS": {
-    "idNumerico": null,
+    "idNumerico": "17",
     "nome": "Elite Farms",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:12|27/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "B13 :)": {
-    "idNumerico": null,
+    "idNumerico": "23",
     "nome": "B13 :)",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
   "FAZENDA DO MIRIM": {
-    "idNumerico": "36",
+    "idNumerico": null,
     "nome": "Fazenda Do MIRIM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:03|27/06/2026",
     "cofreConsertado": false
   },
   "FARM DO GALO": {
@@ -107,9 +107,9 @@
   "MALVADA'S FARM": {
     "idNumerico": null,
     "nome": "Malvada's Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:56|27/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": null,
@@ -126,11 +126,11 @@
     "cofreConsertado": false
   },
   "FARMS DE GALOPISITAS": {
-    "idNumerico": null,
+    "idNumerico": "20",
     "nome": "Farms de Galopisitas",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:02|27/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "CANNABIS": {
     "idNumerico": null,
@@ -224,7 +224,7 @@
     "cofreConsertado": false
   },
   "FARM DO SAPATO": {
-    "idNumerico": null,
+    "idNumerico": "9",
     "nome": "FARM DO SAPATO",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -310,8 +310,8 @@
   "KAROL E COM C OU K?": {
     "idNumerico": null,
     "nome": "Karol e com C ou K?",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:01|27/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   }
 }

@@ -137,7 +137,7 @@
     "nome": "CANNABIS",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:51|27/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "AMO O LOWER": {
     "idNumerico": "2",
@@ -205,9 +205,9 @@
   "QG FARM KHAOS": {
     "idNumerico": "18",
     "nome": "QG FARM KHAOS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:00|27/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",
@@ -245,7 +245,7 @@
     "cofreConsertado": false
   },
   "AURA + EGO": {
-    "idNumerico": null,
+    "idNumerico": "22",
     "nome": "Aura + Ego",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -273,10 +273,10 @@
     "cofreConsertado": false
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
-    "idNumerico": "3",
+    "idNumerico": null,
     "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:04|27/06/2026",
     "cofreConsertado": false
   },
   "FAZENDA MAO DE VACA": {

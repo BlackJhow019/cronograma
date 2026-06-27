@@ -35,7 +35,7 @@
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
-    "idNumerico": null,
+    "idNumerico": "40",
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:33|27/06/2026",
@@ -70,14 +70,14 @@
     "cofreConsertado": false
   },
   "RAFHA INVESTIMENTOS $": {
-    "idNumerico": null,
+    "idNumerico": "26",
     "nome": "Rafha investimentos $",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
   "THUG LIFE": {
-    "idNumerico": null,
+    "idNumerico": "21",
     "nome": "THUG LIFE",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -102,7 +102,7 @@
     "nome": "fazendinha do igeze",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:52|27/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
@@ -247,8 +247,8 @@
   "K1NG FARM'S": {
     "idNumerico": null,
     "nome": "K1NG Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:54|27/06/2026",
     "cofreConsertado": false
   },
   "U$METRALHA": {
@@ -296,8 +296,8 @@
   "FAMILIA ALMANAK": {
     "idNumerico": null,
     "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:29|27/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "QUEM ROUBAR E PETISTA": {
@@ -308,7 +308,7 @@
     "cofreConsertado": false
   },
   "BERNARDO FARM'S": {
-    "idNumerico": null,
+    "idNumerico": "16",
     "nome": "Bernardo Farm's",
     "status": "DISPONIVEL",
     "disponivelEm": null,

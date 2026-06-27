@@ -112,10 +112,10 @@
     "cofreConsertado": false
   },
   "BORRACHAS FARM": {
-    "idNumerico": "33",
+    "idNumerico": null,
     "nome": "Borrachas Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:32|27/06/2026",
     "cofreConsertado": false
   },
   "WESKER_U$METRALHA": {
@@ -156,9 +156,9 @@
   "BEE": {
     "idNumerico": null,
     "nome": "BEE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:14|27/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FAZENDA DA MILLY": {
     "idNumerico": null,
@@ -186,7 +186,7 @@
     "nome": "AzeRoX",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:02|27/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "ALCATRAZ INVESTIMENTOS LTDA": {
     "idNumerico": null,
@@ -212,9 +212,9 @@
   "PRESO NAO FOGE": {
     "idNumerico": null,
     "nome": "PRESO NAO FOGE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:18|27/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "PEEEEERFEITO!!!": {
     "idNumerico": "10",
@@ -240,9 +240,9 @@
   "FARM'S DE CAFE": {
     "idNumerico": null,
     "nome": "Farm's de Cafe",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:26|27/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "K1NG FARM'S": {
     "idNumerico": null,

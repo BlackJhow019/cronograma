@@ -35,10 +35,10 @@
     "cofreConsertado": false
   },
   "EVENTO": {
-    "idNumerico": "12",
+    "idNumerico": "42",
     "nome": "EVENTO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:50|27/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FAZENDA DO TEMOR": {
@@ -294,10 +294,10 @@
     "cofreConsertado": false
   },
   "FAZENDA REI DROGADO": {
-    "idNumerico": "31",
+    "idNumerico": null,
     "nome": "Fazenda Rei Drogado",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:55|27/06/2026",
     "cofreConsertado": false
   },
   "AMO A MAZZI": {
@@ -312,6 +312,6 @@
     "nome": "Karol e com C ou K?",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:44|27/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   }
 }

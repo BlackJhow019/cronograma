@@ -21,10 +21,10 @@
     "cofreConsertado": false
   },
   "PREFEITO ROADBLOCK": {
-    "idNumerico": "41",
+    "idNumerico": null,
     "nome": "Prefeito Roadblock",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:45|27/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "KODIAK": {
@@ -70,10 +70,10 @@
     "cofreConsertado": false
   },
   "RAFHA INVESTIMENTOS $": {
-    "idNumerico": "26",
+    "idNumerico": null,
     "nome": "Rafha investimentos $",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:55|27/06/2026",
     "cofreConsertado": false
   },
   "THUG LIFE": {
@@ -179,14 +179,14 @@
     "nome": "Monopolio Farms",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:13|27/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "AZEROX": {
     "idNumerico": null,
     "nome": "AzeRoX",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:25|27/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "ALCATRAZ INVESTIMENTOS LTDA": {
     "idNumerico": null,

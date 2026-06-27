@@ -35,7 +35,7 @@
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
-    "idNumerico": null,
+    "idNumerico": "22",
     "nome": "GRUPO NEXUS",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -60,7 +60,7 @@
     "nome": "Rancho do Doutor",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:09|27/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "PT FARM'S": {
     "idNumerico": "13",
@@ -140,10 +140,10 @@
     "cofreConsertado": false
   },
   "VENDO 500KM ACEITO TROCAS": {
-    "idNumerico": "24",
+    "idNumerico": null,
     "nome": "VENDO 500km ACEITO TROCAS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:29|27/06/2026",
     "cofreConsertado": false
   },
   "CLUBE DA LULUZINHA": {

@@ -23,9 +23,9 @@
   "PREFEITO ROADBLOCK": {
     "idNumerico": null,
     "nome": "Prefeito Roadblock",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:43|27/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "KODIAK": {
     "idNumerico": "3",
@@ -35,11 +35,11 @@
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
-    "idNumerico": "22",
+    "idNumerico": null,
     "nome": "GRUPO NEXUS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:19|27/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -116,7 +116,7 @@
     "nome": "Borrachas Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:32|27/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
@@ -126,10 +126,10 @@
     "cofreConsertado": false
   },
   "OS DE RACA": {
-    "idNumerico": "0",
+    "idNumerico": null,
     "nome": "OS DE RACA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:50|27/06/2026",
     "cofreConsertado": false
   },
   "< GAUBRE LTDA >": {
@@ -168,14 +168,14 @@
     "cofreConsertado": false
   },
   "HWD INVESTIMENTOS": {
-    "idNumerico": null,
+    "idNumerico": "27",
     "nome": "hwd investimentos",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
   "MONOPOLIO FARMS": {
-    "idNumerico": null,
+    "idNumerico": "20",
     "nome": "Monopolio Farms",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -210,7 +210,7 @@
     "cofreConsertado": false
   },
   "PRESO NAO FOGE": {
-    "idNumerico": null,
+    "idNumerico": "15",
     "nome": "PRESO NAO FOGE",
     "status": "DISPONIVEL",
     "disponivelEm": null,

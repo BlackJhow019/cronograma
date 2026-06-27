@@ -11,7 +11,7 @@
     "nome": "rico louco",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:50|27/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "021": {
     "idNumerico": "1",
@@ -39,7 +39,7 @@
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:11|27/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -49,10 +49,10 @@
     "cofreConsertado": true
   },
   "FAZENDINHA DO FIRE": {
-    "idNumerico": null,
+    "idNumerico": "12",
     "nome": "Fazendinha Do Fire",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:21|26/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "RANCHO DO DOUTOR": {
@@ -63,7 +63,7 @@
     "cofreConsertado": false
   },
   "PT FARM'S": {
-    "idNumerico": null,
+    "idNumerico": "13",
     "nome": "PT farm's",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -105,7 +105,7 @@
     "cofreConsertado": false
   },
   "FAMILIA KUSH": {
-    "idNumerico": null,
+    "idNumerico": "34",
     "nome": "Familia KuSh",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -226,8 +226,8 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": null,
     "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:48|27/06/2026",
     "cofreConsertado": false
   },
   "U$METRALHA FARM'S": {
@@ -303,8 +303,8 @@
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": null,
     "nome": "Quem Roubar e Petista",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:41|26/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "BERNARDO FARM'S": {

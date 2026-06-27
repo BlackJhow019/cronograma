@@ -224,10 +224,10 @@
     "cofreConsertado": false
   },
   "FARM DO SAPATO": {
-    "idNumerico": "9",
+    "idNumerico": null,
     "nome": "FARM DO SAPATO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:45|27/06/2026",
     "cofreConsertado": false
   },
   "FRANCA": {
@@ -298,7 +298,7 @@
     "nome": "Fazenda Rei Drogado",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:55|27/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "AMO A MAZZI": {
     "idNumerico": "6",

@@ -14,7 +14,7 @@
     "cofreConsertado": false
   },
   "AWAKE COMPANY": {
-    "idNumerico": null,
+    "idNumerico": "13",
     "nome": "AwaKe Company",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -51,8 +51,8 @@
   "LA FAMILIA CHIARADIA": {
     "idNumerico": null,
     "nome": "LA FAMILIA CHIARADIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:29|27/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FARMA DA FAMILIA ELITE": {
@@ -77,10 +77,10 @@
     "cofreConsertado": false
   },
   "ELITE FARMS": {
-    "idNumerico": "17",
+    "idNumerico": null,
     "nome": "Elite Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:31|27/06/2026",
     "cofreConsertado": false
   },
   "B13 :)": {
@@ -119,7 +119,7 @@
     "cofreConsertado": false
   },
   "VALE DAS SOMBRAS": {
-    "idNumerico": null,
+    "idNumerico": "24",
     "nome": "Vale das Sombras",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -135,9 +135,9 @@
   "CANNABIS": {
     "idNumerico": null,
     "nome": "CANNABIS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:51|27/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "AMO O LOWER": {
     "idNumerico": "2",
@@ -238,7 +238,7 @@
     "cofreConsertado": false
   },
   "CHAMA A POLICIA": {
-    "idNumerico": null,
+    "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -273,10 +273,10 @@
     "cofreConsertado": false
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
-    "idNumerico": null,
+    "idNumerico": "3",
     "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:04|27/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FAZENDA MAO DE VACA": {

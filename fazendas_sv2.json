@@ -21,10 +21,10 @@
     "cofreConsertado": false
   },
   "ROCK FARM": {
-    "idNumerico": "11",
+    "idNumerico": null,
     "nome": "RocK Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:47|27/06/2026",
     "cofreConsertado": false
   },
   "FAZENDINHA BETREZE 2": {
@@ -109,7 +109,7 @@
     "nome": "Malvada's Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:56|27/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",

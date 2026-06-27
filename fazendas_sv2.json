@@ -14,10 +14,10 @@
     "cofreConsertado": false
   },
   "AWAKE COMPANY": {
-    "idNumerico": "13",
+    "idNumerico": null,
     "nome": "AwaKe Company",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:49|27/06/2026",
     "cofreConsertado": false
   },
   "ROCK FARM": {
@@ -60,7 +60,7 @@
     "nome": "Farma Da Familia Elite",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:31|27/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {
     "idNumerico": "37",

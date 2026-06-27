@@ -42,10 +42,10 @@
     "cofreConsertado": false
   },
   "FAZENDA DO TEMOR": {
-    "idNumerico": "30",
+    "idNumerico": null,
     "nome": "Fazenda do Temor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:42|27/06/2026",
     "cofreConsertado": false
   },
   "LA FAMILIA CHIARADIA": {
@@ -63,11 +63,11 @@
     "cofreConsertado": true
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {
-    "idNumerico": "37",
+    "idNumerico": null,
     "nome": "WELCOME > MELHOR FAZENDA DO BPS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:30|27/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "TA NO GRALI": {
     "idNumerico": "4",
@@ -112,11 +112,11 @@
     "cofreConsertado": true
   },
   "YELLOWSTONE - BY MONSTER": {
-    "idNumerico": "16",
+    "idNumerico": null,
     "nome": "YellowStone - By Monster",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:33|27/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
@@ -154,7 +154,7 @@
     "cofreConsertado": false
   },
   "ARIANA_B13": {
-    "idNumerico": null,
+    "idNumerico": "10",
     "nome": "Ariana_B13",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -186,7 +186,7 @@
     "nome": "Fazenda do Galin",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:11|27/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "~E V O M~": {
     "idNumerico": "25",
@@ -245,11 +245,11 @@
     "cofreConsertado": true
   },
   "AURA + EGO": {
-    "idNumerico": "22",
+    "idNumerico": null,
     "nome": "Aura + Ego",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:38|27/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",
@@ -280,7 +280,7 @@
     "cofreConsertado": false
   },
   "FAZENDA MAO DE VACA": {
-    "idNumerico": null,
+    "idNumerico": "14",
     "nome": "Fazenda Mao de Vaca",
     "status": "DISPONIVEL",
     "disponivelEm": null,

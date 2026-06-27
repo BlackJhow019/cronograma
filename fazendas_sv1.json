@@ -35,10 +35,10 @@
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
-    "idNumerico": "22",
+    "idNumerico": null,
     "nome": "GRUPO NEXUS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:33|27/06/2026",
     "cofreConsertado": false
   },
   "NIKE SHOX": {
@@ -140,7 +140,7 @@
     "cofreConsertado": false
   },
   "VENDO 500KM ACEITO TROCAS": {
-    "idNumerico": null,
+    "idNumerico": "24",
     "nome": "VENDO 500km ACEITO TROCAS",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:29|27/06/2026",

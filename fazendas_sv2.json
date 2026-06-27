@@ -49,10 +49,10 @@
     "cofreConsertado": true
   },
   "LA FAMILIA CHIARADIA": {
-    "idNumerico": "43",
+    "idNumerico": null,
     "nome": "LA FAMILIA CHIARADIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:29|27/06/2026",
     "cofreConsertado": false
   },
   "FARMA DA FAMILIA ELITE": {
@@ -86,8 +86,8 @@
   "B13 :)": {
     "idNumerico": null,
     "nome": "B13 :)",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:12|27/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FAZENDA DO MIRIM": {

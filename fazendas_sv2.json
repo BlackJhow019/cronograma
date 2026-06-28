@@ -95,7 +95,7 @@
     "nome": "Fazenda Do MIRIM",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:29|28/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FARM DO GALO": {
     "idNumerico": null,
@@ -161,10 +161,10 @@
     "cofreConsertado": false
   },
   "FARME DO DRAKE": {
-    "idNumerico": "35",
+    "idNumerico": null,
     "nome": "Farme do Drake",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:36|28/06/2026",
     "cofreConsertado": false
   },
   "DEAD (:": {

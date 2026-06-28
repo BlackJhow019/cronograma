@@ -163,8 +163,8 @@
   "FARME DO DRAKE": {
     "idNumerico": null,
     "nome": "Farme do Drake",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:09|28/06/2026",
     "cofreConsertado": false
   },
   "DEAD (:": {
@@ -207,7 +207,7 @@
     "nome": "QG FARM KHAOS",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:52|28/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",

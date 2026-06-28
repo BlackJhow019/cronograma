@@ -60,7 +60,7 @@
     "nome": "Rancho do Doutor",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:10|28/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "PT FARM'S": {
     "idNumerico": "13",
@@ -200,7 +200,7 @@
     "nome": "Fazenda puteiro do Death 4",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:28|28/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "4I20 HASH FARM'S": {
     "idNumerico": null,
@@ -224,10 +224,10 @@
     "cofreConsertado": false
   },
   "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": "38",
+    "idNumerico": null,
     "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:57|28/06/2026",
     "cofreConsertado": false
   },
   "U$METRALHA FARM'S": {
@@ -245,7 +245,7 @@
     "cofreConsertado": false
   },
   "K1NG FARM'S": {
-    "idNumerico": null,
+    "idNumerico": "25",
     "nome": "K1NG Farm's",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -301,7 +301,7 @@
     "cofreConsertado": true
   },
   "QUEM ROUBAR E PETISTA": {
-    "idNumerico": null,
+    "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
     "status": "DISPONIVEL",
     "disponivelEm": null,

@@ -35,7 +35,7 @@
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
-    "idNumerico": null,
+    "idNumerico": "22",
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:20|28/06/2026",
@@ -126,25 +126,25 @@
     "cofreConsertado": false
   },
   "OS DE RACA": {
-    "idNumerico": "0",
+    "idNumerico": null,
     "nome": "OS DE RACA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:01|28/06/2026",
     "cofreConsertado": false
   },
   "< GAUBRE LTDA >": {
-    "idNumerico": null,
+    "idNumerico": "2",
     "nome": "< GAUBRE LTDA >",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
   "VENDO 500KM ACEITO TROCAS": {
-    "idNumerico": null,
+    "idNumerico": "24",
     "nome": "VENDO 500km ACEITO TROCAS",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:09|28/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
@@ -308,7 +308,7 @@
     "cofreConsertado": false
   },
   "BERNARDO FARM'S": {
-    "idNumerico": null,
+    "idNumerico": "16",
     "nome": "Bernardo Farm's",
     "status": "DISPONIVEL",
     "disponivelEm": null,

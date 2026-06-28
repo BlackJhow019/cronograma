@@ -151,7 +151,7 @@
     "nome": "SE ROUBAR MORRE",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:43|29/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "ARIANA_B13": {
     "idNumerico": null,
@@ -224,10 +224,10 @@
     "cofreConsertado": true
   },
   "FARM DO SAPATO": {
-    "idNumerico": "9",
+    "idNumerico": null,
     "nome": "FARM DO SAPATO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:45|29/06/2026",
     "cofreConsertado": false
   },
   "FRANCA": {
@@ -254,9 +254,9 @@
   "SUCCUBUS FARMS": {
     "idNumerico": null,
     "nome": "Succubus Farms",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:44|28/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "RICK FARM'S": {
     "idNumerico": null,

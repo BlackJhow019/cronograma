@@ -77,10 +77,10 @@
     "cofreConsertado": false
   },
   "ELITE FARMS": {
-    "idNumerico": "17",
+    "idNumerico": null,
     "nome": "Elite Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:24|29/06/2026",
     "cofreConsertado": false
   },
   "B13 :)": {
@@ -182,11 +182,11 @@
     "cofreConsertado": false
   },
   "FAZENDA DO GALIN": {
-    "idNumerico": "15",
+    "idNumerico": null,
     "nome": "Fazenda do Galin",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:19|28/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "~E V O M~": {
     "idNumerico": null,
@@ -221,7 +221,7 @@
     "nome": "Farm da Thaty",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:50|29/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FARM DO SAPATO": {
     "idNumerico": "9",
@@ -268,8 +268,8 @@
   "GRUPO RANTER": {
     "idNumerico": null,
     "nome": "GRUPO RANTER",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:55|28/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "$ COMPANY $R.RC_PLINIODMG $": {

@@ -14,10 +14,10 @@
     "cofreConsertado": false
   },
   "AWAKE COMPANY": {
-    "idNumerico": "13",
+    "idNumerico": null,
     "nome": "AwaKe Company",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:36|28/06/2026",
     "cofreConsertado": false
   },
   "ROCK FARM": {
@@ -193,7 +193,7 @@
     "nome": "~E V O M~",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:20|28/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FARM'S NAY E NICK": {
     "idNumerico": null,

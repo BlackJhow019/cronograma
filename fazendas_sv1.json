@@ -35,7 +35,7 @@
     "cofreConsertado": true
   },
   "GRUPO NEXUS": {
-    "idNumerico": null,
+    "idNumerico": "39",
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:44|28/06/2026",
@@ -114,9 +114,9 @@
   "BORRACHAS FARM": {
     "idNumerico": null,
     "nome": "Borrachas Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:59|28/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
@@ -224,11 +224,11 @@
     "cofreConsertado": true
   },
   "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": "38",
+    "idNumerico": null,
     "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:54|28/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "U$METRALHA FARM'S": {
     "idNumerico": "29",
@@ -238,10 +238,10 @@
     "cofreConsertado": false
   },
   "FARM'S DE CAFE": {
-    "idNumerico": "4",
+    "idNumerico": null,
     "nome": "Farm's de Cafe",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:07|28/06/2026",
     "cofreConsertado": false
   },
   "K1NG FARM'S": {

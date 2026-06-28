@@ -140,10 +140,10 @@
     "cofreConsertado": false
   },
   "AMO O LOWER": {
-    "idNumerico": "2",
+    "idNumerico": null,
     "nome": "Amo o Lower",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:04|28/06/2026",
     "cofreConsertado": false
   },
   "SE ROUBAR MORRE": {
@@ -184,8 +184,8 @@
   "FAZENDA DO GALIN": {
     "idNumerico": null,
     "nome": "Fazenda do Galin",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:35|28/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "~E V O M~": {
@@ -226,8 +226,8 @@
   "FARM DO SAPATO": {
     "idNumerico": null,
     "nome": "FARM DO SAPATO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:01|28/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FRANCA": {

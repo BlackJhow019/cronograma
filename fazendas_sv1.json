@@ -1,9 +1,9 @@
 {
   "POLEMICO$ INDUSTRI$": {
-    "idNumerico": "37",
+    "idNumerico": null,
     "nome": "PoLeMiCo$ industri$",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:06|28/06/2026",
     "cofreConsertado": false
   },
   "RICO LOUCO": {
@@ -161,7 +161,7 @@
     "cofreConsertado": false
   },
   "FAZENDA DA MILLY": {
-    "idNumerico": null,
+    "idNumerico": "19",
     "nome": "Fazenda da Milly",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -179,7 +179,7 @@
     "nome": "Monopolio Farms",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:19|28/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "AZEROX": {
     "idNumerico": "23",
@@ -231,7 +231,7 @@
     "cofreConsertado": false
   },
   "U$METRALHA FARM'S": {
-    "idNumerico": null,
+    "idNumerico": "29",
     "nome": "u$MeTraLha farm's",
     "status": "DISPONIVEL",
     "disponivelEm": null,

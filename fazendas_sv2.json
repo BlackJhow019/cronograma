@@ -81,7 +81,7 @@
     "nome": "Elite Farms",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:24|29/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "B13 :)": {
     "idNumerico": null,
@@ -100,8 +100,8 @@
   "FARM DO GALO": {
     "idNumerico": null,
     "nome": "FARM DO GALO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:39|28/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "MALVADA'S FARM": {
@@ -147,10 +147,10 @@
     "cofreConsertado": false
   },
   "SE ROUBAR MORRE": {
-    "idNumerico": "41",
+    "idNumerico": null,
     "nome": "SE ROUBAR MORRE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:43|29/06/2026",
     "cofreConsertado": false
   },
   "ARIANA_B13": {

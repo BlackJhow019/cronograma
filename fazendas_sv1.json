@@ -81,13 +81,13 @@
     "nome": "THUG LIFE",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:50|29/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "SAO PEDRO 2": {
-    "idNumerico": "43",
+    "idNumerico": null,
     "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:11|29/06/2026",
     "cofreConsertado": false
   },
   "LEK0ZIKA": {

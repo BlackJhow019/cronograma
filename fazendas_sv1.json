@@ -56,7 +56,7 @@
     "cofreConsertado": false
   },
   "RANCHO DO DOUTOR": {
-    "idNumerico": null,
+    "idNumerico": "14",
     "nome": "Rancho do Doutor",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -88,7 +88,7 @@
     "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:11|29/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "LEK0ZIKA": {
     "idNumerico": "35",
@@ -107,8 +107,8 @@
   "FAMILIA KUSH": {
     "idNumerico": null,
     "nome": "Familia KuSh",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:11|28/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "BORRACHAS FARM": {
@@ -182,10 +182,10 @@
     "cofreConsertado": false
   },
   "AZEROX": {
-    "idNumerico": "23",
+    "idNumerico": null,
     "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:31|29/06/2026",
     "cofreConsertado": false
   },
   "ALCATRAZ INVESTIMENTOS LTDA": {

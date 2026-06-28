@@ -177,8 +177,8 @@
   "DONA SEM RAZAO": {
     "idNumerico": null,
     "nome": "Dona sem razao",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:21|28/06/2026",
     "cofreConsertado": false
   },
   "FAZENDA DO GALIN": {

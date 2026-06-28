@@ -91,10 +91,10 @@
     "cofreConsertado": false
   },
   "FAZENDA DO MIRIM": {
-    "idNumerico": "36",
+    "idNumerico": null,
     "nome": "Fazenda Do MIRIM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:29|28/06/2026",
     "cofreConsertado": false
   },
   "FARM DO GALO": {

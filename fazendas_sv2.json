@@ -100,8 +100,8 @@
   "FARM DO GALO": {
     "idNumerico": null,
     "nome": "FARM DO GALO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:39|28/06/2026",
     "cofreConsertado": false
   },
   "MALVADA'S FARM": {
@@ -177,8 +177,8 @@
   "DONA SEM RAZAO": {
     "idNumerico": null,
     "nome": "Dona sem razao",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:21|28/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FAZENDA DO GALIN": {
@@ -196,11 +196,11 @@
     "cofreConsertado": false
   },
   "FARM'S NAY E NICK": {
-    "idNumerico": "5",
+    "idNumerico": null,
     "nome": "FARM'S NAY E NICK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:34|28/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "QG FARM KHAOS": {
     "idNumerico": null,

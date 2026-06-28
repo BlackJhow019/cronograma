@@ -30,15 +30,15 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:12|28/06/2026",
+    "cofreConsertado": true
   },
   "GRUPO NEXUS": {
     "idNumerico": "40",
     "nome": "GRUPO NEXUS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:36|28/06/2026",
     "cofreConsertado": false
   },
   "NIKE SHOX": {
@@ -65,9 +65,9 @@
   "PT FARM'S": {
     "idNumerico": "13",
     "nome": "PT farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:07|28/06/2026",
+    "cofreConsertado": true
   },
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
@@ -86,9 +86,9 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:09|28/06/2026",
+    "cofreConsertado": true
   },
   "LEK0ZIKA": {
     "idNumerico": "35",
@@ -126,11 +126,11 @@
     "cofreConsertado": false
   },
   "OS DE RACA": {
-    "idNumerico": null,
+    "idNumerico": "0",
     "nome": "OS DE RACA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:38|28/06/2026",
+    "cofreConsertado": true
   },
   "< GAUBRE LTDA >": {
     "idNumerico": null,
@@ -147,24 +147,24 @@
     "cofreConsertado": false
   },
   "CLUBE DA LULUZINHA": {
-    "idNumerico": null,
+    "idNumerico": "8",
     "nome": "Clube da Luluzinha",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:11|28/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "BEE": {
     "idNumerico": "7",
     "nome": "BEE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:45|28/06/2026",
     "cofreConsertado": false
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:35|28/06/2026",
     "cofreConsertado": false
   },
   "HWD INVESTIMENTOS": {
@@ -178,7 +178,7 @@
     "idNumerico": null,
     "nome": "Monopolio Farms",
     "status": "INDISPONIVEL",
-    "disponivelEm": "21:09|27/06/2026",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "AZEROX": {
@@ -198,8 +198,8 @@
   "FAZENDA PUTEIRO DO DEATH 4": {
     "idNumerico": "31",
     "nome": "Fazenda puteiro do Death 4",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:28|28/06/2026",
     "cofreConsertado": false
   },
   "4I20 HASH FARM'S": {
@@ -212,15 +212,15 @@
   "PRESO NAO FOGE": {
     "idNumerico": "15",
     "nome": "PRESO NAO FOGE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:15|28/06/2026",
+    "cofreConsertado": true
   },
   "PEEEEERFEITO!!!": {
     "idNumerico": null,
     "nome": "Peeeeerfeito!!!",
     "status": "INDISPONIVEL",
-    "disponivelEm": "20:42|27/06/2026",
+    "disponivelEm": null,
     "cofreConsertado": true
   },
   "WORK INDUSTRIA'S LIMITED": {
@@ -233,8 +233,8 @@
   "U$METRALHA FARM'S": {
     "idNumerico": "29",
     "nome": "u$MeTraLha farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:19|28/06/2026",
     "cofreConsertado": false
   },
   "FARM'S DE CAFE": {
@@ -294,11 +294,11 @@
     "cofreConsertado": false
   },
   "FAMILIA ALMANAK": {
-    "idNumerico": null,
+    "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:05|28/06/2026",
+    "cofreConsertado": true
   },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": null,
@@ -310,8 +310,8 @@
   "BERNARDO FARM'S": {
     "idNumerico": "16",
     "nome": "Bernardo Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:49|28/06/2026",
+    "cofreConsertado": true
   }
 }

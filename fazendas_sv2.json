@@ -1,6 +1,6 @@
 {
   "999": {
-    "idNumerico": null,
+    "idNumerico": "39",
     "nome": "999",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -77,11 +77,11 @@
     "cofreConsertado": false
   },
   "ELITE FARMS": {
-    "idNumerico": null,
+    "idNumerico": "17",
     "nome": "Elite Farms",
     "status": "INDISPONIVEL",
     "disponivelEm": "09:22|28/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "B13 :)": {
     "idNumerico": "23",
@@ -91,11 +91,11 @@
     "cofreConsertado": false
   },
   "FAZENDA DO MIRIM": {
-    "idNumerico": null,
+    "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:29|28/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FARM DO GALO": {
     "idNumerico": null,
@@ -163,9 +163,9 @@
   "FARME DO DRAKE": {
     "idNumerico": null,
     "nome": "Farme do Drake",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:36|28/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "DEAD (:": {
     "idNumerico": "27",
@@ -203,10 +203,10 @@
     "cofreConsertado": false
   },
   "QG FARM KHAOS": {
-    "idNumerico": "18",
+    "idNumerico": null,
     "nome": "QG FARM KHAOS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:52|28/06/2026",
     "cofreConsertado": false
   },
   "RAMONZIN_FRANCA": {
@@ -219,8 +219,8 @@
   "FARM DA THATY": {
     "idNumerico": null,
     "nome": "Farm da Thaty",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:12|28/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FARM DO SAPATO": {
@@ -247,9 +247,9 @@
   "AURA + EGO": {
     "idNumerico": null,
     "nome": "Aura + Ego",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:53|28/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",
@@ -275,8 +275,8 @@
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": null,
     "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:29|28/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FAZENDA MAO DE VACA": {
@@ -308,7 +308,7 @@
     "cofreConsertado": false
   },
   "KAROL E COM C OU K?": {
-    "idNumerico": null,
+    "idNumerico": "34",
     "nome": "Karol e com C ou K?",
     "status": "DISPONIVEL",
     "disponivelEm": null,

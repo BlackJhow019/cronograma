@@ -1,10 +1,10 @@
 {
   "POLEMICO$ INDUSTRI$": {
-    "idNumerico": null,
+    "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:06|28/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "RICO LOUCO": {
     "idNumerico": "11",
@@ -28,10 +28,10 @@
     "cofreConsertado": false
   },
   "KODIAK": {
-    "idNumerico": "3",
+    "idNumerico": null,
     "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:33|28/06/2026",
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
@@ -175,7 +175,7 @@
     "cofreConsertado": false
   },
   "MONOPOLIO FARMS": {
-    "idNumerico": null,
+    "idNumerico": "20",
     "nome": "Monopolio Farms",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:19|28/06/2026",

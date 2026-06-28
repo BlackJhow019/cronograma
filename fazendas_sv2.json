@@ -158,7 +158,7 @@
     "nome": "Ariana_B13",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:25|29/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FARME DO DRAKE": {
     "idNumerico": null,
@@ -182,11 +182,11 @@
     "cofreConsertado": false
   },
   "FAZENDA DO GALIN": {
-    "idNumerico": null,
+    "idNumerico": "15",
     "nome": "Fazenda do Galin",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:19|28/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "~E V O M~": {
     "idNumerico": null,
@@ -196,7 +196,7 @@
     "cofreConsertado": true
   },
   "FARM'S NAY E NICK": {
-    "idNumerico": null,
+    "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -217,10 +217,10 @@
     "cofreConsertado": false
   },
   "FARM DA THATY": {
-    "idNumerico": "1",
+    "idNumerico": null,
     "nome": "Farm da Thaty",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:50|29/06/2026",
     "cofreConsertado": false
   },
   "FARM DO SAPATO": {

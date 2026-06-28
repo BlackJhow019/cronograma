@@ -1,10 +1,10 @@
 {
   "POLEMICO$ INDUSTRI$": {
-    "idNumerico": "37",
+    "idNumerico": null,
     "nome": "PoLeMiCo$ industri$",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:06|28/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "RICO LOUCO": {
     "idNumerico": "11",
@@ -128,8 +128,8 @@
   "OS DE RACA": {
     "idNumerico": null,
     "nome": "OS DE RACA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:42|28/06/2026",
     "cofreConsertado": false
   },
   "< GAUBRE LTDA >": {
@@ -137,7 +137,7 @@
     "nome": "< GAUBRE LTDA >",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:43|28/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": null,
@@ -224,7 +224,7 @@
     "cofreConsertado": false
   },
   "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": null,
+    "idNumerico": "38",
     "nome": "Work Industria's Limited",
     "status": "DISPONIVEL",
     "disponivelEm": null,

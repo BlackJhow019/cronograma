@@ -177,8 +177,8 @@
   "MONOPOLIO FARMS": {
     "idNumerico": null,
     "nome": "Monopolio Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:19|28/06/2026",
     "cofreConsertado": false
   },
   "AZEROX": {
@@ -221,7 +221,7 @@
     "nome": "Peeeeerfeito!!!",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:14|28/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": null,

@@ -112,10 +112,10 @@
     "cofreConsertado": true
   },
   "BORRACHAS FARM": {
-    "idNumerico": "33",
+    "idNumerico": null,
     "nome": "Borrachas Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:10|28/06/2026",
     "cofreConsertado": false
   },
   "WESKER_U$METRALHA": {
@@ -182,7 +182,7 @@
     "cofreConsertado": false
   },
   "AZEROX": {
-    "idNumerico": null,
+    "idNumerico": "23",
     "nome": "AzeRoX",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -228,7 +228,7 @@
     "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:57|28/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "U$METRALHA FARM'S": {
     "idNumerico": "29",

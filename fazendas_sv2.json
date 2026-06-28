@@ -25,7 +25,7 @@
     "nome": "RocK Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:52|28/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",
@@ -172,7 +172,7 @@
     "nome": "Dead (:",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:48|28/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "DONA SEM RAZAO": {
     "idNumerico": "26",
@@ -189,10 +189,10 @@
     "cofreConsertado": false
   },
   "~E V O M~": {
-    "idNumerico": "25",
+    "idNumerico": null,
     "nome": "~E V O M~",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:20|28/06/2026",
     "cofreConsertado": false
   },
   "FARM'S NAY E NICK": {

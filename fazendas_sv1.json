@@ -105,10 +105,10 @@
     "cofreConsertado": false
   },
   "FAMILIA KUSH": {
-    "idNumerico": "34",
+    "idNumerico": null,
     "nome": "Familia KuSh",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:02|29/06/2026",
     "cofreConsertado": false
   },
   "BORRACHAS FARM": {
@@ -182,7 +182,7 @@
     "cofreConsertado": false
   },
   "AZEROX": {
-    "idNumerico": null,
+    "idNumerico": "23",
     "nome": "AzeRoX",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:24|29/06/2026",

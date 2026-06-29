@@ -56,10 +56,10 @@
     "cofreConsertado": false
   },
   "RANCHO DO DOUTOR": {
-    "idNumerico": "14",
+    "idNumerico": null,
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:12|29/06/2026",
     "cofreConsertado": false
   },
   "PT FARM'S": {
@@ -81,7 +81,7 @@
     "nome": "THUG LIFE",
     "status": "INDISPONIVEL",
     "disponivelEm": "09:56|29/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",

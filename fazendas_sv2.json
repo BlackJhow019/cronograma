@@ -32,7 +32,7 @@
     "nome": "Fazendinha BeTreZe 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:24|29/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "EVENTO": {
     "idNumerico": "42",
@@ -84,11 +84,11 @@
     "cofreConsertado": true
   },
   "B13 :)": {
-    "idNumerico": "23",
+    "idNumerico": null,
     "nome": "B13 :)",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true
+    "cofreConsertado": false
   },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
@@ -105,10 +105,10 @@
     "cofreConsertado": false
   },
   "MALVADA'S FARM": {
-    "idNumerico": "32",
+    "idNumerico": null,
     "nome": "Malvada's Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:37|29/06/2026",
     "cofreConsertado": false
   },
   "YELLOWSTONE - BY MONSTER": {

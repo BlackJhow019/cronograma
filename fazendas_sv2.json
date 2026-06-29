@@ -25,7 +25,7 @@
     "nome": "RocK Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:09|29/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAZENDINHA BETREZE 2": {
     "idNumerico": null,
@@ -91,10 +91,10 @@
     "cofreConsertado": false
   },
   "FAZENDA DO MIRIM": {
-    "idNumerico": "36",
+    "idNumerico": null,
     "nome": "Fazenda Do MIRIM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:14|29/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FARM DO GALO": {
@@ -168,7 +168,7 @@
     "cofreConsertado": false
   },
   "DEAD (:": {
-    "idNumerico": null,
+    "idNumerico": "27",
     "nome": "Dead (:",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -254,8 +254,8 @@
   "SUCCUBUS FARMS": {
     "idNumerico": null,
     "nome": "Succubus Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:22|29/06/2026",
     "cofreConsertado": false
   },
   "RICK FARM'S": {

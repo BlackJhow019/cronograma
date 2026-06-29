@@ -214,7 +214,7 @@
     "nome": "PRESO NAO FOGE",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:26|29/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "PEEEEERFEITO!!!": {
     "idNumerico": "10",
@@ -294,10 +294,10 @@
     "cofreConsertado": false
   },
   "FAMILIA ALMANAK": {
-    "idNumerico": "32",
+    "idNumerico": null,
     "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:31|29/06/2026",
     "cofreConsertado": false
   },
   "QUEM ROUBAR E PETISTA": {

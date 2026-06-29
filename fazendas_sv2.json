@@ -56,7 +56,7 @@
     "cofreConsertado": false
   },
   "FARMA DA FAMILIA ELITE": {
-    "idNumerico": null,
+    "idNumerico": "33",
     "nome": "Farma Da Familia Elite",
     "status": "INDISPONIVEL",
     "disponivelEm": "09:50|29/06/2026",
@@ -84,7 +84,7 @@
     "cofreConsertado": false
   },
   "B13 :)": {
-    "idNumerico": null,
+    "idNumerico": "23",
     "nome": "B13 :)",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -170,8 +170,8 @@
   "DEAD (:": {
     "idNumerico": null,
     "nome": "Dead (:",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:06|29/06/2026",
     "cofreConsertado": false
   },
   "DONA SEM RAZAO": {
@@ -212,9 +212,9 @@
   "RAMONZIN_FRANCA": {
     "idNumerico": null,
     "nome": "RAMONZIN_FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:51|29/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FARM DA THATY": {
     "idNumerico": null,

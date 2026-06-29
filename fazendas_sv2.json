@@ -23,8 +23,8 @@
   "ROCK FARM": {
     "idNumerico": null,
     "nome": "RocK Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:09|29/06/2026",
     "cofreConsertado": false
   },
   "FAZENDINHA BETREZE 2": {
@@ -91,7 +91,7 @@
     "cofreConsertado": false
   },
   "FAZENDA DO MIRIM": {
-    "idNumerico": null,
+    "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
     "status": "INDISPONIVEL",
     "disponivelEm": "11:14|29/06/2026",
@@ -147,7 +147,7 @@
     "cofreConsertado": false
   },
   "SE ROUBAR MORRE": {
-    "idNumerico": null,
+    "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -170,8 +170,8 @@
   "DEAD (:": {
     "idNumerico": null,
     "nome": "Dead (:",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:06|29/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "DONA SEM RAZAO": {

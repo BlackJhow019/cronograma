@@ -58,15 +58,15 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": null,
     "nome": "Rancho do Doutor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:15|29/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "PT FARM'S": {
-    "idNumerico": null,
+    "idNumerico": "13",
     "nome": "PT farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:57|29/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "RAFHA INVESTIMENTOS $": {
@@ -105,11 +105,11 @@
     "cofreConsertado": false
   },
   "FAMILIA KUSH": {
-    "idNumerico": null,
+    "idNumerico": "34",
     "nome": "Familia KuSh",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:02|29/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "BORRACHAS FARM": {
     "idNumerico": null,
@@ -140,10 +140,10 @@
     "cofreConsertado": false
   },
   "VENDO 500KM ACEITO TROCAS": {
-    "idNumerico": "24",
+    "idNumerico": null,
     "nome": "VENDO 500km ACEITO TROCAS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:44|30/06/2026",
     "cofreConsertado": false
   },
   "CLUBE DA LULUZINHA": {
@@ -170,9 +170,9 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": null,
     "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:03|29/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "MONOPOLIO FARMS": {
     "idNumerico": "20",
@@ -182,10 +182,10 @@
     "cofreConsertado": false
   },
   "AZEROX": {
-    "idNumerico": "23",
+    "idNumerico": null,
     "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:24|29/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "ALCATRAZ INVESTIMENTOS LTDA": {
@@ -210,7 +210,7 @@
     "cofreConsertado": false
   },
   "PRESO NAO FOGE": {
-    "idNumerico": null,
+    "idNumerico": "15",
     "nome": "PRESO NAO FOGE",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -238,7 +238,7 @@
     "cofreConsertado": false
   },
   "FARM'S DE CAFE": {
-    "idNumerico": null,
+    "idNumerico": "4",
     "nome": "Farm's de Cafe",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -284,7 +284,7 @@
     "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:47|29/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "XAUBLAU INVESTIMENTO LTDA": {
     "idNumerico": null,
@@ -308,7 +308,7 @@
     "cofreConsertado": false
   },
   "BERNARDO FARM'S": {
-    "idNumerico": null,
+    "idNumerico": "16",
     "nome": "Bernardo Farm's",
     "status": "DISPONIVEL",
     "disponivelEm": null,

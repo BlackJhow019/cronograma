@@ -63,10 +63,10 @@
     "cofreConsertado": false
   },
   "PT FARM'S": {
-    "idNumerico": "13",
+    "idNumerico": null,
     "nome": "PT farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:57|29/06/2026",
     "cofreConsertado": false
   },
   "RAFHA INVESTIMENTOS $": {
@@ -298,7 +298,7 @@
     "nome": "Familia AlmanaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:31|29/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",

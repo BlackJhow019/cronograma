@@ -79,8 +79,8 @@
   "THUG LIFE": {
     "idNumerico": null,
     "nome": "THUG LIFE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:56|29/06/2026",
     "cofreConsertado": false
   },
   "SAO PEDRO 2": {
@@ -165,7 +165,7 @@
     "nome": "Fazenda da Milly",
     "status": "INDISPONIVEL",
     "disponivelEm": "09:24|29/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",

@@ -1,8 +1,8 @@
 {
   "999": {
-    "idNumerico": "39",
+    "idNumerico": null,
     "nome": "999",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
@@ -98,9 +98,9 @@
     "cofreConsertado": false
   },
   "FARM DO GALO": {
-    "idNumerico": "40",
+    "idNumerico": null,
     "nome": "FARM DO GALO",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
@@ -119,11 +119,11 @@
     "cofreConsertado": false
   },
   "VALE DAS SOMBRAS": {
-    "idNumerico": "24",
+    "idNumerico": null,
     "nome": "Vale das Sombras",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true
+    "cofreConsertado": false
   },
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
@@ -133,9 +133,9 @@
     "cofreConsertado": false
   },
   "CANNABIS": {
-    "idNumerico": "8",
+    "idNumerico": null,
     "nome": "CANNABIS",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
@@ -210,10 +210,10 @@
     "cofreConsertado": false
   },
   "RAMONZIN_FRANCA": {
-    "idNumerico": "21",
+    "idNumerico": null,
     "nome": "RAMONZIN_FRANCA",
     "status": "INDISPONIVEL",
-    "disponivelEm": null,
+    "disponivelEm": "04:52|29/06/2026",
     "cofreConsertado": false
   },
   "FARM DA THATY": {
@@ -238,9 +238,9 @@
     "cofreConsertado": false
   },
   "CHAMA A POLICIA": {
-    "idNumerico": "44",
+    "idNumerico": null,
     "nome": "CHAMA A POLICIA",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
@@ -252,11 +252,11 @@
     "cofreConsertado": true
   },
   "SUCCUBUS FARMS": {
-    "idNumerico": "29",
+    "idNumerico": null,
     "nome": "Succubus Farms",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true
+    "cofreConsertado": false
   },
   "RICK FARM'S": {
     "idNumerico": null,
@@ -294,16 +294,16 @@
     "cofreConsertado": false
   },
   "FAZENDA REI DROGADO": {
-    "idNumerico": "31",
+    "idNumerico": null,
     "nome": "Fazenda Rei Drogado",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true
+    "cofreConsertado": false
   },
   "AMO A MAZZI": {
-    "idNumerico": "6",
+    "idNumerico": null,
     "nome": "Amo a Mazzi",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },

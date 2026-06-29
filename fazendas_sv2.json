@@ -1,6 +1,6 @@
 {
   "999": {
-    "idNumerico": null,
+    "idNumerico": "39",
     "nome": "999",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:56|29/06/2026",
@@ -164,7 +164,7 @@
     "idNumerico": null,
     "nome": "Farme do Drake",
     "status": "INDISPONIVEL",
-    "disponivelEm": "15:36|29/06/2026",
+    "disponivelEm": "21:55|29/06/2026",
     "cofreConsertado": false
   },
   "DEAD (:": {
@@ -182,7 +182,7 @@
     "cofreConsertado": false
   },
   "FAZENDA DO GALIN": {
-    "idNumerico": null,
+    "idNumerico": "15",
     "nome": "Fazenda do Galin",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -289,8 +289,8 @@
   "/VENDERPRODUTOS": {
     "idNumerico": null,
     "nome": "/VENDERPRODUTOS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:32|29/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FAZENDA REI DROGADO": {

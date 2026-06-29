@@ -231,10 +231,10 @@
     "cofreConsertado": true
   },
   "FRANCA": {
-    "idNumerico": "28",
+    "idNumerico": null,
     "nome": "FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:53|29/06/2026",
     "cofreConsertado": false
   },
   "CHAMA A POLICIA": {

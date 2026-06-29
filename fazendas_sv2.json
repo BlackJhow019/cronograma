@@ -105,7 +105,7 @@
     "cofreConsertado": false
   },
   "MALVADA'S FARM": {
-    "idNumerico": null,
+    "idNumerico": "32",
     "nome": "Malvada's Farm",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -217,10 +217,10 @@
     "cofreConsertado": false
   },
   "FARM DA THATY": {
-    "idNumerico": "1",
+    "idNumerico": null,
     "nome": "Farm da Thaty",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:38|29/06/2026",
     "cofreConsertado": false
   },
   "FARM DO SAPATO": {
@@ -266,11 +266,11 @@
     "cofreConsertado": false
   },
   "GRUPO RANTER": {
-    "idNumerico": null,
+    "idNumerico": "19",
     "nome": "GRUPO RANTER",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:29|29/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",

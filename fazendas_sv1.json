@@ -79,8 +79,8 @@
   "THUG LIFE": {
     "idNumerico": "21",
     "nome": "THUG LIFE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:17|29/06/2026",
     "cofreConsertado": false
   },
   "SAO PEDRO 2": {
@@ -147,10 +147,10 @@
     "cofreConsertado": false
   },
   "CLUBE DA LULUZINHA": {
-    "idNumerico": null,
+    "idNumerico": "8",
     "nome": "Clube da Luluzinha",
     "status": "INDISPONIVEL",
-    "disponivelEm": "21:29|29/06/2026",
+    "disponivelEm": "21:30|29/06/2026",
     "cofreConsertado": false
   },
   "BEE": {
@@ -196,10 +196,10 @@
     "cofreConsertado": false
   },
   "FAZENDA PUTEIRO DO DEATH 4": {
-    "idNumerico": null,
+    "idNumerico": "31",
     "nome": "Fazenda puteiro do Death 4",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:12|29/06/2026",
     "cofreConsertado": false
   },
   "4I20 HASH FARM'S": {
@@ -213,7 +213,7 @@
     "idNumerico": null,
     "nome": "PRESO NAO FOGE",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:26|29/06/2026",
+    "disponivelEm": null,
     "cofreConsertado": true
   },
   "PEEEEERFEITO!!!": {

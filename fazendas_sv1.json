@@ -25,7 +25,7 @@
     "nome": "Prefeito Roadblock",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:06|29/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "KODIAK": {
     "idNumerico": "3",
@@ -35,14 +35,14 @@
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
-    "idNumerico": "9",
+    "idNumerico": "22",
     "nome": "GRUPO NEXUS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:06|29/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "NIKE SHOX": {
-    "idNumerico": null,
+    "idNumerico": "42",
     "nome": "NIKE SHOX",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -58,8 +58,8 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": null,
     "nome": "Rancho do Doutor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:12|29/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "PT FARM'S": {
@@ -79,9 +79,9 @@
   "THUG LIFE": {
     "idNumerico": "21",
     "nome": "THUG LIFE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:56|29/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -161,11 +161,11 @@
     "cofreConsertado": false
   },
   "FAZENDA DA MILLY": {
-    "idNumerico": null,
+    "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:24|29/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
@@ -210,10 +210,10 @@
     "cofreConsertado": false
   },
   "PRESO NAO FOGE": {
-    "idNumerico": "15",
+    "idNumerico": null,
     "nome": "PRESO NAO FOGE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:26|29/06/2026",
     "cofreConsertado": false
   },
   "PEEEEERFEITO!!!": {

@@ -60,7 +60,7 @@
     "nome": "Rancho do Doutor",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:15|29/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "PT FARM'S": {
     "idNumerico": null,
@@ -182,10 +182,10 @@
     "cofreConsertado": false
   },
   "AZEROX": {
-    "idNumerico": "23",
+    "idNumerico": null,
     "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:24|29/06/2026",
     "cofreConsertado": false
   },
   "ALCATRAZ INVESTIMENTOS LTDA": {

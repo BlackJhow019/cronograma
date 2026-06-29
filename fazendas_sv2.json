@@ -105,17 +105,17 @@
     "cofreConsertado": false
   },
   "MALVADA'S FARM": {
-    "idNumerico": "32",
+    "idNumerico": null,
     "nome": "Malvada's Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:49|30/06/2026",
     "cofreConsertado": false
   },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": null,
     "nome": "YellowStone - By Monster",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:23|29/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "VALE DAS SOMBRAS": {
@@ -130,7 +130,7 @@
     "nome": "Farms de Galopisitas",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:28|30/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "CANNABIS": {
     "idNumerico": "8",
@@ -189,7 +189,7 @@
     "cofreConsertado": false
   },
   "~E V O M~": {
-    "idNumerico": null,
+    "idNumerico": "25",
     "nome": "~E V O M~",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -219,23 +219,23 @@
   "FARM DA THATY": {
     "idNumerico": null,
     "nome": "Farm da Thaty",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:38|29/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FARM DO SAPATO": {
     "idNumerico": null,
     "nome": "FARM DO SAPATO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:02|29/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FRANCA": {
-    "idNumerico": null,
+    "idNumerico": "28",
     "nome": "FRANCA",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:53|29/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "CHAMA A POLICIA": {
     "idNumerico": "44",
@@ -268,9 +268,9 @@
   "GRUPO RANTER": {
     "idNumerico": "19",
     "nome": "GRUPO RANTER",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:29|29/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",

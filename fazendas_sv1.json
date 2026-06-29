@@ -212,9 +212,9 @@
   "PRESO NAO FOGE": {
     "idNumerico": null,
     "nome": "PRESO NAO FOGE",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true
+    "cofreConsertado": false
   },
   "PEEEEERFEITO!!!": {
     "idNumerico": "10",
@@ -280,7 +280,7 @@
     "cofreConsertado": false
   },
   "DM2 FARM": {
-    "idNumerico": null,
+    "idNumerico": "6",
     "nome": "Dm2 Farm",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -297,8 +297,8 @@
     "idNumerico": null,
     "nome": "Familia AlmanaK",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:31|29/06/2026",
-    "cofreConsertado": true
+    "disponivelEm": "22:44|29/06/2026",
+    "cofreConsertado": false
   },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",

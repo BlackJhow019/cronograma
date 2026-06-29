@@ -196,10 +196,10 @@
     "cofreConsertado": false
   },
   "FAZENDA PUTEIRO DO DEATH 4": {
-    "idNumerico": "31",
+    "idNumerico": null,
     "nome": "Fazenda puteiro do Death 4",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:39|29/06/2026",
     "cofreConsertado": false
   },
   "4I20 HASH FARM'S": {
@@ -235,7 +235,7 @@
     "nome": "u$MeTraLha farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:31|29/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FARM'S DE CAFE": {
     "idNumerico": null,

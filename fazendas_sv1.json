@@ -35,7 +35,7 @@
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
-    "idNumerico": null,
+    "idNumerico": "9",
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
     "disponivelEm": "09:06|29/06/2026",
@@ -102,7 +102,7 @@
     "nome": "fazendinha do igeze",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:39|29/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAMILIA KUSH": {
     "idNumerico": null,
@@ -231,10 +231,10 @@
     "cofreConsertado": false
   },
   "U$METRALHA FARM'S": {
-    "idNumerico": "29",
+    "idNumerico": null,
     "nome": "u$MeTraLha farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:31|29/06/2026",
     "cofreConsertado": false
   },
   "FARM'S DE CAFE": {
@@ -312,6 +312,6 @@
     "nome": "Bernardo Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:11|29/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   }
 }

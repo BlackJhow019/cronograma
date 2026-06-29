@@ -23,9 +23,9 @@
   "PREFEITO ROADBLOCK": {
     "idNumerico": null,
     "nome": "Prefeito Roadblock",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:06|29/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "KODIAK": {
     "idNumerico": "3",
@@ -112,10 +112,10 @@
     "cofreConsertado": false
   },
   "BORRACHAS FARM": {
-    "idNumerico": "33",
+    "idNumerico": null,
     "nome": "Borrachas Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:16|29/06/2026",
     "cofreConsertado": false
   },
   "WESKER_U$METRALHA": {
@@ -198,8 +198,8 @@
   "FAZENDA PUTEIRO DO DEATH 4": {
     "idNumerico": null,
     "nome": "Fazenda puteiro do Death 4",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:39|29/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "4I20 HASH FARM'S": {
@@ -233,9 +233,9 @@
   "U$METRALHA FARM'S": {
     "idNumerico": null,
     "nome": "u$MeTraLha farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:31|29/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FARM'S DE CAFE": {
     "idNumerico": null,
@@ -310,8 +310,8 @@
   "BERNARDO FARM'S": {
     "idNumerico": null,
     "nome": "Bernardo Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:11|29/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   }
 }

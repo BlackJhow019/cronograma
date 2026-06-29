@@ -140,7 +140,7 @@
     "cofreConsertado": false
   },
   "VENDO 500KM ACEITO TROCAS": {
-    "idNumerico": null,
+    "idNumerico": "24",
     "nome": "VENDO 500km ACEITO TROCAS",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -280,10 +280,10 @@
     "cofreConsertado": false
   },
   "DM2 FARM": {
-    "idNumerico": "6",
+    "idNumerico": null,
     "nome": "Dm2 Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:31|29/06/2026",
     "cofreConsertado": false
   },
   "XAUBLAU INVESTIMENTO LTDA": {

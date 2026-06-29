@@ -1,17 +1,17 @@
 {
   "999": {
-    "idNumerico": "39",
+    "idNumerico": null,
     "nome": "999",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:56|29/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:18|29/06/2026",
+    "cofreConsertado": true
   },
   "AWAKE COMPANY": {
     "idNumerico": "13",
@@ -37,8 +37,8 @@
   "EVENTO": {
     "idNumerico": "42",
     "nome": "EVENTO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:30|29/06/2026",
     "cofreConsertado": false
   },
   "FAZENDA DO TEMOR": {
@@ -156,16 +156,16 @@
   "ARIANA_B13": {
     "idNumerico": "10",
     "nome": "Ariana_B13",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:15|29/06/2026",
     "cofreConsertado": false
   },
   "FARME DO DRAKE": {
-    "idNumerico": null,
+    "idNumerico": "35",
     "nome": "Farme do Drake",
     "status": "INDISPONIVEL",
-    "disponivelEm": "21:55|29/06/2026",
-    "cofreConsertado": false
+    "disponivelEm": "21:57|29/06/2026",
+    "cofreConsertado": true
   },
   "DEAD (:": {
     "idNumerico": "27",
@@ -247,8 +247,8 @@
   "AURA + EGO": {
     "idNumerico": null,
     "nome": "Aura + Ego",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:57|29/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "SUCCUBUS FARMS": {

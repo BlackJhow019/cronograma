@@ -1,9 +1,9 @@
 {
   "999": {
-    "idNumerico": "39",
+    "idNumerico": null,
     "nome": "999",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:56|29/06/2026",
     "cofreConsertado": false
   },
   "JESUS EA SOLUCAO": {
@@ -56,10 +56,10 @@
     "cofreConsertado": false
   },
   "FARMA DA FAMILIA ELITE": {
-    "idNumerico": "33",
+    "idNumerico": null,
     "nome": "Farma Da Familia Elite",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:50|29/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {

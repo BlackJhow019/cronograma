@@ -7,11 +7,11 @@
     "cofreConsertado": false
   },
   "JESUS EA SOLUCAO": {
-    "idNumerico": null,
+    "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:42|29/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "AWAKE COMPANY": {
     "idNumerico": "13",
@@ -30,9 +30,9 @@
   "FAZENDINHA BETREZE 2": {
     "idNumerico": null,
     "nome": "Fazendinha BeTreZe 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:24|29/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "EVENTO": {
     "idNumerico": "42",
@@ -105,11 +105,11 @@
     "cofreConsertado": false
   },
   "MALVADA'S FARM": {
-    "idNumerico": "32",
+    "idNumerico": null,
     "nome": "Malvada's Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:37|29/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
@@ -154,7 +154,7 @@
     "cofreConsertado": false
   },
   "ARIANA_B13": {
-    "idNumerico": null,
+    "idNumerico": "10",
     "nome": "Ariana_B13",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -210,21 +210,21 @@
     "cofreConsertado": false
   },
   "RAMONZIN_FRANCA": {
-    "idNumerico": null,
+    "idNumerico": "21",
     "nome": "RAMONZIN_FRANCA",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
   "FARM DA THATY": {
-    "idNumerico": null,
+    "idNumerico": "1",
     "nome": "Farm da Thaty",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
   "FARM DO SAPATO": {
-    "idNumerico": null,
+    "idNumerico": "9",
     "nome": "FARM DO SAPATO",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -266,7 +266,7 @@
     "cofreConsertado": false
   },
   "GRUPO RANTER": {
-    "idNumerico": null,
+    "idNumerico": "19",
     "nome": "GRUPO RANTER",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -287,10 +287,10 @@
     "cofreConsertado": false
   },
   "/VENDERPRODUTOS": {
-    "idNumerico": "7",
+    "idNumerico": null,
     "nome": "/VENDERPRODUTOS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:32|29/06/2026",
     "cofreConsertado": false
   },
   "FAZENDA REI DROGADO": {

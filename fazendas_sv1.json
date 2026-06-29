@@ -49,7 +49,7 @@
     "cofreConsertado": false
   },
   "FAZENDINHA DO FIRE": {
-    "idNumerico": null,
+    "idNumerico": "12",
     "nome": "Fazendinha Do Fire",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -58,8 +58,8 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": null,
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:15|29/06/2026",
     "cofreConsertado": false
   },
   "PT FARM'S": {
@@ -98,7 +98,7 @@
     "cofreConsertado": false
   },
   "FAZENDINHA DO IGEZE": {
-    "idNumerico": null,
+    "idNumerico": "36",
     "nome": "fazendinha do igeze",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -126,7 +126,7 @@
     "cofreConsertado": false
   },
   "OS DE RACA": {
-    "idNumerico": null,
+    "idNumerico": "0",
     "nome": "OS DE RACA",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -172,7 +172,7 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:03|29/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "MONOPOLIO FARMS": {
     "idNumerico": "20",
@@ -282,9 +282,9 @@
   "DM2 FARM": {
     "idNumerico": null,
     "nome": "Dm2 Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:31|29/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "XAUBLAU INVESTIMENTO LTDA": {
     "idNumerico": null,

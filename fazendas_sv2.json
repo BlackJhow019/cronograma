@@ -91,11 +91,11 @@
     "cofreConsertado": false
   },
   "FAZENDA DO MIRIM": {
-    "idNumerico": "36",
+    "idNumerico": null,
     "nome": "Fazenda Do MIRIM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:07|30/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FARM DO GALO": {
     "idNumerico": "40",
@@ -114,8 +114,8 @@
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": null,
     "nome": "YellowStone - By Monster",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:06|30/06/2026",
     "cofreConsertado": false
   },
   "VALE DAS SOMBRAS": {

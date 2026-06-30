@@ -217,10 +217,10 @@
     "cofreConsertado": true
   },
   "PEEEEERFEITO!!!": {
-    "idNumerico": "10",
+    "idNumerico": null,
     "nome": "Peeeeerfeito!!!",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:05|30/06/2026",
     "cofreConsertado": false
   },
   "WORK INDUSTRIA'S LIMITED": {
@@ -245,11 +245,11 @@
     "cofreConsertado": false
   },
   "K1NG FARM'S": {
-    "idNumerico": "25",
+    "idNumerico": null,
     "nome": "K1NG Farm's",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true
+    "cofreConsertado": false
   },
   "U$METRALHA": {
     "idNumerico": null,

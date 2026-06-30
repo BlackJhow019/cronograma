@@ -7,10 +7,10 @@
     "cofreConsertado": false
   },
   "JESUS EA SOLUCAO": {
-    "idNumerico": "0",
+    "idNumerico": null,
     "nome": "JESUS EA SOLUCAO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:43|30/06/2026",
     "cofreConsertado": false
   },
   "AWAKE COMPANY": {
@@ -88,7 +88,7 @@
     "nome": "B13 :)",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:38|30/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAZENDA DO MIRIM": {
     "idNumerico": null,
@@ -252,7 +252,7 @@
     "cofreConsertado": false
   },
   "SUCCUBUS FARMS": {
-    "idNumerico": null,
+    "idNumerico": "29",
     "nome": "Succubus Farms",
     "status": "DISPONIVEL",
     "disponivelEm": null,

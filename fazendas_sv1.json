@@ -77,11 +77,11 @@
     "cofreConsertado": false
   },
   "THUG LIFE": {
-    "idNumerico": "21",
+    "idNumerico": null,
     "nome": "THUG LIFE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:50|30/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -105,10 +105,10 @@
     "cofreConsertado": true
   },
   "FAMILIA KUSH": {
-    "idNumerico": "34",
+    "idNumerico": null,
     "nome": "Familia KuSh",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:48|30/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "BORRACHAS FARM": {
@@ -163,8 +163,8 @@
   "FAZENDA DA MILLY": {
     "idNumerico": null,
     "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:51|30/06/2026",
     "cofreConsertado": false
   },
   "HWD INVESTIMENTOS": {
@@ -248,7 +248,7 @@
     "idNumerico": "25",
     "nome": "K1NG Farm's",
     "status": "INDISPONIVEL",
-    "disponivelEm": "15:51|30/06/2026",
+    "disponivelEm": null,
     "cofreConsertado": true
   },
   "U$METRALHA": {
@@ -312,6 +312,6 @@
     "nome": "Bernardo Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:28|30/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   }
 }

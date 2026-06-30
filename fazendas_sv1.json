@@ -35,7 +35,7 @@
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
-    "idNumerico": null,
+    "idNumerico": "40",
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:49|30/06/2026",
@@ -84,10 +84,10 @@
     "cofreConsertado": false
   },
   "SAO PEDRO 2": {
-    "idNumerico": "43",
+    "idNumerico": null,
     "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:34|30/06/2026",
     "cofreConsertado": false
   },
   "LEK0ZIKA": {
@@ -158,7 +158,7 @@
     "nome": "BEE",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:55|30/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",

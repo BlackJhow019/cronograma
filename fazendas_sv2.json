@@ -25,7 +25,7 @@
     "nome": "RocK Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:24|01/07/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",
@@ -126,11 +126,11 @@
     "cofreConsertado": false
   },
   "FARMS DE GALOPISITAS": {
-    "idNumerico": "20",
+    "idNumerico": null,
     "nome": "Farms de Galopisitas",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:41|30/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "CANNABIS": {
     "idNumerico": "8",
@@ -210,10 +210,10 @@
     "cofreConsertado": false
   },
   "RAMONZIN_FRANCA": {
-    "idNumerico": "21",
+    "idNumerico": null,
     "nome": "RAMONZIN_FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:54|01/07/2026",
     "cofreConsertado": false
   },
   "FARM DA THATY": {

@@ -81,10 +81,10 @@
     "nome": "THUG LIFE",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:50|30/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "SAO PEDRO 2": {
-    "idNumerico": null,
+    "idNumerico": "43",
     "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:24|30/06/2026",
@@ -305,13 +305,13 @@
     "nome": "Quem Roubar e Petista",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:41|30/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "BERNARDO FARM'S": {
-    "idNumerico": "16",
+    "idNumerico": null,
     "nome": "Bernardo Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:28|30/06/2026",
     "cofreConsertado": false
   }
 }

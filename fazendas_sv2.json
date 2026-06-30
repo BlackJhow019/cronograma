@@ -35,7 +35,7 @@
     "cofreConsertado": false
   },
   "EVENTO": {
-    "idNumerico": null,
+    "idNumerico": "12",
     "nome": "EVENTO",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -77,11 +77,11 @@
     "cofreConsertado": false
   },
   "ELITE FARMS": {
-    "idNumerico": null,
+    "idNumerico": "17",
     "nome": "Elite Farms",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:26|30/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "B13 :)": {
     "idNumerico": null,
@@ -121,8 +121,8 @@
   "VALE DAS SOMBRAS": {
     "idNumerico": null,
     "nome": "Vale das Sombras",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:31|30/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FARMS DE GALOPISITAS": {
@@ -203,10 +203,10 @@
     "cofreConsertado": false
   },
   "QG FARM KHAOS": {
-    "idNumerico": "18",
+    "idNumerico": null,
     "nome": "QG FARM KHAOS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:33|01/07/2026",
     "cofreConsertado": false
   },
   "RAMONZIN_FRANCA": {
@@ -214,7 +214,7 @@
     "nome": "RAMONZIN_FRANCA",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:54|01/07/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FARM DA THATY": {
     "idNumerico": "1",

@@ -21,10 +21,10 @@
     "cofreConsertado": false
   },
   "PREFEITO ROADBLOCK": {
-    "idNumerico": "41",
+    "idNumerico": null,
     "nome": "Prefeito Roadblock",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:20|30/06/2026",
     "cofreConsertado": false
   },
   "KODIAK": {
@@ -63,11 +63,11 @@
     "cofreConsertado": false
   },
   "PT FARM'S": {
-    "idNumerico": null,
+    "idNumerico": "13",
     "nome": "PT farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:50|30/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
@@ -112,7 +112,7 @@
     "cofreConsertado": true
   },
   "BORRACHAS FARM": {
-    "idNumerico": null,
+    "idNumerico": "33",
     "nome": "Borrachas Farm",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -128,9 +128,9 @@
   "OS DE RACA": {
     "idNumerico": null,
     "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:48|30/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "< GAUBRE LTDA >": {
     "idNumerico": null,
@@ -177,8 +177,8 @@
   "MONOPOLIO FARMS": {
     "idNumerico": null,
     "nome": "Monopolio Farms",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:13|30/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "AZEROX": {
@@ -196,7 +196,7 @@
     "cofreConsertado": false
   },
   "FAZENDA PUTEIRO DO DEATH 4": {
-    "idNumerico": null,
+    "idNumerico": "31",
     "nome": "Fazenda puteiro do Death 4",
     "status": "DISPONIVEL",
     "disponivelEm": null,

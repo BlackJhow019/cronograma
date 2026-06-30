@@ -161,7 +161,7 @@
     "cofreConsertado": false
   },
   "FAZENDA DA MILLY": {
-    "idNumerico": null,
+    "idNumerico": "19",
     "nome": "Fazenda da Milly",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:42|30/06/2026",
@@ -245,10 +245,10 @@
     "cofreConsertado": false
   },
   "K1NG FARM'S": {
-    "idNumerico": "25",
+    "idNumerico": null,
     "nome": "K1NG Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:46|30/06/2026",
     "cofreConsertado": false
   },
   "U$METRALHA": {
@@ -294,11 +294,11 @@
     "cofreConsertado": false
   },
   "FAMILIA ALMANAK": {
-    "idNumerico": "32",
+    "idNumerico": null,
     "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:44|29/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",

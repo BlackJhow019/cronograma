@@ -7,10 +7,10 @@
     "cofreConsertado": false
   },
   "RICO LOUCO": {
-    "idNumerico": "11",
+    "idNumerico": null,
     "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:58|30/06/2026",
     "cofreConsertado": false
   },
   "021": {
@@ -35,11 +35,11 @@
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
-    "idNumerico": "40",
+    "idNumerico": "30",
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
-    "disponivelEm": "08:49|30/06/2026",
-    "cofreConsertado": true
+    "disponivelEm": "16:31|30/06/2026",
+    "cofreConsertado": false
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -51,8 +51,8 @@
   "FAZENDINHA DO FIRE": {
     "idNumerico": "12",
     "nome": "Fazendinha Do Fire",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:38|30/06/2026",
     "cofreConsertado": false
   },
   "RANCHO DO DOUTOR": {
@@ -79,15 +79,15 @@
   "THUG LIFE": {
     "idNumerico": "21",
     "nome": "THUG LIFE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:50|30/06/2026",
     "cofreConsertado": false
   },
   "SAO PEDRO 2": {
     "idNumerico": null,
     "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
-    "disponivelEm": "09:34|30/06/2026",
+    "disponivelEm": "16:24|30/06/2026",
     "cofreConsertado": true
   },
   "LEK0ZIKA": {
@@ -105,11 +105,11 @@
     "cofreConsertado": false
   },
   "FAMILIA KUSH": {
-    "idNumerico": null,
+    "idNumerico": "34",
     "nome": "Familia KuSh",
     "status": "INDISPONIVEL",
-    "disponivelEm": "10:14|30/06/2026",
-    "cofreConsertado": true
+    "disponivelEm": "15:48|30/06/2026",
+    "cofreConsertado": false
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -133,11 +133,11 @@
     "cofreConsertado": false
   },
   "< GAUBRE LTDA >": {
-    "idNumerico": null,
+    "idNumerico": "2",
     "nome": "< GAUBRE LTDA >",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:28|30/06/2026",
+    "cofreConsertado": true
   },
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": null,
@@ -150,15 +150,15 @@
     "idNumerico": null,
     "nome": "Clube da Luluzinha",
     "status": "INDISPONIVEL",
-    "disponivelEm": "10:47|30/06/2026",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "BEE": {
-    "idNumerico": null,
+    "idNumerico": "7",
     "nome": "BEE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:55|30/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FAZENDA DA MILLY": {
     "idNumerico": null,
@@ -179,7 +179,7 @@
     "nome": "Monopolio Farms",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:29|30/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "AZEROX": {
     "idNumerico": "23",
@@ -233,9 +233,9 @@
   "U$METRALHA FARM'S": {
     "idNumerico": null,
     "nome": "u$MeTraLha farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:27|30/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
@@ -245,11 +245,11 @@
     "cofreConsertado": false
   },
   "K1NG FARM'S": {
-    "idNumerico": null,
+    "idNumerico": "25",
     "nome": "K1NG Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:51|30/06/2026",
+    "cofreConsertado": true
   },
   "U$METRALHA": {
     "idNumerico": null,
@@ -294,11 +294,11 @@
     "cofreConsertado": false
   },
   "FAMILIA ALMANAK": {
-    "idNumerico": null,
+    "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:39|30/06/2026",
+    "cofreConsertado": true
   },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",

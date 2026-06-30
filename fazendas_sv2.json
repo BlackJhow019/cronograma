@@ -115,8 +115,8 @@
     "idNumerico": "16",
     "nome": "YellowStone - By Monster",
     "status": "INDISPONIVEL",
-    "disponivelEm": "12:06|30/06/2026",
-    "cofreConsertado": false
+    "disponivelEm": null,
+    "cofreConsertado": true
   },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
@@ -140,7 +140,7 @@
     "cofreConsertado": false
   },
   "AMO O LOWER": {
-    "idNumerico": null,
+    "idNumerico": "2",
     "nome": "Amo o Lower",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -168,11 +168,11 @@
     "cofreConsertado": false
   },
   "DEAD (:": {
-    "idNumerico": null,
+    "idNumerico": "27",
     "nome": "Dead (:",
     "status": "INDISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "DONA SEM RAZAO": {
     "idNumerico": "26",
@@ -203,7 +203,7 @@
     "cofreConsertado": false
   },
   "QG FARM KHAOS": {
-    "idNumerico": null,
+    "idNumerico": "18",
     "nome": "QG FARM KHAOS",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -310,8 +310,8 @@
   "KAROL E COM C OU K?": {
     "idNumerico": null,
     "nome": "Karol e com C ou K?",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:45|30/06/2026",
     "cofreConsertado": false
   }
 }

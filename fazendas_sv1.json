@@ -88,7 +88,7 @@
     "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "09:34|30/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "LEK0ZIKA": {
     "idNumerico": "35",
@@ -107,8 +107,8 @@
   "FAMILIA KUSH": {
     "idNumerico": null,
     "nome": "Familia KuSh",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:14|30/06/2026",
     "cofreConsertado": false
   },
   "BORRACHAS FARM": {
@@ -233,8 +233,8 @@
   "U$METRALHA FARM'S": {
     "idNumerico": null,
     "nome": "u$MeTraLha farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:36|30/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FARM'S DE CAFE": {

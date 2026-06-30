@@ -39,7 +39,7 @@
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:49|30/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -154,10 +154,10 @@
     "cofreConsertado": false
   },
   "BEE": {
-    "idNumerico": "7",
+    "idNumerico": null,
     "nome": "BEE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:55|30/06/2026",
     "cofreConsertado": false
   },
   "FAZENDA DA MILLY": {

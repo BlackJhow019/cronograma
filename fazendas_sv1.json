@@ -77,7 +77,7 @@
     "cofreConsertado": false
   },
   "THUG LIFE": {
-    "idNumerico": null,
+    "idNumerico": "21",
     "nome": "THUG LIFE",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -147,10 +147,10 @@
     "cofreConsertado": false
   },
   "CLUBE DA LULUZINHA": {
-    "idNumerico": "8",
+    "idNumerico": null,
     "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:47|30/06/2026",
     "cofreConsertado": false
   },
   "BEE": {
@@ -161,10 +161,10 @@
     "cofreConsertado": true
   },
   "FAZENDA DA MILLY": {
-    "idNumerico": "19",
+    "idNumerico": null,
     "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:42|30/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "HWD INVESTIMENTOS": {
@@ -235,7 +235,7 @@
     "nome": "u$MeTraLha farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "10:27|30/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
@@ -247,8 +247,8 @@
   "K1NG FARM'S": {
     "idNumerico": null,
     "nome": "K1NG Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:46|30/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "U$METRALHA": {

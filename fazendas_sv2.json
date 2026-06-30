@@ -7,11 +7,11 @@
     "cofreConsertado": false
   },
   "JESUS EA SOLUCAO": {
-    "idNumerico": "0",
+    "idNumerico": null,
     "nome": "JESUS EA SOLUCAO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:17|30/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "AWAKE COMPANY": {
     "idNumerico": null,
@@ -21,10 +21,10 @@
     "cofreConsertado": false
   },
   "ROCK FARM": {
-    "idNumerico": "11",
+    "idNumerico": null,
     "nome": "RocK Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:24|01/07/2026",
     "cofreConsertado": false
   },
   "FAZENDINHA BETREZE 2": {
@@ -35,11 +35,11 @@
     "cofreConsertado": false
   },
   "EVENTO": {
-    "idNumerico": "12",
+    "idNumerico": null,
     "nome": "EVENTO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:37|30/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FAZENDA DO TEMOR": {
     "idNumerico": null,
@@ -56,10 +56,10 @@
     "cofreConsertado": false
   },
   "FARMA DA FAMILIA ELITE": {
-    "idNumerico": "33",
+    "idNumerico": null,
     "nome": "Farma Da Familia Elite",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:43|30/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {
@@ -84,10 +84,10 @@
     "cofreConsertado": true
   },
   "B13 :)": {
-    "idNumerico": "23",
+    "idNumerico": null,
     "nome": "B13 :)",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:00|30/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FAZENDA DO MIRIM": {
@@ -126,7 +126,7 @@
     "cofreConsertado": false
   },
   "FARMS DE GALOPISITAS": {
-    "idNumerico": null,
+    "idNumerico": "20",
     "nome": "Farms de Galopisitas",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:41|30/06/2026",
@@ -172,13 +172,13 @@
     "nome": "Dead (:",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:55|30/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "DONA SEM RAZAO": {
-    "idNumerico": "26",
+    "idNumerico": null,
     "nome": "Dona sem razao",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:47|30/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FAZENDA DO GALIN": {
@@ -224,11 +224,11 @@
     "cofreConsertado": false
   },
   "FARM DO SAPATO": {
-    "idNumerico": "9",
+    "idNumerico": null,
     "nome": "FARM DO SAPATO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:53|30/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FRANCA": {
     "idNumerico": "28",
@@ -296,8 +296,8 @@
   "FAZENDA REI DROGADO": {
     "idNumerico": null,
     "nome": "Fazenda Rei Drogado",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:22|30/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "AMO A MAZZI": {
@@ -308,10 +308,10 @@
     "cofreConsertado": false
   },
   "KAROL E COM C OU K?": {
-    "idNumerico": "34",
+    "idNumerico": null,
     "nome": "Karol e com C ou K?",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:46|30/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   }
 }

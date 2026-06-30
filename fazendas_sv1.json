@@ -67,7 +67,7 @@
     "nome": "PT farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:50|30/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
@@ -126,10 +126,10 @@
     "cofreConsertado": false
   },
   "OS DE RACA": {
-    "idNumerico": "0",
+    "idNumerico": null,
     "nome": "OS DE RACA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:48|30/06/2026",
     "cofreConsertado": false
   },
   "< GAUBRE LTDA >": {
@@ -140,11 +140,11 @@
     "cofreConsertado": false
   },
   "VENDO 500KM ACEITO TROCAS": {
-    "idNumerico": "24",
+    "idNumerico": null,
     "nome": "VENDO 500km ACEITO TROCAS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:44|30/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",

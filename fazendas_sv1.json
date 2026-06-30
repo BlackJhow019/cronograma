@@ -1,9 +1,9 @@
 {
   "POLEMICO$ INDUSTRI$": {
-    "idNumerico": "37",
+    "idNumerico": null,
     "nome": "PoLeMiCo$ industri$",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:24|30/06/2026",
     "cofreConsertado": false
   },
   "RICO LOUCO": {
@@ -11,7 +11,7 @@
     "nome": "rico louco",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:58|30/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "021": {
     "idNumerico": "1",

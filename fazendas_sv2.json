@@ -112,11 +112,11 @@
     "cofreConsertado": false
   },
   "YELLOWSTONE - BY MONSTER": {
-    "idNumerico": "16",
+    "idNumerico": null,
     "nome": "YellowStone - By Monster",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true
+    "cofreConsertado": false
   },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
@@ -126,10 +126,10 @@
     "cofreConsertado": false
   },
   "FARMS DE GALOPISITAS": {
-    "idNumerico": "20",
+    "idNumerico": null,
     "nome": "Farms de Galopisitas",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:41|30/06/2026",
     "cofreConsertado": false
   },
   "CANNABIS": {
@@ -168,11 +168,11 @@
     "cofreConsertado": false
   },
   "DEAD (:": {
-    "idNumerico": "27",
+    "idNumerico": null,
     "nome": "Dead (:",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true
+    "cofreConsertado": false
   },
   "DONA SEM RAZAO": {
     "idNumerico": "26",

@@ -39,14 +39,14 @@
     "nome": "EVENTO",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:37|30/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAZENDA DO TEMOR": {
-    "idNumerico": null,
+    "idNumerico": "30",
     "nome": "Fazenda do Temor",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:57|30/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
@@ -77,10 +77,10 @@
     "cofreConsertado": false
   },
   "ELITE FARMS": {
-    "idNumerico": "17",
+    "idNumerico": null,
     "nome": "Elite Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:26|30/06/2026",
     "cofreConsertado": false
   },
   "B13 :)": {
@@ -130,7 +130,7 @@
     "nome": "Farms de Galopisitas",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:41|30/06/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "CANNABIS": {
     "idNumerico": "8",
@@ -231,7 +231,7 @@
     "cofreConsertado": true
   },
   "FRANCA": {
-    "idNumerico": null,
+    "idNumerico": "28",
     "nome": "FRANCA",
     "status": "DISPONIVEL",
     "disponivelEm": null,

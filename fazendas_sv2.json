@@ -238,10 +238,10 @@
     "cofreConsertado": false
   },
   "CHAMA A POLICIA": {
-    "idNumerico": "44",
+    "idNumerico": null,
     "nome": "CHAMA A POLICIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:16|01/07/2026",
     "cofreConsertado": false
   },
   "AURA + EGO": {

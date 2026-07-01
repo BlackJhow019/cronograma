@@ -1,9 +1,9 @@
 {
   "POLEMICO$ INDUSTRI$": {
-    "idNumerico": "37",
+    "idNumerico": null,
     "nome": "PoLeMiCo$ industri$",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:42|01/07/2026",
     "cofreConsertado": false
   },
   "RICO LOUCO": {
@@ -18,7 +18,7 @@
     "nome": "021",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:30|01/07/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
@@ -35,7 +35,7 @@
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
-    "idNumerico": null,
+    "idNumerico": "22",
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:27|01/07/2026",

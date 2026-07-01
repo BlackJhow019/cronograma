@@ -35,10 +35,10 @@
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
-    "idNumerico": "40",
+    "idNumerico": null,
     "nome": "GRUPO NEXUS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:51|01/07/2026",
     "cofreConsertado": false
   },
   "NIKE SHOX": {
@@ -88,7 +88,7 @@
     "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:07|01/07/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "LEK0ZIKA": {
     "idNumerico": "35",
@@ -126,7 +126,7 @@
     "cofreConsertado": false
   },
   "OS DE RACA": {
-    "idNumerico": null,
+    "idNumerico": "0",
     "nome": "OS DE RACA",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -168,7 +168,7 @@
     "cofreConsertado": false
   },
   "HWD INVESTIMENTOS": {
-    "idNumerico": null,
+    "idNumerico": "27",
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:04|01/07/2026",

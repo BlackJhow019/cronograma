@@ -42,7 +42,7 @@
     "cofreConsertado": true
   },
   "FAZENDA DO TEMOR": {
-    "idNumerico": null,
+    "idNumerico": "30",
     "nome": "Fazenda do Temor",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:38|01/07/2026",
@@ -287,7 +287,7 @@
     "cofreConsertado": false
   },
   "/VENDERPRODUTOS": {
-    "idNumerico": null,
+    "idNumerico": "7",
     "nome": "/VENDERPRODUTOS",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -301,10 +301,10 @@
     "cofreConsertado": false
   },
   "AMO A MAZZI": {
-    "idNumerico": "6",
+    "idNumerico": null,
     "nome": "Amo a Mazzi",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:45|01/07/2026",
     "cofreConsertado": false
   },
   "KAROL E COM C OU K?": {

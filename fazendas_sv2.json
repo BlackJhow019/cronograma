@@ -65,8 +65,8 @@
   "WELCOME > MELHOR FAZENDA DO BPS": {
     "idNumerico": null,
     "nome": "WELCOME > MELHOR FAZENDA DO BPS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:00|01/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "TA NO GRALI": {
@@ -123,7 +123,7 @@
     "nome": "Vale das Sombras",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:09|01/07/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
@@ -182,10 +182,10 @@
     "cofreConsertado": false
   },
   "FAZENDA DO GALIN": {
-    "idNumerico": "15",
+    "idNumerico": null,
     "nome": "Fazenda do Galin",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:57|01/07/2026",
     "cofreConsertado": false
   },
   "~E V O M~": {
@@ -210,7 +210,7 @@
     "cofreConsertado": false
   },
   "RAMONZIN_FRANCA": {
-    "idNumerico": null,
+    "idNumerico": "21",
     "nome": "RAMONZIN_FRANCA",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -242,7 +242,7 @@
     "nome": "CHAMA A POLICIA",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:16|01/07/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "AURA + EGO": {
     "idNumerico": "22",

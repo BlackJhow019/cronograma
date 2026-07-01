@@ -14,10 +14,10 @@
     "cofreConsertado": false
   },
   "021": {
-    "idNumerico": "1",
+    "idNumerico": null,
     "nome": "021",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:30|01/07/2026",
     "cofreConsertado": false
   },
   "PREFEITO ROADBLOCK": {
@@ -39,7 +39,7 @@
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:27|01/07/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "NIKE SHOX": {
     "idNumerico": "42",

@@ -42,10 +42,10 @@
     "cofreConsertado": true
   },
   "NIKE SHOX": {
-    "idNumerico": "42",
+    "idNumerico": null,
     "nome": "NIKE SHOX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:32|01/07/2026",
     "cofreConsertado": false
   },
   "FAZENDINHA DO FIRE": {
@@ -172,7 +172,7 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:04|01/07/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "MONOPOLIO FARMS": {
     "idNumerico": "20",

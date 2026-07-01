@@ -266,10 +266,10 @@
     "cofreConsertado": false
   },
   "GRUPO RANTER": {
-    "idNumerico": "19",
+    "idNumerico": null,
     "nome": "GRUPO RANTER",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:25|01/07/2026",
     "cofreConsertado": false
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
@@ -277,7 +277,7 @@
     "nome": "$ Company $r.RC_PlinioDmG $",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:08|01/07/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAZENDA MAO DE VACA": {
     "idNumerico": "14",

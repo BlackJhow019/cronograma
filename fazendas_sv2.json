@@ -133,10 +133,10 @@
     "cofreConsertado": false
   },
   "CANNABIS": {
-    "idNumerico": "8",
+    "idNumerico": null,
     "nome": "CANNABIS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:07|01/07/2026",
     "cofreConsertado": false
   },
   "AMO O LOWER": {

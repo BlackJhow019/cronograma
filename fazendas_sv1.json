@@ -98,10 +98,10 @@
     "cofreConsertado": false
   },
   "FAZENDINHA DO IGEZE": {
-    "idNumerico": "36",
+    "idNumerico": null,
     "nome": "fazendinha do igeze",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:17|01/07/2026",
     "cofreConsertado": false
   },
   "FAMILIA KUSH": {
@@ -280,7 +280,7 @@
     "cofreConsertado": false
   },
   "DM2 FARM": {
-    "idNumerico": null,
+    "idNumerico": "6",
     "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "09:49|01/07/2026",

@@ -35,7 +35,7 @@
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
-    "idNumerico": null,
+    "idNumerico": "40",
     "nome": "GRUPO NEXUS",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -49,7 +49,7 @@
     "cofreConsertado": false
   },
   "FAZENDINHA DO FIRE": {
-    "idNumerico": null,
+    "idNumerico": "12",
     "nome": "Fazendinha Do Fire",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -58,12 +58,12 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:22|30/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "PT FARM'S": {
-    "idNumerico": null,
+    "idNumerico": "13",
     "nome": "PT farm's",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -77,7 +77,7 @@
     "cofreConsertado": false
   },
   "THUG LIFE": {
-    "idNumerico": null,
+    "idNumerico": "21",
     "nome": "THUG LIFE",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -98,7 +98,7 @@
     "cofreConsertado": false
   },
   "FAZENDINHA DO IGEZE": {
-    "idNumerico": null,
+    "idNumerico": "36",
     "nome": "fazendinha do igeze",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -114,8 +114,8 @@
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:22|30/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "WESKER_U$METRALHA": {
@@ -164,7 +164,7 @@
     "idNumerico": null,
     "nome": "Fazenda da Milly",
     "status": "INDISPONIVEL",
-    "disponivelEm": "21:51|30/06/2026",
+    "disponivelEm": "04:23|01/07/2026",
     "cofreConsertado": false
   },
   "HWD INVESTIMENTOS": {
@@ -196,7 +196,7 @@
     "cofreConsertado": false
   },
   "FAZENDA PUTEIRO DO DEATH 4": {
-    "idNumerico": null,
+    "idNumerico": "31",
     "nome": "Fazenda puteiro do Death 4",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -219,8 +219,8 @@
   "PEEEEERFEITO!!!": {
     "idNumerico": null,
     "nome": "Peeeeerfeito!!!",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:05|30/06/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "WORK INDUSTRIA'S LIMITED": {
@@ -298,20 +298,20 @@
     "nome": "Familia AlmanaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:43|01/07/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": null,
     "nome": "Quem Roubar e Petista",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:41|30/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "BERNARDO FARM'S": {
     "idNumerico": null,
     "nome": "Bernardo Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:28|30/06/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   }
 }

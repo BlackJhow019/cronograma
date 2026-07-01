@@ -7,7 +7,7 @@
     "cofreConsertado": false
   },
   "JESUS EA SOLUCAO": {
-    "idNumerico": null,
+    "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -21,7 +21,7 @@
     "cofreConsertado": false
   },
   "ROCK FARM": {
-    "idNumerico": null,
+    "idNumerico": "11",
     "nome": "RocK Farm",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -39,7 +39,7 @@
     "nome": "EVENTO",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:52|01/07/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
@@ -84,7 +84,7 @@
     "cofreConsertado": false
   },
   "B13 :)": {
-    "idNumerico": null,
+    "idNumerico": "23",
     "nome": "B13 :)",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -175,7 +175,7 @@
     "cofreConsertado": false
   },
   "DONA SEM RAZAO": {
-    "idNumerico": null,
+    "idNumerico": "26",
     "nome": "Dona sem razao",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -184,8 +184,8 @@
   "FAZENDA DO GALIN": {
     "idNumerico": null,
     "nome": "Fazenda do Galin",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:57|01/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "~E V O M~": {
@@ -231,10 +231,10 @@
     "cofreConsertado": false
   },
   "FRANCA": {
-    "idNumerico": "28",
+    "idNumerico": null,
     "nome": "FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:32|01/07/2026",
     "cofreConsertado": false
   },
   "CHAMA A POLICIA": {
@@ -268,16 +268,16 @@
   "GRUPO RANTER": {
     "idNumerico": null,
     "nome": "GRUPO RANTER",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:25|01/07/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": null,
     "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:08|01/07/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FAZENDA MAO DE VACA": {
     "idNumerico": "14",

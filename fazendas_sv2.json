@@ -84,10 +84,10 @@
     "cofreConsertado": false
   },
   "B13 :)": {
-    "idNumerico": "23",
+    "idNumerico": null,
     "nome": "B13 :)",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:39|01/07/2026",
     "cofreConsertado": false
   },
   "FAZENDA DO MIRIM": {
@@ -168,7 +168,7 @@
     "cofreConsertado": false
   },
   "DEAD (:": {
-    "idNumerico": null,
+    "idNumerico": "27",
     "nome": "Dead (:",
     "status": "DISPONIVEL",
     "disponivelEm": null,

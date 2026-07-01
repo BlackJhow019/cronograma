@@ -1,6 +1,6 @@
 {
   "999": {
-    "idNumerico": null,
+    "idNumerico": "39",
     "nome": "999",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -42,10 +42,10 @@
     "cofreConsertado": true
   },
   "FAZENDA DO TEMOR": {
-    "idNumerico": "30",
+    "idNumerico": null,
     "nome": "Fazenda do Temor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:38|01/07/2026",
     "cofreConsertado": false
   },
   "LA FAMILIA CHIARADIA": {
@@ -182,7 +182,7 @@
     "cofreConsertado": false
   },
   "FAZENDA DO GALIN": {
-    "idNumerico": null,
+    "idNumerico": "15",
     "nome": "Fazenda do Galin",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -273,7 +273,7 @@
     "cofreConsertado": false
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
-    "idNumerico": null,
+    "idNumerico": "3",
     "nome": "$ Company $r.RC_PlinioDmG $",
     "status": "DISPONIVEL",
     "disponivelEm": null,

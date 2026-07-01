@@ -28,10 +28,10 @@
     "cofreConsertado": false
   },
   "KODIAK": {
-    "idNumerico": "3",
+    "idNumerico": null,
     "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:50|01/07/2026",
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
@@ -102,7 +102,7 @@
     "nome": "fazendinha do igeze",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:17|01/07/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
@@ -198,9 +198,9 @@
   "FAZENDA PUTEIRO DO DEATH 4": {
     "idNumerico": null,
     "nome": "Fazenda puteiro do Death 4",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:48|01/07/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "4I20 HASH FARM'S": {
     "idNumerico": null,
@@ -280,10 +280,10 @@
     "cofreConsertado": false
   },
   "DM2 FARM": {
-    "idNumerico": "6",
+    "idNumerico": null,
     "nome": "Dm2 Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:49|01/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "XAUBLAU INVESTIMENTO LTDA": {

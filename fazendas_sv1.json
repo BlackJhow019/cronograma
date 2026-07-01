@@ -84,7 +84,7 @@
     "cofreConsertado": false
   },
   "SAO PEDRO 2": {
-    "idNumerico": null,
+    "idNumerico": "43",
     "nome": "SAO PEDRO 2",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -130,7 +130,7 @@
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:50|01/07/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "< GAUBRE LTDA >": {
     "idNumerico": null,
@@ -238,10 +238,10 @@
     "cofreConsertado": false
   },
   "FARM'S DE CAFE": {
-    "idNumerico": "4",
+    "idNumerico": null,
     "nome": "Farm's de Cafe",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:38|01/07/2026",
     "cofreConsertado": false
   },
   "K1NG FARM'S": {

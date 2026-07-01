@@ -56,10 +56,10 @@
     "cofreConsertado": false
   },
   "RANCHO DO DOUTOR": {
-    "idNumerico": "14",
+    "idNumerico": null,
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:43|01/07/2026",
     "cofreConsertado": false
   },
   "PT FARM'S": {
@@ -72,9 +72,9 @@
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": null,
     "nome": "Rafha investimentos $",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:26|01/07/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "THUG LIFE": {
     "idNumerico": "21",
@@ -161,11 +161,11 @@
     "cofreConsertado": false
   },
   "FAZENDA DA MILLY": {
-    "idNumerico": "19",
+    "idNumerico": null,
     "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:23|01/07/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": null,
@@ -200,7 +200,7 @@
     "nome": "Fazenda puteiro do Death 4",
     "status": "INDISPONIVEL",
     "disponivelEm": "09:48|01/07/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "4I20 HASH FARM'S": {
     "idNumerico": null,

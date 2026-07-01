@@ -14,7 +14,7 @@
     "cofreConsertado": false
   },
   "021": {
-    "idNumerico": null,
+    "idNumerico": "1",
     "nome": "021",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:30|01/07/2026",
@@ -32,7 +32,7 @@
     "nome": "KodiaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:50|01/07/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "GRUPO NEXUS": {
     "idNumerico": "22",
@@ -56,11 +56,11 @@
     "cofreConsertado": false
   },
   "RANCHO DO DOUTOR": {
-    "idNumerico": null,
+    "idNumerico": "14",
     "nome": "Rancho do Doutor",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:43|01/07/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "PT FARM'S": {
     "idNumerico": "13",
@@ -91,14 +91,14 @@
     "cofreConsertado": false
   },
   "LEK0ZIKA": {
-    "idNumerico": null,
+    "idNumerico": "35",
     "nome": "Lek0zika",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
   "FAZENDINHA DO IGEZE": {
-    "idNumerico": null,
+    "idNumerico": "36",
     "nome": "fazendinha do igeze",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:17|01/07/2026",
@@ -126,7 +126,7 @@
     "cofreConsertado": false
   },
   "OS DE RACA": {
-    "idNumerico": null,
+    "idNumerico": "0",
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:22|01/07/2026",
@@ -170,8 +170,8 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": null,
     "nome": "hwd investimentos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:04|01/07/2026",
     "cofreConsertado": false
   },
   "MONOPOLIO FARMS": {
@@ -196,7 +196,7 @@
     "cofreConsertado": false
   },
   "FAZENDA PUTEIRO DO DEATH 4": {
-    "idNumerico": null,
+    "idNumerico": "31",
     "nome": "Fazenda puteiro do Death 4",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -217,7 +217,7 @@
     "cofreConsertado": false
   },
   "PEEEEERFEITO!!!": {
-    "idNumerico": null,
+    "idNumerico": "10",
     "nome": "Peeeeerfeito!!!",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -280,7 +280,7 @@
     "cofreConsertado": false
   },
   "DM2 FARM": {
-    "idNumerico": null,
+    "idNumerico": "6",
     "nome": "Dm2 Farm",
     "status": "DISPONIVEL",
     "disponivelEm": null,

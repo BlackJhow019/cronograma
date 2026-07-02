@@ -234,7 +234,7 @@
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
     "status": "INDISPONIVEL",
-    "disponivelEm": "22:22|01/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true
   },
   "K1NG FARM'S": {
@@ -254,9 +254,9 @@
   "VAQUEIRO FARM´S": {
     "idNumerico": "18",
     "nome": "Vaqueiro Farm´s",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:09|02/07/2026",
+    "cofreConsertado": true
   },
   "RICK FARM´S": {
     "idNumerico": "5",

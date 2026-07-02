@@ -51,8 +51,8 @@
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
     "nome": "LA FAMILIA CHIARADIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:08|02/07/2026",
     "cofreConsertado": false
   },
   "FARMA DA FAMILIA ELITE": {
@@ -80,8 +80,8 @@
     "idNumerico": "17",
     "nome": "Elite Farms",
     "status": "INDISPONIVEL",
-    "disponivelEm": "23:43|01/07/2026",
-    "cofreConsertado": false
+    "disponivelEm": "04:49|02/07/2026",
+    "cofreConsertado": true
   },
   "B13 :)": {
     "idNumerico": "23",
@@ -112,10 +112,10 @@
     "cofreConsertado": true
   },
   "YELLOWSTONE - BY MONSTER": {
-    "idNumerico": null,
+    "idNumerico": "16",
     "nome": "YellowStone - By Monster",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:42|02/07/2026",
     "cofreConsertado": false
   },
   "VALE DAS SOMBRAS": {
@@ -143,8 +143,8 @@
     "idNumerico": "2",
     "nome": "Amo o Lower",
     "status": "INDISPONIVEL",
-    "disponivelEm": "04:28|02/07/2026",
-    "cofreConsertado": false
+    "disponivelEm": "04:30|02/07/2026",
+    "cofreConsertado": true
   },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
@@ -164,7 +164,7 @@
     "idNumerico": "35",
     "nome": "Farme do Drake",
     "status": "INDISPONIVEL",
-    "disponivelEm": "23:28|01/07/2026",
+    "disponivelEm": "04:36|02/07/2026",
     "cofreConsertado": true
   },
   "DEAD (:": {
@@ -175,9 +175,9 @@
     "cofreConsertado": true
   },
   "DONA SEM RAZAO": {
-    "idNumerico": "26",
+    "idNumerico": null,
     "nome": "Dona sem razao",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
@@ -213,15 +213,15 @@
     "idNumerico": "21",
     "nome": "RAMONZIN_FRANCA",
     "status": "INDISPONIVEL",
-    "disponivelEm": "23:00|01/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FARM DA THATY": {
     "idNumerico": "1",
     "nome": "Farm da Thaty",
     "status": "INDISPONIVEL",
-    "disponivelEm": "23:21|01/07/2026",
-    "cofreConsertado": false
+    "disponivelEm": "04:43|02/07/2026",
+    "cofreConsertado": true
   },
   "FARM DO SAPATO": {
     "idNumerico": "9",

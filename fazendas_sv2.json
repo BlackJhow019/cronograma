@@ -214,7 +214,7 @@
     "nome": "RAMONZIN_FRANCA",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:13|02/07/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FARM DA THATY": {
     "idNumerico": "1",
@@ -247,8 +247,8 @@
   "AURA + EGO": {
     "idNumerico": null,
     "nome": "Aura + Ego",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:33|02/07/2026",
     "cofreConsertado": false
   },
   "SUCCUBUS FARMS": {
@@ -308,7 +308,7 @@
     "cofreConsertado": false
   },
   "KAROL E COM C OU K?": {
-    "idNumerico": null,
+    "idNumerico": "34",
     "nome": "Karol e com C ou K?",
     "status": "DISPONIVEL",
     "disponivelEm": null,

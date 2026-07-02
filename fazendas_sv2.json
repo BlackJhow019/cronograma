@@ -2,50 +2,50 @@
   "999": {
     "idNumerico": "39",
     "nome": "999",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:15|01/07/2026",
+    "cofreConsertado": true
   },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:04|02/07/2026",
     "cofreConsertado": false
   },
   "AWAKE COMPANY": {
     "idNumerico": "13",
     "nome": "AwaKe Company",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:44|02/07/2026",
     "cofreConsertado": false
   },
   "ROCK FARM": {
     "idNumerico": "11",
     "nome": "RocK Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:01|02/07/2026",
+    "cofreConsertado": true
   },
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",
     "nome": "Fazendinha BeTreZe 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:51|02/07/2026",
     "cofreConsertado": false
   },
   "EVENTO": {
-    "idNumerico": null,
+    "idNumerico": "12",
     "nome": "EVENTO",
     "status": "INDISPONIVEL",
-    "disponivelEm": "20:52|01/07/2026",
-    "cofreConsertado": true
+    "disponivelEm": "00:11|02/07/2026",
+    "cofreConsertado": false
   },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
     "status": "INDISPONIVEL",
-    "disponivelEm": "23:38|01/07/2026",
+    "disponivelEm": "23:39|01/07/2026",
     "cofreConsertado": false
   },
   "LA FAMILIA CHIARADIA": {
@@ -58,12 +58,12 @@
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
     "nome": "Farma Da Familia Elite",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:56|02/07/2026",
+    "cofreConsertado": true
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {
-    "idNumerico": "37",
+    "idNumerico": null,
     "nome": "WELCOME > MELHOR FAZENDA DO BPS",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -72,68 +72,68 @@
   "TA NO GRALI": {
     "idNumerico": "4",
     "nome": "ta no grali",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:08|02/07/2026",
     "cofreConsertado": false
   },
   "ELITE FARMS": {
     "idNumerico": "17",
     "nome": "Elite Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:43|01/07/2026",
     "cofreConsertado": false
   },
   "B13 :)": {
     "idNumerico": "23",
     "nome": "B13 :)",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:46|02/07/2026",
     "cofreConsertado": false
   },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:51|02/07/2026",
+    "cofreConsertado": true
   },
   "FARM DO GALO": {
     "idNumerico": "40",
     "nome": "FARM DO GALO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:37|02/07/2026",
+    "cofreConsertado": true
   },
   "MALVADA'S FARM": {
     "idNumerico": "32",
     "nome": "Malvada's Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:07|02/07/2026",
+    "cofreConsertado": true
   },
   "YELLOWSTONE - BY MONSTER": {
-    "idNumerico": "16",
+    "idNumerico": null,
     "nome": "YellowStone - By Monster",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
   "VALE DAS SOMBRAS": {
-    "idNumerico": null,
+    "idNumerico": "24",
     "nome": "Vale das Sombras",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:56|02/07/2026",
     "cofreConsertado": false
   },
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
     "nome": "Farms de Galopisitas",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:55|02/07/2026",
+    "cofreConsertado": true
   },
   "CANNABIS": {
-    "idNumerico": "8",
+    "idNumerico": null,
     "nome": "CANNABIS",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -142,54 +142,54 @@
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:21|01/07/2026",
     "cofreConsertado": false
   },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:18|02/07/2026",
     "cofreConsertado": false
   },
   "ARIANA_B13": {
     "idNumerico": "10",
     "nome": "Ariana_B13",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:00|01/07/2026",
+    "cofreConsertado": true
   },
   "FARME DO DRAKE": {
     "idNumerico": "35",
     "nome": "Farme do Drake",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:28|01/07/2026",
+    "cofreConsertado": true
   },
   "DEAD (:": {
     "idNumerico": "27",
     "nome": "Dead (:",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:06|02/07/2026",
+    "cofreConsertado": true
   },
   "DONA SEM RAZAO": {
     "idNumerico": "26",
     "nome": "Dona sem razao",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:23|01/07/2026",
     "cofreConsertado": false
   },
   "FAZENDA DO GALIN": {
     "idNumerico": "15",
     "nome": "Fazenda do Galin",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:32|01/07/2026",
     "cofreConsertado": false
   },
   "~E V O M~": {
-    "idNumerico": "25",
+    "idNumerico": null,
     "nome": "~E V O M~",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -198,64 +198,64 @@
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:44|02/07/2026",
+    "cofreConsertado": true
   },
   "QG FARM KHAOS": {
-    "idNumerico": null,
+    "idNumerico": "18",
     "nome": "QG FARM KHAOS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:25|02/07/2026",
     "cofreConsertado": false
   },
   "RAMONZIN_FRANCA": {
-    "idNumerico": null,
+    "idNumerico": "21",
     "nome": "RAMONZIN_FRANCA",
     "status": "INDISPONIVEL",
-    "disponivelEm": "22:59|01/07/2026",
+    "disponivelEm": "23:00|01/07/2026",
     "cofreConsertado": false
   },
   "FARM DA THATY": {
     "idNumerico": "1",
     "nome": "Farm da Thaty",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:21|01/07/2026",
     "cofreConsertado": false
   },
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:45|02/07/2026",
+    "cofreConsertado": true
   },
   "FRANCA": {
-    "idNumerico": null,
+    "idNumerico": "28",
     "nome": "FRANCA",
     "status": "INDISPONIVEL",
-    "disponivelEm": "22:32|01/07/2026",
+    "disponivelEm": "03:40|02/07/2026",
     "cofreConsertado": true
   },
   "CHAMA A POLICIA": {
-    "idNumerico": null,
+    "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:59|02/07/2026",
+    "cofreConsertado": true
   },
   "AURA + EGO": {
     "idNumerico": "22",
     "nome": "Aura + Ego",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:18|01/07/2026",
+    "cofreConsertado": true
   },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",
     "nome": "Succubus Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:56|02/07/2026",
     "cofreConsertado": false
   },
   "RICK FARM'S": {
@@ -266,49 +266,49 @@
     "cofreConsertado": false
   },
   "GRUPO RANTER": {
-    "idNumerico": null,
+    "idNumerico": "19",
     "nome": "GRUPO RANTER",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:30|02/07/2026",
+    "cofreConsertado": true
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",
     "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:20|01/07/2026",
     "cofreConsertado": false
   },
   "FAZENDA MAO DE VACA": {
     "idNumerico": "14",
     "nome": "Fazenda Mao de Vaca",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:31|02/07/2026",
+    "cofreConsertado": true
   },
   "/VENDERPRODUTOS": {
     "idNumerico": "7",
     "nome": "/VENDERPRODUTOS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:42|01/07/2026",
     "cofreConsertado": false
   },
   "FAZENDA REI DROGADO": {
-    "idNumerico": null,
+    "idNumerico": "31",
     "nome": "Fazenda Rei Drogado",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:53|02/07/2026",
+    "cofreConsertado": true
   },
   "AMO A MAZZI": {
-    "idNumerico": null,
+    "idNumerico": "6",
     "nome": "Amo a Mazzi",
     "status": "INDISPONIVEL",
-    "disponivelEm": "23:45|01/07/2026",
+    "disponivelEm": "23:46|01/07/2026",
     "cofreConsertado": false
   },
   "KAROL E COM C OU K?": {
-    "idNumerico": "34",
+    "idNumerico": null,
     "nome": "Karol e com C ou K?",
     "status": "DISPONIVEL",
     "disponivelEm": null,

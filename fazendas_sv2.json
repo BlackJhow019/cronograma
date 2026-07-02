@@ -79,8 +79,8 @@
   "ELITE FARMS": {
     "idNumerico": null,
     "nome": "Elite Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:28|02/07/2026",
     "cofreConsertado": false
   },
   "B13 :)": {
@@ -210,7 +210,7 @@
     "cofreConsertado": false
   },
   "RAMONZIN_FRANCA": {
-    "idNumerico": null,
+    "idNumerico": "21",
     "nome": "RAMONZIN_FRANCA",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:26|02/07/2026",

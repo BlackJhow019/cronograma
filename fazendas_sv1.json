@@ -212,15 +212,15 @@
   "PRESO NAO FOGE": {
     "idNumerico": null,
     "nome": "PRESO NAO FOGE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": true
-  },
-  "PEEEEERFEITO!!!": {
-    "idNumerico": "10",
-    "nome": "Peeeeerfeito!!!",
     "status": "DISPONIVEL",
     "disponivelEm": null,
+    "cofreConsertado": false
+  },
+  "PEEEEERFEITO!!!": {
+    "idNumerico": null,
+    "nome": "Peeeeerfeito!!!",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:13|02/07/2026",
     "cofreConsertado": false
   },
   "WORK INDUSTRIA'S LIMITED": {

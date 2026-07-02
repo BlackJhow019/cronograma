@@ -9,8 +9,8 @@
   "JESUS EA SOLUCAO": {
     "idNumerico": null,
     "nome": "JESUS EA SOLUCAO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:11|02/07/2026",
     "cofreConsertado": false
   },
   "AWAKE COMPANY": {
@@ -32,14 +32,14 @@
     "nome": "Fazendinha BeTreZe 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:01|02/07/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "EVENTO": {
-    "idNumerico": "12",
+    "idNumerico": null,
     "nome": "EVENTO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:06|02/07/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FAZENDA DO TEMOR": {
     "idNumerico": null,
@@ -154,11 +154,11 @@
     "cofreConsertado": false
   },
   "ARIANA_B13": {
-    "idNumerico": "10",
+    "idNumerico": null,
     "nome": "Ariana_B13",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:06|02/07/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FARME DO DRAKE": {
     "idNumerico": null,

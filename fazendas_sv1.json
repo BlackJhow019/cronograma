@@ -112,7 +112,7 @@
     "cofreConsertado": false
   },
   "BORRACHAS FARM": {
-    "idNumerico": null,
+    "idNumerico": "33",
     "nome": "Borrachas Farm",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -161,7 +161,7 @@
     "cofreConsertado": true
   },
   "FAZENDA DA MILLY": {
-    "idNumerico": null,
+    "idNumerico": "19",
     "nome": "Fazenda da Milly",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -186,7 +186,7 @@
     "nome": "AzeRoX",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:38|02/07/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "ALCATRAZ INVESTIMENTOS LTDA": {
     "idNumerico": null,
@@ -210,10 +210,10 @@
     "cofreConsertado": false
   },
   "PEEEEERFEITO!!!": {
-    "idNumerico": "10",
+    "idNumerico": null,
     "nome": "Peeeeerfeito!!!",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:29|02/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "WORK INDUSTRIA'S LIMITED": {
@@ -226,8 +226,8 @@
   "U$METRALHA FARM'S": {
     "idNumerico": null,
     "nome": "u$MeTraLha farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:50|02/07/2026",
     "cofreConsertado": false
   },
   "FARM'S DE CAFE": {

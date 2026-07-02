@@ -70,10 +70,10 @@
     "cofreConsertado": false
   },
   "TA NO GRALI": {
-    "idNumerico": "4",
+    "idNumerico": null,
     "nome": "ta no grali",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:52|02/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "ELITE FARMS": {
@@ -98,10 +98,10 @@
     "cofreConsertado": false
   },
   "FARM DO GALO": {
-    "idNumerico": "40",
+    "idNumerico": null,
     "nome": "FARM DO GALO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:09|02/07/2026",
     "cofreConsertado": false
   },
   "MALVADA'S FARM": {
@@ -303,7 +303,7 @@
   "AMO A MAZZI": {
     "idNumerico": null,
     "nome": "Amo a Mazzi",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },

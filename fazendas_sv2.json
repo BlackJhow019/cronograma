@@ -44,8 +44,8 @@
   "FAZENDA DO TEMOR": {
     "idNumerico": null,
     "nome": "Fazenda do Temor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:41|02/07/2026",
     "cofreConsertado": false
   },
   "LA FAMILIA CHIARADIA": {
@@ -81,7 +81,7 @@
     "nome": "Elite Farms",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:28|02/07/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "B13 :)": {
     "idNumerico": "23",
@@ -147,11 +147,11 @@
     "cofreConsertado": false
   },
   "SE ROUBAR MORRE": {
-    "idNumerico": "41",
+    "idNumerico": null,
     "nome": "SE ROUBAR MORRE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:38|02/07/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "ARIANA_B13": {
     "idNumerico": null,

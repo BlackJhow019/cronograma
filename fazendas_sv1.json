@@ -14,7 +14,7 @@
     "cofreConsertado": false
   },
   "021": {
-    "idNumerico": null,
+    "idNumerico": "1",
     "nome": "021",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -28,7 +28,7 @@
     "cofreConsertado": false
   },
   "KODIAK": {
-    "idNumerico": null,
+    "idNumerico": "3",
     "nome": "KodiaK",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -44,8 +44,8 @@
   "NIKE SHOX": {
     "idNumerico": null,
     "nome": "NIKE SHOX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:37|02/07/2026",
     "cofreConsertado": false
   },
   "FAZENDINHA DO FIRE": {
@@ -63,10 +63,10 @@
     "cofreConsertado": false
   },
   "PT FARM'S": {
-    "idNumerico": "13",
+    "idNumerico": null,
     "nome": "PT farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:34|02/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "RAFHA INVESTIMENTOS $": {
@@ -98,7 +98,7 @@
     "cofreConsertado": false
   },
   "FAZENDINHA DO IGEZE": {
-    "idNumerico": null,
+    "idNumerico": "36",
     "nome": "fazendinha do igeze",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -126,7 +126,7 @@
     "cofreConsertado": false
   },
   "OS DE RACA": {
-    "idNumerico": null,
+    "idNumerico": "0",
     "nome": "OS DE RACA",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -203,10 +203,10 @@
     "cofreConsertado": false
   },
   "PRESO NAO FOGE": {
-    "idNumerico": "15",
+    "idNumerico": null,
     "nome": "PRESO NAO FOGE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:00|02/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "PEEEEERFEITO!!!": {

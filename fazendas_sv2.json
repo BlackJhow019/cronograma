@@ -51,8 +51,8 @@
   "LA FAMILIA CHIARADIA": {
     "idNumerico": null,
     "nome": "LA FAMILIA CHIARADIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:12|02/07/2026",
     "cofreConsertado": false
   },
   "FARMA DA FAMILIA ELITE": {
@@ -84,7 +84,7 @@
     "cofreConsertado": false
   },
   "B13 :)": {
-    "idNumerico": null,
+    "idNumerico": "23",
     "nome": "B13 :)",
     "status": "DISPONIVEL",
     "disponivelEm": null,

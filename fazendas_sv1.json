@@ -135,8 +135,8 @@
   "< GAUBRE LTDA >": {
     "idNumerico": null,
     "nome": "< GAUBRE LTDA >",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:10|02/07/2026",
     "cofreConsertado": false
   },
   "VENDO 500KM ACEITO TROCAS": {
@@ -182,11 +182,11 @@
     "cofreConsertado": true
   },
   "AZEROX": {
-    "idNumerico": "23",
+    "idNumerico": null,
     "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:39|02/07/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "ALCATRAZ INVESTIMENTOS LTDA": {
     "idNumerico": null,

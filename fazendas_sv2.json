@@ -10,7 +10,7 @@
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
     "status": "INDISPONIVEL",
-    "disponivelEm": "23:12|02/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "AWAKE COMPANY": {
@@ -28,11 +28,11 @@
     "cofreConsertado": true
   },
   "FAZENDINHA BETREZE 2": {
-    "idNumerico": "38",
+    "idNumerico": null,
     "nome": "Fazendinha BeTreZe 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:06|02/07/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "EVENTO": {
     "idNumerico": "42",
@@ -42,11 +42,11 @@
     "cofreConsertado": false
   },
   "FAZENDA DO TEMOR": {
-    "idNumerico": null,
+    "idNumerico": "30",
     "nome": "Fazenda do Temor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:41|02/07/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": null,
@@ -79,9 +79,9 @@
   "ELITE FARMS": {
     "idNumerico": null,
     "nome": "Elite Farms",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:28|02/07/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "B13 :)": {
     "idNumerico": "23",
@@ -210,10 +210,10 @@
     "cofreConsertado": false
   },
   "RAMONZIN_FRANCA": {
-    "idNumerico": "21",
+    "idNumerico": null,
     "nome": "RAMONZIN_FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:26|02/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FARM DA THATY": {
@@ -273,11 +273,11 @@
     "cofreConsertado": true
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
-    "idNumerico": "3",
+    "idNumerico": null,
     "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true
+    "cofreConsertado": false
   },
   "FAZENDA MAO DE VACA": {
     "idNumerico": "14",
@@ -308,10 +308,10 @@
     "cofreConsertado": true
   },
   "YANINHA_ANTIFALSOS": {
-    "idNumerico": "34",
+    "idNumerico": null,
     "nome": "yAninha_AntiFalsos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:12|03/07/2026",
     "cofreConsertado": false
   }
 }

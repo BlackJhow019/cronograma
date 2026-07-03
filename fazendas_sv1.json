@@ -91,9 +91,9 @@
     "cofreConsertado": false
   },
   "FAZENDINHA DO IGEZE": {
-    "idNumerico": "36",
+    "idNumerico": null,
     "nome": "fazendinha do igeze",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
@@ -149,8 +149,8 @@
   "BEE": {
     "idNumerico": null,
     "nome": "BEE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:58|03/07/2026",
     "cofreConsertado": false
   },
   "FAZENDA DA MILLY": {

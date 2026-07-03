@@ -37,8 +37,8 @@
   "GRUPO NEXUS": {
     "idNumerico": null,
     "nome": "GRUPO NEXUS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:30|03/07/2026",
     "cofreConsertado": false
   },
   "NIKE SHOX": {
@@ -74,7 +74,7 @@
     "nome": "THUG LIFE",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:02|03/07/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "SAO PEDRO 2": {
     "idNumerico": null,
@@ -119,7 +119,7 @@
     "cofreConsertado": false
   },
   "OS DE RACA": {
-    "idNumerico": null,
+    "idNumerico": "0",
     "nome": "OS DE RACA",
     "status": "DISPONIVEL",
     "disponivelEm": null,

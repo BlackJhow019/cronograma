@@ -21,7 +21,7 @@
     "cofreConsertado": false
   },
   "PREFEITO ROADBLOCK": {
-    "idNumerico": null,
+    "idNumerico": "41",
     "nome": "Prefeito Roadblock",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -35,11 +35,11 @@
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
-    "idNumerico": "40",
+    "idNumerico": "39",
     "nome": "GRUPO NEXUS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:30|03/07/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -56,10 +56,10 @@
     "cofreConsertado": false
   },
   "RANCHO DO DOUTOR": {
-    "idNumerico": "14",
+    "idNumerico": null,
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:48|03/07/2026",
     "cofreConsertado": false
   },
   "RAFHA INVESTIMENTOS $": {
@@ -74,7 +74,7 @@
     "nome": "THUG LIFE",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:11|03/07/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -107,9 +107,9 @@
   "BORRACHAS FARM": {
     "idNumerico": null,
     "nome": "Borrachas Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:51|03/07/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
@@ -233,8 +233,8 @@
   "K1NG FARM'S": {
     "idNumerico": null,
     "nome": "K1NG Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:20|03/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FAZENDA ROTA DO CAFÉ": {
@@ -296,6 +296,13 @@
   "NOREX FARM'S": {
     "idNumerico": null,
     "nome": "Norex farm's",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
+  },
+  "VC É A PIADA AQUI": {
+    "idNumerico": "10",
+    "nome": "Vc é a piada aqui",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false

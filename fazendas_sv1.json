@@ -154,7 +154,7 @@
     "cofreConsertado": false
   },
   "FAZENDA DA MILLY": {
-    "idNumerico": null,
+    "idNumerico": "19",
     "nome": "Fazenda da Milly",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -226,8 +226,8 @@
   "FARM'S DE CAFE": {
     "idNumerico": null,
     "nome": "Farm's de Cafe",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:05|03/07/2026",
     "cofreConsertado": false
   },
   "K1NG FARM'S": {

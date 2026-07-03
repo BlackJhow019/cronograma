@@ -35,10 +35,10 @@
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
-    "idNumerico": "39",
+    "idNumerico": null,
     "nome": "GRUPO NEXUS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:36|03/07/2026",
     "cofreConsertado": false
   },
   "NIKE SHOX": {
@@ -196,11 +196,11 @@
     "cofreConsertado": true
   },
   "PRESO NAO FOGE": {
-    "idNumerico": "15",
+    "idNumerico": null,
     "nome": "PRESO NAO FOGE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:33|03/07/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "PEEEEERFEITO!!!": {
     "idNumerico": null,

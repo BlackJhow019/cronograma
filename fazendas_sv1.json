@@ -53,7 +53,7 @@
     "nome": "Fazendinha Do Fire",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:31|03/07/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
@@ -95,7 +95,7 @@
     "nome": "fazendinha do igeze",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:28|03/07/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
@@ -273,11 +273,11 @@
     "cofreConsertado": true
   },
   "BERNARDO FARM'S": {
-    "idNumerico": "16",
+    "idNumerico": null,
     "nome": "Bernardo Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:31|03/07/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
@@ -289,8 +289,8 @@
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": null,
     "nome": "Quem Roubar e Petista",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:38|03/07/2026",
     "cofreConsertado": false
   },
   "NOREX FARM'S": {

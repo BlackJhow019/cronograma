@@ -93,8 +93,8 @@
   "FAZENDINHA DO IGEZE": {
     "idNumerico": null,
     "nome": "fazendinha do igeze",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:28|03/07/2026",
     "cofreConsertado": false
   },
   "FAMILIA KUSH": {
@@ -294,10 +294,10 @@
     "cofreConsertado": false
   },
   "NOREX FARM'S": {
-    "idNumerico": "13",
+    "idNumerico": null,
     "nome": "Norex farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:07|03/07/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   }
 }

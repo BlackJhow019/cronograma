@@ -35,11 +35,11 @@
     "cofreConsertado": false
   },
   "GRUPO NEXUS": {
-    "idNumerico": null,
+    "idNumerico": "40",
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:30|03/07/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "NIKE SHOX": {
     "idNumerico": null,
@@ -77,7 +77,7 @@
     "cofreConsertado": true
   },
   "SAO PEDRO 2": {
-    "idNumerico": null,
+    "idNumerico": "43",
     "nome": "SAO PEDRO 2",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -231,10 +231,10 @@
     "cofreConsertado": false
   },
   "K1NG FARM'S": {
-    "idNumerico": "25",
+    "idNumerico": null,
     "nome": "K1NG Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:20|03/07/2026",
     "cofreConsertado": false
   },
   "FAZENDA ROTA DO CAFÉ": {

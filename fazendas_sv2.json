@@ -168,10 +168,10 @@
     "cofreConsertado": true
   },
   "DEAD (:": {
-    "idNumerico": "27",
+    "idNumerico": null,
     "nome": "Dead (:",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:02|03/07/2026",
     "cofreConsertado": false
   },
   "DONA SEM RAZAO": {

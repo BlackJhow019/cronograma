@@ -1,6 +1,6 @@
 {
   "999": {
-    "idNumerico": null,
+    "idNumerico": "39",
     "nome": "999",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -35,7 +35,7 @@
     "cofreConsertado": false
   },
   "EVENTO": {
-    "idNumerico": null,
+    "idNumerico": "42",
     "nome": "EVENTO",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -63,7 +63,7 @@
     "cofreConsertado": false
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {
-    "idNumerico": null,
+    "idNumerico": "37",
     "nome": "WELCOME > MELHOR FAZENDA DO BPS",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -100,8 +100,8 @@
   "FARM DO GALO": {
     "idNumerico": null,
     "nome": "FARM DO GALO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:19|03/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "MALVADA'S FARM": {
@@ -193,7 +193,7 @@
     "nome": "~E V O M~",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:31|04/07/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
@@ -205,8 +205,8 @@
   "QG FARM KHAOS": {
     "idNumerico": null,
     "nome": "QG FARM KHAOS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:38|03/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "RAMONZIN_FRANCA": {
@@ -217,7 +217,7 @@
     "cofreConsertado": false
   },
   "FARM DA THATY": {
-    "idNumerico": null,
+    "idNumerico": "1",
     "nome": "Farm da Thaty",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -240,8 +240,8 @@
   "CHAMA A POLICIA": {
     "idNumerico": null,
     "nome": "CHAMA A POLICIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:31|03/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "AURA + EGO": {
@@ -308,17 +308,17 @@
     "cofreConsertado": false
   },
   "YANINHA_ANTIFALSOS": {
-    "idNumerico": "34",
+    "idNumerico": null,
     "nome": "yAninha_AntiFalsos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:22|04/07/2026",
     "cofreConsertado": false
   },
   "LOKO": {
     "idNumerico": null,
     "nome": "loko",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:48|03/07/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   }
 }

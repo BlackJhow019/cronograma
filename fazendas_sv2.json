@@ -65,8 +65,8 @@
   "WELCOME > MELHOR FAZENDA DO BPS": {
     "idNumerico": null,
     "nome": "WELCOME > MELHOR FAZENDA DO BPS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:20|03/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "TA NO GRALI": {
@@ -119,7 +119,7 @@
     "cofreConsertado": false
   },
   "VALE DAS SOMBRAS": {
-    "idNumerico": null,
+    "idNumerico": "24",
     "nome": "Vale das Sombras",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -142,8 +142,8 @@
   "AMO O LOWER": {
     "idNumerico": null,
     "nome": "Amo o Lower",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:29|03/07/2026",
     "cofreConsertado": false
   },
   "SE ROUBAR MORRE": {
@@ -158,10 +158,10 @@
     "nome": "Ariana_B13",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:30|03/07/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FARME DO DRAKE": {
-    "idNumerico": null,
+    "idNumerico": "35",
     "nome": "Farme do Drake",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -219,8 +219,8 @@
   "FARM DA THATY": {
     "idNumerico": null,
     "nome": "Farm da Thaty",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:17|03/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FARM DO SAPATO": {
@@ -308,7 +308,7 @@
     "cofreConsertado": false
   },
   "YANINHA_ANTIFALSOS": {
-    "idNumerico": null,
+    "idNumerico": "34",
     "nome": "yAninha_AntiFalsos",
     "status": "DISPONIVEL",
     "disponivelEm": null,

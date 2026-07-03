@@ -86,8 +86,8 @@
   "LEK0ZIKA": {
     "idNumerico": null,
     "nome": "Lek0zika",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:52|03/07/2026",
     "cofreConsertado": false
   },
   "FAZENDINHA DO IGEZE": {
@@ -154,10 +154,10 @@
     "cofreConsertado": false
   },
   "FAZENDA DA MILLY": {
-    "idNumerico": "19",
+    "idNumerico": null,
     "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:36|03/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "HWD INVESTIMENTOS": {
@@ -196,11 +196,11 @@
     "cofreConsertado": false
   },
   "PRESO NAO FOGE": {
-    "idNumerico": null,
+    "idNumerico": "15",
     "nome": "PRESO NAO FOGE",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:33|03/07/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "PEEEEERFEITO!!!": {
     "idNumerico": null,

@@ -49,10 +49,10 @@
     "cofreConsertado": false
   },
   "FAZENDINHA DO FIRE": {
-    "idNumerico": "12",
+    "idNumerico": null,
     "nome": "Fazendinha Do Fire",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:31|03/07/2026",
     "cofreConsertado": false
   },
   "RANCHO DO DOUTOR": {
@@ -280,7 +280,7 @@
     "cofreConsertado": true
   },
   "FAMILIA ALMANAK": {
-    "idNumerico": null,
+    "idNumerico": "32",
     "nome": "Familia AlmanaK",
     "status": "DISPONIVEL",
     "disponivelEm": null,

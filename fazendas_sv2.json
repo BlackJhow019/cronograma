@@ -301,10 +301,10 @@
     "cofreConsertado": false
   },
   "AMO A MAZZI": {
-    "idNumerico": "6",
+    "idNumerico": null,
     "nome": "Amo a Mazzi",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:26|04/07/2026",
     "cofreConsertado": false
   },
   "YANINHA_ANTIFALSOS": {
@@ -312,7 +312,7 @@
     "nome": "yAninha_AntiFalsos",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:22|04/07/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "LOKO": {
     "idNumerico": null,

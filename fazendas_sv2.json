@@ -28,25 +28,25 @@
     "cofreConsertado": true
   },
   "FAZENDINHA BETREZE 2": {
-    "idNumerico": null,
+    "idNumerico": "38",
     "nome": "Fazendinha BeTreZe 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:53|03/07/2026",
+    "cofreConsertado": true
   },
   "EVENTO": {
     "idNumerico": "42",
     "nome": "EVENTO",
     "status": "INDISPONIVEL",
-    "disponivelEm": "01:39|03/07/2026",
+    "disponivelEm": "05:15|03/07/2026",
     "cofreConsertado": false
   },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:56|03/07/2026",
+    "cofreConsertado": true
   },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": null,
@@ -72,9 +72,9 @@
   "TA NO GRALI": {
     "idNumerico": "4",
     "nome": "ta no grali",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:10|03/07/2026",
+    "cofreConsertado": true
   },
   "ELITE FARMS": {
     "idNumerico": null,
@@ -143,7 +143,7 @@
     "idNumerico": "2",
     "nome": "Amo o Lower",
     "status": "INDISPONIVEL",
-    "disponivelEm": "23:38|02/07/2026",
+    "disponivelEm": "04:52|03/07/2026",
     "cofreConsertado": true
   },
   "SE ROUBAR MORRE": {
@@ -156,9 +156,9 @@
   "ARIANA_B13": {
     "idNumerico": "10",
     "nome": "Ariana_B13",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:06|03/07/2026",
+    "cofreConsertado": true
   },
   "FARME DO DRAKE": {
     "idNumerico": "35",
@@ -184,16 +184,16 @@
   "FAZENDA DO GALIN": {
     "idNumerico": "15",
     "nome": "Fazenda do Galin",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:54|03/07/2026",
+    "cofreConsertado": true
   },
   "~E V O M~": {
     "idNumerico": "25",
     "nome": "~E V O M~",
     "status": "INDISPONIVEL",
-    "disponivelEm": "00:02|03/07/2026",
-    "cofreConsertado": false
+    "disponivelEm": "05:13|03/07/2026",
+    "cofreConsertado": true
   },
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
@@ -226,16 +226,16 @@
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:31|03/07/2026",
+    "cofreConsertado": true
   },
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:09|03/07/2026",
+    "cofreConsertado": true
   },
   "CHAMA A POLICIA": {
     "idNumerico": "44",
@@ -308,10 +308,10 @@
     "cofreConsertado": true
   },
   "YANINHA_ANTIFALSOS": {
-    "idNumerico": null,
+    "idNumerico": "34",
     "nome": "yAninha_AntiFalsos",
     "status": "INDISPONIVEL",
-    "disponivelEm": "05:12|03/07/2026",
-    "cofreConsertado": false
+    "disponivelEm": "05:15|03/07/2026",
+    "cofreConsertado": true
   }
 }

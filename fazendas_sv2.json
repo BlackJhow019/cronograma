@@ -1,9 +1,9 @@
 {
   "999": {
-    "idNumerico": "39",
+    "idNumerico": null,
     "nome": "999",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:10|03/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "JESUS EA SOLUCAO": {
@@ -16,22 +16,22 @@
   "AWAKE COMPANY": {
     "idNumerico": null,
     "nome": "AwaKe Company",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:38|03/07/2026",
-    "cofreConsertado": true
-  },
-  "ROCK FARM": {
-    "idNumerico": "11",
-    "nome": "RocK Farm",
     "status": "DISPONIVEL",
     "disponivelEm": null,
+    "cofreConsertado": false
+  },
+  "ROCK FARM": {
+    "idNumerico": null,
+    "nome": "RocK Farm",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:52|03/07/2026",
     "cofreConsertado": false
   },
   "FAZENDINHA BETREZE 2": {
     "idNumerico": null,
     "nome": "Fazendinha BeTreZe 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:32|03/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "EVENTO": {
@@ -140,25 +140,25 @@
     "cofreConsertado": false
   },
   "AMO O LOWER": {
-    "idNumerico": null,
+    "idNumerico": "2",
     "nome": "Amo o Lower",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:29|03/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "SE ROUBAR MORRE": {
-    "idNumerico": null,
+    "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
   "ARIANA_B13": {
-    "idNumerico": null,
+    "idNumerico": "10",
     "nome": "Ariana_B13",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:30|03/07/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FARME DO DRAKE": {
     "idNumerico": "35",
@@ -273,7 +273,7 @@
     "cofreConsertado": false
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
-    "idNumerico": null,
+    "idNumerico": "3",
     "nome": "$ Company $r.RC_PlinioDmG $",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -301,7 +301,7 @@
     "cofreConsertado": false
   },
   "AMO A MAZZI": {
-    "idNumerico": null,
+    "idNumerico": "6",
     "nome": "Amo a Mazzi",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -319,6 +319,6 @@
     "nome": "loko",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:48|03/07/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   }
 }

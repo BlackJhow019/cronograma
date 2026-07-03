@@ -7,11 +7,11 @@
     "cofreConsertado": false
   },
   "JESUS EA SOLUCAO": {
-    "idNumerico": "0",
+    "idNumerico": null,
     "nome": "JESUS EA SOLUCAO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:25|03/07/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "AWAKE COMPANY": {
     "idNumerico": "13",
@@ -21,7 +21,7 @@
     "cofreConsertado": false
   },
   "ROCK FARM": {
-    "idNumerico": "11",
+    "idNumerico": null,
     "nome": "RocK Farm",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -35,11 +35,11 @@
     "cofreConsertado": false
   },
   "EVENTO": {
-    "idNumerico": "42",
+    "idNumerico": null,
     "nome": "EVENTO",
     "status": "INDISPONIVEL",
-    "disponivelEm": "05:17|03/07/2026",
-    "cofreConsertado": true
+    "disponivelEm": "12:31|03/07/2026",
+    "cofreConsertado": false
   },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
@@ -52,11 +52,11 @@
     "idNumerico": null,
     "nome": "LA FAMILIA CHIARADIA",
     "status": "INDISPONIVEL",
-    "disponivelEm": "07:43|03/07/2026",
+    "disponivelEm": "07:44|03/07/2026",
     "cofreConsertado": true
   },
   "FARMA DA FAMILIA ELITE": {
-    "idNumerico": "33",
+    "idNumerico": null,
     "nome": "Farma Da Familia Elite",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -84,14 +84,14 @@
     "cofreConsertado": false
   },
   "B13 :)": {
-    "idNumerico": "23",
+    "idNumerico": null,
     "nome": "B13 :)",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
   "FAZENDA DO MIRIM": {
-    "idNumerico": "36",
+    "idNumerico": null,
     "nome": "Fazenda Do MIRIM",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -105,7 +105,7 @@
     "cofreConsertado": false
   },
   "MALVADA'S FARM": {
-    "idNumerico": "32",
+    "idNumerico": null,
     "nome": "Malvada's Farm",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -122,7 +122,7 @@
     "idNumerico": null,
     "nome": "Vale das Sombras",
     "status": "INDISPONIVEL",
-    "disponivelEm": "07:53|03/07/2026",
+    "disponivelEm": "07:54|03/07/2026",
     "cofreConsertado": true
   },
   "FARMS DE GALOPISITAS": {
@@ -133,21 +133,21 @@
     "cofreConsertado": false
   },
   "CANNABIS": {
-    "idNumerico": "8",
+    "idNumerico": null,
     "nome": "CANNABIS",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
   "AMO O LOWER": {
-    "idNumerico": "2",
+    "idNumerico": null,
     "nome": "Amo o Lower",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
   "SE ROUBAR MORRE": {
-    "idNumerico": "41",
+    "idNumerico": null,
     "nome": "SE ROUBAR MORRE",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -161,7 +161,7 @@
     "cofreConsertado": false
   },
   "FARME DO DRAKE": {
-    "idNumerico": "35",
+    "idNumerico": null,
     "nome": "Farme do Drake",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -170,8 +170,8 @@
   "DEAD (:": {
     "idNumerico": null,
     "nome": "Dead (:",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:01|03/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "DONA SEM RAZAO": {
@@ -189,7 +189,7 @@
     "cofreConsertado": false
   },
   "~E V O M~": {
-    "idNumerico": "25",
+    "idNumerico": null,
     "nome": "~E V O M~",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -268,8 +268,8 @@
   "GRUPO RANTER": {
     "idNumerico": null,
     "nome": "GRUPO RANTER",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:20|03/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
@@ -280,14 +280,14 @@
     "cofreConsertado": false
   },
   "FAZENDA MAO DE VACA": {
-    "idNumerico": "14",
+    "idNumerico": null,
     "nome": "Fazenda Mao de Vaca",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
   "/VENDERPRODUTOS": {
-    "idNumerico": "7",
+    "idNumerico": null,
     "nome": "/VENDERPRODUTOS",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -310,8 +310,8 @@
   "YANINHA_ANTIFALSOS": {
     "idNumerico": null,
     "nome": "yAninha_AntiFalsos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:11|03/07/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   }
 }

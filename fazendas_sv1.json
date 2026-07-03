@@ -42,7 +42,7 @@
     "cofreConsertado": true
   },
   "NIKE SHOX": {
-    "idNumerico": null,
+    "idNumerico": "42",
     "nome": "NIKE SHOX",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -72,9 +72,9 @@
   "THUG LIFE": {
     "idNumerico": null,
     "nome": "THUG LIFE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:02|03/07/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -119,10 +119,10 @@
     "cofreConsertado": false
   },
   "OS DE RACA": {
-    "idNumerico": "0",
+    "idNumerico": null,
     "nome": "OS DE RACA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:08|03/07/2026",
     "cofreConsertado": false
   },
   "< GAUBRE LTDA >": {
@@ -217,7 +217,7 @@
     "cofreConsertado": false
   },
   "U$METRALHA FARM'S": {
-    "idNumerico": null,
+    "idNumerico": "29",
     "nome": "u$MeTraLha farm's",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -273,7 +273,7 @@
     "cofreConsertado": false
   },
   "BERNARDO FARM'S": {
-    "idNumerico": null,
+    "idNumerico": "16",
     "nome": "Bernardo Farm's",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -287,7 +287,7 @@
     "cofreConsertado": false
   },
   "QUEM ROUBAR E PETISTA": {
-    "idNumerico": null,
+    "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
     "status": "DISPONIVEL",
     "disponivelEm": null,

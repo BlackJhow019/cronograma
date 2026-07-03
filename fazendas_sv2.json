@@ -313,5 +313,12 @@
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
+  },
+  "LOKO": {
+    "idNumerico": null,
+    "nome": "loko",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:48|03/07/2026",
+    "cofreConsertado": false
   }
 }

@@ -77,7 +77,7 @@
     "cofreConsertado": false
   },
   "ELITE FARMS": {
-    "idNumerico": null,
+    "idNumerico": "17",
     "nome": "Elite Farms",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -123,7 +123,7 @@
     "nome": "Vale das Sombras",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:53|03/07/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
@@ -203,7 +203,7 @@
     "cofreConsertado": false
   },
   "QG FARM KHAOS": {
-    "idNumerico": null,
+    "idNumerico": "18",
     "nome": "QG FARM KHAOS",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -219,8 +219,8 @@
   "FARM DA THATY": {
     "idNumerico": null,
     "nome": "Farm da Thaty",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:17|03/07/2026",
     "cofreConsertado": false
   },
   "FARM DO SAPATO": {
@@ -245,7 +245,7 @@
     "cofreConsertado": false
   },
   "AURA + EGO": {
-    "idNumerico": null,
+    "idNumerico": "22",
     "nome": "Aura + Ego",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -294,7 +294,7 @@
     "cofreConsertado": false
   },
   "FAZENDA REI DROGADO": {
-    "idNumerico": null,
+    "idNumerico": "31",
     "nome": "Fazenda Rei Drogado",
     "status": "DISPONIVEL",
     "disponivelEm": null,

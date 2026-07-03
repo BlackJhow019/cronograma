@@ -38,14 +38,14 @@
     "idNumerico": "39",
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
-    "disponivelEm": "02:11|03/07/2026",
-    "cofreConsertado": false
+    "disponivelEm": "05:09|03/07/2026",
+    "cofreConsertado": true
   },
   "NIKE SHOX": {
-    "idNumerico": "42",
+    "idNumerico": null,
     "nome": "NIKE SHOX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:24|02/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FAZENDINHA DO FIRE": {
@@ -122,8 +122,8 @@
     "idNumerico": "0",
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
-    "disponivelEm": "02:25|03/07/2026",
-    "cofreConsertado": false
+    "disponivelEm": "05:01|03/07/2026",
+    "cofreConsertado": true
   },
   "< GAUBRE LTDA >": {
     "idNumerico": null,
@@ -136,7 +136,7 @@
     "idNumerico": "24",
     "nome": "VENDO 500km ACEITO TROCAS",
     "status": "INDISPONIVEL",
-    "disponivelEm": "23:37|02/07/2026",
+    "disponivelEm": "05:08|03/07/2026",
     "cofreConsertado": true
   },
   "CLUBE DA LULUZINHA": {
@@ -147,10 +147,10 @@
     "cofreConsertado": true
   },
   "BEE": {
-    "idNumerico": "7",
+    "idNumerico": null,
     "nome": "BEE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:09|02/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FAZENDA DA MILLY": {
@@ -170,8 +170,8 @@
   "MONOPOLIO FARMS": {
     "idNumerico": null,
     "nome": "Monopolio Farms",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:09|02/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "AZEROX": {
@@ -192,7 +192,7 @@
     "idNumerico": "31",
     "nome": "Fazenda puteiro do Death 4",
     "status": "INDISPONIVEL",
-    "disponivelEm": "22:21|02/07/2026",
+    "disponivelEm": "05:15|03/07/2026",
     "cofreConsertado": true
   },
   "PRESO NAO FOGE": {
@@ -280,10 +280,10 @@
     "cofreConsertado": true
   },
   "FAMILIA ALMANAK": {
-    "idNumerico": "32",
+    "idNumerico": null,
     "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:24|02/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "QUEM ROUBAR E PETISTA": {

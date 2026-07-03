@@ -1,13 +1,13 @@
 {
   "POLEMICO$ INDUSTRI$": {
-    "idNumerico": null,
+    "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
   "RICO LOUCO": {
-    "idNumerico": null,
+    "idNumerico": "11",
     "nome": "rico louco",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -49,14 +49,14 @@
     "cofreConsertado": false
   },
   "FAZENDINHA DO FIRE": {
-    "idNumerico": null,
+    "idNumerico": "12",
     "nome": "Fazendinha Do Fire",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
   "RANCHO DO DOUTOR": {
-    "idNumerico": null,
+    "idNumerico": "14",
     "nome": "Rancho do Doutor",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -86,8 +86,8 @@
   "LEK0ZIKA": {
     "idNumerico": null,
     "nome": "Lek0zika",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:03|03/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FAZENDINHA DO IGEZE": {
@@ -98,7 +98,7 @@
     "cofreConsertado": false
   },
   "FAMILIA KUSH": {
-    "idNumerico": null,
+    "idNumerico": "34",
     "nome": "Familia KuSh",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -109,7 +109,7 @@
     "nome": "Borrachas Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:51|03/07/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
@@ -147,7 +147,7 @@
     "cofreConsertado": false
   },
   "BEE": {
-    "idNumerico": null,
+    "idNumerico": "7",
     "nome": "BEE",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -161,24 +161,24 @@
     "cofreConsertado": false
   },
   "HWD INVESTIMENTOS": {
-    "idNumerico": null,
+    "idNumerico": "27",
     "nome": "hwd investimentos",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
   "MONOPOLIO FARMS": {
-    "idNumerico": null,
+    "idNumerico": "20",
     "nome": "Monopolio Farms",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
   "AZEROX": {
-    "idNumerico": null,
+    "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:48|03/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "ALCATRAZ INVESTIMENTOS LTDA": {
@@ -189,17 +189,17 @@
     "cofreConsertado": false
   },
   "FAZENDA PUTEIRO DO DEATH 4": {
-    "idNumerico": null,
+    "idNumerico": "31",
     "nome": "Fazenda puteiro do Death 4",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
   "PRESO NAO FOGE": {
-    "idNumerico": "15",
+    "idNumerico": null,
     "nome": "PRESO NAO FOGE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:33|03/07/2026",
     "cofreConsertado": false
   },
   "PEEEEERFEITO!!!": {

@@ -28,7 +28,7 @@
     "cofreConsertado": true
   },
   "FAZENDINHA BETREZE 2": {
-    "idNumerico": null,
+    "idNumerico": "38",
     "nome": "Fazendinha BeTreZe 2",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -154,10 +154,10 @@
     "cofreConsertado": false
   },
   "ARIANA_B13": {
-    "idNumerico": "10",
+    "idNumerico": null,
     "nome": "Ariana_B13",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:09|04/07/2026",
     "cofreConsertado": false
   },
   "FARME DO DRAKE": {
@@ -172,7 +172,7 @@
     "nome": "Dead (:",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:45|04/07/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "DONA SEM RAZAO": {
     "idNumerico": "26",

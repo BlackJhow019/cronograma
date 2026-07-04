@@ -8,12 +8,12 @@
     "roubadaEm": null
   },
   "JESUS EA SOLUCAO": {
-    "idNumerico": "0",
+    "idNumerico": null,
     "nome": "JESUS EA SOLUCAO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:12|04/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-07-04T20:12:20.506Z"
   },
   "AWAKE COMPANY": {
     "idNumerico": "13",
@@ -344,11 +344,11 @@
     "roubadaEm": null
   },
   "AMO A MAZZI": {
-    "idNumerico": null,
+    "idNumerico": "6",
     "nome": "Amo a Mazzi",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:09|04/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-04T20:09:35.214Z"
   },
   "YANINHA_ANTIFALSOS": {

@@ -24,7 +24,7 @@
     "idNumerico": null,
     "nome": "RocK Farm",
     "status": "INDISPONIVEL",
-    "disponivelEm": "23:52|03/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true
   },
   "FAZENDINHA BETREZE 2": {
@@ -205,8 +205,8 @@
   "QG FARM KHAOS": {
     "idNumerico": null,
     "nome": "QG FARM KHAOS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:05|04/07/2026",
     "cofreConsertado": false
   },
   "RAMONZIN_FRANCA": {
@@ -315,7 +315,7 @@
     "cofreConsertado": true
   },
   "LOKO": {
-    "idNumerico": null,
+    "idNumerico": "12",
     "nome": "loko",
     "status": "DISPONIVEL",
     "disponivelEm": null,

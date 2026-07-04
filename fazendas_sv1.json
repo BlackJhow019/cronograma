@@ -1,11 +1,11 @@
 {
   "POLEMICO$ INDUSTRI$": {
-    "idNumerico": "37",
+    "idNumerico": null,
     "nome": "PoLeMiCo$ industri$",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:26|04/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-07-04T17:26:50.956Z"
   },
   "RICO LOUCO": {
     "idNumerico": "11",
@@ -248,7 +248,7 @@
     "roubadaEm": null
   },
   "U$METRALHA FARM'S": {
-    "idNumerico": null,
+    "idNumerico": "29",
     "nome": "u$MeTraLha farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:23|04/07/2026",

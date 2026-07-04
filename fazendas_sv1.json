@@ -16,12 +16,12 @@
     "roubadaEm": null
   },
   "021": {
-    "idNumerico": "1",
+    "idNumerico": null,
     "nome": "021",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:31|04/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-07-04T19:31:05.050Z"
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
@@ -72,7 +72,7 @@
     "roubadaEm": null
   },
   "RAFHA INVESTIMENTOS $": {
-    "idNumerico": null,
+    "idNumerico": "26",
     "nome": "Rafha investimentos $",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -88,11 +88,11 @@
     "roubadaEm": "2026-07-04T07:37:06.760Z"
   },
   "SAO PEDRO 2": {
-    "idNumerico": "43",
+    "idNumerico": null,
     "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:04|04/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-04T13:04:36.155Z"
   },
   "LEK0ZIKA": {
@@ -216,11 +216,11 @@
     "roubadaEm": null
   },
   "FAZENDA PUTEIRO DO DEATH 4": {
-    "idNumerico": "31",
+    "idNumerico": null,
     "nome": "Fazenda puteiro do Death 4",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:11|04/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-04T13:11:14.609Z"
   },
   "PRESO NAO FOGE": {
@@ -240,7 +240,7 @@
     "roubadaEm": null
   },
   "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": null,
+    "idNumerico": "38",
     "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:12|04/07/2026",
@@ -320,11 +320,11 @@
     "roubadaEm": null
   },
   "FAMILIA ALMANAK": {
-    "idNumerico": "32",
+    "idNumerico": null,
     "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:18|04/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-04T12:18:32.036Z"
   },
   "QUEM ROUBAR E PETISTA": {

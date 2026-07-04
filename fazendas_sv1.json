@@ -8,12 +8,12 @@
     "roubadaEm": "2026-07-04T17:26:50.956Z"
   },
   "RICO LOUCO": {
-    "idNumerico": "11",
+    "idNumerico": null,
     "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:36|04/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-07-04T20:36:18.815Z"
   },
   "021": {
     "idNumerico": "1",
@@ -144,11 +144,11 @@
     "roubadaEm": "2026-07-04T07:42:43.393Z"
   },
   "< GAUBRE LTDA >": {
-    "idNumerico": null,
+    "idNumerico": "2",
     "nome": "< GAUBRE LTDA >",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:26|04/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-04T20:26:03.408Z"
   },
   "VENDO 500KM ACEITO TROCAS": {

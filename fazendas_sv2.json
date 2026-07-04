@@ -182,11 +182,11 @@
     "cofreConsertado": false
   },
   "FAZENDA DO GALIN": {
-    "idNumerico": null,
+    "idNumerico": "15",
     "nome": "Fazenda do Galin",
     "status": "INDISPONIVEL",
     "disponivelEm": "11:21|04/07/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "~E V O M~": {
     "idNumerico": "25",
@@ -275,8 +275,8 @@
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": null,
     "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:31|04/07/2026",
     "cofreConsertado": false
   },
   "FAZENDA MAO DE VACA": {

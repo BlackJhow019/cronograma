@@ -8,11 +8,11 @@
     "roubadaEm": "2026-07-04T17:26:50.956Z"
   },
   "RICO LOUCO": {
-    "idNumerico": null,
+    "idNumerico": "11",
     "nome": "rico louco",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:36|04/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-04T20:36:18.815Z"
   },
   "021": {
@@ -184,12 +184,12 @@
     "roubadaEm": null
   },
   "HWD INVESTIMENTOS": {
-    "idNumerico": "27",
+    "idNumerico": null,
     "nome": "hwd investimentos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:16|05/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-07-04T22:16:17.584Z"
   },
   "MONOPOLIO FARMS": {
     "idNumerico": "20",
@@ -328,7 +328,7 @@
     "roubadaEm": "2026-07-04T12:18:32.036Z"
   },
   "QUEM ROUBAR E PETISTA": {
-    "idNumerico": null,
+    "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -336,7 +336,7 @@
     "roubadaEm": null
   },
   "NOREX FARM'S": {
-    "idNumerico": null,
+    "idNumerico": "13",
     "nome": "Norex farm's",
     "status": "DISPONIVEL",
     "disponivelEm": null,

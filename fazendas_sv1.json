@@ -39,7 +39,7 @@
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:09|04/07/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -63,17 +63,17 @@
     "cofreConsertado": false
   },
   "RAFHA INVESTIMENTOS $": {
-    "idNumerico": "26",
+    "idNumerico": null,
     "nome": "Rafha investimentos $",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:49|04/07/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "THUG LIFE": {
-    "idNumerico": "21",
+    "idNumerico": null,
     "nome": "THUG LIFE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:13|04/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "SAO PEDRO 2": {
@@ -84,17 +84,17 @@
     "cofreConsertado": true
   },
   "LEK0ZIKA": {
-    "idNumerico": "35",
+    "idNumerico": null,
     "nome": "Lek0zika",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:55|04/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FAZENDINHA DO IGEZE": {
-    "idNumerico": "36",
+    "idNumerico": null,
     "nome": "fazendinha do igeze",
     "status": "INDISPONIVEL",
-    "disponivelEm": "01:32|04/07/2026",
+    "disponivelEm": "08:04|04/07/2026",
     "cofreConsertado": false
   },
   "FAMILIA KUSH": {
@@ -105,10 +105,10 @@
     "cofreConsertado": false
   },
   "BORRACHAS FARM": {
-    "idNumerico": "33",
+    "idNumerico": null,
     "nome": "Borrachas Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:51|04/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "WESKER_U$METRALHA": {
@@ -119,10 +119,10 @@
     "cofreConsertado": false
   },
   "OS DE RACA": {
-    "idNumerico": "0",
+    "idNumerico": null,
     "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:34|04/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "< GAUBRE LTDA >": {
@@ -217,10 +217,10 @@
     "cofreConsertado": false
   },
   "U$METRALHA FARM'S": {
-    "idNumerico": "29",
+    "idNumerico": null,
     "nome": "u$MeTraLha farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:25|04/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "FARM'S DE CAFE": {
@@ -273,11 +273,11 @@
     "cofreConsertado": true
   },
   "BERNARDO FARM'S": {
-    "idNumerico": "16",
+    "idNumerico": null,
     "nome": "Bernardo Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:31|04/07/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",

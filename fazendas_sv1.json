@@ -40,11 +40,11 @@
     "roubadaEm": null
   },
   "GRUPO NEXUS": {
-    "idNumerico": "9",
+    "idNumerico": "39",
     "nome": "GRUPO NEXUS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:09|04/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": null
   },
   "NIKE SHOX": {
@@ -104,10 +104,10 @@
     "roubadaEm": null
   },
   "FAZENDINHA DO IGEZE": {
-    "idNumerico": "36",
+    "idNumerico": null,
     "nome": "fazendinha do igeze",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:04|04/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
   },
@@ -176,7 +176,7 @@
     "roubadaEm": null
   },
   "FAZENDA DA MILLY": {
-    "idNumerico": null,
+    "idNumerico": "19",
     "nome": "Fazenda da Milly",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -256,10 +256,10 @@
     "roubadaEm": null
   },
   "FARM'S DE CAFE": {
-    "idNumerico": "4",
+    "idNumerico": null,
     "nome": "Farm's de Cafe",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:33|04/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
   },
@@ -320,12 +320,12 @@
     "roubadaEm": null
   },
   "FAMILIA ALMANAK": {
-    "idNumerico": "32",
+    "idNumerico": null,
     "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:18|04/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-07-04T12:18:32.036Z"
   },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": null,

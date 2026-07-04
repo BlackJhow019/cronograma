@@ -96,10 +96,10 @@
     "roubadaEm": null
   },
   "B13 :)": {
-    "idNumerico": "23",
+    "idNumerico": null,
     "nome": "B13 :)",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:04|04/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
   },
@@ -354,10 +354,10 @@
   "YANINHA_ANTIFALSOS": {
     "idNumerico": null,
     "nome": "yAninha_AntiFalsos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:39|04/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-07-04T10:39:16.583Z"
   },
   "LOKO": {
     "idNumerico": "12",

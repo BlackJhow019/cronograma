@@ -16,12 +16,12 @@
     "roubadaEm": "2026-07-04T20:12:20.506Z"
   },
   "AWAKE COMPANY": {
-    "idNumerico": "13",
+    "idNumerico": null,
     "nome": "AwaKe Company",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:42|05/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-07-04T23:42:31.158Z"
   },
   "ROCK FARM": {
     "idNumerico": "11",
@@ -34,8 +34,8 @@
   "FAZENDINHA BETREZE 2": {
     "idNumerico": null,
     "nome": "Fazendinha BeTreZe 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:29|04/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-04T17:29:12.083Z"
   },
@@ -216,7 +216,7 @@
     "roubadaEm": null
   },
   "~E V O M~": {
-    "idNumerico": null,
+    "idNumerico": "25",
     "nome": "~E V O M~",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -268,7 +268,7 @@
     "nome": "FRANCA",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:34|05/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-04T22:34:23.003Z"
   },
   "CHAMA A POLICIA": {
@@ -352,7 +352,7 @@
     "roubadaEm": "2026-07-04T20:09:35.214Z"
   },
   "YANINHA_ANTIFALSOS": {
-    "idNumerico": null,
+    "idNumerico": "34",
     "nome": "yAninha_AntiFalsos",
     "status": "DISPONIVEL",
     "disponivelEm": null,

@@ -245,10 +245,10 @@
     "cofreConsertado": false
   },
   "AURA + EGO": {
-    "idNumerico": "22",
+    "idNumerico": null,
     "nome": "Aura + Ego",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:01|04/07/2026",
     "cofreConsertado": false
   },
   "SUCCUBUS FARMS": {
@@ -273,11 +273,11 @@
     "cofreConsertado": false
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
-    "idNumerico": null,
+    "idNumerico": "3",
     "nome": "$ Company $r.RC_PlinioDmG $",
     "status": "INDISPONIVEL",
     "disponivelEm": "11:31|04/07/2026",
-    "cofreConsertado": false
+    "cofreConsertado": true
   },
   "FAZENDA MAO DE VACA": {
     "idNumerico": null,

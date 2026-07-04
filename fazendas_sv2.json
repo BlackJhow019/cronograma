@@ -16,7 +16,7 @@
     "roubadaEm": null
   },
   "AWAKE COMPANY": {
-    "idNumerico": null,
+    "idNumerico": "13",
     "nome": "AwaKe Company",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -64,7 +64,7 @@
     "roubadaEm": null
   },
   "FARMA DA FAMILIA ELITE": {
-    "idNumerico": null,
+    "idNumerico": "33",
     "nome": "Farma Da Familia Elite",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -176,7 +176,7 @@
     "roubadaEm": null
   },
   "ARIANA_B13": {
-    "idNumerico": null,
+    "idNumerico": "10",
     "nome": "Ariana_B13",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -224,7 +224,7 @@
     "roubadaEm": null
   },
   "FARM'S NAY E NICK": {
-    "idNumerico": null,
+    "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -240,12 +240,12 @@
     "roubadaEm": null
   },
   "RAMONZIN_FRANCA": {
-    "idNumerico": "21",
+    "idNumerico": null,
     "nome": "RAMONZIN_FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:40|04/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-07-04T12:40:13.044Z"
   },
   "FARM DA THATY": {
     "idNumerico": "1",
@@ -264,7 +264,7 @@
     "roubadaEm": null
   },
   "FRANCA": {
-    "idNumerico": null,
+    "idNumerico": "28",
     "nome": "FRANCA",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -352,7 +352,7 @@
     "roubadaEm": null
   },
   "YANINHA_ANTIFALSOS": {
-    "idNumerico": null,
+    "idNumerico": "34",
     "nome": "yAninha_AntiFalsos",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:39|04/07/2026",

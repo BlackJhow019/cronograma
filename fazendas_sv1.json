@@ -42,10 +42,10 @@
   "GRUPO NEXUS": {
     "idNumerico": null,
     "nome": "GRUPO NEXUS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:53|04/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-04T13:37:50.133Z"
+    "roubadaEm": "2026-07-04T19:53:53.448Z"
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -120,7 +120,7 @@
     "roubadaEm": null
   },
   "BORRACHAS FARM": {
-    "idNumerico": null,
+    "idNumerico": "33",
     "nome": "Borrachas Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:52|04/07/2026",

@@ -17,7 +17,7 @@
     "idNumerico": "1",
     "nome": "021",
     "status": "INDISPONIVEL",
-    "disponivelEm": "00:47|04/07/2026",
+    "disponivelEm": "06:05|04/07/2026",
     "cofreConsertado": true
   },
   "PREFEITO ROADBLOCK": {
@@ -38,7 +38,7 @@
     "idNumerico": "9",
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
-    "disponivelEm": "01:54|04/07/2026",
+    "disponivelEm": "06:09|04/07/2026",
     "cofreConsertado": true
   },
   "NIKE SHOX": {
@@ -77,11 +77,11 @@
     "cofreConsertado": false
   },
   "SAO PEDRO 2": {
-    "idNumerico": null,
+    "idNumerico": "43",
     "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
-    "disponivelEm": "06:03|04/07/2026",
-    "cofreConsertado": false
+    "disponivelEm": "06:08|04/07/2026",
+    "cofreConsertado": true
   },
   "LEK0ZIKA": {
     "idNumerico": "35",
@@ -126,7 +126,7 @@
     "cofreConsertado": false
   },
   "< GAUBRE LTDA >": {
-    "idNumerico": null,
+    "idNumerico": "2",
     "nome": "< GAUBRE LTDA >",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -203,7 +203,7 @@
     "cofreConsertado": true
   },
   "PEEEEERFEITO!!!": {
-    "idNumerico": null,
+    "idNumerico": "10",
     "nome": "Peeeeerfeito!!!",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -224,28 +224,28 @@
     "cofreConsertado": false
   },
   "FARM'S DE CAFE": {
-    "idNumerico": null,
+    "idNumerico": "4",
     "nome": "Farm's de Cafe",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:33|04/07/2026",
     "cofreConsertado": false
   },
   "K1NG FARM'S": {
-    "idNumerico": null,
+    "idNumerico": "25",
     "nome": "K1NG Farm's",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
   "FAZENDA ROTA DO CAFÉ": {
-    "idNumerico": null,
+    "idNumerico": "17",
     "nome": "Fazenda Rota do Café",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false
   },
   "VAQUEIRO FARM´S": {
-    "idNumerico": null,
+    "idNumerico": "18",
     "nome": "Vaqueiro Farm´s",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -294,7 +294,7 @@
     "cofreConsertado": false
   },
   "NOREX FARM'S": {
-    "idNumerico": null,
+    "idNumerico": "13",
     "nome": "Norex farm's",
     "status": "DISPONIVEL",
     "disponivelEm": null,

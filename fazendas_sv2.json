@@ -14,10 +14,10 @@
     "cofreConsertado": false
   },
   "AWAKE COMPANY": {
-    "idNumerico": null,
+    "idNumerico": "13",
     "nome": "AwaKe Company",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:41|04/07/2026",
     "cofreConsertado": false
   },
   "ROCK FARM": {
@@ -49,17 +49,17 @@
     "cofreConsertado": false
   },
   "LA FAMILIA CHIARADIA": {
-    "idNumerico": null,
+    "idNumerico": "43",
     "nome": "LA FAMILIA CHIARADIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:38|04/07/2026",
     "cofreConsertado": false
   },
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
     "nome": "Farma Da Familia Elite",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:30|04/07/2026",
     "cofreConsertado": false
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {
@@ -93,9 +93,9 @@
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:52|04/07/2026",
+    "cofreConsertado": true
   },
   "FARM DO GALO": {
     "idNumerico": null,
@@ -107,9 +107,9 @@
   "MALVADA'S FARM": {
     "idNumerico": "32",
     "nome": "Malvada's Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:25|04/07/2026",
+    "cofreConsertado": true
   },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
@@ -170,8 +170,8 @@
   "DEAD (:": {
     "idNumerico": "27",
     "nome": "Dead (:",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:45|04/07/2026",
     "cofreConsertado": false
   },
   "DONA SEM RAZAO": {
@@ -184,8 +184,8 @@
   "FAZENDA DO GALIN": {
     "idNumerico": "15",
     "nome": "Fazenda do Galin",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:29|04/07/2026",
     "cofreConsertado": false
   },
   "~E V O M~": {
@@ -198,8 +198,8 @@
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:16|04/07/2026",
     "cofreConsertado": false
   },
   "QG FARM KHAOS": {
@@ -226,12 +226,12 @@
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:27|04/07/2026",
     "cofreConsertado": false
   },
   "FRANCA": {
-    "idNumerico": null,
+    "idNumerico": "28",
     "nome": "FRANCA",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:31|04/07/2026",
@@ -268,15 +268,15 @@
   "GRUPO RANTER": {
     "idNumerico": "19",
     "nome": "GRUPO RANTER",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:12|04/07/2026",
     "cofreConsertado": false
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",
     "nome": "$ Company $r.RC_PlinioDmG $",
     "status": "INDISPONIVEL",
-    "disponivelEm": "02:26|04/07/2026",
+    "disponivelEm": "02:28|04/07/2026",
     "cofreConsertado": true
   },
   "FAZENDA MAO DE VACA": {
@@ -289,9 +289,9 @@
   "/VENDERPRODUTOS": {
     "idNumerico": "7",
     "nome": "/VENDERPRODUTOS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:22|04/07/2026",
+    "cofreConsertado": true
   },
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",
@@ -301,17 +301,17 @@
     "cofreConsertado": false
   },
   "AMO A MAZZI": {
-    "idNumerico": null,
+    "idNumerico": "6",
     "nome": "Amo a Mazzi",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:26|04/07/2026",
     "cofreConsertado": false
   },
   "YANINHA_ANTIFALSOS": {
-    "idNumerico": null,
+    "idNumerico": "34",
     "nome": "yAninha_AntiFalsos",
     "status": "INDISPONIVEL",
-    "disponivelEm": "02:22|04/07/2026",
+    "disponivelEm": "02:23|04/07/2026",
     "cofreConsertado": true
   },
   "LOKO": {
@@ -319,6 +319,13 @@
     "nome": "loko",
     "status": "DISPONIVEL",
     "disponivelEm": null,
+    "cofreConsertado": false
+  },
+  "ROLINHA CANSADA FARMS": {
+    "idNumerico": "14",
+    "nome": "Rolinha Cansada Farms",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:34|04/07/2026",
     "cofreConsertado": false
   }
 }

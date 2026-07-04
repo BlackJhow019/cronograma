@@ -56,12 +56,12 @@
     "roubadaEm": null
   },
   "FAZENDINHA DO FIRE": {
-    "idNumerico": "12",
+    "idNumerico": null,
     "nome": "Fazendinha Do Fire",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:24|05/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-07-04T22:24:32.835Z"
   },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",

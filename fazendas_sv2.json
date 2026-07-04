@@ -23,9 +23,9 @@
   "ROCK FARM": {
     "idNumerico": null,
     "nome": "RocK Farm",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true
+    "cofreConsertado": false
   },
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",
@@ -86,8 +86,8 @@
   "B13 :)": {
     "idNumerico": "23",
     "nome": "B13 :)",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:04|04/07/2026",
     "cofreConsertado": false
   },
   "FAZENDA DO MIRIM": {

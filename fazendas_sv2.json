@@ -144,11 +144,11 @@
     "roubadaEm": null
   },
   "FARMS DE GALOPISITAS": {
-    "idNumerico": null,
+    "idNumerico": "20",
     "nome": "Farms de Galopisitas",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:34|04/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-04T20:34:03.656Z"
   },
   "CANNABIS": {
@@ -218,8 +218,8 @@
   "~E V O M~": {
     "idNumerico": null,
     "nome": "~E V O M~",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:19|04/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-04T16:19:44.737Z"
   },
@@ -264,12 +264,12 @@
     "roubadaEm": "2026-07-04T20:06:37.061Z"
   },
   "FRANCA": {
-    "idNumerico": "28",
+    "idNumerico": null,
     "nome": "FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:34|05/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-07-04T22:34:23.003Z"
   },
   "CHAMA A POLICIA": {
     "idNumerico": "44",

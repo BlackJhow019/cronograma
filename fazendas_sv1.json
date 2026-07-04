@@ -40,12 +40,12 @@
     "roubadaEm": null
   },
   "GRUPO NEXUS": {
-    "idNumerico": "39",
+    "idNumerico": null,
     "nome": "GRUPO NEXUS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:37|04/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-07-04T13:37:50.133Z"
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -83,7 +83,7 @@
     "idNumerico": "21",
     "nome": "THUG LIFE",
     "status": "INDISPONIVEL",
-    "disponivelEm": "10:37|04/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-04T07:37:06.760Z"
   },
@@ -336,7 +336,7 @@
     "roubadaEm": null
   },
   "NOREX FARM'S": {
-    "idNumerico": null,
+    "idNumerico": "13",
     "nome": "Norex farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:36|04/07/2026",

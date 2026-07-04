@@ -314,10 +314,10 @@
   "BERNARDO FARM'S": {
     "idNumerico": null,
     "nome": "Bernardo Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:33|05/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-07-04T22:33:50.634Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": null,

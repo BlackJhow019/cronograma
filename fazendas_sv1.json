@@ -128,11 +128,11 @@
     "roubadaEm": null
   },
   "WESKER_U$METRALHA": {
-    "idNumerico": "28",
+    "idNumerico": null,
     "nome": "Wesker_u$MeTraLha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:33|04/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-04T07:33:50.760Z"
   },
   "OS DE RACA": {
@@ -216,11 +216,11 @@
     "roubadaEm": null
   },
   "FAZENDA PUTEIRO DO DEATH 4": {
-    "idNumerico": null,
+    "idNumerico": "31",
     "nome": "Fazenda puteiro do Death 4",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:11|04/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-04T13:11:14.609Z"
   },
   "PRESO NAO FOGE": {
@@ -304,7 +304,7 @@
     "roubadaEm": null
   },
   "DM2 FARM": {
-    "idNumerico": null,
+    "idNumerico": "6",
     "nome": "Dm2 Farm",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -336,12 +336,12 @@
     "roubadaEm": null
   },
   "NOREX FARM'S": {
-    "idNumerico": "13",
+    "idNumerico": null,
     "nome": "Norex farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:36|04/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-07-04T13:36:20.104Z"
   },
   "VC É A PIADA AQUI": {
     "idNumerico": "10",

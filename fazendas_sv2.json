@@ -24,7 +24,7 @@
     "roubadaEm": null
   },
   "ROCK FARM": {
-    "idNumerico": null,
+    "idNumerico": "11",
     "nome": "RocK Farm",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -32,12 +32,12 @@
     "roubadaEm": null
   },
   "FAZENDINHA BETREZE 2": {
-    "idNumerico": "38",
+    "idNumerico": null,
     "nome": "Fazendinha BeTreZe 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:29|04/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-07-04T17:29:12.083Z"
   },
   "EVENTO": {
     "idNumerico": "42",
@@ -352,10 +352,10 @@
     "roubadaEm": null
   },
   "YANINHA_ANTIFALSOS": {
-    "idNumerico": "34",
+    "idNumerico": null,
     "nome": "yAninha_AntiFalsos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:39|04/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-04T10:39:16.583Z"
   },

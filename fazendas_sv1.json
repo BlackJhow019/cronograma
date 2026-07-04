@@ -120,12 +120,12 @@
     "roubadaEm": null
   },
   "BORRACHAS FARM": {
-    "idNumerico": "33",
+    "idNumerico": null,
     "nome": "Borrachas Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:52|04/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-07-04T19:52:18.246Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": null,
@@ -304,11 +304,11 @@
     "roubadaEm": null
   },
   "DM2 FARM": {
-    "idNumerico": null,
+    "idNumerico": "6",
     "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:46|04/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-04T19:46:03.321Z"
   },
   "BERNARDO FARM'S": {

@@ -104,11 +104,11 @@
     "roubadaEm": null
   },
   "FAZENDA DO MIRIM": {
-    "idNumerico": null,
+    "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:26|04/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-04T19:26:42.755Z"
   },
   "FARM DO GALO": {
@@ -256,12 +256,12 @@
     "roubadaEm": null
   },
   "FARM DO SAPATO": {
-    "idNumerico": "9",
+    "idNumerico": null,
     "nome": "FARM DO SAPATO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:06|04/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-07-04T20:06:37.061Z"
   },
   "FRANCA": {
     "idNumerico": "28",

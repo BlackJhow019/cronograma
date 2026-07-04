@@ -1,10 +1,10 @@
 {
   "POLEMICO$ INDUSTRI$": {
-    "idNumerico": null,
+    "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:26|04/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-04T17:26:50.956Z"
   },
   "RICO LOUCO": {
@@ -136,7 +136,7 @@
     "roubadaEm": "2026-07-04T07:33:50.760Z"
   },
   "OS DE RACA": {
-    "idNumerico": null,
+    "idNumerico": "0",
     "nome": "OS DE RACA",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -240,19 +240,19 @@
     "roubadaEm": null
   },
   "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": "38",
+    "idNumerico": null,
     "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:12|04/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-07-04T18:12:49.862Z"
   },
   "U$METRALHA FARM'S": {
     "idNumerico": "29",
     "nome": "u$MeTraLha farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:23|04/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-04T17:23:26.968Z"
   },
   "FARM'S DE CAFE": {

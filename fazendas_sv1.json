@@ -40,11 +40,11 @@
     "roubadaEm": null
   },
   "GRUPO NEXUS": {
-    "idNumerico": null,
+    "idNumerico": "9",
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:37|04/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-04T13:37:50.133Z"
   },
   "NIKE SHOX": {
@@ -80,11 +80,11 @@
     "roubadaEm": null
   },
   "THUG LIFE": {
-    "idNumerico": "21",
+    "idNumerico": null,
     "nome": "THUG LIFE",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-04T07:37:06.760Z"
   },
   "SAO PEDRO 2": {
@@ -96,7 +96,7 @@
     "roubadaEm": "2026-07-04T13:04:36.155Z"
   },
   "LEK0ZIKA": {
-    "idNumerico": null,
+    "idNumerico": "35",
     "nome": "Lek0zika",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -104,7 +104,7 @@
     "roubadaEm": null
   },
   "FAZENDINHA DO IGEZE": {
-    "idNumerico": null,
+    "idNumerico": "36",
     "nome": "fazendinha do igeze",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -136,11 +136,11 @@
     "roubadaEm": "2026-07-04T07:33:50.760Z"
   },
   "OS DE RACA": {
-    "idNumerico": "0",
+    "idNumerico": null,
     "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:42|04/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-04T07:42:43.393Z"
   },
   "< GAUBRE LTDA >": {
@@ -184,7 +184,7 @@
     "roubadaEm": null
   },
   "HWD INVESTIMENTOS": {
-    "idNumerico": null,
+    "idNumerico": "27",
     "nome": "hwd investimentos",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -248,12 +248,12 @@
     "roubadaEm": null
   },
   "U$METRALHA FARM'S": {
-    "idNumerico": "29",
+    "idNumerico": null,
     "nome": "u$MeTraLha farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:23|04/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-07-04T17:23:26.968Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": null,

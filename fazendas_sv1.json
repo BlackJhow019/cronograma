@@ -2,16 +2,16 @@
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:21|04/07/2026",
     "cofreConsertado": false
   },
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:58|04/07/2026",
+    "cofreConsertado": true
   },
   "021": {
     "idNumerico": "1",
@@ -45,7 +45,7 @@
     "idNumerico": "42",
     "nome": "NIKE SHOX",
     "status": "INDISPONIVEL",
-    "disponivelEm": "00:08|04/07/2026",
+    "disponivelEm": "05:19|04/07/2026",
     "cofreConsertado": false
   },
   "FAZENDINHA DO FIRE": {
@@ -56,11 +56,11 @@
     "cofreConsertado": false
   },
   "RANCHO DO DOUTOR": {
-    "idNumerico": null,
+    "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:48|03/07/2026",
-    "cofreConsertado": true
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false
   },
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
@@ -77,10 +77,10 @@
     "cofreConsertado": false
   },
   "SAO PEDRO 2": {
-    "idNumerico": "43",
+    "idNumerico": null,
     "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:03|04/07/2026",
     "cofreConsertado": false
   },
   "LEK0ZIKA": {
@@ -98,10 +98,10 @@
     "cofreConsertado": false
   },
   "FAMILIA KUSH": {
-    "idNumerico": null,
+    "idNumerico": "34",
     "nome": "Familia KuSh",
     "status": "INDISPONIVEL",
-    "disponivelEm": "23:07|03/07/2026",
+    "disponivelEm": "04:25|04/07/2026",
     "cofreConsertado": false
   },
   "BORRACHAS FARM": {
@@ -143,36 +143,36 @@
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
     "status": "INDISPONIVEL",
-    "disponivelEm": "23:45|03/07/2026",
-    "cofreConsertado": false
+    "disponivelEm": "05:58|04/07/2026",
+    "cofreConsertado": true
   },
   "BEE": {
     "idNumerico": "7",
     "nome": "BEE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:43|04/07/2026",
+    "cofreConsertado": true
   },
   "FAZENDA DA MILLY": {
-    "idNumerico": null,
+    "idNumerico": "19",
     "nome": "Fazenda da Milly",
     "status": "INDISPONIVEL",
-    "disponivelEm": "23:24|03/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
-    "disponivelEm": "23:28|03/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false
   },
   "MONOPOLIO FARMS": {
     "idNumerico": "20",
     "nome": "Monopolio Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:25|04/07/2026",
+    "cofreConsertado": true
   },
   "AZEROX": {
     "idNumerico": "23",
@@ -196,11 +196,11 @@
     "cofreConsertado": true
   },
   "PRESO NAO FOGE": {
-    "idNumerico": null,
+    "idNumerico": "15",
     "nome": "PRESO NAO FOGE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:57|04/07/2026",
+    "cofreConsertado": true
   },
   "PEEEEERFEITO!!!": {
     "idNumerico": null,

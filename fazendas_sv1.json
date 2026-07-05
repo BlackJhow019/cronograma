@@ -23,21 +23,13 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "GRUPO NEXUS": {
-    "idNumerico": "9",
-    "nome": "GRUPO NEXUS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:34|05/07/2026",
+  "KODIAK": {
+    "idNumerico": "3",
+    "nome": "KodiaK",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-05T06:34:46.648Z"
-  },
-  "NIKE SHOX": {
-    "idNumerico": "42",
-    "nome": "NIKE SHOX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:13|05/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-05T06:13:16.776Z"
+    "roubadaEm": "2026-07-04T23:53:18.872Z"
   },
   "FAZENDINHA DO FIRE": {
     "idNumerico": "12",
@@ -63,6 +55,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-04T07:37:06.760Z"
   },
+  "SAO PEDRO 2": {
+    "idNumerico": "43",
+    "nome": "SAO PEDRO 2",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-05T00:23:37.407Z"
+  },
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
@@ -78,6 +78,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
+  },
+  "FAMILIA KUSH": {
+    "idNumerico": "34",
+    "nome": "Familia KuSh",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-05T05:15:41.906Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -102,6 +110,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-05T04:00:51.694Z"
+  },
+  "VENDO 500KM ACEITO TROCAS": {
+    "idNumerico": "24",
+    "nome": "VENDO 500km ACEITO TROCAS",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-05T05:34:23.503Z"
   },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
@@ -134,14 +150,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
-  },
-  "AZEROX": {
-    "idNumerico": "23",
-    "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:58|05/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-05T06:58:29.682Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
@@ -183,14 +191,6 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "DM2 FARM": {
-    "idNumerico": "6",
-    "nome": "Dm2 Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:32|05/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-05T06:32:31.464Z"
-  },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
@@ -206,14 +206,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
-  },
-  "NOREX FARM'S": {
-    "idNumerico": "13",
-    "nome": "Norex farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:12|05/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-05T06:12:59.844Z"
   },
   "VC É A PIADA AQUI": {
     "idNumerico": "10",

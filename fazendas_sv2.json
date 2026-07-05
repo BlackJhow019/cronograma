@@ -47,6 +47,14 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
+  "FAZENDA DO TEMOR": {
+    "idNumerico": "30",
+    "nome": "Fazenda do Temor",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:59|05/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-05T09:59:51.349Z"
+  },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
     "nome": "LA FAMILIA CHIARADIA",
@@ -214,14 +222,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-04T22:34:23.003Z"
-  },
-  "SUCCUBUS FARMS": {
-    "idNumerico": "29",
-    "nome": "Succubus Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
   },
   "AMO A MAZZI": {
     "idNumerico": "6",

@@ -1,12 +1,4 @@
 {
-  "POLEMICO$ INDUSTRI$": {
-    "idNumerico": null,
-    "nome": "PoLeMiCo$ industri$",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-04T17:26:50.956Z"
-  },
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
@@ -19,9 +11,9 @@
     "idNumerico": "1",
     "nome": "021",
     "status": "INDISPONIVEL",
-    "disponivelEm": "22:31|04/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-04T19:31:05.050Z"
+    "disponivelEm": "03:40|05/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-05T00:40:20.384Z"
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
@@ -48,7 +40,7 @@
     "roubadaEm": "2026-07-04T19:53:53.448Z"
   },
   "NIKE SHOX": {
-    "idNumerico": null,
+    "idNumerico": "42",
     "nome": "NIKE SHOX",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:32|05/07/2026",
@@ -56,7 +48,7 @@
     "roubadaEm": "2026-07-04T23:32:59.967Z"
   },
   "FAZENDINHA DO FIRE": {
-    "idNumerico": null,
+    "idNumerico": "12",
     "nome": "Fazendinha Do Fire",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:24|05/07/2026",
@@ -88,12 +80,12 @@
     "roubadaEm": "2026-07-04T07:37:06.760Z"
   },
   "SAO PEDRO 2": {
-    "idNumerico": null,
+    "idNumerico": "43",
     "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:23|05/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-05T00:23:35.893Z"
+    "roubadaEm": "2026-07-05T00:23:37.407Z"
   },
   "LEK0ZIKA": {
     "idNumerico": "35",
@@ -126,14 +118,6 @@
     "disponivelEm": "22:52|04/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-04T19:52:18.246Z"
-  },
-  "WESKER_U$METRALHA": {
-    "idNumerico": null,
-    "nome": "Wesker_u$MeTraLha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-04T07:33:50.760Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",
@@ -168,7 +152,7 @@
     "roubadaEm": null
   },
   "BEE": {
-    "idNumerico": null,
+    "idNumerico": "7",
     "nome": "BEE",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:41|05/07/2026",
@@ -184,7 +168,7 @@
     "roubadaEm": null
   },
   "HWD INVESTIMENTOS": {
-    "idNumerico": null,
+    "idNumerico": "27",
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:16|05/07/2026",
@@ -202,14 +186,6 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "ALCATRAZ INVESTIMENTOS LTDA": {
-    "idNumerico": null,
-    "nome": "AlcatraZ Investimentos LTDA",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
@@ -240,28 +216,12 @@
     "roubadaEm": null
   },
   "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": null,
+    "idNumerico": "38",
     "nome": "Work Industria's Limited",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-04T18:12:49.862Z"
-  },
-  "U$METRALHA FARM'S": {
-    "idNumerico": null,
-    "nome": "u$MeTraLha farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-04T17:23:26.968Z"
-  },
-  "FARM'S DE CAFE": {
-    "idNumerico": null,
-    "nome": "Farm's de Cafe",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
   },
   "K1NG FARM'S": {
     "idNumerico": "25",
@@ -295,14 +255,6 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "XAUBLAU INVESTIMENTO LTDA": {
-    "idNumerico": null,
-    "nome": "XauBlau INVESTIMENTO LTDA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
@@ -312,7 +264,7 @@
     "roubadaEm": "2026-07-04T19:46:03.321Z"
   },
   "BERNARDO FARM'S": {
-    "idNumerico": null,
+    "idNumerico": "16",
     "nome": "Bernardo Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:33|05/07/2026",

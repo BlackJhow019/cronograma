@@ -23,6 +23,14 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
+  "NIKE SHOX": {
+    "idNumerico": "42",
+    "nome": "NIKE SHOX",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:13|05/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-05T06:13:16.776Z"
+  },
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
     "nome": "Rafha investimentos $",
@@ -38,14 +46,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-04T07:37:06.760Z"
-  },
-  "SAO PEDRO 2": {
-    "idNumerico": "43",
-    "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:23|05/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-05T00:23:37.407Z"
   },
   "LEK0ZIKA": {
     "idNumerico": "35",
@@ -212,7 +212,7 @@
     "nome": "Norex farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "09:12|05/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-05T06:12:59.844Z"
   },
   "VC É A PIADA AQUI": {

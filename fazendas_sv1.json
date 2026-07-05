@@ -32,7 +32,7 @@
     "roubadaEm": null
   },
   "KODIAK": {
-    "idNumerico": null,
+    "idNumerico": "3",
     "nome": "KodiaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:53|05/07/2026",
@@ -90,10 +90,10 @@
   "SAO PEDRO 2": {
     "idNumerico": null,
     "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:23|05/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-04T13:04:36.155Z"
+    "roubadaEm": "2026-07-05T00:23:35.893Z"
   },
   "LEK0ZIKA": {
     "idNumerico": "35",
@@ -216,7 +216,7 @@
     "roubadaEm": null
   },
   "FAZENDA PUTEIRO DO DEATH 4": {
-    "idNumerico": null,
+    "idNumerico": "31",
     "nome": "Fazenda puteiro do Death 4",
     "status": "DISPONIVEL",
     "disponivelEm": null,
@@ -240,10 +240,10 @@
     "roubadaEm": null
   },
   "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": "38",
+    "idNumerico": null,
     "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:12|04/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-04T18:12:49.862Z"
   },

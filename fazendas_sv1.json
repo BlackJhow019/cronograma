@@ -39,6 +39,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-05T06:13:16.776Z"
   },
+  "FAZENDINHA DO FIRE": {
+    "idNumerico": "12",
+    "nome": "Fazendinha Do Fire",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-04T22:24:32.835Z"
+  },
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
     "nome": "Rafha investimentos $",
@@ -79,6 +87,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-05T05:15:41.906Z"
   },
+  "BORRACHAS FARM": {
+    "idNumerico": "33",
+    "nome": "Borrachas Farm",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:14|05/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-05T07:14:58.106Z"
+  },
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
@@ -102,6 +118,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
+  },
+  "BEE": {
+    "idNumerico": "7",
+    "nome": "BEE",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-04T22:41:03.240Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
@@ -170,14 +194,6 @@
   "FAZENDA ROTA DO CAFÉ": {
     "idNumerico": "17",
     "nome": "Fazenda Rota do Café",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "VAQUEIRO FARM´S": {
-    "idNumerico": "18",
-    "nome": "Vaqueiro Farm´s",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,

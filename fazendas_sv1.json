@@ -74,10 +74,10 @@
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
     "nome": "Rafha investimentos $",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:55|06/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-07-05T22:55:55.369Z"
   },
   "THUG LIFE": {
     "idNumerico": "21",
@@ -231,21 +231,21 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-04T18:12:49.862Z"
   },
-  "U$METRALHA FARM'S": {
-    "idNumerico": "29",
-    "nome": "u$MeTraLha farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+  "FARM'S DE CAFE": {
+    "idNumerico": "4",
+    "nome": "Farm's de Cafe",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:59|06/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-05T16:02:28.182Z"
+    "roubadaEm": "2026-07-05T22:59:39.477Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",
     "nome": "K1NG Farm's",
     "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-05T16:41:26.016Z"
+    "disponivelEm": "02:02|06/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-05T23:02:33.997Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
     "idNumerico": "17",
@@ -322,9 +322,9 @@
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:25|06/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-05T22:25:46.337Z"
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-05T16:02:28.182Z"
   }
 }

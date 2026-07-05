@@ -2,10 +2,10 @@
   "999": {
     "idNumerico": "39",
     "nome": "999",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:12|06/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-05T02:32:16.770Z"
+    "roubadaEm": "2026-07-05T23:12:35.040Z"
   },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
@@ -110,6 +110,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
+  },
+  "YELLOWSTONE - BY MONSTER": {
+    "idNumerico": "16",
+    "nome": "YellowStone - By Monster",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:12|06/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-05T23:12:39.743Z"
   },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",

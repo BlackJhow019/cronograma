@@ -39,6 +39,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-04T17:29:12.083Z"
   },
+  "EVENTO": {
+    "idNumerico": "42",
+    "nome": "EVENTO",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:54|05/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-05T18:54:44.407Z"
+  },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
     "nome": "LA FAMILIA CHIARADIA",
@@ -63,14 +71,6 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "ELITE FARMS": {
-    "idNumerico": "17",
-    "nome": "Elite Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-04T18:37:30.799Z"
-  },
   "B13 :)": {
     "idNumerico": "23",
     "nome": "B13 :)",
@@ -78,6 +78,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
+  },
+  "FAZENDA DO MIRIM": {
+    "idNumerico": "36",
+    "nome": "Fazenda Do MIRIM",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-05T12:55:45.803Z"
   },
   "MALVADA'S FARM": {
     "idNumerico": "32",

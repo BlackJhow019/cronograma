@@ -55,6 +55,14 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
+  "SAO PEDRO 2": {
+    "idNumerico": "43",
+    "nome": "SAO PEDRO 2",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:53|05/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-05T17:53:52.934Z"
+  },
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
@@ -103,14 +111,6 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "BEE": {
-    "idNumerico": "7",
-    "nome": "BEE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-04T22:41:03.240Z"
-  },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
@@ -142,6 +142,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-05T06:58:29.682Z"
+  },
+  "PRESO NAO FOGE": {
+    "idNumerico": "15",
+    "nome": "PRESO NAO FOGE",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:10|05/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-05T12:10:45.826Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",

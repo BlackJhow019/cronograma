@@ -223,6 +223,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-05T18:09:46.837Z"
   },
+  "WORK INDUSTRIA'S LIMITED": {
+    "idNumerico": "38",
+    "nome": "Work Industria's Limited",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:11|06/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-05T23:11:01.410Z"
+  },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
@@ -235,9 +243,9 @@
     "idNumerico": "25",
     "nome": "K1NG Farm's",
     "status": "INDISPONIVEL",
-    "disponivelEm": "02:02|06/07/2026",
+    "disponivelEm": "02:04|06/07/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-07-05T23:02:33.997Z"
+    "roubadaEm": "2026-07-05T23:04:32.289Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
     "idNumerico": "17",
@@ -298,10 +306,10 @@
   "VC É A PIADA AQUI": {
     "idNumerico": "10",
     "nome": "Vc é a piada aqui",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:14|06/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-07-05T23:14:17.332Z"
   },
   "JAH RASTAFARI": {
     "idNumerico": "16",

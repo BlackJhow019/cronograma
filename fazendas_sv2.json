@@ -7,14 +7,6 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "JESUS EA SOLUCAO": {
-    "idNumerico": "0",
-    "nome": "JESUS EA SOLUCAO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:12|04/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-04T20:12:20.506Z"
-  },
   "AWAKE COMPANY": {
     "idNumerico": "13",
     "nome": "AwaKe Company",
@@ -30,6 +22,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
+  },
+  "FAZENDINHA BETREZE 2": {
+    "idNumerico": "38",
+    "nome": "Fazendinha BeTreZe 2",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-04T17:29:12.083Z"
   },
   "EVENTO": {
     "idNumerico": "42",
@@ -86,14 +86,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
-  },
-  "FAZENDA DO MIRIM": {
-    "idNumerico": "36",
-    "nome": "Fazenda Do MIRIM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:26|04/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-04T19:26:42.755Z"
   },
   "FARM DO GALO": {
     "idNumerico": "40",
@@ -167,6 +159,14 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
+  "DEAD (:": {
+    "idNumerico": "27",
+    "nome": "Dead (:",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:18|05/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-05T01:18:06.287Z"
+  },
   "DONA SEM RAZAO": {
     "idNumerico": "26",
     "nome": "Dona sem razao",
@@ -215,14 +215,6 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "FARM DO SAPATO": {
-    "idNumerico": "9",
-    "nome": "FARM DO SAPATO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:06|04/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-04T20:06:37.061Z"
-  },
   "CHAMA A POLICIA": {
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
@@ -239,6 +231,14 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
+  "/VENDERPRODUTOS": {
+    "idNumerico": "7",
+    "nome": "/VENDERPRODUTOS",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",
     "nome": "Fazenda Rei Drogado",
@@ -246,14 +246,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
-  },
-  "AMO A MAZZI": {
-    "idNumerico": "6",
-    "nome": "Amo a Mazzi",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:09|04/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-04T20:09:35.214Z"
   },
   "YANINHA_ANTIFALSOS": {
     "idNumerico": "34",

@@ -34,10 +34,10 @@
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",
     "nome": "Fazendinha BeTreZe 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-04T17:29:12.083Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:52|05/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-05T20:52:52.535Z"
   },
   "EVENTO": {
     "idNumerico": "42",
@@ -46,6 +46,14 @@
     "disponivelEm": "21:54|05/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-05T18:54:44.407Z"
+  },
+  "FAZENDA DO TEMOR": {
+    "idNumerico": "30",
+    "nome": "Fazenda do Temor",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-05T09:59:51.349Z"
   },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
@@ -70,6 +78,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
+  },
+  "ELITE FARMS": {
+    "idNumerico": "17",
+    "nome": "Elite Farms",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:40|05/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-05T20:40:14.364Z"
   },
   "B13 :)": {
     "idNumerico": "23",
@@ -130,10 +146,10 @@
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:52|05/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-05T20:52:50.215Z"
   },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
@@ -143,13 +159,21 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-05T00:17:31.088Z"
   },
+  "ARIANA_B13": {
+    "idNumerico": "10",
+    "nome": "Ariana_B13",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:06|06/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-05T22:06:40.707Z"
+  },
   "FARME DO DRAKE": {
     "idNumerico": "35",
     "nome": "Farme do Drake",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:12|06/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-07-05T21:12:38.678Z"
   },
   "DEAD (:": {
     "idNumerico": "27",
@@ -207,6 +231,14 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
+  "FARM DO SAPATO": {
+    "idNumerico": "9",
+    "nome": "FARM DO SAPATO",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:01|06/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-05T21:01:38.626Z"
+  },
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
@@ -222,6 +254,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-04T09:01:08.184Z"
+  },
+  "SUCCUBUS FARMS": {
+    "idNumerico": "29",
+    "nome": "Succubus Farms",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-05T15:39:24.459Z"
   },
   "AMO A MAZZI": {
     "idNumerico": "6",
@@ -242,9 +282,9 @@
   "LOKO": {
     "idNumerico": "12",
     "nome": "loko",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:04|06/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-07-05T21:04:52.997Z"
   }
 }

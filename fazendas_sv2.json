@@ -16,12 +16,12 @@
     "roubadaEm": "2026-07-04T20:12:20.506Z"
   },
   "AWAKE COMPANY": {
-    "idNumerico": null,
+    "idNumerico": "13",
     "nome": "AwaKe Company",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:42|05/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-04T23:42:31.158Z"
+    "roubadaEm": "2026-07-04T23:42:50.111Z"
   },
   "ROCK FARM": {
     "idNumerico": "11",
@@ -30,14 +30,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
-  },
-  "FAZENDINHA BETREZE 2": {
-    "idNumerico": null,
-    "nome": "Fazendinha BeTreZe 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-04T17:29:12.083Z"
   },
   "EVENTO": {
     "idNumerico": "42",
@@ -87,14 +79,6 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "ELITE FARMS": {
-    "idNumerico": null,
-    "nome": "Elite Farms",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:37|04/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-04T18:37:30.799Z"
-  },
   "B13 :)": {
     "idNumerico": "23",
     "nome": "B13 :)",
@@ -138,10 +122,10 @@
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
     "nome": "Vale das Sombras",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:32|05/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-04T23:32:58.001Z"
   },
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
@@ -150,14 +134,6 @@
     "disponivelEm": "23:34|04/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-04T20:34:03.656Z"
-  },
-  "CANNABIS": {
-    "idNumerico": null,
-    "nome": "CANNABIS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
   },
   "AMO O LOWER": {
     "idNumerico": "2",
@@ -170,10 +146,10 @@
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:17|05/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-05T00:17:31.088Z"
   },
   "ARIANA_B13": {
     "idNumerico": "10",
@@ -218,26 +194,18 @@
   "~E V O M~": {
     "idNumerico": "25",
     "nome": "~E V O M~",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:33|05/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-04T16:19:44.737Z"
+    "roubadaEm": "2026-07-04T23:33:33.161Z"
   },
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "QG FARM KHAOS": {
-    "idNumerico": null,
-    "nome": "QG FARM KHAOS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:15|05/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-05T00:15:30.715Z"
   },
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",
@@ -263,73 +231,17 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-04T20:06:37.061Z"
   },
-  "FRANCA": {
-    "idNumerico": null,
-    "nome": "FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:34|05/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-04T22:34:23.003Z"
-  },
   "CHAMA A POLICIA": {
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:14|05/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "AURA + EGO": {
-    "idNumerico": null,
-    "nome": "Aura + Ego",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-04T09:01:08.184Z"
+    "roubadaEm": "2026-07-05T00:14:36.253Z"
   },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",
     "nome": "Succubus Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "RICK FARM'S": {
-    "idNumerico": null,
-    "nome": "Rick Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "GRUPO RANTER": {
-    "idNumerico": null,
-    "nome": "GRUPO RANTER",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "$ COMPANY $R.RC_PLINIODMG $": {
-    "idNumerico": null,
-    "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "FAZENDA MAO DE VACA": {
-    "idNumerico": null,
-    "nome": "Fazenda Mao de Vaca",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "/VENDERPRODUTOS": {
-    "idNumerico": null,
-    "nome": "/VENDERPRODUTOS",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
@@ -354,22 +266,14 @@
   "YANINHA_ANTIFALSOS": {
     "idNumerico": "34",
     "nome": "yAninha_AntiFalsos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:02|05/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-04T10:39:16.583Z"
+    "roubadaEm": "2026-07-05T00:02:47.809Z"
   },
   "LOKO": {
     "idNumerico": "12",
     "nome": "loko",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "ROLINHA CANSADA FARMS": {
-    "idNumerico": null,
-    "nome": "Rolinha Cansada Farms",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,

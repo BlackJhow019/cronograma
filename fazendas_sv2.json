@@ -178,10 +178,10 @@
   "DEAD (:": {
     "idNumerico": "27",
     "nome": "Dead (:",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-05T01:18:06.287Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:17|06/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-05T22:17:58.344Z"
   },
   "DONA SEM RAZAO": {
     "idNumerico": "26",
@@ -250,10 +250,10 @@
   "AURA + EGO": {
     "idNumerico": "22",
     "nome": "Aura + Ego",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:25|06/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-04T09:01:08.184Z"
+    "roubadaEm": "2026-07-05T22:25:27.711Z"
   },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",

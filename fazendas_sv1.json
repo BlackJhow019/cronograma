@@ -26,18 +26,18 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:32|05/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-04T23:53:18.872Z"
+    "roubadaEm": "2026-07-05T19:32:02.509Z"
   },
   "GRUPO NEXUS": {
     "idNumerico": "9",
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:58|05/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-05T13:58:56.474Z"
+    "disponivelEm": "01:09|06/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-05T22:09:50.168Z"
   },
   "FAZENDINHA DO FIRE": {
     "idNumerico": "12",
@@ -55,21 +55,37 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
+  "THUG LIFE": {
+    "idNumerico": "21",
+    "nome": "THUG LIFE",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:46|05/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-05T20:46:03.541Z"
+  },
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
-    "disponivelEm": "20:53|05/07/2026",
+    "disponivelEm": "21:02|05/07/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-07-05T17:53:52.934Z"
+    "roubadaEm": "2026-07-05T18:02:08.245Z"
   },
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:11|05/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-07-05T19:11:30.643Z"
+  },
+  "FAZENDINHA DO IGEZE": {
+    "idNumerico": "36",
+    "nome": "fazendinha do igeze",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:29|05/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-05T19:29:07.397Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
@@ -106,10 +122,18 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:57|05/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-07-05T18:57:03.877Z"
+  },
+  "BEE": {
+    "idNumerico": "7",
+    "nome": "BEE",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:18|05/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-05T18:18:05.566Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
@@ -130,26 +154,34 @@
   "MONOPOLIO FARMS": {
     "idNumerico": "20",
     "nome": "Monopolio Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:35|05/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-07-05T19:35:34.367Z"
   },
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:21|05/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-05T06:58:29.682Z"
+    "roubadaEm": "2026-07-05T19:21:33.379Z"
+  },
+  "FAZENDA PUTEIRO DO DEATH 4": {
+    "idNumerico": "31",
+    "nome": "Fazenda puteiro do Death 4",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:12|05/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-05T20:12:57.914Z"
   },
   "PRESO NAO FOGE": {
     "idNumerico": "15",
     "nome": "PRESO NAO FOGE",
     "status": "INDISPONIVEL",
-    "disponivelEm": "15:10|05/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-05T12:10:45.826Z"
+    "disponivelEm": "21:09|05/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-05T18:09:46.837Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",

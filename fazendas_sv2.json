@@ -1,4 +1,12 @@
 {
+  "JESUS EA SOLUCAO": {
+    "idNumerico": "0",
+    "nome": "JESUS EA SOLUCAO",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-04T20:12:20.506Z"
+  },
   "AWAKE COMPANY": {
     "idNumerico": "13",
     "nome": "AwaKe Company",
@@ -31,17 +39,17 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
+  "FAZENDA DO TEMOR": {
+    "idNumerico": "30",
+    "nome": "Fazenda do Temor",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:55|05/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-05T02:55:59.241Z"
+  },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
     "nome": "LA FAMILIA CHIARADIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "FARMA DA FAMILIA ELITE": {
-    "idNumerico": "33",
-    "nome": "Farma Da Familia Elite",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
@@ -62,6 +70,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
+  },
+  "ELITE FARMS": {
+    "idNumerico": "17",
+    "nome": "Elite Farms",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-04T18:37:30.799Z"
   },
   "B13 :)": {
     "idNumerico": "23",
@@ -182,6 +198,14 @@
     "disponivelEm": "03:15|05/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-05T00:15:30.715Z"
+  },
+  "QG FARM KHAOS": {
+    "idNumerico": "18",
+    "nome": "QG FARM KHAOS",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
   },
   "FARM DA THATY": {
     "idNumerico": "1",

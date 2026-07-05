@@ -223,14 +223,6 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "/VENDERPRODUTOS": {
-    "idNumerico": "7",
-    "nome": "/VENDERPRODUTOS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
   "AMO A MAZZI": {
     "idNumerico": "6",
     "nome": "Amo a Mazzi",
@@ -238,6 +230,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-04T20:09:35.214Z"
+  },
+  "YANINHA_ANTIFALSOS": {
+    "idNumerico": "34",
+    "nome": "yAninha_AntiFalsos",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-05T00:02:47.809Z"
   },
   "LOKO": {
     "idNumerico": "12",

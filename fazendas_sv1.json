@@ -2,18 +2,18 @@
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:22|06/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-04T17:26:50.956Z"
+    "roubadaEm": "2026-07-05T22:22:55.114Z"
   },
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
     "status": "INDISPONIVEL",
-    "disponivelEm": "01:16|06/07/2026",
+    "disponivelEm": "01:25|06/07/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-07-05T22:16:31.885Z"
+    "roubadaEm": "2026-07-05T22:25:07.206Z"
   },
   "021": {
     "idNumerico": "1",
@@ -50,10 +50,10 @@
   "FAZENDINHA DO FIRE": {
     "idNumerico": "12",
     "nome": "Fazendinha Do Fire",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:25|06/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-04T22:24:32.835Z"
+    "roubadaEm": "2026-07-05T22:25:38.786Z"
   },
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
@@ -262,5 +262,13 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-04T22:33:50.634Z"
+  },
+  "GRANJA DO IMONKEY": {
+    "idNumerico": "29",
+    "nome": "Granja do iMonKeY",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:25|06/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-05T22:25:46.337Z"
   }
 }

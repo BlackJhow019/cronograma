@@ -10,8 +10,8 @@
   "021": {
     "idNumerico": "1",
     "nome": "021",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:40|05/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-05T00:40:20.384Z"
   },
@@ -22,6 +22,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
+  },
+  "GRUPO NEXUS": {
+    "idNumerico": "9",
+    "nome": "GRUPO NEXUS",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:34|05/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-05T06:34:46.648Z"
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -111,14 +119,6 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "AZEROX": {
-    "idNumerico": "23",
-    "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
   "FAZENDA PUTEIRO DO DEATH 4": {
     "idNumerico": "31",
     "nome": "Fazenda puteiro do Death 4",
@@ -142,14 +142,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-04T18:12:49.862Z"
-  },
-  "U$METRALHA FARM'S": {
-    "idNumerico": "29",
-    "nome": "u$MeTraLha farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:47|05/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-05T00:47:04.653Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",

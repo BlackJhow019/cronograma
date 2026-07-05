@@ -31,14 +31,6 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "FAZENDA DO TEMOR": {
-    "idNumerico": "30",
-    "nome": "Fazenda do Temor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
     "nome": "LA FAMILIA CHIARADIA",
@@ -110,6 +102,14 @@
     "disponivelEm": "02:32|05/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-04T23:32:58.001Z"
+  },
+  "FARMS DE GALOPISITAS": {
+    "idNumerico": "20",
+    "nome": "Farms de Galopisitas",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:48|05/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-05T02:48:09.271Z"
   },
   "AMO O LOWER": {
     "idNumerico": "2",

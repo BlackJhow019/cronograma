@@ -199,6 +199,14 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
+  "FARM'S NAY E NICK": {
+    "idNumerico": "5",
+    "nome": "FARM'S NAY E NICK",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-06T04:23:33.775Z"
+  },
   "QG FARM KHAOS": {
     "idNumerico": "18",
     "nome": "QG FARM KHAOS",
@@ -222,6 +230,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
+  },
+  "FARM DO SAPATO": {
+    "idNumerico": "9",
+    "nome": "FARM DO SAPATO",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:26|06/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-06T10:26:49.030Z"
   },
   "AURA + EGO": {
     "idNumerico": "22",
@@ -270,6 +286,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-05T21:04:52.997Z"
+  },
+  "FRANCA": {
+    "idNumerico": "28",
+    "nome": "FRANCA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:30|06/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-06T10:30:34.101Z"
   },
   "CHAMA A POLICIA": {
     "idNumerico": "44",

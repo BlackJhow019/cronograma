@@ -87,14 +87,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-05T20:46:03.541Z"
   },
-  "SAO PEDRO 2": {
-    "idNumerico": "43",
-    "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-06T01:53:42.413Z"
-  },
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
@@ -196,7 +188,7 @@
     "nome": "AzeRoX",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:19|06/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-06T12:19:51.129Z"
   },
   "FAZENDA PUTEIRO DO DEATH 4": {

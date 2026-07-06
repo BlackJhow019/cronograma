@@ -44,7 +44,7 @@
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:05|06/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-06T02:05:26.187Z"
   },
   "NIKE SHOX": {
@@ -82,8 +82,8 @@
   "THUG LIFE": {
     "idNumerico": "21",
     "nome": "THUG LIFE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:46|05/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-05T20:46:03.541Z"
   },

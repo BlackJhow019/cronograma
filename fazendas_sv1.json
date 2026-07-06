@@ -44,7 +44,7 @@
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:14|06/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-06T17:14:42.965Z"
   },
   "NIKE SHOX": {
@@ -183,14 +183,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-05T06:12:05.946Z"
   },
-  "MONOPOLIO FARMS": {
-    "idNumerico": "20",
-    "nome": "Monopolio Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-06T01:15:36.988Z"
-  },
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
@@ -262,6 +254,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-06T05:28:30.376Z"
+  },
+  "FAMILIA ALMANAK": {
+    "idNumerico": "32",
+    "nome": "Familia AlmanaK",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:52|06/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-06T18:52:50.567Z"
   },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",

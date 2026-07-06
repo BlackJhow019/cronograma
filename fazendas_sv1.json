@@ -7,6 +7,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-05T22:22:55.114Z"
   },
+  "RICO LOUCO": {
+    "idNumerico": "11",
+    "nome": "rico louco",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:45|06/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-06T04:45:28.658Z"
+  },
   "021": {
     "idNumerico": "1",
     "nome": "021",
@@ -130,8 +138,8 @@
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:46|06/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-05T22:46:51.097Z"
   },

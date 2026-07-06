@@ -199,6 +199,14 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
+  "FARM'S NAY E NICK": {
+    "idNumerico": "5",
+    "nome": "FARM'S NAY E NICK",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:23|06/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-06T04:23:33.775Z"
+  },
   "QG FARM KHAOS": {
     "idNumerico": "18",
     "nome": "QG FARM KHAOS",
@@ -234,8 +242,8 @@
   "AURA + EGO": {
     "idNumerico": "22",
     "nome": "Aura + Ego",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:25|06/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-05T22:25:27.711Z"
   },

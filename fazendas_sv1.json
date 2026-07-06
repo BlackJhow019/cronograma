@@ -18,10 +18,10 @@
   "021": {
     "idNumerico": "1",
     "nome": "021",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:13|06/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-05T17:21:01.830Z"
+    "roubadaEm": "2026-07-06T00:13:19.520Z"
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
@@ -114,10 +114,10 @@
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:23|06/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-05T05:15:41.906Z"
+    "roubadaEm": "2026-07-06T00:23:34.385Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -146,10 +146,10 @@
   "< GAUBRE LTDA >": {
     "idNumerico": "2",
     "nome": "< GAUBRE LTDA >",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:20|06/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-05T04:00:51.694Z"
+    "roubadaEm": "2026-07-06T00:20:53.978Z"
   },
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
@@ -167,21 +167,13 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-05T18:57:03.877Z"
   },
-  "BEE": {
-    "idNumerico": "7",
-    "nome": "BEE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:18|05/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-05T18:18:05.566Z"
-  },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:04|06/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-07-06T00:04:37.106Z"
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
@@ -214,14 +206,6 @@
     "disponivelEm": "23:12|05/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-05T20:12:57.914Z"
-  },
-  "PRESO NAO FOGE": {
-    "idNumerico": "15",
-    "nome": "PRESO NAO FOGE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:09|05/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-05T18:09:46.837Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
@@ -293,7 +277,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "03:02|06/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-06T00:02:39.070Z"
+    "roubadaEm": "2026-07-06T00:02:43.680Z"
   },
   "NOREX FARM'S": {
     "idNumerico": "13",
@@ -326,5 +310,13 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-05T16:02:28.182Z"
+  },
+  "BEE": {
+    "idNumerico": "7",
+    "nome": "BEE",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:23|06/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-06T00:23:27.549Z"
   }
 }

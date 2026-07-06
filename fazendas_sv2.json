@@ -87,6 +87,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-06T02:05:09.970Z"
   },
+  "B13 :)": {
+    "idNumerico": "23",
+    "nome": "B13 :)",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:40|06/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-06T05:40:27.182Z"
+  },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
@@ -302,5 +310,13 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
+  },
+  "FARM DO GALO": {
+    "idNumerico": "40",
+    "nome": "FARM DO GALO",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:45|06/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-06T05:45:34.511Z"
   }
 }

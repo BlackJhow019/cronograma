@@ -7,6 +7,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-05T23:18:49.230Z"
   },
+  "JESUS EA SOLUCAO": {
+    "idNumerico": "0",
+    "nome": "JESUS EA SOLUCAO",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:21|06/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-06T00:21:11.789Z"
+  },
   "AWAKE COMPANY": {
     "idNumerico": "13",
     "nome": "AwaKe Company",
@@ -101,7 +109,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "03:17|06/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-06T00:17:05.268Z"
+    "roubadaEm": "2026-07-06T00:17:09.779Z"
   },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
@@ -266,10 +274,10 @@
   "YANINHA_ANTIFALSOS": {
     "idNumerico": "34",
     "nome": "yAninha_AntiFalsos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-05T00:02:47.809Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:22|06/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-06T00:22:29.410Z"
   },
   "LOKO": {
     "idNumerico": "12",
@@ -278,5 +286,13 @@
     "disponivelEm": "00:04|06/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-05T21:04:52.997Z"
+  },
+  "FRANCA": {
+    "idNumerico": "28",
+    "nome": "FRANCA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:10|06/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-06T00:10:08.614Z"
   }
 }

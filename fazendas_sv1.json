@@ -20,7 +20,7 @@
     "nome": "021",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:13|06/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-06T00:13:19.520Z"
   },
   "PREFEITO ROADBLOCK": {
@@ -162,8 +162,8 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:57|05/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-05T18:57:03.877Z"
   },
@@ -316,7 +316,7 @@
     "nome": "BEE",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:23|06/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-06T00:23:27.549Z"
   }
 }

@@ -39,14 +39,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-06T01:12:12.608Z"
   },
-  "GRUPO NEXUS": {
-    "idNumerico": "9",
-    "nome": "GRUPO NEXUS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:05|06/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-06T02:05:26.187Z"
-  },
   "NIKE SHOX": {
     "idNumerico": "42",
     "nome": "NIKE SHOX",
@@ -90,17 +82,17 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:53|06/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-06T01:53:42.413Z"
   },
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:58|06/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-06T01:58:00.624Z"
   },
   "FAZENDINHA DO IGEZE": {

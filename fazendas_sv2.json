@@ -36,7 +36,7 @@
     "nome": "Fazendinha BeTreZe 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:01|06/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-06T02:01:22.414Z"
   },
   "EVENTO": {
@@ -170,8 +170,8 @@
   "FARME DO DRAKE": {
     "idNumerico": "35",
     "nome": "Farme do Drake",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:12|06/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-05T21:12:38.678Z"
   },
@@ -234,9 +234,9 @@
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:01|06/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-05T21:01:38.626Z"
   },
   "AURA + EGO": {
@@ -282,8 +282,8 @@
   "LOKO": {
     "idNumerico": "12",
     "nome": "loko",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:04|06/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-05T21:04:52.997Z"
   },

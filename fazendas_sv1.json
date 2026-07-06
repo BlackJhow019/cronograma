@@ -90,9 +90,9 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-05T18:02:08.245Z"
   },
   "LEK0ZIKA": {
@@ -286,6 +286,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-04T12:18:32.036Z"
+  },
+  "QUEM ROUBAR E PETISTA": {
+    "idNumerico": "44",
+    "nome": "Quem Roubar e Petista",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:02|06/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-06T00:02:39.070Z"
   },
   "NOREX FARM'S": {
     "idNumerico": "13",

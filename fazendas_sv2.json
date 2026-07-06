@@ -170,18 +170,18 @@
   "DEAD (:": {
     "idNumerico": "27",
     "nome": "Dead (:",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-05T22:17:58.344Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:11|07/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-06T23:11:30.151Z"
   },
   "DONA SEM RAZAO": {
     "idNumerico": "26",
     "nome": "Dona sem razao",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:07|07/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-06T23:07:01.385Z"
   },
   "FAZENDA DO GALIN": {
     "idNumerico": "15",
@@ -267,9 +267,9 @@
     "idNumerico": "34",
     "nome": "yAninha_AntiFalsos",
     "status": "INDISPONIVEL",
-    "disponivelEm": "02:12|07/07/2026",
+    "disponivelEm": "02:13|07/07/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-07-06T23:12:03.053Z"
+    "roubadaEm": "2026-07-06T23:13:17.524Z"
   },
   "LOKO": {
     "idNumerico": "12",
@@ -342,5 +342,13 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
+  },
+  "ELITE FARMS": {
+    "idNumerico": "17",
+    "nome": "Elite Farms",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:24|07/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-06T23:24:34.576Z"
   }
 }

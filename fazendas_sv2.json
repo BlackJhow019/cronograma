@@ -50,9 +50,9 @@
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:49|06/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-05T22:49:48.419Z"
   },
   "LA FAMILIA CHIARADIA": {
@@ -258,9 +258,9 @@
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",
     "nome": "Fazenda Rei Drogado",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:45|06/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-05T22:45:37.911Z"
   },
   "AMO A MAZZI": {

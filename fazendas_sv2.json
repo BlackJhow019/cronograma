@@ -66,9 +66,9 @@
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
     "nome": "Farma Da Familia Elite",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:23|07/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-07T01:23:27.591Z"
   },
   "TA NO GRALI": {
@@ -110,6 +110,14 @@
     "disponivelEm": "06:16|07/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-07T03:16:57.618Z"
+  },
+  "VALE DAS SOMBRAS": {
+    "idNumerico": "24",
+    "nome": "Vale das Sombras",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:58|07/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-07T05:58:42.024Z"
   },
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
@@ -338,8 +346,8 @@
   "WELCOME > MELHOR FAZENDA DO BPS": {
     "idNumerico": "37",
     "nome": "WELCOME > MELHOR FAZENDA DO BPS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:20|07/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-07T01:20:02.416Z"
   }

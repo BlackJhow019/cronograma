@@ -23,6 +23,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-07T01:59:30.875Z"
   },
+  "KODIAK": {
+    "idNumerico": "3",
+    "nome": "KodiaK",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:22|07/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-07T02:22:05.531Z"
+  },
   "GRUPO NEXUS": {
     "idNumerico": "30",
     "nome": "GRUPO NEXUS",
@@ -30,6 +38,14 @@
     "disponivelEm": "04:58|07/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-07T01:58:05.036Z"
+  },
+  "NIKE SHOX": {
+    "idNumerico": "42",
+    "nome": "NIKE SHOX",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-06T20:11:30.697Z"
   },
   "FAZENDINHA DO FIRE": {
     "idNumerico": "12",
@@ -278,6 +294,14 @@
     "disponivelEm": "02:19|07/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-06T23:19:32.978Z"
+  },
+  "YT @GANDIA_RP": {
+    "idNumerico": "15",
+    "nome": "YT @GANDIA_RP",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-06T20:15:02.782Z"
   },
   "021": {
     "idNumerico": "1",

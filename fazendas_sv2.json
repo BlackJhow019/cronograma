@@ -107,9 +107,9 @@
     "idNumerico": "16",
     "nome": "YellowStone - By Monster",
     "status": "INDISPONIVEL",
-    "disponivelEm": "06:07|07/07/2026",
+    "disponivelEm": "06:16|07/07/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-07-07T03:07:52.459Z"
+    "roubadaEm": "2026-07-07T03:16:57.618Z"
   },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
@@ -146,10 +146,10 @@
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:26|07/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-05T00:17:31.088Z"
+    "roubadaEm": "2026-07-07T03:26:33.105Z"
   },
   "ARIANA_B13": {
     "idNumerico": "10",
@@ -318,6 +318,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
+  },
+  "ROLINHA CANSADA FARMS": {
+    "idNumerico": "14",
+    "nome": "Rolinha Cansada Farms",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:18|07/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-07T03:18:53.579Z"
   },
   "/VENDERPRODUTOS": {
     "idNumerico": "7",

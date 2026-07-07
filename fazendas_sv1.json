@@ -98,9 +98,9 @@
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
     "nome": "Wesker_u$MeTraLha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:45|07/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-07T00:45:52.792Z"
   },
   "OS DE RACA": {
@@ -286,6 +286,14 @@
     "disponivelEm": "07:16|07/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-07T04:16:29.273Z"
+  },
+  "YT @GANDIA_RP": {
+    "idNumerico": "15",
+    "nome": "YT @GANDIA_RP",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:10|07/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-07T06:10:59.259Z"
   },
   "021": {
     "idNumerico": "1",

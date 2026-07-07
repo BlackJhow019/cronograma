@@ -18,10 +18,10 @@
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:49|07/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-07-07T01:49:01.483Z"
   },
   "KODIAK": {
     "idNumerico": "3",
@@ -35,9 +35,9 @@
     "idNumerico": "30",
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
-    "disponivelEm": "01:20|07/07/2026",
+    "disponivelEm": "04:54|07/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-06T22:20:47.997Z"
+    "roubadaEm": "2026-07-07T01:54:07.583Z"
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -74,10 +74,10 @@
   "THUG LIFE": {
     "idNumerico": "21",
     "nome": "THUG LIFE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:42|07/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-05T20:46:03.541Z"
+    "roubadaEm": "2026-07-07T01:42:21.395Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -162,10 +162,10 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:45|07/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-06T00:04:37.106Z"
+    "roubadaEm": "2026-07-07T01:45:04.858Z"
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
@@ -205,7 +205,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "04:46|07/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-07T01:46:19.587Z"
+    "roubadaEm": "2026-07-07T01:46:19.492Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",

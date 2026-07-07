@@ -191,6 +191,14 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
+  "FARM'S NAY E NICK": {
+    "idNumerico": "5",
+    "nome": "FARM'S NAY E NICK",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:43|07/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-07T11:43:17.508Z"
+  },
   "QG FARM KHAOS": {
     "idNumerico": "18",
     "nome": "QG FARM KHAOS",
@@ -290,8 +298,8 @@
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",
     "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:45|07/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-07T05:45:11.452Z"
   },

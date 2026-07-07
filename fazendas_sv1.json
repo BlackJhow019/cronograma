@@ -1,12 +1,4 @@
 {
-  "POLEMICO$ INDUSTRI$": {
-    "idNumerico": "37",
-    "nome": "PoLeMiCo$ industri$",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:14|07/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-06T22:14:10.228Z"
-  },
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
@@ -291,9 +283,9 @@
     "idNumerico": "7",
     "nome": "BEE",
     "status": "INDISPONIVEL",
-    "disponivelEm": "02:19|07/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-06T23:19:32.978Z"
+    "disponivelEm": "07:16|07/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-07T04:16:29.273Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
@@ -322,6 +314,14 @@
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "POLEMICO$ INDUSTRI$": {
+    "idNumerico": "37",
+    "nome": "PoLeMiCo$ industri$",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,

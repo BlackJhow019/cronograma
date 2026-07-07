@@ -35,9 +35,9 @@
     "idNumerico": "30",
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
-    "disponivelEm": "04:58|07/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-07T01:58:05.036Z"
+    "disponivelEm": "06:19|07/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-07T03:19:43.484Z"
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -90,10 +90,10 @@
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:14|07/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-06T15:45:42.366Z"
+    "roubadaEm": "2026-07-07T03:14:29.596Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -138,10 +138,10 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:27|07/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-05T18:57:03.877Z"
+    "roubadaEm": "2026-07-07T03:27:02.899Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
@@ -246,6 +246,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-06T18:52:50.567Z"
+  },
+  "QUEM ROUBAR E PETISTA": {
+    "idNumerico": "44",
+    "nome": "Quem Roubar e Petista",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:13|07/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-07T03:13:41.069Z"
   },
   "NOREX FARM'S": {
     "idNumerico": "13",

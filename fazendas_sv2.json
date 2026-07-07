@@ -10,10 +10,10 @@
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:50|07/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-06T00:21:11.789Z"
+    "roubadaEm": "2026-07-07T01:50:19.428Z"
   },
   "AWAKE COMPANY": {
     "idNumerico": "13",
@@ -67,9 +67,9 @@
     "idNumerico": "33",
     "nome": "Farma Da Familia Elite",
     "status": "INDISPONIVEL",
-    "disponivelEm": "04:22|07/07/2026",
+    "disponivelEm": "04:23|07/07/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-07-07T01:22:15.076Z"
+    "roubadaEm": "2026-07-07T01:23:27.591Z"
   },
   "TA NO GRALI": {
     "idNumerico": "4",
@@ -130,10 +130,10 @@
   "CANNABIS": {
     "idNumerico": "8",
     "nome": "CANNABIS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:53|07/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-05T23:26:52.540Z"
+    "roubadaEm": "2026-07-07T01:53:08.105Z"
   },
   "AMO O LOWER": {
     "idNumerico": "2",
@@ -354,9 +354,9 @@
   "WELCOME > MELHOR FAZENDA DO BPS": {
     "idNumerico": "37",
     "nome": "WELCOME > MELHOR FAZENDA DO BPS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:20|07/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-07-07T01:20:02.416Z"
   }
 }

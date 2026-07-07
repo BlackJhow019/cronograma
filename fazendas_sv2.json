@@ -15,6 +15,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-07T15:41:10.573Z"
   },
+  "AWAKE COMPANY": {
+    "idNumerico": "13",
+    "nome": "AwaKe Company",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:51|08/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-07T21:51:47.712Z"
+  },
   "ROCK FARM": {
     "idNumerico": "11",
     "nome": "RocK Farm",
@@ -140,7 +148,7 @@
     "nome": "SE ROUBAR MORRE",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:18|07/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-07T16:18:01.763Z"
   },
   "ARIANA_B13": {
@@ -214,14 +222,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-07T13:32:15.561Z"
-  },
-  "FARM DO SAPATO": {
-    "idNumerico": "9",
-    "nome": "FARM DO SAPATO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-06T10:26:49.030Z"
   },
   "AURA + EGO": {
     "idNumerico": "22",

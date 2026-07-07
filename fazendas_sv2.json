@@ -159,6 +159,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-07T02:13:35.420Z"
   },
+  "FARME DO DRAKE": {
+    "idNumerico": "35",
+    "nome": "Farme do Drake",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-07T03:34:56.761Z"
+  },
   "DEAD (:": {
     "idNumerico": "27",
     "nome": "Dead (:",
@@ -186,8 +194,8 @@
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:40|07/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-07T03:40:32.994Z"
   },

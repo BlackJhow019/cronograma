@@ -178,8 +178,8 @@
   "MONOPOLIO FARMS": {
     "idNumerico": "20",
     "nome": "Monopolio Farms",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:48|06/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-06T19:48:53.605Z"
   },
@@ -198,6 +198,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-06T01:17:41.341Z"
+  },
+  "WORK INDUSTRIA'S LIMITED": {
+    "idNumerico": "38",
+    "nome": "Work Industria's Limited",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:46|07/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-07T01:46:19.587Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",

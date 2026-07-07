@@ -114,9 +114,9 @@
   "< GAUBRE LTDA >": {
     "idNumerico": "2",
     "nome": "< GAUBRE LTDA >",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:32|07/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-06T22:32:34.385Z"
   },
   "VENDO 500KM ACEITO TROCAS": {
@@ -284,7 +284,7 @@
     "nome": "BEE",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:16|07/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-07T04:16:29.273Z"
   },
   "YT @GANDIA_RP": {

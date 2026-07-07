@@ -19,9 +19,9 @@
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
     "status": "INDISPONIVEL",
-    "disponivelEm": "04:49|07/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-07T01:49:01.483Z"
+    "disponivelEm": "04:59|07/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-07T01:59:30.875Z"
   },
   "KODIAK": {
     "idNumerico": "3",
@@ -35,9 +35,9 @@
     "idNumerico": "30",
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
-    "disponivelEm": "04:54|07/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-07T01:54:07.583Z"
+    "disponivelEm": "04:58|07/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-07T01:58:05.036Z"
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -94,22 +94,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-06T15:45:42.366Z"
-  },
-  "FAZENDINHA DO IGEZE": {
-    "idNumerico": "36",
-    "nome": "fazendinha do igeze",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:59|06/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-06T19:59:28.009Z"
-  },
-  "FAMILIA KUSH": {
-    "idNumerico": "34",
-    "nome": "Familia KuSh",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:02|06/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-06T20:02:48.719Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -326,5 +310,21 @@
     "disponivelEm": "02:31|07/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-06T23:31:49.278Z"
+  },
+  "FAMILIA KUSH": {
+    "idNumerico": "34",
+    "nome": "Familia KuSh",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "FAZENDINHA DO IGEZE": {
+    "idNumerico": "36",
+    "nome": "fazendinha do igeze",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
   }
 }

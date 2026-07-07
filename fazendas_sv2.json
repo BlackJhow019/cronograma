@@ -50,8 +50,8 @@
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:39|06/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-06T20:39:17.406Z"
   },
@@ -270,6 +270,14 @@
     "disponivelEm": "02:13|07/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-06T23:13:17.524Z"
+  },
+  "LOKO": {
+    "idNumerico": "12",
+    "nome": "loko",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:16|07/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-07T02:16:45.432Z"
   },
   "FRANCA": {
     "idNumerico": "28",

@@ -130,8 +130,8 @@
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
     "nome": "VENDO 500km ACEITO TROCAS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:39|07/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-06T21:39:55.932Z"
   },
@@ -255,6 +255,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-07T03:13:41.069Z"
   },
+  "NOREX FARM'S": {
+    "idNumerico": "13",
+    "nome": "Norex farm's",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:37|07/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-07T03:37:15.252Z"
+  },
   "VC É A PIADA AQUI": {
     "idNumerico": "10",
     "nome": "Vc é a piada aqui",
@@ -274,8 +282,8 @@
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:43|07/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-06T21:43:42.122Z"
   },

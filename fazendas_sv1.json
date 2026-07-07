@@ -23,14 +23,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-07T14:41:57.402Z"
   },
-  "GRUPO NEXUS": {
-    "idNumerico": "22",
-    "nome": "GRUPO NEXUS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-07T10:00:36.586Z"
-  },
   "NIKE SHOX": {
     "idNumerico": "42",
     "nome": "NIKE SHOX",
@@ -318,5 +310,13 @@
     "disponivelEm": "17:16|07/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-07T14:16:40.600Z"
+  },
+  "POLEMICO$ INDUSTRI$": {
+    "idNumerico": "37",
+    "nome": "PoLeMiCo$ industri$",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:47|07/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-07T17:47:25.749Z"
   }
 }

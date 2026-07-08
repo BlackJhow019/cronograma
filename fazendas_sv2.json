@@ -74,10 +74,10 @@
   "TA NO GRALI": {
     "idNumerico": "4",
     "nome": "ta no grali",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-07T14:28:01.834Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:33|08/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-08T01:33:36.143Z"
   },
   "B13 :)": {
     "idNumerico": "23",
@@ -163,9 +163,9 @@
     "idNumerico": "35",
     "nome": "Farme do Drake",
     "status": "INDISPONIVEL",
-    "disponivelEm": "23:18|07/07/2026",
+    "disponivelEm": "04:37|08/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-07T20:18:25.040Z"
+    "roubadaEm": "2026-07-08T01:37:05.453Z"
   },
   "DEAD (:": {
     "idNumerico": "27",

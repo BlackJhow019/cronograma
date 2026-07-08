@@ -87,14 +87,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-08T01:33:29.204Z"
   },
-  "WESKER_U$METRALHA": {
-    "idNumerico": "28",
-    "nome": "Wesker_u$MeTraLha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-07T23:52:38.496Z"
-  },
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
@@ -154,8 +146,8 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:45|08/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-08T15:45:33.341Z"
   },
@@ -230,14 +222,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-06T22:38:08.736Z"
-  },
-  "JAH RASTAFARI": {
-    "idNumerico": "16",
-    "nome": "JAH RASTAFARI",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-08T12:10:01.233Z"
   },
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
@@ -342,5 +326,13 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
+  },
+  "JOGO DA COBRINHA": {
+    "idNumerico": "16",
+    "nome": "Jogo da cobrinha",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-08T12:10:01.233Z"
   }
 }

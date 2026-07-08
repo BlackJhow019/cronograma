@@ -23,14 +23,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-07T14:41:57.402Z"
   },
-  "GRUPO NEXUS": {
-    "idNumerico": "30",
-    "nome": "GRUPO NEXUS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:50|07/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-07T17:50:11.902Z"
-  },
   "NIKE SHOX": {
     "idNumerico": "42",
     "nome": "NIKE SHOX",
@@ -63,6 +55,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-06T23:54:32.546Z"
   },
+  "THUG LIFE": {
+    "idNumerico": "21",
+    "nome": "THUG LIFE",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:46|08/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-07T23:46:31.173Z"
+  },
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
@@ -90,10 +90,10 @@
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
     "nome": "Wesker_u$MeTraLha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:52|08/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-07T00:45:52.792Z"
+    "roubadaEm": "2026-07-07T23:52:38.496Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",
@@ -110,6 +110,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-06T22:32:34.385Z"
+  },
+  "VENDO 500KM ACEITO TROCAS": {
+    "idNumerico": "24",
+    "nome": "VENDO 500km ACEITO TROCAS",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:39|08/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-07T23:39:12.184Z"
   },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
@@ -146,10 +154,10 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-07T12:24:33.206Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:52|08/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-07T23:52:47.079Z"
   },
   "FAZENDA PUTEIRO DO DEATH 4": {
     "idNumerico": "31",
@@ -223,6 +231,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-06T18:52:50.567Z"
   },
+  "QUEM ROUBAR E PETISTA": {
+    "idNumerico": "44",
+    "nome": "Quem Roubar e Petista",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:45|08/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-07T23:45:40.833Z"
+  },
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
@@ -282,10 +298,10 @@
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:59|08/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-07T15:17:31.952Z"
+    "roubadaEm": "2026-07-07T23:59:29.097Z"
   },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
@@ -298,9 +314,17 @@
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:47|07/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-07T17:47:25.749Z"
+  },
+  "GRUPO NEXUS": {
+    "idNumerico": "30",
+    "nome": "GRUPO NEXUS",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:38|08/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-07T23:38:28.421Z"
   }
 }

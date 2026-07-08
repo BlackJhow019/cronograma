@@ -2,10 +2,10 @@
   "999": {
     "idNumerico": "39",
     "nome": "999",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-07T04:17:26.411Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:28|08/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-08T00:28:21.739Z"
   },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
@@ -123,9 +123,9 @@
     "idNumerico": "20",
     "nome": "Farms de Galopisitas",
     "status": "INDISPONIVEL",
-    "disponivelEm": "03:02|08/07/2026",
+    "disponivelEm": "03:05|08/07/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-07-08T00:02:54.661Z"
+    "roubadaEm": "2026-07-08T00:05:16.599Z"
   },
   "CANNABIS": {
     "idNumerico": "8",
@@ -261,15 +261,15 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "03:07|08/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-08T00:07:41.420Z"
+    "roubadaEm": "2026-07-08T00:07:41.328Z"
   },
   "LOKO": {
     "idNumerico": "12",
     "nome": "loko",
     "status": "INDISPONIVEL",
-    "disponivelEm": "02:59|08/07/2026",
+    "disponivelEm": "03:04|08/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-07T23:59:31.513Z"
+    "roubadaEm": "2026-07-08T00:04:46.362Z"
   },
   "FRANCA": {
     "idNumerico": "28",
@@ -342,5 +342,13 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-07T01:20:02.416Z"
+  },
+  "RAMONZIN_FRANCA": {
+    "idNumerico": "21",
+    "nome": "RAMONZIN_FRANCA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:22|08/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-08T00:22:40.254Z"
   }
 }

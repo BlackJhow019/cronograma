@@ -119,14 +119,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-07T23:39:12.184Z"
   },
-  "CLUBE DA LULUZINHA": {
-    "idNumerico": "8",
-    "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-08T06:08:45.822Z"
-  },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
@@ -230,6 +222,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-06T22:38:08.736Z"
+  },
+  "GRANJA DO IMONKEY": {
+    "idNumerico": "29",
+    "nome": "Granja do iMonKeY",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:42|09/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-08T22:42:33.381Z"
   },
   "BEE": {
     "idNumerico": "7",

@@ -15,14 +15,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-08T09:25:27.144Z"
   },
-  "AWAKE COMPANY": {
-    "idNumerico": "13",
-    "nome": "AwaKe Company",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:50|08/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-08T03:50:09.364Z"
-  },
   "ROCK FARM": {
     "idNumerico": "11",
     "nome": "RocK Farm",
@@ -146,9 +138,9 @@
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-08T03:36:42.000Z"
   },
   "ARIANA_B13": {

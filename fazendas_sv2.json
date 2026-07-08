@@ -199,14 +199,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-07T23:51:42.889Z"
   },
-  "QG FARM KHAOS": {
-    "idNumerico": "18",
-    "nome": "QG FARM KHAOS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:35|07/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-07T20:35:13.971Z"
-  },
   "FARM DA THATY": {
     "idNumerico": "1",
     "nome": "Farm da Thaty",
@@ -246,6 +238,14 @@
     "disponivelEm": "03:57|08/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-08T00:57:02.474Z"
+  },
+  "AMO A MAZZI": {
+    "idNumerico": "6",
+    "nome": "Amo a Mazzi",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:30|08/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-08T02:30:08.811Z"
   },
   "YANINHA_ANTIFALSOS": {
     "idNumerico": "34",
@@ -318,14 +318,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
-  },
-  "WELCOME > MELHOR FAZENDA DO BPS": {
-    "idNumerico": "37",
-    "nome": "WELCOME > MELHOR FAZENDA DO BPS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-07T01:20:02.416Z"
   },
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",

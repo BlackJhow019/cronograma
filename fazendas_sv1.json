@@ -143,14 +143,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-05T06:12:05.946Z"
   },
-  "MONOPOLIO FARMS": {
-    "idNumerico": "20",
-    "nome": "Monopolio Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-07T14:37:52.476Z"
-  },
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
@@ -326,5 +318,13 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
+  },
+  "LEILAO SHOX": {
+    "idNumerico": "22",
+    "nome": "LEILAO SHOX",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:25|08/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-08T02:25:09.873Z"
   }
 }

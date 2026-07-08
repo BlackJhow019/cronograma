@@ -170,10 +170,10 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:15|08/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-07T01:46:19.492Z"
+    "roubadaEm": "2026-07-08T01:15:58.405Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
@@ -267,9 +267,9 @@
     "idNumerico": "7",
     "nome": "BEE",
     "status": "INDISPONIVEL",
-    "disponivelEm": "04:04|08/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-08T01:04:18.303Z"
+    "disponivelEm": "04:07|08/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-08T01:07:37.410Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",

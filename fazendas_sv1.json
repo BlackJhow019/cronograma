@@ -151,22 +151,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-08T02:31:05.149Z"
   },
-  "AZEROX": {
-    "idNumerico": "23",
-    "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-07T23:52:47.079Z"
-  },
-  "FAZENDA PUTEIRO DO DEATH 4": {
-    "idNumerico": "31",
-    "nome": "Fazenda puteiro do Death 4",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-07T14:35:46.457Z"
-  },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
@@ -263,6 +247,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-07T13:18:40.263Z"
   },
+  "BEE": {
+    "idNumerico": "7",
+    "nome": "BEE",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:31|08/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-08T15:31:58.083Z"
+  },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
@@ -334,5 +326,13 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
+  },
+  ".": {
+    "idNumerico": "31",
+    "nome": ".",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-07T14:35:46.457Z"
   }
 }

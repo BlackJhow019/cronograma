@@ -63,6 +63,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-07T23:46:31.173Z"
   },
+  "SAO PEDRO 2": {
+    "idNumerico": "43",
+    "nome": "SAO PEDRO 2",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:08|08/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-08T12:08:26.405Z"
+  },
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
@@ -110,6 +118,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-07T23:39:12.184Z"
+  },
+  "CLUBE DA LULUZINHA": {
+    "idNumerico": "8",
+    "nome": "Clube da Luluzinha",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-08T06:08:45.822Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
@@ -230,6 +246,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-06T22:38:08.736Z"
+  },
+  "JAH RASTAFARI": {
+    "idNumerico": "16",
+    "nome": "JAH RASTAFARI",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:10|08/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-08T12:10:01.233Z"
   },
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",

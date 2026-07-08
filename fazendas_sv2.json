@@ -63,6 +63,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-08T01:28:04.874Z"
   },
+  "FARMA DA FAMILIA ELITE": {
+    "idNumerico": "33",
+    "nome": "Farma Da Familia Elite",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:24|08/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-08T16:24:29.472Z"
+  },
   "TA NO GRALI": {
     "idNumerico": "4",
     "nome": "ta no grali",
@@ -146,9 +154,9 @@
   "ARIANA_B13": {
     "idNumerico": "10",
     "nome": "Ariana_B13",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:32|08/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-08T10:32:05.588Z"
   },
   "FARME DO DRAKE": {

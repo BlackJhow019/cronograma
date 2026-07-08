@@ -122,9 +122,9 @@
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
     "nome": "Farms de Galopisitas",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:05|08/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-08T00:05:16.599Z"
   },
   "CANNABIS": {
@@ -191,6 +191,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-08T01:06:33.725Z"
   },
+  "FARM'S NAY E NICK": {
+    "idNumerico": "5",
+    "nome": "FARM'S NAY E NICK",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-07T23:51:42.889Z"
+  },
   "QG FARM KHAOS": {
     "idNumerico": "18",
     "nome": "QG FARM KHAOS",
@@ -247,19 +255,11 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-08T02:30:08.811Z"
   },
-  "YANINHA_ANTIFALSOS": {
-    "idNumerico": "34",
-    "nome": "yAninha_AntiFalsos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:07|08/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-08T00:07:41.328Z"
-  },
   "LOKO": {
     "idNumerico": "12",
     "nome": "loko",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:04|08/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-08T00:04:46.362Z"
   },
@@ -274,7 +274,7 @@
   "CHAMA A POLICIA": {
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-07T23:53:49.799Z"

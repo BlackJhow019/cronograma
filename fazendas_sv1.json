@@ -66,8 +66,8 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:08|08/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-08T12:08:26.405Z"
   },
@@ -242,9 +242,9 @@
   "JAH RASTAFARI": {
     "idNumerico": "16",
     "nome": "JAH RASTAFARI",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:10|08/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-08T12:10:01.233Z"
   },
   "GRANJA DO IMONKEY": {

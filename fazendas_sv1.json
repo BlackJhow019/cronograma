@@ -98,9 +98,9 @@
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:00|08/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-08T12:00:01.533Z"
   },
   "< GAUBRE LTDA >": {
@@ -150,6 +150,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-08T02:31:05.149Z"
+  },
+  "AZEROX": {
+    "idNumerico": "23",
+    "nome": "AzeRoX",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:45|08/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-08T15:45:33.341Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",

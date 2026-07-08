@@ -67,7 +67,7 @@
     "idNumerico": "33",
     "nome": "Farma Da Familia Elite",
     "status": "INDISPONIVEL",
-    "disponivelEm": "04:21|08/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-08T01:21:48.651Z"
   },
@@ -78,14 +78,6 @@
     "disponivelEm": "04:33|08/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-08T01:33:36.143Z"
-  },
-  "B13 :)": {
-    "idNumerico": "23",
-    "nome": "B13 :)",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:20|08/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-08T01:20:42.928Z"
   },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
@@ -138,8 +130,8 @@
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:17|08/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-08T01:17:29.348Z"
   },
@@ -186,9 +178,9 @@
   "FAZENDA DO GALIN": {
     "idNumerico": "15",
     "nome": "Fazenda do Galin",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-08T01:06:33.725Z"
   },
   "FARM'S NAY E NICK": {
@@ -290,8 +282,8 @@
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",
     "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:15|08/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-08T01:15:53.811Z"
   },
@@ -346,9 +338,9 @@
   "FARMS DO VILAO - PLANTACAO DE CANNABIS": {
     "idNumerico": "17",
     "nome": "FARMS DO VILAO - PLANTACAO DE CANNABIS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:18|08/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-08T01:18:29.248Z"
   }
 }

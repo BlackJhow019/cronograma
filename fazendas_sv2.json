@@ -103,6 +103,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-07T14:19:27.696Z"
   },
+  "YELLOWSTONE - BY MONSTER": {
+    "idNumerico": "16",
+    "nome": "YellowStone - By Monster",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:57|08/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-08T02:57:53.387Z"
+  },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
     "nome": "Vale das Sombras",
@@ -290,9 +298,9 @@
   "FARM DO GALO": {
     "idNumerico": "40",
     "nome": "FARM DO GALO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:32|08/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-07T21:32:29.257Z"
   },
   "GRUPO RANTER": {

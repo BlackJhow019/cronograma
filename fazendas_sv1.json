@@ -164,7 +164,7 @@
     "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:33|08/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-08T20:33:07.044Z"
   },
   "FARM'S DE CAFE": {
@@ -198,14 +198,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-05T10:37:09.872Z"
-  },
-  "DM2 FARM": {
-    "idNumerico": "6",
-    "nome": "Dm2 Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:10|08/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-08T15:10:55.361Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
@@ -252,7 +244,7 @@
     "nome": "BEE",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:31|08/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-08T15:31:58.083Z"
   },
   "YT @GANDIA_RP": {
@@ -295,14 +287,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-08T14:20:24.367Z"
   },
-  "NOREX FARM'S": {
-    "idNumerico": "13",
-    "nome": "Norex farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
   "LEILAO SHOX": {
     "idNumerico": "22",
     "nome": "LEILAO SHOX",
@@ -324,7 +308,7 @@
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:36|08/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-08T20:36:01.200Z"
   },
   ".": {

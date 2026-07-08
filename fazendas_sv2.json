@@ -194,10 +194,10 @@
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:51|08/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-07T11:43:17.508Z"
+    "roubadaEm": "2026-07-07T23:51:42.889Z"
   },
   "QG FARM KHAOS": {
     "idNumerico": "18",
@@ -263,6 +263,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-06T23:13:17.524Z"
   },
+  "LOKO": {
+    "idNumerico": "12",
+    "nome": "loko",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:59|08/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-07T23:59:31.513Z"
+  },
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
@@ -274,10 +282,10 @@
   "CHAMA A POLICIA": {
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:53|08/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-06T00:56:32.302Z"
+    "roubadaEm": "2026-07-07T23:53:49.799Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",

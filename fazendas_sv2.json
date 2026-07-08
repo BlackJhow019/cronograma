@@ -52,7 +52,7 @@
     "nome": "Fazenda do Temor",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:59|08/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-08T12:59:47.452Z"
   },
   "LA FAMILIA CHIARADIA": {
@@ -159,6 +159,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-08T10:32:05.588Z"
   },
+  "FARME DO DRAKE": {
+    "idNumerico": "35",
+    "nome": "Farme do Drake",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:52|08/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-08T17:52:36.067Z"
+  },
   "DEAD (:": {
     "idNumerico": "27",
     "nome": "Dead (:",
@@ -234,9 +242,9 @@
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",
     "nome": "Fazenda Rei Drogado",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:46|08/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-08T12:46:05.834Z"
   },
   "AMO A MAZZI": {

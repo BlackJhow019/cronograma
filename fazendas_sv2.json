@@ -103,14 +103,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-07T14:19:27.696Z"
   },
-  "YELLOWSTONE - BY MONSTER": {
-    "idNumerico": "16",
-    "nome": "YellowStone - By Monster",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-07T03:16:57.618Z"
-  },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
     "nome": "Vale das Sombras",
@@ -332,7 +324,7 @@
     "nome": "WELCOME > MELHOR FAZENDA DO BPS",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:46|08/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-08T02:46:12.745Z"
   },
   "RAMONZIN_FRANCA": {

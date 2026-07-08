@@ -90,9 +90,9 @@
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:55|08/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-08T00:55:58.064Z"
   },
   "MALVADA'S FARM": {
@@ -187,7 +187,7 @@
     "idNumerico": "15",
     "nome": "Fazenda do Galin",
     "status": "INDISPONIVEL",
-    "disponivelEm": "04:06|08/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-08T01:06:33.725Z"
   },
@@ -226,9 +226,9 @@
   "AURA + EGO": {
     "idNumerico": "22",
     "nome": "Aura + Ego",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:52|08/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-08T00:52:12.897Z"
   },
   "SUCCUBUS FARMS": {
@@ -242,9 +242,9 @@
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",
     "nome": "Fazenda Rei Drogado",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:57|08/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-08T00:57:02.474Z"
   },
   "AMO A MAZZI": {

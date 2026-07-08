@@ -58,18 +58,18 @@
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
     "nome": "LA FAMILIA CHIARADIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-07T13:41:16.621Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:28|08/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-08T01:28:04.874Z"
   },
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
     "nome": "Farma Da Familia Elite",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:21|08/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-07T01:23:27.591Z"
+    "roubadaEm": "2026-07-08T01:21:48.651Z"
   },
   "TA NO GRALI": {
     "idNumerico": "4",
@@ -82,10 +82,10 @@
   "B13 :)": {
     "idNumerico": "23",
     "nome": "B13 :)",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-06T05:40:27.182Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:20|08/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-08T01:20:42.928Z"
   },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
@@ -138,10 +138,10 @@
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:17|08/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-06T15:54:16.374Z"
+    "roubadaEm": "2026-07-08T01:17:29.348Z"
   },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
@@ -187,9 +187,9 @@
     "idNumerico": "15",
     "nome": "Fazenda do Galin",
     "status": "INDISPONIVEL",
-    "disponivelEm": "04:04|08/07/2026",
+    "disponivelEm": "04:06|08/07/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-07-08T01:04:30.678Z"
+    "roubadaEm": "2026-07-08T01:06:33.725Z"
   },
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
@@ -290,10 +290,10 @@
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",
     "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:15|08/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-07T05:45:11.452Z"
+    "roubadaEm": "2026-07-08T01:15:53.811Z"
   },
   "FARM DO GALO": {
     "idNumerico": "40",
@@ -346,9 +346,9 @@
   "FARMS DO VILAO - PLANTACAO DE CANNABIS": {
     "idNumerico": "17",
     "nome": "FARMS DO VILAO - PLANTACAO DE CANNABIS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-06T23:24:34.576Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:18|08/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-08T01:18:29.248Z"
   }
 }

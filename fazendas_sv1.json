@@ -63,14 +63,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-07T23:46:31.173Z"
   },
-  "SAO PEDRO 2": {
-    "idNumerico": "43",
-    "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-07T22:54:21.236Z"
-  },
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
@@ -94,6 +86,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-07T23:52:38.496Z"
+  },
+  "OS DE RACA": {
+    "idNumerico": "0",
+    "nome": "OS DE RACA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:00|08/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-08T12:00:01.533Z"
   },
   "< GAUBRE LTDA >": {
     "idNumerico": "2",

@@ -180,7 +180,7 @@
     "nome": "Dona sem razao",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:26|08/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-08T03:26:13.030Z"
   },
   "FAZENDA DO GALIN": {
@@ -198,14 +198,6 @@
     "disponivelEm": "02:51|08/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-07T23:51:42.889Z"
-  },
-  "QG FARM KHAOS": {
-    "idNumerico": "18",
-    "nome": "QG FARM KHAOS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-07T20:35:13.971Z"
   },
   "FARM DA THATY": {
     "idNumerico": "1",

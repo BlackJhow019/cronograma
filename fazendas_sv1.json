@@ -199,6 +199,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-05T10:37:09.872Z"
   },
+  "DM2 FARM": {
+    "idNumerico": "6",
+    "nome": "Dm2 Farm",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-08T15:10:55.361Z"
+  },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
@@ -286,6 +294,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-08T14:20:24.367Z"
+  },
+  "NOREX FARM'S": {
+    "idNumerico": "13",
+    "nome": "Norex farm's",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:19|09/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-08T21:19:16.896Z"
   },
   "LEILAO SHOX": {
     "idNumerico": "22",

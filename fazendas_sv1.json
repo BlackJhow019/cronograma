@@ -74,33 +74,33 @@
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:05|08/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-08T00:05:06.592Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:33|08/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-08T01:33:29.204Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
     "nome": "Wesker_u$MeTraLha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:52|08/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-07T23:52:38.496Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:34|08/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-08T00:34:03.075Z"
   },
   "< GAUBRE LTDA >": {
@@ -138,25 +138,25 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:35|08/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-08T03:35:46.690Z"
   },
   "MONOPOLIO FARMS": {
     "idNumerico": "20",
     "nome": "Monopolio Farms",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:31|08/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-08T02:31:05.149Z"
   },
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:52|08/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-07T23:52:47.079Z"
   },
   "FAZENDA PUTEIRO DO DEATH 4": {
@@ -170,8 +170,8 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:15|08/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-08T01:15:58.405Z"
   },
@@ -266,9 +266,9 @@
   "BEE": {
     "idNumerico": "7",
     "nome": "BEE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:07|08/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-08T01:07:37.410Z"
   },
   "YT @GANDIA_RP": {
@@ -282,17 +282,17 @@
   "021": {
     "idNumerico": "1",
     "nome": "021",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:19|08/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-08T02:19:40.991Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:02|08/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-08T00:02:28.436Z"
   },
   "FAZENDINHA DO IGEZE": {
@@ -314,8 +314,8 @@
   "GRUPO NEXUS": {
     "idNumerico": "30",
     "nome": "GRUPO NEXUS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:31|08/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-08T01:31:16.728Z"
   },
@@ -330,9 +330,9 @@
   "LEILAO SHOX": {
     "idNumerico": "22",
     "nome": "LEILAO SHOX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:25|08/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-08T02:25:09.873Z"
   }
 }

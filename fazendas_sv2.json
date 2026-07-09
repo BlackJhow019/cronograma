@@ -210,9 +210,9 @@
   "FARM DA THATY": {
     "idNumerico": "1",
     "nome": "Farm da Thaty",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:55|09/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-08T23:55:10.195Z"
   },
   "FARM DO SAPATO": {
@@ -222,6 +222,14 @@
     "disponivelEm": "04:32|09/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-09T01:32:59.530Z"
+  },
+  "AURA + EGO": {
+    "idNumerico": "22",
+    "nome": "Aura + Ego",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:32|09/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-09T05:32:19.780Z"
   },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",

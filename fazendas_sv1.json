@@ -140,7 +140,7 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:34|09/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-09T05:34:17.364Z"
   },
   "MONOPOLIO FARMS": {
@@ -306,9 +306,9 @@
   "RICK FARM'S": {
     "idNumerico": "30",
     "nome": "Rick Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:44|09/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-09T04:44:51.706Z"
   },
   "GRUPO NEXUS": {

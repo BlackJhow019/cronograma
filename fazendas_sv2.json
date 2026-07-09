@@ -31,14 +31,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-07T16:14:22.332Z"
   },
-  "FAZENDINHA BETREZE 2": {
-    "idNumerico": "38",
-    "nome": "Fazendinha BeTreZe 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-06T02:01:22.414Z"
-  },
   "EVENTO": {
     "idNumerico": "42",
     "nome": "EVENTO",
@@ -190,6 +182,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-08T01:06:33.725Z"
+  },
+  "FARM'S NAY E NICK": {
+    "idNumerico": "5",
+    "nome": "FARM'S NAY E NICK",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:14|09/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-09T00:14:27.257Z"
   },
   "QG FARM KHAOS": {
     "idNumerico": "18",

@@ -23,14 +23,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-08T08:06:07.138Z"
   },
-  "NIKE SHOX": {
-    "idNumerico": "42",
-    "nome": "NIKE SHOX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-08T07:16:01.103Z"
-  },
   "FAZENDINHA DO FIRE": {
     "idNumerico": "12",
     "nome": "Fazendinha Do Fire",
@@ -62,6 +54,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-07T23:46:31.173Z"
+  },
+  "SAO PEDRO 2": {
+    "idNumerico": "43",
+    "nome": "SAO PEDRO 2",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:23|09/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-09T06:23:46.794Z"
   },
   "LEK0ZIKA": {
     "idNumerico": "35",

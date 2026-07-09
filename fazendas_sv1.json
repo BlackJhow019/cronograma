@@ -119,6 +119,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-09T05:33:03.417Z"
   },
+  "CLUBE DA LULUZINHA": {
+    "idNumerico": "8",
+    "nome": "Clube da Luluzinha",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:06|09/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-09T07:06:45.922Z"
+  },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
@@ -338,9 +346,9 @@
   "JAH RASTAFARI": {
     "idNumerico": "39",
     "nome": "JAH RASTAFARI",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:15|09/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-09T02:15:53.004Z"
   },
   "MAGUINHO. FARM'$$": {

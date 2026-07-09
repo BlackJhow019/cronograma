@@ -130,9 +130,9 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:47|09/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-08T23:47:17.220Z"
   },
   "HWD INVESTIMENTOS": {
@@ -287,6 +287,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-08T23:09:21.004Z"
   },
+  "NOREX FARM'S": {
+    "idNumerico": "13",
+    "nome": "Norex farm's",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:45|09/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-09T05:45:37.923Z"
+  },
   "LEILAO SHOX": {
     "idNumerico": "22",
     "nome": "LEILAO SHOX",
@@ -310,6 +318,14 @@
     "disponivelEm": "07:09|09/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-09T04:09:41.050Z"
+  },
+  ".": {
+    "idNumerico": "31",
+    "nome": ".",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:39|09/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-09T05:39:01.194Z"
   },
   "/CARIDADE": {
     "idNumerico": "5",

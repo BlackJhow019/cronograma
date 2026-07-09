@@ -63,14 +63,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-07T23:46:31.173Z"
   },
-  "SAO PEDRO 2": {
-    "idNumerico": "43",
-    "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-08T12:08:26.405Z"
-  },
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
@@ -271,14 +263,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-08T22:39:20.256Z"
   },
-  "FAZENDINHA DO IGEZE": {
-    "idNumerico": "36",
-    "nome": "fazendinha do igeze",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:23|09/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-09T00:23:06.024Z"
-  },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
@@ -326,6 +310,14 @@
     "disponivelEm": "08:39|09/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-09T05:39:01.194Z"
+  },
+  "/CARIDADE": {
+    "idNumerico": "5",
+    "nome": "/caridade",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:13|09/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-09T06:13:36.397Z"
   },
   "JOGO DA COBRINHA": {
     "idNumerico": "16",

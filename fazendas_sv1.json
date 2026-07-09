@@ -103,6 +103,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-08T12:00:01.533Z"
   },
+  "< GAUBRE LTDA >": {
+    "idNumerico": "2",
+    "nome": "< GAUBRE LTDA >",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:59|09/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-09T02:59:15.881Z"
+  },
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
     "nome": "VENDO 500km ACEITO TROCAS",
@@ -282,9 +290,9 @@
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:19|09/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-08T21:19:16.896Z"
   },
   "LEILAO SHOX": {

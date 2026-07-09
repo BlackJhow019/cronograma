@@ -1,12 +1,4 @@
 {
-  "999": {
-    "idNumerico": "39",
-    "nome": "999",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-08T00:28:48.759Z"
-  },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
@@ -70,6 +62,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-08T16:24:29.472Z"
+  },
+  "TA NO GRALI": {
+    "idNumerico": "4",
+    "nome": "ta no grali",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:00|09/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-09T02:00:54.426Z"
   },
   "B13 :)": {
     "idNumerico": "23",

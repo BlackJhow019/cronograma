@@ -218,9 +218,9 @@
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:21|09/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-09T14:21:08.160Z"
   },
   "VC É A PIADA AQUI": {
@@ -354,9 +354,9 @@
   "MAGUINHO. FARM'$$": {
     "idNumerico": "40",
     "nome": "Maguinho. Farm'$$",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:21|09/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-09T14:21:12.459Z"
   }
 }

@@ -159,6 +159,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-08T10:32:05.588Z"
   },
+  "FARME DO DRAKE": {
+    "idNumerico": "35",
+    "nome": "Farme do Drake",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-08T17:52:36.067Z"
+  },
   "DEAD (:": {
     "idNumerico": "27",
     "nome": "Dead (:",
@@ -166,6 +174,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-08T03:14:02.806Z"
+  },
+  "DONA SEM RAZAO": {
+    "idNumerico": "26",
+    "nome": "Dona sem razao",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-08T17:50:27.956Z"
   },
   "FAZENDA DO GALIN": {
     "idNumerico": "15",
@@ -190,6 +206,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-08T05:40:45.503Z"
+  },
+  "FARM DA THATY": {
+    "idNumerico": "1",
+    "nome": "Farm da Thaty",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:55|09/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-08T23:55:10.195Z"
   },
   "FARM DO SAPATO": {
     "idNumerico": "9",

@@ -1,12 +1,4 @@
 {
-  "RICO LOUCO": {
-    "idNumerico": "11",
-    "nome": "rico louco",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:21|09/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-09T04:21:14.785Z"
-  },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
@@ -298,9 +290,9 @@
   "LEILAO SHOX": {
     "idNumerico": "22",
     "nome": "LEILAO SHOX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:05|09/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-09T04:05:30.700Z"
   },
   "RICK FARM'S": {
@@ -314,8 +306,8 @@
   "GRUPO NEXUS": {
     "idNumerico": "9",
     "nome": "GRUPO NEXUS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:09|09/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-09T04:09:41.050Z"
   },

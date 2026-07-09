@@ -300,7 +300,7 @@
     "nome": "LEILAO SHOX",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:05|09/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-09T04:05:30.700Z"
   },
   "RICK FARM'S": {
@@ -310,14 +310,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-08T01:31:16.728Z"
-  },
-  "GRUPO NEXUS": {
-    "idNumerico": "40",
-    "nome": "GRUPO NEXUS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-08T20:36:01.200Z"
   },
   ".": {
     "idNumerico": "31",

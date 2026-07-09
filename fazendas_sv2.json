@@ -23,12 +23,20 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-08T03:50:09.364Z"
   },
+  "ROCK FARM": {
+    "idNumerico": "11",
+    "nome": "RocK Farm",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:06|09/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-09T01:06:04.869Z"
+  },
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",
     "nome": "Fazendinha BeTreZe 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:03|09/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-09T01:03:09.940Z"
   },
   "EVENTO": {
@@ -310,14 +318,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-07T03:18:53.579Z"
-  },
-  "/VENDERPRODUTOS": {
-    "idNumerico": "7",
-    "nome": "/VENDERPRODUTOS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {
     "idNumerico": "37",

@@ -199,6 +199,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-09T00:14:27.257Z"
   },
+  "QG FARM KHAOS": {
+    "idNumerico": "18",
+    "nome": "QG FARM KHAOS",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:02|09/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-09T18:02:05.176Z"
+  },
   "FARM DA THATY": {
     "idNumerico": "1",
     "nome": "Farm da Thaty",
@@ -250,9 +258,9 @@
   "YANINHA_ANTIFALSOS": {
     "idNumerico": "34",
     "nome": "yAninha_AntiFalsos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:02|09/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-09T12:02:38.598Z"
   },
   "LOKO": {

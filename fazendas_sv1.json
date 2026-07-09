@@ -311,6 +311,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-08T01:31:16.728Z"
   },
+  "GRUPO NEXUS": {
+    "idNumerico": "40",
+    "nome": "GRUPO NEXUS",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-08T20:36:01.200Z"
+  },
   ".": {
     "idNumerico": "31",
     "nome": ".",
@@ -342,5 +350,13 @@
     "disponivelEm": "05:15|09/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-09T02:15:53.004Z"
+  },
+  "MAGUINHO. FARM'$$": {
+    "idNumerico": "40",
+    "nome": "Maguinho. Farm'$$",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:45|09/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-09T02:45:19.849Z"
   }
 }

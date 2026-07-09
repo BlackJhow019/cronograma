@@ -90,9 +90,9 @@
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
     "nome": "Wesker_u$MeTraLha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:13|09/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-08T22:13:01.079Z"
   },
   "OS DE RACA": {
@@ -310,6 +310,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-08T01:31:16.728Z"
+  },
+  "GRUPO NEXUS": {
+    "idNumerico": "9",
+    "nome": "GRUPO NEXUS",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:09|09/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-09T04:09:41.050Z"
   },
   ".": {
     "idNumerico": "31",

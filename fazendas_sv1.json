@@ -68,7 +68,7 @@
     "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:45|10/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-10T11:45:21.948Z"
   },
   "LEK0ZIKA": {
@@ -119,6 +119,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-09T05:33:03.417Z"
   },
+  "CLUBE DA LULUZINHA": {
+    "idNumerico": "8",
+    "nome": "Clube da Luluzinha",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:49|10/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-10T11:49:50.008Z"
+  },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
@@ -142,14 +150,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-08T02:31:05.149Z"
-  },
-  "AZEROX": {
-    "idNumerico": "23",
-    "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-09T22:36:38.399Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",

@@ -162,9 +162,9 @@
   "FARME DO DRAKE": {
     "idNumerico": "35",
     "nome": "Farme do Drake",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:19|10/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-10T12:19:59.098Z"
   },
   "DEAD (:": {
@@ -206,6 +206,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-09T18:02:05.176Z"
+  },
+  "FARM DA THATY": {
+    "idNumerico": "1",
+    "nome": "Farm da Thaty",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:06|10/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-10T18:06:06.932Z"
   },
   "FARM DO SAPATO": {
     "idNumerico": "9",

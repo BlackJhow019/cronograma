@@ -26,9 +26,9 @@
   "ROCK FARM": {
     "idNumerico": "11",
     "nome": "RocK Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:31|10/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-10T15:31:04.856Z"
   },
   "FAZENDINHA BETREZE 2": {
@@ -102,6 +102,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-07T14:19:27.696Z"
+  },
+  "YELLOWSTONE - BY MONSTER": {
+    "idNumerico": "16",
+    "nome": "YellowStone - By Monster",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:19|11/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-10T21:19:40.786Z"
   },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",

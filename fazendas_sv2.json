@@ -135,6 +135,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-10T08:04:55.603Z"
   },
+  "AMO O LOWER": {
+    "idNumerico": "2",
+    "nome": "Amo o Lower",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:01|10/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-10T19:01:15.810Z"
+  },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
@@ -330,8 +338,8 @@
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",
     "nome": "RAMONZIN_FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:58|10/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-10T13:58:31.739Z"
   },

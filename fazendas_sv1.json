@@ -154,9 +154,9 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:57|10/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-10T12:57:44.861Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
@@ -350,5 +350,13 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-09T02:15:53.004Z"
+  },
+  "MAGUINHO. FARM'$$": {
+    "idNumerico": "40",
+    "nome": "Maguinho. Farm'$$",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:10|10/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-10T18:10:12.897Z"
   }
 }

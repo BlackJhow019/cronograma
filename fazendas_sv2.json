@@ -23,6 +23,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-08T03:50:09.364Z"
   },
+  "ROCK FARM": {
+    "idNumerico": "11",
+    "nome": "RocK Farm",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:31|10/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-10T15:31:04.856Z"
+  },
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",
     "nome": "Fazendinha BeTreZe 2",
@@ -34,8 +42,8 @@
   "EVENTO": {
     "idNumerico": "42",
     "nome": "EVENTO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:41|10/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-10T11:41:19.558Z"
   },

@@ -47,14 +47,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-07T19:15:18.260Z"
   },
-  "FAZENDA DO TEMOR": {
-    "idNumerico": "30",
-    "nome": "Fazenda do Temor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-09T13:18:55.964Z"
-  },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
     "nome": "LA FAMILIA CHIARADIA",
@@ -92,7 +84,7 @@
     "nome": "Fazenda Do MIRIM",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:53|09/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-09T18:53:25.761Z"
   },
   "MALVADA'S FARM": {
@@ -206,14 +198,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-09T18:02:05.176Z"
-  },
-  "FARM DA THATY": {
-    "idNumerico": "1",
-    "nome": "Farm da Thaty",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:35|09/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-09T18:35:30.183Z"
   },
   "FARM DO SAPATO": {
     "idNumerico": "9",

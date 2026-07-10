@@ -127,6 +127,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-08T15:52:51.068Z"
   },
+  "CANNABIS": {
+    "idNumerico": "8",
+    "nome": "CANNABIS",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:07|10/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-09T23:07:58.976Z"
+  },
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
@@ -194,8 +202,8 @@
   "QG FARM KHAOS": {
     "idNumerico": "18",
     "nome": "QG FARM KHAOS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:02|09/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-09T18:02:05.176Z"
   },

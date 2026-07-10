@@ -239,14 +239,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-08T22:42:33.381Z"
   },
-  "BEE": {
-    "idNumerico": "7",
-    "nome": "BEE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-09T02:29:46.761Z"
-  },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
@@ -278,6 +270,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-09T00:23:06.024Z"
+  },
+  "POLEMICO$ INDUSTRI$": {
+    "idNumerico": "37",
+    "nome": "PoLeMiCo$ industri$",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:47|10/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-09T23:47:48.459Z"
   },
   "NOREX FARM'S": {
     "idNumerico": "13",

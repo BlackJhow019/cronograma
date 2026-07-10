@@ -87,6 +87,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-08T01:20:42.928Z"
   },
+  "FAZENDA DO MIRIM": {
+    "idNumerico": "36",
+    "nome": "Fazenda Do MIRIM",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-10T06:07:14.346Z"
+  },
   "MALVADA'S FARM": {
     "idNumerico": "32",
     "nome": "Malvada's Farm",
@@ -150,6 +158,14 @@
     "disponivelEm": "10:42|10/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-10T07:42:30.555Z"
+  },
+  "FARME DO DRAKE": {
+    "idNumerico": "35",
+    "nome": "Farme do Drake",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:19|10/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-10T12:19:59.098Z"
   },
   "DEAD (:": {
     "idNumerico": "27",

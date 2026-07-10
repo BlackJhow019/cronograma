@@ -2,9 +2,9 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:33|10/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-10T11:33:29.710Z"
   },
   "PREFEITO ROADBLOCK": {
@@ -326,6 +326,14 @@
     "disponivelEm": "19:37|10/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-10T16:37:27.125Z"
+  },
+  "/CARIDADE": {
+    "idNumerico": "5",
+    "nome": "/caridade",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:23|10/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-10T17:23:32.550Z"
   },
   "JOGO DA COBRINHA": {
     "idNumerico": "16",

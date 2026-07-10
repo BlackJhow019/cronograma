@@ -10,9 +10,9 @@
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:25|10/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-09T21:25:49.202Z"
   },
   "KODIAK": {
@@ -286,6 +286,14 @@
     "disponivelEm": "02:47|10/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-09T23:47:48.459Z"
+  },
+  "NOREX FARM'S": {
+    "idNumerico": "13",
+    "nome": "Norex farm's",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:04|10/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-10T03:04:27.574Z"
   },
   "LEILAO SHOX": {
     "idNumerico": "22",

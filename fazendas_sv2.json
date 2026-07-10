@@ -39,6 +39,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-09T01:03:09.940Z"
   },
+  "EVENTO": {
+    "idNumerico": "42",
+    "nome": "EVENTO",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:41|10/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-10T11:41:19.558Z"
+  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -78,14 +86,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-08T01:20:42.928Z"
-  },
-  "FAZENDA DO MIRIM": {
-    "idNumerico": "36",
-    "nome": "Fazenda Do MIRIM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:07|10/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-10T06:07:14.346Z"
   },
   "MALVADA'S FARM": {
     "idNumerico": "32",
@@ -150,14 +150,6 @@
     "disponivelEm": "10:42|10/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-10T07:42:30.555Z"
-  },
-  "FARME DO DRAKE": {
-    "idNumerico": "35",
-    "nome": "Farme do Drake",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-09T04:31:13.874Z"
   },
   "DEAD (:": {
     "idNumerico": "27",

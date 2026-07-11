@@ -114,9 +114,9 @@
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
     "nome": "Vale das Sombras",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:49|11/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-11T14:49:58.993Z"
   },
   "FARMS DE GALOPISITAS": {
@@ -214,14 +214,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-11T13:45:48.809Z"
-  },
-  "FARM DO SAPATO": {
-    "idNumerico": "9",
-    "nome": "FARM DO SAPATO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:54|11/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-11T14:54:13.084Z"
   },
   "AURA + EGO": {
     "idNumerico": "22",

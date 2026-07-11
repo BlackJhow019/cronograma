@@ -10,8 +10,8 @@
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:44|11/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-11T04:44:06.029Z"
   },
@@ -62,6 +62,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-11T00:33:04.204Z"
+  },
+  "SAO PEDRO 2": {
+    "idNumerico": "43",
+    "nome": "SAO PEDRO 2",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-11T04:40:44.890Z"
   },
   "LEK0ZIKA": {
     "idNumerico": "35",
@@ -114,8 +122,8 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:53|11/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-11T04:53:51.515Z"
   },
@@ -270,14 +278,6 @@
     "disponivelEm": "09:27|11/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-11T06:27:49.469Z"
-  },
-  "POLEMICO$ INDUSTRI$": {
-    "idNumerico": "37",
-    "nome": "PoLeMiCo$ industri$",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:55|11/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-11T04:55:13.495Z"
   },
   "NOREX FARM'S": {
     "idNumerico": "13",

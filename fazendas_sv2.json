@@ -60,14 +60,14 @@
     "nome": "LA FAMILIA CHIARADIA",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:14|11/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-11T18:14:57.924Z"
   },
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
     "nome": "Farma Da Familia Elite",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:56|11/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-11T17:56:37.623Z"
   },

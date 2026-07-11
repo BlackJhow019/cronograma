@@ -10,10 +10,10 @@
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:50|11/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-09T10:59:44.267Z"
+    "roubadaEm": "2026-07-11T03:50:47.487Z"
   },
   "AWAKE COMPANY": {
     "idNumerico": "13",
@@ -206,6 +206,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-09T18:02:05.176Z"
+  },
+  "FARM DA THATY": {
+    "idNumerico": "1",
+    "nome": "Farm da Thaty",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:41|11/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-11T03:41:26.587Z"
   },
   "FARM DO SAPATO": {
     "idNumerico": "9",

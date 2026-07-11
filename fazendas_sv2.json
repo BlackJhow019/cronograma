@@ -47,14 +47,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-11T13:04:00.830Z"
   },
-  "FAZENDA DO TEMOR": {
-    "idNumerico": "30",
-    "nome": "Fazenda do Temor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:03|11/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-11T16:03:25.345Z"
-  },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
     "nome": "LA FAMILIA CHIARADIA",
@@ -194,8 +186,8 @@
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:02|11/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-11T16:02:46.288Z"
   },

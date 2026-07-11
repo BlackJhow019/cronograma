@@ -87,6 +87,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-10T21:00:31.684Z"
   },
+  "FAZENDA DO MIRIM": {
+    "idNumerico": "36",
+    "nome": "Fazenda Do MIRIM",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:54|11/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-11T00:54:23.492Z"
+  },
   "MALVADA'S FARM": {
     "idNumerico": "32",
     "nome": "Malvada's Farm",
@@ -130,8 +138,8 @@
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:01|10/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-10T19:01:15.810Z"
   },

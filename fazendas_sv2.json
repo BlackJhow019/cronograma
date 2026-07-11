@@ -82,8 +82,8 @@
   "B13 :)": {
     "idNumerico": "23",
     "nome": "B13 :)",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:01|11/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-11T03:01:08.817Z"
   },
@@ -182,14 +182,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-08T17:50:27.956Z"
-  },
-  "FAZENDA DO GALIN": {
-    "idNumerico": "15",
-    "nome": "Fazenda do Galin",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:12|11/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-11T03:12:30.860Z"
   },
   "FARM'S NAY E NICK": {
     "idNumerico": "5",

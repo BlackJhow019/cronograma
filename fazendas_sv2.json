@@ -26,9 +26,9 @@
   "ROCK FARM": {
     "idNumerico": "11",
     "nome": "RocK Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:43|11/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-11T13:43:42.942Z"
   },
   "FAZENDINHA BETREZE 2": {
@@ -186,9 +186,9 @@
   "FAZENDA DO GALIN": {
     "idNumerico": "15",
     "nome": "Fazenda do Galin",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-11T13:31:53.603Z"
   },
   "FARM'S NAY E NICK": {
@@ -206,14 +206,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-09T18:02:05.176Z"
-  },
-  "FARM DA THATY": {
-    "idNumerico": "1",
-    "nome": "Farm da Thaty",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:45|11/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-11T13:45:48.809Z"
   },
   "FARM DO SAPATO": {
     "idNumerico": "9",
@@ -314,9 +306,9 @@
   "ROLINHA CANSADA FARMS": {
     "idNumerico": "14",
     "nome": "Rolinha Cansada Farms",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:32|11/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-11T13:32:55.109Z"
   },
   "/VENDERPRODUTOS": {

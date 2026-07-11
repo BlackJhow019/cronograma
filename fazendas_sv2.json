@@ -90,9 +90,9 @@
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:28|11/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-11T13:28:22.480Z"
   },
   "MALVADA'S FARM": {
@@ -175,11 +175,19 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-10T07:50:59.174Z"
   },
+  "DONA SEM RAZAO": {
+    "idNumerico": "26",
+    "nome": "Dona sem razao",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-11T13:19:29.041Z"
+  },
   "FAZENDA DO GALIN": {
     "idNumerico": "15",
     "nome": "Fazenda do Galin",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:31|11/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-11T13:31:53.603Z"
   },

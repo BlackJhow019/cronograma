@@ -42,10 +42,10 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:29|12/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-11T16:07:59.378Z"
+    "roubadaEm": "2026-07-11T23:29:38.162Z"
   },
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",

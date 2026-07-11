@@ -100,7 +100,7 @@
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:14|11/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-11T11:14:46.886Z"
   },
   "< GAUBRE LTDA >": {
@@ -314,10 +314,10 @@
   "GRUPO NEXUS": {
     "idNumerico": "9",
     "nome": "GRUPO NEXUS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:19|11/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-11T04:03:05.468Z"
+    "roubadaEm": "2026-07-11T11:19:12.117Z"
   },
   "/CARIDADE": {
     "idNumerico": "5",

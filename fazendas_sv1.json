@@ -34,10 +34,10 @@
   "FAZENDINHA DO FIRE": {
     "idNumerico": "12",
     "nome": "Fazendinha Do Fire",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-09T07:01:05.070Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:49|11/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-11T00:49:27.630Z"
   },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
@@ -54,6 +54,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-09T16:26:18.510Z"
+  },
+  "THUG LIFE": {
+    "idNumerico": "21",
+    "nome": "THUG LIFE",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:33|11/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-11T00:33:04.204Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -106,10 +114,10 @@
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
     "nome": "VENDO 500km ACEITO TROCAS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-09T05:33:03.417Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:33|11/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-11T00:33:17.035Z"
   },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
@@ -122,10 +130,10 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-09T12:01:10.678Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:12|11/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-11T02:12:56.960Z"
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
@@ -194,26 +202,26 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-08T15:10:55.361Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:28|11/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-11T01:28:59.803Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-10T13:17:08.647Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:27|11/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-11T02:27:50.462Z"
   },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-09T14:21:08.160Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:00|11/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-11T01:00:40.349Z"
   },
   "VC É A PIADA AQUI": {
     "idNumerico": "10",
@@ -226,42 +234,42 @@
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-08T22:42:33.381Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:01|11/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-11T02:01:54.383Z"
   },
   "BEE": {
     "idNumerico": "7",
     "nome": "BEE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-10T20:45:26.745Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:56|11/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-11T02:56:16.311Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-09T22:17:45.521Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:56|11/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-11T02:56:29.727Z"
   },
   "021": {
     "idNumerico": "1",
     "nome": "021",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:26|11/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-08T02:19:40.991Z"
+    "roubadaEm": "2026-07-11T01:26:43.445Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:13|11/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-09T13:13:27.109Z"
+    "roubadaEm": "2026-07-11T02:13:15.384Z"
   },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",

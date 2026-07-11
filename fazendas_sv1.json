@@ -284,7 +284,7 @@
     "nome": "Norex farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:04|12/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-11T23:04:53.730Z"
   },
   "LEILAO SHOX": {
@@ -346,10 +346,10 @@
   "GRUPO NEXUS": {
     "idNumerico": "9",
     "nome": "GRUPO NEXUS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:12|12/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-11T16:23:36.257Z"
+    "roubadaEm": "2026-07-11T23:12:22.843Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",

@@ -10,10 +10,10 @@
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:44|11/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-10T04:45:32.149Z"
+    "roubadaEm": "2026-07-11T04:44:06.029Z"
   },
   "KODIAK": {
     "idNumerico": "3",
@@ -66,10 +66,10 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:40|11/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-10T11:45:21.948Z"
+    "roubadaEm": "2026-07-11T04:40:44.890Z"
   },
   "LEK0ZIKA": {
     "idNumerico": "35",
@@ -122,10 +122,10 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:53|11/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-10T11:49:50.008Z"
+    "roubadaEm": "2026-07-11T04:53:51.515Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
@@ -179,9 +179,9 @@
     "idNumerico": "25",
     "nome": "K1NG Farm's",
     "status": "INDISPONIVEL",
-    "disponivelEm": "07:37|11/07/2026",
+    "disponivelEm": "07:39|11/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-11T04:37:34.218Z"
+    "roubadaEm": "2026-07-11T04:39:07.123Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
     "idNumerico": "17",
@@ -282,10 +282,10 @@
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-09T23:47:48.459Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:55|11/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-11T04:55:13.495Z"
   },
   "NOREX FARM'S": {
     "idNumerico": "13",

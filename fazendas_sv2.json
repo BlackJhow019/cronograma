@@ -39,14 +39,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-11T15:13:22.272Z"
   },
-  "EVENTO": {
-    "idNumerico": "42",
-    "nome": "EVENTO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:04|11/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-11T13:04:00.830Z"
-  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -298,10 +290,10 @@
   "FARM DO GALO": {
     "idNumerico": "40",
     "nome": "FARM DO GALO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:05|11/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-07T21:32:29.257Z"
+    "roubadaEm": "2026-07-11T19:05:21.465Z"
   },
   "GRUPO RANTER": {
     "idNumerico": "19",

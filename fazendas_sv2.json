@@ -26,10 +26,10 @@
   "ROCK FARM": {
     "idNumerico": "11",
     "nome": "RocK Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:26|11/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-11T13:43:42.942Z"
+    "roubadaEm": "2026-07-11T19:26:41.733Z"
   },
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",
@@ -83,9 +83,9 @@
     "idNumerico": "23",
     "nome": "B13 :)",
     "status": "INDISPONIVEL",
-    "disponivelEm": "17:43|11/07/2026",
+    "disponivelEm": "22:47|11/07/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-07-11T14:43:16.633Z"
+    "roubadaEm": "2026-07-11T19:47:39.953Z"
   },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
@@ -107,9 +107,9 @@
     "idNumerico": "16",
     "nome": "YellowStone - By Monster",
     "status": "INDISPONIVEL",
-    "disponivelEm": "22:16|11/07/2026",
+    "disponivelEm": "22:20|11/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-11T19:16:43.839Z"
+    "roubadaEm": "2026-07-11T19:20:11.442Z"
   },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
@@ -163,9 +163,9 @@
     "idNumerico": "35",
     "nome": "Farme do Drake",
     "status": "INDISPONIVEL",
-    "disponivelEm": "17:39|11/07/2026",
+    "disponivelEm": "22:57|11/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-11T14:39:47.567Z"
+    "roubadaEm": "2026-07-11T19:57:27.300Z"
   },
   "DEAD (:": {
     "idNumerico": "27",
@@ -226,10 +226,10 @@
   "AURA + EGO": {
     "idNumerico": "22",
     "nome": "Aura + Ego",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:31|11/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-09T05:32:19.780Z"
+    "roubadaEm": "2026-07-11T19:31:11.627Z"
   },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",
@@ -331,9 +331,9 @@
     "idNumerico": "37",
     "nome": "WELCOME > MELHOR FAZENDA DO BPS",
     "status": "INDISPONIVEL",
-    "disponivelEm": "22:23|11/07/2026",
+    "disponivelEm": "22:25|11/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-11T19:23:59.811Z"
+    "roubadaEm": "2026-07-11T19:25:04.874Z"
   },
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",
@@ -346,8 +346,8 @@
   "~E V O M~": {
     "idNumerico": "25",
     "nome": "~E V O M~",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:44|11/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-11T14:44:33.192Z"
   },
@@ -355,8 +355,8 @@
     "idNumerico": "17",
     "nome": "Fazenda Cuiuda - By GAZOLA",
     "status": "INDISPONIVEL",
-    "disponivelEm": "22:25|11/07/2026",
+    "disponivelEm": "22:26|11/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-11T19:25:27.740Z"
+    "roubadaEm": "2026-07-11T19:26:46.319Z"
   }
 }

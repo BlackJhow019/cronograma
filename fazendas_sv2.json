@@ -26,10 +26,10 @@
   "ROCK FARM": {
     "idNumerico": "11",
     "nome": "RocK Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:37|11/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-10T15:31:04.856Z"
+    "roubadaEm": "2026-07-11T04:37:20.240Z"
   },
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",
@@ -150,14 +150,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-09T18:51:54.870Z"
-  },
-  "ARIANA_B13": {
-    "idNumerico": "10",
-    "nome": "Ariana_B13",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-10T22:23:01.017Z"
   },
   "FARME DO DRAKE": {
     "idNumerico": "35",

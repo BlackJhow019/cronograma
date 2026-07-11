@@ -68,7 +68,7 @@
     "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:30|11/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-11T11:30:06.599Z"
   },
   "LEK0ZIKA": {
@@ -130,10 +130,10 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:51|11/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-11T02:12:56.960Z"
+    "roubadaEm": "2026-07-11T12:51:36.681Z"
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
@@ -274,9 +274,9 @@
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:27|11/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-11T06:27:49.469Z"
   },
   "POLEMICO$ INDUSTRI$": {

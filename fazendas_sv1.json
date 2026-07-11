@@ -132,7 +132,7 @@
     "nome": "Fazenda da Milly",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:51|11/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-11T12:51:36.681Z"
   },
   "HWD INVESTIMENTOS": {
@@ -170,10 +170,10 @@
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:20|11/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-09T05:58:25.572Z"
+    "roubadaEm": "2026-07-11T13:20:39.024Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",

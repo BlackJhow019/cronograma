@@ -39,6 +39,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-09T01:03:09.940Z"
   },
+  "EVENTO": {
+    "idNumerico": "42",
+    "nome": "EVENTO",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:08|11/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-11T04:08:20.747Z"
+  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -147,7 +155,7 @@
     "idNumerico": "10",
     "nome": "Ariana_B13",
     "status": "INDISPONIVEL",
-    "disponivelEm": "01:23|11/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-10T22:23:01.017Z"
   },

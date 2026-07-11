@@ -10,18 +10,18 @@
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:02|11/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-11T04:44:06.029Z"
+    "roubadaEm": "2026-07-11T20:02:53.904Z"
   },
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
     "status": "INDISPONIVEL",
-    "disponivelEm": "22:40|11/07/2026",
+    "disponivelEm": "22:41|11/07/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-07-11T19:40:37.090Z"
+    "roubadaEm": "2026-07-11T19:41:54.452Z"
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -75,9 +75,9 @@
     "idNumerico": "35",
     "nome": "Lek0zika",
     "status": "INDISPONIVEL",
-    "disponivelEm": "22:45|11/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-11T19:45:40.354Z"
+    "disponivelEm": "22:46|11/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-11T19:46:33.288Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -98,10 +98,10 @@
   "< GAUBRE LTDA >": {
     "idNumerico": "2",
     "nome": "< GAUBRE LTDA >",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-09T02:59:15.881Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:43|11/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-11T19:43:23.387Z"
   },
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
@@ -290,10 +290,10 @@
   "LEILAO SHOX": {
     "idNumerico": "22",
     "nome": "LEILAO SHOX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:52|11/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-09T04:05:30.700Z"
+    "roubadaEm": "2026-07-11T19:52:33.029Z"
   },
   "RICK FARM'S": {
     "idNumerico": "30",

@@ -218,10 +218,10 @@
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:46|12/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-11T14:54:13.084Z"
+    "roubadaEm": "2026-07-11T21:46:41.276Z"
   },
   "AURA + EGO": {
     "idNumerico": "22",
@@ -230,14 +230,6 @@
     "disponivelEm": "22:31|11/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-11T19:31:11.627Z"
-  },
-  "SUCCUBUS FARMS": {
-    "idNumerico": "29",
-    "nome": "Succubus Farms",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:44|11/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-11T15:44:36.010Z"
   },
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",

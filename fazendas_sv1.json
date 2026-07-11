@@ -66,10 +66,10 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:30|11/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-11T04:40:44.890Z"
+    "roubadaEm": "2026-07-11T11:30:06.599Z"
   },
   "LEK0ZIKA": {
     "idNumerico": "35",
@@ -316,7 +316,7 @@
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:19|11/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-11T11:19:12.117Z"
   },
   "/CARIDADE": {

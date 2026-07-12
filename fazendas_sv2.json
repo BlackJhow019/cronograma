@@ -124,7 +124,7 @@
     "nome": "Farms de Galopisitas",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:17|12/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-12T13:17:32.339Z"
   },
   "CANNABIS": {
@@ -170,10 +170,10 @@
   "DEAD (:": {
     "idNumerico": "27",
     "nome": "Dead (:",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:25|12/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-12T07:10:58.326Z"
+    "roubadaEm": "2026-07-12T13:25:13.741Z"
   },
   "DONA SEM RAZAO": {
     "idNumerico": "26",

@@ -247,14 +247,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-08T12:46:05.834Z"
   },
-  "AMO A MAZZI": {
-    "idNumerico": "6",
-    "nome": "Amo a Mazzi",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:54|12/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-12T12:54:50.534Z"
-  },
   "YANINHA_ANTIFALSOS": {
     "idNumerico": "34",
     "nome": "yAninha_AntiFalsos",
@@ -282,10 +274,10 @@
   "CHAMA A POLICIA": {
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:56|12/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-12T05:15:57.191Z"
+    "roubadaEm": "2026-07-12T17:56:46.265Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",

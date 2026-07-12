@@ -234,10 +234,10 @@
   "BEE": {
     "idNumerico": "7",
     "nome": "BEE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:11|12/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-11T17:09:47.853Z"
+    "roubadaEm": "2026-07-12T10:11:39.705Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",

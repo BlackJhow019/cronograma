@@ -42,9 +42,9 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:29|12/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-11T23:29:37.991Z"
   },
   "RAFHA INVESTIMENTOS $": {
@@ -118,14 +118,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-11T17:24:49.710Z"
-  },
-  "FAZENDA DA MILLY": {
-    "idNumerico": "19",
-    "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:33|12/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-11T23:33:46.765Z"
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
@@ -202,10 +194,10 @@
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:35|12/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-11T02:27:50.462Z"
+    "roubadaEm": "2026-07-12T05:35:42.050Z"
   },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",

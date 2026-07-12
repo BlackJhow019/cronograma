@@ -76,7 +76,7 @@
     "nome": "Lek0zika",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:16|12/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-12T19:16:57.227Z"
   },
   "BORRACHAS FARM": {
@@ -226,10 +226,10 @@
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:29|12/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-11T19:21:58.276Z"
+    "roubadaEm": "2026-07-12T19:29:52.688Z"
   },
   "BEE": {
     "idNumerico": "7",

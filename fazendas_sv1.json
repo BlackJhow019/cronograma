@@ -154,10 +154,10 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:33|13/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-12T16:04:54.542Z"
+    "roubadaEm": "2026-07-12T22:33:25.972Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
@@ -252,7 +252,7 @@
     "nome": "021",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:28|13/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-12T22:28:13.266Z"
   },
   "FAMILIA KUSH": {

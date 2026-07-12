@@ -143,14 +143,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-12T03:38:31.470Z"
   },
-  "SE ROUBAR MORRE": {
-    "idNumerico": "41",
-    "nome": "SE ROUBAR MORRE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:24|12/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-12T01:48:09.648Z"
-  },
   "ARIANA_B13": {
     "idNumerico": "10",
     "nome": "Ariana_B13",
@@ -290,10 +282,10 @@
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",
     "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:26|12/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-11T15:04:42.516Z"
+    "roubadaEm": "2026-07-12T07:26:09.171Z"
   },
   "FARM DO GALO": {
     "idNumerico": "40",

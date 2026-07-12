@@ -45,7 +45,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "02:29|12/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-11T23:29:38.162Z"
+    "roubadaEm": "2026-07-11T23:29:37.991Z"
   },
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
@@ -252,8 +252,8 @@
     "nome": "021",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:27|12/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-11T23:27:16.640Z"
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-11T23:27:16.361Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
@@ -311,14 +311,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-10T17:23:32.550Z"
   },
-  "JOGO DA COBRINHA": {
-    "idNumerico": "16",
-    "nome": "Jogo da cobrinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-08T12:10:01.233Z"
-  },
   "JAH RASTAFARI": {
     "idNumerico": "39",
     "nome": "JAH RASTAFARI",
@@ -358,5 +350,13 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-11T16:21:57.587Z"
+  },
+  "30PRAUM": {
+    "idNumerico": "16",
+    "nome": "30PRAUM",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-08T12:10:01.233Z"
   }
 }

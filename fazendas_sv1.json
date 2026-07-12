@@ -4,7 +4,7 @@
     "nome": "rico louco",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:12|12/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-12T12:12:30.073Z"
   },
   "PREFEITO ROADBLOCK": {
@@ -58,9 +58,9 @@
   "THUG LIFE": {
     "idNumerico": "21",
     "nome": "THUG LIFE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:33|12/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-12T07:33:49.543Z"
   },
   "SAO PEDRO 2": {
@@ -126,14 +126,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-11T23:33:46.765Z"
-  },
-  "HWD INVESTIMENTOS": {
-    "idNumerico": "27",
-    "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:35|12/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-12T07:35:35.441Z"
   },
   "MONOPOLIO FARMS": {
     "idNumerico": "20",

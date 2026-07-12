@@ -23,14 +23,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-12T19:46:56.228Z"
   },
-  "ROCK FARM": {
-    "idNumerico": "11",
-    "nome": "RocK Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:39|12/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-12T15:39:44.423Z"
-  },
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",
     "nome": "Fazendinha BeTreZe 2",
@@ -43,7 +35,7 @@
     "idNumerico": "42",
     "nome": "EVENTO",
     "status": "INDISPONIVEL",
-    "disponivelEm": "17:42|12/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-12T15:42:05.155Z"
   },
@@ -52,7 +44,7 @@
     "nome": "Fazenda do Temor",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:22|12/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-12T20:22:05.068Z"
   },
   "LA FAMILIA CHIARADIA": {
@@ -74,10 +66,10 @@
   "TA NO GRALI": {
     "idNumerico": "4",
     "nome": "ta no grali",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:42|12/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-12T14:40:51.495Z"
+    "roubadaEm": "2026-07-12T20:42:31.655Z"
   },
   "B13 :)": {
     "idNumerico": "23",

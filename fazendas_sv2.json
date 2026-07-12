@@ -162,10 +162,10 @@
   "FARME DO DRAKE": {
     "idNumerico": "35",
     "nome": "Farme do Drake",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:49|12/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-12T08:30:07.820Z"
+    "roubadaEm": "2026-07-12T13:49:11.715Z"
   },
   "DEAD (:": {
     "idNumerico": "27",
@@ -356,7 +356,7 @@
     "nome": "RAMONZIN_FRANCA",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:44|12/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-12T13:44:13.358Z"
   }
 }

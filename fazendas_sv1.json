@@ -196,7 +196,7 @@
     "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:26|12/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-12T11:26:41.431Z"
   },
   "FAMILIA ALMANAK": {
@@ -238,6 +238,14 @@
     "disponivelEm": "12:11|12/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-12T10:11:39.705Z"
+  },
+  "YT @GANDIA_RP": {
+    "idNumerico": "15",
+    "nome": "YT @GANDIA_RP",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-12T06:23:35.521Z"
   },
   "021": {
     "idNumerico": "1",

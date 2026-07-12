@@ -159,14 +159,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-08T20:33:07.044Z"
   },
-  "FARM'S DE CAFE": {
-    "idNumerico": "4",
-    "nome": "Farm's de Cafe",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:22|12/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-12T06:22:13.285Z"
-  },
   "K1NG FARM'S": {
     "idNumerico": "25",
     "nome": "K1NG Farm's",
@@ -322,10 +314,10 @@
   ".": {
     "idNumerico": "31",
     "nome": ".",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:23|12/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-12T03:59:42.363Z"
+    "roubadaEm": "2026-07-12T11:23:03.811Z"
   },
   "GRUPO NEXUS": {
     "idNumerico": "9",

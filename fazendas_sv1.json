@@ -122,10 +122,10 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:33|12/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-11T12:51:36.681Z"
+    "roubadaEm": "2026-07-11T23:33:46.765Z"
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
@@ -138,10 +138,10 @@
   "MONOPOLIO FARMS": {
     "idNumerico": "20",
     "nome": "Monopolio Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-08T02:31:05.149Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:38|12/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-11T23:38:25.373Z"
   },
   "AZEROX": {
     "idNumerico": "23",
@@ -354,9 +354,9 @@
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-08T12:10:01.233Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:05|12/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-12T00:05:32.850Z"
   }
 }

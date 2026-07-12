@@ -90,10 +90,10 @@
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
     "nome": "Wesker_u$MeTraLha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:28|12/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-08T22:13:01.079Z"
+    "roubadaEm": "2026-07-12T05:28:39.343Z"
   },
   "< GAUBRE LTDA >": {
     "idNumerico": "2",
@@ -142,14 +142,6 @@
     "disponivelEm": "02:38|12/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-11T23:38:25.373Z"
-  },
-  "AZEROX": {
-    "idNumerico": "23",
-    "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:25|12/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-12T00:24:15.081Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",

@@ -156,7 +156,7 @@
     "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:33|13/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-12T22:33:25.972Z"
   },
   "FARM'S DE CAFE": {
@@ -194,10 +194,10 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:44|13/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-12T11:26:41.431Z"
+    "roubadaEm": "2026-07-12T22:44:55.130Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",

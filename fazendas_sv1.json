@@ -84,7 +84,7 @@
     "nome": "Borrachas Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:22|12/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-12T16:22:50.621Z"
   },
   "WESKER_U$METRALHA": {
@@ -234,10 +234,10 @@
   "BEE": {
     "idNumerico": "7",
     "nome": "BEE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:24|12/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-12T10:11:39.705Z"
+    "roubadaEm": "2026-07-12T16:24:45.247Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
@@ -318,14 +318,6 @@
     "disponivelEm": "17:52|12/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-12T15:52:20.838Z"
-  },
-  ".": {
-    "idNumerico": "31",
-    "nome": ".",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:23|12/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-12T11:23:03.811Z"
   },
   "GRUPO NEXUS": {
     "idNumerico": "9",

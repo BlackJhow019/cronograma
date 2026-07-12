@@ -12,7 +12,7 @@
     "nome": "JESUS EA SOLUCAO",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:59|12/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-12T12:59:12.795Z"
   },
   "AWAKE COMPANY": {
@@ -130,10 +130,10 @@
   "CANNABIS": {
     "idNumerico": "8",
     "nome": "CANNABIS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:06|12/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-11T17:18:59.708Z"
+    "roubadaEm": "2026-07-12T13:06:42.921Z"
   },
   "AMO O LOWER": {
     "idNumerico": "2",

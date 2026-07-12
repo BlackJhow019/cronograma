@@ -260,7 +260,7 @@
     "nome": "Familia KuSh",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:41|12/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-12T21:41:58.202Z"
   },
   "FAZENDINHA DO IGEZE": {
@@ -322,8 +322,8 @@
   ".": {
     "idNumerico": "31",
     "nome": ".",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:49|12/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-12T16:49:07.935Z"
   },
@@ -342,14 +342,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-12T16:18:29.168Z"
-  },
-  "30PRAUM": {
-    "idNumerico": "16",
-    "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:50|12/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-12T16:50:15.347Z"
   },
   "FAZENDA FELIZ": {
     "idNumerico": "22",

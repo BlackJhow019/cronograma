@@ -156,7 +156,7 @@
     "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:04|12/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-12T16:04:54.542Z"
   },
   "FARM'S DE CAFE": {
@@ -338,10 +338,10 @@
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:18|12/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-12T09:42:52.254Z"
+    "roubadaEm": "2026-07-12T16:18:29.168Z"
   },
   "30PRAUM": {
     "idNumerico": "16",

@@ -84,7 +84,7 @@
     "nome": "B13 :)",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:44|12/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-12T17:44:54.633Z"
   },
   "FAZENDA DO MIRIM": {
@@ -226,10 +226,10 @@
   "AURA + EGO": {
     "idNumerico": "22",
     "nome": "Aura + Ego",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:51|12/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-11T19:31:11.627Z"
+    "roubadaEm": "2026-07-12T17:51:31.056Z"
   },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",

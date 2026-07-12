@@ -15,14 +15,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-11T20:02:53.904Z"
   },
-  "KODIAK": {
-    "idNumerico": "3",
-    "nome": "KodiaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:41|11/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-11T19:41:54.452Z"
-  },
   "NIKE SHOX": {
     "idNumerico": "42",
     "nome": "NIKE SHOX",
@@ -99,7 +91,7 @@
     "idNumerico": "2",
     "nome": "< GAUBRE LTDA >",
     "status": "INDISPONIVEL",
-    "disponivelEm": "22:43|11/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-11T19:43:23.387Z"
   },
@@ -130,10 +122,10 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:19|12/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-11T04:10:32.452Z"
+    "roubadaEm": "2026-07-12T01:43:26.502Z"
   },
   "MONOPOLIO FARMS": {
     "idNumerico": "20",
@@ -148,7 +140,7 @@
     "nome": "AzeRoX",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:25|12/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-12T00:24:15.081Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
@@ -226,8 +218,8 @@
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:21|11/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-11T19:21:58.276Z"
   },

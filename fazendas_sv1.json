@@ -18,10 +18,10 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:31|12/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-12T15:52:16.295Z"
+    "roubadaEm": "2026-07-12T21:31:07.761Z"
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -46,14 +46,6 @@
     "disponivelEm": "22:15|12/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-12T20:15:23.967Z"
-  },
-  "RAFHA INVESTIMENTOS $": {
-    "idNumerico": "26",
-    "nome": "Rafha investimentos $",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:28|12/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-12T16:28:35.245Z"
   },
   "THUG LIFE": {
     "idNumerico": "21",
@@ -220,7 +212,7 @@
     "nome": "Vc é a piada aqui",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:27|12/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-12T21:27:11.847Z"
   },
   "GRANJA DO IMONKEY": {

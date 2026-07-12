@@ -210,10 +210,10 @@
   "FARM DA THATY": {
     "idNumerico": "1",
     "nome": "Farm da Thaty",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:45|12/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-12T05:45:49.664Z"
+    "roubadaEm": "2026-07-12T18:45:08.098Z"
   },
   "FARM DO SAPATO": {
     "idNumerico": "9",
@@ -350,13 +350,5 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-11T19:26:46.319Z"
-  },
-  "RAMONZIN_FRANCA": {
-    "idNumerico": "21",
-    "nome": "RAMONZIN_FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-12T13:44:13.358Z"
   }
 }

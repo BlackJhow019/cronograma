@@ -347,7 +347,7 @@
     "idNumerico": "16",
     "nome": "30PRAUM",
     "status": "INDISPONIVEL",
-    "disponivelEm": "11:10|12/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-12T09:10:49.409Z"
   },
@@ -355,8 +355,8 @@
     "idNumerico": "22",
     "nome": "fazenda feliz",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:10|12/07/2026",
+    "disponivelEm": "16:11|12/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-12T14:10:39.265Z"
+    "roubadaEm": "2026-07-12T14:11:16.818Z"
   }
 }

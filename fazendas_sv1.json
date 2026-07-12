@@ -202,10 +202,10 @@
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:04|12/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-12T13:00:27.332Z"
+    "roubadaEm": "2026-07-12T18:04:49.690Z"
   },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
@@ -252,7 +252,7 @@
     "nome": "021",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:01|12/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-12T17:01:08.048Z"
   },
   "FAMILIA KUSH": {

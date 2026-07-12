@@ -10,10 +10,10 @@
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:59|12/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-12T06:39:28.034Z"
+    "roubadaEm": "2026-07-12T12:59:12.795Z"
   },
   "AWAKE COMPANY": {
     "idNumerico": "13",
@@ -214,14 +214,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-12T05:45:49.664Z"
-  },
-  "FARM DO SAPATO": {
-    "idNumerico": "9",
-    "nome": "FARM DO SAPATO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:58|12/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-12T07:58:02.798Z"
   },
   "AURA + EGO": {
     "idNumerico": "22",

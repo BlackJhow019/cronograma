@@ -20,7 +20,7 @@
     "nome": "KodiaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:52|12/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-12T15:52:16.295Z"
   },
   "NIKE SHOX": {
@@ -154,10 +154,10 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:04|12/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-08T20:33:07.044Z"
+    "roubadaEm": "2026-07-12T16:04:54.542Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
@@ -316,7 +316,7 @@
     "nome": "Maguinho. Farm'$$",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:52|12/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-12T15:52:20.838Z"
   },
   ".": {

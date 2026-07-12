@@ -52,7 +52,7 @@
     "nome": "Rafha investimentos $",
     "status": "INDISPONIVEL",
     "disponivelEm": "11:51|12/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-12T09:51:08.148Z"
   },
   "THUG LIFE": {
@@ -250,9 +250,9 @@
   "021": {
     "idNumerico": "1",
     "nome": "021",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:55|12/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-12T04:55:46.007Z"
   },
   "FAMILIA KUSH": {

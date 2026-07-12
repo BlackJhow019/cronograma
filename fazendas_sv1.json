@@ -60,7 +60,7 @@
     "nome": "THUG LIFE",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:03|12/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-12T02:27:00.489Z"
   },
   "SAO PEDRO 2": {
@@ -258,10 +258,10 @@
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:19|12/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-11T02:13:15.384Z"
+    "roubadaEm": "2026-07-12T02:43:46.324Z"
   },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
@@ -286,14 +286,6 @@
     "disponivelEm": "02:04|12/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-11T23:04:53.730Z"
-  },
-  "LEILAO SHOX": {
-    "idNumerico": "22",
-    "nome": "LEILAO SHOX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-11T19:52:33.029Z"
   },
   "RICK FARM'S": {
     "idNumerico": "30",
@@ -358,5 +350,13 @@
     "disponivelEm": "03:05|12/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-12T00:05:32.850Z"
+  },
+  "FAZENDA FELIZ": {
+    "idNumerico": "22",
+    "nome": "fazenda feliz",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-11T19:52:33.029Z"
   }
 }

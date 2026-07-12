@@ -343,12 +343,20 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-12T09:42:52.254Z"
   },
+  "30PRAUM": {
+    "idNumerico": "16",
+    "nome": "30PRAUM",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-12T09:10:49.409Z"
+  },
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:11|12/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-12T14:11:51.643Z"
   }
 }

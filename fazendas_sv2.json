@@ -52,7 +52,7 @@
     "nome": "Fazenda do Temor",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:43|12/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-12T02:07:23.413Z"
   },
   "LA FAMILIA CHIARADIA": {
@@ -194,10 +194,10 @@
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:55|12/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-11T16:02:46.288Z"
+    "roubadaEm": "2026-07-12T02:19:17.443Z"
   },
   "QG FARM KHAOS": {
     "idNumerico": "18",

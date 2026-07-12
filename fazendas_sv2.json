@@ -90,10 +90,10 @@
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:15|12/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-12T14:14:30.067Z"
+    "roubadaEm": "2026-07-12T21:15:53.179Z"
   },
   "MALVADA'S FARM": {
     "idNumerico": "32",

@@ -18,10 +18,10 @@
   "AWAKE COMPANY": {
     "idNumerico": "13",
     "nome": "AwaKe Company",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:06|12/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-11T16:05:24.627Z"
+    "roubadaEm": "2026-07-12T04:37:38.240Z"
   },
   "ROCK FARM": {
     "idNumerico": "11",
@@ -156,7 +156,7 @@
     "nome": "Ariana_B13",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:38|12/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-12T04:09:15.937Z"
   },
   "FARME DO DRAKE": {
@@ -278,14 +278,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-11T15:16:12.499Z"
-  },
-  "CHAMA A POLICIA": {
-    "idNumerico": "44",
-    "nome": "CHAMA A POLICIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:35|12/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-11T22:35:25.341Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",

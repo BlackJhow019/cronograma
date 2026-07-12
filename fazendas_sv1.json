@@ -42,10 +42,10 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:55|12/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-11T23:29:37.991Z"
+    "roubadaEm": "2026-07-12T13:55:17.824Z"
   },
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
@@ -164,7 +164,7 @@
     "nome": "Farm's de Cafe",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:45|12/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-12T13:45:07.021Z"
   },
   "K1NG FARM'S": {
@@ -275,7 +275,7 @@
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
     "status": "INDISPONIVEL",
-    "disponivelEm": "10:55|12/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-12T08:55:08.398Z"
   },

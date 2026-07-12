@@ -23,14 +23,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-11T16:05:24.627Z"
   },
-  "ROCK FARM": {
-    "idNumerico": "11",
-    "nome": "RocK Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-11T19:26:41.733Z"
-  },
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",
     "nome": "Fazendinha BeTreZe 2",
@@ -204,7 +196,7 @@
     "nome": "QG FARM KHAOS",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:54|12/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-12T01:27:03.193Z"
   },
   "FARM DA THATY": {
@@ -327,6 +319,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-09T01:14:46.718Z"
   },
+  "WELCOME > MELHOR FAZENDA DO BPS": {
+    "idNumerico": "37",
+    "nome": "WELCOME > MELHOR FAZENDA DO BPS",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-11T19:25:04.874Z"
+  },
   "~E V O M~": {
     "idNumerico": "25",
     "nome": "~E V O M~",
@@ -334,14 +334,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-11T14:44:33.192Z"
-  },
-  "FAZENDA CUIUDA - BY GAZOLA": {
-    "idNumerico": "17",
-    "nome": "Fazenda Cuiuda - By GAZOLA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-11T19:26:46.319Z"
   },
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",

@@ -60,7 +60,7 @@
     "nome": "LA FAMILIA CHIARADIA",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:13|12/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-12T13:13:05.452Z"
   },
   "FARMA DA FAMILIA ELITE": {
@@ -218,10 +218,10 @@
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:15|12/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-12T07:58:02.798Z"
+    "roubadaEm": "2026-07-12T13:15:32.749Z"
   },
   "AURA + EGO": {
     "idNumerico": "22",

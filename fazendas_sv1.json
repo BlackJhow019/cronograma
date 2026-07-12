@@ -330,10 +330,10 @@
   "GRUPO NEXUS": {
     "idNumerico": "9",
     "nome": "GRUPO NEXUS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:17|12/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-11T23:12:22.843Z"
+    "roubadaEm": "2026-07-12T13:17:25.005Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",

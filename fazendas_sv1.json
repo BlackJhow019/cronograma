@@ -2,10 +2,10 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:37|12/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-11T16:59:26.017Z"
+    "roubadaEm": "2026-07-12T04:08:11.380Z"
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
@@ -324,7 +324,7 @@
     "nome": ".",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:28|12/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-12T03:59:42.363Z"
   },
   "GRUPO NEXUS": {

@@ -210,10 +210,10 @@
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:01|13/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-11T01:00:40.349Z"
+    "roubadaEm": "2026-07-12T22:01:50.810Z"
   },
   "VC É A PIADA AQUI": {
     "idNumerico": "10",
@@ -246,14 +246,6 @@
     "disponivelEm": "23:19|12/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-12T21:19:47.831Z"
-  },
-  "021": {
-    "idNumerico": "1",
-    "nome": "021",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:01|12/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-12T17:01:08.048Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",

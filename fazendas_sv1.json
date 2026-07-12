@@ -12,7 +12,7 @@
     "nome": "Prefeito Roadblock",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:00|12/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-12T14:00:56.454Z"
   },
   "KODIAK": {
@@ -138,10 +138,10 @@
   "MONOPOLIO FARMS": {
     "idNumerico": "20",
     "nome": "Monopolio Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:01|12/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-12T06:42:25.289Z"
+    "roubadaEm": "2026-07-12T14:01:55.934Z"
   },
   "AZEROX": {
     "idNumerico": "23",

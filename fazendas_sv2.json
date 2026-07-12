@@ -35,7 +35,7 @@
     "idNumerico": "38",
     "nome": "Fazendinha BeTreZe 2",
     "status": "INDISPONIVEL",
-    "disponivelEm": "09:29|12/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-12T07:29:57.842Z"
   },
@@ -84,7 +84,7 @@
     "nome": "B13 :)",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:22|12/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-12T12:22:01.716Z"
   },
   "FAZENDA DO MIRIM": {
@@ -290,8 +290,8 @@
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",
     "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:26|12/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-12T07:26:09.171Z"
   },

@@ -159,6 +159,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-08T20:33:07.044Z"
   },
+  "FARM'S DE CAFE": {
+    "idNumerico": "4",
+    "nome": "Farm's de Cafe",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-12T06:22:13.285Z"
+  },
   "K1NG FARM'S": {
     "idNumerico": "25",
     "nome": "K1NG Farm's",
@@ -230,14 +238,6 @@
     "disponivelEm": "12:11|12/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-12T10:11:39.705Z"
-  },
-  "YT @GANDIA_RP": {
-    "idNumerico": "15",
-    "nome": "YT @GANDIA_RP",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:23|12/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-12T06:23:35.521Z"
   },
   "021": {
     "idNumerico": "1",
@@ -316,7 +316,7 @@
     "nome": ".",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:23|12/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-12T11:23:03.811Z"
   },
   "GRUPO NEXUS": {

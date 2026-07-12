@@ -75,7 +75,7 @@
     "idNumerico": "4",
     "nome": "ta no grali",
     "status": "INDISPONIVEL",
-    "disponivelEm": "21:00|11/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-11T18:00:29.884Z"
   },
@@ -141,7 +141,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "00:58|12/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-11T21:58:39.477Z"
+    "roubadaEm": "2026-07-11T21:58:39.402Z"
   },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
@@ -282,10 +282,10 @@
   "CHAMA A POLICIA": {
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-11T17:21:13.877Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:35|12/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-11T22:35:25.341Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",

@@ -76,7 +76,7 @@
     "nome": "Lek0zika",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:26|12/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-12T13:26:23.660Z"
   },
   "BORRACHAS FARM": {
@@ -162,10 +162,10 @@
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:44|12/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-12T06:22:13.285Z"
+    "roubadaEm": "2026-07-12T13:44:57.943Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",

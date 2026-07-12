@@ -170,10 +170,10 @@
   "DEAD (:": {
     "idNumerico": "27",
     "nome": "Dead (:",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:44|12/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-12T13:25:27.288Z"
+    "roubadaEm": "2026-07-12T18:44:28.860Z"
   },
   "DONA SEM RAZAO": {
     "idNumerico": "26",
@@ -355,7 +355,7 @@
     "idNumerico": "21",
     "nome": "RAMONZIN_FRANCA",
     "status": "INDISPONIVEL",
-    "disponivelEm": "15:44|12/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-12T13:44:13.358Z"
   }

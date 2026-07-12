@@ -159,20 +159,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-12T10:52:46.640Z"
   },
-  "FARME DO DRAKE": {
-    "idNumerico": "35",
-    "nome": "Farme do Drake",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:30|12/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-12T08:30:07.820Z"
-  },
   "DEAD (:": {
     "idNumerico": "27",
     "nome": "Dead (:",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:25|12/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-12T13:25:27.288Z"
   },
   "DONA SEM RAZAO": {
@@ -186,10 +178,10 @@
   "FAZENDA DO GALIN": {
     "idNumerico": "15",
     "nome": "Fazenda do Galin",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:31|12/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-12T02:43:58.392Z"
+    "roubadaEm": "2026-07-12T13:31:24.506Z"
   },
   "FARM'S NAY E NICK": {
     "idNumerico": "5",

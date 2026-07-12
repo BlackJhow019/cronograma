@@ -114,10 +114,10 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:31|12/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-11T17:24:49.710Z"
+    "roubadaEm": "2026-07-12T06:31:16.594Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
@@ -164,7 +164,7 @@
     "nome": "Farm's de Cafe",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:22|12/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-12T06:22:13.285Z"
   },
   "K1NG FARM'S": {

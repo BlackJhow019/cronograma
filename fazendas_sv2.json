@@ -47,11 +47,19 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-12T15:42:05.155Z"
   },
+  "FAZENDA DO TEMOR": {
+    "idNumerico": "30",
+    "nome": "Fazenda do Temor",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-12T13:09:20.731Z"
+  },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
     "nome": "LA FAMILIA CHIARADIA",
     "status": "INDISPONIVEL",
-    "disponivelEm": "15:13|12/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-12T13:13:05.452Z"
   },

@@ -162,9 +162,9 @@
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:00|13/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-12T22:00:30.969Z"
   },
   "K1NG FARM'S": {
@@ -206,14 +206,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-12T18:05:19.750Z"
-  },
-  "QUEM ROUBAR E PETISTA": {
-    "idNumerico": "44",
-    "nome": "Quem Roubar e Petista",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:02|13/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-12T22:02:37.533Z"
   },
   "VC É A PIADA AQUI": {
     "idNumerico": "10",

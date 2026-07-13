@@ -42,10 +42,10 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:28|13/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T10:12:01.844Z"
+    "roubadaEm": "2026-07-13T15:28:40.996Z"
   },
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
@@ -260,7 +260,7 @@
     "nome": "Familia KuSh",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:16|13/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-13T15:16:44.343Z"
   },
   "FAZENDINHA DO IGEZE": {

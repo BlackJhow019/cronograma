@@ -266,8 +266,8 @@
   "LOKO": {
     "idNumerico": "12",
     "nome": "loko",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:10|12/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-12T21:10:05.589Z"
   },
@@ -330,7 +330,7 @@
   "WELCOME > MELHOR FAZENDA DO BPS": {
     "idNumerico": "37",
     "nome": "WELCOME > MELHOR FAZENDA DO BPS",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-12T21:09:58.545Z"

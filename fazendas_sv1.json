@@ -215,14 +215,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-12T22:02:37.533Z"
   },
-  "VC É A PIADA AQUI": {
-    "idNumerico": "10",
-    "nome": "Vc é a piada aqui",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:27|12/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-12T21:27:11.847Z"
-  },
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
@@ -354,9 +346,9 @@
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:25|12/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-12T21:25:08.139Z"
   }
 }

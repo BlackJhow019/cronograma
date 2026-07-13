@@ -236,7 +236,7 @@
     "nome": "BEE",
     "status": "INDISPONIVEL",
     "disponivelEm": "10:49|13/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-13T08:49:33.740Z"
   },
   "YT @GANDIA_RP": {
@@ -350,5 +350,13 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-12T21:25:08.139Z"
+  },
+  "OS DE RACA": {
+    "idNumerico": "0",
+    "nome": "OS DE RACA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:56|13/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-13T08:56:15.074Z"
   }
 }

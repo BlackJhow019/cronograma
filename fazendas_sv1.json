@@ -84,7 +84,7 @@
     "nome": "Borrachas Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:00|13/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-13T14:00:16.721Z"
   },
   "WESKER_U$METRALHA": {
@@ -178,10 +178,10 @@
   "FAZENDA ROTA DO CAFÉ": {
     "idNumerico": "17",
     "nome": "Fazenda Rota do Café",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:02|13/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-06T22:55:24.478Z"
+    "roubadaEm": "2026-07-13T14:02:25.039Z"
   },
   "VAQUEIRO FARM´S": {
     "idNumerico": "18",

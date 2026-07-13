@@ -20,15 +20,15 @@
     "nome": "KodiaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "11:18|13/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-13T09:18:26.218Z"
   },
   "NIKE SHOX": {
     "idNumerico": "42",
     "nome": "NIKE SHOX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:19|13/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-13T04:19:00.049Z"
   },
   "FAZENDINHA DO FIRE": {

@@ -119,14 +119,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-12T20:37:04.365Z"
   },
-  "FAZENDA DA MILLY": {
-    "idNumerico": "19",
-    "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:05|13/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-13T00:05:14.651Z"
-  },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
@@ -210,10 +202,10 @@
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:07|13/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-12T22:02:37.533Z"
+    "roubadaEm": "2026-07-13T05:07:43.327Z"
   },
   "VC É A PIADA AQUI": {
     "idNumerico": "10",

@@ -250,10 +250,10 @@
   "021": {
     "idNumerico": "1",
     "nome": "021",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:52|14/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T17:14:12.291Z"
+    "roubadaEm": "2026-07-13T22:52:29.371Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
@@ -334,14 +334,6 @@
     "disponivelEm": "20:34|13/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-13T18:34:21.282Z"
-  },
-  "30PRAUM": {
-    "idNumerico": "16",
-    "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:50|13/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-13T17:50:11.458Z"
   },
   "FAZENDA FELIZ": {
     "idNumerico": "22",

@@ -2,10 +2,10 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:22|13/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T04:29:24.551Z"
+    "roubadaEm": "2026-07-13T11:22:51.986Z"
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
@@ -238,14 +238,6 @@
     "disponivelEm": "10:49|13/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-13T08:49:33.740Z"
-  },
-  "YT @GANDIA_RP": {
-    "idNumerico": "15",
-    "nome": "YT @GANDIA_RP",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:21|13/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-13T06:21:47.917Z"
   },
   "021": {
     "idNumerico": "1",

@@ -76,7 +76,7 @@
     "nome": "Lek0zika",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:24|14/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-13T23:24:30.205Z"
   },
   "BORRACHAS FARM": {
@@ -282,10 +282,10 @@
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:27|14/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T14:59:14.561Z"
+    "roubadaEm": "2026-07-13T23:27:52.091Z"
   },
   "RICK FARM'S": {
     "idNumerico": "30",

@@ -124,7 +124,7 @@
     "nome": "Fazenda da Milly",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:15|13/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-13T05:15:30.146Z"
   },
   "HWD INVESTIMENTOS": {
@@ -186,10 +186,10 @@
   "VAQUEIRO FARM´S": {
     "idNumerico": "18",
     "nome": "Vaqueiro Farm´s",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:23|13/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-11T15:50:33.512Z"
+    "roubadaEm": "2026-07-13T05:23:35.330Z"
   },
   "DM2 FARM": {
     "idNumerico": "6",

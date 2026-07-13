@@ -10,10 +10,10 @@
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:03|13/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T06:34:14.691Z"
+    "roubadaEm": "2026-07-13T13:03:40.226Z"
   },
   "AWAKE COMPANY": {
     "idNumerico": "13",
@@ -38,14 +38,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-12T15:56:07.767Z"
-  },
-  "EVENTO": {
-    "idNumerico": "42",
-    "nome": "EVENTO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:02|13/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T08:02:15.131Z"
   },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",

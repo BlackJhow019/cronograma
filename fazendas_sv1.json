@@ -90,10 +90,10 @@
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
     "nome": "Wesker_u$MeTraLha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:56|14/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T03:18:52.577Z"
+    "roubadaEm": "2026-07-13T22:56:54.380Z"
   },
   "< GAUBRE LTDA >": {
     "idNumerico": "2",
@@ -148,7 +148,7 @@
     "nome": "AzeRoX",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:45|14/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-13T22:45:05.436Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
@@ -210,10 +210,10 @@
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:59|14/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T16:00:48.628Z"
+    "roubadaEm": "2026-07-13T22:59:59.344Z"
   },
   "VC É A PIADA AQUI": {
     "idNumerico": "10",
@@ -222,14 +222,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-13T14:59:45.143Z"
-  },
-  "GRANJA DO IMONKEY": {
-    "idNumerico": "29",
-    "nome": "Granja do iMonKeY",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:57|13/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-13T17:57:25.681Z"
   },
   "BEE": {
     "idNumerico": "7",
@@ -252,7 +244,7 @@
     "nome": "021",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:52|14/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-13T22:52:42.839Z"
   },
   "FAMILIA KUSH": {

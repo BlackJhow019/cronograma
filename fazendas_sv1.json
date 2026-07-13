@@ -18,10 +18,10 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:43|13/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-12T21:32:15.608Z"
+    "roubadaEm": "2026-07-13T02:43:42.886Z"
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -254,14 +254,6 @@
     "disponivelEm": "00:28|13/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-12T22:28:13.266Z"
-  },
-  "FAMILIA KUSH": {
-    "idNumerico": "34",
-    "nome": "Familia KuSh",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:41|12/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-12T21:41:58.202Z"
   },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",

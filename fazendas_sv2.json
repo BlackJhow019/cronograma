@@ -68,7 +68,7 @@
     "nome": "Farma Da Familia Elite",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:01|13/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-13T21:01:35.800Z"
   },
   "TA NO GRALI": {
@@ -86,6 +86,14 @@
     "disponivelEm": "20:19|13/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-13T18:19:59.744Z"
+  },
+  "FAZENDA DO MIRIM": {
+    "idNumerico": "36",
+    "nome": "Fazenda Do MIRIM",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-13T15:57:40.919Z"
   },
   "MALVADA'S FARM": {
     "idNumerico": "32",

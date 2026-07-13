@@ -50,10 +50,10 @@
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:00|13/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T10:38:11.423Z"
+    "roubadaEm": "2026-07-13T17:00:37.739Z"
   },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",

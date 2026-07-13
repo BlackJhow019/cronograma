@@ -50,8 +50,8 @@
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
     "nome": "Rafha investimentos $",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:25|13/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-13T00:25:08.850Z"
   },
@@ -188,7 +188,7 @@
     "nome": "Vaqueiro Farm´s",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:23|13/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-13T05:23:35.330Z"
   },
   "DM2 FARM": {

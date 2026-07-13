@@ -28,7 +28,7 @@
     "nome": "RocK Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:25|13/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-13T18:25:16.520Z"
   },
   "FAZENDINHA BETREZE 2": {
@@ -338,10 +338,10 @@
   "~E V O M~": {
     "idNumerico": "25",
     "nome": "~E V O M~",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:31|13/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-12T23:18:45.483Z"
+    "roubadaEm": "2026-07-13T18:31:08.286Z"
   },
   "FAZENDA CUIUDA - BY GAZOLA": {
     "idNumerico": "17",

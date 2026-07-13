@@ -234,10 +234,10 @@
   "SUCCUBUS FARMS": {
     "idNumerico": "29",
     "nome": "Succubus Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:33|13/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-12T22:51:05.037Z"
+    "roubadaEm": "2026-07-13T18:33:39.071Z"
   },
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",
@@ -340,7 +340,7 @@
     "nome": "~E V O M~",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:31|13/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-13T18:31:08.286Z"
   },
   "FAZENDA CUIUDA - BY GAZOLA": {

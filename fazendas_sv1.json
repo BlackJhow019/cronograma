@@ -63,14 +63,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-13T13:11:37.512Z"
   },
-  "SAO PEDRO 2": {
-    "idNumerico": "43",
-    "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:56|13/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-13T10:56:22.747Z"
-  },
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
@@ -162,10 +154,10 @@
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:57|13/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-12T22:00:30.969Z"
+    "roubadaEm": "2026-07-13T15:57:21.104Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",

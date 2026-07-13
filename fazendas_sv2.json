@@ -135,14 +135,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-12T13:07:03.026Z"
   },
-  "AMO O LOWER": {
-    "idNumerico": "2",
-    "nome": "Amo o Lower",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:42|13/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T03:42:16.864Z"
-  },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
@@ -298,10 +290,10 @@
   "FARM DO GALO": {
     "idNumerico": "40",
     "nome": "FARM DO GALO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:44|13/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T03:24:33.491Z"
+    "roubadaEm": "2026-07-13T08:44:38.922Z"
   },
   "GRUPO RANTER": {
     "idNumerico": "19",

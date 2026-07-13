@@ -146,10 +146,10 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:17|13/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T10:59:15.514Z"
+    "roubadaEm": "2026-07-13T17:17:34.295Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
@@ -263,14 +263,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-13T15:16:44.343Z"
   },
-  "FAZENDINHA DO IGEZE": {
-    "idNumerico": "36",
-    "nome": "fazendinha do igeze",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:16|13/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T12:16:03.680Z"
-  },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
@@ -342,14 +334,6 @@
     "disponivelEm": "14:47|13/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-13T12:47:22.044Z"
-  },
-  "FAZENDA FELIZ": {
-    "idNumerico": "22",
-    "nome": "fazenda feliz",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:15|13/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T12:15:20.195Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",

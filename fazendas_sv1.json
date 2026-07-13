@@ -42,10 +42,10 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:39|13/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T15:29:06.175Z"
+    "roubadaEm": "2026-07-13T20:39:21.952Z"
   },
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
@@ -140,7 +140,7 @@
     "nome": "Monopolio Farms",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:23|13/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-13T20:23:44.492Z"
   },
   "AZEROX": {

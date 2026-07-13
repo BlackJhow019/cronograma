@@ -258,10 +258,18 @@
   "YANINHA_ANTIFALSOS": {
     "idNumerico": "34",
     "nome": "yAninha_AntiFalsos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:13|13/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-13T14:13:47.464Z"
+  },
+  "LOKO": {
+    "idNumerico": "12",
+    "nome": "loko",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-13T14:12:30.289Z"
   },
   "FRANCA": {
     "idNumerico": "28",

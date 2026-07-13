@@ -74,10 +74,10 @@
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:24|14/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T18:06:30.368Z"
+    "roubadaEm": "2026-07-13T23:24:03.062Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -196,7 +196,7 @@
     "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:19|14/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-13T23:19:04.109Z"
   },
   "FAMILIA ALMANAK": {

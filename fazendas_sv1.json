@@ -28,7 +28,7 @@
     "nome": "NIKE SHOX",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:42|13/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-13T13:42:53.714Z"
   },
   "FAZENDINHA DO FIRE": {
@@ -154,9 +154,9 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:11|13/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-13T09:11:23.150Z"
   },
   "FARM'S DE CAFE": {
@@ -180,7 +180,7 @@
     "nome": "Fazenda Rota do Café",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:02|13/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-13T14:02:25.039Z"
   },
   "VAQUEIRO FARM´S": {
@@ -258,8 +258,8 @@
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:09|13/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-13T09:09:59.237Z"
   },

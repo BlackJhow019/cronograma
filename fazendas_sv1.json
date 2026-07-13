@@ -67,9 +67,9 @@
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
-    "disponivelEm": "06:43|13/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T04:43:06.492Z"
+    "disponivelEm": "06:42|13/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-13T04:42:55.108Z"
   },
   "LEK0ZIKA": {
     "idNumerico": "35",
@@ -133,7 +133,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "06:39|13/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T04:39:34.145Z"
+    "roubadaEm": "2026-07-13T04:39:34.016Z"
   },
   "MONOPOLIO FARMS": {
     "idNumerico": "20",
@@ -253,7 +253,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "06:45|13/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T04:45:02.900Z"
+    "roubadaEm": "2026-07-13T04:45:02.775Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
@@ -338,10 +338,10 @@
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:47|13/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-12T23:21:06.130Z"
+    "roubadaEm": "2026-07-13T04:47:32.218Z"
   },
   "FAZENDA FELIZ": {
     "idNumerico": "22",

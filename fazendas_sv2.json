@@ -87,19 +87,11 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-13T18:19:59.744Z"
   },
-  "FAZENDA DO MIRIM": {
-    "idNumerico": "36",
-    "nome": "Fazenda Do MIRIM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:57|13/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T15:57:40.919Z"
-  },
   "MALVADA'S FARM": {
     "idNumerico": "32",
     "nome": "Malvada's Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:55|13/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-13T15:55:25.680Z"
   },

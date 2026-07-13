@@ -47,14 +47,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-12T21:05:00.733Z"
   },
-  "FAZENDA DO TEMOR": {
-    "idNumerico": "30",
-    "nome": "Fazenda do Temor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:22|12/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-12T20:22:05.068Z"
-  },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
     "nome": "LA FAMILIA CHIARADIA",
@@ -214,6 +206,14 @@
     "disponivelEm": "02:19|13/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-13T00:19:56.424Z"
+  },
+  "FARM DO SAPATO": {
+    "idNumerico": "9",
+    "nome": "FARM DO SAPATO",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-12T20:19:08.095Z"
   },
   "AURA + EGO": {
     "idNumerico": "22",

@@ -50,10 +50,10 @@
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:17|13/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-12T20:22:05.068Z"
+    "roubadaEm": "2026-07-13T02:17:34.602Z"
   },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
@@ -86,14 +86,6 @@
     "disponivelEm": "01:07|13/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-12T23:07:51.376Z"
-  },
-  "FAZENDA DO MIRIM": {
-    "idNumerico": "36",
-    "nome": "Fazenda Do MIRIM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:16|12/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-12T21:16:41.657Z"
   },
   "MALVADA'S FARM": {
     "idNumerico": "32",

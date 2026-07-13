@@ -159,14 +159,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-13T20:01:49.221Z"
   },
-  "FARM'S DE CAFE": {
-    "idNumerico": "4",
-    "nome": "Farm's de Cafe",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:57|13/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-13T15:57:38.109Z"
-  },
   "K1NG FARM'S": {
     "idNumerico": "25",
     "nome": "K1NG Farm's",
@@ -207,14 +199,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-13T18:46:48.562Z"
   },
-  "QUEM ROUBAR E PETISTA": {
-    "idNumerico": "44",
-    "nome": "Quem Roubar e Petista",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:00|13/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-13T16:00:48.628Z"
-  },
   "VC É A PIADA AQUI": {
     "idNumerico": "10",
     "nome": "Vc é a piada aqui",
@@ -234,10 +218,10 @@
   "BEE": {
     "idNumerico": "7",
     "nome": "BEE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:02|13/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T15:42:38.292Z"
+    "roubadaEm": "2026-07-13T21:02:06.579Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
@@ -348,7 +332,7 @@
     "nome": "fazenda feliz",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:55|13/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-13T20:55:35.744Z"
   },
   "OS DE RACA": {

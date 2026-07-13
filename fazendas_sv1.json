@@ -15,14 +15,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-13T18:15:43.931Z"
   },
-  "KODIAK": {
-    "idNumerico": "3",
-    "nome": "KodiaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:21|13/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-13T14:21:01.307Z"
-  },
   "NIKE SHOX": {
     "idNumerico": "42",
     "nome": "NIKE SHOX",
@@ -306,9 +298,9 @@
   "JAH RASTAFARI": {
     "idNumerico": "39",
     "nome": "JAH RASTAFARI",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:18|13/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-13T14:18:17.995Z"
   },
   "MAGUINHO. FARM'$$": {
@@ -354,9 +346,9 @@
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:18|13/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-13T14:18:08.887Z"
   }
 }

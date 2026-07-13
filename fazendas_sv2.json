@@ -194,10 +194,10 @@
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:01|13/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-12T21:20:50.726Z"
+    "roubadaEm": "2026-07-13T07:01:21.496Z"
   },
   "QG FARM KHAOS": {
     "idNumerico": "18",
@@ -218,8 +218,8 @@
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:05|13/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-13T02:05:15.713Z"
   },

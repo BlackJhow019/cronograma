@@ -4,7 +4,7 @@
     "nome": "999",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:50|13/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-13T01:50:35.975Z"
   },
   "JESUS EA SOLUCAO": {
@@ -43,7 +43,7 @@
     "idNumerico": "42",
     "nome": "EVENTO",
     "status": "INDISPONIVEL",
-    "disponivelEm": "23:05|12/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-12T21:05:00.733Z"
   },
@@ -218,10 +218,10 @@
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:05|13/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-12T20:19:08.095Z"
+    "roubadaEm": "2026-07-13T02:05:02.983Z"
   },
   "AURA + EGO": {
     "idNumerico": "22",

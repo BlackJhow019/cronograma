@@ -98,10 +98,10 @@
   "MALVADA'S FARM": {
     "idNumerico": "32",
     "nome": "Malvada's Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:34|13/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-12T21:38:29.306Z"
+    "roubadaEm": "2026-07-13T04:34:49.586Z"
   },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
@@ -223,14 +223,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-13T02:05:15.713Z"
   },
-  "AURA + EGO": {
-    "idNumerico": "22",
-    "nome": "Aura + Ego",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-12T23:10:59.933Z"
-  },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",
     "nome": "Succubus Farms",
@@ -270,14 +262,6 @@
     "disponivelEm": "05:28|13/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-13T03:28:21.330Z"
-  },
-  "FRANCA": {
-    "idNumerico": "28",
-    "nome": "FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-12T23:23:27.946Z"
   },
   "CHAMA A POLICIA": {
     "idNumerico": "44",
@@ -334,14 +318,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-12T21:09:58.545Z"
-  },
-  "~E V O M~": {
-    "idNumerico": "25",
-    "nome": "~E V O M~",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-12T23:18:45.483Z"
   },
   "FAZENDA CUIUDA - BY GAZOLA": {
     "idNumerico": "17",

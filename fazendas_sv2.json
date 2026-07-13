@@ -298,10 +298,10 @@
   "FARM DO GALO": {
     "idNumerico": "40",
     "nome": "FARM DO GALO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:25|14/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T08:44:38.922Z"
+    "roubadaEm": "2026-07-13T22:25:12.480Z"
   },
   "GRUPO RANTER": {
     "idNumerico": "19",
@@ -356,7 +356,7 @@
     "nome": "RAMONZIN_FRANCA",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:22|14/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-13T22:22:14.698Z"
   }
 }

@@ -212,7 +212,7 @@
     "nome": "Quem Roubar e Petista",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:07|13/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-13T05:07:43.327Z"
   },
   "VC É A PIADA AQUI": {
@@ -274,9 +274,9 @@
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:09|13/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-13T00:09:16.345Z"
   },
   "NOREX FARM'S": {

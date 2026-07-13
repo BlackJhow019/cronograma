@@ -124,7 +124,7 @@
     "nome": "Fazenda da Milly",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:05|13/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-13T00:05:14.651Z"
   },
   "HWD INVESTIMENTOS": {
@@ -274,10 +274,10 @@
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:08|13/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-12T08:55:08.398Z"
+    "roubadaEm": "2026-07-13T00:08:56.942Z"
   },
   "NOREX FARM'S": {
     "idNumerico": "13",

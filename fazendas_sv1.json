@@ -130,10 +130,10 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:41|13/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T04:39:34.016Z"
+    "roubadaEm": "2026-07-13T13:41:18.083Z"
   },
   "MONOPOLIO FARMS": {
     "idNumerico": "20",
@@ -244,7 +244,7 @@
     "nome": "YT @GANDIA_RP",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:14|13/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-13T13:14:33.367Z"
   },
   "021": {

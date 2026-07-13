@@ -274,10 +274,10 @@
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:32|13/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T15:01:39.494Z"
+    "roubadaEm": "2026-07-13T20:32:53.295Z"
   },
   "CHAMA A POLICIA": {
     "idNumerico": "44",
@@ -292,7 +292,7 @@
     "nome": "$ Company $r.RC_PlinioDmG $",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:27|13/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-13T20:27:13.718Z"
   },
   "FARM DO GALO": {

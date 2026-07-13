@@ -143,14 +143,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-12T14:05:37.854Z"
   },
-  "AZEROX": {
-    "idNumerico": "23",
-    "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:59|13/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-13T10:59:15.514Z"
-  },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
@@ -164,7 +156,7 @@
     "nome": "Farm's de Cafe",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:57|13/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-13T15:57:38.109Z"
   },
   "K1NG FARM'S": {
@@ -210,10 +202,10 @@
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:00|13/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T05:07:43.327Z"
+    "roubadaEm": "2026-07-13T16:00:06.944Z"
   },
   "VC É A PIADA AQUI": {
     "idNumerico": "10",

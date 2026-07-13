@@ -39,14 +39,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-12T20:30:37.189Z"
   },
-  "RANCHO DO DOUTOR": {
-    "idNumerico": "14",
-    "nome": "Rancho do Doutor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:12|13/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-13T10:12:01.844Z"
-  },
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
     "nome": "Rafha investimentos $",
@@ -220,7 +212,7 @@
     "nome": "Vc é a piada aqui",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:59|13/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-13T14:59:45.143Z"
   },
   "GRANJA DO IMONKEY": {
@@ -258,10 +250,10 @@
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:16|13/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T09:09:59.237Z"
+    "roubadaEm": "2026-07-13T15:16:12.499Z"
   },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
@@ -284,7 +276,7 @@
     "nome": "Norex farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:59|13/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-13T14:59:14.561Z"
   },
   "RICK FARM'S": {

@@ -314,10 +314,10 @@
   ".": {
     "idNumerico": "31",
     "nome": ".",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:02|14/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T16:58:29.332Z"
+    "roubadaEm": "2026-07-13T23:02:02.058Z"
   },
   "GRUPO NEXUS": {
     "idNumerico": "9",

@@ -52,7 +52,7 @@
     "nome": "Fazenda do Temor",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:17|13/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-13T02:17:34.602Z"
   },
   "LA FAMILIA CHIARADIA": {
@@ -86,6 +86,14 @@
     "disponivelEm": "01:07|13/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-12T23:07:51.376Z"
+  },
+  "FAZENDA DO MIRIM": {
+    "idNumerico": "36",
+    "nome": "Fazenda Do MIRIM",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-12T21:16:41.657Z"
   },
   "MALVADA'S FARM": {
     "idNumerico": "32",
@@ -138,8 +146,8 @@
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:18|12/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-12T21:18:38.117Z"
   },
@@ -186,8 +194,8 @@
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:20|12/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-12T21:20:50.726Z"
   },

@@ -4,7 +4,7 @@
     "nome": "999",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:33|14/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-13T22:33:02.695Z"
   },
   "JESUS EA SOLUCAO": {
@@ -138,10 +138,10 @@
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:48|14/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T16:30:30.183Z"
+    "roubadaEm": "2026-07-13T22:48:50.330Z"
   },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
@@ -220,7 +220,7 @@
     "nome": "FARM DO SAPATO",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:41|14/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-13T22:41:12.907Z"
   },
   "AURA + EGO": {

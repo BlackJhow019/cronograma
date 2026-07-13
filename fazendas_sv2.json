@@ -266,10 +266,10 @@
   "LOKO": {
     "idNumerico": "12",
     "nome": "loko",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:28|13/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-12T21:10:05.589Z"
+    "roubadaEm": "2026-07-13T03:28:21.330Z"
   },
   "FRANCA": {
     "idNumerico": "28",
@@ -298,10 +298,10 @@
   "FARM DO GALO": {
     "idNumerico": "40",
     "nome": "FARM DO GALO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:24|13/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-12T21:40:54.304Z"
+    "roubadaEm": "2026-07-13T03:24:33.491Z"
   },
   "GRUPO RANTER": {
     "idNumerico": "19",

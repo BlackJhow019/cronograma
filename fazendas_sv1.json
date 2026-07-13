@@ -39,14 +39,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-12T20:30:37.189Z"
   },
-  "RANCHO DO DOUTOR": {
-    "idNumerico": "14",
-    "nome": "Rancho do Doutor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:15|12/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-12T20:15:23.967Z"
-  },
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
     "nome": "Rafha investimentos $",
@@ -54,6 +46,14 @@
     "disponivelEm": "02:25|13/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-13T00:25:08.850Z"
+  },
+  "THUG LIFE": {
+    "idNumerico": "21",
+    "nome": "THUG LIFE",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-12T20:11:18.958Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",

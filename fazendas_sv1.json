@@ -10,10 +10,10 @@
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:15|13/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T12:54:20.871Z"
+    "roubadaEm": "2026-07-13T18:15:06.299Z"
   },
   "KODIAK": {
     "idNumerico": "3",
@@ -238,14 +238,6 @@
     "disponivelEm": "17:42|13/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-13T15:42:38.292Z"
-  },
-  "YT @GANDIA_RP": {
-    "idNumerico": "15",
-    "nome": "YT @GANDIA_RP",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-13T13:14:33.367Z"
   },
   "021": {
     "idNumerico": "1",

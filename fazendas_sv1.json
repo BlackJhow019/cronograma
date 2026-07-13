@@ -250,10 +250,10 @@
   "021": {
     "idNumerico": "1",
     "nome": "021",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:45|13/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-12T22:28:13.266Z"
+    "roubadaEm": "2026-07-13T04:45:02.900Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
@@ -334,14 +334,6 @@
     "disponivelEm": "01:57|13/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-12T23:57:58.056Z"
-  },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:44|13/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-12T23:44:15.603Z"
   },
   "30PRAUM": {
     "idNumerico": "16",

@@ -170,8 +170,8 @@
   "K1NG FARM'S": {
     "idNumerico": "25",
     "nome": "K1NG Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:14|13/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-13T01:14:51.919Z"
   },
@@ -194,10 +194,10 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-12T22:45:38.555Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:15|13/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-13T06:15:48.806Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
@@ -242,10 +242,10 @@
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:21|13/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-12T21:19:47.831Z"
+    "roubadaEm": "2026-07-13T06:21:47.917Z"
   },
   "021": {
     "idNumerico": "1",

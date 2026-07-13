@@ -7,14 +7,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-13T21:51:14.233Z"
   },
-  "PREFEITO ROADBLOCK": {
-    "idNumerico": "41",
-    "nome": "Prefeito Roadblock",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:15|13/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-13T18:15:43.931Z"
-  },
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
@@ -194,10 +186,10 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:18|14/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T17:14:42.525Z"
+    "roubadaEm": "2026-07-13T23:18:55.757Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",

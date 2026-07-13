@@ -60,7 +60,7 @@
     "nome": "THUG LIFE",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:25|13/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-13T06:25:18.414Z"
   },
   "SAO PEDRO 2": {
@@ -244,7 +244,7 @@
     "nome": "YT @GANDIA_RP",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:21|13/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-13T06:21:47.917Z"
   },
   "021": {
@@ -266,10 +266,10 @@
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:47|13/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T01:09:33.854Z"
+    "roubadaEm": "2026-07-13T06:47:52.619Z"
   },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",

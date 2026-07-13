@@ -82,10 +82,10 @@
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:00|13/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T02:04:04.993Z"
+    "roubadaEm": "2026-07-13T14:00:16.721Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
@@ -354,9 +354,9 @@
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:56|13/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-13T08:56:15.074Z"
   }
 }

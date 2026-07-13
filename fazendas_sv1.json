@@ -146,9 +146,9 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:46|12/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-12T19:46:26.970Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
@@ -266,8 +266,8 @@
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:45|12/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-12T19:45:24.201Z"
   },

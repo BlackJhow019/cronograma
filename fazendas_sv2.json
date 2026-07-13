@@ -146,10 +146,10 @@
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:46|13/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T13:54:31.078Z"
+    "roubadaEm": "2026-07-13T19:46:44.553Z"
   },
   "ARIANA_B13": {
     "idNumerico": "10",
@@ -268,7 +268,7 @@
     "nome": "loko",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:41|13/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-13T19:41:14.613Z"
   },
   "FRANCA": {

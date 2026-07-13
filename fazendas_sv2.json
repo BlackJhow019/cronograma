@@ -146,8 +146,8 @@
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:54|13/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-13T13:54:31.078Z"
   },
@@ -191,14 +191,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-13T16:27:15.909Z"
   },
-  "FARM'S NAY E NICK": {
-    "idNumerico": "5",
-    "nome": "FARM'S NAY E NICK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:57|13/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T13:57:18.553Z"
-  },
   "QG FARM KHAOS": {
     "idNumerico": "18",
     "nome": "QG FARM KHAOS",
@@ -236,7 +228,7 @@
     "nome": "Succubus Farms",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:33|13/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-13T18:33:39.071Z"
   },
   "FAZENDA REI DROGADO": {

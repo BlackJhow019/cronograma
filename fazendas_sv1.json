@@ -130,10 +130,10 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:00|14/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-14T01:50:10.222Z"
+    "roubadaEm": "2026-07-14T14:00:56.949Z"
   },
   "MONOPOLIO FARMS": {
     "idNumerico": "20",

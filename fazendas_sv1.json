@@ -234,10 +234,10 @@
   "BEE": {
     "idNumerico": "7",
     "nome": "BEE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:49|14/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-14T11:52:25.373Z"
+    "roubadaEm": "2026-07-14T17:49:48.394Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
@@ -278,14 +278,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-14T03:25:53.903Z"
-  },
-  "NOREX FARM'S": {
-    "idNumerico": "13",
-    "nome": "Norex farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:48|14/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-14T12:48:09.459Z"
   },
   "RICK FARM'S": {
     "idNumerico": "30",

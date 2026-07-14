@@ -26,9 +26,9 @@
   "NIKE SHOX": {
     "idNumerico": "42",
     "nome": "NIKE SHOX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:53|14/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-14T18:53:59.738Z"
   },
   "FAZENDINHA DO FIRE": {
@@ -324,7 +324,7 @@
     "nome": ".",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:50|15/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-14T23:50:18.900Z"
   },
   "30PRAUM": {

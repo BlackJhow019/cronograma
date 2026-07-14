@@ -314,10 +314,10 @@
   "MAGUINHO. FARM'$$": {
     "idNumerico": "40",
     "nome": "Maguinho. Farm'$$",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:26|14/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-14T07:45:50.638Z"
+    "roubadaEm": "2026-07-14T14:26:15.171Z"
   },
   ".": {
     "idNumerico": "31",
@@ -340,7 +340,7 @@
     "nome": "30PRAUM",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:09|14/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-14T14:09:53.388Z"
   },
   "FAZENDA FELIZ": {

@@ -2,9 +2,9 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:51|13/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-13T21:51:14.233Z"
   },
   "PREFEITO ROADBLOCK": {
@@ -180,7 +180,7 @@
     "nome": "Fazenda Rota do Café",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:44|14/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-14T02:44:47.980Z"
   },
   "VAQUEIRO FARM´S": {

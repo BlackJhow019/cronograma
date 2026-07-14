@@ -55,14 +55,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-14T02:20:11.992Z"
   },
-  "THUG LIFE": {
-    "idNumerico": "21",
-    "nome": "THUG LIFE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:34|14/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T23:34:51.420Z"
-  },
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
@@ -222,6 +214,14 @@
     "disponivelEm": "05:06|14/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-14T03:06:03.754Z"
+  },
+  "GRANJA DO IMONKEY": {
+    "idNumerico": "29",
+    "nome": "Granja do iMonKeY",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-13T23:29:50.483Z"
   },
   "BEE": {
     "idNumerico": "7",

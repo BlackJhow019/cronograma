@@ -236,8 +236,8 @@
     "nome": "BEE",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:02|15/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-14T23:02:49.805Z"
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-14T23:02:37.687Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
@@ -327,14 +327,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-14T15:52:38.178Z"
   },
-  "GRUPO NEXUS": {
-    "idNumerico": "9",
-    "nome": "GRUPO NEXUS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:03|14/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-14T18:03:48.191Z"
-  },
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
@@ -358,5 +350,13 @@
     "disponivelEm": "21:01|14/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-14T19:01:49.281Z"
+  },
+  "GRUPO NEXUS": {
+    "idNumerico": "9",
+    "nome": "GRUPO NEXUS",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
   }
 }

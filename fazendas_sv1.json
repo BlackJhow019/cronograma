@@ -242,10 +242,10 @@
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:30|14/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-14T05:15:21.237Z"
+    "roubadaEm": "2026-07-14T12:30:26.844Z"
   },
   "021": {
     "idNumerico": "1",
@@ -332,7 +332,7 @@
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:17|14/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-14T12:17:49.396Z"
   },
   "30PRAUM": {

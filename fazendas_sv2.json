@@ -39,14 +39,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-13T20:53:37.315Z"
   },
-  "EVENTO": {
-    "idNumerico": "42",
-    "nome": "EVENTO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:45|14/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-14T04:45:00.449Z"
-  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -282,10 +274,10 @@
   "CHAMA A POLICIA": {
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:47|14/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T23:41:29.374Z"
+    "roubadaEm": "2026-07-14T09:47:05.804Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",

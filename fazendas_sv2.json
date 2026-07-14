@@ -42,10 +42,10 @@
   "EVENTO": {
     "idNumerico": "42",
     "nome": "EVENTO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:37|15/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-14T17:07:45.141Z"
+    "roubadaEm": "2026-07-14T23:37:13.764Z"
   },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
@@ -164,7 +164,7 @@
     "nome": "Farme do Drake",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:33|15/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-14T23:33:02.387Z"
   },
   "DEAD (:": {

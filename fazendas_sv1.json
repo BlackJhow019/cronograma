@@ -11,7 +11,7 @@
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
     "status": "INDISPONIVEL",
-    "disponivelEm": "15:37|14/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-14T13:37:24.881Z"
   },
@@ -58,10 +58,10 @@
   "THUG LIFE": {
     "idNumerico": "21",
     "nome": "THUG LIFE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:37|14/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-14T12:15:34.611Z"
+    "roubadaEm": "2026-07-14T18:37:45.570Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",

@@ -162,10 +162,10 @@
   "FARME DO DRAKE": {
     "idNumerico": "35",
     "nome": "Farme do Drake",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:33|15/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-14T16:27:56.075Z"
+    "roubadaEm": "2026-07-14T23:33:02.387Z"
   },
   "DEAD (:": {
     "idNumerico": "27",
@@ -204,7 +204,7 @@
     "nome": "QG FARM KHAOS",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:28|15/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-14T23:28:54.259Z"
   },
   "FARM DA THATY": {

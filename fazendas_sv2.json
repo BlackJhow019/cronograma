@@ -170,10 +170,10 @@
   "DEAD (:": {
     "idNumerico": "27",
     "nome": "Dead (:",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:26|15/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-14T17:22:55.026Z"
+    "roubadaEm": "2026-07-14T23:26:32.918Z"
   },
   "DONA SEM RAZAO": {
     "idNumerico": "26",
@@ -286,14 +286,6 @@
     "disponivelEm": "01:14|15/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-14T23:14:08.237Z"
-  },
-  "$ COMPANY $R.RC_PLINIODMG $": {
-    "idNumerico": "3",
-    "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:23|14/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-14T18:23:28.409Z"
   },
   "FARM DO GALO": {
     "idNumerico": "40",

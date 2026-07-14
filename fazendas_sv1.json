@@ -90,8 +90,8 @@
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
     "nome": "Wesker_u$MeTraLha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:56|14/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-13T22:56:54.380Z"
   },
@@ -207,14 +207,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-13T23:56:39.328Z"
   },
-  "QUEM ROUBAR E PETISTA": {
-    "idNumerico": "44",
-    "nome": "Quem Roubar e Petista",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:59|14/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T22:59:59.344Z"
-  },
   "VC É A PIADA AQUI": {
     "idNumerico": "10",
     "nome": "Vc é a piada aqui",
@@ -323,7 +315,7 @@
     "idNumerico": "31",
     "nome": ".",
     "status": "INDISPONIVEL",
-    "disponivelEm": "01:02|14/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-13T23:02:02.058Z"
   },

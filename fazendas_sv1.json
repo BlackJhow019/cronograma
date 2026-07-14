@@ -68,7 +68,7 @@
     "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:25|14/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-14T03:25:37.293Z"
   },
   "LEK0ZIKA": {
@@ -162,10 +162,10 @@
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T15:57:38.109Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:37|14/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-14T03:37:34.812Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",
@@ -266,8 +266,8 @@
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:36|14/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-13T22:36:08.393Z"
   },
@@ -276,7 +276,7 @@
     "nome": "PoLeMiCo$ industri$",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:25|14/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-14T03:25:53.903Z"
   },
   "NOREX FARM'S": {

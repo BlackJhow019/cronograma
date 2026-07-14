@@ -50,10 +50,10 @@
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:59|14/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-14T10:34:18.004Z"
+    "roubadaEm": "2026-07-14T17:59:07.618Z"
   },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
@@ -356,7 +356,7 @@
     "nome": "RAMONZIN_FRANCA",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:32|14/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-14T17:32:55.829Z"
   }
 }

@@ -210,10 +210,10 @@
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:25|14/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T22:59:59.344Z"
+    "roubadaEm": "2026-07-14T13:25:08.130Z"
   },
   "VC É A PIADA AQUI": {
     "idNumerico": "10",
@@ -308,7 +308,7 @@
     "nome": "JAH RASTAFARI",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:18|14/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-14T13:18:02.774Z"
   },
   "MAGUINHO. FARM'$$": {
@@ -356,7 +356,7 @@
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:19|14/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-14T13:19:25.974Z"
   }
 }

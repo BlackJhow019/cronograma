@@ -124,7 +124,7 @@
     "nome": "Farms de Galopisitas",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:08|14/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-14T20:08:33.464Z"
   },
   "CANNABIS": {
@@ -215,14 +215,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-14T14:57:36.077Z"
   },
-  "FARM DO SAPATO": {
-    "idNumerico": "9",
-    "nome": "FARM DO SAPATO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:14|14/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-14T15:14:13.611Z"
-  },
   "AURA + EGO": {
     "idNumerico": "22",
     "nome": "Aura + Ego",
@@ -234,10 +226,10 @@
   "SUCCUBUS FARMS": {
     "idNumerico": "29",
     "nome": "Succubus Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:15|14/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T18:33:39.071Z"
+    "roubadaEm": "2026-07-14T20:15:49.040Z"
   },
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",

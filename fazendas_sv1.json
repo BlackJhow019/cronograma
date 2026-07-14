@@ -138,10 +138,10 @@
   "MONOPOLIO FARMS": {
     "idNumerico": "20",
     "nome": "Monopolio Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:30|14/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-14T06:58:47.697Z"
+    "roubadaEm": "2026-07-14T14:30:23.880Z"
   },
   "AZEROX": {
     "idNumerico": "23",
@@ -316,7 +316,7 @@
     "nome": "Maguinho. Farm'$$",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:26|14/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-14T14:26:30.031Z"
   },
   ".": {

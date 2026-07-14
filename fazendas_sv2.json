@@ -92,7 +92,7 @@
     "nome": "Fazenda Do MIRIM",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:27|15/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-14T23:27:59.688Z"
   },
   "MALVADA'S FARM": {
@@ -322,10 +322,10 @@
   "/VENDERPRODUTOS": {
     "idNumerico": "7",
     "nome": "/VENDERPRODUTOS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:32|15/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-09T01:14:46.718Z"
+    "roubadaEm": "2026-07-14T23:32:17.895Z"
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {
     "idNumerico": "37",

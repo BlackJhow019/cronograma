@@ -66,10 +66,10 @@
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
     "nome": "Farma Da Familia Elite",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:46|15/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T21:01:35.800Z"
+    "roubadaEm": "2026-07-14T22:46:41.724Z"
   },
   "TA NO GRALI": {
     "idNumerico": "4",
@@ -276,7 +276,7 @@
     "nome": "FRANCA",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:32|15/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-14T22:32:23.681Z"
   },
   "CHAMA A POLICIA": {

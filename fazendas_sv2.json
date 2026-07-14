@@ -210,10 +210,10 @@
   "FARM DA THATY": {
     "idNumerico": "1",
     "nome": "Farm da Thaty",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:21|14/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-14T14:57:36.077Z"
+    "roubadaEm": "2026-07-14T20:21:51.151Z"
   },
   "FARM DO SAPATO": {
     "idNumerico": "9",
@@ -236,7 +236,7 @@
     "nome": "Succubus Farms",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:16|14/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-14T20:16:07.505Z"
   },
   "FAZENDA REI DROGADO": {

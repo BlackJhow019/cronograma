@@ -119,14 +119,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-14T00:15:25.078Z"
   },
-  "FARMS DE GALOPISITAS": {
-    "idNumerico": "20",
-    "nome": "Farms de Galopisitas",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:00|13/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T20:00:45.974Z"
-  },
   "CANNABIS": {
     "idNumerico": "8",
     "nome": "CANNABIS",
@@ -242,8 +234,8 @@
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",
     "nome": "Fazenda Rei Drogado",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:57|13/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-13T19:57:04.004Z"
   },

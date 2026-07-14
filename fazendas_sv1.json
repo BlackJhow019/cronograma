@@ -58,10 +58,10 @@
   "THUG LIFE": {
     "idNumerico": "21",
     "nome": "THUG LIFE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:58|14/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T23:34:51.420Z"
+    "roubadaEm": "2026-07-14T04:58:46.520Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -199,14 +199,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-14T04:48:41.893Z"
   },
-  "FAMILIA ALMANAK": {
-    "idNumerico": "32",
-    "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:56|14/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T23:56:39.328Z"
-  },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
@@ -238,14 +230,6 @@
     "disponivelEm": "04:33|14/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-14T02:33:21.820Z"
-  },
-  "YT @GANDIA_RP": {
-    "idNumerico": "15",
-    "nome": "YT @GANDIA_RP",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:57|14/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T23:57:15.239Z"
   },
   "021": {
     "idNumerico": "1",

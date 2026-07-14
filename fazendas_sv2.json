@@ -164,7 +164,7 @@
     "nome": "Farme do Drake",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:27|14/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-14T16:27:56.075Z"
   },
   "DEAD (:": {
@@ -266,10 +266,10 @@
   "LOKO": {
     "idNumerico": "12",
     "nome": "loko",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:38|14/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T19:41:14.613Z"
+    "roubadaEm": "2026-07-14T16:38:53.437Z"
   },
   "FRANCA": {
     "idNumerico": "28",

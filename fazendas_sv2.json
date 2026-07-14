@@ -39,14 +39,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-14T13:41:06.346Z"
   },
-  "EVENTO": {
-    "idNumerico": "42",
-    "nome": "EVENTO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:47|14/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-14T11:47:09.152Z"
-  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -194,10 +186,10 @@
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:48|14/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-14T09:22:38.648Z"
+    "roubadaEm": "2026-07-14T16:48:17.700Z"
   },
   "QG FARM KHAOS": {
     "idNumerico": "18",

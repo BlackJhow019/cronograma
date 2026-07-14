@@ -252,7 +252,7 @@
     "nome": "021",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:02|15/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-14T22:02:00.157Z"
   },
   "FAMILIA KUSH": {
@@ -306,10 +306,10 @@
   "JAH RASTAFARI": {
     "idNumerico": "39",
     "nome": "JAH RASTAFARI",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:19|15/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-14T13:18:02.774Z"
+    "roubadaEm": "2026-07-14T22:19:16.761Z"
   },
   "MAGUINHO. FARM'$$": {
     "idNumerico": "40",

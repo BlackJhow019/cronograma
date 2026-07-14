@@ -178,9 +178,9 @@
   "FAZENDA ROTA DO CAFÉ": {
     "idNumerico": "17",
     "nome": "Fazenda Rota do Café",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:14|14/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-14T18:14:33.184Z"
   },
   "VAQUEIRO FARM´S": {

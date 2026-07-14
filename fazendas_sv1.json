@@ -167,12 +167,20 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-14T03:37:34.812Z"
   },
+  "K1NG FARM'S": {
+    "idNumerico": "25",
+    "nome": "K1NG Farm's",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-14T13:13:20.459Z"
+  },
   "FAZENDA ROTA DO CAFÉ": {
     "idNumerico": "17",
     "nome": "Fazenda Rota do Café",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:14|14/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-14T18:14:33.184Z"
   },
   "VAQUEIRO FARM´S": {

@@ -226,10 +226,10 @@
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:05|14/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T23:29:50.483Z"
+    "roubadaEm": "2026-07-14T13:05:11.543Z"
   },
   "BEE": {
     "idNumerico": "7",
@@ -284,7 +284,7 @@
     "nome": "Norex farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:48|14/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-14T12:48:09.459Z"
   },
   "RICK FARM'S": {

@@ -4,7 +4,7 @@
     "nome": "rico louco",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:07|14/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-14T03:07:04.044Z"
   },
   "PREFEITO ROADBLOCK": {
@@ -170,8 +170,8 @@
   "K1NG FARM'S": {
     "idNumerico": "25",
     "nome": "K1NG Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:10|14/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-13T22:10:14.893Z"
   },
@@ -220,7 +220,7 @@
     "nome": "Vc é a piada aqui",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:06|14/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-14T03:06:03.754Z"
   },
   "GRANJA DO IMONKEY": {

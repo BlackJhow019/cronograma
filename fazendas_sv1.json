@@ -138,10 +138,10 @@
   "MONOPOLIO FARMS": {
     "idNumerico": "20",
     "nome": "Monopolio Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:59|14/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-14T14:30:23.880Z"
+    "roubadaEm": "2026-07-14T19:59:11.947Z"
   },
   "AZEROX": {
     "idNumerico": "23",
@@ -340,7 +340,7 @@
     "nome": "30PRAUM",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:54|14/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-14T19:54:04.511Z"
   },
   "FAZENDA FELIZ": {

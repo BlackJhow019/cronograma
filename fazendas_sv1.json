@@ -19,7 +19,7 @@
     "idNumerico": "3",
     "nome": "KodiaK",
     "status": "INDISPONIVEL",
-    "disponivelEm": "21:43|13/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-13T19:43:57.683Z"
   },
@@ -118,6 +118,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-13T16:36:25.173Z"
+  },
+  "FAZENDA DA MILLY": {
+    "idNumerico": "19",
+    "nome": "Fazenda da Milly",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-13T19:40:43.696Z"
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",

@@ -282,9 +282,9 @@
   "CHAMA A POLICIA": {
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:08|14/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-14T16:08:40.210Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {

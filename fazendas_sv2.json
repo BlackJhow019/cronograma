@@ -162,9 +162,9 @@
   "FARME DO DRAKE": {
     "idNumerico": "35",
     "nome": "Farme do Drake",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:27|14/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-14T16:27:56.075Z"
   },
   "DEAD (:": {
@@ -316,7 +316,7 @@
     "nome": "Rolinha Cansada Farms",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:19|14/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-14T21:19:11.776Z"
   },
   "/VENDERPRODUTOS": {

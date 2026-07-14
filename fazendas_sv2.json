@@ -66,9 +66,9 @@
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
     "nome": "Farma Da Familia Elite",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:01|13/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-13T21:01:35.800Z"
   },
   "TA NO GRALI": {
@@ -195,7 +195,7 @@
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
     "status": "INDISPONIVEL",
-    "disponivelEm": "23:07|13/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-13T21:07:02.338Z"
   },

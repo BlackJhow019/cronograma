@@ -124,7 +124,7 @@
     "nome": "Fazenda da Milly",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:59|14/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-14T19:59:43.103Z"
   },
   "HWD INVESTIMENTOS": {
@@ -266,10 +266,10 @@
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:01|14/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-14T12:39:00.621Z"
+    "roubadaEm": "2026-07-14T20:01:51.265Z"
   },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",

@@ -82,10 +82,10 @@
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:29|14/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-14T00:35:01.306Z"
+    "roubadaEm": "2026-07-14T13:29:48.344Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
@@ -212,7 +212,7 @@
     "nome": "Quem Roubar e Petista",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:25|14/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-14T13:25:08.130Z"
   },
   "VC É A PIADA AQUI": {

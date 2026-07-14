@@ -186,10 +186,10 @@
   "VAQUEIRO FARM´S": {
     "idNumerico": "18",
     "nome": "Vaqueiro Farm´s",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:25|15/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T05:23:35.330Z"
+    "roubadaEm": "2026-07-14T22:25:02.622Z"
   },
   "DM2 FARM": {
     "idNumerico": "6",
@@ -308,7 +308,7 @@
     "nome": "JAH RASTAFARI",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:19|15/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-14T22:19:16.761Z"
   },
   "MAGUINHO. FARM'$$": {

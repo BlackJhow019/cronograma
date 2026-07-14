@@ -130,10 +130,10 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:47|14/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-14T14:01:40.987Z"
+    "roubadaEm": "2026-07-14T19:47:20.838Z"
   },
   "MONOPOLIO FARMS": {
     "idNumerico": "20",
@@ -204,7 +204,7 @@
     "nome": "Familia AlmanaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:40|14/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-14T19:40:18.847Z"
   },
   "QUEM ROUBAR E PETISTA": {

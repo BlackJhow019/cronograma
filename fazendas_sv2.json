@@ -212,15 +212,15 @@
     "nome": "Farm da Thaty",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:39|14/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-14T03:39:37.398Z"
   },
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:41|14/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-13T22:41:12.907Z"
   },
   "AURA + EGO": {

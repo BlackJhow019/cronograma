@@ -124,7 +124,7 @@
     "nome": "Fazenda da Milly",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:15|14/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-14T06:15:57.725Z"
   },
   "HWD INVESTIMENTOS": {
@@ -255,6 +255,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-14T04:02:54.995Z"
   },
+  "FAMILIA KUSH": {
+    "idNumerico": "34",
+    "nome": "Familia KuSh",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-14T01:15:28.610Z"
+  },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
@@ -342,13 +350,5 @@
     "disponivelEm": "04:39|14/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-14T02:39:15.717Z"
-  },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:18|14/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-14T01:18:07.484Z"
   }
 }

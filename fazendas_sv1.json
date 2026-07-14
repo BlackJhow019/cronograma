@@ -111,14 +111,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-14T15:27:20.906Z"
   },
-  "CLUBE DA LULUZINHA": {
-    "idNumerico": "8",
-    "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:54|14/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-14T11:54:03.167Z"
-  },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
@@ -234,9 +226,9 @@
   "BEE": {
     "idNumerico": "7",
     "nome": "BEE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:52|14/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-14T11:52:25.373Z"
   },
   "YT @GANDIA_RP": {
@@ -252,14 +244,14 @@
     "nome": "021",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:44|14/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-14T16:44:12.794Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
     "status": "INDISPONIVEL",
-    "disponivelEm": "13:55|14/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-14T11:55:20.422Z"
   },

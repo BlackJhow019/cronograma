@@ -18,9 +18,9 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-13T19:43:57.683Z"
   },
   "NIKE SHOX": {
@@ -34,10 +34,10 @@
   "FAZENDINHA DO FIRE": {
     "idNumerico": "12",
     "nome": "Fazendinha Do Fire",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:53|14/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-12T20:30:37.189Z"
+    "roubadaEm": "2026-07-14T00:53:40.887Z"
   },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",

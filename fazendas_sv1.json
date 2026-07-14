@@ -74,10 +74,10 @@
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:39|14/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T23:24:30.205Z"
+    "roubadaEm": "2026-07-14T17:39:32.632Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -118,14 +118,6 @@
     "disponivelEm": "19:28|14/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-14T17:28:44.281Z"
-  },
-  "FAZENDA DA MILLY": {
-    "idNumerico": "19",
-    "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:38|14/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-14T12:38:35.323Z"
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
@@ -267,7 +259,7 @@
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
     "status": "INDISPONIVEL",
-    "disponivelEm": "14:39|14/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-14T12:39:00.621Z"
   },

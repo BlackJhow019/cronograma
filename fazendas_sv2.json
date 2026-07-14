@@ -18,10 +18,10 @@
   "AWAKE COMPANY": {
     "idNumerico": "13",
     "nome": "AwaKe Company",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:13|14/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T23:45:22.308Z"
+    "roubadaEm": "2026-07-14T13:13:38.986Z"
   },
   "ROCK FARM": {
     "idNumerico": "11",
@@ -44,7 +44,7 @@
     "nome": "EVENTO",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:47|14/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-14T11:47:09.152Z"
   },
   "FAZENDA DO TEMOR": {

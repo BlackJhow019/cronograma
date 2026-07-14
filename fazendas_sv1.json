@@ -28,7 +28,7 @@
     "nome": "NIKE SHOX",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:50|14/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-14T01:50:54.612Z"
   },
   "FAZENDINHA DO FIRE": {
@@ -132,7 +132,7 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:50|14/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-14T01:50:10.222Z"
   },
   "MONOPOLIO FARMS": {
@@ -346,9 +346,9 @@
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:55|13/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-13T20:55:35.744Z"
   },
   "OS DE RACA": {

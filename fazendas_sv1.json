@@ -236,7 +236,7 @@
     "nome": "BEE",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:33|14/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-14T02:33:21.820Z"
   },
   "YT @GANDIA_RP": {
@@ -346,10 +346,10 @@
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:39|14/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T20:55:35.744Z"
+    "roubadaEm": "2026-07-14T02:39:15.717Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",

@@ -114,10 +114,10 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:53|14/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-14T06:47:23.183Z"
+    "roubadaEm": "2026-07-14T11:53:40.146Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
@@ -236,7 +236,7 @@
     "nome": "BEE",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:52|14/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-14T11:52:25.373Z"
   },
   "YT @GANDIA_RP": {

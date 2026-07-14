@@ -28,7 +28,7 @@
     "nome": "NIKE SHOX",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:35|14/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-14T12:35:40.491Z"
   },
   "FAZENDINHA DO FIRE": {
@@ -282,10 +282,10 @@
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:48|14/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-14T05:25:23.970Z"
+    "roubadaEm": "2026-07-14T12:48:09.459Z"
   },
   "RICK FARM'S": {
     "idNumerico": "30",
@@ -310,14 +310,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-13T14:18:17.995Z"
-  },
-  "MAGUINHO. FARM'$$": {
-    "idNumerico": "40",
-    "nome": "Maguinho. Farm'$$",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:45|14/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-14T07:45:50.638Z"
   },
   ".": {
     "idNumerico": "31",
@@ -350,13 +342,5 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-14T02:39:15.717Z"
-  },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:46|14/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-14T07:46:50.419Z"
   }
 }

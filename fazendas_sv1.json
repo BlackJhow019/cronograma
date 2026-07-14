@@ -210,10 +210,10 @@
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:14|14/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-14T13:25:08.130Z"
+    "roubadaEm": "2026-07-14T21:14:43.930Z"
   },
   "VC É A PIADA AQUI": {
     "idNumerico": "10",
@@ -300,7 +300,7 @@
     "nome": "/caridade",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:10|14/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-14T21:10:02.394Z"
   },
   "JAH RASTAFARI": {

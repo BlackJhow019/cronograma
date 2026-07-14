@@ -260,7 +260,7 @@
     "nome": "Familia KuSh",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:15|14/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-14T01:15:28.610Z"
   },
   "FAZENDINHA DO IGEZE": {
@@ -354,9 +354,9 @@
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:17|14/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T19:36:06.009Z"
+    "roubadaEm": "2026-07-14T01:17:52.363Z"
   }
 }

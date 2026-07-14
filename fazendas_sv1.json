@@ -58,10 +58,10 @@
   "THUG LIFE": {
     "idNumerico": "21",
     "nome": "THUG LIFE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:15|14/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-14T04:59:17.735Z"
+    "roubadaEm": "2026-07-14T12:15:34.611Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -260,7 +260,7 @@
     "nome": "Familia KuSh",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:55|14/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-14T11:55:20.422Z"
   },
   "FAZENDINHA DO IGEZE": {
@@ -326,14 +326,6 @@
     "disponivelEm": "11:48|14/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-14T09:48:50.358Z"
-  },
-  "GRUPO NEXUS": {
-    "idNumerico": "9",
-    "nome": "GRUPO NEXUS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:13|14/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-14T07:13:52.862Z"
   },
   "30PRAUM": {
     "idNumerico": "16",

@@ -167,21 +167,13 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-14T03:37:34.812Z"
   },
-  "K1NG FARM'S": {
-    "idNumerico": "25",
-    "nome": "K1NG Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:13|14/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-14T13:13:20.459Z"
-  },
   "FAZENDA ROTA DO CAFÉ": {
     "idNumerico": "17",
     "nome": "Fazenda Rota do Café",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:14|14/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-14T02:44:47.980Z"
+    "roubadaEm": "2026-07-14T18:14:33.184Z"
   },
   "VAQUEIRO FARM´S": {
     "idNumerico": "18",
@@ -332,7 +324,7 @@
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:03|14/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-14T18:03:48.191Z"
   },
   "30PRAUM": {

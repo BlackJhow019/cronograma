@@ -175,14 +175,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-14T06:04:37.700Z"
   },
-  "FAZENDA ROTA DO CAFÉ": {
-    "idNumerico": "17",
-    "nome": "Fazenda Rota do Café",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:44|14/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-14T02:44:47.980Z"
-  },
   "VAQUEIRO FARM´S": {
     "idNumerico": "18",
     "nome": "Vaqueiro Farm´s",
@@ -314,10 +306,10 @@
   "MAGUINHO. FARM'$$": {
     "idNumerico": "40",
     "nome": "Maguinho. Farm'$$",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:45|14/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-14T00:32:38.504Z"
+    "roubadaEm": "2026-07-14T07:45:50.638Z"
   },
   ".": {
     "idNumerico": "31",

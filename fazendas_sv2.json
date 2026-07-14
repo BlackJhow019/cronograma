@@ -18,9 +18,9 @@
   "AWAKE COMPANY": {
     "idNumerico": "13",
     "nome": "AwaKe Company",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:45|14/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-13T23:45:22.308Z"
   },
   "ROCK FARM": {
@@ -44,7 +44,7 @@
     "nome": "EVENTO",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:45|14/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-14T04:45:00.449Z"
   },
   "FAZENDA DO TEMOR": {
@@ -347,7 +347,7 @@
     "idNumerico": "17",
     "nome": "Fazenda Cuiuda - By GAZOLA",
     "status": "INDISPONIVEL",
-    "disponivelEm": "01:49|14/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-13T23:49:26.841Z"
   },

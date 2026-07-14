@@ -170,10 +170,10 @@
   "K1NG FARM'S": {
     "idNumerico": "25",
     "nome": "K1NG Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:13|14/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-14T06:04:37.700Z"
+    "roubadaEm": "2026-07-14T13:13:20.459Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
     "idNumerico": "17",
@@ -228,7 +228,7 @@
     "nome": "Granja do iMonKeY",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:05|14/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-14T13:05:29.945Z"
   },
   "BEE": {

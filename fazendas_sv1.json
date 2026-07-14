@@ -31,6 +31,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-14T18:53:59.738Z"
   },
+  "FAZENDINHA DO FIRE": {
+    "idNumerico": "12",
+    "nome": "Fazendinha Do Fire",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-14T14:01:43.196Z"
+  },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
@@ -118,6 +126,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-14T12:38:35.323Z"
+  },
+  "HWD INVESTIMENTOS": {
+    "idNumerico": "27",
+    "nome": "hwd investimentos",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-14T14:01:40.987Z"
   },
   "MONOPOLIO FARMS": {
     "idNumerico": "20",
@@ -340,7 +356,7 @@
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:01|14/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-14T19:01:49.281Z"
   }
 }

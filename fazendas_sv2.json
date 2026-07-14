@@ -170,7 +170,7 @@
   "DEAD (:": {
     "idNumerico": "27",
     "nome": "Dead (:",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-13T21:07:51.673Z"
@@ -190,6 +190,14 @@
     "disponivelEm": "01:20|14/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-13T23:20:45.128Z"
+  },
+  "FARM'S NAY E NICK": {
+    "idNumerico": "5",
+    "nome": "FARM'S NAY E NICK",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-13T21:07:02.338Z"
   },
   "QG FARM KHAOS": {
     "idNumerico": "18",

@@ -242,10 +242,10 @@
   "021": {
     "idNumerico": "1",
     "nome": "021",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:02|14/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T22:52:42.839Z"
+    "roubadaEm": "2026-07-14T04:02:54.995Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
@@ -310,14 +310,6 @@
     "disponivelEm": "02:32|14/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-14T00:32:38.504Z"
-  },
-  ".": {
-    "idNumerico": "31",
-    "nome": ".",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-13T23:02:02.058Z"
   },
   "GRUPO NEXUS": {
     "idNumerico": "9",

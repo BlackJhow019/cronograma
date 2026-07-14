@@ -178,10 +178,10 @@
   "FAZENDA ROTA DO CAFÉ": {
     "idNumerico": "17",
     "nome": "Fazenda Rota do Café",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:44|14/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T14:02:25.039Z"
+    "roubadaEm": "2026-07-14T02:44:47.980Z"
   },
   "VAQUEIRO FARM´S": {
     "idNumerico": "18",
@@ -348,7 +348,7 @@
     "nome": "fazenda feliz",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:39|14/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-14T02:39:15.717Z"
   },
   "OS DE RACA": {

@@ -132,7 +132,7 @@
     "nome": "CANNABIS",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:03|15/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-15T14:03:44.547Z"
   },
   "AMO O LOWER": {
@@ -258,10 +258,10 @@
   "YANINHA_ANTIFALSOS": {
     "idNumerico": "34",
     "nome": "yAninha_AntiFalsos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:08|15/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-14T13:32:07.934Z"
+    "roubadaEm": "2026-07-15T14:08:49.626Z"
   },
   "LOKO": {
     "idNumerico": "12",

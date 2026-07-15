@@ -156,7 +156,7 @@
     "nome": "Ariana_B13",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:06|15/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-15T01:06:41.067Z"
   },
   "FARME DO DRAKE": {
@@ -234,9 +234,9 @@
   "SUCCUBUS FARMS": {
     "idNumerico": "29",
     "nome": "Succubus Farms",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:16|14/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-14T20:16:07.505Z"
   },
   "FAZENDA REI DROGADO": {
@@ -244,7 +244,7 @@
     "nome": "Fazenda Rei Drogado",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:14|15/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-15T01:14:19.667Z"
   },
   "AMO A MAZZI": {

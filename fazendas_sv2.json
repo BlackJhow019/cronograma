@@ -31,6 +31,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-14T03:08:43.262Z"
   },
+  "FAZENDINHA BETREZE 2": {
+    "idNumerico": "38",
+    "nome": "Fazendinha BeTreZe 2",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-15T00:38:40.755Z"
+  },
   "EVENTO": {
     "idNumerico": "42",
     "nome": "EVENTO",
@@ -92,7 +100,7 @@
     "nome": "Malvada's Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:40|15/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-15T05:40:45.734Z"
   },
   "YELLOWSTONE - BY MONSTER": {
@@ -214,14 +222,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-14T15:14:13.611Z"
-  },
-  "AURA + EGO": {
-    "idNumerico": "22",
-    "nome": "Aura + Ego",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:40|15/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T00:40:53.141Z"
   },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",

@@ -191,14 +191,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-15T02:49:42.024Z"
   },
-  "FARM'S NAY E NICK": {
-    "idNumerico": "5",
-    "nome": "FARM'S NAY E NICK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:36|15/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T16:36:48.106Z"
-  },
   "QG FARM KHAOS": {
     "idNumerico": "18",
     "nome": "QG FARM KHAOS",
@@ -292,7 +284,7 @@
     "nome": "$ Company $r.RC_PlinioDmG $",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:23|15/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-15T21:23:27.438Z"
   },
   "FARM DO GALO": {
@@ -330,8 +322,8 @@
   "WELCOME > MELHOR FAZENDA DO BPS": {
     "idNumerico": "37",
     "nome": "WELCOME > MELHOR FAZENDA DO BPS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:36|15/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-15T16:36:16.867Z"
   },

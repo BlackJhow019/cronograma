@@ -82,16 +82,16 @@
   "B13 :)": {
     "idNumerico": "23",
     "nome": "B13 :)",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:33|15/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T06:31:29.615Z"
+    "roubadaEm": "2026-07-15T12:33:54.175Z"
   },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:22|15/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-15T07:22:41.997Z"
   },

@@ -1,12 +1,4 @@
 {
-  "RICO LOUCO": {
-    "idNumerico": "11",
-    "nome": "rico louco",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:21|15/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T08:21:03.798Z"
-  },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
@@ -19,9 +11,9 @@
     "idNumerico": "3",
     "nome": "KodiaK",
     "status": "INDISPONIVEL",
-    "disponivelEm": "10:19|15/07/2026",
+    "disponivelEm": "15:22|15/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T08:19:14.085Z"
+    "roubadaEm": "2026-07-15T13:22:14.235Z"
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -356,7 +348,7 @@
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:17|15/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-15T13:17:16.033Z"
   }
 }

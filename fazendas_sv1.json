@@ -154,10 +154,10 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:48|15/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T08:28:56.339Z"
+    "roubadaEm": "2026-07-15T15:48:35.908Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
@@ -211,7 +211,7 @@
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
     "status": "INDISPONIVEL",
-    "disponivelEm": "12:48|15/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-15T10:48:23.930Z"
   },

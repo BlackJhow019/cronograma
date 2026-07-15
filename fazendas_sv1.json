@@ -90,9 +90,9 @@
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
     "nome": "Wesker_u$MeTraLha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:03|15/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-15T07:03:19.316Z"
   },
   "< GAUBRE LTDA >": {
@@ -324,7 +324,7 @@
     "nome": ".",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:01|15/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-15T12:01:10.936Z"
   },
   "30PRAUM": {

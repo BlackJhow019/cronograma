@@ -122,10 +122,10 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:38|15/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T07:14:16.134Z"
+    "roubadaEm": "2026-07-15T12:38:06.379Z"
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
@@ -148,7 +148,7 @@
     "nome": "AzeRoX",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:25|15/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-15T12:25:46.628Z"
   },
   "WORK INDUSTRIA'S LIMITED": {

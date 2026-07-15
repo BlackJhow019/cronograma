@@ -2,10 +2,10 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:24|15/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-14T18:42:27.579Z"
+    "roubadaEm": "2026-07-15T00:24:55.877Z"
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
@@ -60,7 +60,7 @@
     "nome": "THUG LIFE",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:21|15/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-15T00:21:24.971Z"
   },
   "SAO PEDRO 2": {

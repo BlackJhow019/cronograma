@@ -3,9 +3,9 @@
     "idNumerico": "11",
     "nome": "rico louco",
     "status": "INDISPONIVEL",
-    "disponivelEm": "02:25|15/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T00:25:17.733Z"
+    "disponivelEm": "02:24|15/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-15T00:24:55.804Z"
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
@@ -26,10 +26,10 @@
   "NIKE SHOX": {
     "idNumerico": "42",
     "nome": "NIKE SHOX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:30|15/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-14T18:53:59.738Z"
+    "roubadaEm": "2026-07-15T00:30:34.759Z"
   },
   "FAZENDINHA DO FIRE": {
     "idNumerico": "12",
@@ -59,9 +59,9 @@
     "idNumerico": "21",
     "nome": "THUG LIFE",
     "status": "INDISPONIVEL",
-    "disponivelEm": "02:21|15/07/2026",
+    "disponivelEm": "02:20|15/07/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-07-15T00:21:24.971Z"
+    "roubadaEm": "2026-07-15T00:20:54.813Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -74,10 +74,10 @@
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:30|15/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-14T17:40:07.367Z"
+    "roubadaEm": "2026-07-15T00:30:40.403Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -243,7 +243,7 @@
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
     "status": "INDISPONIVEL",
-    "disponivelEm": "21:30|14/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-14T19:30:54.266Z"
   },

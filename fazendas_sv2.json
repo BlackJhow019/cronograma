@@ -23,14 +23,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-15T08:46:07.795Z"
   },
-  "ROCK FARM": {
-    "idNumerico": "11",
-    "nome": "RocK Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:19|15/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-15T08:19:18.345Z"
-  },
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",
     "nome": "Fazendinha BeTreZe 2",
@@ -274,10 +266,10 @@
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:21|15/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T04:15:05.025Z"
+    "roubadaEm": "2026-07-15T13:21:19.633Z"
   },
   "CHAMA A POLICIA": {
     "idNumerico": "44",

@@ -36,7 +36,7 @@
     "nome": "Rancho do Doutor",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:12|15/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-15T19:12:02.338Z"
   },
   "THUG LIFE": {
@@ -122,10 +122,10 @@
   "MONOPOLIO FARMS": {
     "idNumerico": "20",
     "nome": "Monopolio Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:16|15/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T14:09:20.516Z"
+    "roubadaEm": "2026-07-15T19:16:15.087Z"
   },
   "AZEROX": {
     "idNumerico": "23",
@@ -147,7 +147,7 @@
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:15|15/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-15T14:15:29.404Z"
   },

@@ -63,14 +63,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-15T00:20:54.813Z"
   },
-  "SAO PEDRO 2": {
-    "idNumerico": "43",
-    "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-14T20:40:18.426Z"
-  },
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
@@ -282,10 +274,10 @@
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:41|15/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-14T19:09:56.901Z"
+    "roubadaEm": "2026-07-15T01:41:22.262Z"
   },
   "RICK FARM'S": {
     "idNumerico": "30",

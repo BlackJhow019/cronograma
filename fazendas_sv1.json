@@ -234,10 +234,10 @@
   "BEE": {
     "idNumerico": "7",
     "nome": "BEE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:45|15/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T09:51:25.900Z"
+    "roubadaEm": "2026-07-15T15:45:09.933Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
@@ -252,7 +252,7 @@
     "nome": "021",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:36|15/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-15T15:36:29.396Z"
   },
   "FAMILIA KUSH": {
@@ -292,7 +292,7 @@
     "nome": "Rick Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:36|15/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-15T15:36:16.172Z"
   },
   "/CARIDADE": {

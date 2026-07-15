@@ -10,10 +10,10 @@
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:43|15/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T04:59:32.685Z"
+    "roubadaEm": "2026-07-15T14:43:50.292Z"
   },
   "KODIAK": {
     "idNumerico": "3",
@@ -36,7 +36,7 @@
     "nome": "Fazendinha Do Fire",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:12|15/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-15T14:12:26.946Z"
   },
   "RANCHO DO DOUTOR": {
@@ -52,7 +52,7 @@
     "nome": "Rafha investimentos $",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:12|15/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-15T14:12:43.291Z"
   },
   "THUG LIFE": {
@@ -92,7 +92,7 @@
     "nome": "Wesker_u$MeTraLha",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:11|15/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-15T14:11:59.352Z"
   },
   "< GAUBRE LTDA >": {
@@ -164,7 +164,7 @@
     "nome": "Farm's de Cafe",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:15|15/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-15T14:15:29.404Z"
   },
   "K1NG FARM'S": {
@@ -270,14 +270,6 @@
     "disponivelEm": "14:20|15/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-15T12:20:45.235Z"
-  },
-  "POLEMICO$ INDUSTRI$": {
-    "idNumerico": "37",
-    "nome": "PoLeMiCo$ industri$",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:40|15/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-15T09:40:43.483Z"
   },
   "NOREX FARM'S": {
     "idNumerico": "13",

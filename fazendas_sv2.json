@@ -36,7 +36,7 @@
     "nome": "Fazendinha BeTreZe 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:38|15/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-15T00:38:40.755Z"
   },
   "EVENTO": {
@@ -226,10 +226,10 @@
   "AURA + EGO": {
     "idNumerico": "22",
     "nome": "Aura + Ego",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:40|15/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T12:41:49.344Z"
+    "roubadaEm": "2026-07-15T00:40:36.684Z"
   },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",
@@ -294,6 +294,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-14T18:23:28.409Z"
+  },
+  "FARM DO GALO": {
+    "idNumerico": "40",
+    "nome": "FARM DO GALO",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-14T19:34:23.376Z"
   },
   "GRUPO RANTER": {
     "idNumerico": "19",

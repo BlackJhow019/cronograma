@@ -194,9 +194,9 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:49|15/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-15T12:49:58.482Z"
   },
   "FAMILIA ALMANAK": {
@@ -334,14 +334,6 @@
     "disponivelEm": "15:40|15/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-15T13:40:31.841Z"
-  },
-  "FAZENDA FELIZ": {
-    "idNumerico": "22",
-    "nome": "fazenda feliz",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:52|15/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-15T12:52:02.677Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",

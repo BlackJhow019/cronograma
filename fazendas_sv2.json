@@ -20,7 +20,7 @@
     "nome": "AwaKe Company",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:58|15/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-15T21:58:51.399Z"
   },
   "ROCK FARM": {
@@ -298,18 +298,10 @@
   "FARM DO GALO": {
     "idNumerico": "40",
     "nome": "FARM DO GALO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:00|15/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-15T17:00:56.637Z"
-  },
-  "GRUPO RANTER": {
-    "idNumerico": "19",
-    "nome": "GRUPO RANTER",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:03|15/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T17:03:52.673Z"
   },
   "ROLINHA CANSADA FARMS": {
     "idNumerico": "14",

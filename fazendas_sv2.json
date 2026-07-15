@@ -106,10 +106,10 @@
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
     "nome": "YellowStone - By Monster",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:48|15/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T09:40:55.529Z"
+    "roubadaEm": "2026-07-15T15:48:02.082Z"
   },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
@@ -123,7 +123,7 @@
     "idNumerico": "20",
     "nome": "Farms de Galopisitas",
     "status": "INDISPONIVEL",
-    "disponivelEm": "12:47|15/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-15T10:47:28.150Z"
   },

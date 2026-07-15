@@ -63,6 +63,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-15T00:20:54.813Z"
   },
+  "SAO PEDRO 2": {
+    "idNumerico": "43",
+    "nome": "SAO PEDRO 2",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-14T20:40:18.426Z"
+  },
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
@@ -70,14 +78,6 @@
     "disponivelEm": "02:30|15/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-15T00:30:40.403Z"
-  },
-  "BORRACHAS FARM": {
-    "idNumerico": "33",
-    "nome": "Borrachas Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:42|14/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-14T20:42:16.245Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
@@ -276,7 +276,7 @@
     "nome": "Norex farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:41|15/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-15T01:41:39.125Z"
   },
   "RICK FARM'S": {

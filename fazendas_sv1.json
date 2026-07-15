@@ -132,7 +132,7 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:19|16/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-15T22:19:07.536Z"
   },
   "MONOPOLIO FARMS": {
@@ -266,9 +266,9 @@
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:24|15/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-15T17:24:54.296Z"
   },
   "POLEMICO$ INDUSTRI$": {

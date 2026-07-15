@@ -20,7 +20,7 @@
     "nome": "KodiaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:33|15/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-15T01:33:38.302Z"
   },
   "NIKE SHOX": {
@@ -46,6 +46,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-14T04:29:32.334Z"
+  },
+  "RAFHA INVESTIMENTOS $": {
+    "idNumerico": "26",
+    "nome": "Rafha investimentos $",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-14T20:31:04.550Z"
   },
   "THUG LIFE": {
     "idNumerico": "21",
@@ -158,14 +166,6 @@
     "disponivelEm": "22:37|14/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-14T20:37:39.880Z"
-  },
-  "K1NG FARM'S": {
-    "idNumerico": "25",
-    "nome": "K1NG Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-14T20:33:28.841Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
     "idNumerico": "17",

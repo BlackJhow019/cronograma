@@ -114,8 +114,8 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:36|15/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-14T22:36:37.000Z"
   },
@@ -252,7 +252,7 @@
     "nome": "021",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:28|15/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-15T03:28:28.585Z"
   },
   "FAMILIA KUSH": {

@@ -47,14 +47,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-15T20:14:00.230Z"
   },
-  "FAZENDA DO TEMOR": {
-    "idNumerico": "30",
-    "nome": "Fazenda do Temor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:13|15/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T17:13:16.176Z"
-  },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
     "nome": "LA FAMILIA CHIARADIA",
@@ -98,10 +90,10 @@
   "MALVADA'S FARM": {
     "idNumerico": "32",
     "nome": "Malvada's Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:15|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T05:40:45.734Z"
+    "roubadaEm": "2026-07-15T22:15:54.216Z"
   },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
@@ -238,14 +230,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-14T20:16:07.505Z"
-  },
-  "FAZENDA REI DROGADO": {
-    "idNumerico": "31",
-    "nome": "Fazenda Rei Drogado",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:15|15/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T17:15:12.105Z"
   },
   "AMO A MAZZI": {
     "idNumerico": "6",

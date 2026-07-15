@@ -28,7 +28,7 @@
     "nome": "RocK Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "10:19|15/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-15T08:19:18.345Z"
   },
   "FAZENDINHA BETREZE 2": {
@@ -218,10 +218,10 @@
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:38|15/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-14T15:14:13.611Z"
+    "roubadaEm": "2026-07-15T08:38:22.881Z"
   },
   "AURA + EGO": {
     "idNumerico": "22",

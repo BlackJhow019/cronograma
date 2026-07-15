@@ -234,10 +234,10 @@
   "BEE": {
     "idNumerico": "7",
     "nome": "BEE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:48|15/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-14T23:02:37.687Z"
+    "roubadaEm": "2026-07-15T04:48:20.063Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
@@ -260,7 +260,7 @@
     "nome": "Familia KuSh",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:38|15/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-15T04:38:50.828Z"
   },
   "FAZENDINHA DO IGEZE": {
@@ -356,7 +356,7 @@
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:41|15/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-15T04:41:40.880Z"
   }
 }

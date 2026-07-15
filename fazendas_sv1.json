@@ -196,7 +196,7 @@
     "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:35|15/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-15T18:35:22.103Z"
   },
   "FAMILIA ALMANAK": {
@@ -276,7 +276,7 @@
     "nome": "PoLeMiCo$ industri$",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:31|15/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-15T18:31:49.538Z"
   },
   "NOREX FARM'S": {
@@ -330,9 +330,9 @@
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:40|15/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-15T13:40:31.841Z"
   },
   "FAZENDA FELIZ": {

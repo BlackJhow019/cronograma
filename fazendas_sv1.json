@@ -11,9 +11,9 @@
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:43|15/07/2026",
+    "disponivelEm": "16:44|15/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T14:43:50.292Z"
+    "roubadaEm": "2026-07-15T14:44:07.066Z"
   },
   "KODIAK": {
     "idNumerico": "3",
@@ -270,6 +270,14 @@
     "disponivelEm": "14:20|15/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-15T12:20:45.235Z"
+  },
+  "POLEMICO$ INDUSTRI$": {
+    "idNumerico": "37",
+    "nome": "PoLeMiCo$ industri$",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-15T09:40:43.483Z"
   },
   "NOREX FARM'S": {
     "idNumerico": "13",

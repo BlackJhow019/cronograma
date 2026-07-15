@@ -247,14 +247,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-15T17:34:48.955Z"
   },
-  "021": {
-    "idNumerico": "1",
-    "nome": "021",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:36|15/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-15T15:36:29.396Z"
-  },
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
@@ -290,9 +282,9 @@
   "RICK FARM'S": {
     "idNumerico": "30",
     "nome": "Rick Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:36|15/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-15T15:36:16.172Z"
   },
   "/CARIDADE": {
@@ -316,7 +308,7 @@
     "nome": "Maguinho. Farm'$$",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:12|15/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-15T20:12:15.304Z"
   },
   ".": {

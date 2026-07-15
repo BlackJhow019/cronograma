@@ -63,14 +63,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-15T05:58:26.150Z"
   },
-  "SAO PEDRO 2": {
-    "idNumerico": "43",
-    "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:00|15/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T02:00:55.209Z"
-  },
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
@@ -90,10 +82,10 @@
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
     "nome": "Wesker_u$MeTraLha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:03|15/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-13T22:56:54.380Z"
+    "roubadaEm": "2026-07-15T07:03:19.316Z"
   },
   "< GAUBRE LTDA >": {
     "idNumerico": "2",
@@ -324,7 +316,7 @@
     "nome": ".",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:56|15/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-15T06:56:20.562Z"
   },
   "30PRAUM": {

@@ -12,7 +12,7 @@
     "nome": "JESUS EA SOLUCAO",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:24|15/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-15T19:24:50.144Z"
   },
   "AWAKE COMPANY": {
@@ -74,10 +74,10 @@
   "TA NO GRALI": {
     "idNumerico": "4",
     "nome": "ta no grali",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:39|15/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-14T16:58:19.183Z"
+    "roubadaEm": "2026-07-15T19:39:03.202Z"
   },
   "B13 :)": {
     "idNumerico": "23",
@@ -212,7 +212,7 @@
     "nome": "Farm da Thaty",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:21|15/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-15T19:21:20.607Z"
   },
   "FARM DO SAPATO": {

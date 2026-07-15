@@ -34,10 +34,10 @@
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",
     "nome": "Fazendinha BeTreZe 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:30|15/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T00:38:40.755Z"
+    "roubadaEm": "2026-07-15T20:30:30.615Z"
   },
   "EVENTO": {
     "idNumerico": "42",
@@ -54,14 +54,6 @@
     "disponivelEm": "19:13|15/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-15T17:13:16.176Z"
-  },
-  "LA FAMILIA CHIARADIA": {
-    "idNumerico": "43",
-    "nome": "LA FAMILIA CHIARADIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-15T15:27:51.579Z"
   },
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
@@ -204,7 +196,7 @@
     "nome": "QG FARM KHAOS",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:27|15/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-15T20:27:59.283Z"
   },
   "FARM DA THATY": {
@@ -350,13 +342,5 @@
     "disponivelEm": "22:15|15/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-15T20:15:54.017Z"
-  },
-  "RAMONZIN_FRANCA": {
-    "idNumerico": "21",
-    "nome": "RAMONZIN_FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:28|15/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-15T15:28:24.133Z"
   }
 }

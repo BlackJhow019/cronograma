@@ -1,12 +1,4 @@
 {
-  "RICO LOUCO": {
-    "idNumerico": "11",
-    "nome": "rico louco",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:09|15/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-15T15:09:48.400Z"
-  },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
@@ -314,10 +306,10 @@
   "MAGUINHO. FARM'$$": {
     "idNumerico": "40",
     "nome": "Maguinho. Farm'$$",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:12|15/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T13:08:16.530Z"
+    "roubadaEm": "2026-07-15T20:12:00.055Z"
   },
   ".": {
     "idNumerico": "31",

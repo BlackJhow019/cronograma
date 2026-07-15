@@ -79,14 +79,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-14T16:58:19.183Z"
   },
-  "B13 :)": {
-    "idNumerico": "23",
-    "nome": "B13 :)",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:34|15/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T12:34:08.709Z"
-  },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
@@ -154,10 +146,10 @@
   "ARIANA_B13": {
     "idNumerico": "10",
     "nome": "Ariana_B13",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:37|15/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T10:59:52.533Z"
+    "roubadaEm": "2026-07-15T17:37:06.722Z"
   },
   "FARME DO DRAKE": {
     "idNumerico": "35",

@@ -26,10 +26,10 @@
   "NIKE SHOX": {
     "idNumerico": "42",
     "nome": "NIKE SHOX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:08|15/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T11:25:46.945Z"
+    "roubadaEm": "2026-07-15T17:08:22.348Z"
   },
   "FAZENDINHA DO FIRE": {
     "idNumerico": "12",
@@ -308,7 +308,7 @@
     "nome": "JAH RASTAFARI",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:04|15/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-15T17:04:38.967Z"
   },
   "MAGUINHO. FARM'$$": {

@@ -163,9 +163,17 @@
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
     "status": "INDISPONIVEL",
-    "disponivelEm": "22:37|14/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-14T20:37:39.880Z"
+  },
+  "K1NG FARM'S": {
+    "idNumerico": "25",
+    "nome": "K1NG Farm's",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-14T20:33:28.841Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
     "idNumerico": "17",

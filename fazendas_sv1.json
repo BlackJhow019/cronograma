@@ -164,7 +164,7 @@
     "nome": "Farm's de Cafe",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:30|15/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-15T02:30:32.063Z"
   },
   "K1NG FARM'S": {
@@ -314,10 +314,10 @@
   "MAGUINHO. FARM'$$": {
     "idNumerico": "40",
     "nome": "Maguinho. Farm'$$",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:33|15/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-14T20:51:02.440Z"
+    "roubadaEm": "2026-07-15T02:33:32.100Z"
   },
   ".": {
     "idNumerico": "31",

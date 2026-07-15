@@ -18,10 +18,10 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:19|15/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T01:33:38.302Z"
+    "roubadaEm": "2026-07-15T08:19:00.327Z"
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -332,7 +332,7 @@
     "nome": "30PRAUM",
     "status": "INDISPONIVEL",
     "disponivelEm": "09:56|15/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-15T07:56:47.230Z"
   },
   "FAZENDA FELIZ": {

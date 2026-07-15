@@ -306,10 +306,10 @@
   ".": {
     "idNumerico": "31",
     "nome": ".",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:16|15/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T12:01:10.936Z"
+    "roubadaEm": "2026-07-15T19:16:16.313Z"
   },
   "30PRAUM": {
     "idNumerico": "16",

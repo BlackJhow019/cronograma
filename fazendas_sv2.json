@@ -87,6 +87,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-14T23:05:20.352Z"
   },
+  "FAZENDA DO MIRIM": {
+    "idNumerico": "36",
+    "nome": "Fazenda Do MIRIM",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-14T23:27:59.688Z"
+  },
   "MALVADA'S FARM": {
     "idNumerico": "32",
     "nome": "Malvada's Farm",
@@ -151,14 +159,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-15T01:06:41.067Z"
   },
-  "FARME DO DRAKE": {
-    "idNumerico": "35",
-    "nome": "Farme do Drake",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:33|15/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-14T23:33:02.387Z"
-  },
   "DEAD (:": {
     "idNumerico": "27",
     "nome": "Dead (:",
@@ -190,6 +190,14 @@
     "disponivelEm": "02:04|15/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-15T00:04:12.197Z"
+  },
+  "QG FARM KHAOS": {
+    "idNumerico": "18",
+    "nome": "QG FARM KHAOS",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-14T23:28:54.259Z"
   },
   "FARM DA THATY": {
     "idNumerico": "1",
@@ -302,14 +310,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-14T21:19:11.776Z"
-  },
-  "/VENDERPRODUTOS": {
-    "idNumerico": "7",
-    "nome": "/VENDERPRODUTOS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:32|15/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-14T23:32:17.895Z"
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {
     "idNumerico": "37",

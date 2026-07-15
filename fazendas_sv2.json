@@ -36,7 +36,7 @@
     "nome": "Fazendinha BeTreZe 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:30|15/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-15T20:30:49.794Z"
   },
   "EVENTO": {
@@ -54,6 +54,14 @@
     "disponivelEm": "19:13|15/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-15T17:13:16.176Z"
+  },
+  "LA FAMILIA CHIARADIA": {
+    "idNumerico": "43",
+    "nome": "LA FAMILIA CHIARADIA",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-15T15:27:51.579Z"
   },
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
@@ -342,5 +350,13 @@
     "disponivelEm": "22:15|15/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-15T20:15:54.017Z"
+  },
+  "RAMONZIN_FRANCA": {
+    "idNumerico": "21",
+    "nome": "RAMONZIN_FRANCA",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-15T15:28:24.133Z"
   }
 }

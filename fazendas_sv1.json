@@ -122,9 +122,9 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:14|15/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-15T07:14:16.134Z"
   },
   "HWD INVESTIMENTOS": {
@@ -195,7 +195,7 @@
     "idNumerico": "6",
     "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
-    "disponivelEm": "09:16|15/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-15T07:16:20.864Z"
   },

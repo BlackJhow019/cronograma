@@ -79,14 +79,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-15T00:30:40.403Z"
   },
-  "BORRACHAS FARM": {
-    "idNumerico": "33",
-    "nome": "Borrachas Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:56|15/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-15T01:56:03.844Z"
-  },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
     "nome": "Wesker_u$MeTraLha",
@@ -322,10 +314,10 @@
   ".": {
     "idNumerico": "31",
     "nome": ".",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:56|15/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-14T23:50:18.900Z"
+    "roubadaEm": "2026-07-15T06:56:20.562Z"
   },
   "30PRAUM": {
     "idNumerico": "16",

@@ -226,10 +226,10 @@
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:19|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T13:29:32.847Z"
+    "roubadaEm": "2026-07-15T22:19:32.725Z"
   },
   "BEE": {
     "idNumerico": "7",
@@ -348,7 +348,7 @@
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:12|16/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-15T22:12:53.960Z"
   },
   "GRUPO NEXUS": {

@@ -194,10 +194,10 @@
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:23|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T16:36:48.106Z"
+    "roubadaEm": "2026-07-15T22:23:08.758Z"
   },
   "QG FARM KHAOS": {
     "idNumerico": "18",
@@ -356,7 +356,7 @@
     "nome": "RAMONZIN_FRANCA",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:20|16/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-15T22:20:04.388Z"
   }
 }

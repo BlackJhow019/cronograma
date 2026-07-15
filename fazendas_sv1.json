@@ -234,9 +234,9 @@
   "BEE": {
     "idNumerico": "7",
     "nome": "BEE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:02|15/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-14T23:02:37.687Z"
   },
   "YT @GANDIA_RP": {
@@ -277,7 +277,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "06:01|15/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T04:01:42.610Z"
+    "roubadaEm": "2026-07-15T04:01:59.861Z"
   },
   "NOREX FARM'S": {
     "idNumerico": "13",

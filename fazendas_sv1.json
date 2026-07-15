@@ -138,10 +138,10 @@
   "MONOPOLIO FARMS": {
     "idNumerico": "20",
     "nome": "Monopolio Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:10|15/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-14T19:59:11.947Z"
+    "roubadaEm": "2026-07-15T02:10:16.091Z"
   },
   "AZEROX": {
     "idNumerico": "23",
@@ -294,14 +294,6 @@
     "disponivelEm": "01:18|15/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-14T23:18:56.325Z"
-  },
-  "/CARIDADE": {
-    "idNumerico": "5",
-    "nome": "/caridade",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:10|14/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-14T21:10:02.394Z"
   },
   "JAH RASTAFARI": {
     "idNumerico": "39",

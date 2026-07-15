@@ -122,9 +122,9 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:59|14/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-14T19:59:43.103Z"
   },
   "HWD INVESTIMENTOS": {
@@ -138,9 +138,9 @@
   "MONOPOLIO FARMS": {
     "idNumerico": "20",
     "nome": "Monopolio Farms",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:59|14/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-14T19:59:11.947Z"
   },
   "AZEROX": {
@@ -262,14 +262,6 @@
     "disponivelEm": "23:16|14/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-14T21:16:48.011Z"
-  },
-  "FAZENDINHA DO IGEZE": {
-    "idNumerico": "36",
-    "nome": "fazendinha do igeze",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:01|14/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-14T20:01:51.265Z"
   },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",

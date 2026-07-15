@@ -90,10 +90,10 @@
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
     "nome": "Wesker_u$MeTraLha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:11|15/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T07:03:19.316Z"
+    "roubadaEm": "2026-07-15T14:11:43.121Z"
   },
   "< GAUBRE LTDA >": {
     "idNumerico": "2",
@@ -140,7 +140,7 @@
     "nome": "Monopolio Farms",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:09|15/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-15T14:09:20.516Z"
   },
   "AZEROX": {
@@ -246,14 +246,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-15T08:34:14.631Z"
-  },
-  "021": {
-    "idNumerico": "1",
-    "nome": "021",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:09|15/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-15T09:09:57.248Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",

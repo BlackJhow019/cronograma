@@ -95,14 +95,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-15T07:22:41.997Z"
   },
-  "MALVADA'S FARM": {
-    "idNumerico": "32",
-    "nome": "Malvada's Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:40|15/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-15T05:40:45.734Z"
-  },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
     "nome": "YellowStone - By Monster",
@@ -114,10 +106,10 @@
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
     "nome": "Vale das Sombras",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:41|15/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-14T23:57:45.941Z"
+    "roubadaEm": "2026-07-15T10:41:49.951Z"
   },
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",

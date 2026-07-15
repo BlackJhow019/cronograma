@@ -31,14 +31,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-14T03:08:43.262Z"
   },
-  "FAZENDINHA BETREZE 2": {
-    "idNumerico": "38",
-    "nome": "Fazendinha BeTreZe 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:38|15/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-15T00:38:40.755Z"
-  },
   "EVENTO": {
     "idNumerico": "42",
     "nome": "EVENTO",
@@ -98,10 +90,10 @@
   "MALVADA'S FARM": {
     "idNumerico": "32",
     "nome": "Malvada's Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:40|15/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-14T23:08:59.102Z"
+    "roubadaEm": "2026-07-15T05:40:24.323Z"
   },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",

@@ -151,14 +151,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-15T12:25:46.628Z"
   },
-  "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": "38",
-    "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:28|15/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T08:28:56.339Z"
-  },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
@@ -226,10 +218,10 @@
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:29|15/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T06:54:52.120Z"
+    "roubadaEm": "2026-07-15T13:29:32.847Z"
   },
   "BEE": {
     "idNumerico": "7",

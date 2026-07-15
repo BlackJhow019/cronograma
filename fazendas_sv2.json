@@ -180,7 +180,7 @@
     "nome": "Dona sem razao",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:19|15/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-15T15:19:25.916Z"
   },
   "FAZENDA DO GALIN": {
@@ -354,8 +354,8 @@
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",
     "nome": "RAMONZIN_FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:22|15/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-15T10:22:06.935Z"
   }

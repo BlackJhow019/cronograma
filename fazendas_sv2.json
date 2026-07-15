@@ -34,10 +34,10 @@
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",
     "nome": "Fazendinha BeTreZe 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:37|15/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-14T19:25:07.782Z"
+    "roubadaEm": "2026-07-15T00:37:44.679Z"
   },
   "EVENTO": {
     "idNumerico": "42",
@@ -294,14 +294,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-14T18:23:28.409Z"
-  },
-  "FARM DO GALO": {
-    "idNumerico": "40",
-    "nome": "FARM DO GALO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:34|14/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-14T19:34:23.376Z"
   },
   "GRUPO RANTER": {
     "idNumerico": "19",

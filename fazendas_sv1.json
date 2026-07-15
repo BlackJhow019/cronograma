@@ -354,9 +354,9 @@
   "GRUPO NEXUS": {
     "idNumerico": "9",
     "nome": "GRUPO NEXUS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:41|15/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-14T23:32:17.868Z"
+    "roubadaEm": "2026-07-15T04:41:40.880Z"
   }
 }

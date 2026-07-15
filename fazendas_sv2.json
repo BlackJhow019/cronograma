@@ -130,10 +130,10 @@
   "CANNABIS": {
     "idNumerico": "8",
     "nome": "CANNABIS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:03|15/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-14T23:46:47.100Z"
+    "roubadaEm": "2026-07-15T14:03:22.614Z"
   },
   "AMO O LOWER": {
     "idNumerico": "2",
@@ -220,7 +220,7 @@
     "nome": "FARM DO SAPATO",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:47|15/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-15T13:47:12.149Z"
   },
   "AURA + EGO": {

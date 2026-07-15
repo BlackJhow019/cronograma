@@ -194,17 +194,17 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:49|15/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T07:16:20.864Z"
+    "roubadaEm": "2026-07-15T12:49:45.778Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:47|15/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-15T12:47:24.953Z"
   },
   "QUEM ROUBAR E PETISTA": {

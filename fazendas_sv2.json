@@ -122,10 +122,10 @@
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
     "nome": "Farms de Galopisitas",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:48|15/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T10:47:28.150Z"
+    "roubadaEm": "2026-07-15T18:48:34.583Z"
   },
   "CANNABIS": {
     "idNumerico": "8",
@@ -214,14 +214,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-15T10:44:17.370Z"
-  },
-  "FARM DO SAPATO": {
-    "idNumerico": "9",
-    "nome": "FARM DO SAPATO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:47|15/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-15T13:47:12.149Z"
   },
   "AURA + EGO": {
     "idNumerico": "22",

@@ -66,8 +66,8 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:41|15/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-15T07:41:00.948Z"
   },
@@ -124,7 +124,7 @@
     "nome": "Fazenda da Milly",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:38|15/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-15T12:38:06.379Z"
   },
   "HWD INVESTIMENTOS": {

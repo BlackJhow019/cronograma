@@ -162,9 +162,9 @@
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:30|15/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-15T02:30:32.063Z"
   },
   "K1NG FARM'S": {
@@ -196,7 +196,7 @@
     "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "09:16|15/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-15T07:16:20.864Z"
   },
   "FAMILIA ALMANAK": {
@@ -310,14 +310,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-14T22:19:16.761Z"
-  },
-  "MAGUINHO. FARM'$$": {
-    "idNumerico": "40",
-    "nome": "Maguinho. Farm'$$",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:33|15/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-15T02:33:45.462Z"
   },
   ".": {
     "idNumerico": "31",

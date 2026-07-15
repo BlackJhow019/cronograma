@@ -31,14 +31,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-15T17:08:49.271Z"
   },
-  "FAZENDINHA DO FIRE": {
-    "idNumerico": "12",
-    "nome": "Fazendinha Do Fire",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:12|15/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-15T14:12:26.946Z"
-  },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
@@ -46,14 +38,6 @@
     "disponivelEm": "21:12|15/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-15T19:12:02.338Z"
-  },
-  "RAFHA INVESTIMENTOS $": {
-    "idNumerico": "26",
-    "nome": "Rafha investimentos $",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:12|15/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-15T14:12:43.291Z"
   },
   "THUG LIFE": {
     "idNumerico": "21",
@@ -90,9 +74,9 @@
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
     "nome": "Wesker_u$MeTraLha",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-15T14:11:59.352Z"
   },
   "< GAUBRE LTDA >": {
@@ -134,6 +118,14 @@
     "disponivelEm": "16:57|15/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-15T14:57:01.516Z"
+  },
+  "MONOPOLIO FARMS": {
+    "idNumerico": "20",
+    "nome": "Monopolio Farms",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-15T14:09:20.516Z"
   },
   "AZEROX": {
     "idNumerico": "23",

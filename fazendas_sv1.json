@@ -122,10 +122,10 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:13|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T17:40:48.404Z"
+    "roubadaEm": "2026-07-16T04:13:19.324Z"
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
@@ -244,7 +244,7 @@
     "nome": "YT @GANDIA_RP",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:59|16/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T03:59:44.412Z"
   },
   "021": {

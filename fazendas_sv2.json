@@ -250,9 +250,9 @@
   "LOKO": {
     "idNumerico": "12",
     "nome": "loko",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:38|16/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-15T22:38:26.273Z"
   },
   "FRANCA": {

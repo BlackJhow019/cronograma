@@ -34,10 +34,10 @@
   "FAZENDINHA DO FIRE": {
     "idNumerico": "12",
     "nome": "Fazendinha Do Fire",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:53|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T13:11:29.726Z"
+    "roubadaEm": "2026-07-16T19:53:34.088Z"
   },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
@@ -139,7 +139,7 @@
     "idNumerico": "20",
     "nome": "Monopolio Farms",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:53|16/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-16T14:53:30.648Z"
   },

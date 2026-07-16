@@ -1,12 +1,4 @@
 {
-  "999": {
-    "idNumerico": "39",
-    "nome": "999",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:59|16/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T22:59:56.292Z"
-  },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
@@ -98,10 +90,10 @@
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
     "nome": "YellowStone - By Monster",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:00|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T15:48:19.154Z"
+    "roubadaEm": "2026-07-16T04:00:23.965Z"
   },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
@@ -286,14 +278,6 @@
     "disponivelEm": "03:33|16/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-16T01:33:52.518Z"
-  },
-  "GRUPO RANTER": {
-    "idNumerico": "19",
-    "nome": "GRUPO RANTER",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:58|16/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-15T22:58:32.584Z"
   },
   "ROLINHA CANSADA FARMS": {
     "idNumerico": "14",

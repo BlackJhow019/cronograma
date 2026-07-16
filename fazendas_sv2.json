@@ -138,10 +138,10 @@
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:28|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T18:41:51.504Z"
+    "roubadaEm": "2026-07-16T01:28:50.758Z"
   },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
@@ -198,14 +198,6 @@
     "disponivelEm": "00:23|16/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-15T22:23:25.564Z"
-  },
-  "QG FARM KHAOS": {
-    "idNumerico": "18",
-    "nome": "QG FARM KHAOS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:27|15/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-15T20:27:59.283Z"
   },
   "FARM DA THATY": {
     "idNumerico": "1",

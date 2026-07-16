@@ -2,10 +2,10 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:56|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T20:41:12.288Z"
+    "roubadaEm": "2026-07-16T14:56:01.333Z"
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
@@ -140,7 +140,7 @@
     "nome": "Monopolio Farms",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:53|16/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T14:53:30.648Z"
   },
   "AZEROX": {

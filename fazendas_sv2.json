@@ -279,14 +279,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-16T12:10:49.669Z"
   },
-  "FARM DO GALO": {
-    "idNumerico": "40",
-    "nome": "FARM DO GALO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:34|16/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-16T16:34:02.075Z"
-  },
   "GRUPO RANTER": {
     "idNumerico": "19",
     "nome": "GRUPO RANTER",
@@ -346,10 +338,10 @@
   "QG FARM KHAOS": {
     "idNumerico": "18",
     "nome": "QG FARM KHAOS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:38|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T01:42:34.023Z"
+    "roubadaEm": "2026-07-16T21:38:30.300Z"
   },
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",

@@ -84,7 +84,7 @@
     "nome": "Fazenda Do MIRIM",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:55|16/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T13:55:10.167Z"
   },
   "MALVADA'S FARM": {
@@ -258,10 +258,10 @@
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:27|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T05:22:09.118Z"
+    "roubadaEm": "2026-07-16T14:27:38.836Z"
   },
   "CHAMA A POLICIA": {
     "idNumerico": "44",

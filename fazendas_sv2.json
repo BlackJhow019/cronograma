@@ -111,14 +111,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-16T21:33:33.064Z"
   },
-  "FARMS DE GALOPISITAS": {
-    "idNumerico": "20",
-    "nome": "Farms de Galopisitas",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:15|16/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-16T17:15:09.614Z"
-  },
   "CANNABIS": {
     "idNumerico": "8",
     "nome": "CANNABIS",
@@ -174,6 +166,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-15T15:19:25.916Z"
+  },
+  "FAZENDA DO GALIN": {
+    "idNumerico": "15",
+    "nome": "Fazenda do Galin",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-16T17:12:05.764Z"
   },
   "FARM'S NAY E NICK": {
     "idNumerico": "5",

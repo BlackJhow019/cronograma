@@ -2,8 +2,8 @@
   "999": {
     "idNumerico": "39",
     "nome": "999",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:05|16/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-16T05:05:02.166Z"
   },
@@ -86,14 +86,6 @@
     "disponivelEm": "10:33|16/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-16T08:33:08.006Z"
-  },
-  "MALVADA'S FARM": {
-    "idNumerico": "32",
-    "nome": "Malvada's Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:07|16/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T05:07:27.278Z"
   },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",

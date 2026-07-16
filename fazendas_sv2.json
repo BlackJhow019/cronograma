@@ -34,10 +34,10 @@
   "EVENTO": {
     "idNumerico": "42",
     "nome": "EVENTO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:26|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T02:33:04.289Z"
+    "roubadaEm": "2026-07-16T10:26:20.944Z"
   },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
@@ -102,14 +102,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-16T04:00:45.245Z"
-  },
-  "VALE DAS SOMBRAS": {
-    "idNumerico": "24",
-    "nome": "Vale das Sombras",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:25|16/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T05:25:07.947Z"
   },
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",

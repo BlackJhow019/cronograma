@@ -194,10 +194,10 @@
   "FARM DA THATY": {
     "idNumerico": "1",
     "nome": "Farm da Thaty",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:57|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T19:21:20.607Z"
+    "roubadaEm": "2026-07-16T02:57:25.629Z"
   },
   "FARM DO SAPATO": {
     "idNumerico": "9",
@@ -310,14 +310,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-14T23:32:17.895Z"
-  },
-  "WELCOME > MELHOR FAZENDA DO BPS": {
-    "idNumerico": "37",
-    "nome": "WELCOME > MELHOR FAZENDA DO BPS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:55|15/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-15T21:55:03.548Z"
   },
   "~E V O M~": {
     "idNumerico": "25",

@@ -130,9 +130,9 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:54|16/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-16T11:54:08.865Z"
   },
   "MONOPOLIO FARMS": {
@@ -147,7 +147,7 @@
     "idNumerico": "23",
     "nome": "AzeRoX",
     "status": "INDISPONIVEL",
-    "disponivelEm": "13:57|16/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-16T11:57:26.948Z"
   },
@@ -164,7 +164,7 @@
     "nome": "Farm's de Cafe",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:53|16/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T16:53:45.759Z"
   },
   "K1NG FARM'S": {

@@ -58,10 +58,10 @@
   "THUG LIFE": {
     "idNumerico": "21",
     "nome": "THUG LIFE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:37|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T21:34:27.035Z"
+    "roubadaEm": "2026-07-16T03:37:36.877Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -252,7 +252,7 @@
     "nome": "021",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:24|16/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T03:24:40.894Z"
   },
   "FAMILIA KUSH": {

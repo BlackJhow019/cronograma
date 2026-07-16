@@ -12,7 +12,7 @@
     "nome": "JESUS EA SOLUCAO",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:37|16/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T01:37:36.472Z"
   },
   "AWAKE COMPANY": {
@@ -346,10 +346,10 @@
   "QG FARM KHAOS": {
     "idNumerico": "18",
     "nome": "QG FARM KHAOS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:41|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-07-16T01:41:42.750Z"
   },
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",

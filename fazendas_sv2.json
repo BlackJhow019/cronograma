@@ -34,8 +34,8 @@
   "EVENTO": {
     "idNumerico": "42",
     "nome": "EVENTO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:08|16/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-16T16:08:14.070Z"
   },
@@ -163,7 +163,7 @@
     "idNumerico": "27",
     "nome": "Dead (:",
     "status": "INDISPONIVEL",
-    "disponivelEm": "18:10|16/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-16T16:10:18.996Z"
   },

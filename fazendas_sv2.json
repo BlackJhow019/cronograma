@@ -130,17 +130,17 @@
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:02|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T01:28:50.658Z"
+    "roubadaEm": "2026-07-16T12:02:09.525Z"
   },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:46|16/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T11:46:33.355Z"
   },
   "ARIANA_B13": {

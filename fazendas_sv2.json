@@ -140,7 +140,7 @@
     "nome": "SE ROUBAR MORRE",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:46|16/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T17:46:28.320Z"
   },
   "ARIANA_B13": {
@@ -314,10 +314,10 @@
   "WELCOME > MELHOR FAZENDA DO BPS": {
     "idNumerico": "37",
     "nome": "WELCOME > MELHOR FAZENDA DO BPS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:58|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T21:55:03.548Z"
+    "roubadaEm": "2026-07-16T17:58:51.238Z"
   },
   "~E V O M~": {
     "idNumerico": "25",

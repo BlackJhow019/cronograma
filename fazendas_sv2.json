@@ -100,7 +100,7 @@
     "nome": "YellowStone - By Monster",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:49|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T22:49:35.773Z"
   },
   "VALE DAS SOMBRAS": {
@@ -266,10 +266,10 @@
   "CHAMA A POLICIA": {
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:51|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T17:03:02.590Z"
+    "roubadaEm": "2026-07-16T22:51:46.133Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",

@@ -196,7 +196,7 @@
     "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:02|16/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T05:02:55.701Z"
   },
   "FAMILIA ALMANAK": {
@@ -234,10 +234,10 @@
   "BEE": {
     "idNumerico": "7",
     "nome": "BEE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:19|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T15:45:09.933Z"
+    "roubadaEm": "2026-07-16T05:19:28.839Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",

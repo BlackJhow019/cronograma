@@ -122,10 +122,10 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:28|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T17:00:53.943Z"
+    "roubadaEm": "2026-07-16T23:28:56.427Z"
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
@@ -199,14 +199,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-16T16:42:38.088Z"
   },
-  "FAMILIA ALMANAK": {
-    "idNumerico": "32",
-    "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:28|16/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-16T18:28:14.501Z"
-  },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
@@ -228,7 +220,7 @@
     "nome": "Granja do iMonKeY",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:12|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T23:12:42.907Z"
   },
   "BEE": {
@@ -260,7 +252,7 @@
     "nome": "Familia KuSh",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:14|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T23:14:14.822Z"
   },
   "FAZENDINHA DO IGEZE": {
@@ -332,7 +324,7 @@
     "nome": "30PRAUM",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:13|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T23:13:43.924Z"
   },
   "FAZENDA FELIZ": {

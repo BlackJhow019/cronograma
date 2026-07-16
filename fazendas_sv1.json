@@ -154,10 +154,10 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:30|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T02:22:32.499Z"
+    "roubadaEm": "2026-07-16T15:30:10.998Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
@@ -356,7 +356,7 @@
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:21|16/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T15:21:21.296Z"
   }
 }

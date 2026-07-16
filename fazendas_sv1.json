@@ -44,7 +44,7 @@
     "nome": "Rancho do Doutor",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:01|16/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T16:01:27.408Z"
   },
   "RAFHA INVESTIMENTOS $": {
@@ -114,10 +114,10 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:15|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T09:04:15.053Z"
+    "roubadaEm": "2026-07-16T16:15:23.549Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",

@@ -196,7 +196,7 @@
     "nome": "Farm da Thaty",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:03|16/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T15:03:56.128Z"
   },
   "FARM DO SAPATO": {
@@ -242,10 +242,10 @@
   "YANINHA_ANTIFALSOS": {
     "idNumerico": "34",
     "nome": "yAninha_AntiFalsos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:20|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T21:06:58.974Z"
+    "roubadaEm": "2026-07-16T15:20:41.906Z"
   },
   "LOKO": {
     "idNumerico": "12",

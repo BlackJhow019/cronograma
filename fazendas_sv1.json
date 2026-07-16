@@ -154,9 +154,9 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:31|16/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-16T15:31:21.321Z"
   },
   "FARM'S DE CAFE": {
@@ -351,9 +351,9 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-16T16:35:43.941Z"
   },
-  "GRUPO NEXUS": {
+  "FARM DO SAPATO": {
     "idNumerico": "9",
-    "nome": "GRUPO NEXUS",
+    "nome": "FARM DO SAPATO",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:25|16/07/2026",
     "cofreConsertado": true,

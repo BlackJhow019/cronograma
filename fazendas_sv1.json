@@ -107,7 +107,7 @@
     "idNumerico": "24",
     "nome": "VENDO 500km ACEITO TROCAS",
     "status": "INDISPONIVEL",
-    "disponivelEm": "08:56|16/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-16T06:56:13.882Z"
   },
@@ -132,7 +132,7 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:54|16/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T11:54:08.865Z"
   },
   "MONOPOLIO FARMS": {
@@ -146,10 +146,10 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:57|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T06:41:12.760Z"
+    "roubadaEm": "2026-07-16T11:57:13.418Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",

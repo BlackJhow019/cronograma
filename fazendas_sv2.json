@@ -135,14 +135,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-16T04:44:18.715Z"
   },
-  "ARIANA_B13": {
-    "idNumerico": "10",
-    "nome": "Ariana_B13",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:09|16/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T05:09:07.801Z"
-  },
   "FARME DO DRAKE": {
     "idNumerico": "35",
     "nome": "Farme do Drake",
@@ -154,10 +146,10 @@
   "DEAD (:": {
     "idNumerico": "27",
     "nome": "Dead (:",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:09|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T01:45:47.721Z"
+    "roubadaEm": "2026-07-16T10:09:34.866Z"
   },
   "DONA SEM RAZAO": {
     "idNumerico": "26",

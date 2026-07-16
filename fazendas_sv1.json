@@ -36,7 +36,7 @@
     "nome": "Fazendinha Do Fire",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:11|16/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T13:11:29.726Z"
   },
   "RANCHO DO DOUTOR": {
@@ -202,10 +202,10 @@
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:20|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T18:03:38.865Z"
+    "roubadaEm": "2026-07-16T13:20:43.515Z"
   },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",

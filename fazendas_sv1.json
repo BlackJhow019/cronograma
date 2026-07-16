@@ -95,14 +95,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-15T14:11:59.352Z"
   },
-  "< GAUBRE LTDA >": {
-    "idNumerico": "2",
-    "nome": "< GAUBRE LTDA >",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:21|16/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-16T14:21:39.325Z"
-  },
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
     "nome": "VENDO 500km ACEITO TROCAS",
@@ -250,9 +242,9 @@
   "021": {
     "idNumerico": "1",
     "nome": "021",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:18|16/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-16T14:18:54.334Z"
   },
   "FAMILIA KUSH": {
@@ -268,7 +260,7 @@
     "nome": "fazendinha do igeze",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:12|16/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T19:12:40.773Z"
   },
   "POLEMICO$ INDUSTRI$": {

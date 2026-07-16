@@ -106,10 +106,10 @@
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
     "nome": "VENDO 500km ACEITO TROCAS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:55|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-14T15:27:20.906Z"
+    "roubadaEm": "2026-07-16T06:55:57.036Z"
   },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
@@ -148,7 +148,7 @@
     "nome": "AzeRoX",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:41|16/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T06:41:12.760Z"
   },
   "WORK INDUSTRIA'S LIMITED": {

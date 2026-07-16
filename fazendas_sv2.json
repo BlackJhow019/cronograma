@@ -122,10 +122,10 @@
   "CANNABIS": {
     "idNumerico": "8",
     "nome": "CANNABIS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:27|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T17:21:13.029Z"
+    "roubadaEm": "2026-07-16T23:27:19.932Z"
   },
   "AMO O LOWER": {
     "idNumerico": "2",
@@ -206,14 +206,6 @@
     "disponivelEm": "21:56|16/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-16T19:56:10.666Z"
-  },
-  "AURA + EGO": {
-    "idNumerico": "22",
-    "nome": "Aura + Ego",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:25|16/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-16T18:25:36.531Z"
   },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",

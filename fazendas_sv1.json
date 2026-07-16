@@ -226,10 +226,10 @@
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:12|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T17:54:17.847Z"
+    "roubadaEm": "2026-07-16T23:12:42.907Z"
   },
   "BEE": {
     "idNumerico": "7",
@@ -316,7 +316,7 @@
     "nome": "Maguinho. Farm'$$",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:08|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T23:08:33.044Z"
   },
   ".": {
@@ -326,14 +326,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-16T14:46:21.002Z"
-  },
-  "30PRAUM": {
-    "idNumerico": "16",
-    "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:11|16/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-16T18:11:09.836Z"
   },
   "FAZENDA FELIZ": {
     "idNumerico": "22",

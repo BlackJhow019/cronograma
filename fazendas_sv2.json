@@ -42,10 +42,10 @@
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:53|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T23:43:42.604Z"
+    "roubadaEm": "2026-07-16T04:53:35.795Z"
   },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
@@ -140,7 +140,7 @@
     "nome": "SE ROUBAR MORRE",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:44|16/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T04:44:18.715Z"
   },
   "ARIANA_B13": {

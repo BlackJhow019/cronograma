@@ -66,10 +66,10 @@
   "TA NO GRALI": {
     "idNumerico": "4",
     "nome": "ta no grali",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:24|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T19:39:15.755Z"
+    "roubadaEm": "2026-07-16T02:24:03.606Z"
   },
   "B13 :)": {
     "idNumerico": "23",
@@ -84,7 +84,7 @@
     "nome": "Fazenda Do MIRIM",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:12|16/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T02:12:45.416Z"
   },
   "MALVADA'S FARM": {
@@ -275,7 +275,7 @@
     "idNumerico": "3",
     "nome": "$ Company $r.RC_PlinioDmG $",
     "status": "INDISPONIVEL",
-    "disponivelEm": "23:23|15/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-15T21:23:27.438Z"
   },

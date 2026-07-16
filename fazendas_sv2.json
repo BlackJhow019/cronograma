@@ -58,17 +58,17 @@
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
     "nome": "Farma Da Familia Elite",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:23|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T00:57:47.331Z"
+    "roubadaEm": "2026-07-16T20:23:21.878Z"
   },
   "TA NO GRALI": {
     "idNumerico": "4",
     "nome": "ta no grali",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:12|16/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T20:12:10.745Z"
   },
   "B13 :)": {
@@ -238,14 +238,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-16T04:31:23.230Z"
-  },
-  "YANINHA_ANTIFALSOS": {
-    "idNumerico": "34",
-    "nome": "yAninha_AntiFalsos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:21|16/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-16T15:21:20.987Z"
   },
   "LOKO": {
     "idNumerico": "12",

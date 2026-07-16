@@ -92,7 +92,7 @@
     "nome": "Malvada's Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:40|16/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T17:40:35.917Z"
   },
   "YELLOWSTONE - BY MONSTER": {
@@ -138,10 +138,10 @@
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:46|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T11:46:33.355Z"
+    "roubadaEm": "2026-07-16T17:46:09.905Z"
   },
   "ARIANA_B13": {
     "idNumerico": "10",

@@ -114,10 +114,10 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:04|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T02:22:47.602Z"
+    "roubadaEm": "2026-07-16T09:04:00.832Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
@@ -223,14 +223,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-14T03:06:03.754Z"
   },
-  "GRANJA DO IMONKEY": {
-    "idNumerico": "29",
-    "nome": "Granja do iMonKeY",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:01|16/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T04:01:30.191Z"
-  },
   "BEE": {
     "idNumerico": "7",
     "nome": "BEE",
@@ -238,14 +230,6 @@
     "disponivelEm": "07:19|16/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-16T05:19:40.308Z"
-  },
-  "YT @GANDIA_RP": {
-    "idNumerico": "15",
-    "nome": "YT @GANDIA_RP",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:59|16/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-16T03:59:44.412Z"
   },
   "021": {
     "idNumerico": "1",

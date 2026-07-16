@@ -282,10 +282,10 @@
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:56|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T04:55:09.353Z"
+    "roubadaEm": "2026-07-16T12:56:01.538Z"
   },
   "RICK FARM'S": {
     "idNumerico": "30",
@@ -332,7 +332,7 @@
     "nome": "30PRAUM",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:41|16/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T12:41:11.435Z"
   },
   "FAZENDA FELIZ": {

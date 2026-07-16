@@ -31,14 +31,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-15T20:23:56.138Z"
   },
-  "FAZENDINHA BETREZE 2": {
-    "idNumerico": "38",
-    "nome": "Fazendinha BeTreZe 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-15T20:30:49.794Z"
-  },
   "EVENTO": {
     "idNumerico": "42",
     "nome": "EVENTO",
@@ -290,10 +282,10 @@
   "FARM DO GALO": {
     "idNumerico": "40",
     "nome": "FARM DO GALO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T17:00:56.637Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:33|16/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-16T01:33:52.518Z"
   },
   "GRUPO RANTER": {
     "idNumerico": "19",
@@ -354,6 +346,14 @@
   "QG FARM KHAOS": {
     "idNumerico": "18",
     "nome": "QG FARM KHAOS",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "FAZENDINHA BETREZE 2": {
+    "idNumerico": "38",
+    "nome": "Fazendinha BeTreZe 2",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,

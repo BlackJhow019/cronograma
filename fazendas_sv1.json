@@ -130,10 +130,10 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:54|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T17:42:03.729Z"
+    "roubadaEm": "2026-07-16T22:54:33.585Z"
   },
   "MONOPOLIO FARMS": {
     "idNumerico": "20",
@@ -227,7 +227,7 @@
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
     "status": "INDISPONIVEL",
-    "disponivelEm": "19:54|16/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-16T17:54:17.847Z"
   },

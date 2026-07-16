@@ -34,8 +34,8 @@
   "EVENTO": {
     "idNumerico": "42",
     "nome": "EVENTO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:26|16/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-16T10:26:20.944Z"
   },

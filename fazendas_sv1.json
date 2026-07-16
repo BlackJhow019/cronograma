@@ -114,18 +114,10 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T16:15:36.054Z"
-  },
-  "FAZENDA DA MILLY": {
-    "idNumerico": "19",
-    "nome": "Fazenda da Milly",
     "status": "INDISPONIVEL",
-    "disponivelEm": "19:00|16/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-16T17:00:53.943Z"
+    "disponivelEm": "00:02|17/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-16T22:02:08.178Z"
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
@@ -142,14 +134,6 @@
     "disponivelEm": "22:01|16/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-16T20:01:40.544Z"
-  },
-  "AZEROX": {
-    "idNumerico": "23",
-    "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:59|16/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-16T16:59:27.275Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",

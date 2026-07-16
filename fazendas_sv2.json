@@ -106,10 +106,10 @@
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
     "nome": "Vale das Sombras",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:33|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T11:00:35.939Z"
+    "roubadaEm": "2026-07-16T21:33:02.436Z"
   },
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",

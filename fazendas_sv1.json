@@ -60,7 +60,7 @@
     "nome": "THUG LIFE",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:03|16/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T17:03:30.014Z"
   },
   "SAO PEDRO 2": {
@@ -244,7 +244,7 @@
     "nome": "YT @GANDIA_RP",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:03|16/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T17:03:52.691Z"
   },
   "021": {
@@ -274,10 +274,10 @@
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:18|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T07:15:30.445Z"
+    "roubadaEm": "2026-07-16T17:18:23.019Z"
   },
   "NOREX FARM'S": {
     "idNumerico": "13",

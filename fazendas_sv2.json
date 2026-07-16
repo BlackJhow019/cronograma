@@ -116,16 +116,16 @@
     "nome": "Farms de Galopisitas",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:15|16/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T17:15:09.614Z"
   },
   "CANNABIS": {
     "idNumerico": "8",
     "nome": "CANNABIS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:20|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T23:05:19.197Z"
+    "roubadaEm": "2026-07-16T17:20:41.953Z"
   },
   "AMO O LOWER": {
     "idNumerico": "2",

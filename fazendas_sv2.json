@@ -143,14 +143,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-16T11:46:33.355Z"
   },
-  "ARIANA_B13": {
-    "idNumerico": "10",
-    "nome": "Ariana_B13",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:10|16/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-16T12:10:35.586Z"
-  },
   "FARME DO DRAKE": {
     "idNumerico": "35",
     "nome": "Farme do Drake",
@@ -178,10 +170,10 @@
   "FAZENDA DO GALIN": {
     "idNumerico": "15",
     "nome": "Fazenda do Galin",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:11|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T05:37:44.655Z"
+    "roubadaEm": "2026-07-16T17:11:54.848Z"
   },
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
@@ -270,14 +262,6 @@
     "disponivelEm": "19:03|16/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-16T17:03:02.590Z"
-  },
-  "$ COMPANY $R.RC_PLINIODMG $": {
-    "idNumerico": "3",
-    "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:10|16/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-16T12:10:49.669Z"
   },
   "FARM DO GALO": {
     "idNumerico": "40",

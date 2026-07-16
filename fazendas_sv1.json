@@ -124,7 +124,7 @@
     "nome": "Fazenda da Milly",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:00|16/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T17:00:53.943Z"
   },
   "HWD INVESTIMENTOS": {
@@ -148,7 +148,7 @@
     "nome": "AzeRoX",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:59|16/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T16:59:27.275Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
@@ -242,10 +242,10 @@
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:03|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T03:59:44.412Z"
+    "roubadaEm": "2026-07-16T17:03:29.886Z"
   },
   "021": {
     "idNumerico": "1",

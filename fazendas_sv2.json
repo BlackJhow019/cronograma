@@ -98,10 +98,10 @@
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
     "nome": "YellowStone - By Monster",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:49|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T04:00:45.245Z"
+    "roubadaEm": "2026-07-16T22:49:18.176Z"
   },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
@@ -134,14 +134,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-16T17:26:01.838Z"
-  },
-  "SE ROUBAR MORRE": {
-    "idNumerico": "41",
-    "nome": "SE ROUBAR MORRE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:46|16/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-16T17:46:28.320Z"
   },
   "ARIANA_B13": {
     "idNumerico": "10",

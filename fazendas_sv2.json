@@ -186,10 +186,10 @@
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:00|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T16:57:46.181Z"
+    "roubadaEm": "2026-07-16T23:00:40.583Z"
   },
   "FARM DA THATY": {
     "idNumerico": "1",
@@ -268,7 +268,7 @@
     "nome": "CHAMA A POLICIA",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:52|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T22:52:00.763Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
@@ -310,14 +310,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-16T16:18:12.898Z"
-  },
-  "WELCOME > MELHOR FAZENDA DO BPS": {
-    "idNumerico": "37",
-    "nome": "WELCOME > MELHOR FAZENDA DO BPS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:59|16/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T17:59:03.065Z"
   },
   "~E V O M~": {
     "idNumerico": "25",

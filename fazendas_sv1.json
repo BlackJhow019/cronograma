@@ -36,7 +36,7 @@
     "nome": "Fazendinha Do Fire",
     "status": "INDISPONIVEL",
     "disponivelEm": "09:17|16/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T07:17:29.888Z"
   },
   "RANCHO DO DOUTOR": {
@@ -114,8 +114,8 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:22|16/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-16T02:22:47.602Z"
   },
@@ -154,8 +154,8 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:22|16/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-16T02:22:32.499Z"
   },

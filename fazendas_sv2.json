@@ -35,7 +35,7 @@
     "idNumerico": "38",
     "nome": "Fazendinha BeTreZe 2",
     "status": "INDISPONIVEL",
-    "disponivelEm": "22:30|15/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-15T20:30:49.794Z"
   },
@@ -139,9 +139,9 @@
     "idNumerico": "2",
     "nome": "Amo o Lower",
     "status": "INDISPONIVEL",
-    "disponivelEm": "03:29|16/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T01:29:04.417Z"
+    "disponivelEm": "03:28|16/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-16T01:28:50.658Z"
   },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
@@ -331,9 +331,9 @@
     "idNumerico": "25",
     "nome": "~E V O M~",
     "status": "INDISPONIVEL",
-    "disponivelEm": "03:26|16/07/2026",
+    "disponivelEm": "03:25|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T01:26:13.062Z"
+    "roubadaEm": "2026-07-16T01:25:55.548Z"
   },
   "FAZENDA CUIUDA - BY GAZOLA": {
     "idNumerico": "17",
@@ -350,5 +350,13 @@
     "disponivelEm": "00:20|16/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-15T22:20:04.388Z"
+  },
+  "QG FARM KHAOS": {
+    "idNumerico": "18",
+    "nome": "QG FARM KHAOS",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
   }
 }

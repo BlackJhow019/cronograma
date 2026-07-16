@@ -10,10 +10,10 @@
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:40|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T08:53:08.416Z"
+    "roubadaEm": "2026-07-16T15:40:30.818Z"
   },
   "KODIAK": {
     "idNumerico": "3",
@@ -156,7 +156,7 @@
     "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:31|16/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T15:31:21.321Z"
   },
   "FARM'S DE CAFE": {

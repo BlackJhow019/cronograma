@@ -43,7 +43,7 @@
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
     "status": "INDISPONIVEL",
-    "disponivelEm": "01:43|16/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-15T23:43:42.604Z"
   },
@@ -138,10 +138,10 @@
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:43|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T22:47:14.475Z"
+    "roubadaEm": "2026-07-16T04:43:59.298Z"
   },
   "ARIANA_B13": {
     "idNumerico": "10",

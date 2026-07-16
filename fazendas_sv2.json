@@ -111,6 +111,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-16T21:33:33.064Z"
   },
+  "FARMS DE GALOPISITAS": {
+    "idNumerico": "20",
+    "nome": "Farms de Galopisitas",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-16T17:15:09.614Z"
+  },
   "CANNABIS": {
     "idNumerico": "8",
     "nome": "CANNABIS",
@@ -188,7 +196,7 @@
     "nome": "Farm da Thaty",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:13|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T22:13:47.097Z"
   },
   "FARM DO SAPATO": {

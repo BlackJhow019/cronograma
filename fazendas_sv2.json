@@ -114,10 +114,10 @@
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
     "nome": "Farms de Galopisitas",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:14|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T01:38:34.460Z"
+    "roubadaEm": "2026-07-16T17:14:35.161Z"
   },
   "CANNABIS": {
     "idNumerico": "8",
@@ -180,7 +180,7 @@
     "nome": "Fazenda do Galin",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:12|16/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T17:12:05.764Z"
   },
   "FARM'S NAY E NICK": {

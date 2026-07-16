@@ -124,7 +124,7 @@
     "nome": "CANNABIS",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:27|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T23:27:31.571Z"
   },
   "AMO O LOWER": {
@@ -338,10 +338,10 @@
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",
     "nome": "RAMONZIN_FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:41|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T16:57:37.479Z"
+    "roubadaEm": "2026-07-16T23:41:19.066Z"
   },
   "QG FARM KHAOS": {
     "idNumerico": "18",

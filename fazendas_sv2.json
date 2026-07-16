@@ -66,10 +66,10 @@
   "TA NO GRALI": {
     "idNumerico": "4",
     "nome": "ta no grali",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:22|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T02:24:50.858Z"
+    "roubadaEm": "2026-07-16T10:22:55.949Z"
   },
   "B13 :)": {
     "idNumerico": "23",
@@ -254,14 +254,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-15T22:38:26.273Z"
-  },
-  "FRANCA": {
-    "idNumerico": "28",
-    "nome": "FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:22|16/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T05:22:09.118Z"
   },
   "CHAMA A POLICIA": {
     "idNumerico": "44",

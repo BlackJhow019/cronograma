@@ -47,14 +47,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-15T23:43:42.604Z"
   },
-  "LA FAMILIA CHIARADIA": {
-    "idNumerico": "43",
-    "nome": "LA FAMILIA CHIARADIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:51|16/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T22:51:59.102Z"
-  },
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
     "nome": "Farma Da Familia Elite",
@@ -138,9 +130,9 @@
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-15T22:47:14.475Z"
   },
   "ARIANA_B13": {
@@ -188,7 +180,7 @@
     "nome": "FARM'S NAY E NICK",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:47|16/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T03:47:38.583Z"
   },
   "FARM DA THATY": {

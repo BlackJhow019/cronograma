@@ -226,10 +226,10 @@
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:01|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T22:19:32.617Z"
+    "roubadaEm": "2026-07-16T04:01:10.007Z"
   },
   "BEE": {
     "idNumerico": "7",

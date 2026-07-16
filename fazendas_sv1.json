@@ -84,7 +84,7 @@
     "nome": "Borrachas Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:14|16/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T15:14:51.175Z"
   },
   "WESKER_U$METRALHA": {
@@ -354,9 +354,9 @@
   "GRUPO NEXUS": {
     "idNumerico": "9",
     "nome": "GRUPO NEXUS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:21|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T08:43:00.091Z"
+    "roubadaEm": "2026-07-16T15:21:05.751Z"
   }
 }

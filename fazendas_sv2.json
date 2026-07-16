@@ -132,7 +132,7 @@
     "nome": "Amo o Lower",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:02|16/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T12:02:40.898Z"
   },
   "SE ROUBAR MORRE": {
@@ -146,10 +146,10 @@
   "ARIANA_B13": {
     "idNumerico": "10",
     "nome": "Ariana_B13",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:10|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T05:09:07.801Z"
+    "roubadaEm": "2026-07-16T12:10:22.858Z"
   },
   "FARME DO DRAKE": {
     "idNumerico": "35",

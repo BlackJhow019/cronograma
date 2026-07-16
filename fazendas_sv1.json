@@ -4,7 +4,7 @@
     "nome": "rico louco",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:56|16/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T14:56:17.127Z"
   },
   "PREFEITO ROADBLOCK": {
@@ -82,10 +82,10 @@
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:14|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T16:51:36.751Z"
+    "roubadaEm": "2026-07-16T15:14:33.516Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",

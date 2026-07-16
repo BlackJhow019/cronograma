@@ -59,7 +59,7 @@
     "idNumerico": "21",
     "nome": "THUG LIFE",
     "status": "INDISPONIVEL",
-    "disponivelEm": "19:03|16/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-16T17:03:30.014Z"
   },
@@ -119,6 +119,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-16T22:02:19.960Z"
   },
+  "FAZENDA DA MILLY": {
+    "idNumerico": "19",
+    "nome": "Fazenda da Milly",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-16T17:00:53.943Z"
+  },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
@@ -134,6 +142,14 @@
     "disponivelEm": "22:01|16/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-16T20:01:40.544Z"
+  },
+  "AZEROX": {
+    "idNumerico": "23",
+    "nome": "AzeRoX",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-16T16:59:27.275Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
@@ -227,7 +243,7 @@
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
     "status": "INDISPONIVEL",
-    "disponivelEm": "19:03|16/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-16T17:03:52.691Z"
   },

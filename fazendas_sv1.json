@@ -338,10 +338,10 @@
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:43|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T13:41:20.993Z"
+    "roubadaEm": "2026-07-16T19:43:31.776Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",

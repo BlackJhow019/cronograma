@@ -131,7 +131,7 @@
     "idNumerico": "2",
     "nome": "Amo o Lower",
     "status": "INDISPONIVEL",
-    "disponivelEm": "03:28|16/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-16T01:28:50.658Z"
   },
@@ -322,8 +322,8 @@
   "~E V O M~": {
     "idNumerico": "25",
     "nome": "~E V O M~",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:25|16/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-16T01:25:55.548Z"
   },

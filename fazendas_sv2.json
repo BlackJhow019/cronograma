@@ -159,14 +159,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-16T15:03:17.154Z"
   },
-  "DEAD (:": {
-    "idNumerico": "27",
-    "nome": "Dead (:",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T16:10:18.996Z"
-  },
   "DONA SEM RAZAO": {
     "idNumerico": "26",
     "nome": "Dona sem razao",
@@ -258,10 +250,10 @@
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:12|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T14:27:54.080Z"
+    "roubadaEm": "2026-07-16T21:12:40.874Z"
   },
   "CHAMA A POLICIA": {
     "idNumerico": "44",

@@ -39,14 +39,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-15T20:30:49.794Z"
   },
-  "EVENTO": {
-    "idNumerico": "42",
-    "nome": "EVENTO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:14|15/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-15T20:14:00.230Z"
-  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -90,8 +82,8 @@
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:11|15/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-15T20:11:37.922Z"
   },

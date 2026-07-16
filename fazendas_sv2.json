@@ -74,10 +74,10 @@
   "B13 :)": {
     "idNumerico": "23",
     "nome": "B13 :)",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:54|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T18:50:42.349Z"
+    "roubadaEm": "2026-07-16T01:54:41.109Z"
   },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
@@ -164,7 +164,7 @@
     "nome": "Dead (:",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:45|16/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T01:45:47.721Z"
   },
   "DONA SEM RAZAO": {
@@ -348,7 +348,7 @@
     "nome": "QG FARM KHAOS",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:42|16/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T01:42:34.023Z"
   },
   "FAZENDINHA BETREZE 2": {

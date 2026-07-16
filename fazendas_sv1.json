@@ -68,7 +68,7 @@
     "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:18|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T22:18:47.071Z"
   },
   "LEK0ZIKA": {
@@ -274,9 +274,9 @@
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-16T17:18:23.019Z"
   },
   "NOREX FARM'S": {

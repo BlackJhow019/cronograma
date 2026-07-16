@@ -76,7 +76,7 @@
     "nome": "B13 :)",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:55|16/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T01:55:02.061Z"
   },
   "FAZENDA DO MIRIM": {
@@ -210,8 +210,8 @@
   "AURA + EGO": {
     "idNumerico": "22",
     "nome": "Aura + Ego",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:57|15/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-15T20:57:20.423Z"
   },

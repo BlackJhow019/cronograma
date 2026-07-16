@@ -138,8 +138,8 @@
   "MONOPOLIO FARMS": {
     "idNumerico": "20",
     "nome": "Monopolio Farms",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:16|15/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-15T19:16:29.219Z"
   },
@@ -322,8 +322,8 @@
   ".": {
     "idNumerico": "31",
     "nome": ".",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:16|15/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-15T19:16:36.336Z"
   },

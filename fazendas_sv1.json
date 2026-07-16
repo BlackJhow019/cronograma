@@ -34,10 +34,10 @@
   "FAZENDINHA DO FIRE": {
     "idNumerico": "12",
     "nome": "Fazendinha Do Fire",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:17|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T19:58:37.561Z"
+    "roubadaEm": "2026-07-16T07:17:01.628Z"
   },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
@@ -276,7 +276,7 @@
     "nome": "PoLeMiCo$ industri$",
     "status": "INDISPONIVEL",
     "disponivelEm": "09:15|16/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T07:15:30.445Z"
   },
   "NOREX FARM'S": {

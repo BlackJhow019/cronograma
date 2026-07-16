@@ -60,16 +60,16 @@
     "nome": "THUG LIFE",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:09|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T22:09:17.923Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:18|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T16:31:45.881Z"
+    "roubadaEm": "2026-07-16T22:18:26.210Z"
   },
   "LEK0ZIKA": {
     "idNumerico": "35",
@@ -275,7 +275,7 @@
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
     "status": "INDISPONIVEL",
-    "disponivelEm": "19:18|16/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-16T17:18:23.019Z"
   },
@@ -348,7 +348,7 @@
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:07|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T22:07:30.124Z"
   },
   "FARM DO SAPATO": {

@@ -26,8 +26,8 @@
   "ROCK FARM": {
     "idNumerico": "11",
     "nome": "RocK Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:10|16/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-16T05:10:36.820Z"
   },
@@ -142,6 +142,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-16T04:44:18.715Z"
+  },
+  "ARIANA_B13": {
+    "idNumerico": "10",
+    "nome": "Ariana_B13",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-16T05:09:07.801Z"
   },
   "FARME DO DRAKE": {
     "idNumerico": "35",

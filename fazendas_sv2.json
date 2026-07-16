@@ -138,10 +138,10 @@
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:07|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T17:46:28.320Z"
+    "roubadaEm": "2026-07-16T23:07:27.394Z"
   },
   "ARIANA_B13": {
     "idNumerico": "10",

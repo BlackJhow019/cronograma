@@ -132,7 +132,7 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:42|16/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T17:42:03.729Z"
   },
   "MONOPOLIO FARMS": {
@@ -226,10 +226,10 @@
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:54|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T04:01:30.191Z"
+    "roubadaEm": "2026-07-16T17:54:02.961Z"
   },
   "BEE": {
     "idNumerico": "7",
@@ -260,7 +260,7 @@
     "nome": "Familia KuSh",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:35|16/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-16T17:35:07.127Z"
   },
   "FAZENDINHA DO IGEZE": {

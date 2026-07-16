@@ -18,10 +18,10 @@
   "AWAKE COMPANY": {
     "idNumerico": "13",
     "nome": "AwaKe Company",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:01|16/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T03:02:36.665Z"
+    "roubadaEm": "2026-07-16T20:01:29.784Z"
   },
   "ROCK FARM": {
     "idNumerico": "11",
@@ -202,10 +202,10 @@
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T11:45:35.294Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:56|16/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-16T19:56:10.666Z"
   },
   "AURA + EGO": {
     "idNumerico": "22",

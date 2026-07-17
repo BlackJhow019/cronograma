@@ -2,8 +2,8 @@
   "999": {
     "idNumerico": "39",
     "nome": "999",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:25|17/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-17T16:25:29.493Z"
   },
@@ -206,14 +206,6 @@
     "disponivelEm": "22:13|17/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-17T20:13:39.566Z"
-  },
-  "AURA + EGO": {
-    "idNumerico": "22",
-    "nome": "Aura + Ego",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:28|17/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T16:28:15.499Z"
   },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",

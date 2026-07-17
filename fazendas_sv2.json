@@ -76,7 +76,7 @@
     "nome": "B13 :)",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:41|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T00:41:14.482Z"
   },
   "FAZENDA DO MIRIM": {
@@ -92,7 +92,7 @@
     "nome": "Malvada's Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:42|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T00:42:32.834Z"
   },
   "YELLOWSTONE - BY MONSTER": {
@@ -250,10 +250,10 @@
   "LOKO": {
     "idNumerico": "12",
     "nome": "loko",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:52|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T22:38:26.273Z"
+    "roubadaEm": "2026-07-17T00:52:46.211Z"
   },
   "FRANCA": {
     "idNumerico": "28",

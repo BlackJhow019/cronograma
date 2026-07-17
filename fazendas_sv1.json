@@ -138,10 +138,10 @@
   "MONOPOLIO FARMS": {
     "idNumerico": "20",
     "nome": "Monopolio Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:33|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T20:01:40.544Z"
+    "roubadaEm": "2026-07-17T15:33:39.233Z"
   },
   "AZEROX": {
     "idNumerico": "23",
@@ -156,7 +156,7 @@
     "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:08|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T15:08:53.814Z"
   },
   "FARM'S DE CAFE": {

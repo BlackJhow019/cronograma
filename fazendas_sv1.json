@@ -196,8 +196,8 @@
     "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:18|18/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T22:18:14.377Z"
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-17T22:18:29.222Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
@@ -354,9 +354,9 @@
   "GRUPO NEXUS": {
     "idNumerico": "9",
     "nome": "GRUPO NEXUS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:25|17/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-17T17:25:35.732Z"
   }
 }

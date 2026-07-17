@@ -2,9 +2,9 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:13|17/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-17T11:13:01.923Z"
   },
   "PREFEITO ROADBLOCK": {
@@ -195,7 +195,7 @@
     "idNumerico": "6",
     "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
-    "disponivelEm": "13:15|17/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-17T11:15:31.030Z"
   },
@@ -346,9 +346,9 @@
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:14|17/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-17T11:14:00.622Z"
   },
   "GRUPO NEXUS": {

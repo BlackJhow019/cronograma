@@ -20,7 +20,7 @@
     "nome": "AwaKe Company",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:34|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T01:34:33.013Z"
   },
   "ROCK FARM": {
@@ -66,10 +66,10 @@
   "TA NO GRALI": {
     "idNumerico": "4",
     "nome": "ta no grali",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:44|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T20:12:10.745Z"
+    "roubadaEm": "2026-07-17T01:44:02.395Z"
   },
   "B13 :)": {
     "idNumerico": "23",

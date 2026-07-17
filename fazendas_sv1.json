@@ -87,14 +87,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-17T03:31:03.239Z"
   },
-  "WESKER_U$METRALHA": {
-    "idNumerico": "28",
-    "nome": "Wesker_u$MeTraLha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:54|17/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-17T00:54:56.079Z"
-  },
   "< GAUBRE LTDA >": {
     "idNumerico": "2",
     "nome": "< GAUBRE LTDA >",
@@ -170,9 +162,9 @@
   "K1NG FARM'S": {
     "idNumerico": "25",
     "nome": "K1NG Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:51|17/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-17T00:51:57.967Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
@@ -252,7 +244,7 @@
     "nome": "021",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:49|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T05:49:06.059Z"
   },
   "FAMILIA KUSH": {

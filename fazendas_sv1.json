@@ -170,9 +170,9 @@
   "K1NG FARM'S": {
     "idNumerico": "25",
     "nome": "K1NG Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:00|17/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-17T08:00:14.567Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
@@ -316,7 +316,7 @@
     "nome": "Maguinho. Farm'$$",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:54|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T12:54:15.690Z"
   },
   ".": {

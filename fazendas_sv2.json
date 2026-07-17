@@ -76,7 +76,7 @@
     "nome": "B13 :)",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:45|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T15:45:32.224Z"
   },
   "FAZENDA DO MIRIM": {
@@ -92,7 +92,7 @@
     "nome": "Malvada's Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:47|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T15:47:17.658Z"
   },
   "YELLOWSTONE - BY MONSTER": {
@@ -242,10 +242,10 @@
   "YANINHA_ANTIFALSOS": {
     "idNumerico": "34",
     "nome": "yAninha_AntiFalsos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:56|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T00:33:54.597Z"
+    "roubadaEm": "2026-07-17T15:56:05.690Z"
   },
   "LOKO": {
     "idNumerico": "12",

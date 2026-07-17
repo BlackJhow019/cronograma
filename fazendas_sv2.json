@@ -10,8 +10,8 @@
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:32|17/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-17T14:32:05.156Z"
   },
@@ -314,9 +314,9 @@
   "WELCOME > MELHOR FAZENDA DO BPS": {
     "idNumerico": "37",
     "nome": "WELCOME > MELHOR FAZENDA DO BPS",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-17T14:31:07.595Z"
   },
   "~E V O M~": {

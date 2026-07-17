@@ -84,7 +84,7 @@
     "nome": "Borrachas Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:29|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T11:29:36.001Z"
   },
   "WESKER_U$METRALHA": {
@@ -226,10 +226,10 @@
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:32|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T04:44:11.336Z"
+    "roubadaEm": "2026-07-17T11:32:39.378Z"
   },
   "BEE": {
     "idNumerico": "7",

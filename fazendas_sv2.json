@@ -175,14 +175,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-17T01:24:22.463Z"
   },
-  "FAZENDA DO GALIN": {
-    "idNumerico": "15",
-    "nome": "Fazenda do Galin",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:20|17/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T23:20:30.310Z"
-  },
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
@@ -266,10 +258,10 @@
   "CHAMA A POLICIA": {
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:21|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T22:52:00.763Z"
+    "roubadaEm": "2026-07-17T04:21:52.096Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",

@@ -79,14 +79,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-17T00:41:14.482Z"
   },
-  "FAZENDA DO MIRIM": {
-    "idNumerico": "36",
-    "nome": "Fazenda Do MIRIM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:04|17/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T01:04:31.663Z"
-  },
   "MALVADA'S FARM": {
     "idNumerico": "32",
     "nome": "Malvada's Farm",
@@ -198,6 +190,14 @@
     "disponivelEm": "06:26|17/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-17T04:26:39.604Z"
+  },
+  "FARM DO SAPATO": {
+    "idNumerico": "9",
+    "nome": "FARM DO SAPATO",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-17T01:02:50.869Z"
   },
   "AURA + EGO": {
     "idNumerico": "22",

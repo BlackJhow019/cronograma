@@ -140,7 +140,7 @@
     "nome": "SE ROUBAR MORRE",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:39|18/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T22:39:40.913Z"
   },
   "ARIANA_B13": {
@@ -194,10 +194,10 @@
   "FARM DA THATY": {
     "idNumerico": "1",
     "nome": "Farm da Thaty",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:41|18/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T17:03:10.335Z"
+    "roubadaEm": "2026-07-17T22:41:54.581Z"
   },
   "FARM DO SAPATO": {
     "idNumerico": "9",

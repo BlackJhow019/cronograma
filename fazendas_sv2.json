@@ -183,14 +183,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-17T13:29:05.099Z"
   },
-  "FARM'S NAY E NICK": {
-    "idNumerico": "5",
-    "nome": "FARM'S NAY E NICK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:39|17/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T13:39:45.268Z"
-  },
   "FARM DA THATY": {
     "idNumerico": "1",
     "nome": "Farm da Thaty",
@@ -222,14 +214,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-17T01:06:01.431Z"
-  },
-  "FAZENDA REI DROGADO": {
-    "idNumerico": "31",
-    "nome": "Fazenda Rei Drogado",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:38|17/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T13:38:49.324Z"
   },
   "AMO A MAZZI": {
     "idNumerico": "6",
@@ -266,10 +250,10 @@
   "CHAMA A POLICIA": {
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:42|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T12:23:32.454Z"
+    "roubadaEm": "2026-07-17T18:42:17.588Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",

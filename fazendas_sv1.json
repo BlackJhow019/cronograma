@@ -292,7 +292,7 @@
     "nome": "Rick Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:50|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T15:50:04.120Z"
   },
   "/CARIDADE": {
@@ -330,10 +330,10 @@
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:52|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T07:44:21.719Z"
+    "roubadaEm": "2026-07-17T15:52:34.926Z"
   },
   "FAZENDA FELIZ": {
     "idNumerico": "22",

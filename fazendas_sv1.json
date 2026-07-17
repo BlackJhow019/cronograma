@@ -47,14 +47,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-16T21:07:09.367Z"
   },
-  "RAFHA INVESTIMENTOS $": {
-    "idNumerico": "26",
-    "nome": "Rafha investimentos $",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:42|17/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T23:42:07.137Z"
-  },
   "THUG LIFE": {
     "idNumerico": "21",
     "nome": "THUG LIFE",
@@ -124,7 +116,7 @@
     "nome": "Fazenda da Milly",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:36|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T04:36:11.042Z"
   },
   "HWD INVESTIMENTOS": {
@@ -226,10 +218,10 @@
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:44|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T23:12:42.907Z"
+    "roubadaEm": "2026-07-17T04:44:11.336Z"
   },
   "BEE": {
     "idNumerico": "7",
@@ -286,14 +278,6 @@
     "disponivelEm": "03:59|17/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-17T01:59:16.696Z"
-  },
-  "RICK FARM'S": {
-    "idNumerico": "30",
-    "nome": "Rick Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:42|17/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-16T23:42:46.081Z"
   },
   "/CARIDADE": {
     "idNumerico": "5",

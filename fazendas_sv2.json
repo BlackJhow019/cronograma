@@ -31,6 +31,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-17T01:01:05.891Z"
   },
+  "EVENTO": {
+    "idNumerico": "42",
+    "nome": "EVENTO",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-16T22:10:44.328Z"
+  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -182,14 +190,6 @@
     "disponivelEm": "01:00|17/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-16T23:00:53.607Z"
-  },
-  "FARM DA THATY": {
-    "idNumerico": "1",
-    "nome": "Farm da Thaty",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:13|17/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-16T22:13:47.097Z"
   },
   "FARM DO SAPATO": {
     "idNumerico": "9",

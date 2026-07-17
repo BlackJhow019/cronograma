@@ -154,10 +154,10 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:04|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T15:08:53.814Z"
+    "roubadaEm": "2026-07-17T21:04:50.401Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
@@ -172,7 +172,7 @@
     "nome": "K1NG Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:56|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T20:56:45.152Z"
   },
   "FAZENDA ROTA DO CAFÉ": {

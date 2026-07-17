@@ -155,7 +155,7 @@
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
-    "disponivelEm": "11:47|17/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-17T09:47:18.963Z"
   },
@@ -236,7 +236,7 @@
     "nome": "BEE",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:34|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T14:34:05.064Z"
   },
   "YT @GANDIA_RP": {
@@ -338,10 +338,10 @@
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:47|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T19:43:59.742Z"
+    "roubadaEm": "2026-07-17T14:47:26.335Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",

@@ -1,12 +1,4 @@
 {
-  "999": {
-    "idNumerico": "39",
-    "nome": "999",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:10|17/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T05:10:52.154Z"
-  },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
@@ -154,10 +146,10 @@
   "FARME DO DRAKE": {
     "idNumerico": "35",
     "nome": "Farme do Drake",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:12|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T05:08:14.349Z"
+    "roubadaEm": "2026-07-17T10:12:31.841Z"
   },
   "DEAD (:": {
     "idNumerico": "27",

@@ -28,7 +28,7 @@
     "nome": "NIKE SHOX",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:13|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T14:13:19.420Z"
   },
   "FAZENDINHA DO FIRE": {
@@ -42,10 +42,10 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:16|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T07:30:16.811Z"
+    "roubadaEm": "2026-07-17T14:16:07.593Z"
   },
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",

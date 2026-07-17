@@ -210,9 +210,9 @@
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:11|16/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-16T20:11:02.638Z"
   },
   "VC É A PIADA AQUI": {
@@ -236,7 +236,7 @@
     "nome": "BEE",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:05|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T01:05:49.906Z"
   },
   "YT @GANDIA_RP": {

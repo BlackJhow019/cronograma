@@ -55,14 +55,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-16T23:42:07.137Z"
   },
-  "THUG LIFE": {
-    "idNumerico": "21",
-    "nome": "THUG LIFE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:09|17/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-16T22:09:17.923Z"
-  },
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
@@ -346,9 +338,9 @@
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-16T22:07:30.124Z"
   },
   "GRUPO NEXUS": {

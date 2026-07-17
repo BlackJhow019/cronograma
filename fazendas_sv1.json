@@ -164,7 +164,7 @@
     "nome": "Farm's de Cafe",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:52|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T01:52:20.845Z"
   },
   "K1NG FARM'S": {
@@ -282,10 +282,10 @@
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:59|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T12:56:15.282Z"
+    "roubadaEm": "2026-07-17T01:59:03.563Z"
   },
   "RICK FARM'S": {
     "idNumerico": "30",

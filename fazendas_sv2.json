@@ -28,7 +28,7 @@
     "nome": "RocK Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:40|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T21:40:35.615Z"
   },
   "EVENTO": {
@@ -50,10 +50,10 @@
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
     "nome": "LA FAMILIA CHIARADIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:06|18/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T16:12:50.887Z"
+    "roubadaEm": "2026-07-17T22:06:11.806Z"
   },
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
@@ -190,14 +190,6 @@
     "disponivelEm": "21:37|17/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-17T19:37:39.646Z"
-  },
-  "FARM DA THATY": {
-    "idNumerico": "1",
-    "nome": "Farm da Thaty",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:03|17/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T17:03:10.335Z"
   },
   "FARM DO SAPATO": {
     "idNumerico": "9",

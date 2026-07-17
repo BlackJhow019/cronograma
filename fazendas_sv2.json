@@ -162,10 +162,10 @@
   "DEAD (:": {
     "idNumerico": "27",
     "nome": "Dead (:",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:56|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T12:11:28.909Z"
+    "roubadaEm": "2026-07-17T18:56:54.424Z"
   },
   "DONA SEM RAZAO": {
     "idNumerico": "26",
@@ -268,7 +268,7 @@
     "nome": "CHAMA A POLICIA",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:42|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T18:42:35.387Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {

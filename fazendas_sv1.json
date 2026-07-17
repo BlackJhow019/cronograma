@@ -223,6 +223,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-14T03:06:03.754Z"
   },
+  "GRANJA DO IMONKEY": {
+    "idNumerico": "29",
+    "nome": "Granja do iMonKeY",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-16T23:12:42.907Z"
+  },
   "BEE": {
     "idNumerico": "7",
     "nome": "BEE",
@@ -250,9 +258,9 @@
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:14|17/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-16T23:14:14.822Z"
   },
   "FAZENDINHA DO IGEZE": {
@@ -322,9 +330,9 @@
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:13|17/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-16T23:13:43.924Z"
   },
   "FAZENDA FELIZ": {

@@ -210,10 +210,10 @@
   "AURA + EGO": {
     "idNumerico": "22",
     "nome": "Aura + Ego",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:25|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T00:44:17.395Z"
+    "roubadaEm": "2026-07-17T09:25:19.260Z"
   },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",
@@ -278,14 +278,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-17T00:55:08.692Z"
-  },
-  "FARM DO GALO": {
-    "idNumerico": "40",
-    "nome": "FARM DO GALO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:24|17/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T04:24:48.588Z"
   },
   "GRUPO RANTER": {
     "idNumerico": "19",

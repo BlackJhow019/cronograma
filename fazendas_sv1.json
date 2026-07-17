@@ -196,7 +196,7 @@
     "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:15|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T11:15:31.030Z"
   },
   "FAMILIA ALMANAK": {
@@ -298,8 +298,8 @@
   "/CARIDADE": {
     "idNumerico": "5",
     "nome": "/caridade",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:19|17/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-17T06:19:33.868Z"
   },

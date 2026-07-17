@@ -34,10 +34,10 @@
   "EVENTO": {
     "idNumerico": "42",
     "nome": "EVENTO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:30|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T22:10:44.328Z"
+    "roubadaEm": "2026-07-17T03:30:56.315Z"
   },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",

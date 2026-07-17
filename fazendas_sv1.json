@@ -282,8 +282,8 @@
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:45|17/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-17T18:45:02.586Z"
   },
@@ -316,7 +316,7 @@
     "nome": "Maguinho. Farm'$$",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:43|18/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T23:43:12.043Z"
   },
   ".": {

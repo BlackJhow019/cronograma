@@ -2,9 +2,9 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:12|17/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-17T03:12:27.724Z"
   },
   "PREFEITO ROADBLOCK": {
@@ -172,7 +172,7 @@
     "nome": "K1NG Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "10:00|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T08:00:14.567Z"
   },
   "FAZENDA ROTA DO CAFÉ": {

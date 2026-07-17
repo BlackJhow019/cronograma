@@ -90,9 +90,9 @@
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
     "nome": "Wesker_u$MeTraLha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:22|17/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-17T13:22:23.066Z"
   },
   "< GAUBRE LTDA >": {
@@ -111,14 +111,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-16T06:56:13.882Z"
   },
-  "CLUBE DA LULUZINHA": {
-    "idNumerico": "8",
-    "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:24|17/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T13:24:17.955Z"
-  },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
@@ -132,7 +124,7 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:12|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T18:12:24.350Z"
   },
   "MONOPOLIO FARMS": {

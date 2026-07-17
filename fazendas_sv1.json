@@ -346,10 +346,10 @@
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:53|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T11:14:00.622Z"
+    "roubadaEm": "2026-07-17T18:53:58.310Z"
   },
   "GRUPO NEXUS": {
     "idNumerico": "9",

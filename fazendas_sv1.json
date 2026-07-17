@@ -10,8 +10,8 @@
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:46|16/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-16T20:46:48.938Z"
   },
@@ -26,9 +26,9 @@
   "NIKE SHOX": {
     "idNumerico": "42",
     "nome": "NIKE SHOX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:46|16/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-16T20:46:20.139Z"
   },
   "FAZENDINHA DO FIRE": {

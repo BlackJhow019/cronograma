@@ -26,10 +26,10 @@
   "ROCK FARM": {
     "idNumerico": "11",
     "nome": "RocK Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:00|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T19:43:57.790Z"
+    "roubadaEm": "2026-07-17T01:00:52.184Z"
   },
   "EVENTO": {
     "idNumerico": "42",
@@ -276,7 +276,7 @@
     "nome": "$ Company $r.RC_PlinioDmG $",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:55|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T00:55:08.692Z"
   },
   "FARM DO GALO": {

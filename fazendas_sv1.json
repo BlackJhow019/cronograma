@@ -162,10 +162,10 @@
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:10|18/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T01:52:20.845Z"
+    "roubadaEm": "2026-07-17T23:10:05.226Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",

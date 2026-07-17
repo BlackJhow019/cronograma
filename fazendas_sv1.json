@@ -114,8 +114,8 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:02|17/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-16T22:02:19.960Z"
   },
@@ -347,7 +347,7 @@
     "idNumerico": "0",
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
-    "disponivelEm": "00:07|17/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-16T22:07:30.124Z"
   },

@@ -82,10 +82,10 @@
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:29|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T03:31:03.239Z"
+    "roubadaEm": "2026-07-17T11:29:22.088Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
@@ -124,7 +124,7 @@
     "nome": "Fazenda da Milly",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:26|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T11:26:08.924Z"
   },
   "HWD INVESTIMENTOS": {

@@ -82,9 +82,9 @@
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:50|17/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-17T16:50:37.553Z"
   },
   "WESKER_U$METRALHA": {
@@ -340,7 +340,7 @@
     "nome": "fazenda feliz",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:48|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T21:48:25.785Z"
   },
   "OS DE RACA": {

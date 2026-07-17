@@ -178,8 +178,8 @@
   "FAZENDA DO GALIN": {
     "idNumerico": "15",
     "nome": "Fazenda do Galin",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:45|17/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-17T05:45:26.872Z"
   },
@@ -260,7 +260,7 @@
     "nome": "FRANCA",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:35|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T10:35:26.498Z"
   },
   "CHAMA A POLICIA": {

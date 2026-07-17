@@ -42,10 +42,10 @@
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:32|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T00:06:20.582Z"
+    "roubadaEm": "2026-07-17T12:32:23.795Z"
   },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
@@ -268,7 +268,7 @@
     "nome": "CHAMA A POLICIA",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:23|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T12:23:32.454Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {

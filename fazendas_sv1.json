@@ -156,7 +156,7 @@
     "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
     "disponivelEm": "11:47|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T09:47:18.963Z"
   },
   "FARM'S DE CAFE": {
@@ -314,8 +314,8 @@
   "MAGUINHO. FARM'$$": {
     "idNumerico": "40",
     "nome": "Maguinho. Farm'$$",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:13|17/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-17T05:13:38.781Z"
   },

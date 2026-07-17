@@ -194,10 +194,10 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:05|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T11:15:31.030Z"
+    "roubadaEm": "2026-07-17T17:05:11.514Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
@@ -308,7 +308,7 @@
     "nome": "JAH RASTAFARI",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:58|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T16:58:15.258Z"
   },
   "MAGUINHO. FARM'$$": {

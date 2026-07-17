@@ -74,9 +74,9 @@
   "B13 :)": {
     "idNumerico": "23",
     "nome": "B13 :)",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:41|17/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-17T00:41:14.482Z"
   },
   "FAZENDA DO MIRIM": {
@@ -86,14 +86,6 @@
     "disponivelEm": "03:04|17/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-17T01:04:31.663Z"
-  },
-  "MALVADA'S FARM": {
-    "idNumerico": "32",
-    "nome": "Malvada's Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:42|17/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-17T00:42:32.834Z"
   },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",

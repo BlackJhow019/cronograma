@@ -132,7 +132,7 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:47|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T12:47:48.845Z"
   },
   "MONOPOLIO FARMS": {
@@ -314,10 +314,10 @@
   "MAGUINHO. FARM'$$": {
     "idNumerico": "40",
     "nome": "Maguinho. Farm'$$",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:53|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T05:13:38.781Z"
+    "roubadaEm": "2026-07-17T12:53:54.988Z"
   },
   ".": {
     "idNumerico": "31",
@@ -348,7 +348,7 @@
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:14|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T11:14:00.622Z"
   },
   "GRUPO NEXUS": {

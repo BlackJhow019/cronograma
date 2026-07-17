@@ -191,14 +191,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-17T06:25:12.906Z"
   },
-  "FARM DA THATY": {
-    "idNumerico": "1",
-    "nome": "Farm da Thaty",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:26|17/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T04:26:39.604Z"
-  },
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
@@ -278,6 +270,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-17T00:55:08.692Z"
+  },
+  "FARM DO GALO": {
+    "idNumerico": "40",
+    "nome": "FARM DO GALO",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-17T04:24:48.588Z"
   },
   "GRUPO RANTER": {
     "idNumerico": "19",

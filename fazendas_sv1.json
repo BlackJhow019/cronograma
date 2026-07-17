@@ -138,8 +138,8 @@
   "MONOPOLIO FARMS": {
     "idNumerico": "20",
     "nome": "Monopolio Farms",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:01|16/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-16T20:01:40.544Z"
   },
@@ -268,7 +268,7 @@
     "nome": "fazendinha do igeze",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:01|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T01:01:38.544Z"
   },
   "POLEMICO$ INDUSTRI$": {

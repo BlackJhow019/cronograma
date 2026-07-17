@@ -122,10 +122,10 @@
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:07|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T23:25:23.957Z"
+    "roubadaEm": "2026-07-17T06:07:03.648Z"
   },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
@@ -206,14 +206,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-17T00:44:17.395Z"
-  },
-  "SUCCUBUS FARMS": {
-    "idNumerico": "29",
-    "nome": "Succubus Farms",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:06|17/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-17T01:06:01.431Z"
   },
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",

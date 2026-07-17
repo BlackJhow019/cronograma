@@ -36,7 +36,7 @@
     "nome": "EVENTO",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:31|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T03:31:06.510Z"
   },
   "FAZENDA DO TEMOR": {
@@ -154,8 +154,8 @@
   "FARME DO DRAKE": {
     "idNumerico": "35",
     "nome": "Farme do Drake",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:39|17/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-16T22:39:01.095Z"
   },

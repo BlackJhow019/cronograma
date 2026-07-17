@@ -106,8 +106,8 @@
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
     "nome": "Vale das Sombras",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:33|16/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-16T21:33:33.064Z"
   },
@@ -342,14 +342,6 @@
     "disponivelEm": "01:41|17/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-16T23:41:32.609Z"
-  },
-  "QG FARM KHAOS": {
-    "idNumerico": "18",
-    "nome": "QG FARM KHAOS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:39|16/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T21:39:12.146Z"
   },
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",

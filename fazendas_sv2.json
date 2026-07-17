@@ -274,10 +274,10 @@
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",
     "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:54|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T12:10:49.669Z"
+    "roubadaEm": "2026-07-17T00:54:45.465Z"
   },
   "FARM DO GALO": {
     "idNumerico": "40",

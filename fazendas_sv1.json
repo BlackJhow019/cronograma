@@ -66,10 +66,10 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:30|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T12:19:08.051Z"
+    "roubadaEm": "2026-07-17T17:30:30.030Z"
   },
   "LEK0ZIKA": {
     "idNumerico": "35",
@@ -198,14 +198,6 @@
     "disponivelEm": "19:05|17/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-17T17:05:44.667Z"
-  },
-  "FAMILIA ALMANAK": {
-    "idNumerico": "32",
-    "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:27|17/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-17T12:27:34.983Z"
   },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
@@ -356,7 +348,7 @@
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:25|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T17:25:35.732Z"
   }
 }

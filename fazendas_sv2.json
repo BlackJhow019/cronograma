@@ -140,7 +140,7 @@
     "nome": "SE ROUBAR MORRE",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:36|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T05:36:37.100Z"
   },
   "ARIANA_B13": {
@@ -222,6 +222,14 @@
     "disponivelEm": "03:06|17/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-17T01:06:01.431Z"
+  },
+  "FAZENDA REI DROGADO": {
+    "idNumerico": "31",
+    "nome": "Fazenda Rei Drogado",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-17T00:36:14.975Z"
   },
   "AMO A MAZZI": {
     "idNumerico": "6",

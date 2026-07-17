@@ -20,7 +20,7 @@
     "nome": "KodiaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:10|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T06:10:19.070Z"
   },
   "NIKE SHOX": {
@@ -298,10 +298,10 @@
   "/CARIDADE": {
     "idNumerico": "5",
     "nome": "/caridade",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:18|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-15T21:45:09.670Z"
+    "roubadaEm": "2026-07-17T06:18:52.455Z"
   },
   "JAH RASTAFARI": {
     "idNumerico": "39",

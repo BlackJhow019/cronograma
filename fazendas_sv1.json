@@ -92,7 +92,7 @@
     "nome": "Wesker_u$MeTraLha",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:22|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T13:22:23.066Z"
   },
   "< GAUBRE LTDA >": {
@@ -282,10 +282,10 @@
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:40|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T01:59:16.696Z"
+    "roubadaEm": "2026-07-17T13:40:24.339Z"
   },
   "RICK FARM'S": {
     "idNumerico": "30",

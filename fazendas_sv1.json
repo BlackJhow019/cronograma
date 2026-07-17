@@ -154,9 +154,9 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:08|17/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-17T15:08:53.814Z"
   },
   "FARM'S DE CAFE": {
@@ -324,7 +324,7 @@
     "nome": ".",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:00|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T20:00:49.773Z"
   },
   "30PRAUM": {

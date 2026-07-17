@@ -143,14 +143,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-17T17:06:59.629Z"
   },
-  "ARIANA_B13": {
-    "idNumerico": "10",
-    "nome": "Ariana_B13",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:20|17/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T13:20:51.850Z"
-  },
   "FARME DO DRAKE": {
     "idNumerico": "35",
     "nome": "Farme do Drake",
@@ -338,10 +330,10 @@
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",
     "nome": "RAMONZIN_FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:23|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T10:22:39.950Z"
+    "roubadaEm": "2026-07-17T18:23:14.829Z"
   },
   "QG FARM KHAOS": {
     "idNumerico": "18",

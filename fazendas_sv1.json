@@ -148,7 +148,7 @@
     "nome": "AzeRoX",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:30|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T18:30:40.844Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
@@ -282,9 +282,9 @@
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:40|17/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-17T13:40:51.986Z"
   },
   "RICK FARM'S": {

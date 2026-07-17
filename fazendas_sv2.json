@@ -27,7 +27,7 @@
     "idNumerico": "11",
     "nome": "RocK Farm",
     "status": "INDISPONIVEL",
-    "disponivelEm": "21:43|16/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-16T19:43:57.790Z"
   },
@@ -210,10 +210,10 @@
   "AURA + EGO": {
     "idNumerico": "22",
     "nome": "Aura + Ego",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:44|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T18:25:36.531Z"
+    "roubadaEm": "2026-07-17T00:44:02.590Z"
   },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",

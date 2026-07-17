@@ -82,10 +82,10 @@
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:50|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T11:29:36.001Z"
+    "roubadaEm": "2026-07-17T16:50:37.553Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
@@ -124,7 +124,7 @@
     "nome": "Fazenda da Milly",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:40|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T16:40:17.279Z"
   },
   "HWD INVESTIMENTOS": {
@@ -146,9 +146,9 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:41|17/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-17T11:41:44.721Z"
   },
   "WORK INDUSTRIA'S LIMITED": {

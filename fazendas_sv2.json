@@ -23,6 +23,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-16T20:01:59.443Z"
   },
+  "ROCK FARM": {
+    "idNumerico": "11",
+    "nome": "RocK Farm",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-16T19:43:57.790Z"
+  },
   "EVENTO": {
     "idNumerico": "42",
     "nome": "EVENTO",
@@ -204,7 +212,7 @@
     "nome": "Aura + Ego",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:44|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T00:44:17.395Z"
   },
   "SUCCUBUS FARMS": {

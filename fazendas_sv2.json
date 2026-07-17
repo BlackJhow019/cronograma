@@ -26,10 +26,10 @@
   "ROCK FARM": {
     "idNumerico": "11",
     "nome": "RocK Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:40|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T01:01:05.891Z"
+    "roubadaEm": "2026-07-17T21:40:35.615Z"
   },
   "EVENTO": {
     "idNumerico": "42",

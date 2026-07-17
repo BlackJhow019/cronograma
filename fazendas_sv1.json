@@ -74,10 +74,10 @@
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:09|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T21:55:48.244Z"
+    "roubadaEm": "2026-07-17T04:09:26.039Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -310,14 +310,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-16T06:00:24.497Z"
-  },
-  "MAGUINHO. FARM'$$": {
-    "idNumerico": "40",
-    "nome": "Maguinho. Farm'$$",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-16T23:08:33.044Z"
   },
   ".": {
     "idNumerico": "31",

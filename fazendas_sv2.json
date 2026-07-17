@@ -202,9 +202,9 @@
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:56|16/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-16T19:56:10.666Z"
   },
   "AURA + EGO": {
@@ -252,7 +252,7 @@
     "nome": "loko",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:53|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T00:53:00.225Z"
   },
   "FRANCA": {

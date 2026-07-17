@@ -68,15 +68,15 @@
     "nome": "ta no grali",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:40|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T20:40:21.674Z"
   },
   "B13 :)": {
     "idNumerico": "23",
     "nome": "B13 :)",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:45|17/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-17T15:45:32.224Z"
   },
   "FAZENDA DO MIRIM": {
@@ -90,9 +90,9 @@
   "MALVADA'S FARM": {
     "idNumerico": "32",
     "nome": "Malvada's Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:47|17/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-17T15:47:17.658Z"
   },
   "YELLOWSTONE - BY MONSTER": {

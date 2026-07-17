@@ -44,7 +44,7 @@
     "nome": "Rancho do Doutor",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:16|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T14:16:35.294Z"
   },
   "RAFHA INVESTIMENTOS $": {
@@ -234,10 +234,10 @@
   "BEE": {
     "idNumerico": "7",
     "nome": "BEE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:33|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T06:22:57.292Z"
+    "roubadaEm": "2026-07-17T14:33:35.079Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",

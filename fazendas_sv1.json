@@ -2,9 +2,9 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:06|17/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-17T17:06:19.136Z"
   },
   "PREFEITO ROADBLOCK": {
@@ -36,7 +36,7 @@
     "nome": "Fazendinha Do Fire",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:01|18/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T22:01:14.948Z"
   },
   "RANCHO DO DOUTOR": {
@@ -194,9 +194,9 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:05|17/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-17T17:05:44.667Z"
   },
   "FAMILIA ALMANAK": {

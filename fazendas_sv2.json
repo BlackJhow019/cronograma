@@ -162,8 +162,8 @@
   "DEAD (:": {
     "idNumerico": "27",
     "nome": "Dead (:",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:57|17/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-17T18:57:10.252Z"
   },
@@ -250,10 +250,10 @@
   "LOKO": {
     "idNumerico": "12",
     "nome": "loko",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:59|18/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T00:53:00.225Z"
+    "roubadaEm": "2026-07-17T23:59:47.647Z"
   },
   "FRANCA": {
     "idNumerico": "28",
@@ -268,7 +268,7 @@
     "nome": "CHAMA A POLICIA",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:46|18/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T23:46:55.126Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {

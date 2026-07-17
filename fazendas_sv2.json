@@ -35,9 +35,9 @@
     "idNumerico": "42",
     "nome": "EVENTO",
     "status": "INDISPONIVEL",
-    "disponivelEm": "20:11|17/07/2026",
+    "disponivelEm": "01:13|18/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T18:11:20.123Z"
+    "roubadaEm": "2026-07-17T23:13:57.097Z"
   },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
@@ -260,7 +260,7 @@
     "nome": "FRANCA",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:06|18/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T23:06:03.695Z"
   },
   "CHAMA A POLICIA": {
@@ -324,7 +324,7 @@
     "nome": "~E V O M~",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:08|18/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T23:08:07.352Z"
   },
   "FAZENDA CUIUDA - BY GAZOLA": {

@@ -170,10 +170,10 @@
   "FAZENDA DO GALIN": {
     "idNumerico": "15",
     "nome": "Fazenda do Galin",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:45|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T23:20:30.310Z"
+    "roubadaEm": "2026-07-17T05:45:04.091Z"
   },
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
@@ -203,7 +203,7 @@
     "idNumerico": "22",
     "nome": "Aura + Ego",
     "status": "INDISPONIVEL",
-    "disponivelEm": "02:44|17/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-17T00:44:17.395Z"
   },

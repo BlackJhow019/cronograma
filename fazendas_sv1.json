@@ -34,10 +34,10 @@
   "FAZENDINHA DO FIRE": {
     "idNumerico": "12",
     "nome": "Fazendinha Do Fire",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:57|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T19:53:47.915Z"
+    "roubadaEm": "2026-07-17T03:57:30.701Z"
   },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
@@ -126,14 +126,6 @@
     "disponivelEm": "01:29|17/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-16T23:29:21.957Z"
-  },
-  "HWD INVESTIMENTOS": {
-    "idNumerico": "27",
-    "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:54|17/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-16T22:54:33.585Z"
   },
   "MONOPOLIO FARMS": {
     "idNumerico": "20",

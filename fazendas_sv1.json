@@ -140,7 +140,7 @@
     "nome": "Monopolio Farms",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:33|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T15:33:39.233Z"
   },
   "AZEROX": {
@@ -290,10 +290,10 @@
   "RICK FARM'S": {
     "idNumerico": "30",
     "nome": "Rick Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:49|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T23:42:46.081Z"
+    "roubadaEm": "2026-07-17T15:49:45.435Z"
   },
   "/CARIDADE": {
     "idNumerico": "5",

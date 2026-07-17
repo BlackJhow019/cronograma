@@ -23,14 +23,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-17T06:10:19.070Z"
   },
-  "NIKE SHOX": {
-    "idNumerico": "42",
-    "nome": "NIKE SHOX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:08|17/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T04:08:41.966Z"
-  },
   "FAZENDINHA DO FIRE": {
     "idNumerico": "12",
     "nome": "Fazendinha Do Fire",
@@ -75,7 +67,7 @@
     "idNumerico": "35",
     "nome": "Lek0zika",
     "status": "INDISPONIVEL",
-    "disponivelEm": "06:09|17/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-17T04:09:37.627Z"
   },
@@ -130,9 +122,9 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:05|17/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-17T04:05:52.593Z"
   },
   "MONOPOLIO FARMS": {

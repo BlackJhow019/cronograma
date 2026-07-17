@@ -74,10 +74,10 @@
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:08|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T14:06:11.860Z"
+    "roubadaEm": "2026-07-17T21:08:56.460Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -156,7 +156,7 @@
     "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:05|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T21:05:18.784Z"
   },
   "FARM'S DE CAFE": {

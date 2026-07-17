@@ -39,14 +39,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-17T03:31:06.510Z"
   },
-  "FAZENDA DO TEMOR": {
-    "idNumerico": "30",
-    "nome": "Fazenda do Temor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:06|17/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T00:06:20.582Z"
-  },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
     "nome": "LA FAMILIA CHIARADIA",
@@ -154,10 +146,10 @@
   "FARME DO DRAKE": {
     "idNumerico": "35",
     "nome": "Farme do Drake",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:08|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T22:39:01.095Z"
+    "roubadaEm": "2026-07-17T05:08:00.166Z"
   },
   "DEAD (:": {
     "idNumerico": "27",

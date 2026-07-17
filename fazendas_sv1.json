@@ -130,10 +130,10 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:19|18/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T18:12:24.350Z"
+    "roubadaEm": "2026-07-17T23:19:32.232Z"
   },
   "MONOPOLIO FARMS": {
     "idNumerico": "20",
@@ -356,7 +356,7 @@
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:16|18/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T23:16:53.704Z"
   }
 }

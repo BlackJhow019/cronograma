@@ -138,10 +138,10 @@
   "ARIANA_B13": {
     "idNumerico": "10",
     "nome": "Ariana_B13",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:25|17/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T13:20:51.850Z"
+    "roubadaEm": "2026-07-17T21:25:16.605Z"
   },
   "FARME DO DRAKE": {
     "idNumerico": "35",
@@ -247,14 +247,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-17T00:53:00.225Z"
   },
-  "FRANCA": {
-    "idNumerico": "28",
-    "nome": "FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T16:22:59.311Z"
-  },
   "CHAMA A POLICIA": {
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
@@ -278,14 +270,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-17T13:43:20.565Z"
-  },
-  "GRUPO RANTER": {
-    "idNumerico": "19",
-    "nome": "GRUPO RANTER",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T16:23:01.681Z"
   },
   "ROLINHA CANSADA FARMS": {
     "idNumerico": "14",
@@ -340,7 +324,7 @@
     "nome": "QG FARM KHAOS",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:23|17/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T21:23:14.973Z"
   },
   "FAZENDINHA BETREZE 2": {

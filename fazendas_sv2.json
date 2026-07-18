@@ -44,7 +44,7 @@
     "nome": "Fazenda do Temor",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:11|18/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-18T14:11:35.335Z"
   },
   "LA FAMILIA CHIARADIA": {
@@ -74,10 +74,10 @@
   "B13 :)": {
     "idNumerico": "23",
     "nome": "B13 :)",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:15|18/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-18T07:06:48.950Z"
+    "roubadaEm": "2026-07-18T14:15:12.438Z"
   },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",

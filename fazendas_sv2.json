@@ -10,10 +10,10 @@
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:43|18/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T22:33:56.760Z"
+    "roubadaEm": "2026-07-18T06:43:58.756Z"
   },
   "AWAKE COMPANY": {
     "idNumerico": "13",
@@ -60,7 +60,7 @@
     "nome": "Farma Da Familia Elite",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:25|18/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-18T06:25:55.264Z"
   },
   "TA NO GRALI": {

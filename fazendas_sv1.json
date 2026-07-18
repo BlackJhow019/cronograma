@@ -90,10 +90,10 @@
   "< GAUBRE LTDA >": {
     "idNumerico": "2",
     "nome": "< GAUBRE LTDA >",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:11|18/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T20:20:36.059Z"
+    "roubadaEm": "2026-07-18T04:11:02.264Z"
   },
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
@@ -150,14 +150,6 @@
     "disponivelEm": "06:08|18/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-18T04:08:48.693Z"
-  },
-  "FARM'S DE CAFE": {
-    "idNumerico": "4",
-    "nome": "Farm's de Cafe",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:10|18/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-17T23:10:05.226Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
     "idNumerico": "17",

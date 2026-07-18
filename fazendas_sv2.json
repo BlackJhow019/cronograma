@@ -124,7 +124,7 @@
     "nome": "CANNABIS",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:31|18/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-18T17:31:43.671Z"
   },
   "AMO O LOWER": {
@@ -250,10 +250,10 @@
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:33|18/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T23:06:03.695Z"
+    "roubadaEm": "2026-07-18T17:33:48.693Z"
   },
   "CHAMA A POLICIA": {
     "idNumerico": "44",

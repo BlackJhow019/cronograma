@@ -55,14 +55,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-18T00:38:28.692Z"
   },
-  "SAO PEDRO 2": {
-    "idNumerico": "43",
-    "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:27|18/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-18T16:27:49.928Z"
-  },
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
@@ -178,10 +170,10 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:29|18/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-18T16:15:14.636Z"
+    "roubadaEm": "2026-07-18T21:29:09.066Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",

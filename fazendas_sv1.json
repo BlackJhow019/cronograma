@@ -7,14 +7,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-17T17:06:19.136Z"
   },
-  "PREFEITO ROADBLOCK": {
-    "idNumerico": "41",
-    "nome": "Prefeito Roadblock",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:59|17/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T20:59:26.004Z"
-  },
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
@@ -155,7 +147,7 @@
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
-    "disponivelEm": "23:05|17/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-17T21:05:18.784Z"
   },
@@ -166,14 +158,6 @@
     "disponivelEm": "01:10|18/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-17T23:10:05.226Z"
-  },
-  "K1NG FARM'S": {
-    "idNumerico": "25",
-    "nome": "K1NG Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:56|17/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-17T20:56:45.152Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
     "idNumerico": "17",
@@ -229,7 +213,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "03:41|18/07/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-07-18T01:41:55.503Z"
+    "roubadaEm": "2026-07-18T01:41:55.360Z"
   },
   "BEE": {
     "idNumerico": "7",
@@ -358,5 +342,21 @@
     "disponivelEm": "01:16|18/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-17T23:16:53.704Z"
+  },
+  "PREFEITO ROADBLOCK": {
+    "idNumerico": "41",
+    "nome": "Prefeito Roadblock",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "K1NG FARM'S": {
+    "idNumerico": "25",
+    "nome": "K1NG Farm's",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
   }
 }

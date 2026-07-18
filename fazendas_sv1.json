@@ -58,10 +58,10 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:20|18/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-18T04:57:55.644Z"
+    "roubadaEm": "2026-07-18T10:20:51.643Z"
   },
   "LEK0ZIKA": {
     "idNumerico": "35",
@@ -230,14 +230,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-18T05:00:42.823Z"
-  },
-  "021": {
-    "idNumerico": "1",
-    "nome": "021",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:18|18/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-18T05:18:56.241Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",

@@ -66,10 +66,10 @@
   "TA NO GRALI": {
     "idNumerico": "4",
     "nome": "ta no grali",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:24|18/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-18T03:12:30.824Z"
+    "roubadaEm": "2026-07-18T11:24:19.192Z"
   },
   "B13 :)": {
     "idNumerico": "23",
@@ -164,7 +164,7 @@
     "nome": "Dead (:",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:19|18/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-18T10:19:08.206Z"
   },
   "DONA SEM RAZAO": {
@@ -195,7 +195,7 @@
     "idNumerico": "1",
     "nome": "Farm da Thaty",
     "status": "INDISPONIVEL",
-    "disponivelEm": "08:23|18/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-18T06:23:59.068Z"
   },

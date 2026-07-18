@@ -68,15 +68,15 @@
     "nome": "ta no grali",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:25|18/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-18T11:25:23.980Z"
   },
   "B13 :)": {
     "idNumerico": "23",
     "nome": "B13 :)",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:06|18/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-18T07:06:48.950Z"
   },
   "FAZENDA DO MIRIM": {

@@ -26,9 +26,9 @@
   "ROCK FARM": {
     "idNumerico": "11",
     "nome": "RocK Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:40|17/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-17T21:40:35.615Z"
   },
   "EVENTO": {
@@ -316,7 +316,7 @@
     "nome": "WELCOME > MELHOR FAZENDA DO BPS",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:40|18/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-18T02:40:06.464Z"
   },
   "~E V O M~": {

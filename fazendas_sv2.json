@@ -12,7 +12,7 @@
     "nome": "JESUS EA SOLUCAO",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:19|18/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-18T12:19:29.653Z"
   },
   "AWAKE COMPANY": {
@@ -266,10 +266,10 @@
   "CHAMA A POLICIA": {
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:23|18/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T23:46:55.126Z"
+    "roubadaEm": "2026-07-18T13:23:31.876Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",

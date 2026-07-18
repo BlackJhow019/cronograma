@@ -139,7 +139,7 @@
     "idNumerico": "23",
     "nome": "AzeRoX",
     "status": "INDISPONIVEL",
-    "disponivelEm": "02:00|18/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-18T00:00:02.622Z"
   },
@@ -226,10 +226,10 @@
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:00|18/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T23:36:45.391Z"
+    "roubadaEm": "2026-07-18T05:00:07.498Z"
   },
   "021": {
     "idNumerico": "1",

@@ -90,8 +90,8 @@
   "< GAUBRE LTDA >": {
     "idNumerico": "2",
     "nome": "< GAUBRE LTDA >",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:11|18/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-18T04:11:16.095Z"
   },
@@ -142,6 +142,14 @@
     "disponivelEm": "07:34|18/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-18T05:34:27.120Z"
+  },
+  "WORK INDUSTRIA'S LIMITED": {
+    "idNumerico": "38",
+    "nome": "Work Industria's Limited",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-18T04:08:48.693Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",

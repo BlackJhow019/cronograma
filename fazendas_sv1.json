@@ -226,10 +226,10 @@
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:09|18/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-18T05:00:42.823Z"
+    "roubadaEm": "2026-07-18T12:09:01.256Z"
   },
   "021": {
     "idNumerico": "1",
@@ -300,7 +300,7 @@
     "nome": "Maguinho. Farm'$$",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:07|18/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-18T12:07:13.323Z"
   },
   ".": {

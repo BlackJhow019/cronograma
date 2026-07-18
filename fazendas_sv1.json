@@ -27,7 +27,7 @@
     "idNumerico": "12",
     "nome": "Fazendinha Do Fire",
     "status": "INDISPONIVEL",
-    "disponivelEm": "05:23|18/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-18T03:23:57.687Z"
   },
@@ -330,10 +330,10 @@
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:24|18/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-18T00:59:50.694Z"
+    "roubadaEm": "2026-07-18T08:24:29.431Z"
   },
   "GRUPO NEXUS": {
     "idNumerico": "9",

@@ -188,7 +188,7 @@
     "nome": "Familia AlmanaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:31|18/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-18T18:31:40.794Z"
   },
   "QUEM ROUBAR E PETISTA": {
@@ -251,7 +251,7 @@
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
     "status": "INDISPONIVEL",
-    "disponivelEm": "15:32|18/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-18T13:32:01.571Z"
   },
@@ -326,6 +326,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-17T21:48:25.785Z"
+  },
+  "OS DE RACA": {
+    "idNumerico": "0",
+    "nome": "OS DE RACA",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-18T13:29:15.132Z"
   },
   "GRUPO NEXUS": {
     "idNumerico": "9",

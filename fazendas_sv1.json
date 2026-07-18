@@ -123,7 +123,7 @@
     "idNumerico": "27",
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
-    "disponivelEm": "01:19|18/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-17T23:19:45.289Z"
   },
@@ -338,9 +338,9 @@
   "GRUPO NEXUS": {
     "idNumerico": "9",
     "nome": "GRUPO NEXUS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:16|18/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-17T23:16:53.704Z"
   },
   "PREFEITO ROADBLOCK": {

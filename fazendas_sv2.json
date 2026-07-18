@@ -39,14 +39,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-17T23:14:12.820Z"
   },
-  "FAZENDA DO TEMOR": {
-    "idNumerico": "30",
-    "nome": "Fazenda do Temor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:02|18/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-18T00:02:44.747Z"
-  },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
     "nome": "LA FAMILIA CHIARADIA",
@@ -212,7 +204,7 @@
     "nome": "Aura + Ego",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:55|18/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-18T04:55:07.752Z"
   },
   "SUCCUBUS FARMS": {
@@ -246,14 +238,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-17T15:56:18.487Z"
-  },
-  "LOKO": {
-    "idNumerico": "12",
-    "nome": "loko",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:59|18/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T23:59:47.541Z"
   },
   "FRANCA": {
     "idNumerico": "28",
@@ -338,10 +322,10 @@
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",
     "nome": "RAMONZIN_FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:04|18/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T18:23:29.006Z"
+    "roubadaEm": "2026-07-18T05:04:38.794Z"
   },
   "QG FARM KHAOS": {
     "idNumerico": "18",

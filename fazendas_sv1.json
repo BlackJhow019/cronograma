@@ -138,10 +138,10 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:57|18/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-18T11:28:13.000Z"
+    "roubadaEm": "2026-07-18T16:57:21.819Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
@@ -156,7 +156,7 @@
     "nome": "Farm's de Cafe",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:53|18/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-18T16:53:03.816Z"
   },
   "FAZENDA ROTA DO CAFÉ": {

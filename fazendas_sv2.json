@@ -164,7 +164,7 @@
     "nome": "Dead (:",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:03|18/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-18T02:03:26.388Z"
   },
   "DONA SEM RAZAO": {
@@ -202,10 +202,10 @@
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:14|18/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T20:13:39.566Z"
+    "roubadaEm": "2026-07-18T02:14:56.374Z"
   },
   "AURA + EGO": {
     "idNumerico": "22",

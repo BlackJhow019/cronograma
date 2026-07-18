@@ -28,7 +28,7 @@
     "nome": "Fazendinha Do Fire",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:52|18/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-18T13:52:02.189Z"
   },
   "RANCHO DO DOUTOR": {
@@ -212,7 +212,7 @@
     "nome": "Granja do iMonKeY",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:50|18/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-18T13:50:42.020Z"
   },
   "BEE": {
@@ -266,10 +266,10 @@
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:12|18/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-18T00:31:12.219Z"
+    "roubadaEm": "2026-07-18T14:12:38.821Z"
   },
   "RICK FARM'S": {
     "idNumerico": "30",
@@ -340,7 +340,7 @@
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:52|18/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-18T13:52:19.819Z"
   },
   "PREFEITO ROADBLOCK": {

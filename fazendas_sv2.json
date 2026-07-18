@@ -11,17 +11,17 @@
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
     "status": "INDISPONIVEL",
-    "disponivelEm": "14:19|18/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-18T12:19:29.653Z"
   },
   "AWAKE COMPANY": {
     "idNumerico": "13",
     "nome": "AwaKe Company",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:19|18/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T19:28:01.898Z"
+    "roubadaEm": "2026-07-18T17:19:37.894Z"
   },
   "ROCK FARM": {
     "idNumerico": "11",
@@ -324,7 +324,7 @@
     "nome": "Fazenda Cuiuda - By GAZOLA",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:17|18/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-18T17:17:01.716Z"
   },
   "RAMONZIN_FRANCA": {

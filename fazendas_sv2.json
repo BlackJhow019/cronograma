@@ -74,10 +74,10 @@
   "B13 :)": {
     "idNumerico": "23",
     "nome": "B13 :)",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:06|18/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T22:37:04.814Z"
+    "roubadaEm": "2026-07-18T07:06:48.950Z"
   },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
@@ -158,14 +158,6 @@
     "disponivelEm": "05:56|18/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-18T03:56:42.664Z"
-  },
-  "DEAD (:": {
-    "idNumerico": "27",
-    "nome": "Dead (:",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:03|18/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-18T02:03:26.388Z"
   },
   "DONA SEM RAZAO": {
     "idNumerico": "26",
@@ -284,7 +276,7 @@
     "nome": "FARM DO GALO",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:54|18/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-18T06:54:32.671Z"
   },
   "GRUPO RANTER": {

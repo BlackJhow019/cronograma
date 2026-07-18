@@ -58,9 +58,9 @@
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
     "nome": "Farma Da Familia Elite",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:25|18/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-18T06:25:55.264Z"
   },
   "TA NO GRALI": {
@@ -190,6 +190,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-18T03:14:14.142Z"
+  },
+  "FARM DA THATY": {
+    "idNumerico": "1",
+    "nome": "Farm da Thaty",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-18T06:23:59.068Z"
   },
   "FARM DO SAPATO": {
     "idNumerico": "9",

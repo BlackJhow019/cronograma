@@ -140,7 +140,7 @@
     "nome": "AzeRoX",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:57|18/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-18T16:57:35.971Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
@@ -223,14 +223,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-18T15:18:42.849Z"
   },
-  "YT @GANDIA_RP": {
-    "idNumerico": "15",
-    "nome": "YT @GANDIA_RP",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:09|18/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-18T12:09:15.148Z"
-  },
   "021": {
     "idNumerico": "1",
     "nome": "021",
@@ -298,9 +290,9 @@
   "MAGUINHO. FARM'$$": {
     "idNumerico": "40",
     "nome": "Maguinho. Farm'$$",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:07|18/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-18T12:07:13.323Z"
   },
   ".": {

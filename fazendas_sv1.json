@@ -66,17 +66,17 @@
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:39|18/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-18T04:42:29.559Z"
+    "roubadaEm": "2026-07-18T14:39:34.839Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:34|18/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-18T14:34:14.965Z"
   },
   "WESKER_U$METRALHA": {
@@ -196,7 +196,7 @@
     "nome": "Quem Roubar e Petista",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:36|18/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-18T14:36:44.776Z"
   },
   "VC É A PIADA AQUI": {

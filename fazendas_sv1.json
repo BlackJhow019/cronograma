@@ -223,14 +223,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-14T03:06:03.754Z"
   },
-  "GRANJA DO IMONKEY": {
-    "idNumerico": "29",
-    "nome": "Granja do iMonKeY",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:03|17/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T19:03:39.429Z"
-  },
   "BEE": {
     "idNumerico": "7",
     "nome": "BEE",
@@ -258,10 +250,10 @@
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:07|18/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T17:12:12.633Z"
+    "roubadaEm": "2026-07-18T00:07:15.935Z"
   },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
@@ -300,7 +292,7 @@
     "nome": "/caridade",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:54|18/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-17T23:54:30.688Z"
   },
   "JAH RASTAFARI": {

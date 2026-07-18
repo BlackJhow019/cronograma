@@ -346,17 +346,17 @@
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:05|18/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-07-18T04:05:51.177Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",
     "nome": "K1NG Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:49|18/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-18T03:49:20.990Z"
   }
 }

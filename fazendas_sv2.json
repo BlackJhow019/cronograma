@@ -143,14 +143,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-17T22:39:40.913Z"
   },
-  "ARIANA_B13": {
-    "idNumerico": "10",
-    "nome": "Ariana_B13",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:25|17/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-17T21:25:16.605Z"
-  },
   "FARME DO DRAKE": {
     "idNumerico": "35",
     "nome": "Farme do Drake",
@@ -204,7 +196,7 @@
     "nome": "FARM DO SAPATO",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:15|18/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-18T02:15:26.273Z"
   },
   "AURA + EGO": {
@@ -346,9 +338,9 @@
   "QG FARM KHAOS": {
     "idNumerico": "18",
     "nome": "QG FARM KHAOS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:23|17/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-17T21:23:14.973Z"
   },
   "FAZENDINHA BETREZE 2": {

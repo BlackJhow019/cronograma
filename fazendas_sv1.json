@@ -178,8 +178,8 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:15|18/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-18T16:15:14.636Z"
   },
@@ -236,7 +236,7 @@
     "nome": "021",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:07|18/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-18T21:07:34.415Z"
   },
   "FAMILIA KUSH": {

@@ -50,10 +50,10 @@
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
     "nome": "LA FAMILIA CHIARADIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:40|18/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T22:06:25.383Z"
+    "roubadaEm": "2026-07-18T03:40:28.712Z"
   },
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
@@ -131,7 +131,7 @@
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
     "status": "INDISPONIVEL",
-    "disponivelEm": "00:39|18/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-17T22:39:40.913Z"
   },

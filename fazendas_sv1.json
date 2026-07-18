@@ -71,6 +71,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-18T14:39:34.839Z"
   },
+  "BORRACHAS FARM": {
+    "idNumerico": "33",
+    "nome": "Borrachas Farm",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-18T14:34:14.965Z"
+  },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
     "nome": "Wesker_u$MeTraLha",
@@ -183,14 +191,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-18T18:31:40.794Z"
   },
-  "QUEM ROUBAR E PETISTA": {
-    "idNumerico": "44",
-    "nome": "Quem Roubar e Petista",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:36|18/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-18T14:36:44.776Z"
-  },
   "VC É A PIADA AQUI": {
     "idNumerico": "10",
     "nome": "Vc é a piada aqui",
@@ -204,7 +204,7 @@
     "nome": "Granja do iMonKeY",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:29|18/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-18T19:29:13.344Z"
   },
   "BEE": {

@@ -60,7 +60,7 @@
     "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:57|18/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-18T04:57:55.644Z"
   },
   "LEK0ZIKA": {
@@ -278,6 +278,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-17T15:50:04.120Z"
+  },
+  "/CARIDADE": {
+    "idNumerico": "5",
+    "nome": "/caridade",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-17T23:54:30.688Z"
   },
   "JAH RASTAFARI": {
     "idNumerico": "39",

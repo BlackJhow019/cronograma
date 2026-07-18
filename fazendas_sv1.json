@@ -138,10 +138,10 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:34|18/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-18T00:00:02.622Z"
+    "roubadaEm": "2026-07-18T05:34:13.078Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
@@ -236,7 +236,7 @@
     "nome": "021",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:18|18/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-18T05:18:56.241Z"
   },
   "FAMILIA KUSH": {
@@ -262,14 +262,6 @@
     "disponivelEm": "03:44|18/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-18T01:44:28.014Z"
-  },
-  "NOREX FARM'S": {
-    "idNumerico": "13",
-    "nome": "Norex farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:31|18/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-18T00:31:12.219Z"
   },
   "RICK FARM'S": {
     "idNumerico": "30",

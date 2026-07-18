@@ -66,10 +66,10 @@
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:53|18/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-18T14:39:34.839Z"
+    "roubadaEm": "2026-07-18T19:53:21.071Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -332,7 +332,7 @@
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:47|18/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-18T19:47:19.117Z"
   },
   "GRUPO NEXUS": {

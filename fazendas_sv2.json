@@ -90,10 +90,10 @@
   "MALVADA'S FARM": {
     "idNumerico": "32",
     "nome": "Malvada's Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:28|18/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-18T15:12:24.674Z"
+    "roubadaEm": "2026-07-18T20:28:46.028Z"
   },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
@@ -172,7 +172,7 @@
     "nome": "Dona sem razao",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:17|18/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-18T20:17:41.188Z"
   },
   "FAZENDA DO GALIN": {
@@ -182,14 +182,6 @@
     "disponivelEm": "17:52|18/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-18T15:52:19.767Z"
-  },
-  "FARM'S NAY E NICK": {
-    "idNumerico": "5",
-    "nome": "FARM'S NAY E NICK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:27|18/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-18T15:27:40.514Z"
   },
   "FARM DA THATY": {
     "idNumerico": "1",

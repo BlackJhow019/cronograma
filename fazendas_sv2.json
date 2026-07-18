@@ -7,14 +7,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-17T16:25:29.493Z"
   },
-  "JESUS EA SOLUCAO": {
-    "idNumerico": "0",
-    "nome": "JESUS EA SOLUCAO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:33|18/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T22:33:56.760Z"
-  },
   "AWAKE COMPANY": {
     "idNumerico": "13",
     "nome": "AwaKe Company",
@@ -90,8 +82,8 @@
   "MALVADA'S FARM": {
     "idNumerico": "32",
     "nome": "Malvada's Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:31|18/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-17T22:31:47.116Z"
   },
@@ -188,7 +180,7 @@
     "nome": "FARM'S NAY E NICK",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:14|18/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-18T03:14:14.142Z"
   },
   "FARM DA THATY": {

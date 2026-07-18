@@ -282,10 +282,10 @@
   "/CARIDADE": {
     "idNumerico": "5",
     "nome": "/caridade",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:30|18/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T23:54:30.688Z"
+    "roubadaEm": "2026-07-18T17:30:28.739Z"
   },
   "JAH RASTAFARI": {
     "idNumerico": "39",

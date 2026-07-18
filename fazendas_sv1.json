@@ -26,10 +26,10 @@
   "FAZENDINHA DO FIRE": {
     "idNumerico": "12",
     "nome": "Fazendinha Do Fire",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:23|18/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T22:01:14.948Z"
+    "roubadaEm": "2026-07-18T03:23:57.687Z"
   },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
@@ -175,14 +175,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-14T22:25:02.622Z"
   },
-  "DM2 FARM": {
-    "idNumerico": "6",
-    "nome": "Dm2 Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:18|18/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-17T22:18:29.222Z"
-  },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
@@ -220,7 +212,7 @@
     "nome": "BEE",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:59|18/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-18T02:59:33.944Z"
   },
   "YT @GANDIA_RP": {

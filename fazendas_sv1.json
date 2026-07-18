@@ -180,7 +180,7 @@
     "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:38|18/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-18T10:38:37.034Z"
   },
   "FAMILIA ALMANAK": {
@@ -234,10 +234,10 @@
   "021": {
     "idNumerico": "1",
     "nome": "021",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:48|18/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-18T05:18:56.241Z"
+    "roubadaEm": "2026-07-18T10:48:39.437Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",

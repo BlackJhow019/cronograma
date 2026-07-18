@@ -12,7 +12,7 @@
     "nome": "AwaKe Company",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:21|18/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-18T17:21:51.854Z"
   },
   "ROCK FARM": {
@@ -226,10 +226,10 @@
   "AMO A MAZZI": {
     "idNumerico": "6",
     "nome": "Amo a Mazzi",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:23|18/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T14:14:10.293Z"
+    "roubadaEm": "2026-07-18T17:23:49.965Z"
   },
   "YANINHA_ANTIFALSOS": {
     "idNumerico": "34",

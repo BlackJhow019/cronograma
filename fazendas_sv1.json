@@ -258,17 +258,17 @@
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:23|18/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-18T01:44:28.014Z"
+    "roubadaEm": "2026-07-18T14:23:01.038Z"
   },
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:12|18/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-18T14:12:53.524Z"
   },
   "RICK FARM'S": {

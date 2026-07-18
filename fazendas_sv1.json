@@ -143,14 +143,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-18T05:34:27.120Z"
   },
-  "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": "38",
-    "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:08|18/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-18T04:08:48.693Z"
-  },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
@@ -346,8 +338,8 @@
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:05|18/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-18T04:05:51.177Z"
   },

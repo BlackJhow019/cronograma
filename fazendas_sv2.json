@@ -60,7 +60,7 @@
     "nome": "Farma Da Familia Elite",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:34|18/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-18T19:34:32.811Z"
   },
   "TA NO GRALI": {
@@ -218,9 +218,9 @@
   "SUCCUBUS FARMS": {
     "idNumerico": "29",
     "nome": "Succubus Farms",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:36|18/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-18T14:36:30.689Z"
   },
   "FAZENDA REI DROGADO": {

@@ -116,7 +116,7 @@
     "nome": "Farms de Galopisitas",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:43|18/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-18T18:43:55.940Z"
   },
   "CANNABIS": {
@@ -354,8 +354,8 @@
   "@FILH_ODOPAII": {
     "idNumerico": "12",
     "nome": "@filh_odopaii",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:52|18/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-18T13:52:44.298Z"
   }

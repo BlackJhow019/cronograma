@@ -34,10 +34,10 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:21|19/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-18T14:39:55.237Z"
+    "roubadaEm": "2026-07-19T18:21:40.693Z"
   },
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
@@ -214,14 +214,6 @@
     "disponivelEm": "19:23|19/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-19T17:23:47.484Z"
-  },
-  "YT @GANDIA_RP": {
-    "idNumerico": "15",
-    "nome": "YT @GANDIA_RP",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:20|19/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-19T13:20:04.040Z"
   },
   "021": {
     "idNumerico": "1",

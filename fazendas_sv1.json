@@ -2,8 +2,8 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:04|19/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-18T22:04:18.696Z"
   },
@@ -236,7 +236,7 @@
     "nome": "021",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:01|19/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-19T03:01:44.517Z"
   },
   "FAMILIA KUSH": {
@@ -251,7 +251,7 @@
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
     "status": "INDISPONIVEL",
-    "disponivelEm": "00:07|19/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-18T22:07:48.872Z"
   },

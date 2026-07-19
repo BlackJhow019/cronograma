@@ -34,10 +34,10 @@
   "EVENTO": {
     "idNumerico": "42",
     "nome": "EVENTO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:31|19/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-18T21:11:25.230Z"
+    "roubadaEm": "2026-07-19T04:31:59.561Z"
   },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
@@ -132,7 +132,7 @@
     "nome": "SE ROUBAR MORRE",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:23|19/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-19T04:23:10.382Z"
   },
   "ARIANA_B13": {

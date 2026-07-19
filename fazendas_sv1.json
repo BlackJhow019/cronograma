@@ -18,10 +18,10 @@
   "NIKE SHOX": {
     "idNumerico": "42",
     "nome": "NIKE SHOX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:58|20/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T18:43:19.303Z"
+    "roubadaEm": "2026-07-19T23:58:17.768Z"
   },
   "FAZENDINHA DO FIRE": {
     "idNumerico": "12",
@@ -156,7 +156,7 @@
     "nome": "Farm's de Cafe",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:48|20/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-19T23:48:20.194Z"
   },
   "FAZENDA ROTA DO CAFÉ": {

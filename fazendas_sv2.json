@@ -90,10 +90,10 @@
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
     "nome": "YellowStone - By Monster",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:52|19/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-18T20:00:28.363Z"
+    "roubadaEm": "2026-07-19T06:52:43.361Z"
   },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
@@ -340,7 +340,7 @@
     "nome": "Fazendinha BeTreZe 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:33|19/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-19T06:33:41.747Z"
   },
   "@FILH_ODOPAII": {

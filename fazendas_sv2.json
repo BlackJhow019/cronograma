@@ -10,10 +10,10 @@
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:28|19/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-18T19:23:30.336Z"
+    "roubadaEm": "2026-07-19T00:28:43.309Z"
   },
   "AWAKE COMPANY": {
     "idNumerico": "13",
@@ -334,14 +334,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-17T21:23:14.973Z"
-  },
-  "FAZENDINHA BETREZE 2": {
-    "idNumerico": "38",
-    "nome": "Fazendinha BeTreZe 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:26|18/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-18T19:26:14.064Z"
   },
   "@FILH_ODOPAII": {
     "idNumerico": "12",

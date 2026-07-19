@@ -180,15 +180,15 @@
     "nome": "FARM'S NAY E NICK",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:25|19/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-19T16:25:07.136Z"
   },
   "FARM DA THATY": {
     "idNumerico": "1",
     "nome": "Farm da Thaty",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:31|19/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-19T11:31:27.924Z"
   },
   "FARM DO SAPATO": {

@@ -28,7 +28,7 @@
     "nome": "Fazendinha Do Fire",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:42|19/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-19T13:42:19.381Z"
   },
   "RANCHO DO DOUTOR": {
@@ -66,10 +66,10 @@
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:48|19/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T06:42:24.985Z"
+    "roubadaEm": "2026-07-19T13:48:10.140Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",

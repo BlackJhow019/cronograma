@@ -68,7 +68,7 @@
     "nome": "Lek0zika",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:48|19/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-19T13:48:34.154Z"
   },
   "BORRACHAS FARM": {
@@ -210,10 +210,10 @@
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:51|19/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T06:51:34.164Z"
+    "roubadaEm": "2026-07-19T13:51:06.485Z"
   },
   "BEE": {
     "idNumerico": "7",
@@ -230,14 +230,6 @@
     "disponivelEm": "15:20|19/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-19T13:20:04.040Z"
-  },
-  "021": {
-    "idNumerico": "1",
-    "nome": "021",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:49|19/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T08:49:18.821Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",

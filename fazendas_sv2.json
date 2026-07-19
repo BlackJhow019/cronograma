@@ -84,7 +84,7 @@
     "nome": "Malvada's Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:20|19/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-19T21:20:06.660Z"
   },
   "YELLOWSTONE - BY MONSTER": {
@@ -174,14 +174,6 @@
     "disponivelEm": "19:03|19/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-19T17:03:53.685Z"
-  },
-  "FARM'S NAY E NICK": {
-    "idNumerico": "5",
-    "nome": "FARM'S NAY E NICK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:25|19/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-19T16:25:07.136Z"
   },
   "FARM DA THATY": {
     "idNumerico": "1",
@@ -322,10 +314,10 @@
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",
     "nome": "RAMONZIN_FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:27|19/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T15:28:37.266Z"
+    "roubadaEm": "2026-07-19T21:27:34.977Z"
   },
   "QG FARM KHAOS": {
     "idNumerico": "18",

@@ -68,7 +68,7 @@
     "nome": "Lek0zika",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:39|19/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-19T01:39:10.212Z"
   },
   "BORRACHAS FARM": {
@@ -218,8 +218,8 @@
   "BEE": {
     "idNumerico": "7",
     "nome": "BEE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:48|18/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-18T20:48:31.940Z"
   },

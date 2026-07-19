@@ -92,7 +92,7 @@
     "nome": "YellowStone - By Monster",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:25|19/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-19T14:25:26.725Z"
   },
   "VALE DAS SOMBRAS": {
@@ -130,8 +130,8 @@
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:30|19/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-19T09:30:57.519Z"
   },
@@ -156,7 +156,7 @@
     "nome": "Dead (:",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:30|19/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-19T14:30:28.225Z"
   },
   "DONA SEM RAZAO": {
@@ -350,5 +350,13 @@
     "disponivelEm": "16:06|19/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-19T14:06:08.528Z"
+  },
+  "FAZENDA DO MIRIM": {
+    "idNumerico": "36",
+    "nome": "Fazenda Do MIRIM",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-19T09:29:52.523Z"
   }
 }

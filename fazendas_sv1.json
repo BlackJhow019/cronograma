@@ -60,7 +60,7 @@
     "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:58|19/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-19T14:58:33.316Z"
   },
   "LEK0ZIKA": {
@@ -179,7 +179,7 @@
     "idNumerico": "6",
     "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
-    "disponivelEm": "12:11|19/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-19T10:11:43.348Z"
   },
@@ -354,9 +354,9 @@
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:11|19/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-07-19T15:11:57.550Z"
   }
 }

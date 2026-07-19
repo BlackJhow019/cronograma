@@ -178,10 +178,10 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:11|19/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T03:51:24.411Z"
+    "roubadaEm": "2026-07-19T10:11:43.348Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
@@ -332,7 +332,7 @@
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "11:48|19/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-19T09:48:56.517Z"
   },
   "GRUPO NEXUS": {

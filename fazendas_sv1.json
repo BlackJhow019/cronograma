@@ -140,7 +140,7 @@
     "nome": "AzeRoX",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:02|19/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-19T17:02:19.719Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
@@ -306,10 +306,10 @@
   ".": {
     "idNumerico": "31",
     "nome": ".",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:13|19/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T20:00:49.773Z"
+    "roubadaEm": "2026-07-19T17:13:48.953Z"
   },
   "30PRAUM": {
     "idNumerico": "16",

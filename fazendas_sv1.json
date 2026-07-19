@@ -47,14 +47,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-18T14:29:48.751Z"
   },
-  "THUG LIFE": {
-    "idNumerico": "21",
-    "nome": "THUG LIFE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:17|19/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-19T03:17:56.612Z"
-  },
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
@@ -122,9 +114,9 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:15|19/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-19T03:15:33.623Z"
   },
   "MONOPOLIO FARMS": {

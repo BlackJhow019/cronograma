@@ -114,10 +114,10 @@
   "CANNABIS": {
     "idNumerico": "8",
     "nome": "CANNABIS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:59|19/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T00:41:23.474Z"
+    "roubadaEm": "2026-07-19T07:59:42.652Z"
   },
   "AMO O LOWER": {
     "idNumerico": "2",
@@ -270,14 +270,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-18T06:54:32.671Z"
-  },
-  "GRUPO RANTER": {
-    "idNumerico": "19",
-    "nome": "GRUPO RANTER",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:58|19/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T02:58:23.970Z"
   },
   "ROLINHA CANSADA FARMS": {
     "idNumerico": "14",

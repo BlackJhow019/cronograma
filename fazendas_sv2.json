@@ -66,10 +66,10 @@
   "TA NO GRALI": {
     "idNumerico": "4",
     "nome": "ta no grali",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:09|19/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T07:38:59.281Z"
+    "roubadaEm": "2026-07-19T14:09:14.632Z"
   },
   "B13 :)": {
     "idNumerico": "23",
@@ -348,7 +348,7 @@
     "nome": "@filh_odopaii",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:06|19/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-19T14:06:08.528Z"
   },
   "FAZENDA DO MIRIM": {

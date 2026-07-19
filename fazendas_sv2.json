@@ -244,7 +244,7 @@
     "nome": "FRANCA",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:46|19/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-19T03:46:23.558Z"
   },
   "CHAMA A POLICIA": {
@@ -290,10 +290,10 @@
   "/VENDERPRODUTOS": {
     "idNumerico": "7",
     "nome": "/VENDERPRODUTOS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:03|19/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-18T22:16:29.046Z"
+    "roubadaEm": "2026-07-19T04:03:02.066Z"
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {
     "idNumerico": "37",

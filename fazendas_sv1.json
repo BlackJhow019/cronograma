@@ -207,12 +207,20 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-14T03:06:03.754Z"
   },
+  "GRANJA DO IMONKEY": {
+    "idNumerico": "29",
+    "nome": "Granja do iMonKeY",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-19T06:51:34.164Z"
+  },
   "BEE": {
     "idNumerico": "7",
     "nome": "BEE",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:53|19/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-19T11:53:54.234Z"
   },
   "YT @GANDIA_RP": {

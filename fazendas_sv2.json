@@ -39,14 +39,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-19T05:05:37.044Z"
   },
-  "FAZENDA DO TEMOR": {
-    "idNumerico": "30",
-    "nome": "Fazenda do Temor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T08:09:49.370Z"
-  },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
     "nome": "LA FAMILIA CHIARADIA",
@@ -98,10 +90,10 @@
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
     "nome": "Vale das Sombras",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:10|19/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T21:33:33.064Z"
+    "roubadaEm": "2026-07-19T13:10:36.015Z"
   },
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",

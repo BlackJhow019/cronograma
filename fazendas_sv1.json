@@ -276,7 +276,7 @@
     "nome": "Rick Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:12|19/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-19T02:12:28.433Z"
   },
   "/CARIDADE": {
@@ -346,10 +346,10 @@
   "K1NG FARM'S": {
     "idNumerico": "25",
     "nome": "K1NG Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:20|19/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-18T20:06:24.498Z"
+    "roubadaEm": "2026-07-19T02:20:44.695Z"
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",

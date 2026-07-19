@@ -116,7 +116,7 @@
     "nome": "Fazenda da Milly",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:41|19/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-19T05:41:01.517Z"
   },
   "HWD INVESTIMENTOS": {
@@ -182,14 +182,6 @@
     "disponivelEm": "05:51|19/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-19T03:51:24.411Z"
-  },
-  "FAMILIA ALMANAK": {
-    "idNumerico": "32",
-    "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:42|19/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T00:42:53.980Z"
   },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
@@ -267,9 +259,9 @@
     "idNumerico": "13",
     "nome": "Norex farm's",
     "status": "INDISPONIVEL",
-    "disponivelEm": "02:43|19/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-19T00:43:28.296Z"
+    "disponivelEm": "07:46|19/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-19T05:46:51.674Z"
   },
   "RICK FARM'S": {
     "idNumerico": "30",
@@ -310,14 +302,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-17T20:00:49.773Z"
-  },
-  "30PRAUM": {
-    "idNumerico": "16",
-    "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:44|19/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-19T00:44:45.928Z"
   },
   "FAZENDA FELIZ": {
     "idNumerico": "22",

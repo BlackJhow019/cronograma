@@ -20,8 +20,16 @@
     "nome": "NIKE SHOX",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:43|19/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-19T18:43:19.303Z"
+  },
+  "FAZENDINHA DO FIRE": {
+    "idNumerico": "12",
+    "nome": "Fazendinha Do Fire",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-19T13:42:19.381Z"
   },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
@@ -148,7 +156,7 @@
     "nome": "Farm's de Cafe",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:39|19/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-19T18:39:10.902Z"
   },
   "FAZENDA ROTA DO CAFÉ": {

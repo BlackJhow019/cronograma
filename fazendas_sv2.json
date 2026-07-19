@@ -306,10 +306,10 @@
   "~E V O M~": {
     "idNumerico": "25",
     "nome": "~E V O M~",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:18|19/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-18T17:15:17.729Z"
+    "roubadaEm": "2026-07-19T20:18:10.659Z"
   },
   "FAZENDA CUIUDA - BY GAZOLA": {
     "idNumerico": "17",
@@ -348,7 +348,7 @@
     "nome": "@filh_odopaii",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:08|19/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-19T20:08:39.495Z"
   },
   "FAZENDA DO MIRIM": {

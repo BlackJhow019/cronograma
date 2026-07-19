@@ -18,9 +18,9 @@
   "NIKE SHOX": {
     "idNumerico": "42",
     "nome": "NIKE SHOX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:17|19/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-19T13:17:16.936Z"
   },
   "FAZENDINHA DO FIRE": {
@@ -151,14 +151,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-19T17:35:15.453Z"
   },
-  "FARM'S DE CAFE": {
-    "idNumerico": "4",
-    "nome": "Farm's de Cafe",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:19|19/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-19T13:19:02.779Z"
-  },
   "FAZENDA ROTA DO CAFÉ": {
     "idNumerico": "17",
     "nome": "Fazenda Rota do Café",
@@ -258,8 +250,8 @@
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:15|19/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-19T13:15:49.598Z"
   },
@@ -284,7 +276,7 @@
     "nome": "/caridade",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:15|19/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-19T18:15:09.608Z"
   },
   "JAH RASTAFARI": {

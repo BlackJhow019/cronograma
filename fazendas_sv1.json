@@ -151,14 +151,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-19T17:35:15.453Z"
   },
-  "FARM'S DE CAFE": {
-    "idNumerico": "4",
-    "nome": "Farm's de Cafe",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:39|19/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-19T18:39:10.902Z"
-  },
   "FAZENDA ROTA DO CAFÉ": {
     "idNumerico": "17",
     "nome": "Fazenda Rota do Café",
@@ -188,7 +180,7 @@
     "nome": "Familia AlmanaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:36|20/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-19T23:36:28.550Z"
   },
   "QUEM ROUBAR E PETISTA": {
@@ -316,7 +308,7 @@
     "nome": "30PRAUM",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:36|20/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-19T23:36:00.496Z"
   },
   "FAZENDA FELIZ": {
@@ -342,6 +334,14 @@
     "disponivelEm": "22:30|19/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-19T20:30:54.118Z"
+  },
+  "K1NG FARM'S": {
+    "idNumerico": "25",
+    "nome": "K1NG Farm's",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-19T18:36:15.332Z"
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",

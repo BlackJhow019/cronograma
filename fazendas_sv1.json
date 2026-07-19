@@ -148,7 +148,7 @@
     "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:17|19/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-19T12:17:40.454Z"
   },
   "FARM'S DE CAFE": {
@@ -252,7 +252,7 @@
     "nome": "fazendinha do igeze",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:19|19/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-19T12:19:10.074Z"
   },
   "POLEMICO$ INDUSTRI$": {
@@ -314,10 +314,10 @@
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:35|19/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T05:54:58.437Z"
+    "roubadaEm": "2026-07-19T12:35:49.675Z"
   },
   "FAZENDA FELIZ": {
     "idNumerico": "22",

@@ -95,14 +95,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-19T14:25:26.725Z"
   },
-  "VALE DAS SOMBRAS": {
-    "idNumerico": "24",
-    "nome": "Vale das Sombras",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:11|19/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-19T13:11:44.300Z"
-  },
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
     "nome": "Farms de Galopisitas",
@@ -210,9 +202,9 @@
   "SUCCUBUS FARMS": {
     "idNumerico": "29",
     "nome": "Succubus Farms",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:10|19/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-19T13:10:00.573Z"
   },
   "FAZENDA REI DROGADO": {

@@ -226,10 +226,10 @@
   "AMO A MAZZI": {
     "idNumerico": "6",
     "nome": "Amo a Mazzi",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:05|19/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-18T17:24:31.797Z"
+    "roubadaEm": "2026-07-19T21:05:27.630Z"
   },
   "YANINHA_ANTIFALSOS": {
     "idNumerico": "34",
@@ -356,7 +356,7 @@
     "nome": "Fazenda Do MIRIM",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:59|19/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-19T20:59:21.663Z"
   }
 }

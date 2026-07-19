@@ -34,8 +34,8 @@
   "EVENTO": {
     "idNumerico": "42",
     "nome": "EVENTO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:11|18/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-18T21:11:25.230Z"
   },
@@ -142,14 +142,6 @@
     "disponivelEm": "02:18|19/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-19T00:18:12.184Z"
-  },
-  "FARME DO DRAKE": {
-    "idNumerico": "35",
-    "nome": "Farme do Drake",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:14|18/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-18T21:14:41.789Z"
   },
   "DEAD (:": {
     "idNumerico": "27",

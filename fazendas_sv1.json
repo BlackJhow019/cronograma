@@ -274,9 +274,9 @@
   "RICK FARM'S": {
     "idNumerico": "30",
     "nome": "Rick Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:12|19/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-19T02:12:28.433Z"
   },
   "/CARIDADE": {

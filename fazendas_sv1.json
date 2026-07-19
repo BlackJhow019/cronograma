@@ -2,10 +2,10 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:03|19/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T09:06:14.154Z"
+    "roubadaEm": "2026-07-19T21:03:08.140Z"
   },
   "KODIAK": {
     "idNumerico": "3",
@@ -332,7 +332,7 @@
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:45|19/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-19T20:45:35.134Z"
   },
   "GRUPO NEXUS": {

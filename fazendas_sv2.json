@@ -83,7 +83,7 @@
     "idNumerico": "32",
     "nome": "Malvada's Farm",
     "status": "INDISPONIVEL",
-    "disponivelEm": "17:57|19/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-19T15:57:43.304Z"
   },
@@ -354,9 +354,9 @@
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:58|19/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T15:51:04.012Z"
+    "roubadaEm": "2026-07-19T20:58:04.451Z"
   }
 }

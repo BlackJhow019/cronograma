@@ -196,7 +196,7 @@
     "nome": "Quem Roubar e Petista",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:24|19/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-19T20:24:19.228Z"
   },
   "VC É A PIADA AQUI": {
@@ -212,7 +212,7 @@
     "nome": "Granja do iMonKeY",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:24|19/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-19T20:24:14.213Z"
   },
   "BEE": {
@@ -298,10 +298,10 @@
   "MAGUINHO. FARM'$$": {
     "idNumerico": "40",
     "nome": "Maguinho. Farm'$$",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:28|19/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T14:29:13.307Z"
+    "roubadaEm": "2026-07-19T20:28:09.238Z"
   },
   ".": {
     "idNumerico": "31",
@@ -326,14 +326,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-19T14:20:19.655Z"
-  },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:24|19/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-19T15:24:28.699Z"
   },
   "GRUPO NEXUS": {
     "idNumerico": "9",

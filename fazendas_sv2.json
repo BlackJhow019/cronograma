@@ -194,10 +194,10 @@
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:13|19/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T05:53:47.083Z"
+    "roubadaEm": "2026-07-19T11:13:26.278Z"
   },
   "AURA + EGO": {
     "idNumerico": "22",
@@ -268,7 +268,7 @@
     "nome": "FARM DO GALO",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:04|19/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-19T11:04:37.081Z"
   },
   "GRUPO RANTER": {

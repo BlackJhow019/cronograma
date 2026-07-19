@@ -26,10 +26,10 @@
   "FAZENDINHA DO FIRE": {
     "idNumerico": "12",
     "nome": "Fazendinha Do Fire",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:04|19/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T13:42:19.381Z"
+    "roubadaEm": "2026-07-19T19:04:20.087Z"
   },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
@@ -334,14 +334,6 @@
     "disponivelEm": "17:24|19/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-19T15:24:28.699Z"
-  },
-  "GRUPO NEXUS": {
-    "idNumerico": "9",
-    "nome": "GRUPO NEXUS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T13:59:23.939Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",

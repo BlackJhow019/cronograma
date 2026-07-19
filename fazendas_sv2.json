@@ -34,9 +34,9 @@
   "EVENTO": {
     "idNumerico": "42",
     "nome": "EVENTO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:14|19/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-19T14:40:58.202Z"
   },
   "FAZENDA DO TEMOR": {
@@ -52,7 +52,7 @@
     "nome": "LA FAMILIA CHIARADIA",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:09|19/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-19T15:09:46.339Z"
   },
   "FARMA DA FAMILIA ELITE": {
@@ -258,10 +258,10 @@
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",
     "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:18|19/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-18T10:17:31.120Z"
+    "roubadaEm": "2026-07-19T15:18:50.710Z"
   },
   "FARM DO GALO": {
     "idNumerico": "40",

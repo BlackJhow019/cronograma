@@ -66,10 +66,10 @@
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:38|19/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-18T19:53:42.105Z"
+    "roubadaEm": "2026-07-19T01:38:56.790Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -244,7 +244,7 @@
     "nome": "Familia KuSh",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:16|19/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-19T01:16:43.702Z"
   },
   "FAZENDINHA DO IGEZE": {

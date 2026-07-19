@@ -202,10 +202,10 @@
   "AURA + EGO": {
     "idNumerico": "22",
     "nome": "Aura + Ego",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:18|19/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T00:30:46.587Z"
+    "roubadaEm": "2026-07-19T09:18:22.621Z"
   },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",
@@ -350,13 +350,5 @@
     "disponivelEm": "07:33|19/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-19T05:33:33.601Z"
-  },
-  "FAZENDA DO MIRIM": {
-    "idNumerico": "36",
-    "nome": "Fazenda Do MIRIM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-19T04:14:47.836Z"
   }
 }

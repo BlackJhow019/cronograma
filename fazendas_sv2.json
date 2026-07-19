@@ -76,14 +76,14 @@
     "nome": "B13 :)",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:57|19/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-19T05:57:10.596Z"
   },
   "MALVADA'S FARM": {
     "idNumerico": "32",
     "nome": "Malvada's Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:54|19/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-19T01:54:26.239Z"
   },
@@ -92,7 +92,7 @@
     "nome": "YellowStone - By Monster",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:53|19/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-19T06:53:40.464Z"
   },
   "VALE DAS SOMBRAS": {

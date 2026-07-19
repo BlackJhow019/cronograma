@@ -12,7 +12,7 @@
     "nome": "JESUS EA SOLUCAO",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:58|19/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-19T10:58:22.059Z"
   },
   "AWAKE COMPANY": {
@@ -266,10 +266,10 @@
   "FARM DO GALO": {
     "idNumerico": "40",
     "nome": "FARM DO GALO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:04|19/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-18T06:54:32.671Z"
+    "roubadaEm": "2026-07-19T11:04:17.855Z"
   },
   "GRUPO RANTER": {
     "idNumerico": "19",

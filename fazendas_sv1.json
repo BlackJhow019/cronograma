@@ -122,9 +122,9 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:47|19/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-19T12:47:33.739Z"
   },
   "MONOPOLIO FARMS": {
@@ -148,7 +148,7 @@
     "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:35|19/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-19T17:35:15.453Z"
   },
   "FARM'S DE CAFE": {

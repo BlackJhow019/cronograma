@@ -106,8 +106,8 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:06|19/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-19T07:06:04.543Z"
   },
@@ -140,7 +140,7 @@
     "nome": "AzeRoX",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:48|19/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-19T11:48:37.326Z"
   },
   "WORK INDUSTRIA'S LIMITED": {

@@ -186,8 +186,8 @@
   "FARM DA THATY": {
     "idNumerico": "1",
     "nome": "Farm da Thaty",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:37|19/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-19T05:37:35.169Z"
   },
@@ -310,6 +310,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-18T17:15:17.729Z"
+  },
+  "FAZENDA CUIUDA - BY GAZOLA": {
+    "idNumerico": "17",
+    "nome": "Fazenda Cuiuda - By GAZOLA",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-19T05:35:43.119Z"
   },
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",

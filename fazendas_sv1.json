@@ -74,9 +74,9 @@
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:13|19/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-19T15:13:21.943Z"
   },
   "WESKER_U$METRALHA": {
@@ -287,14 +287,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-19T18:15:09.608Z"
   },
-  "JAH RASTAFARI": {
-    "idNumerico": "39",
-    "nome": "JAH RASTAFARI",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:16|19/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T15:16:37.447Z"
-  },
   "MAGUINHO. FARM'$$": {
     "idNumerico": "40",
     "nome": "Maguinho. Farm'$$",
@@ -354,8 +346,8 @@
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:12|19/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-19T15:12:14.039Z"
   }

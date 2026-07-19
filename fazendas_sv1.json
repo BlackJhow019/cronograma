@@ -52,7 +52,7 @@
     "nome": "THUG LIFE",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:43|19/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-19T21:43:04.179Z"
   },
   "SAO PEDRO 2": {
@@ -82,8 +82,8 @@
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
     "nome": "Wesker_u$MeTraLha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:01|19/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-19T17:01:25.153Z"
   },
@@ -138,9 +138,9 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:02|19/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-19T17:02:19.719Z"
   },
   "WORK INDUSTRIA'S LIMITED": {

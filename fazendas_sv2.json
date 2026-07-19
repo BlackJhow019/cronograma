@@ -50,10 +50,10 @@
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
     "nome": "LA FAMILIA CHIARADIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:08|19/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T09:15:03.602Z"
+    "roubadaEm": "2026-07-19T15:08:49.665Z"
   },
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
@@ -76,7 +76,7 @@
     "nome": "B13 :)",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:44|19/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-19T14:44:11.815Z"
   },
   "MALVADA'S FARM": {
@@ -244,7 +244,7 @@
     "nome": "FRANCA",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:40|19/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-19T14:40:37.648Z"
   },
   "CHAMA A POLICIA": {

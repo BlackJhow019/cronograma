@@ -211,7 +211,7 @@
     "idNumerico": "29",
     "nome": "Succubus Farms",
     "status": "INDISPONIVEL",
-    "disponivelEm": "04:26|19/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-19T02:26:38.753Z"
   },
@@ -330,10 +330,10 @@
   "QG FARM KHAOS": {
     "idNumerico": "18",
     "nome": "QG FARM KHAOS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:27|19/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T21:23:14.973Z"
+    "roubadaEm": "2026-07-19T07:27:09.617Z"
   },
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",

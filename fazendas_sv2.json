@@ -74,10 +74,10 @@
   "B13 :)": {
     "idNumerico": "23",
     "nome": "B13 :)",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:53|19/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-18T19:21:41.159Z"
+    "roubadaEm": "2026-07-19T00:53:11.939Z"
   },
   "MALVADA'S FARM": {
     "idNumerico": "32",
@@ -196,7 +196,7 @@
     "nome": "FARM DO SAPATO",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:47|19/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-19T00:47:21.662Z"
   },
   "AURA + EGO": {

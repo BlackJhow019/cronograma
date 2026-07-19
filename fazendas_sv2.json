@@ -28,7 +28,7 @@
     "nome": "RocK Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:43|20/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-19T23:43:13.600Z"
   },
   "EVENTO": {
@@ -54,14 +54,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-19T15:09:46.339Z"
-  },
-  "FARMA DA FAMILIA ELITE": {
-    "idNumerico": "33",
-    "nome": "Farma Da Familia Elite",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:47|19/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T18:47:43.480Z"
   },
   "TA NO GRALI": {
     "idNumerico": "4",
@@ -234,10 +226,10 @@
   "YANINHA_ANTIFALSOS": {
     "idNumerico": "34",
     "nome": "yAninha_AntiFalsos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:53|20/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T13:25:07.688Z"
+    "roubadaEm": "2026-07-19T23:53:30.334Z"
   },
   "FRANCA": {
     "idNumerico": "28",

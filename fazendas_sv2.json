@@ -42,10 +42,10 @@
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:09|19/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T02:32:20.100Z"
+    "roubadaEm": "2026-07-19T08:09:37.554Z"
   },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
@@ -270,6 +270,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-18T06:54:32.671Z"
+  },
+  "GRUPO RANTER": {
+    "idNumerico": "19",
+    "nome": "GRUPO RANTER",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-19T02:58:23.970Z"
   },
   "ROLINHA CANSADA FARMS": {
     "idNumerico": "14",

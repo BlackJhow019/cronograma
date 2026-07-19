@@ -23,14 +23,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-18T20:13:36.743Z"
   },
-  "FAZENDINHA DO FIRE": {
-    "idNumerico": "12",
-    "nome": "Fazendinha Do Fire",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:41|18/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-18T19:41:20.447Z"
-  },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
@@ -186,10 +178,10 @@
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:42|19/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-18T18:31:40.794Z"
+    "roubadaEm": "2026-07-19T00:42:53.980Z"
   },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
@@ -212,7 +204,7 @@
     "nome": "Granja do iMonKeY",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:34|19/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-19T00:34:13.015Z"
   },
   "BEE": {

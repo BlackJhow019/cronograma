@@ -252,7 +252,7 @@
     "nome": "fazendinha do igeze",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:27|20/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-19T23:27:05.994Z"
   },
   "POLEMICO$ INDUSTRI$": {
@@ -314,10 +314,10 @@
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:36|20/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T17:53:26.641Z"
+    "roubadaEm": "2026-07-19T23:36:00.496Z"
   },
   "FAZENDA FELIZ": {
     "idNumerico": "22",

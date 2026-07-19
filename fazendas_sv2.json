@@ -44,7 +44,7 @@
     "nome": "Fazenda do Temor",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:32|19/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-19T02:32:20.100Z"
   },
   "LA FAMILIA CHIARADIA": {
@@ -127,14 +127,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-18T23:04:24.055Z"
   },
-  "SE ROUBAR MORRE": {
-    "idNumerico": "41",
-    "nome": "SE ROUBAR MORRE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:55|18/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-18T21:55:56.670Z"
-  },
   "ARIANA_B13": {
     "idNumerico": "10",
     "nome": "Ariana_B13",
@@ -212,7 +204,7 @@
     "nome": "Succubus Farms",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:26|19/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-19T02:26:38.753Z"
   },
   "FAZENDA REI DROGADO": {
@@ -274,10 +266,10 @@
   "GRUPO RANTER": {
     "idNumerico": "19",
     "nome": "GRUPO RANTER",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:58|19/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T16:23:01.681Z"
+    "roubadaEm": "2026-07-19T02:58:23.970Z"
   },
   "ROLINHA CANSADA FARMS": {
     "idNumerico": "14",

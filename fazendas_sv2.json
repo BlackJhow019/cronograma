@@ -146,8 +146,8 @@
   "FARME DO DRAKE": {
     "idNumerico": "35",
     "nome": "Farme do Drake",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:48|19/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-19T07:48:04.775Z"
   },
@@ -162,8 +162,8 @@
   "DONA SEM RAZAO": {
     "idNumerico": "26",
     "nome": "Dona sem razao",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:47|19/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-19T07:47:47.910Z"
   },
@@ -206,14 +206,6 @@
     "disponivelEm": "11:18|19/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-19T09:18:38.830Z"
-  },
-  "SUCCUBUS FARMS": {
-    "idNumerico": "29",
-    "nome": "Succubus Farms",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:50|19/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T07:50:50.974Z"
   },
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",
@@ -298,8 +290,8 @@
   "WELCOME > MELHOR FAZENDA DO BPS": {
     "idNumerico": "37",
     "nome": "WELCOME > MELHOR FAZENDA DO BPS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:48|19/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-19T07:48:07.166Z"
   },

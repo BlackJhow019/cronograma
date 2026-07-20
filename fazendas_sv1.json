@@ -98,10 +98,10 @@
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
     "nome": "VENDO 500km ACEITO TROCAS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:22|20/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-16T06:56:13.882Z"
+    "roubadaEm": "2026-07-20T00:22:48.160Z"
   },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
@@ -114,10 +114,10 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:23|20/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T16:12:34.207Z"
+    "roubadaEm": "2026-07-20T00:23:42.158Z"
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
@@ -268,7 +268,7 @@
     "nome": "Norex farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:10|20/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-20T00:10:22.748Z"
   },
   "RICK FARM'S": {

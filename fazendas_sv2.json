@@ -91,7 +91,7 @@
     "idNumerico": "16",
     "nome": "YellowStone - By Monster",
     "status": "INDISPONIVEL",
-    "disponivelEm": "02:47|20/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-20T00:47:27.378Z"
   },
@@ -310,6 +310,14 @@
     "disponivelEm": "03:50|20/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-20T01:50:09.711Z"
+  },
+  "FAZENDA CUIUDA - BY GAZOLA": {
+    "idNumerico": "17",
+    "nome": "Fazenda Cuiuda - By GAZOLA",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-20T00:41:26.386Z"
   },
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",

@@ -10,10 +10,10 @@
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:25|20/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-20T10:01:41.272Z"
+    "roubadaEm": "2026-07-20T17:25:22.958Z"
   },
   "AWAKE COMPANY": {
     "idNumerico": "13",
@@ -316,7 +316,7 @@
     "nome": "Fazenda Cuiuda - By GAZOLA",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:17|20/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-20T17:17:22.644Z"
   },
   "RAMONZIN_FRANCA": {

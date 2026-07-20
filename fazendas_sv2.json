@@ -15,14 +15,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-20T04:18:54.986Z"
   },
-  "AWAKE COMPANY": {
-    "idNumerico": "13",
-    "nome": "AwaKe Company",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:13|20/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-20T00:13:05.876Z"
-  },
   "ROCK FARM": {
     "idNumerico": "11",
     "nome": "RocK Farm",
@@ -46,6 +38,14 @@
     "disponivelEm": "03:03|20/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-20T01:03:43.470Z"
+  },
+  "LA FAMILIA CHIARADIA": {
+    "idNumerico": "43",
+    "nome": "LA FAMILIA CHIARADIA",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-20T00:06:37.803Z"
   },
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
@@ -158,6 +158,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-19T13:37:10.295Z"
+  },
+  "FAZENDA DO GALIN": {
+    "idNumerico": "15",
+    "nome": "Fazenda do Galin",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-20T00:05:41.483Z"
   },
   "FARM'S NAY E NICK": {
     "idNumerico": "5",

@@ -162,8 +162,8 @@
   "DONA SEM RAZAO": {
     "idNumerico": "26",
     "nome": "Dona sem razao",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:50|20/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-20T10:50:16.945Z"
   },
@@ -204,7 +204,7 @@
     "nome": "Aura + Ego",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:48|20/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-20T15:48:28.344Z"
   },
   "SUCCUBUS FARMS": {

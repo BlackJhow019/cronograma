@@ -156,7 +156,7 @@
     "nome": "Dead (:",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:06|20/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-20T14:06:17.641Z"
   },
   "DONA SEM RAZAO": {
@@ -178,10 +178,10 @@
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:31|20/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-20T08:08:07.227Z"
+    "roubadaEm": "2026-07-20T14:31:42.326Z"
   },
   "FARM DA THATY": {
     "idNumerico": "1",
@@ -196,7 +196,7 @@
     "nome": "FARM DO SAPATO",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:05|20/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-20T14:05:40.396Z"
   },
   "AURA + EGO": {

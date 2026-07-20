@@ -20,16 +20,8 @@
     "nome": "NIKE SHOX",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:58|20/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T23:58:32.149Z"
-  },
-  "FAZENDINHA DO FIRE": {
-    "idNumerico": "12",
-    "nome": "Fazendinha Do Fire",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:04|19/07/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-07-19T19:04:20.087Z"
+    "roubadaEm": "2026-07-19T23:58:32.149Z"
   },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
@@ -66,8 +58,8 @@
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:00|19/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-19T19:00:11.774Z"
   },

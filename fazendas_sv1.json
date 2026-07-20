@@ -50,10 +50,10 @@
   "THUG LIFE": {
     "idNumerico": "21",
     "nome": "THUG LIFE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:21|20/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-20T12:30:07.809Z"
+    "roubadaEm": "2026-07-20T21:21:26.785Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -148,7 +148,7 @@
     "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:59|20/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-20T20:59:48.272Z"
   },
   "FARM'S DE CAFE": {

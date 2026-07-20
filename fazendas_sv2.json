@@ -3,9 +3,9 @@
     "idNumerico": "39",
     "nome": "999",
     "status": "INDISPONIVEL",
-    "disponivelEm": "02:59|20/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-20T00:59:42.170Z"
+    "disponivelEm": "03:00|20/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-20T01:00:16.041Z"
   },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
@@ -42,10 +42,10 @@
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T19:10:32.785Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:03|20/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-20T01:03:43.470Z"
   },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
@@ -146,9 +146,9 @@
   "FARME DO DRAKE": {
     "idNumerico": "35",
     "nome": "Farme do Drake",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:11|19/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-19T20:11:20.024Z"
   },
   "DEAD (:": {
@@ -306,9 +306,9 @@
   "~E V O M~": {
     "idNumerico": "25",
     "nome": "~E V O M~",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:19|19/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-19T20:19:47.268Z"
   },
   "FAZENDA CUIUDA - BY GAZOLA": {
@@ -346,9 +346,9 @@
   "@FILH_ODOPAII": {
     "idNumerico": "12",
     "nome": "@filh_odopaii",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:08|19/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-19T20:08:39.495Z"
   },
   "FAZENDA DO MIRIM": {

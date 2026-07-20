@@ -55,14 +55,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-19T21:43:04.179Z"
   },
-  "SAO PEDRO 2": {
-    "idNumerico": "43",
-    "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:39|19/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T20:39:03.334Z"
-  },
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
@@ -74,8 +66,8 @@
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:38|19/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-19T20:38:17.029Z"
   },
@@ -340,7 +332,7 @@
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:38|20/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-20T01:38:00.172Z"
   },
   "K1NG FARM'S": {

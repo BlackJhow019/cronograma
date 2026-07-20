@@ -42,10 +42,10 @@
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
     "nome": "Rafha investimentos $",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:42|20/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T19:38:46.577Z"
+    "roubadaEm": "2026-07-20T21:42:11.263Z"
   },
   "THUG LIFE": {
     "idNumerico": "21",
@@ -228,7 +228,7 @@
     "nome": "YT @GANDIA_RP",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:38|20/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-20T21:38:28.639Z"
   },
   "021": {

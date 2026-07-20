@@ -76,7 +76,7 @@
     "nome": "B13 :)",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:20|20/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-20T15:20:53.264Z"
   },
   "MALVADA'S FARM": {
@@ -186,10 +186,10 @@
   "FARM DA THATY": {
     "idNumerico": "1",
     "nome": "Farm da Thaty",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:26|20/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-20T09:35:49.043Z"
+    "roubadaEm": "2026-07-20T15:26:29.983Z"
   },
   "FARM DO SAPATO": {
     "idNumerico": "9",
@@ -230,14 +230,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-19T21:06:09.151Z"
-  },
-  "YANINHA_ANTIFALSOS": {
-    "idNumerico": "34",
-    "nome": "yAninha_AntiFalsos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:24|20/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-20T10:24:32.654Z"
   },
   "FRANCA": {
     "idNumerico": "28",

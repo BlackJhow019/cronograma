@@ -114,10 +114,10 @@
   "CANNABIS": {
     "idNumerico": "8",
     "nome": "CANNABIS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:41|20/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-20T00:36:06.631Z"
+    "roubadaEm": "2026-07-20T11:41:59.169Z"
   },
   "AMO O LOWER": {
     "idNumerico": "2",
@@ -292,7 +292,7 @@
     "nome": "/VENDERPRODUTOS",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:35|20/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-20T11:35:52.912Z"
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {

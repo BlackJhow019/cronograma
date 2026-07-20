@@ -124,7 +124,7 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:20|20/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-20T01:20:59.741Z"
   },
   "MONOPOLIO FARMS": {
@@ -230,6 +230,14 @@
     "disponivelEm": "02:35|20/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-20T00:35:56.152Z"
+  },
+  "021": {
+    "idNumerico": "1",
+    "nome": "021",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-19T20:19:25.394Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",

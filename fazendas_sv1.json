@@ -138,9 +138,9 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:24|20/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-20T10:24:50.897Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
@@ -236,7 +236,7 @@
     "nome": "021",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:14|20/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-20T15:14:52.797Z"
   },
   "FAMILIA KUSH": {

@@ -44,7 +44,7 @@
     "nome": "Fazenda do Temor",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:50|20/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-20T17:50:27.018Z"
   },
   "LA FAMILIA CHIARADIA": {
@@ -58,10 +58,10 @@
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
     "nome": "Farma Da Familia Elite",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:57|20/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T18:47:43.480Z"
+    "roubadaEm": "2026-07-20T17:57:19.757Z"
   },
   "TA NO GRALI": {
     "idNumerico": "4",

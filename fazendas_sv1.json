@@ -42,9 +42,9 @@
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
     "nome": "Rafha investimentos $",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:38|19/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-19T19:38:46.577Z"
   },
   "THUG LIFE": {
@@ -228,14 +228,14 @@
     "nome": "YT @GANDIA_RP",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:35|20/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-20T00:35:56.152Z"
   },
   "021": {
     "idNumerico": "1",
     "nome": "021",
     "status": "INDISPONIVEL",
-    "disponivelEm": "22:19|19/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-19T20:19:25.394Z"
   },
@@ -306,10 +306,10 @@
   ".": {
     "idNumerico": "31",
     "nome": ".",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:19|20/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T17:13:48.953Z"
+    "roubadaEm": "2026-07-20T01:19:36.841Z"
   },
   "30PRAUM": {
     "idNumerico": "16",
@@ -348,7 +348,7 @@
     "nome": "K1NG Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:29|20/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-20T00:29:59.784Z"
   },
   "PREFEITO ROADBLOCK": {

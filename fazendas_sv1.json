@@ -50,10 +50,10 @@
   "THUG LIFE": {
     "idNumerico": "21",
     "nome": "THUG LIFE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:30|20/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-20T04:47:03.702Z"
+    "roubadaEm": "2026-07-20T12:30:07.809Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -68,7 +68,7 @@
     "nome": "Lek0zika",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:26|20/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-20T12:26:02.135Z"
   },
   "BORRACHAS FARM": {
@@ -300,7 +300,7 @@
     "nome": "Maguinho. Farm'$$",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:27|20/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-20T12:27:23.500Z"
   },
   ".": {

@@ -124,7 +124,7 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:27|20/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-20T13:27:51.842Z"
   },
   "MONOPOLIO FARMS": {
@@ -178,10 +178,10 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:34|20/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T21:20:36.943Z"
+    "roubadaEm": "2026-07-20T13:34:15.645Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",

@@ -59,7 +59,7 @@
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
-    "disponivelEm": "12:53|20/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-20T10:53:41.397Z"
   },
@@ -332,7 +332,7 @@
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:41|20/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-20T15:41:59.509Z"
   },
   "GRUPO NEXUS": {
@@ -354,9 +354,9 @@
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:53|20/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-20T08:59:19.135Z"
+    "roubadaEm": "2026-07-20T15:53:54.488Z"
   }
 }

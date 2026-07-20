@@ -60,7 +60,7 @@
     "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:55|20/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-20T21:55:13.315Z"
   },
   "LEK0ZIKA": {
@@ -132,7 +132,7 @@
     "nome": "Monopolio Farms",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:56|20/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-20T21:56:24.586Z"
   },
   "AZEROX": {
@@ -178,10 +178,10 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:08|21/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-20T13:34:43.678Z"
+    "roubadaEm": "2026-07-20T22:08:54.473Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",

@@ -148,7 +148,7 @@
     "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:11|20/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-20T05:11:04.956Z"
   },
   "FARM'S DE CAFE": {
@@ -263,6 +263,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-19T21:48:20.346Z"
   },
+  "NOREX FARM'S": {
+    "idNumerico": "13",
+    "nome": "Norex farm's",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-20T00:10:22.748Z"
+  },
   "RICK FARM'S": {
     "idNumerico": "30",
     "nome": "Rick Farm's",
@@ -346,7 +354,7 @@
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-20T00:11:07.904Z"

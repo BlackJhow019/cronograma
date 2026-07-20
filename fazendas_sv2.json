@@ -19,9 +19,9 @@
     "idNumerico": "13",
     "nome": "AwaKe Company",
     "status": "INDISPONIVEL",
-    "disponivelEm": "02:12|20/07/2026",
+    "disponivelEm": "02:13|20/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-20T00:12:51.742Z"
+    "roubadaEm": "2026-07-20T00:13:05.876Z"
   },
   "ROCK FARM": {
     "idNumerico": "11",
@@ -38,6 +38,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-19T21:29:16.499Z"
+  },
+  "FAZENDA DO TEMOR": {
+    "idNumerico": "30",
+    "nome": "Fazenda do Temor",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-19T19:10:32.785Z"
   },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
@@ -98,10 +106,10 @@
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
     "nome": "Farms de Galopisitas",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:23|20/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T18:30:06.576Z"
+    "roubadaEm": "2026-07-20T00:23:00.279Z"
   },
   "CANNABIS": {
     "idNumerico": "8",
@@ -282,9 +290,9 @@
   "/VENDERPRODUTOS": {
     "idNumerico": "7",
     "nome": "/VENDERPRODUTOS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:19|19/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-19T19:19:04.063Z"
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {

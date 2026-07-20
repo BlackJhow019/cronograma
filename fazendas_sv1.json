@@ -138,9 +138,9 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:41|20/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-19T22:41:58.745Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
@@ -286,14 +286,6 @@
     "disponivelEm": "02:06|20/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-20T00:06:06.194Z"
-  },
-  "JAH RASTAFARI": {
-    "idNumerico": "39",
-    "nome": "JAH RASTAFARI",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:45|20/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-19T22:45:38.569Z"
   },
   "MAGUINHO. FARM'$$": {
     "idNumerico": "40",

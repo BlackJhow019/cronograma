@@ -50,10 +50,10 @@
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
     "nome": "LA FAMILIA CHIARADIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:07|20/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-20T00:06:37.803Z"
+    "roubadaEm": "2026-07-20T12:07:15.852Z"
   },
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
@@ -116,7 +116,7 @@
     "nome": "CANNABIS",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:43|20/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-20T11:43:20.671Z"
   },
   "AMO O LOWER": {
@@ -252,7 +252,7 @@
     "nome": "CHAMA A POLICIA",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:46|20/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-20T11:46:06.822Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {

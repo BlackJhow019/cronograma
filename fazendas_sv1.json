@@ -98,10 +98,10 @@
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
     "nome": "VENDO 500km ACEITO TROCAS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:20|20/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-20T00:22:48.160Z"
+    "roubadaEm": "2026-07-20T12:20:27.873Z"
   },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
@@ -188,7 +188,7 @@
     "nome": "Familia AlmanaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:09|20/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-20T12:09:12.359Z"
   },
   "QUEM ROUBAR E PETISTA": {

@@ -138,10 +138,10 @@
   "ARIANA_B13": {
     "idNumerico": "10",
     "nome": "Ariana_B13",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:00|20/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-20T05:02:54.444Z"
+    "roubadaEm": "2026-07-20T15:00:19.893Z"
   },
   "FARME DO DRAKE": {
     "idNumerico": "35",

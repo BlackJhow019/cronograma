@@ -290,10 +290,10 @@
   "/VENDERPRODUTOS": {
     "idNumerico": "7",
     "nome": "/VENDERPRODUTOS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:35|20/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-20T05:53:17.261Z"
+    "roubadaEm": "2026-07-20T11:35:36.641Z"
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {
     "idNumerico": "37",

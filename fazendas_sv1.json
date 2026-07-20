@@ -66,10 +66,10 @@
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:25|20/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-20T05:43:30.358Z"
+    "roubadaEm": "2026-07-20T12:25:49.672Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -100,7 +100,7 @@
     "nome": "VENDO 500km ACEITO TROCAS",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:20|20/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-20T12:20:53.568Z"
   },
   "CLUBE DA LULUZINHA": {

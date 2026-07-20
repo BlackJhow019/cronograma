@@ -44,7 +44,7 @@
     "nome": "Rafha investimentos $",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:43|20/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-20T21:43:33.724Z"
   },
   "THUG LIFE": {
@@ -322,10 +322,10 @@
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:44|20/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-20T15:41:59.509Z"
+    "roubadaEm": "2026-07-20T21:44:26.084Z"
   },
   "GRUPO NEXUS": {
     "idNumerico": "9",

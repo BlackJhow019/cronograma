@@ -19,7 +19,7 @@
     "idNumerico": "42",
     "nome": "NIKE SHOX",
     "status": "INDISPONIVEL",
-    "disponivelEm": "01:58|20/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-19T23:58:32.149Z"
   },
@@ -138,10 +138,10 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:58|20/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T22:41:58.745Z"
+    "roubadaEm": "2026-07-20T04:58:57.491Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
@@ -220,7 +220,7 @@
     "nome": "BEE",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:55|20/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-20T04:55:18.709Z"
   },
   "YT @GANDIA_RP": {

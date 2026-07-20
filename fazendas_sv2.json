@@ -42,10 +42,10 @@
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:50|20/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-20T08:38:10.741Z"
+    "roubadaEm": "2026-07-20T17:50:12.228Z"
   },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
@@ -68,7 +68,7 @@
     "nome": "ta no grali",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:41|20/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-20T17:41:47.290Z"
   },
   "B13 :)": {

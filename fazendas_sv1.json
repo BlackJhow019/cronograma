@@ -194,9 +194,9 @@
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:24|19/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-19T20:24:19.228Z"
   },
   "VC É A PIADA AQUI": {
@@ -210,9 +210,9 @@
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:24|19/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-19T20:24:14.213Z"
   },
   "BEE": {
@@ -294,14 +294,6 @@
     "disponivelEm": "00:45|20/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-19T22:45:38.569Z"
-  },
-  "MAGUINHO. FARM'$$": {
-    "idNumerico": "40",
-    "nome": "Maguinho. Farm'$$",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:28|19/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-19T20:28:24.517Z"
   },
   ".": {
     "idNumerico": "31",

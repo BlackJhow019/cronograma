@@ -4,7 +4,7 @@
     "nome": "rico louco",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:55|20/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-20T17:55:21.757Z"
   },
   "KODIAK": {
@@ -354,9 +354,9 @@
   "FAZENDA DE COCA DO CARTEL DE MEDELLIN": {
     "idNumerico": "40",
     "nome": "FAZENDA DE COCA DO CARTEL DE MEDELLIN",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:03|20/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-20T12:27:23.500Z"
+    "roubadaEm": "2026-07-20T18:03:10.898Z"
   }
 }

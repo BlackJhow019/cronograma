@@ -50,9 +50,9 @@
   "THUG LIFE": {
     "idNumerico": "21",
     "nome": "THUG LIFE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:47|20/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-20T04:47:03.702Z"
   },
   "SAO PEDRO 2": {
@@ -330,9 +330,9 @@
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:45|20/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-20T04:45:39.266Z"
   },
   "GRUPO NEXUS": {

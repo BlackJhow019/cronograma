@@ -146,10 +146,10 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:10|20/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T17:35:15.453Z"
+    "roubadaEm": "2026-07-20T05:10:01.352Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
@@ -278,14 +278,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-19T19:33:21.590Z"
-  },
-  "/CARIDADE": {
-    "idNumerico": "5",
-    "nome": "/caridade",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:06|20/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-20T00:06:06.194Z"
   },
   "JAH RASTAFARI": {
     "idNumerico": "39",

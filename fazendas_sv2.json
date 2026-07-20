@@ -114,9 +114,9 @@
   "CANNABIS": {
     "idNumerico": "8",
     "nome": "CANNABIS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:36|20/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-20T00:36:06.631Z"
   },
   "AMO O LOWER": {
@@ -310,14 +310,6 @@
     "disponivelEm": "03:50|20/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-20T01:50:09.711Z"
-  },
-  "FAZENDA CUIUDA - BY GAZOLA": {
-    "idNumerico": "17",
-    "nome": "Fazenda Cuiuda - By GAZOLA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:41|20/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-20T00:41:26.386Z"
   },
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",

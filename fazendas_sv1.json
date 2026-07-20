@@ -98,26 +98,10 @@
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
     "nome": "VENDO 500km ACEITO TROCAS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:22|20/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-20T00:22:48.160Z"
-  },
-  "CLUBE DA LULUZINHA": {
-    "idNumerico": "8",
-    "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:25|20/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-20T00:25:02.400Z"
-  },
-  "FAZENDA DA MILLY": {
-    "idNumerico": "19",
-    "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:23|20/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-20T00:23:53.580Z"
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",

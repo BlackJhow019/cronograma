@@ -66,10 +66,10 @@
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T19:00:11.774Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:31|20/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-20T00:31:04.462Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -100,16 +100,16 @@
     "nome": "VENDO 500km ACEITO TROCAS",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:22|20/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-20T00:22:48.160Z"
   },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:25|20/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T18:01:20.360Z"
+    "roubadaEm": "2026-07-20T00:25:02.400Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
@@ -117,7 +117,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "02:23|20/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-20T00:23:42.158Z"
+    "roubadaEm": "2026-07-20T00:23:53.580Z"
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
@@ -226,10 +226,10 @@
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:34|20/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T13:20:04.040Z"
+    "roubadaEm": "2026-07-20T00:34:52.169Z"
   },
   "021": {
     "idNumerico": "1",
@@ -270,14 +270,6 @@
     "disponivelEm": "02:10|20/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-20T00:10:22.748Z"
-  },
-  "RICK FARM'S": {
-    "idNumerico": "30",
-    "nome": "Rick Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:33|19/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-19T19:33:21.590Z"
   },
   "/CARIDADE": {
     "idNumerico": "5",
@@ -346,10 +338,10 @@
   "K1NG FARM'S": {
     "idNumerico": "25",
     "nome": "K1NG Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:29|20/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T18:36:15.332Z"
+    "roubadaEm": "2026-07-20T00:29:59.784Z"
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",

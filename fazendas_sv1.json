@@ -106,8 +106,8 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:36|20/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-20T17:36:59.357Z"
   },
@@ -116,7 +116,7 @@
     "nome": "Fazenda da Milly",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:18|21/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-20T22:18:26.975Z"
   },
   "HWD INVESTIMENTOS": {

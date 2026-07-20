@@ -12,7 +12,7 @@
     "nome": "KodiaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:15|20/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-20T11:15:23.276Z"
   },
   "NIKE SHOX": {
@@ -106,10 +106,10 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:27|20/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-20T00:25:02.400Z"
+    "roubadaEm": "2026-07-20T11:27:30.138Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
@@ -148,7 +148,7 @@
     "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:13|20/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-20T11:13:19.193Z"
   },
   "FARM'S DE CAFE": {

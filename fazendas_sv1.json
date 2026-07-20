@@ -10,9 +10,9 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:40|19/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-19T21:40:27.319Z"
   },
   "NIKE SHOX": {
@@ -46,14 +46,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-19T19:38:46.577Z"
-  },
-  "THUG LIFE": {
-    "idNumerico": "21",
-    "nome": "THUG LIFE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:43|19/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-19T21:43:04.179Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",

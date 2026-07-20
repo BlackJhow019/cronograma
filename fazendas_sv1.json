@@ -170,18 +170,10 @@
   "VAQUEIRO FARM´S": {
     "idNumerico": "18",
     "nome": "Vaqueiro Farm´s",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:19|19/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-19T21:19:33.877Z"
-  },
-  "DM2 FARM": {
-    "idNumerico": "6",
-    "nome": "Dm2 Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:20|19/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T21:20:36.943Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",

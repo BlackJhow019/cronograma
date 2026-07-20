@@ -28,7 +28,7 @@
     "nome": "Fazendinha Do Fire",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:45|20/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-20T12:45:26.589Z"
   },
   "RANCHO DO DOUTOR": {
@@ -82,10 +82,10 @@
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
     "nome": "Wesker_u$MeTraLha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:47|20/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T17:01:25.153Z"
+    "roubadaEm": "2026-07-20T12:47:08.059Z"
   },
   "< GAUBRE LTDA >": {
     "idNumerico": "2",

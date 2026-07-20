@@ -140,7 +140,7 @@
     "nome": "AzeRoX",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:24|20/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-20T10:24:50.897Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
@@ -330,10 +330,10 @@
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:38|20/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-20T04:45:39.266Z"
+    "roubadaEm": "2026-07-20T10:38:54.485Z"
   },
   "GRUPO NEXUS": {
     "idNumerico": "9",

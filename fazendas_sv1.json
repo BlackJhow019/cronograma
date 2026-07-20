@@ -114,10 +114,10 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:12|20/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-20T11:04:24.876Z"
+    "roubadaEm": "2026-07-20T17:12:03.467Z"
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
@@ -182,14 +182,6 @@
     "disponivelEm": "15:34|20/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-20T13:34:43.678Z"
-  },
-  "FAMILIA ALMANAK": {
-    "idNumerico": "32",
-    "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:09|20/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-20T12:09:12.359Z"
   },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",

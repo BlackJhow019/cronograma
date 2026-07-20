@@ -23,6 +23,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-19T23:58:32.149Z"
   },
+  "FAZENDINHA DO FIRE": {
+    "idNumerico": "12",
+    "nome": "Fazendinha Do Fire",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-19T19:04:20.087Z"
+  },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
@@ -258,10 +266,10 @@
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:10|20/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T18:42:12.677Z"
+    "roubadaEm": "2026-07-20T00:10:22.748Z"
   },
   "RICK FARM'S": {
     "idNumerico": "30",
@@ -274,10 +282,10 @@
   "/CARIDADE": {
     "idNumerico": "5",
     "nome": "/caridade",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T18:15:09.608Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:06|20/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-20T00:06:06.194Z"
   },
   "JAH RASTAFARI": {
     "idNumerico": "39",
@@ -346,9 +354,9 @@
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:10|20/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T15:12:14.039Z"
+    "roubadaEm": "2026-07-20T00:10:52.642Z"
   }
 }

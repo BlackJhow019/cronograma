@@ -10,10 +10,10 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:46|20/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-20T11:15:23.276Z"
+    "roubadaEm": "2026-07-20T20:46:24.353Z"
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -236,7 +236,7 @@
     "nome": "021",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:41|20/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-20T20:41:21.624Z"
   },
   "FAMILIA KUSH": {
@@ -318,14 +318,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-20T14:12:45.936Z"
-  },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:41|20/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-20T15:41:59.509Z"
   },
   "GRUPO NEXUS": {
     "idNumerico": "9",

@@ -52,7 +52,7 @@
     "nome": "THUG LIFE",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:47|20/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-20T04:47:03.702Z"
   },
   "SAO PEDRO 2": {
@@ -218,10 +218,10 @@
   "BEE": {
     "idNumerico": "7",
     "nome": "BEE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:54|20/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T17:23:47.484Z"
+    "roubadaEm": "2026-07-20T04:54:11.988Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",

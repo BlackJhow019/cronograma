@@ -90,10 +90,10 @@
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
     "nome": "YellowStone - By Monster",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:46|20/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T14:25:26.725Z"
+    "roubadaEm": "2026-07-20T00:46:57.299Z"
   },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
@@ -316,7 +316,7 @@
     "nome": "Fazenda Cuiuda - By GAZOLA",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:41|20/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-20T00:41:26.386Z"
   },
   "RAMONZIN_FRANCA": {

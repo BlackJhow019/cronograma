@@ -186,10 +186,10 @@
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:08|20/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T23:36:28.550Z"
+    "roubadaEm": "2026-07-20T12:08:51.973Z"
   },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
@@ -260,7 +260,7 @@
     "nome": "PoLeMiCo$ industri$",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:00|20/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-20T12:00:09.708Z"
   },
   "NOREX FARM'S": {

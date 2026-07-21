@@ -219,7 +219,7 @@
     "idNumerico": "7",
     "nome": "BEE",
     "status": "INDISPONIVEL",
-    "disponivelEm": "21:29|20/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-20T19:29:07.635Z"
   },
@@ -290,10 +290,10 @@
   "JAH RASTAFARI": {
     "idNumerico": "39",
     "nome": "JAH RASTAFARI",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:29|21/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-20T13:19:49.788Z"
+    "roubadaEm": "2026-07-21T00:29:20.322Z"
   },
   ".": {
     "idNumerico": "31",

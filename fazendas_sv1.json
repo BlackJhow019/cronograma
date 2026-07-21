@@ -178,9 +178,9 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:16|21/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-21T04:16:24.039Z"
   },
   "FAMILIA ALMANAK": {
@@ -254,6 +254,14 @@
     "disponivelEm": "06:23|21/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-21T04:23:25.340Z"
+  },
+  "POLEMICO$ INDUSTRI$": {
+    "idNumerico": "37",
+    "nome": "PoLeMiCo$ industri$",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-21T04:14:59.463Z"
   },
   "NOREX FARM'S": {
     "idNumerico": "13",

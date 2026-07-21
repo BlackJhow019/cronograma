@@ -194,10 +194,10 @@
   "AURA + EGO": {
     "idNumerico": "22",
     "nome": "Aura + Ego",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:50|21/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T10:06:42.072Z"
+    "roubadaEm": "2026-07-21T15:50:31.212Z"
   },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",
@@ -284,7 +284,7 @@
     "nome": "/VENDERPRODUTOS",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:47|21/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T15:47:39.002Z"
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {

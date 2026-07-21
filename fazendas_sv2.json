@@ -26,10 +26,10 @@
   "ROCK FARM": {
     "idNumerico": "11",
     "nome": "RocK Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:24|22/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T12:08:05.905Z"
+    "roubadaEm": "2026-07-21T22:24:16.551Z"
   },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
@@ -164,8 +164,8 @@
     "nome": "Fazenda do Galin",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:17|22/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T22:17:20.839Z"
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-21T22:17:34.126Z"
   },
   "FARM'S NAY E NICK": {
     "idNumerico": "5",

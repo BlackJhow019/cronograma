@@ -308,7 +308,7 @@
     "nome": "30PRAUM",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:41|21/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T12:41:26.096Z"
   },
   "FAZENDA FELIZ": {
@@ -330,10 +330,10 @@
   "GRUPO NEXUS": {
     "idNumerico": "9",
     "nome": "GRUPO NEXUS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:52|21/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T05:37:46.967Z"
+    "roubadaEm": "2026-07-21T12:52:07.518Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",

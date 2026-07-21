@@ -247,14 +247,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-21T08:28:36.932Z"
   },
-  "CHAMA A POLICIA": {
-    "idNumerico": "44",
-    "nome": "CHAMA A POLICIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:30|21/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-21T04:30:32.789Z"
-  },
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",
     "nome": "$ Company $r.RC_PlinioDmG $",
@@ -274,10 +266,10 @@
   "GRUPO RANTER": {
     "idNumerico": "19",
     "nome": "GRUPO RANTER",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:33|21/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T02:58:23.970Z"
+    "roubadaEm": "2026-07-21T09:33:17.330Z"
   },
   "ROLINHA CANSADA FARMS": {
     "idNumerico": "14",

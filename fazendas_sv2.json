@@ -47,14 +47,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-21T23:21:47.902Z"
   },
-  "FARMA DA FAMILIA ELITE": {
-    "idNumerico": "33",
-    "nome": "Farma Da Familia Elite",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:51|21/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T18:51:41.520Z"
-  },
   "TA NO GRALI": {
     "idNumerico": "4",
     "nome": "ta no grali",
@@ -154,10 +146,10 @@
   "DONA SEM RAZAO": {
     "idNumerico": "26",
     "nome": "Dona sem razao",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:53|22/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T10:15:33.659Z"
+    "roubadaEm": "2026-07-21T23:53:48.945Z"
   },
   "FAZENDA DO GALIN": {
     "idNumerico": "15",
@@ -332,7 +324,7 @@
     "nome": "Fazendinha BeTreZe 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:48|22/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T23:48:10.628Z"
   },
   "@FILH_ODOPAII": {

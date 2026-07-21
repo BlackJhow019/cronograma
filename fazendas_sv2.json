@@ -10,10 +10,10 @@
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:33|21/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T11:08:46.714Z"
+    "roubadaEm": "2026-07-21T16:33:57.479Z"
   },
   "AWAKE COMPANY": {
     "idNumerico": "13",
@@ -228,7 +228,7 @@
     "nome": "yAninha_AntiFalsos",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:22|21/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T16:22:01.752Z"
   },
   "FRANCA": {

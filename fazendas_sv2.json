@@ -100,7 +100,7 @@
     "nome": "Farms de Galopisitas",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:59|21/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T15:59:21.395Z"
   },
   "CANNABIS": {
@@ -130,10 +130,10 @@
   "ARIANA_B13": {
     "idNumerico": "10",
     "nome": "Ariana_B13",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:03|21/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T10:08:18.851Z"
+    "roubadaEm": "2026-07-21T16:03:54.126Z"
   },
   "FARME DO DRAKE": {
     "idNumerico": "35",

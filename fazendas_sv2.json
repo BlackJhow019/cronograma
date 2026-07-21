@@ -106,10 +106,10 @@
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
     "nome": "Farms de Galopisitas",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:51|21/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T05:11:14.487Z"
+    "roubadaEm": "2026-07-21T10:51:39.513Z"
   },
   "CANNABIS": {
     "idNumerico": "8",
@@ -254,14 +254,6 @@
     "disponivelEm": "12:14|21/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-21T10:14:29.094Z"
-  },
-  "$ COMPANY $R.RC_PLINIODMG $": {
-    "idNumerico": "3",
-    "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:51|21/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T05:51:00.358Z"
   },
   "FARM DO GALO": {
     "idNumerico": "40",

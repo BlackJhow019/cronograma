@@ -50,10 +50,10 @@
   "THUG LIFE": {
     "idNumerico": "21",
     "nome": "THUG LIFE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:04|21/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T13:35:14.052Z"
+    "roubadaEm": "2026-07-21T19:04:43.143Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -130,9 +130,9 @@
   "MONOPOLIO FARMS": {
     "idNumerico": "20",
     "nome": "Monopolio Farms",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:48|21/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-21T13:48:12.461Z"
   },
   "AZEROX": {

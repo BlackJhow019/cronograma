@@ -10,10 +10,10 @@
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:26|21/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-20T17:25:22.958Z"
+    "roubadaEm": "2026-07-21T05:26:48.806Z"
   },
   "AWAKE COMPANY": {
     "idNumerico": "13",
@@ -108,7 +108,7 @@
     "nome": "Farms de Galopisitas",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:11|21/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T05:11:14.487Z"
   },
   "CANNABIS": {

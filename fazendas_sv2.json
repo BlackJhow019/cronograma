@@ -290,10 +290,10 @@
   "/VENDERPRODUTOS": {
     "idNumerico": "7",
     "nome": "/VENDERPRODUTOS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:42|21/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-20T11:35:52.912Z"
+    "roubadaEm": "2026-07-21T10:42:57.579Z"
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {
     "idNumerico": "37",
@@ -342,14 +342,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-19T16:12:41.673Z"
-  },
-  "@FILH_ODOPAII": {
-    "idNumerico": "12",
-    "nome": "@filh_odopaii",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:41|21/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T05:41:36.206Z"
   },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",

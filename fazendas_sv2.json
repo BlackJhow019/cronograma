@@ -68,7 +68,7 @@
     "nome": "B13 :)",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:39|21/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T20:39:25.810Z"
   },
   "MALVADA'S FARM": {
@@ -198,6 +198,14 @@
     "disponivelEm": "17:50|21/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-21T15:50:44.928Z"
+  },
+  "SUCCUBUS FARMS": {
+    "idNumerico": "29",
+    "nome": "Succubus Farms",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-21T15:37:23.334Z"
   },
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",

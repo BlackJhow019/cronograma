@@ -255,14 +255,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-21T04:23:25.340Z"
   },
-  "POLEMICO$ INDUSTRI$": {
-    "idNumerico": "37",
-    "nome": "PoLeMiCo$ industri$",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:14|21/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-21T04:14:59.463Z"
-  },
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
@@ -354,9 +346,9 @@
   "FAZENDA DE COCA DO CARTEL DE MEDELLIN": {
     "idNumerico": "40",
     "nome": "FAZENDA DE COCA DO CARTEL DE MEDELLIN",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:12|21/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-21T04:12:16.262Z"
   }
 }

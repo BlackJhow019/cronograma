@@ -92,7 +92,7 @@
     "nome": "YellowStone - By Monster",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:34|21/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T15:34:31.832Z"
   },
   "VALE DAS SOMBRAS": {
@@ -210,10 +210,10 @@
   "SUCCUBUS FARMS": {
     "idNumerico": "29",
     "nome": "Succubus Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:36|21/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-20T10:15:56.162Z"
+    "roubadaEm": "2026-07-21T15:36:40.137Z"
   },
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",

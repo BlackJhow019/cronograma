@@ -63,6 +63,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-21T13:32:37.369Z"
   },
+  "LEK0ZIKA": {
+    "idNumerico": "35",
+    "nome": "Lek0zika",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-21T12:23:59.911Z"
+  },
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
@@ -175,14 +183,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-21T16:03:32.678Z"
   },
-  "FAMILIA ALMANAK": {
-    "idNumerico": "32",
-    "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:26|21/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-21T12:26:51.229Z"
-  },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
@@ -268,7 +268,7 @@
     "nome": "/caridade",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:24|21/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T17:24:52.126Z"
   },
   "JAH RASTAFARI": {

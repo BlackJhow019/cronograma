@@ -34,8 +34,8 @@
   "EVENTO": {
     "idNumerico": "42",
     "nome": "EVENTO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:13|21/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-21T10:40:28.012Z"
   },
@@ -354,9 +354,9 @@
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:22|21/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-20T13:56:56.520Z"
+    "roubadaEm": "2026-07-21T11:22:50.194Z"
   }
 }

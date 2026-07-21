@@ -44,7 +44,7 @@
     "nome": "LA FAMILIA CHIARADIA",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:04|21/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T18:04:21.361Z"
   },
   "FARMA DA FAMILIA ELITE": {
@@ -170,10 +170,10 @@
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:10|21/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T12:27:37.770Z"
+    "roubadaEm": "2026-07-21T18:10:07.613Z"
   },
   "FARM DA THATY": {
     "idNumerico": "1",

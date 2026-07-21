@@ -140,7 +140,7 @@
     "nome": "AzeRoX",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:03|21/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T04:03:20.500Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
@@ -354,9 +354,9 @@
   "FAZENDA DE COCA DO CARTEL DE MEDELLIN": {
     "idNumerico": "40",
     "nome": "FAZENDA DE COCA DO CARTEL DE MEDELLIN",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:11|21/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-20T18:03:28.973Z"
+    "roubadaEm": "2026-07-21T04:11:49.097Z"
   }
 }

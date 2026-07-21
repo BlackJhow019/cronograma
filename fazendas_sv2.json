@@ -58,10 +58,10 @@
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
     "nome": "Farma Da Familia Elite",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:37|21/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-20T17:57:19.757Z"
+    "roubadaEm": "2026-07-21T12:37:47.628Z"
   },
   "TA NO GRALI": {
     "idNumerico": "4",
@@ -308,7 +308,7 @@
     "nome": "~E V O M~",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:35|21/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T12:35:05.327Z"
   },
   "FAZENDA CUIUDA - BY GAZOLA": {

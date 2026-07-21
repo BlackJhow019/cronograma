@@ -108,14 +108,14 @@
     "nome": "CANNABIS",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:52|21/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T17:52:53.100Z"
   },
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:53|21/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-21T12:53:58.104Z"
   },
@@ -214,14 +214,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-21T10:30:38.094Z"
-  },
-  "AMO A MAZZI": {
-    "idNumerico": "6",
-    "nome": "Amo a Mazzi",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:56|21/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T12:56:03.721Z"
   },
   "YANINHA_ANTIFALSOS": {
     "idNumerico": "34",

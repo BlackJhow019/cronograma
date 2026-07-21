@@ -26,9 +26,9 @@
   "FAZENDINHA DO FIRE": {
     "idNumerico": "12",
     "nome": "Fazendinha Do Fire",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:52|21/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-21T06:52:46.166Z"
   },
   "RANCHO DO DOUTOR": {
@@ -300,7 +300,7 @@
     "nome": ".",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:45|21/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T11:45:10.115Z"
   },
   "30PRAUM": {

@@ -2,10 +2,10 @@
   "999": {
     "idNumerico": "39",
     "nome": "999",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:26|21/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T12:15:29.796Z"
+    "roubadaEm": "2026-07-21T19:26:59.789Z"
   },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
@@ -159,14 +159,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-21T10:15:33.659Z"
   },
-  "FAZENDA DO GALIN": {
-    "idNumerico": "15",
-    "nome": "Fazenda do Galin",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:26|21/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T14:26:08.176Z"
-  },
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
@@ -308,7 +300,7 @@
     "nome": "Fazenda Cuiuda - By GAZOLA",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:19|21/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T19:19:21.045Z"
   },
   "RAMONZIN_FRANCA": {

@@ -10,10 +10,10 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:13|21/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T01:48:58.077Z"
+    "roubadaEm": "2026-07-21T16:13:40.309Z"
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -180,7 +180,7 @@
     "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:03|21/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T16:03:32.678Z"
   },
   "FAMILIA ALMANAK": {

@@ -186,10 +186,10 @@
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:53|21/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T12:26:51.229Z"
+    "roubadaEm": "2026-07-21T17:53:10.798Z"
   },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
@@ -318,14 +318,6 @@
     "disponivelEm": "15:09|21/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-21T13:09:29.577Z"
-  },
-  "GRUPO NEXUS": {
-    "idNumerico": "9",
-    "nome": "GRUPO NEXUS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:52|21/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T12:52:21.709Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",

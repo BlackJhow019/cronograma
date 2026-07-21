@@ -4,7 +4,7 @@
     "nome": "rico louco",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:07|21/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T13:07:13.409Z"
   },
   "KODIAK": {
@@ -230,6 +230,14 @@
     "disponivelEm": "15:07|21/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-21T13:07:29.222Z"
+  },
+  "021": {
+    "idNumerico": "1",
+    "nome": "021",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-21T08:07:13.127Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",

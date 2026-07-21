@@ -12,7 +12,7 @@
     "nome": "JESUS EA SOLUCAO",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:27|22/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T22:27:22.059Z"
   },
   "AWAKE COMPANY": {
@@ -346,10 +346,10 @@
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:29|22/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T16:49:40.933Z"
+    "roubadaEm": "2026-07-21T22:29:28.180Z"
   },
   "JOTACE É UM PAI": {
     "idNumerico": "42",

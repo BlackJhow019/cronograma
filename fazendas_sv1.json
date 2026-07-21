@@ -119,14 +119,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-21T15:24:13.263Z"
   },
-  "HWD INVESTIMENTOS": {
-    "idNumerico": "27",
-    "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:13|21/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-21T13:13:06.740Z"
-  },
   "MONOPOLIO FARMS": {
     "idNumerico": "20",
     "nome": "Monopolio Farms",
@@ -310,6 +302,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-21T12:12:53.363Z"
+  },
+  "OS DE RACA": {
+    "idNumerico": "0",
+    "nome": "OS DE RACA",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-21T13:09:29.577Z"
   },
   "GRUPO NEXUS": {
     "idNumerico": "9",

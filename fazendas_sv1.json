@@ -178,10 +178,10 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:32|21/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T16:03:32.678Z"
+    "roubadaEm": "2026-07-21T21:32:29.784Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
@@ -334,14 +334,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-21T12:39:14.073Z"
-  },
-  "PREFEITO ROADBLOCK": {
-    "idNumerico": "41",
-    "nome": "Prefeito Roadblock",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:31|21/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T16:31:08.313Z"
   },
   "FAZENDA DE COCA DO CARTEL DE MEDELLIN": {
     "idNumerico": "40",

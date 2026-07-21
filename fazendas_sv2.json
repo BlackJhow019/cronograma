@@ -44,7 +44,7 @@
     "nome": "Fazenda do Temor",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:25|21/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T15:25:53.173Z"
   },
   "LA FAMILIA CHIARADIA": {
@@ -111,6 +111,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-21T10:51:52.521Z"
   },
+  "CANNABIS": {
+    "idNumerico": "8",
+    "nome": "CANNABIS",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-21T10:24:14.881Z"
+  },
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
@@ -142,6 +150,14 @@
     "disponivelEm": "17:23|21/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-21T15:23:54.024Z"
+  },
+  "DEAD (:": {
+    "idNumerico": "27",
+    "nome": "Dead (:",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-21T10:23:50.929Z"
   },
   "DONA SEM RAZAO": {
     "idNumerico": "26",

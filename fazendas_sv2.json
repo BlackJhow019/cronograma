@@ -39,14 +39,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-21T10:40:28.012Z"
   },
-  "FAZENDA DO TEMOR": {
-    "idNumerico": "30",
-    "nome": "Fazenda do Temor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:22|21/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-21T10:22:16.572Z"
-  },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
     "nome": "LA FAMILIA CHIARADIA",
@@ -76,7 +68,7 @@
     "nome": "B13 :)",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:12|21/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T15:12:11.184Z"
   },
   "MALVADA'S FARM": {
@@ -94,6 +86,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-21T05:27:03.335Z"
+  },
+  "VALE DAS SOMBRAS": {
+    "idNumerico": "24",
+    "nome": "Vale das Sombras",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-21T10:18:38.785Z"
   },
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
@@ -118,14 +118,6 @@
     "disponivelEm": "14:53|21/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-21T12:53:58.104Z"
-  },
-  "SE ROUBAR MORRE": {
-    "idNumerico": "41",
-    "nome": "SE ROUBAR MORRE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:21|21/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T10:22:15.589Z"
   },
   "ARIANA_B13": {
     "idNumerico": "10",

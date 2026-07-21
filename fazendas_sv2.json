@@ -42,18 +42,10 @@
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
     "nome": "LA FAMILIA CHIARADIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:36|21/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-21T12:36:11.619Z"
-  },
-  "FARMA DA FAMILIA ELITE": {
-    "idNumerico": "33",
-    "nome": "Farma Da Familia Elite",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:38|21/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T12:38:01.079Z"
+    "roubadaEm": "2026-07-21T12:36:11.619Z"
   },
   "TA NO GRALI": {
     "idNumerico": "4",
@@ -298,9 +290,9 @@
   "~E V O M~": {
     "idNumerico": "25",
     "nome": "~E V O M~",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:35|21/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-21T12:35:05.327Z"
   },
   "FAZENDA CUIUDA - BY GAZOLA": {

@@ -210,10 +210,10 @@
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",
     "nome": "Fazenda Rei Drogado",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:03|21/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T10:30:38.094Z"
+    "roubadaEm": "2026-07-21T18:03:20.973Z"
   },
   "AMO A MAZZI": {
     "idNumerico": "6",
@@ -246,14 +246,6 @@
     "disponivelEm": "19:12|21/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-21T17:12:05.925Z"
-  },
-  "$ COMPANY $R.RC_PLINIODMG $": {
-    "idNumerico": "3",
-    "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:02|21/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T13:02:08.973Z"
   },
   "FARM DO GALO": {
     "idNumerico": "40",

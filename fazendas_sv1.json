@@ -90,10 +90,10 @@
   "< GAUBRE LTDA >": {
     "idNumerico": "2",
     "nome": "< GAUBRE LTDA >",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:39|21/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-18T21:34:22.014Z"
+    "roubadaEm": "2026-07-21T17:39:41.881Z"
   },
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
@@ -326,14 +326,6 @@
     "disponivelEm": "14:52|21/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-21T12:52:21.709Z"
-  },
-  "K1NG FARM'S": {
-    "idNumerico": "25",
-    "nome": "K1NG Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:39|21/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-21T12:39:14.073Z"
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",

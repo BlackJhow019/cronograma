@@ -18,9 +18,9 @@
   "NIKE SHOX": {
     "idNumerico": "42",
     "nome": "NIKE SHOX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:08|21/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-21T01:08:27.752Z"
   },
   "FAZENDINHA DO FIRE": {
@@ -68,7 +68,7 @@
     "nome": "Lek0zika",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:00|21/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T06:00:57.331Z"
   },
   "BORRACHAS FARM": {
@@ -294,14 +294,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-21T00:29:56.620Z"
-  },
-  ".": {
-    "idNumerico": "31",
-    "nome": ".",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:09|21/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-21T01:09:00.178Z"
   },
   "30PRAUM": {
     "idNumerico": "16",

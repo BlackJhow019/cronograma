@@ -68,7 +68,7 @@
     "nome": "Lek0zika",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:23|21/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T12:23:59.911Z"
   },
   "BORRACHAS FARM": {
@@ -186,10 +186,10 @@
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:26|21/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T07:10:26.952Z"
+    "roubadaEm": "2026-07-21T12:26:35.059Z"
   },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",

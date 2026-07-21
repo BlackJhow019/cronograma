@@ -10,10 +10,10 @@
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:27|22/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T16:34:12.737Z"
+    "roubadaEm": "2026-07-21T22:27:10.293Z"
   },
   "AWAKE COMPANY": {
     "idNumerico": "13",
@@ -28,7 +28,7 @@
     "nome": "RocK Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:24|22/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T22:24:27.950Z"
   },
   "FAZENDA DO TEMOR": {

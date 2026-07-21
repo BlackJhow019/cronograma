@@ -74,10 +74,10 @@
   "B13 :)": {
     "idNumerico": "23",
     "nome": "B13 :)",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:11|21/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T09:56:39.333Z"
+    "roubadaEm": "2026-07-21T15:11:09.297Z"
   },
   "MALVADA'S FARM": {
     "idNumerico": "32",
@@ -142,14 +142,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-21T10:08:18.851Z"
-  },
-  "FARME DO DRAKE": {
-    "idNumerico": "35",
-    "nome": "Farme do Drake",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-21T10:10:03.208Z"
   },
   "DEAD (:": {
     "idNumerico": "27",

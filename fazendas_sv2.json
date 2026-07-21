@@ -188,7 +188,7 @@
     "nome": "FARM DO SAPATO",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:39|21/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T16:39:06.651Z"
   },
   "AURA + EGO": {
@@ -346,10 +346,10 @@
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:47|21/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T11:23:03.270Z"
+    "roubadaEm": "2026-07-21T16:47:55.348Z"
   },
   "JOTACE É UM PAI": {
     "idNumerico": "42",

@@ -100,7 +100,7 @@
     "nome": "Vale das Sombras",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:18|21/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T10:18:38.785Z"
   },
   "FARMS DE GALOPISITAS": {
@@ -114,10 +114,10 @@
   "CANNABIS": {
     "idNumerico": "8",
     "nome": "CANNABIS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:24|21/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-20T11:43:20.671Z"
+    "roubadaEm": "2026-07-21T10:24:14.881Z"
   },
   "AMO O LOWER": {
     "idNumerico": "2",

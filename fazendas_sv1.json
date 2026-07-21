@@ -140,7 +140,7 @@
     "nome": "AzeRoX",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:14|21/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T17:14:51.804Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
@@ -302,6 +302,14 @@
     "disponivelEm": "14:41|21/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-21T12:41:26.096Z"
+  },
+  "FAZENDA FELIZ": {
+    "idNumerico": "22",
+    "nome": "fazenda feliz",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-21T12:12:53.363Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",

@@ -124,7 +124,7 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:41|21/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T19:41:10.374Z"
   },
   "MONOPOLIO FARMS": {
@@ -154,10 +154,10 @@
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:50|21/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T12:34:29.578Z"
+    "roubadaEm": "2026-07-21T19:50:53.707Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
     "idNumerico": "17",

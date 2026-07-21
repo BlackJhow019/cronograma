@@ -258,10 +258,10 @@
   "FARM DO GALO": {
     "idNumerico": "40",
     "nome": "FARM DO GALO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:14|21/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T23:57:42.661Z"
+    "roubadaEm": "2026-07-21T16:14:15.176Z"
   },
   "GRUPO RANTER": {
     "idNumerico": "19",

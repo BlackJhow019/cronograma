@@ -116,7 +116,7 @@
     "nome": "CANNABIS",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:24|21/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T10:24:14.881Z"
   },
   "AMO O LOWER": {
@@ -218,10 +218,10 @@
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",
     "nome": "Fazenda Rei Drogado",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:30|21/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T17:04:12.668Z"
+    "roubadaEm": "2026-07-21T10:30:20.414Z"
   },
   "AMO A MAZZI": {
     "idNumerico": "6",

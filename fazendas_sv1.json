@@ -98,9 +98,9 @@
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
     "nome": "VENDO 500km ACEITO TROCAS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:25|21/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-21T16:25:38.657Z"
   },
   "CLUBE DA LULUZINHA": {
@@ -236,7 +236,7 @@
     "nome": "Familia KuSh",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:21|21/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T21:21:13.609Z"
   },
   "FAZENDINHA DO IGEZE": {
@@ -258,9 +258,9 @@
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:24|21/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-21T16:24:19.338Z"
   },
   "RICK FARM'S": {

@@ -154,10 +154,10 @@
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:34|21/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T06:38:29.417Z"
+    "roubadaEm": "2026-07-21T12:34:00.199Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
     "idNumerico": "17",
@@ -188,7 +188,7 @@
     "nome": "Familia AlmanaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:26|21/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T12:26:51.229Z"
   },
   "QUEM ROUBAR E PETISTA": {

@@ -260,7 +260,7 @@
     "nome": "Norex farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:24|21/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T16:24:19.338Z"
   },
   "RICK FARM'S": {
@@ -338,10 +338,10 @@
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:30|21/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-20T15:54:08.737Z"
+    "roubadaEm": "2026-07-21T16:30:54.487Z"
   },
   "FAZENDA DE COCA DO CARTEL DE MEDELLIN": {
     "idNumerico": "40",

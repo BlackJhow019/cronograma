@@ -79,14 +79,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-21T14:09:48.788Z"
   },
-  "YELLOWSTONE - BY MONSTER": {
-    "idNumerico": "16",
-    "nome": "YellowStone - By Monster",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:34|21/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-21T15:34:31.832Z"
-  },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
     "nome": "Vale das Sombras",
@@ -122,9 +114,9 @@
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:31|21/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-21T15:31:45.823Z"
   },
   "ARIANA_B13": {
@@ -140,7 +132,7 @@
     "nome": "Farme do Drake",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:30|21/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T20:30:20.559Z"
   },
   "DEAD (:": {

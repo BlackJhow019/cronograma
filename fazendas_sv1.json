@@ -50,10 +50,10 @@
   "THUG LIFE": {
     "idNumerico": "21",
     "nome": "THUG LIFE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:23|21/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T02:42:10.518Z"
+    "roubadaEm": "2026-07-21T08:23:29.712Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -212,7 +212,7 @@
     "nome": "Granja do iMonKeY",
     "status": "INDISPONIVEL",
     "disponivelEm": "10:16|21/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T08:16:07.266Z"
   },
   "BEE": {

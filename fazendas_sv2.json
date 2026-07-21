@@ -171,7 +171,7 @@
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
     "status": "INDISPONIVEL",
-    "disponivelEm": "20:10|21/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-21T18:10:22.693Z"
   },
@@ -186,10 +186,10 @@
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:10|22/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T16:39:06.651Z"
+    "roubadaEm": "2026-07-21T23:10:27.195Z"
   },
   "AURA + EGO": {
     "idNumerico": "22",

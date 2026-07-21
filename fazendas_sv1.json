@@ -106,10 +106,10 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:17|21/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T04:59:20.666Z"
+    "roubadaEm": "2026-07-21T12:17:54.735Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
@@ -284,7 +284,7 @@
     "nome": "/caridade",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:09|21/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T12:09:52.060Z"
   },
   "JAH RASTAFARI": {

@@ -114,10 +114,10 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:20|21/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-20T22:18:26.975Z"
+    "roubadaEm": "2026-07-21T04:20:06.534Z"
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
@@ -180,7 +180,7 @@
     "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:16|21/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T04:16:24.039Z"
   },
   "FAMILIA ALMANAK": {

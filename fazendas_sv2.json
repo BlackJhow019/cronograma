@@ -274,10 +274,10 @@
   "ROLINHA CANSADA FARMS": {
     "idNumerico": "14",
     "nome": "Rolinha Cansada Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:01|22/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-17T16:31:04.951Z"
+    "roubadaEm": "2026-07-21T23:01:01.863Z"
   },
   "/VENDERPRODUTOS": {
     "idNumerico": "7",

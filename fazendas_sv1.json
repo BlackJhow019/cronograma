@@ -111,14 +111,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-21T17:45:42.775Z"
   },
-  "FAZENDA DA MILLY": {
-    "idNumerico": "19",
-    "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:24|21/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-21T15:24:13.263Z"
-  },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
@@ -146,10 +138,10 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:26|21/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T14:35:02.592Z"
+    "roubadaEm": "2026-07-21T20:26:21.163Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",

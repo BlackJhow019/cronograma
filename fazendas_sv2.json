@@ -114,10 +114,10 @@
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:08|21/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T12:53:58.104Z"
+    "roubadaEm": "2026-07-21T20:08:52.144Z"
   },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
@@ -300,7 +300,7 @@
     "nome": "~E V O M~",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:48|21/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T19:48:53.636Z"
   },
   "FAZENDA CUIUDA - BY GAZOLA": {

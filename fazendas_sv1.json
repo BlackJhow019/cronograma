@@ -98,10 +98,10 @@
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
     "nome": "VENDO 500km ACEITO TROCAS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:24|21/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-20T20:27:26.036Z"
+    "roubadaEm": "2026-07-21T16:24:10.610Z"
   },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
@@ -236,7 +236,7 @@
     "nome": "Familia KuSh",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:16|21/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T16:16:17.150Z"
   },
   "FAZENDINHA DO IGEZE": {

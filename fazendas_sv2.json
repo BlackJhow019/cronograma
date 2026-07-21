@@ -60,7 +60,7 @@
     "nome": "ta no grali",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:45|21/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T17:45:39.545Z"
   },
   "B13 :)": {
@@ -146,10 +146,10 @@
   "DEAD (:": {
     "idNumerico": "27",
     "nome": "Dead (:",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:49|21/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T10:23:50.929Z"
+    "roubadaEm": "2026-07-21T17:49:13.490Z"
   },
   "DONA SEM RAZAO": {
     "idNumerico": "26",

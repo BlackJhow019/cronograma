@@ -18,10 +18,10 @@
   "NIKE SHOX": {
     "idNumerico": "42",
     "nome": "NIKE SHOX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:08|21/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-20T19:21:32.118Z"
+    "roubadaEm": "2026-07-21T01:08:14.215Z"
   },
   "FAZENDINHA DO FIRE": {
     "idNumerico": "12",
@@ -124,7 +124,7 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:48|21/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T00:48:59.425Z"
   },
   "MONOPOLIO FARMS": {
@@ -340,7 +340,7 @@
     "nome": "K1NG Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:49|21/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T00:49:06.726Z"
   },
   "PREFEITO ROADBLOCK": {

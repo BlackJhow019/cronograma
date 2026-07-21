@@ -140,7 +140,7 @@
     "nome": "AzeRoX",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:07|21/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T12:07:02.338Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
@@ -282,10 +282,10 @@
   "/CARIDADE": {
     "idNumerico": "5",
     "nome": "/caridade",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:09|21/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-20T00:06:06.194Z"
+    "roubadaEm": "2026-07-21T12:09:10.019Z"
   },
   "JAH RASTAFARI": {
     "idNumerico": "39",

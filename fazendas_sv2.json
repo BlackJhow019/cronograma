@@ -26,10 +26,10 @@
   "ROCK FARM": {
     "idNumerico": "11",
     "nome": "RocK Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:07|21/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T06:08:06.392Z"
+    "roubadaEm": "2026-07-21T12:07:47.671Z"
   },
   "EVENTO": {
     "idNumerico": "42",
@@ -356,7 +356,7 @@
     "nome": "Fazenda Do MIRIM",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:23|21/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T11:23:03.270Z"
   }
 }

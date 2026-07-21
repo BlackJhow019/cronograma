@@ -106,10 +106,10 @@
   "CANNABIS": {
     "idNumerico": "8",
     "nome": "CANNABIS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:36|22/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T17:52:53.100Z"
+    "roubadaEm": "2026-07-21T23:36:27.268Z"
   },
   "AMO O LOWER": {
     "idNumerico": "2",
@@ -172,7 +172,7 @@
     "nome": "FARM'S NAY E NICK",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:21|22/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T23:21:30.589Z"
   },
   "FARM DA THATY": {

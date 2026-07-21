@@ -28,7 +28,7 @@
     "nome": "Fazendinha Do Fire",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:01|21/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T12:01:33.832Z"
   },
   "RANCHO DO DOUTOR": {
@@ -138,10 +138,10 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:07|21/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T04:03:20.500Z"
+    "roubadaEm": "2026-07-21T12:07:02.338Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",

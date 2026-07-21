@@ -44,8 +44,8 @@
     "nome": "Fazenda do Temor",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:55|21/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T04:55:04.201Z"
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-21T04:55:21.223Z"
   },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
@@ -106,10 +106,10 @@
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
     "nome": "Farms de Galopisitas",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:10|21/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-20T13:30:44.484Z"
+    "roubadaEm": "2026-07-21T05:10:51.405Z"
   },
   "CANNABIS": {
     "idNumerico": "8",

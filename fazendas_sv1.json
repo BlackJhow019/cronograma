@@ -74,10 +74,10 @@
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:05|21/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T15:30:36.176Z"
+    "roubadaEm": "2026-07-21T21:05:02.848Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
@@ -174,14 +174,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-19T21:19:33.877Z"
-  },
-  "DM2 FARM": {
-    "idNumerico": "6",
-    "nome": "Dm2 Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:03|21/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-21T16:03:32.678Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
@@ -324,7 +316,7 @@
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:57|21/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T20:57:43.018Z"
   },
   "K1NG FARM'S": {

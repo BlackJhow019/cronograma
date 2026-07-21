@@ -20,7 +20,7 @@
     "nome": "NIKE SHOX",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:37|21/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T16:37:22.620Z"
   },
   "FAZENDINHA DO FIRE": {
@@ -194,9 +194,9 @@
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:42|21/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-21T11:42:37.273Z"
   },
   "VC É A PIADA AQUI": {
@@ -286,14 +286,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-21T00:29:56.620Z"
-  },
-  ".": {
-    "idNumerico": "31",
-    "nome": ".",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:45|21/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-21T11:45:10.115Z"
   },
   "30PRAUM": {
     "idNumerico": "16",

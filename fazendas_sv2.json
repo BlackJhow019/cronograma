@@ -236,15 +236,15 @@
     "nome": "FRANCA",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:59|21/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T21:59:40.139Z"
   },
   "CHAMA A POLICIA": {
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:12|21/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-21T17:12:05.925Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {

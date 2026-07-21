@@ -99,7 +99,7 @@
     "idNumerico": "24",
     "nome": "Vale das Sombras",
     "status": "INDISPONIVEL",
-    "disponivelEm": "12:18|21/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-21T10:18:38.785Z"
   },
@@ -162,9 +162,9 @@
   "DONA SEM RAZAO": {
     "idNumerico": "26",
     "nome": "Dona sem razao",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:15|21/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-21T10:15:33.659Z"
   },
   "FAZENDA DO GALIN": {
@@ -250,8 +250,8 @@
   "CHAMA A POLICIA": {
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:14|21/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-21T10:14:29.094Z"
   },

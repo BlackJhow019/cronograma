@@ -130,10 +130,10 @@
   "MONOPOLIO FARMS": {
     "idNumerico": "20",
     "nome": "Monopolio Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:46|21/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T13:48:12.461Z"
+    "roubadaEm": "2026-07-21T20:46:56.178Z"
   },
   "AZEROX": {
     "idNumerico": "23",
@@ -350,13 +350,5 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-21T04:12:16.262Z"
-  },
-  "ROUBO OFF": {
-    "idNumerico": "7",
-    "nome": "roubo off",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:43|21/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-21T15:43:44.311Z"
   }
 }

@@ -2,8 +2,8 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:22|21/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-21T05:22:46.536Z"
   },
@@ -54,14 +54,6 @@
     "disponivelEm": "10:23|21/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-21T08:23:43.489Z"
-  },
-  "SAO PEDRO 2": {
-    "idNumerico": "43",
-    "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:23|21/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T05:23:42.195Z"
   },
   "LEK0ZIKA": {
     "idNumerico": "35",
@@ -116,7 +108,7 @@
     "nome": "Fazenda da Milly",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:14|21/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T10:14:02.930Z"
   },
   "HWD INVESTIMENTOS": {

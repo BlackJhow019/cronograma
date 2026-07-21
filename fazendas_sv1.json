@@ -207,14 +207,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-14T03:06:03.754Z"
   },
-  "GRANJA DO IMONKEY": {
-    "idNumerico": "29",
-    "nome": "Granja do iMonKeY",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:31|21/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T00:31:10.998Z"
-  },
   "BEE": {
     "idNumerico": "7",
     "nome": "BEE",
@@ -287,14 +279,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-20T00:06:06.194Z"
   },
-  "JAH RASTAFARI": {
-    "idNumerico": "39",
-    "nome": "JAH RASTAFARI",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:29|21/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T00:29:56.620Z"
-  },
   ".": {
     "idNumerico": "31",
     "nome": ".",
@@ -322,10 +306,10 @@
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:32|21/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-20T21:44:44.875Z"
+    "roubadaEm": "2026-07-21T05:32:07.898Z"
   },
   "GRUPO NEXUS": {
     "idNumerico": "9",

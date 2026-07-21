@@ -156,7 +156,7 @@
     "nome": "Farm's de Cafe",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:34|21/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T12:34:29.578Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
@@ -338,10 +338,10 @@
   "K1NG FARM'S": {
     "idNumerico": "25",
     "nome": "K1NG Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:37|21/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T00:49:06.726Z"
+    "roubadaEm": "2026-07-21T12:37:19.298Z"
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",

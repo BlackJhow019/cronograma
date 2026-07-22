@@ -162,10 +162,10 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:23|22/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T03:25:00.757Z"
+    "roubadaEm": "2026-07-22T10:23:46.101Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
@@ -284,7 +284,7 @@
     "nome": "30PRAUM",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:20|22/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-22T10:20:46.759Z"
   },
   "FAZENDA FELIZ": {
@@ -342,14 +342,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-22T04:46:33.693Z"
-  },
-  "RANCHO DO DOUTOR": {
-    "idNumerico": "14",
-    "nome": "Rancho do Doutor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:22|22/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T05:22:30.987Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",

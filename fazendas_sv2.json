@@ -108,7 +108,7 @@
     "nome": "CANNABIS",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:56|22/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-22T10:56:50.673Z"
   },
   "AMO O LOWER": {
@@ -242,10 +242,10 @@
   "CHAMA A POLICIA": {
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:58|22/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T05:44:08.882Z"
+    "roubadaEm": "2026-07-22T10:58:56.689Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",

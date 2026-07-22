@@ -108,7 +108,7 @@
     "nome": "CANNABIS",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:38|22/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-22T17:38:07.316Z"
   },
   "AMO O LOWER": {
@@ -202,10 +202,10 @@
   "SUCCUBUS FARMS": {
     "idNumerico": "29",
     "nome": "Succubus Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:47|22/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T11:33:22.749Z"
+    "roubadaEm": "2026-07-22T17:47:33.672Z"
   },
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",

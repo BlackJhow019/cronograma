@@ -98,10 +98,10 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:53|22/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T05:06:29.652Z"
+    "roubadaEm": "2026-07-22T10:53:33.716Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
@@ -164,7 +164,7 @@
     "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:24|22/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-22T10:24:03.004Z"
   },
   "FAMILIA ALMANAK": {

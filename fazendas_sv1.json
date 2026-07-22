@@ -42,9 +42,9 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:00|22/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-22T18:00:16.728Z"
   },
   "LEK0ZIKA": {
@@ -75,7 +75,7 @@
     "idNumerico": "2",
     "nome": "< GAUBRE LTDA >",
     "status": "INDISPONIVEL",
-    "disponivelEm": "20:02|22/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-22T18:02:37.989Z"
   },

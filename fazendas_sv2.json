@@ -122,9 +122,9 @@
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:22|22/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-22T14:22:54.642Z"
   },
   "ARIANA_B13": {
@@ -174,14 +174,6 @@
     "disponivelEm": "18:30|22/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-22T16:30:37.139Z"
-  },
-  "FARM DA THATY": {
-    "idNumerico": "1",
-    "nome": "Farm da Thaty",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:23|22/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-22T14:23:32.729Z"
   },
   "FARM DO SAPATO": {
     "idNumerico": "9",
@@ -332,7 +324,7 @@
     "nome": "Fazendinha BeTreZe 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:11|22/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-22T19:11:18.068Z"
   },
   "@FILH_ODOPAII": {

@@ -199,14 +199,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-22T01:35:16.635Z"
   },
-  "SUCCUBUS FARMS": {
-    "idNumerico": "29",
-    "nome": "Succubus Farms",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:58|22/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-21T23:58:39.933Z"
-  },
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",
     "nome": "Fazenda Rei Drogado",
@@ -322,10 +314,10 @@
   "QG FARM KHAOS": {
     "idNumerico": "18",
     "nome": "QG FARM KHAOS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:59|22/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-19T20:28:52.573Z"
+    "roubadaEm": "2026-07-22T04:59:20.849Z"
   },
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",
@@ -340,7 +332,7 @@
     "nome": "@filh_odopaii",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:56|22/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-22T04:56:29.939Z"
   },
   "FAZENDA DO MIRIM": {

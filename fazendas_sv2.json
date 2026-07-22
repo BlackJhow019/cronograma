@@ -212,7 +212,7 @@
     "nome": "Fazenda Rei Drogado",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:47|22/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-22T00:47:19.784Z"
   },
   "AMO A MAZZI": {
@@ -298,9 +298,9 @@
   "~E V O M~": {
     "idNumerico": "25",
     "nome": "~E V O M~",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:48|21/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-21T19:48:53.636Z"
   },
   "FAZENDA CUIUDA - BY GAZOLA": {

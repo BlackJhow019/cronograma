@@ -18,10 +18,10 @@
   "AWAKE COMPANY": {
     "idNumerico": "13",
     "nome": "AwaKe Company",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:05|22/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T19:41:31.206Z"
+    "roubadaEm": "2026-07-22T01:05:24.593Z"
   },
   "ROCK FARM": {
     "idNumerico": "11",
@@ -292,7 +292,7 @@
     "nome": "WELCOME > MELHOR FAZENDA DO BPS",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:53|22/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-22T00:53:11.450Z"
   },
   "~E V O M~": {

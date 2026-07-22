@@ -67,7 +67,7 @@
     "idNumerico": "23",
     "nome": "B13 :)",
     "status": "INDISPONIVEL",
-    "disponivelEm": "22:39|21/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-21T20:39:25.810Z"
   },
@@ -196,8 +196,8 @@
     "nome": "Aura + Ego",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:35|22/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T01:35:45.560Z"
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-22T01:35:16.635Z"
   },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",

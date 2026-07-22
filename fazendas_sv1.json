@@ -84,7 +84,7 @@
     "nome": "VENDO 500km ACEITO TROCAS",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:08|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-22T22:08:59.805Z"
   },
   "CLUBE DA LULUZINHA": {
@@ -118,14 +118,6 @@
     "disponivelEm": "22:41|22/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-22T20:41:03.558Z"
-  },
-  "AZEROX": {
-    "idNumerico": "23",
-    "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:10|22/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T17:10:49.279Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
@@ -346,10 +338,10 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:13|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T13:35:59.841Z"
+    "roubadaEm": "2026-07-22T22:13:34.909Z"
   },
   "PEEEERFEITO": {
     "idNumerico": "12",

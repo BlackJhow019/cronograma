@@ -322,10 +322,10 @@
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:10|22/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T03:32:45.582Z"
+    "roubadaEm": "2026-07-22T09:10:46.197Z"
   },
   "FAZENDA DE COCA DO CARTEL DE MEDELLIN": {
     "idNumerico": "40",

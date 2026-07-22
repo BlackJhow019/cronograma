@@ -12,7 +12,7 @@
     "nome": "JESUS EA SOLUCAO",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:49|22/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-22T21:49:46.258Z"
   },
   "AWAKE COMPANY": {
@@ -94,14 +94,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-22T13:40:05.580Z"
-  },
-  "FARMS DE GALOPISITAS": {
-    "idNumerico": "20",
-    "nome": "Farms de Galopisitas",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:52|22/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-22T16:52:13.455Z"
   },
   "CANNABIS": {
     "idNumerico": "8",
@@ -354,9 +346,9 @@
   "ZICO TREM BALA": {
     "idNumerico": "42",
     "nome": "ZICO TREM BALA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:54|22/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T16:38:44.767Z"
+    "roubadaEm": "2026-07-22T21:54:21.372Z"
   }
 }

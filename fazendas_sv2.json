@@ -76,7 +76,7 @@
     "nome": "Malvada's Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:46|22/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-22T16:46:58.232Z"
   },
   "YELLOWSTONE - BY MONSTER": {
@@ -98,10 +98,10 @@
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
     "nome": "Farms de Galopisitas",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:52|22/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T11:25:55.898Z"
+    "roubadaEm": "2026-07-22T16:52:13.455Z"
   },
   "CANNABIS": {
     "idNumerico": "8",
@@ -150,14 +150,6 @@
     "disponivelEm": "18:30|22/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-22T16:30:58.782Z"
-  },
-  "DONA SEM RAZAO": {
-    "idNumerico": "26",
-    "nome": "Dona sem razao",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:50|22/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T11:50:00.810Z"
   },
   "FAZENDA DO GALIN": {
     "idNumerico": "15",

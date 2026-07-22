@@ -52,8 +52,8 @@
     "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:48|22/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T01:48:56.098Z"
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-22T01:48:41.047Z"
   },
   "LEK0ZIKA": {
     "idNumerico": "35",
@@ -242,10 +242,10 @@
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T16:24:19.338Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:56|22/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-22T01:56:12.405Z"
   },
   "RICK FARM'S": {
     "idNumerico": "30",
@@ -307,7 +307,7 @@
     "idNumerico": "9",
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
-    "disponivelEm": "22:57|21/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-21T20:57:43.018Z"
   },

@@ -60,7 +60,7 @@
     "nome": "ta no grali",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:02|22/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-22T00:02:38.608Z"
   },
   "B13 :)": {
@@ -74,10 +74,10 @@
   "MALVADA'S FARM": {
     "idNumerico": "32",
     "nome": "Malvada's Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:05|22/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T14:09:48.788Z"
+    "roubadaEm": "2026-07-22T00:05:51.519Z"
   },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",

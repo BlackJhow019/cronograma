@@ -139,7 +139,7 @@
     "idNumerico": "35",
     "nome": "Farme do Drake",
     "status": "INDISPONIVEL",
-    "disponivelEm": "18:26|22/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-22T16:26:18.261Z"
   },
@@ -322,9 +322,9 @@
   "QG FARM KHAOS": {
     "idNumerico": "18",
     "nome": "QG FARM KHAOS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:24|22/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-22T16:24:19.362Z"
   },
   "FAZENDINHA BETREZE 2": {

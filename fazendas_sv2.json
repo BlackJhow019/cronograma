@@ -10,10 +10,10 @@
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:58|22/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T04:37:04.346Z"
+    "roubadaEm": "2026-07-22T09:58:35.505Z"
   },
   "AWAKE COMPANY": {
     "idNumerico": "13",
@@ -334,14 +334,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-21T23:48:10.628Z"
-  },
-  "@FILH_ODOPAII": {
-    "idNumerico": "12",
-    "nome": "@filh_odopaii",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:56|22/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-22T04:56:29.939Z"
   },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",

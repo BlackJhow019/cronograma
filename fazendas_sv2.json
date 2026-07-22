@@ -143,14 +143,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-21T20:30:20.559Z"
   },
-  "DEAD (:": {
-    "idNumerico": "27",
-    "nome": "Dead (:",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:48|22/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-22T04:48:41.654Z"
-  },
   "DONA SEM RAZAO": {
     "idNumerico": "26",
     "nome": "Dona sem razao",
@@ -166,14 +158,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-22T03:28:36.882Z"
-  },
-  "FARM'S NAY E NICK": {
-    "idNumerico": "5",
-    "nome": "FARM'S NAY E NICK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:50|22/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-22T04:50:11.223Z"
   },
   "FARM DA THATY": {
     "idNumerico": "1",
@@ -194,10 +178,10 @@
   "AURA + EGO": {
     "idNumerico": "22",
     "nome": "Aura + Ego",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:50|22/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T01:35:16.635Z"
+    "roubadaEm": "2026-07-22T09:50:25.237Z"
   },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",

@@ -44,7 +44,7 @@
     "nome": "THUG LIFE",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:19|22/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-22T13:19:54.827Z"
   },
   "SAO PEDRO 2": {
@@ -116,7 +116,7 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:16|22/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-22T13:16:18.387Z"
   },
   "MONOPOLIO FARMS": {
@@ -354,9 +354,9 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:35|22/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T07:27:04.145Z"
+    "roubadaEm": "2026-07-22T13:35:59.841Z"
   }
 }

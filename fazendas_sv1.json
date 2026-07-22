@@ -108,7 +108,7 @@
     "nome": "Fazenda da Milly",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:41|22/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-22T18:41:34.734Z"
   },
   "HWD INVESTIMENTOS": {
@@ -258,10 +258,10 @@
   "/CARIDADE": {
     "idNumerico": "5",
     "nome": "/caridade",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:43|22/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T12:24:45.961Z"
+    "roubadaEm": "2026-07-22T18:43:44.626Z"
   },
   "JAH RASTAFARI": {
     "idNumerico": "39",

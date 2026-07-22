@@ -131,7 +131,7 @@
     "idNumerico": "23",
     "nome": "AzeRoX",
     "status": "INDISPONIVEL",
-    "disponivelEm": "13:04|22/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-22T11:04:13.410Z"
   },
@@ -338,10 +338,10 @@
   "ROUBO OFF": {
     "idNumerico": "7",
     "nome": "roubo off",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:04|22/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T04:46:33.693Z"
+    "roubadaEm": "2026-07-22T16:04:34.482Z"
   },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",

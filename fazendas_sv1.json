@@ -42,10 +42,10 @@
   "THUG LIFE": {
     "idNumerico": "21",
     "nome": "THUG LIFE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:19|22/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T07:10:20.223Z"
+    "roubadaEm": "2026-07-22T13:19:14.117Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -166,14 +166,6 @@
     "disponivelEm": "12:24|22/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-22T10:24:03.004Z"
-  },
-  "FAMILIA ALMANAK": {
-    "idNumerico": "32",
-    "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:18|22/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-22T08:18:55.957Z"
   },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",

@@ -18,10 +18,10 @@
   "NIKE SHOX": {
     "idNumerico": "42",
     "nome": "NIKE SHOX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:19|22/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T09:47:02.491Z"
+    "roubadaEm": "2026-07-22T15:19:49.567Z"
   },
   "FAZENDINHA DO FIRE": {
     "idNumerico": "12",
@@ -172,7 +172,7 @@
     "nome": "Familia AlmanaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:05|22/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-22T15:05:46.093Z"
   },
   "QUEM ROUBAR E PETISTA": {

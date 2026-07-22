@@ -4,7 +4,7 @@
     "nome": "999",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:04|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-22T23:04:49.069Z"
   },
   "JESUS EA SOLUCAO": {
@@ -258,10 +258,10 @@
   "FARM DO GALO": {
     "idNumerico": "40",
     "nome": "FARM DO GALO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:14|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T17:24:30.975Z"
+    "roubadaEm": "2026-07-22T23:14:48.075Z"
   },
   "GRUPO RANTER": {
     "idNumerico": "19",

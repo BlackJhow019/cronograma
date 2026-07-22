@@ -186,8 +186,8 @@
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:42|22/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-22T09:42:26.452Z"
   },
@@ -220,7 +220,7 @@
     "nome": "Amo a Mazzi",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:37|22/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-22T14:37:59.797Z"
   },
   "YANINHA_ANTIFALSOS": {

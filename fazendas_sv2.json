@@ -122,10 +122,10 @@
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:22|22/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T03:33:55.739Z"
+    "roubadaEm": "2026-07-22T14:22:54.642Z"
   },
   "ARIANA_B13": {
     "idNumerico": "10",
@@ -178,8 +178,8 @@
   "FARM DA THATY": {
     "idNumerico": "1",
     "nome": "Farm da Thaty",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:19|22/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-22T09:19:19.738Z"
   },

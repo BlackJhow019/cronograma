@@ -218,10 +218,10 @@
   "AMO A MAZZI": {
     "idNumerico": "6",
     "nome": "Amo a Mazzi",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:01|22/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T14:37:59.797Z"
+    "roubadaEm": "2026-07-22T20:01:26.629Z"
   },
   "YANINHA_ANTIFALSOS": {
     "idNumerico": "34",
@@ -342,14 +342,6 @@
     "disponivelEm": "20:39|22/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-22T18:39:28.174Z"
-  },
-  "FAZENDA DO MIRIM": {
-    "idNumerico": "36",
-    "nome": "Fazenda Do MIRIM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:59|22/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-22T14:59:59.808Z"
   },
   "ZICO TREM BALA": {
     "idNumerico": "42",

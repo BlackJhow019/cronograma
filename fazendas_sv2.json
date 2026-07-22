@@ -234,9 +234,9 @@
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:59|21/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-21T21:59:40.139Z"
   },
   "CHAMA A POLICIA": {
@@ -316,7 +316,7 @@
     "nome": "RAMONZIN_FRANCA",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:05|22/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-22T02:05:38.365Z"
   },
   "QG FARM KHAOS": {

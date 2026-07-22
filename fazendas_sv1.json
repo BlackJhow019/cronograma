@@ -226,10 +226,10 @@
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:56|22/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T01:03:56.651Z"
+    "roubadaEm": "2026-07-22T06:56:29.937Z"
   },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
@@ -243,7 +243,7 @@
     "idNumerico": "13",
     "nome": "Norex farm's",
     "status": "INDISPONIVEL",
-    "disponivelEm": "03:56|22/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-22T01:56:12.405Z"
   },

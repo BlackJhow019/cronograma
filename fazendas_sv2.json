@@ -236,7 +236,7 @@
     "nome": "FRANCA",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:32|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-22T23:32:57.160Z"
   },
   "CHAMA A POLICIA": {
@@ -298,10 +298,10 @@
   "~E V O M~": {
     "idNumerico": "25",
     "nome": "~E V O M~",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:40|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T19:48:53.636Z"
+    "roubadaEm": "2026-07-22T23:40:26.016Z"
   },
   "FAZENDA CUIUDA - BY GAZOLA": {
     "idNumerico": "17",
@@ -334,14 +334,6 @@
     "disponivelEm": "21:11|22/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-22T19:11:18.068Z"
-  },
-  "@FILH_ODOPAII": {
-    "idNumerico": "12",
-    "nome": "@filh_odopaii",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:39|22/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-22T18:39:28.174Z"
   },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",

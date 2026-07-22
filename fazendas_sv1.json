@@ -239,14 +239,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-21T21:07:47.512Z"
   },
-  "NOREX FARM'S": {
-    "idNumerico": "13",
-    "nome": "Norex farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-22T01:56:12.405Z"
-  },
   "RICK FARM'S": {
     "idNumerico": "30",
     "nome": "Rick Farm's",
@@ -314,10 +306,10 @@
   "K1NG FARM'S": {
     "idNumerico": "25",
     "nome": "K1NG Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:59|22/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T22:10:20.108Z"
+    "roubadaEm": "2026-07-22T06:59:21.180Z"
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",

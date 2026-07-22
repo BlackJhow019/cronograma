@@ -23,14 +23,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-22T15:20:03.517Z"
   },
-  "FAZENDINHA DO FIRE": {
-    "idNumerico": "12",
-    "nome": "Fazendinha Do Fire",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T23:43:47.346Z"
-  },
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
     "nome": "Rafha investimentos $",
@@ -194,10 +186,10 @@
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:36|22/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T01:37:39.977Z"
+    "roubadaEm": "2026-07-22T19:36:28.143Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
@@ -236,7 +228,7 @@
     "nome": "PoLeMiCo$ industri$",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:28|22/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-22T19:28:11.858Z"
   },
   "NOREX FARM'S": {
@@ -358,5 +350,13 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-22T13:35:59.841Z"
+  },
+  "PEEEERFEITO!": {
+    "idNumerico": "12",
+    "nome": "Peeeerfeito!",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-21T23:43:47.346Z"
   }
 }

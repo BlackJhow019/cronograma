@@ -55,6 +55,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-21T18:51:41.520Z"
   },
+  "TA NO GRALI": {
+    "idNumerico": "4",
+    "nome": "ta no grali",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-22T11:37:52.950Z"
+  },
   "B13 :)": {
     "idNumerico": "23",
     "nome": "B13 :)",
@@ -140,7 +148,7 @@
     "nome": "Dead (:",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:30|22/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-22T16:30:58.782Z"
   },
   "DONA SEM RAZAO": {
@@ -348,7 +356,7 @@
     "nome": "ZICO TREM BALA",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:38|22/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-22T16:38:44.767Z"
   }
 }

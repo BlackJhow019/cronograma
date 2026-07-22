@@ -338,10 +338,10 @@
   "@FILH_ODOPAII": {
     "idNumerico": "12",
     "nome": "@filh_odopaii",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:02|22/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T04:56:29.939Z"
+    "roubadaEm": "2026-07-22T12:02:37.664Z"
   },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",

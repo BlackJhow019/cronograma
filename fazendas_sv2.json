@@ -66,10 +66,10 @@
   "B13 :)": {
     "idNumerico": "23",
     "nome": "B13 :)",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T20:39:25.810Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:54|22/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-22T01:54:56.361Z"
   },
   "MALVADA'S FARM": {
     "idNumerico": "32",
@@ -91,7 +91,7 @@
     "idNumerico": "24",
     "nome": "Vale das Sombras",
     "status": "INDISPONIVEL",
-    "disponivelEm": "22:55|21/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-21T20:55:15.777Z"
   },
@@ -180,8 +180,8 @@
     "nome": "Farm da Thaty",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:53|22/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T01:53:43.674Z"
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-22T01:53:26.815Z"
   },
   "FARM DO SAPATO": {
     "idNumerico": "9",

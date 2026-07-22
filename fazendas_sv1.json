@@ -180,7 +180,7 @@
     "nome": "Quem Roubar e Petista",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:00|22/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-22T14:00:59.708Z"
   },
   "VC É A PIADA AQUI": {
@@ -306,10 +306,10 @@
   "GRUPO NEXUS": {
     "idNumerico": "9",
     "nome": "GRUPO NEXUS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:05|22/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T08:44:44.278Z"
+    "roubadaEm": "2026-07-22T14:05:19.678Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",

@@ -172,7 +172,7 @@
     "nome": "FARM'S NAY E NICK",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:30|22/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-22T16:30:37.139Z"
   },
   "FARM DA THATY": {
@@ -202,8 +202,8 @@
   "SUCCUBUS FARMS": {
     "idNumerico": "29",
     "nome": "Succubus Farms",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:33|22/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-22T11:33:22.749Z"
   },

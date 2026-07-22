@@ -42,10 +42,10 @@
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
     "nome": "LA FAMILIA CHIARADIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:07|22/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T23:21:47.902Z"
+    "roubadaEm": "2026-07-22T05:07:30.765Z"
   },
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
@@ -70,14 +70,6 @@
     "disponivelEm": "03:54|22/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-22T01:54:56.361Z"
-  },
-  "MALVADA'S FARM": {
-    "idNumerico": "32",
-    "nome": "Malvada's Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-22T00:05:51.519Z"
   },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",

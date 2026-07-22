@@ -159,6 +159,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-22T11:50:00.810Z"
   },
+  "FAZENDA DO GALIN": {
+    "idNumerico": "15",
+    "nome": "Fazenda do Galin",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-22T18:40:28.768Z"
+  },
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
@@ -292,7 +300,7 @@
     "nome": "~E V O M~",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:42|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-22T23:42:01.039Z"
   },
   "FAZENDA CUIUDA - BY GAZOLA": {

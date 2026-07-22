@@ -58,10 +58,10 @@
   "TA NO GRALI": {
     "idNumerico": "4",
     "nome": "ta no grali",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:02|22/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T17:45:39.545Z"
+    "roubadaEm": "2026-07-22T00:02:38.608Z"
   },
   "B13 :)": {
     "idNumerico": "23",
@@ -204,7 +204,7 @@
     "nome": "Succubus Farms",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:58|22/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-21T23:58:39.933Z"
   },
   "FAZENDA REI DROGADO": {

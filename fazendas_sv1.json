@@ -212,7 +212,7 @@
     "nome": "021",
     "status": "INDISPONIVEL",
     "disponivelEm": "09:19|22/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-22T07:19:41.392Z"
   },
   "FAMILIA KUSH": {
@@ -354,9 +354,9 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:26|22/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T02:00:17.545Z"
+    "roubadaEm": "2026-07-22T07:26:39.470Z"
   }
 }

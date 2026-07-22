@@ -103,14 +103,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-22T11:25:55.898Z"
   },
-  "CANNABIS": {
-    "idNumerico": "8",
-    "nome": "CANNABIS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:56|22/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-22T10:56:50.673Z"
-  },
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
@@ -130,10 +122,10 @@
   "ARIANA_B13": {
     "idNumerico": "10",
     "nome": "Ariana_B13",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:58|22/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T10:17:17.681Z"
+    "roubadaEm": "2026-07-22T15:58:55.995Z"
   },
   "FARME DO DRAKE": {
     "idNumerico": "35",

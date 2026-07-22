@@ -122,10 +122,10 @@
   "MONOPOLIO FARMS": {
     "idNumerico": "20",
     "nome": "Monopolio Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:28|22/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T02:46:57.526Z"
+    "roubadaEm": "2026-07-22T12:28:40.285Z"
   },
   "AZEROX": {
     "idNumerico": "23",
@@ -260,7 +260,7 @@
     "nome": "/caridade",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:24|22/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-22T12:24:45.961Z"
   },
   "JAH RASTAFARI": {
@@ -350,13 +350,5 @@
     "disponivelEm": "14:19|22/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-22T12:19:41.564Z"
-  },
-  "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": "38",
-    "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:27|22/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T07:27:04.145Z"
   }
 }

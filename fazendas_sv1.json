@@ -31,14 +31,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-21T23:43:47.346Z"
   },
-  "RANCHO DO DOUTOR": {
-    "idNumerico": "14",
-    "nome": "Rancho do Doutor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:13|21/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T20:13:11.077Z"
-  },
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
     "nome": "Rafha investimentos $",
@@ -124,8 +116,8 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:05|22/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T01:05:55.689Z"
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-22T01:05:37.443Z"
   },
   "MONOPOLIO FARMS": {
     "idNumerico": "20",
@@ -221,7 +213,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "03:01|22/07/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-07-22T01:01:28.276Z"
+    "roubadaEm": "2026-07-22T01:01:14.449Z"
   },
   "021": {
     "idNumerico": "1",
@@ -243,9 +235,9 @@
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
     "status": "INDISPONIVEL",
-    "disponivelEm": "03:04|22/07/2026",
+    "disponivelEm": "03:03|22/07/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-07-22T01:04:17.826Z"
+    "roubadaEm": "2026-07-22T01:03:56.651Z"
   },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
@@ -358,5 +350,13 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-21T15:43:44.311Z"
+  },
+  "RANCHO DO DOUTOR": {
+    "idNumerico": "14",
+    "nome": "Rancho do Doutor",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
   }
 }

@@ -210,10 +210,10 @@
   "021": {
     "idNumerico": "1",
     "nome": "021",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:54|22/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T07:19:41.392Z"
+    "roubadaEm": "2026-07-22T12:54:34.550Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
@@ -244,7 +244,7 @@
     "nome": "Norex farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:50|22/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-22T12:50:56.767Z"
   },
   "RICK FARM'S": {

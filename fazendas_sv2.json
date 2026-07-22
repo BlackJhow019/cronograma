@@ -4,7 +4,7 @@
     "nome": "999",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:18|22/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-22T16:18:37.182Z"
   },
   "JESUS EA SOLUCAO": {
@@ -139,7 +139,7 @@
     "idNumerico": "35",
     "nome": "Farme do Drake",
     "status": "INDISPONIVEL",
-    "disponivelEm": "13:23|22/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-22T11:23:19.514Z"
   },
@@ -322,10 +322,10 @@
   "QG FARM KHAOS": {
     "idNumerico": "18",
     "nome": "QG FARM KHAOS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:24|22/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T04:59:20.849Z"
+    "roubadaEm": "2026-07-22T16:24:00.495Z"
   },
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",
@@ -355,7 +355,7 @@
     "idNumerico": "42",
     "nome": "ZICO TREM BALA",
     "status": "INDISPONIVEL",
-    "disponivelEm": "13:23|22/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-22T11:23:59.880Z"
   }

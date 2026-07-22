@@ -23,14 +23,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-21T22:25:16.544Z"
   },
-  "FAZENDINHA DO FIRE": {
-    "idNumerico": "12",
-    "nome": "Fazendinha Do Fire",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:43|22/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-21T23:43:47.346Z"
-  },
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
     "nome": "Rafha investimentos $",
@@ -338,10 +330,10 @@
   "ROUBO OFF": {
     "idNumerico": "7",
     "nome": "roubo off",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:46|22/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T15:43:44.311Z"
+    "roubadaEm": "2026-07-22T04:46:12.827Z"
   },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",

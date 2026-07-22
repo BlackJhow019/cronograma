@@ -28,7 +28,7 @@
     "nome": "RocK Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "09:28|22/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-22T07:28:43.462Z"
   },
   "FAZENDA DO TEMOR": {
@@ -90,9 +90,9 @@
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
     "nome": "Vale das Sombras",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:15|22/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-22T03:15:47.014Z"
   },
   "FARMS DE GALOPISITAS": {
@@ -235,7 +235,7 @@
     "idNumerico": "28",
     "nome": "FRANCA",
     "status": "INDISPONIVEL",
-    "disponivelEm": "05:17|22/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-22T03:17:20.772Z"
   },

@@ -146,9 +146,9 @@
   "DEAD (:": {
     "idNumerico": "27",
     "nome": "Dead (:",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:30|22/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-22T16:30:58.782Z"
   },
   "DONA SEM RAZAO": {
@@ -170,9 +170,9 @@
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-22T16:30:37.139Z"
   },
   "FARM DA THATY": {

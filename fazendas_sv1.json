@@ -11,7 +11,7 @@
     "idNumerico": "3",
     "nome": "KodiaK",
     "status": "INDISPONIVEL",
-    "disponivelEm": "23:47|21/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-21T21:47:21.538Z"
   },
@@ -124,7 +124,7 @@
     "nome": "Monopolio Farms",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:46|22/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-22T02:46:57.526Z"
   },
   "AZEROX": {
@@ -318,6 +318,14 @@
     "disponivelEm": "00:10|22/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-21T22:10:20.108Z"
+  },
+  "PREFEITO ROADBLOCK": {
+    "idNumerico": "41",
+    "nome": "Prefeito Roadblock",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-21T21:43:14.631Z"
   },
   "FAZENDA DE COCA DO CARTEL DE MEDELLIN": {
     "idNumerico": "40",

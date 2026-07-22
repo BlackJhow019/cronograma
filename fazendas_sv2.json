@@ -148,16 +148,8 @@
     "nome": "Dead (:",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:48|22/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T04:48:41.654Z"
-  },
-  "DONA SEM RAZAO": {
-    "idNumerico": "26",
-    "nome": "Dona sem razao",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:54|22/07/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-07-21T23:54:07.157Z"
+    "roubadaEm": "2026-07-22T04:48:41.654Z"
   },
   "FAZENDA DO GALIN": {
     "idNumerico": "15",
@@ -172,7 +164,7 @@
     "nome": "FARM'S NAY E NICK",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:50|22/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-22T04:50:11.223Z"
   },
   "FARM DA THATY": {
@@ -338,10 +330,10 @@
   "@FILH_ODOPAII": {
     "idNumerico": "12",
     "nome": "@filh_odopaii",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:56|22/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T05:41:36.206Z"
+    "roubadaEm": "2026-07-22T04:56:16.660Z"
   },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",

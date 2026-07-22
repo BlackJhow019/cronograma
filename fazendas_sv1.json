@@ -66,9 +66,9 @@
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:05|21/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-21T21:05:02.848Z"
   },
   "WESKER_U$METRALHA": {
@@ -231,14 +231,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-22T01:03:56.651Z"
   },
-  "POLEMICO$ INDUSTRI$": {
-    "idNumerico": "37",
-    "nome": "PoLeMiCo$ industri$",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:07|21/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-21T21:07:47.512Z"
-  },
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
@@ -356,7 +348,7 @@
     "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:00|22/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-22T02:00:17.545Z"
   }
 }

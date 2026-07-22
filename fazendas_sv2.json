@@ -2,10 +2,10 @@
   "999": {
     "idNumerico": "39",
     "nome": "999",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:52|22/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T19:27:12.875Z"
+    "roubadaEm": "2026-07-22T03:52:52.518Z"
   },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
@@ -348,7 +348,7 @@
     "nome": "Fazenda Do MIRIM",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:46|22/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-22T03:46:52.876Z"
   },
   "JOTACE É UM PAI": {

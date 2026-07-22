@@ -34,10 +34,10 @@
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T17:18:45.769Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:27|23/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-22T23:27:10.418Z"
   },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
@@ -82,8 +82,8 @@
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
     "nome": "YellowStone - By Monster",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:19|22/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-22T18:19:41.631Z"
   },
@@ -202,10 +202,10 @@
   "SUCCUBUS FARMS": {
     "idNumerico": "29",
     "nome": "Succubus Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:27|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T17:47:44.339Z"
+    "roubadaEm": "2026-07-22T23:27:16.903Z"
   },
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",
@@ -234,10 +234,10 @@
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:32|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T17:11:52.755Z"
+    "roubadaEm": "2026-07-22T23:32:42.081Z"
   },
   "CHAMA A POLICIA": {
     "idNumerico": "44",
@@ -260,7 +260,7 @@
     "nome": "FARM DO GALO",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:14|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-22T23:14:48.075Z"
   },
   "GRUPO RANTER": {

@@ -323,7 +323,7 @@
     "idNumerico": "18",
     "nome": "QG FARM KHAOS",
     "status": "INDISPONIVEL",
-    "disponivelEm": "06:59|22/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-22T04:59:20.849Z"
   },
@@ -334,6 +334,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-21T23:48:10.628Z"
+  },
+  "@FILH_ODOPAII": {
+    "idNumerico": "12",
+    "nome": "@filh_odopaii",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-22T04:56:29.939Z"
   },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",

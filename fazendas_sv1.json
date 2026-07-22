@@ -301,7 +301,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "03:28|22/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T01:28:57.021Z"
+    "roubadaEm": "2026-07-22T01:28:45.808Z"
   },
   "GRUPO NEXUS": {
     "idNumerico": "9",
@@ -346,6 +346,14 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "WORK INDUSTRIA'S LIMITED": {
+    "idNumerico": "38",
+    "nome": "Work Industria's Limited",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,

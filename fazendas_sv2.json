@@ -164,7 +164,7 @@
     "nome": "Fazenda do Galin",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:40|22/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-22T18:40:28.768Z"
   },
   "FARM'S NAY E NICK": {
@@ -250,8 +250,8 @@
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",
     "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:43|22/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-22T13:43:48.708Z"
   },

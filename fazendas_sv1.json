@@ -108,7 +108,7 @@
     "nome": "Fazenda da Milly",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:18|22/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-22T05:18:30.986Z"
   },
   "HWD INVESTIMENTOS": {
@@ -326,6 +326,14 @@
     "disponivelEm": "05:32|22/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-22T03:32:45.582Z"
+  },
+  "FAZENDA DE COCA DO CARTEL DE MEDELLIN": {
+    "idNumerico": "40",
+    "nome": "FAZENDA DE COCA DO CARTEL DE MEDELLIN",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-22T00:17:00.106Z"
   },
   "ROUBO OFF": {
     "idNumerico": "7",

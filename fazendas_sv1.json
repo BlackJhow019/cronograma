@@ -58,9 +58,9 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:17|21/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-21T19:17:27.582Z"
   },
   "LEK0ZIKA": {
@@ -348,7 +348,7 @@
     "nome": "FAZENDA DE COCA DO CARTEL DE MEDELLIN",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:17|22/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-22T00:17:00.106Z"
   },
   "ROUBO OFF": {

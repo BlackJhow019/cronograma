@@ -99,7 +99,7 @@
     "idNumerico": "20",
     "nome": "Farms de Galopisitas",
     "status": "INDISPONIVEL",
-    "disponivelEm": "13:25|22/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-22T11:25:55.898Z"
   },
@@ -134,6 +134,14 @@
     "disponivelEm": "17:59|22/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-22T15:59:10.285Z"
+  },
+  "FARME DO DRAKE": {
+    "idNumerico": "35",
+    "nome": "Farme do Drake",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:26|22/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-22T16:26:05.795Z"
   },
   "DEAD (:": {
     "idNumerico": "27",

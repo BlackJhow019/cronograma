@@ -218,10 +218,10 @@
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:13|22/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T21:21:13.609Z"
+    "roubadaEm": "2026-07-22T03:13:12.048Z"
   },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
@@ -310,14 +310,6 @@
     "disponivelEm": "04:38|22/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-22T02:38:59.141Z"
-  },
-  "K1NG FARM'S": {
-    "idNumerico": "25",
-    "nome": "K1NG Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:10|22/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-21T22:10:20.108Z"
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",

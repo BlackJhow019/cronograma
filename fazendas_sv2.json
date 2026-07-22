@@ -138,10 +138,10 @@
   "FARME DO DRAKE": {
     "idNumerico": "35",
     "nome": "Farme do Drake",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:25|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T16:26:18.261Z"
+    "roubadaEm": "2026-07-22T22:25:14.094Z"
   },
   "DEAD (:": {
     "idNumerico": "27",
@@ -259,7 +259,7 @@
     "idNumerico": "40",
     "nome": "FARM DO GALO",
     "status": "INDISPONIVEL",
-    "disponivelEm": "19:24|22/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-22T17:24:30.975Z"
   },

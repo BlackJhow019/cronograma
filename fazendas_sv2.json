@@ -1,12 +1,4 @@
 {
-  "999": {
-    "idNumerico": "39",
-    "nome": "999",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:27|21/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T19:27:12.875Z"
-  },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
@@ -84,7 +76,7 @@
     "nome": "YellowStone - By Monster",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:26|22/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-22T00:26:14.883Z"
   },
   "VALE DAS SOMBRAS": {
@@ -242,10 +234,10 @@
   "CHAMA A POLICIA": {
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:28|22/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T17:12:05.925Z"
+    "roubadaEm": "2026-07-22T00:28:17.948Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",

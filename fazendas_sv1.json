@@ -170,10 +170,10 @@
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:05|22/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T08:18:55.957Z"
+    "roubadaEm": "2026-07-22T15:05:19.333Z"
   },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
@@ -316,7 +316,7 @@
     "nome": "K1NG Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:50|22/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-22T14:50:39.248Z"
   },
   "PREFEITO ROADBLOCK": {

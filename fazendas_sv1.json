@@ -10,10 +10,10 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:49|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T16:31:04.882Z"
+    "roubadaEm": "2026-07-22T22:49:38.465Z"
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -54,14 +54,6 @@
     "disponivelEm": "00:34|23/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-22T22:34:59.154Z"
-  },
-  "BORRACHAS FARM": {
-    "idNumerico": "33",
-    "nome": "Borrachas Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:48|22/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T17:48:16.986Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
@@ -244,7 +236,7 @@
     "nome": "Rick Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:38|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-22T22:38:35.329Z"
   },
   "/CARIDADE": {

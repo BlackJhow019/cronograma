@@ -66,9 +66,9 @@
   "B13 :)": {
     "idNumerico": "23",
     "nome": "B13 :)",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:54|22/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-22T01:54:56.361Z"
   },
   "MALVADA'S FARM": {
@@ -178,9 +178,9 @@
   "FARM DA THATY": {
     "idNumerico": "1",
     "nome": "Farm da Thaty",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:53|22/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-22T01:53:26.815Z"
   },
   "FARM DO SAPATO": {

@@ -135,14 +135,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-21T16:04:08.182Z"
   },
-  "FARME DO DRAKE": {
-    "idNumerico": "35",
-    "nome": "Farme do Drake",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-21T20:30:20.559Z"
-  },
   "DEAD (:": {
     "idNumerico": "27",
     "nome": "Dead (:",
@@ -194,10 +186,10 @@
   "AURA + EGO": {
     "idNumerico": "22",
     "nome": "Aura + Ego",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:35|22/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T15:50:44.928Z"
+    "roubadaEm": "2026-07-22T01:35:30.493Z"
   },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",

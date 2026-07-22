@@ -50,10 +50,10 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:48|22/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T19:17:27.582Z"
+    "roubadaEm": "2026-07-22T01:48:41.145Z"
   },
   "LEK0ZIKA": {
     "idNumerico": "35",
@@ -118,14 +118,6 @@
     "disponivelEm": "03:05|22/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-22T01:05:37.443Z"
-  },
-  "MONOPOLIO FARMS": {
-    "idNumerico": "20",
-    "nome": "Monopolio Farms",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:47|21/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T20:47:17.336Z"
   },
   "AZEROX": {
     "idNumerico": "23",

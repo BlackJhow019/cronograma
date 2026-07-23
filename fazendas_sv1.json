@@ -228,7 +228,7 @@
     "nome": "PoLeMiCo$ industri$",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:48|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T10:48:28.312Z"
   },
   "NOREX FARM'S": {
@@ -242,10 +242,10 @@
   "RICK FARM'S": {
     "idNumerico": "30",
     "nome": "Rick Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:50|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T22:38:35.329Z"
+    "roubadaEm": "2026-07-23T10:50:50.193Z"
   },
   "/CARIDADE": {
     "idNumerico": "5",

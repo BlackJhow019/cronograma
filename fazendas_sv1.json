@@ -111,14 +111,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-23T18:32:35.333Z"
   },
-  "MONOPOLIO FARMS": {
-    "idNumerico": "20",
-    "nome": "Monopolio Farms",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T14:30:18.721Z"
-  },
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
@@ -242,10 +234,10 @@
   "RICK FARM'S": {
     "idNumerico": "30",
     "nome": "Rick Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:32|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T10:51:05.659Z"
+    "roubadaEm": "2026-07-23T19:32:43.497Z"
   },
   "/CARIDADE": {
     "idNumerico": "5",

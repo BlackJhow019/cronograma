@@ -108,7 +108,7 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:16|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T13:16:15.052Z"
   },
   "MONOPOLIO FARMS": {
@@ -298,10 +298,10 @@
   "GRUPO NEXUS": {
     "idNumerico": "9",
     "nome": "GRUPO NEXUS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:40|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T07:39:32.198Z"
+    "roubadaEm": "2026-07-23T13:40:58.946Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",

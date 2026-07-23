@@ -204,7 +204,7 @@
     "nome": "021",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:58|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T17:58:32.256Z"
   },
   "FAMILIA KUSH": {
@@ -290,10 +290,10 @@
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:03|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T12:47:11.096Z"
+    "roubadaEm": "2026-07-23T18:03:45.375Z"
   },
   "GRUPO NEXUS": {
     "idNumerico": "9",

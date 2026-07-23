@@ -100,7 +100,7 @@
     "nome": "Fazenda da Milly",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:30|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T19:30:33.558Z"
   },
   "HWD INVESTIMENTOS": {
@@ -244,7 +244,7 @@
     "nome": "Rick Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:33|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T19:33:00.685Z"
   },
   "/CARIDADE": {
@@ -346,8 +346,8 @@
   "PEEEERFEITO": {
     "idNumerico": "12",
     "nome": "Peeeerfeito",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:38|23/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-23T14:38:56.631Z"
   },

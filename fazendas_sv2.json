@@ -12,7 +12,7 @@
     "nome": "JESUS EA SOLUCAO",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:22|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T13:22:18.340Z"
   },
   "AWAKE COMPANY": {
@@ -66,10 +66,10 @@
   "B13 :)": {
     "idNumerico": "23",
     "nome": "B13 :)",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:43|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T02:28:02.830Z"
+    "roubadaEm": "2026-07-23T13:43:05.700Z"
   },
   "MALVADA'S FARM": {
     "idNumerico": "32",

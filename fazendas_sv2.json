@@ -130,10 +130,10 @@
   "ARIANA_B13": {
     "idNumerico": "10",
     "nome": "Ariana_B13",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:55|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T02:27:52.089Z"
+    "roubadaEm": "2026-07-23T16:55:43.603Z"
   },
   "FARME DO DRAKE": {
     "idNumerico": "35",
@@ -238,14 +238,6 @@
     "disponivelEm": "15:15|23/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-23T13:15:57.568Z"
-  },
-  "CHAMA A POLICIA": {
-    "idNumerico": "44",
-    "nome": "CHAMA A POLICIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:54|23/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-23T11:54:43.239Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",

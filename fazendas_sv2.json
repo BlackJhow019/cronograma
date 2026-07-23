@@ -18,9 +18,9 @@
   "AWAKE COMPANY": {
     "idNumerico": "13",
     "nome": "AwaKe Company",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:22|23/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-23T14:22:53.104Z"
   },
   "ROCK FARM": {
@@ -212,7 +212,7 @@
     "nome": "Fazenda Rei Drogado",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:59|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T18:59:37.976Z"
   },
   "AMO A MAZZI": {
@@ -318,14 +318,6 @@
     "disponivelEm": "20:41|23/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-23T18:41:59.861Z"
-  },
-  "QG FARM KHAOS": {
-    "idNumerico": "18",
-    "nome": "QG FARM KHAOS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:24|23/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-23T14:24:13.779Z"
   },
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",

@@ -42,10 +42,10 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:00|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T04:44:48.985Z"
+    "roubadaEm": "2026-07-23T12:00:15.720Z"
   },
   "LEK0ZIKA": {
     "idNumerico": "35",
@@ -164,7 +164,7 @@
     "nome": "Familia AlmanaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:57|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T11:57:08.202Z"
   },
   "QUEM ROUBAR E PETISTA": {

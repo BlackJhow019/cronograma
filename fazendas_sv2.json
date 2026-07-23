@@ -282,10 +282,10 @@
   "/VENDERPRODUTOS": {
     "idNumerico": "7",
     "nome": "/VENDERPRODUTOS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:29|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T02:02:44.146Z"
+    "roubadaEm": "2026-07-23T14:29:36.418Z"
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {
     "idNumerico": "37",
@@ -324,7 +324,7 @@
     "nome": "QG FARM KHAOS",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:24|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T14:24:13.779Z"
   },
   "FAZENDINHA BETREZE 2": {

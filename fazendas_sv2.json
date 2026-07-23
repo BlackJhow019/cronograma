@@ -4,7 +4,7 @@
     "nome": "999",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:21|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T04:21:12.597Z"
   },
   "JESUS EA SOLUCAO": {
@@ -30,14 +30,6 @@
     "disponivelEm": "03:38|23/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-23T01:38:04.102Z"
-  },
-  "FAZENDA DO TEMOR": {
-    "idNumerico": "30",
-    "nome": "Fazenda do Temor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:27|23/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-22T23:27:10.418Z"
   },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
@@ -146,10 +138,10 @@
   "DEAD (:": {
     "idNumerico": "27",
     "nome": "Dead (:",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:30|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T22:11:23.331Z"
+    "roubadaEm": "2026-07-23T04:30:16.561Z"
   },
   "DONA SEM RAZAO": {
     "idNumerico": "26",
@@ -198,14 +190,6 @@
     "disponivelEm": "04:47|23/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-23T02:47:36.109Z"
-  },
-  "SUCCUBUS FARMS": {
-    "idNumerico": "29",
-    "nome": "Succubus Farms",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:27|23/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T23:27:16.903Z"
   },
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",

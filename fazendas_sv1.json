@@ -106,8 +106,8 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:27|23/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-23T07:27:24.692Z"
   },
@@ -204,7 +204,7 @@
     "nome": "021",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:14|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T12:14:16.160Z"
   },
   "FAMILIA KUSH": {

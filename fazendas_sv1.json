@@ -55,14 +55,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-23T16:34:00.168Z"
   },
-  "BORRACHAS FARM": {
-    "idNumerico": "33",
-    "nome": "Borrachas Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:49|23/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-23T14:49:40.050Z"
-  },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
     "nome": "Wesker_u$MeTraLha",
@@ -126,6 +118,14 @@
     "disponivelEm": "17:09|23/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-23T15:09:31.405Z"
+  },
+  "FARM'S DE CAFE": {
+    "idNumerico": "4",
+    "nome": "Farm's de Cafe",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-23T14:46:49.656Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
     "idNumerico": "17",

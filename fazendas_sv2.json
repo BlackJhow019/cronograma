@@ -122,9 +122,9 @@
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:01|23/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-23T14:01:36.505Z"
   },
   "ARIANA_B13": {
@@ -298,9 +298,9 @@
   "~E V O M~": {
     "idNumerico": "25",
     "nome": "~E V O M~",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:01|23/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-23T14:01:09.775Z"
   },
   "FAZENDA CUIUDA - BY GAZOLA": {

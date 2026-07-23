@@ -4,7 +4,7 @@
     "nome": "999",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:54|24/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T22:54:19.996Z"
   },
   "JESUS EA SOLUCAO": {
@@ -175,21 +175,13 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-23T17:50:10.539Z"
   },
-  "FARM DA THATY": {
-    "idNumerico": "1",
-    "nome": "Farm da Thaty",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:10|23/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-23T18:10:37.254Z"
-  },
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:11|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T17:43:33.474Z"
+    "roubadaEm": "2026-07-23T23:11:30.130Z"
   },
   "AURA + EGO": {
     "idNumerico": "22",

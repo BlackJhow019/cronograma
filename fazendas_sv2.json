@@ -156,7 +156,7 @@
     "nome": "Dona sem razao",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:58|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T14:58:19.181Z"
   },
   "FAZENDA DO GALIN": {
@@ -202,10 +202,10 @@
   "SUCCUBUS FARMS": {
     "idNumerico": "29",
     "nome": "Succubus Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:03|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T23:27:16.903Z"
+    "roubadaEm": "2026-07-23T15:03:07.156Z"
   },
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",

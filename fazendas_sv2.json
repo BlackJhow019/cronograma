@@ -1,12 +1,4 @@
 {
-  "999": {
-    "idNumerico": "39",
-    "nome": "999",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:18|23/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T11:18:06.156Z"
-  },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
@@ -306,10 +298,10 @@
   "FAZENDA CUIUDA - BY GAZOLA": {
     "idNumerico": "17",
     "nome": "Fazenda Cuiuda - By GAZOLA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:19|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T04:03:26.657Z"
+    "roubadaEm": "2026-07-23T16:19:40.354Z"
   },
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",

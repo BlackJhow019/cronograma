@@ -162,10 +162,10 @@
   "FAZENDA DO GALIN": {
     "idNumerico": "15",
     "nome": "Fazenda do Galin",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:24|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T01:52:56.690Z"
+    "roubadaEm": "2026-07-23T13:24:33.209Z"
   },
   "FARM'S NAY E NICK": {
     "idNumerico": "5",

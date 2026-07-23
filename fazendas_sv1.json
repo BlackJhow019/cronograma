@@ -42,10 +42,10 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:38|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T12:00:29.724Z"
+    "roubadaEm": "2026-07-23T17:38:10.370Z"
   },
   "LEK0ZIKA": {
     "idNumerico": "35",
@@ -326,14 +326,6 @@
     "disponivelEm": "16:34|23/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-23T14:34:15.796Z"
-  },
-  "RANCHO DO DOUTOR": {
-    "idNumerico": "14",
-    "nome": "Rancho do Doutor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:36|23/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-23T12:36:25.562Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",

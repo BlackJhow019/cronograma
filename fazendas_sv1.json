@@ -210,10 +210,10 @@
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:12|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T12:42:37.623Z"
+    "roubadaEm": "2026-07-23T18:12:08.651Z"
   },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
@@ -276,7 +276,7 @@
     "nome": "30PRAUM",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:09|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T18:09:51.464Z"
   },
   "FAZENDA FELIZ": {
@@ -332,7 +332,7 @@
     "nome": "Rancho do Doutor",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:04|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T18:04:07.885Z"
   },
   "WORK INDUSTRIA'S LIMITED": {

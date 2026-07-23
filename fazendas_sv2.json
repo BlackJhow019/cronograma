@@ -236,7 +236,7 @@
     "nome": "FRANCA",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:08|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T19:08:34.239Z"
   },
   "CHAMA A POLICIA": {
@@ -326,6 +326,14 @@
     "disponivelEm": "16:24|23/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-23T14:24:13.779Z"
+  },
+  "FAZENDINHA BETREZE 2": {
+    "idNumerico": "38",
+    "nome": "Fazendinha BeTreZe 2",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-23T14:09:13.333Z"
   },
   "@FILH_ODOPAII": {
     "idNumerico": "12",

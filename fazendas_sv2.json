@@ -60,7 +60,7 @@
     "nome": "ta no grali",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:36|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T04:36:10.484Z"
   },
   "B13 :)": {
@@ -290,10 +290,10 @@
   "WELCOME > MELHOR FAZENDA DO BPS": {
     "idNumerico": "37",
     "nome": "WELCOME > MELHOR FAZENDA DO BPS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:37|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T19:41:10.752Z"
+    "roubadaEm": "2026-07-23T04:37:25.687Z"
   },
   "~E V O M~": {
     "idNumerico": "25",

@@ -50,10 +50,10 @@
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:27|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T04:15:08.358Z"
+    "roubadaEm": "2026-07-23T11:27:37.949Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -172,7 +172,7 @@
     "nome": "Quem Roubar e Petista",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:01|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T11:01:53.827Z"
   },
   "VC É A PIADA AQUI": {

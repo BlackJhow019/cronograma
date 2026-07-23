@@ -156,7 +156,7 @@
     "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:41|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T13:41:40.828Z"
   },
   "FAMILIA ALMANAK": {
@@ -218,10 +218,10 @@
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:48|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T01:54:47.752Z"
+    "roubadaEm": "2026-07-23T13:48:22.217Z"
   },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
@@ -300,7 +300,7 @@
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:41|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T13:41:17.731Z"
   },
   "K1NG FARM'S": {

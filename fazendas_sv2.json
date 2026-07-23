@@ -124,7 +124,7 @@
     "nome": "SE ROUBAR MORRE",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:03|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T21:03:55.357Z"
   },
   "ARIANA_B13": {
@@ -338,10 +338,10 @@
   "@FILH_ODOPAII": {
     "idNumerico": "12",
     "nome": "@filh_odopaii",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:13|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T14:06:00.736Z"
+    "roubadaEm": "2026-07-23T21:13:09.014Z"
   },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",

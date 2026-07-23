@@ -106,10 +106,10 @@
   "CANNABIS": {
     "idNumerico": "8",
     "nome": "CANNABIS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:36|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T04:30:46.991Z"
+    "roubadaEm": "2026-07-23T10:36:33.324Z"
   },
   "AMO O LOWER": {
     "idNumerico": "2",

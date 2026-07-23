@@ -7,6 +7,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-23T18:18:00.039Z"
   },
+  "KODIAK": {
+    "idNumerico": "3",
+    "nome": "KodiaK",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-23T15:42:35.037Z"
+  },
   "NIKE SHOX": {
     "idNumerico": "42",
     "nome": "NIKE SHOX",
@@ -188,7 +196,7 @@
     "nome": "YT @GANDIA_RP",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:44|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T20:44:32.863Z"
   },
   "021": {
@@ -243,7 +251,7 @@
     "idNumerico": "5",
     "nome": "/caridade",
     "status": "INDISPONIVEL",
-    "disponivelEm": "17:45|23/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-23T15:45:25.829Z"
   },

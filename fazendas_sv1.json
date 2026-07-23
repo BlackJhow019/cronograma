@@ -2,10 +2,10 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:18|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T12:44:09.850Z"
+    "roubadaEm": "2026-07-23T18:18:00.039Z"
   },
   "KODIAK": {
     "idNumerico": "3",
@@ -102,14 +102,6 @@
     "disponivelEm": "16:22|23/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-23T14:22:22.533Z"
-  },
-  "HWD INVESTIMENTOS": {
-    "idNumerico": "27",
-    "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:16|23/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-23T13:16:15.052Z"
   },
   "MONOPOLIO FARMS": {
     "idNumerico": "20",
@@ -212,7 +204,7 @@
     "nome": "Familia KuSh",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:12|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T18:12:08.651Z"
   },
   "FAZENDINHA DO IGEZE": {

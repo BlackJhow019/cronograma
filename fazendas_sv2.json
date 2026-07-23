@@ -87,14 +87,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-23T14:53:13.552Z"
   },
-  "VALE DAS SOMBRAS": {
-    "idNumerico": "24",
-    "nome": "Vale das Sombras",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:32|23/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-23T14:32:20.817Z"
-  },
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
     "nome": "Farms de Galopisitas",
@@ -282,8 +274,8 @@
   "/VENDERPRODUTOS": {
     "idNumerico": "7",
     "nome": "/VENDERPRODUTOS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:29|23/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-23T14:29:55.214Z"
   },

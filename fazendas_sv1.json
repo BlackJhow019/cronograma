@@ -319,14 +319,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-23T05:31:31.592Z"
   },
-  "FAZENDA DE COCA DO CARTEL DE MEDELLIN": {
-    "idNumerico": "40",
-    "nome": "FAZENDA DE COCA DO CARTEL DE MEDELLIN",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T00:17:00.106Z"
-  },
   "ROUBO OFF": {
     "idNumerico": "7",
     "nome": "roubo off",
@@ -351,12 +343,20 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-23T14:33:23.123Z"
   },
-  "PEEEERFEITO!": {
+  "PEEEERFEITO": {
     "idNumerico": "12",
-    "nome": "Peeeerfeito!",
+    "nome": "Peeeerfeito",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:38|23/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-23T14:38:56.631Z"
+  },
+  "BERNARDO FARM'S": {
+    "idNumerico": "40",
+    "nome": "Bernardo Farm's",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:43|23/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-23T14:43:26.408Z"
   }
 }

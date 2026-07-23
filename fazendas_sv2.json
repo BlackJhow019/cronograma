@@ -58,10 +58,10 @@
   "TA NO GRALI": {
     "idNumerico": "4",
     "nome": "ta no grali",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:48|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T04:36:10.484Z"
+    "roubadaEm": "2026-07-23T11:48:13.400Z"
   },
   "B13 :)": {
     "idNumerico": "23",
@@ -172,7 +172,7 @@
     "nome": "FARM'S NAY E NICK",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:34|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T11:34:32.538Z"
   },
   "FARM DA THATY": {
@@ -188,7 +188,7 @@
     "nome": "FARM DO SAPATO",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:32|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T11:32:27.959Z"
   },
   "AURA + EGO": {

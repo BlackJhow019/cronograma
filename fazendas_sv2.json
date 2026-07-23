@@ -34,10 +34,10 @@
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:39|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T17:49:02.952Z"
+    "roubadaEm": "2026-07-23T23:39:37.682Z"
   },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
@@ -70,14 +70,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-23T13:43:29.789Z"
-  },
-  "MALVADA'S FARM": {
-    "idNumerico": "32",
-    "nome": "Malvada's Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:36|23/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-23T18:36:30.456Z"
   },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",

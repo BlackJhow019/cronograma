@@ -263,6 +263,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-23T15:18:18.186Z"
   },
+  ".": {
+    "idNumerico": "31",
+    "nome": ".",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-23T15:28:24.762Z"
+  },
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
@@ -270,6 +278,14 @@
     "disponivelEm": "20:09|23/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-23T18:09:51.464Z"
+  },
+  "FAZENDA FELIZ": {
+    "idNumerico": "22",
+    "nome": "fazenda feliz",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-23T15:30:01.354Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",

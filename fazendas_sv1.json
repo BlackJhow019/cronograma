@@ -28,7 +28,7 @@
     "nome": "Rafha investimentos $",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:29|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T03:29:44.357Z"
   },
   "THUG LIFE": {
@@ -46,14 +46,6 @@
     "disponivelEm": "01:30|23/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-22T23:30:58.240Z"
-  },
-  "LEK0ZIKA": {
-    "idNumerico": "35",
-    "nome": "Lek0zika",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:34|23/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-22T22:34:59.154Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -284,7 +276,7 @@
     "nome": "fazenda feliz",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:29|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T03:29:42.641Z"
   },
   "OS DE RACA": {
@@ -338,10 +330,10 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:37|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T17:36:43.962Z"
+    "roubadaEm": "2026-07-23T03:37:56.994Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",

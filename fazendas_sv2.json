@@ -20,7 +20,7 @@
     "nome": "AwaKe Company",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:22|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T14:22:53.104Z"
   },
   "ROCK FARM": {
@@ -322,10 +322,10 @@
   "QG FARM KHAOS": {
     "idNumerico": "18",
     "nome": "QG FARM KHAOS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:23|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T01:22:05.963Z"
+    "roubadaEm": "2026-07-23T14:23:58.480Z"
   },
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",

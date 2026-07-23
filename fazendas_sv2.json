@@ -106,8 +106,8 @@
   "CANNABIS": {
     "idNumerico": "8",
     "nome": "CANNABIS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:36|23/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-23T10:36:46.384Z"
   },
@@ -252,7 +252,7 @@
     "nome": "$ Company $r.RC_PlinioDmG $",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:20|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T15:20:18.847Z"
   },
   "FARM DO GALO": {

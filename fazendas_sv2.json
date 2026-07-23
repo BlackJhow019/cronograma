@@ -42,10 +42,10 @@
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
     "nome": "LA FAMILIA CHIARADIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:49|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T13:51:43.947Z"
+    "roubadaEm": "2026-07-23T20:49:29.931Z"
   },
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
@@ -148,7 +148,7 @@
     "nome": "Dead (:",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:40|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T20:40:10.866Z"
   },
   "DONA SEM RAZAO": {
@@ -164,7 +164,7 @@
     "nome": "Fazenda do Galin",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:39|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T20:39:50.277Z"
   },
   "FARM'S NAY E NICK": {

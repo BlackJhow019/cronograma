@@ -60,7 +60,7 @@
     "nome": "ta no grali",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:48|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T11:48:42.719Z"
   },
   "B13 :)": {
@@ -242,10 +242,10 @@
   "CHAMA A POLICIA": {
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:54|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T03:40:45.449Z"
+    "roubadaEm": "2026-07-23T11:54:30.058Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",

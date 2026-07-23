@@ -204,7 +204,7 @@
     "nome": "Succubus Farms",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:03|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T15:03:07.156Z"
   },
   "FAZENDA REI DROGADO": {
@@ -258,17 +258,17 @@
   "FARM DO GALO": {
     "idNumerico": "40",
     "nome": "FARM DO GALO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:12|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T05:31:47.203Z"
+    "roubadaEm": "2026-07-23T15:12:24.210Z"
   },
   "GRUPO RANTER": {
     "idNumerico": "19",
     "nome": "GRUPO RANTER",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:03|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T15:03:46.616Z"
   },
   "ROLINHA CANSADA FARMS": {

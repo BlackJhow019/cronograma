@@ -34,10 +34,10 @@
   "THUG LIFE": {
     "idNumerico": "21",
     "nome": "THUG LIFE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:20|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T13:57:27.454Z"
+    "roubadaEm": "2026-07-23T20:20:26.600Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -183,14 +183,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-14T03:06:03.754Z"
   },
-  "GRANJA DO IMONKEY": {
-    "idNumerico": "29",
-    "nome": "Granja do iMonKeY",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:20|23/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-23T15:20:09.686Z"
-  },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
@@ -254,14 +246,6 @@
     "disponivelEm": "17:45|23/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-23T15:45:25.829Z"
-  },
-  "JAH RASTAFARI": {
-    "idNumerico": "39",
-    "nome": "JAH RASTAFARI",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:18|23/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-23T15:18:18.186Z"
   },
   ".": {
     "idNumerico": "31",

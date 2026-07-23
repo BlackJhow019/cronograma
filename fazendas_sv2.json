@@ -59,7 +59,7 @@
     "idNumerico": "4",
     "nome": "ta no grali",
     "status": "INDISPONIVEL",
-    "disponivelEm": "19:27|23/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-23T17:27:27.508Z"
   },
@@ -106,10 +106,10 @@
   "CANNABIS": {
     "idNumerico": "8",
     "nome": "CANNABIS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:27|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T15:50:23.133Z"
+    "roubadaEm": "2026-07-23T22:27:33.037Z"
   },
   "AMO O LOWER": {
     "idNumerico": "2",

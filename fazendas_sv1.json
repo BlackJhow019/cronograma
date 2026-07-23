@@ -196,7 +196,7 @@
     "nome": "YT @GANDIA_RP",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:16|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T14:16:15.387Z"
   },
   "021": {
@@ -234,10 +234,10 @@
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:19|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T02:39:44.933Z"
+    "roubadaEm": "2026-07-23T14:19:44.912Z"
   },
   "RICK FARM'S": {
     "idNumerico": "30",

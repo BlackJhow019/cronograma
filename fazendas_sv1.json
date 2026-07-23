@@ -83,7 +83,7 @@
     "idNumerico": "24",
     "nome": "VENDO 500km ACEITO TROCAS",
     "status": "INDISPONIVEL",
-    "disponivelEm": "00:08|23/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-22T22:08:59.805Z"
   },
@@ -154,9 +154,9 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:06|23/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-22T22:06:23.881Z"
   },
   "FAMILIA ALMANAK": {

@@ -108,7 +108,7 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:05|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T01:05:22.925Z"
   },
   "MONOPOLIO FARMS": {
@@ -162,10 +162,10 @@
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:29|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T20:09:43.838Z"
+    "roubadaEm": "2026-07-23T01:29:22.514Z"
   },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
@@ -212,7 +212,7 @@
     "nome": "Familia KuSh",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:13|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T01:13:43.481Z"
   },
   "FAZENDINHA DO IGEZE": {

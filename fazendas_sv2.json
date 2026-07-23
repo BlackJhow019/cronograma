@@ -75,7 +75,7 @@
     "idNumerico": "32",
     "nome": "Malvada's Farm",
     "status": "INDISPONIVEL",
-    "disponivelEm": "05:50|23/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-23T03:50:28.697Z"
   },
@@ -210,9 +210,9 @@
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",
     "nome": "Fazenda Rei Drogado",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:48|23/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-23T03:48:24.023Z"
   },
   "AMO A MAZZI": {

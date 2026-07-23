@@ -234,10 +234,10 @@
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:25|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T23:32:57.160Z"
+    "roubadaEm": "2026-07-23T05:25:23.182Z"
   },
   "CHAMA A POLICIA": {
     "idNumerico": "44",

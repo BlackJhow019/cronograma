@@ -172,7 +172,7 @@
     "nome": "FARM'S NAY E NICK",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:37|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T05:37:54.573Z"
   },
   "FARM DA THATY": {
@@ -226,10 +226,10 @@
   "YANINHA_ANTIFALSOS": {
     "idNumerico": "34",
     "nome": "yAninha_AntiFalsos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:52|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T16:22:01.752Z"
+    "roubadaEm": "2026-07-23T05:52:07.982Z"
   },
   "FRANCA": {
     "idNumerico": "28",

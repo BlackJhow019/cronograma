@@ -218,10 +218,10 @@
   "AMO A MAZZI": {
     "idNumerico": "6",
     "nome": "Amo a Mazzi",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:13|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T20:01:41.145Z"
+    "roubadaEm": "2026-07-23T14:13:55.397Z"
   },
   "YANINHA_ANTIFALSOS": {
     "idNumerico": "34",
@@ -300,7 +300,7 @@
     "nome": "~E V O M~",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:01|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T14:01:09.775Z"
   },
   "FAZENDA CUIUDA - BY GAZOLA": {
@@ -340,7 +340,7 @@
     "nome": "@filh_odopaii",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:06|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T14:06:00.736Z"
   },
   "FAZENDA DO MIRIM": {

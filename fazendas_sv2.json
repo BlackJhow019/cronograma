@@ -10,10 +10,10 @@
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:56|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T21:49:46.258Z"
+    "roubadaEm": "2026-07-23T02:56:45.106Z"
   },
   "AWAKE COMPANY": {
     "idNumerico": "13",
@@ -350,13 +350,5 @@
     "disponivelEm": "03:35|23/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-23T01:35:32.750Z"
-  },
-  "ZICO TREM BALA": {
-    "idNumerico": "42",
-    "nome": "ZICO TREM BALA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:54|22/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-22T21:54:38.240Z"
   }
 }

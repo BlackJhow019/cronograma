@@ -15,14 +15,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-23T03:58:49.557Z"
   },
-  "NIKE SHOX": {
-    "idNumerico": "42",
-    "nome": "NIKE SHOX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:56|23/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-23T01:56:11.096Z"
-  },
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
     "nome": "Rafha investimentos $",
@@ -218,9 +210,9 @@
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:54|23/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-23T01:54:47.752Z"
   },
   "POLEMICO$ INDUSTRI$": {

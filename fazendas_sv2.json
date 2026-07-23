@@ -346,9 +346,9 @@
   "ZICO TREM BALA": {
     "idNumerico": "42",
     "nome": "ZICO TREM BALA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:26|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T17:14:20.194Z"
+    "roubadaEm": "2026-07-23T22:26:09.702Z"
   }
 }

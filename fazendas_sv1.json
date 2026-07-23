@@ -274,10 +274,10 @@
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:09|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T09:59:55.036Z"
+    "roubadaEm": "2026-07-23T18:09:29.998Z"
   },
   "FAZENDA FELIZ": {
     "idNumerico": "22",
@@ -292,7 +292,7 @@
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:03|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T18:03:45.375Z"
   },
   "GRUPO NEXUS": {

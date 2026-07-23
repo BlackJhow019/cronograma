@@ -124,7 +124,7 @@
     "nome": "AzeRoX",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:09|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T15:09:31.405Z"
   },
   "FARM'S DE CAFE": {
@@ -258,10 +258,10 @@
   "JAH RASTAFARI": {
     "idNumerico": "39",
     "nome": "JAH RASTAFARI",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:17|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T20:33:38.002Z"
+    "roubadaEm": "2026-07-23T15:17:54.970Z"
   },
   ".": {
     "idNumerico": "31",

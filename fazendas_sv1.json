@@ -228,7 +228,7 @@
     "nome": "PoLeMiCo$ industri$",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:45|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T17:45:18.457Z"
   },
   "NOREX FARM'S": {
@@ -286,6 +286,14 @@
     "disponivelEm": "17:30|23/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-23T15:30:01.354Z"
+  },
+  "OS DE RACA": {
+    "idNumerico": "0",
+    "nome": "OS DE RACA",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-23T12:47:11.096Z"
   },
   "GRUPO NEXUS": {
     "idNumerico": "9",

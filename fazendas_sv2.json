@@ -36,7 +36,7 @@
     "nome": "Fazenda do Temor",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:40|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T12:40:39.860Z"
   },
   "LA FAMILIA CHIARADIA": {
@@ -234,10 +234,10 @@
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:15|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T05:25:36.959Z"
+    "roubadaEm": "2026-07-23T13:15:44.519Z"
   },
   "CHAMA A POLICIA": {
     "idNumerico": "44",

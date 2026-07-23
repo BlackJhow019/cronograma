@@ -36,7 +36,7 @@
     "nome": "THUG LIFE",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:57|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-22T23:57:51.262Z"
   },
   "SAO PEDRO 2": {
@@ -90,10 +90,10 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:15|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T10:53:33.716Z"
+    "roubadaEm": "2026-07-23T00:15:13.075Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
@@ -204,7 +204,7 @@
     "nome": "021",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:00|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T00:00:20.719Z"
   },
   "FAMILIA KUSH": {
@@ -276,7 +276,7 @@
     "nome": "30PRAUM",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:54|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-22T23:54:58.980Z"
   },
   "FAZENDA FELIZ": {

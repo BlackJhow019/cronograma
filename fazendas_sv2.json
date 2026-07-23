@@ -50,10 +50,10 @@
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
     "nome": "Farma Da Familia Elite",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:18|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T02:21:03.538Z"
+    "roubadaEm": "2026-07-23T23:18:26.901Z"
   },
   "TA NO GRALI": {
     "idNumerico": "4",
@@ -94,14 +94,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-23T14:32:20.817Z"
-  },
-  "FARMS DE GALOPISITAS": {
-    "idNumerico": "20",
-    "nome": "Farms de Galopisitas",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:18|23/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-23T18:18:08.408Z"
   },
   "CANNABIS": {
     "idNumerico": "8",
@@ -342,14 +334,6 @@
     "disponivelEm": "23:13|23/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-23T21:13:25.983Z"
-  },
-  "FAZENDA DO MIRIM": {
-    "idNumerico": "36",
-    "nome": "Fazenda Do MIRIM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:17|23/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-23T18:17:36.676Z"
   },
   "ZICO TREM BALA": {
     "idNumerico": "42",

@@ -2,10 +2,10 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:43|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T04:21:28.126Z"
+    "roubadaEm": "2026-07-23T12:43:56.347Z"
   },
   "KODIAK": {
     "idNumerico": "3",
@@ -212,7 +212,7 @@
     "nome": "Familia KuSh",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:42|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T12:42:37.623Z"
   },
   "FAZENDINHA DO IGEZE": {

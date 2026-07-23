@@ -66,8 +66,8 @@
   "B13 :)": {
     "idNumerico": "23",
     "nome": "B13 :)",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:28|23/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-23T02:28:02.830Z"
   },
@@ -130,9 +130,9 @@
   "ARIANA_B13": {
     "idNumerico": "10",
     "nome": "Ariana_B13",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:27|23/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-23T02:27:52.089Z"
   },
   "FARME DO DRAKE": {
@@ -182,6 +182,14 @@
     "disponivelEm": "08:35|23/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-23T06:35:50.181Z"
+  },
+  "FARM DO SAPATO": {
+    "idNumerico": "9",
+    "nome": "FARM DO SAPATO",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-23T02:25:21.403Z"
   },
   "AURA + EGO": {
     "idNumerico": "22",

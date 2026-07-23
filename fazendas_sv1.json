@@ -252,7 +252,7 @@
     "nome": "/caridade",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:21|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T10:21:25.369Z"
   },
   "JAH RASTAFARI": {
@@ -306,18 +306,10 @@
   "K1NG FARM'S": {
     "idNumerico": "25",
     "nome": "K1NG Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:29|23/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-23T05:29:34.400Z"
-  },
-  "PREFEITO ROADBLOCK": {
-    "idNumerico": "41",
-    "nome": "Prefeito Roadblock",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:31|23/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T05:31:31.592Z"
   },
   "FAZENDA DE COCA DO CARTEL DE MEDELLIN": {
     "idNumerico": "40",

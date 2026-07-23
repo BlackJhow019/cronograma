@@ -1,12 +1,4 @@
 {
-  "RICO LOUCO": {
-    "idNumerico": "11",
-    "nome": "rico louco",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:44|23/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-23T12:44:09.850Z"
-  },
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
@@ -207,14 +199,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-23T12:14:16.160Z"
   },
-  "FAMILIA KUSH": {
-    "idNumerico": "34",
-    "nome": "Familia KuSh",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:42|23/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-23T12:42:37.623Z"
-  },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
@@ -226,10 +210,10 @@
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:45|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T10:48:28.312Z"
+    "roubadaEm": "2026-07-23T17:45:04.312Z"
   },
   "NOREX FARM'S": {
     "idNumerico": "13",

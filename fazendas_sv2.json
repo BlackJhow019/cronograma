@@ -31,6 +31,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-23T01:38:04.102Z"
   },
+  "FAZENDA DO TEMOR": {
+    "idNumerico": "30",
+    "nome": "Fazenda do Temor",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-22T23:27:10.418Z"
+  },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
     "nome": "LA FAMILIA CHIARADIA",
@@ -50,10 +58,10 @@
   "TA NO GRALI": {
     "idNumerico": "4",
     "nome": "ta no grali",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:35|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T11:37:52.950Z"
+    "roubadaEm": "2026-07-23T04:35:57.019Z"
   },
   "B13 :)": {
     "idNumerico": "23",
@@ -100,7 +108,7 @@
     "nome": "CANNABIS",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:30|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T04:30:46.991Z"
   },
   "AMO O LOWER": {
@@ -140,7 +148,7 @@
     "nome": "Dead (:",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:30|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T04:30:16.561Z"
   },
   "DONA SEM RAZAO": {
@@ -191,6 +199,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-23T02:47:36.109Z"
   },
+  "SUCCUBUS FARMS": {
+    "idNumerico": "29",
+    "nome": "Succubus Farms",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-22T23:27:16.903Z"
+  },
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",
     "nome": "Fazenda Rei Drogado",
@@ -214,14 +230,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-21T16:22:01.752Z"
-  },
-  "FRANCA": {
-    "idNumerico": "28",
-    "nome": "FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:32|23/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-22T23:32:57.160Z"
   },
   "CHAMA A POLICIA": {
     "idNumerico": "44",

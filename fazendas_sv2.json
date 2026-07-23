@@ -44,7 +44,7 @@
     "nome": "LA FAMILIA CHIARADIA",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:49|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T20:49:44.148Z"
   },
   "FARMA DA FAMILIA ELITE": {
@@ -107,7 +107,7 @@
     "idNumerico": "8",
     "nome": "CANNABIS",
     "status": "INDISPONIVEL",
-    "disponivelEm": "17:50|23/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-23T15:50:23.133Z"
   },
@@ -258,10 +258,10 @@
   "FARM DO GALO": {
     "idNumerico": "40",
     "nome": "FARM DO GALO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:51|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T15:12:39.224Z"
+    "roubadaEm": "2026-07-23T20:51:12.519Z"
   },
   "GRUPO RANTER": {
     "idNumerico": "19",

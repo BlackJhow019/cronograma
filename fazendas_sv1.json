@@ -252,7 +252,7 @@
     "nome": "/caridade",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:43|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T00:43:57.612Z"
   },
   "JAH RASTAFARI": {
@@ -354,9 +354,9 @@
   "PEEEERFEITO": {
     "idNumerico": "12",
     "nome": "Peeeerfeito",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:54|22/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-22T19:54:51.080Z"
   }
 }

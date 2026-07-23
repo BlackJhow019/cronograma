@@ -31,14 +31,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-23T14:52:14.553Z"
   },
-  "FAZENDA DO TEMOR": {
-    "idNumerico": "30",
-    "nome": "Fazenda do Temor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:49|23/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T17:49:02.952Z"
-  },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
     "nome": "LA FAMILIA CHIARADIA",
@@ -114,8 +106,8 @@
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:45|23/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-23T17:45:50.875Z"
   },
@@ -140,7 +132,7 @@
     "nome": "Farme do Drake",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:42|24/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T22:42:52.127Z"
   },
   "DEAD (:": {
@@ -186,8 +178,8 @@
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:43|23/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-23T17:43:33.474Z"
   },

@@ -146,7 +146,7 @@
   "DEAD (:": {
     "idNumerico": "27",
     "nome": "Dead (:",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-22T22:11:23.331Z"
@@ -356,7 +356,7 @@
     "nome": "ZICO TREM BALA",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:11|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T03:11:55.516Z"
   }
 }

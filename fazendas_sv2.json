@@ -180,7 +180,7 @@
     "nome": "Farm da Thaty",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:10|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T18:10:37.254Z"
   },
   "FARM DO SAPATO": {
@@ -230,14 +230,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-23T05:52:38.706Z"
-  },
-  "FRANCA": {
-    "idNumerico": "28",
-    "nome": "FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:15|23/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T13:15:57.568Z"
   },
   "CHAMA A POLICIA": {
     "idNumerico": "44",
@@ -346,10 +338,10 @@
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:17|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T11:26:55.038Z"
+    "roubadaEm": "2026-07-23T18:17:20.924Z"
   },
   "ZICO TREM BALA": {
     "idNumerico": "42",

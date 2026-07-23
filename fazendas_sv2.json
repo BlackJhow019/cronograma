@@ -231,6 +231,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-23T05:52:38.706Z"
   },
+  "FRANCA": {
+    "idNumerico": "28",
+    "nome": "FRANCA",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-23T13:15:57.568Z"
+  },
   "CHAMA A POLICIA": {
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
@@ -340,7 +348,7 @@
     "nome": "Fazenda Do MIRIM",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:17|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T18:17:36.676Z"
   },
   "ZICO TREM BALA": {

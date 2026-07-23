@@ -154,10 +154,10 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:54|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T22:06:23.881Z"
+    "roubadaEm": "2026-07-23T04:54:18.257Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",

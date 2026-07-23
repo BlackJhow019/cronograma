@@ -279,14 +279,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-21T23:01:01.863Z"
   },
-  "/VENDERPRODUTOS": {
-    "idNumerico": "7",
-    "nome": "/VENDERPRODUTOS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:33|22/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-22T20:33:43.206Z"
-  },
   "WELCOME > MELHOR FAZENDA DO BPS": {
     "idNumerico": "37",
     "nome": "WELCOME > MELHOR FAZENDA DO BPS",
@@ -346,10 +338,10 @@
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:35|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T20:14:37.852Z"
+    "roubadaEm": "2026-07-23T01:35:20.508Z"
   },
   "ZICO TREM BALA": {
     "idNumerico": "42",

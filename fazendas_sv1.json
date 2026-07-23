@@ -274,10 +274,10 @@
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:59|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T23:54:58.980Z"
+    "roubadaEm": "2026-07-23T09:59:55.036Z"
   },
   "FAZENDA FELIZ": {
     "idNumerico": "22",

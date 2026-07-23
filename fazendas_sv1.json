@@ -95,14 +95,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-23T15:59:17.392Z"
   },
-  "FAZENDA DA MILLY": {
-    "idNumerico": "19",
-    "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:22|23/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T14:22:22.533Z"
-  },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
@@ -234,9 +226,9 @@
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:19|23/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-23T14:19:58.834Z"
   },
   "RICK FARM'S": {

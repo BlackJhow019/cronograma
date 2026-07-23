@@ -76,7 +76,7 @@
     "nome": "Malvada's Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:50|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T03:50:28.697Z"
   },
   "YELLOWSTONE - BY MONSTER": {
@@ -138,10 +138,10 @@
   "FARME DO DRAKE": {
     "idNumerico": "35",
     "nome": "Farme do Drake",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:54|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T22:25:27.755Z"
+    "roubadaEm": "2026-07-23T03:54:20.446Z"
   },
   "DEAD (:": {
     "idNumerico": "27",

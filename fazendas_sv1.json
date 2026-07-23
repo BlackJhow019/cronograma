@@ -354,9 +354,9 @@
   "PEEEERFEITO": {
     "idNumerico": "12",
     "nome": "Peeeerfeito",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:31|23/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-23T02:31:17.087Z"
   }
 }

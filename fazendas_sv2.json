@@ -60,7 +60,7 @@
     "nome": "ta no grali",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:27|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T17:27:27.508Z"
   },
   "B13 :)": {
@@ -194,8 +194,8 @@
   "AURA + EGO": {
     "idNumerico": "22",
     "nome": "Aura + Ego",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:30|23/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-23T12:30:10.855Z"
   },

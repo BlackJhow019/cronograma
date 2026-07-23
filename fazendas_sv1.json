@@ -2,10 +2,10 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:21|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T23:00:08.623Z"
+    "roubadaEm": "2026-07-23T04:21:10.593Z"
   },
   "KODIAK": {
     "idNumerico": "3",
@@ -348,7 +348,7 @@
     "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:17|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T04:17:07.744Z"
   },
   "PEEEERFEITO": {

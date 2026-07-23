@@ -250,17 +250,17 @@
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",
     "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:19|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T19:04:14.488Z"
+    "roubadaEm": "2026-07-23T15:19:59.887Z"
   },
   "FARM DO GALO": {
     "idNumerico": "40",
     "nome": "FARM DO GALO",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:12|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T15:12:39.224Z"
   },
   "GRUPO RANTER": {

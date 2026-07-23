@@ -34,10 +34,10 @@
   "THUG LIFE": {
     "idNumerico": "21",
     "nome": "THUG LIFE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:57|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T23:57:51.262Z"
+    "roubadaEm": "2026-07-23T13:57:07.922Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -220,7 +220,7 @@
     "nome": "fazendinha do igeze",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:48|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T13:48:36.682Z"
   },
   "POLEMICO$ INDUSTRI$": {

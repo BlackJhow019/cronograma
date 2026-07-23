@@ -119,14 +119,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-23T14:30:18.721Z"
   },
-  "AZEROX": {
-    "idNumerico": "23",
-    "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:09|23/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-23T15:09:31.405Z"
-  },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
@@ -154,10 +146,10 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:11|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T13:41:40.828Z"
+    "roubadaEm": "2026-07-23T20:11:21.202Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",

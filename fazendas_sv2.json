@@ -178,10 +178,10 @@
   "FARM DA THATY": {
     "idNumerico": "1",
     "nome": "Farm da Thaty",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:35|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T01:04:39.364Z"
+    "roubadaEm": "2026-07-23T06:35:35.715Z"
   },
   "FARM DO SAPATO": {
     "idNumerico": "9",
@@ -347,7 +347,7 @@
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
     "status": "INDISPONIVEL",
-    "disponivelEm": "03:35|23/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-23T01:35:32.750Z"
   },

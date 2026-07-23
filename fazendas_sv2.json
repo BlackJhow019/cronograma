@@ -74,10 +74,10 @@
   "MALVADA'S FARM": {
     "idNumerico": "32",
     "nome": "Malvada's Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:50|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T16:46:58.232Z"
+    "roubadaEm": "2026-07-23T03:50:03.157Z"
   },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
@@ -212,7 +212,7 @@
     "nome": "Fazenda Rei Drogado",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:48|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T03:48:24.023Z"
   },
   "AMO A MAZZI": {

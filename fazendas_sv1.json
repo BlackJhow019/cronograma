@@ -83,7 +83,7 @@
     "idNumerico": "24",
     "nome": "VENDO 500km ACEITO TROCAS",
     "status": "INDISPONIVEL",
-    "disponivelEm": "17:23|23/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-23T15:23:48.901Z"
   },
@@ -182,6 +182,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-14T03:06:03.754Z"
+  },
+  "GRANJA DO IMONKEY": {
+    "idNumerico": "29",
+    "nome": "Granja do iMonKeY",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-23T15:20:09.686Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",

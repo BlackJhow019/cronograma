@@ -19,7 +19,7 @@
     "idNumerico": "42",
     "nome": "NIKE SHOX",
     "status": "INDISPONIVEL",
-    "disponivelEm": "22:53|22/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-22T20:53:16.427Z"
   },
@@ -188,7 +188,7 @@
     "nome": "Granja do iMonKeY",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:43|23/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-23T01:43:46.718Z"
   },
   "YT @GANDIA_RP": {
@@ -218,10 +218,10 @@
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:54|23/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T12:02:14.182Z"
+    "roubadaEm": "2026-07-23T01:54:09.587Z"
   },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",

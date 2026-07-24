@@ -84,7 +84,7 @@
     "nome": "VENDO 500km ACEITO TROCAS",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:29|24/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-24T15:29:12.808Z"
   },
   "CLUBE DA LULUZINHA": {
@@ -346,10 +346,10 @@
   "..OURO..PR3TO..": {
     "idNumerico": "5",
     "nome": "..OURO..PR3TO..",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:00|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T04:37:46.942Z"
+    "roubadaEm": "2026-07-24T17:00:48.124Z"
   },
   "PEEEERFEITO": {
     "idNumerico": "12",

@@ -66,10 +66,10 @@
   "B13 :)": {
     "idNumerico": "23",
     "nome": "B13 :)",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:34|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T14:55:24.389Z"
+    "roubadaEm": "2026-07-24T21:34:39.458Z"
   },
   "MALVADA'S FARM": {
     "idNumerico": "32",
@@ -252,7 +252,7 @@
     "nome": "$ Company $r.RC_PlinioDmG $",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:30|24/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-24T21:30:10.905Z"
   },
   "FARM DO GALO": {

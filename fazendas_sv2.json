@@ -106,8 +106,8 @@
   "CANNABIS": {
     "idNumerico": "8",
     "nome": "CANNABIS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:10|24/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-24T15:10:30.447Z"
   },
@@ -350,13 +350,5 @@
     "disponivelEm": "19:03|24/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-24T17:03:26.552Z"
-  },
-  "ZICO TREM BALA": {
-    "idNumerico": "42",
-    "nome": "ZICO TREM BALA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:11|24/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-24T15:11:46.547Z"
   }
 }

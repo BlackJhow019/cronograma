@@ -266,10 +266,10 @@
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:56|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T18:09:51.464Z"
+    "roubadaEm": "2026-07-24T06:56:35.435Z"
   },
   "FAZENDA FELIZ": {
     "idNumerico": "22",
@@ -302,14 +302,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-23T05:29:34.400Z"
-  },
-  "PREFEITO ROADBLOCK": {
-    "idNumerico": "41",
-    "nome": "Prefeito Roadblock",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:54|24/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T01:54:39.684Z"
   },
   "ROUBO OFF": {
     "idNumerico": "7",

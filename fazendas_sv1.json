@@ -155,7 +155,7 @@
     "idNumerico": "6",
     "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
-    "disponivelEm": "18:30|24/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-24T16:30:02.552Z"
   },
@@ -234,10 +234,10 @@
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:30|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T15:39:11.551Z"
+    "roubadaEm": "2026-07-24T21:30:35.383Z"
   },
   "RICK FARM'S": {
     "idNumerico": "30",

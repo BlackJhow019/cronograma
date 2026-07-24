@@ -4,7 +4,7 @@
     "nome": "rico louco",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:43|24/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-24T00:43:20.584Z"
   },
   "KODIAK": {
@@ -98,10 +98,10 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:03|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T19:30:33.558Z"
+    "roubadaEm": "2026-07-24T01:03:00.819Z"
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",

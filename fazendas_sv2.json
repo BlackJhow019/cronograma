@@ -51,7 +51,7 @@
     "idNumerico": "33",
     "nome": "Farma Da Familia Elite",
     "status": "INDISPONIVEL",
-    "disponivelEm": "07:15|24/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-24T05:15:47.880Z"
   },
@@ -122,10 +122,10 @@
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:15|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T03:40:09.699Z"
+    "roubadaEm": "2026-07-24T10:16:16.886Z"
   },
   "ARIANA_B13": {
     "idNumerico": "10",
@@ -356,7 +356,7 @@
     "nome": "ZICO TREM BALA",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:02|24/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-24T10:02:45.297Z"
   }
 }

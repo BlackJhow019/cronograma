@@ -124,7 +124,7 @@
     "nome": "SE ROUBAR MORRE",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:43|24/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-24T21:43:54.897Z"
   },
   "ARIANA_B13": {
@@ -188,7 +188,7 @@
     "nome": "FARM DO SAPATO",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:46|24/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-24T21:46:16.356Z"
   },
   "AURA + EGO": {
@@ -274,10 +274,10 @@
   "ROLINHA CANSADA FARMS": {
     "idNumerico": "14",
     "nome": "Rolinha Cansada Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:51|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-21T23:01:01.863Z"
+    "roubadaEm": "2026-07-24T21:51:41.755Z"
   },
   "/VENDERPRODUTOS": {
     "idNumerico": "7",

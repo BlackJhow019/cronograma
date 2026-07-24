@@ -34,10 +34,10 @@
   "THUG LIFE": {
     "idNumerico": "21",
     "nome": "THUG LIFE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:14|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T20:20:50.640Z"
+    "roubadaEm": "2026-07-24T04:14:01.029Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -110,14 +110,6 @@
     "disponivelEm": "02:34|24/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-24T00:34:47.618Z"
-  },
-  "MONOPOLIO FARMS": {
-    "idNumerico": "20",
-    "nome": "Monopolio Farms",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:09|24/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-23T23:09:58.656Z"
   },
   "AZEROX": {
     "idNumerico": "23",
@@ -204,7 +196,7 @@
     "nome": "021",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:09|24/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-24T04:09:11.634Z"
   },
   "FAMILIA KUSH": {

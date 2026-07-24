@@ -63,14 +63,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-24T17:26:38.638Z"
   },
-  "B13 :)": {
-    "idNumerico": "23",
-    "nome": "B13 :)",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:55|24/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-24T14:55:24.389Z"
-  },
   "MALVADA'S FARM": {
     "idNumerico": "32",
     "nome": "Malvada's Farm",
@@ -114,10 +106,10 @@
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:00|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T14:10:49.483Z"
+    "roubadaEm": "2026-07-24T20:00:55.689Z"
   },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
@@ -230,14 +222,6 @@
     "disponivelEm": "18:07|24/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-24T16:07:01.451Z"
-  },
-  "FRANCA": {
-    "idNumerico": "28",
-    "nome": "FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:55|24/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T14:55:20.361Z"
   },
   "CHAMA A POLICIA": {
     "idNumerico": "44",

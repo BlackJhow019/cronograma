@@ -100,7 +100,7 @@
     "nome": "Farms de Galopisitas",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:49|24/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-24T18:49:08.608Z"
   },
   "CANNABIS": {
@@ -330,10 +330,10 @@
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",
     "nome": "Fazendinha BeTreZe 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:53|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T21:43:53.060Z"
+    "roubadaEm": "2026-07-24T18:53:01.120Z"
   },
   "@FILH_ODOPAII": {
     "idNumerico": "12",

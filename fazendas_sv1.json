@@ -98,9 +98,9 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:46|24/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-24T14:46:26.581Z"
   },
   "HWD INVESTIMENTOS": {
@@ -274,9 +274,9 @@
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-24T14:43:58.878Z"
   },
   "OS DE RACA": {

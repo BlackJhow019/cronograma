@@ -50,10 +50,10 @@
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
     "nome": "Farma Da Familia Elite",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:32|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T05:15:47.880Z"
+    "roubadaEm": "2026-07-24T18:32:41.315Z"
   },
   "TA NO GRALI": {
     "idNumerico": "4",
@@ -212,7 +212,7 @@
     "nome": "Fazenda Rei Drogado",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:01|24/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-24T18:01:34.058Z"
   },
   "AMO A MAZZI": {

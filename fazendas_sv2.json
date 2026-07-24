@@ -18,10 +18,10 @@
   "AWAKE COMPANY": {
     "idNumerico": "13",
     "nome": "AwaKe Company",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:13|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T06:52:13.378Z"
+    "roubadaEm": "2026-07-24T17:13:49.872Z"
   },
   "ROCK FARM": {
     "idNumerico": "11",
@@ -180,7 +180,7 @@
     "nome": "Farm da Thaty",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:10|24/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-24T17:10:33.190Z"
   },
   "FARM DO SAPATO": {

@@ -28,7 +28,7 @@
     "nome": "RocK Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:52|24/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-24T17:52:21.560Z"
   },
   "FAZENDA DO TEMOR": {
@@ -210,10 +210,10 @@
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",
     "nome": "Fazenda Rei Drogado",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:01|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T03:27:15.814Z"
+    "roubadaEm": "2026-07-24T18:01:19.543Z"
   },
   "AMO A MAZZI": {
     "idNumerico": "6",

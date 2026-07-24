@@ -122,9 +122,9 @@
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:16|24/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-24T10:16:29.373Z"
   },
   "ARIANA_B13": {
@@ -356,7 +356,7 @@
     "nome": "ZICO TREM BALA",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:11|24/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-24T15:11:46.547Z"
   }
 }

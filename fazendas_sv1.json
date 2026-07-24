@@ -4,7 +4,7 @@
     "nome": "rico louco",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:05|24/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-24T12:05:32.662Z"
   },
   "KODIAK": {
@@ -322,10 +322,10 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:08|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T06:44:16.867Z"
+    "roubadaEm": "2026-07-24T12:08:04.825Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",

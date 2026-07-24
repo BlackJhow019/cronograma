@@ -154,10 +154,10 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:21|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T04:34:13.809Z"
+    "roubadaEm": "2026-07-24T10:21:08.852Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
@@ -236,7 +236,7 @@
     "nome": "Norex farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:04|24/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-24T10:04:28.805Z"
   },
   "RICK FARM'S": {

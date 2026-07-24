@@ -44,7 +44,7 @@
     "nome": "LA FAMILIA CHIARADIA",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:00|24/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-24T03:00:32.787Z"
   },
   "FARMA DA FAMILIA ELITE": {
@@ -127,14 +127,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-23T21:03:55.357Z"
   },
-  "ARIANA_B13": {
-    "idNumerico": "10",
-    "nome": "Ariana_B13",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:25|24/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T22:25:43.198Z"
-  },
   "FARME DO DRAKE": {
     "idNumerico": "35",
     "nome": "Farme do Drake",
@@ -210,10 +202,10 @@
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",
     "nome": "Fazenda Rei Drogado",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:27|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T18:59:37.976Z"
+    "roubadaEm": "2026-07-24T03:27:15.814Z"
   },
   "AMO A MAZZI": {
     "idNumerico": "6",
@@ -355,7 +347,7 @@
     "idNumerico": "42",
     "nome": "ZICO TREM BALA",
     "status": "INDISPONIVEL",
-    "disponivelEm": "00:27|24/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-23T22:27:04.005Z"
   }

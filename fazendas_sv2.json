@@ -58,10 +58,10 @@
   "TA NO GRALI": {
     "idNumerico": "4",
     "nome": "ta no grali",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:03|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T00:19:19.011Z"
+    "roubadaEm": "2026-07-24T11:03:24.533Z"
   },
   "B13 :)": {
     "idNumerico": "23",
@@ -107,7 +107,7 @@
     "idNumerico": "8",
     "nome": "CANNABIS",
     "status": "INDISPONIVEL",
-    "disponivelEm": "08:03|24/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-24T06:03:17.694Z"
   },

@@ -4,7 +4,7 @@
     "nome": "999",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:26|24/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-24T16:26:01.765Z"
   },
   "JESUS EA SOLUCAO": {
@@ -186,8 +186,8 @@
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:30|24/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-24T11:30:06.118Z"
   },

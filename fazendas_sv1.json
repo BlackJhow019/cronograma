@@ -1,12 +1,4 @@
 {
-  "RICO LOUCO": {
-    "idNumerico": "11",
-    "nome": "rico louco",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:10|24/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-24T17:10:27.270Z"
-  },
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
@@ -186,10 +178,10 @@
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:11|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T14:07:47.771Z"
+    "roubadaEm": "2026-07-24T22:11:26.946Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
@@ -228,7 +220,7 @@
     "nome": "PoLeMiCo$ industri$",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:04|25/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-24T22:04:01.182Z"
   },
   "NOREX FARM'S": {

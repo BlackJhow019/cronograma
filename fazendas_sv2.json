@@ -71,14 +71,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-24T14:55:24.389Z"
   },
-  "MALVADA'S FARM": {
-    "idNumerico": "32",
-    "nome": "Malvada's Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:55|24/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-24T10:55:01.161Z"
-  },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
     "nome": "YellowStone - By Monster",
@@ -122,10 +114,10 @@
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:56|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T10:16:29.373Z"
+    "roubadaEm": "2026-07-24T15:56:57.324Z"
   },
   "ARIANA_B13": {
     "idNumerico": "10",
@@ -316,7 +308,7 @@
     "nome": "RAMONZIN_FRANCA",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:44|24/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-24T15:44:10.815Z"
   },
   "QG FARM KHAOS": {

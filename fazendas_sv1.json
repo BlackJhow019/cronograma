@@ -255,6 +255,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-24T13:47:35.528Z"
   },
+  ".": {
+    "idNumerico": "31",
+    "nome": ".",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-24T09:01:11.336Z"
+  },
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
@@ -276,7 +284,7 @@
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:01|24/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-24T14:01:49.811Z"
   },
   "GRUPO NEXUS": {

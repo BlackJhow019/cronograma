@@ -10,10 +10,10 @@
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:28|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T01:34:29.468Z"
+    "roubadaEm": "2026-07-24T15:28:21.776Z"
   },
   "AWAKE COMPANY": {
     "idNumerico": "13",
@@ -84,7 +84,7 @@
     "nome": "YellowStone - By Monster",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:21|24/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-24T15:21:20.516Z"
   },
   "VALE DAS SOMBRAS": {

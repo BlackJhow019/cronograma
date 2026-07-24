@@ -343,14 +343,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-24T01:15:01.750Z"
   },
-  "PEEEERFEITO": {
-    "idNumerico": "12",
-    "nome": "Peeeerfeito",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T03:25:56.433Z"
-  },
   "..OURO..PR3TO..": {
     "idNumerico": "5",
     "nome": "..OURO..PR3TO..",
@@ -358,5 +350,13 @@
     "disponivelEm": "06:37|24/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-24T04:37:46.942Z"
+  },
+  "PEEEERFEITO!": {
+    "idNumerico": "12",
+    "nome": "Peeeerfeito!",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:33|24/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-24T08:33:40.681Z"
   }
 }

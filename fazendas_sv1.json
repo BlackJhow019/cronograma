@@ -202,8 +202,8 @@
   "021": {
     "idNumerico": "1",
     "nome": "021",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:00|24/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-23T23:00:16.098Z"
   },
@@ -255,14 +255,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-23T15:45:25.829Z"
   },
-  "JAH RASTAFARI": {
-    "idNumerico": "39",
-    "nome": "JAH RASTAFARI",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:01|24/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T23:01:59.990Z"
-  },
   ".": {
     "idNumerico": "31",
     "nome": ".",
@@ -278,14 +270,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-23T18:09:51.464Z"
-  },
-  "FAZENDA FELIZ": {
-    "idNumerico": "22",
-    "nome": "fazenda feliz",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:02|24/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T23:02:56.294Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",

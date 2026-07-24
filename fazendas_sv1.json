@@ -290,10 +290,10 @@
   "GRUPO NEXUS": {
     "idNumerico": "9",
     "nome": "GRUPO NEXUS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:00|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T12:54:46.398Z"
+    "roubadaEm": "2026-07-24T19:00:17.436Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",
@@ -324,7 +324,7 @@
     "nome": "Rancho do Doutor",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:57|24/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-24T18:57:52.988Z"
   },
   "WORK INDUSTRIA'S LIMITED": {

@@ -28,7 +28,7 @@
     "nome": "Rafha investimentos $",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:18|24/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-24T14:18:33.559Z"
   },
   "THUG LIFE": {
@@ -314,10 +314,10 @@
   "ROUBO OFF": {
     "idNumerico": "7",
     "nome": "roubo off",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:32|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T21:52:53.974Z"
+    "roubadaEm": "2026-07-24T14:32:16.740Z"
   },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",

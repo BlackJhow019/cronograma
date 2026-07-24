@@ -90,8 +90,8 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:06|23/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-23T21:06:25.912Z"
   },
@@ -188,7 +188,7 @@
     "nome": "Granja do iMonKeY",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:02|24/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-24T02:02:14.761Z"
   },
   "YT @GANDIA_RP": {

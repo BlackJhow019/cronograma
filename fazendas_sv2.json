@@ -23,14 +23,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-24T22:40:43.642Z"
   },
-  "ROCK FARM": {
-    "idNumerico": "11",
-    "nome": "RocK Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:52|24/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-24T17:52:21.560Z"
-  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -178,10 +170,10 @@
   "FARM DA THATY": {
     "idNumerico": "1",
     "nome": "Farm da Thaty",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:53|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T17:10:33.190Z"
+    "roubadaEm": "2026-07-24T22:53:13.726Z"
   },
   "FARM DO SAPATO": {
     "idNumerico": "9",

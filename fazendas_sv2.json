@@ -36,7 +36,7 @@
     "nome": "Fazenda do Temor",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:56|24/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-24T13:56:32.629Z"
   },
   "LA FAMILIA CHIARADIA": {
@@ -114,10 +114,10 @@
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:10|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T06:11:01.671Z"
+    "roubadaEm": "2026-07-24T14:10:34.588Z"
   },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",

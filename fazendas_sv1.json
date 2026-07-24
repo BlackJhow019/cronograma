@@ -90,10 +90,10 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:54|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T15:57:08.695Z"
+    "roubadaEm": "2026-07-24T21:54:37.678Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
@@ -276,7 +276,7 @@
     "nome": "fazenda feliz",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:34|24/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-24T21:34:33.464Z"
   },
   "OS DE RACA": {

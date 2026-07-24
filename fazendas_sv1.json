@@ -52,7 +52,7 @@
     "nome": "Lek0zika",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:39|24/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-24T20:39:40.937Z"
   },
   "BORRACHAS FARM": {
@@ -234,7 +234,7 @@
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-24T15:39:11.551Z"

@@ -84,7 +84,7 @@
     "nome": "YellowStone - By Monster",
     "status": "INDISPONIVEL",
     "disponivelEm": "09:20|24/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-24T07:20:37.861Z"
   },
   "VALE DAS SOMBRAS": {
@@ -162,10 +162,10 @@
   "FAZENDA DO GALIN": {
     "idNumerico": "15",
     "nome": "Fazenda do Galin",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:45|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T20:39:50.277Z"
+    "roubadaEm": "2026-07-24T07:45:46.349Z"
   },
   "FARM'S NAY E NICK": {
     "idNumerico": "5",

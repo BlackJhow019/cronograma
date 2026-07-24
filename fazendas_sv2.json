@@ -346,10 +346,10 @@
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:10|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T17:03:26.552Z"
+    "roubadaEm": "2026-07-24T22:10:29.999Z"
   },
   "ZICO TREM BALA": {
     "idNumerico": "42",

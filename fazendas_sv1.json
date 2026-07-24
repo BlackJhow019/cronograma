@@ -36,7 +36,7 @@
     "nome": "THUG LIFE",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:28|24/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-24T15:28:27.372Z"
   },
   "SAO PEDRO 2": {
@@ -50,10 +50,10 @@
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:32|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T09:57:22.530Z"
+    "roubadaEm": "2026-07-24T15:32:10.992Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -166,14 +166,6 @@
     "disponivelEm": "13:40|24/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-24T11:40:20.871Z"
-  },
-  "QUEM ROUBAR E PETISTA": {
-    "idNumerico": "44",
-    "nome": "Quem Roubar e Petista",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:29|24/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-24T10:29:46.964Z"
   },
   "VC É A PIADA AQUI": {
     "idNumerico": "10",

@@ -18,16 +18,16 @@
   "AWAKE COMPANY": {
     "idNumerico": "13",
     "nome": "AwaKe Company",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:37|24/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-24T00:37:48.256Z"
   },
   "ROCK FARM": {
     "idNumerico": "11",
     "nome": "RocK Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:38|24/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-24T00:38:14.254Z"
   },
@@ -310,14 +310,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-23T21:22:31.949Z"
-  },
-  "RAMONZIN_FRANCA": {
-    "idNumerico": "21",
-    "nome": "RAMONZIN_FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:40|24/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T00:40:37.012Z"
   },
   "QG FARM KHAOS": {
     "idNumerico": "18",

@@ -76,7 +76,7 @@
     "nome": "Malvada's Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:28|24/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-24T17:28:20.603Z"
   },
   "YELLOWSTONE - BY MONSTER": {
@@ -90,10 +90,10 @@
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
     "nome": "Vale das Sombras",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:38|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T00:09:50.381Z"
+    "roubadaEm": "2026-07-24T17:38:56.161Z"
   },
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",

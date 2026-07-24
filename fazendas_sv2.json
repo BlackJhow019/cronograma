@@ -12,7 +12,7 @@
     "nome": "JESUS EA SOLUCAO",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:28|24/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-24T15:28:40.180Z"
   },
   "AWAKE COMPANY": {
@@ -138,10 +138,10 @@
   "FARME DO DRAKE": {
     "idNumerico": "35",
     "nome": "Farme do Drake",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:37|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T05:18:30.117Z"
+    "roubadaEm": "2026-07-24T15:37:09.954Z"
   },
   "DEAD (:": {
     "idNumerico": "27",

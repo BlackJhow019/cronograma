@@ -36,7 +36,7 @@
     "nome": "THUG LIFE",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:14|24/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-24T04:14:12.937Z"
   },
   "SAO PEDRO 2": {
@@ -234,10 +234,10 @@
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:32|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T14:19:58.834Z"
+    "roubadaEm": "2026-07-24T04:32:00.006Z"
   },
   "RICK FARM'S": {
     "idNumerico": "30",

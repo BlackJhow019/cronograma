@@ -66,9 +66,9 @@
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
     "nome": "Wesker_u$MeTraLha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:38|24/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-24T14:38:47.313Z"
   },
   "< GAUBRE LTDA >": {
@@ -275,7 +275,7 @@
     "idNumerico": "22",
     "nome": "fazenda feliz",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:43|24/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-24T14:43:58.878Z"
   },

@@ -146,10 +146,10 @@
   "DEAD (:": {
     "idNumerico": "27",
     "nome": "Dead (:",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:14|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T12:06:54.124Z"
+    "roubadaEm": "2026-07-24T17:14:04.644Z"
   },
   "DONA SEM RAZAO": {
     "idNumerico": "26",

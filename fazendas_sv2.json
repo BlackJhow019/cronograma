@@ -132,7 +132,7 @@
     "nome": "Ariana_B13",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:29|24/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-24T19:29:15.547Z"
   },
   "FARME DO DRAKE": {
@@ -170,10 +170,10 @@
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:40|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T13:34:21.307Z"
+    "roubadaEm": "2026-07-24T19:40:42.340Z"
   },
   "FARM DA THATY": {
     "idNumerico": "1",

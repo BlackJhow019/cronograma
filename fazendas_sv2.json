@@ -103,14 +103,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-23T18:18:08.408Z"
   },
-  "CANNABIS": {
-    "idNumerico": "8",
-    "nome": "CANNABIS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:28|24/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-23T22:28:21.256Z"
-  },
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
@@ -204,7 +196,7 @@
     "nome": "Fazenda Rei Drogado",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:27|24/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-24T03:27:15.814Z"
   },
   "AMO A MAZZI": {
@@ -347,8 +339,8 @@
     "idNumerico": "42",
     "nome": "ZICO TREM BALA",
     "status": "INDISPONIVEL",
-    "disponivelEm": null,
+    "disponivelEm": "05:29|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T22:27:04.005Z"
+    "roubadaEm": "2026-07-24T03:29:45.544Z"
   }
 }

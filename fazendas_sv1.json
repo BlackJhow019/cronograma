@@ -60,7 +60,7 @@
     "nome": "Borrachas Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:25|24/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-24T13:25:58.630Z"
   },
   "WESKER_U$METRALHA": {
@@ -306,8 +306,8 @@
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:32|24/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-24T08:32:06.692Z"
   },
@@ -350,13 +350,5 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-24T04:37:46.942Z"
-  },
-  "PEEEERFEITO": {
-    "idNumerico": "12",
-    "nome": "Peeeerfeito",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:34|24/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T08:34:57.630Z"
   }
 }

@@ -178,10 +178,10 @@
   "FARM DA THATY": {
     "idNumerico": "1",
     "nome": "Farm da Thaty",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:40|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T05:45:28.798Z"
+    "roubadaEm": "2026-07-24T11:40:30.601Z"
   },
   "FARM DO SAPATO": {
     "idNumerico": "9",

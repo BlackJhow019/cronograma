@@ -196,7 +196,7 @@
     "nome": "YT @GANDIA_RP",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:13|24/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-24T03:13:23.554Z"
   },
   "021": {
@@ -218,10 +218,10 @@
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:24|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T20:55:31.742Z"
+    "roubadaEm": "2026-07-24T03:24:48.742Z"
   },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",

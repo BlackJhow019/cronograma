@@ -199,14 +199,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-24T12:02:13.937Z"
   },
-  "021": {
-    "idNumerico": "1",
-    "nome": "021",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:41|24/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T09:41:52.103Z"
-  },
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
@@ -274,10 +266,10 @@
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:43|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T07:49:02.324Z"
+    "roubadaEm": "2026-07-24T14:43:44.407Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",

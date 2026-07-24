@@ -18,10 +18,10 @@
   "AWAKE COMPANY": {
     "idNumerico": "13",
     "nome": "AwaKe Company",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:40|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T17:14:05.242Z"
+    "roubadaEm": "2026-07-24T22:40:27.945Z"
   },
   "ROCK FARM": {
     "idNumerico": "11",
@@ -86,14 +86,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-24T15:21:20.516Z"
-  },
-  "VALE DAS SOMBRAS": {
-    "idNumerico": "24",
-    "nome": "Vale das Sombras",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:39|24/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-24T17:39:32.796Z"
   },
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",

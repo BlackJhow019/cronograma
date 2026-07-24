@@ -74,9 +74,9 @@
   "MALVADA'S FARM": {
     "idNumerico": "32",
     "nome": "Malvada's Farm",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-24T01:36:44.183Z"
   },
   "YELLOWSTONE - BY MONSTER": {
@@ -268,7 +268,7 @@
     "nome": "GRUPO RANTER",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:37|24/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-24T06:37:35.764Z"
   },
   "ROLINHA CANSADA FARMS": {

@@ -247,14 +247,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-23T19:33:00.685Z"
   },
-  "/CARIDADE": {
-    "idNumerico": "5",
-    "nome": "/caridade",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T15:45:25.829Z"
-  },
   "JAH RASTAFARI": {
     "idNumerico": "39",
     "nome": "JAH RASTAFARI",
@@ -358,5 +350,13 @@
     "disponivelEm": "05:25|24/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-24T03:25:56.433Z"
+  },
+  "..OURO..PR3TO..": {
+    "idNumerico": "5",
+    "nome": "..OURO..PR3TO..",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:37|24/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-24T04:37:46.942Z"
   }
 }

@@ -138,10 +138,10 @@
   "FARME DO DRAKE": {
     "idNumerico": "35",
     "nome": "Farme do Drake",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:57|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T15:37:22.995Z"
+    "roubadaEm": "2026-07-24T21:57:53.357Z"
   },
   "DEAD (:": {
     "idNumerico": "27",
@@ -255,14 +255,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-24T21:30:10.905Z"
   },
-  "FARM DO GALO": {
-    "idNumerico": "40",
-    "nome": "FARM DO GALO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:55|24/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T16:55:44.520Z"
-  },
   "GRUPO RANTER": {
     "idNumerico": "19",
     "nome": "GRUPO RANTER",
@@ -276,7 +268,7 @@
     "nome": "Rolinha Cansada Farms",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:51|24/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-24T21:51:57.149Z"
   },
   "/VENDERPRODUTOS": {
@@ -334,14 +326,6 @@
     "disponivelEm": "20:53|24/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-24T18:53:28.135Z"
-  },
-  "@FILH_ODOPAII": {
-    "idNumerico": "12",
-    "nome": "@filh_odopaii",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:57|24/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T16:57:27.858Z"
   },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",

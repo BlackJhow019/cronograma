@@ -154,10 +154,10 @@
   "DONA SEM RAZAO": {
     "idNumerico": "26",
     "nome": "Dona sem razao",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:30|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T14:58:19.181Z"
+    "roubadaEm": "2026-07-24T08:30:11.801Z"
   },
   "FAZENDA DO GALIN": {
     "idNumerico": "15",
@@ -355,7 +355,7 @@
     "idNumerico": "42",
     "nome": "ZICO TREM BALA",
     "status": "INDISPONIVEL",
-    "disponivelEm": "05:29|24/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-24T03:29:45.544Z"
   }

@@ -338,9 +338,9 @@
   "BERNARDO FARM'S": {
     "idNumerico": "40",
     "nome": "Bernardo Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:15|24/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-24T01:15:01.750Z"
   },
   "PEEEERFEITO": {

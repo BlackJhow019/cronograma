@@ -52,7 +52,7 @@
     "nome": "Lek0zika",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:32|24/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-24T15:32:24.907Z"
   },
   "BORRACHAS FARM": {
@@ -86,14 +86,6 @@
     "disponivelEm": "17:29|24/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-24T15:29:12.808Z"
-  },
-  "CLUBE DA LULUZINHA": {
-    "idNumerico": "8",
-    "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:36|24/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T10:36:41.207Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
@@ -234,10 +226,10 @@
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:38|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T10:04:28.805Z"
+    "roubadaEm": "2026-07-24T15:38:56.678Z"
   },
   "RICK FARM'S": {
     "idNumerico": "30",

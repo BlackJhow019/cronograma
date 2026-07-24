@@ -170,9 +170,9 @@
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:55|24/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-24T18:55:00.379Z"
   },
   "VC É A PIADA AQUI": {
@@ -318,14 +318,6 @@
     "disponivelEm": "21:36|24/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-24T19:36:50.761Z"
-  },
-  "RANCHO DO DOUTOR": {
-    "idNumerico": "14",
-    "nome": "Rancho do Doutor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:57|24/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-24T18:57:52.988Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",

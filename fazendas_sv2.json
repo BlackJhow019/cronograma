@@ -191,14 +191,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-24T05:42:21.103Z"
   },
-  "AURA + EGO": {
-    "idNumerico": "22",
-    "nome": "Aura + Ego",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:26|24/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T06:26:02.726Z"
-  },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",
     "nome": "Succubus Farms",
@@ -314,9 +306,9 @@
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",
     "nome": "RAMONZIN_FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:24|24/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-24T06:24:57.949Z"
   },
   "QG FARM KHAOS": {

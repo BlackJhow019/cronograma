@@ -143,14 +143,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-24T15:37:22.995Z"
   },
-  "DEAD (:": {
-    "idNumerico": "27",
-    "nome": "Dead (:",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:06|24/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-24T12:06:54.124Z"
-  },
   "DONA SEM RAZAO": {
     "idNumerico": "26",
     "nome": "Dona sem razao",
@@ -178,10 +170,10 @@
   "FARM DA THATY": {
     "idNumerico": "1",
     "nome": "Farm da Thaty",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:09|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T11:40:43.739Z"
+    "roubadaEm": "2026-07-24T17:09:43.444Z"
   },
   "FARM DO SAPATO": {
     "idNumerico": "9",

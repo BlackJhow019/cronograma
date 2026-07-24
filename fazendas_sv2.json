@@ -1,12 +1,4 @@
 {
-  "999": {
-    "idNumerico": "39",
-    "nome": "999",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-24T16:26:01.765Z"
-  },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
@@ -314,10 +306,10 @@
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",
     "nome": "RAMONZIN_FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:28|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T15:44:10.815Z"
+    "roubadaEm": "2026-07-24T21:28:15.026Z"
   },
   "QG FARM KHAOS": {
     "idNumerico": "18",

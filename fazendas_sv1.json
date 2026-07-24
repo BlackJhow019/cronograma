@@ -218,9 +218,9 @@
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:25|24/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-24T03:25:09.054Z"
   },
   "POLEMICO$ INDUSTRI$": {
@@ -342,14 +342,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-24T01:15:01.750Z"
-  },
-  "PEEEERFEITO": {
-    "idNumerico": "12",
-    "nome": "Peeeerfeito",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:25|24/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T03:25:56.433Z"
   },
   "..OURO..PR3TO..": {
     "idNumerico": "5",

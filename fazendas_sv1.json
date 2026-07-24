@@ -98,7 +98,7 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-24T07:54:45.769Z"
@@ -238,14 +238,6 @@
     "disponivelEm": "12:04|24/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-24T10:04:28.805Z"
-  },
-  "RICK FARM'S": {
-    "idNumerico": "30",
-    "nome": "Rick Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:56|24/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T07:56:40.911Z"
   },
   "JAH RASTAFARI": {
     "idNumerico": "39",

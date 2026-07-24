@@ -66,10 +66,10 @@
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
     "nome": "Wesker_u$MeTraLha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:38|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T00:36:18.006Z"
+    "roubadaEm": "2026-07-24T14:38:33.324Z"
   },
   "< GAUBRE LTDA >": {
     "idNumerico": "2",
@@ -316,7 +316,7 @@
     "nome": "roubo off",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:32|24/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-24T14:32:36.872Z"
   },
   "RANCHO DO DOUTOR": {
@@ -326,14 +326,6 @@
     "disponivelEm": "14:08|24/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-24T12:08:18.797Z"
-  },
-  "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": "38",
-    "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:35|24/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T09:35:38.556Z"
   },
   "BERNARDO FARM'S": {
     "idNumerico": "40",

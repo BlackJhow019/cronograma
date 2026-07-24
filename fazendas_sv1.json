@@ -26,10 +26,10 @@
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
     "nome": "Rafha investimentos $",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:18|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T07:49:21.490Z"
+    "roubadaEm": "2026-07-24T14:18:18.238Z"
   },
   "THUG LIFE": {
     "idNumerico": "21",
@@ -212,7 +212,7 @@
     "nome": "Familia KuSh",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:14|24/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-24T14:14:23.418Z"
   },
   "FAZENDINHA DO IGEZE": {

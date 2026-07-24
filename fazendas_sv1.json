@@ -98,10 +98,10 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:54|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T01:03:14.317Z"
+    "roubadaEm": "2026-07-24T07:54:32.380Z"
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
@@ -278,14 +278,6 @@
     "disponivelEm": "09:49|24/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-24T07:49:02.324Z"
-  },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:53|24/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-24T02:53:31.376Z"
   },
   "GRUPO NEXUS": {
     "idNumerico": "9",

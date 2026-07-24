@@ -66,10 +66,10 @@
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
     "nome": "Wesker_u$MeTraLha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:36|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T00:51:56.858Z"
+    "roubadaEm": "2026-07-24T00:36:04.048Z"
   },
   "< GAUBRE LTDA >": {
     "idNumerico": "2",
@@ -108,7 +108,7 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:34|24/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-24T00:34:47.618Z"
   },
   "MONOPOLIO FARMS": {

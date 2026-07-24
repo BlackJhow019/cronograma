@@ -236,7 +236,7 @@
     "nome": "Norex farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:30|24/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-24T21:30:49.502Z"
   },
   "RICK FARM'S": {
@@ -326,6 +326,14 @@
     "disponivelEm": "20:57|24/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-24T18:57:52.988Z"
+  },
+  "WORK INDUSTRIA'S LIMITED": {
+    "idNumerico": "38",
+    "nome": "Work Industria's Limited",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-24T16:33:37.372Z"
   },
   "BERNARDO FARM'S": {
     "idNumerico": "40",

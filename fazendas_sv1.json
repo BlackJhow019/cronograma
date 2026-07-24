@@ -68,7 +68,7 @@
     "nome": "Wesker_u$MeTraLha",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:38|24/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-24T14:38:47.313Z"
   },
   "< GAUBRE LTDA >": {
@@ -326,6 +326,14 @@
     "disponivelEm": "14:08|24/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-24T12:08:18.797Z"
+  },
+  "WORK INDUSTRIA'S LIMITED": {
+    "idNumerico": "38",
+    "nome": "Work Industria's Limited",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-24T09:35:38.556Z"
   },
   "BERNARDO FARM'S": {
     "idNumerico": "40",

@@ -106,10 +106,10 @@
   "CANNABIS": {
     "idNumerico": "8",
     "nome": "CANNABIS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:03|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T22:28:21.256Z"
+    "roubadaEm": "2026-07-24T06:03:01.317Z"
   },
   "AMO O LOWER": {
     "idNumerico": "2",
@@ -180,7 +180,7 @@
     "nome": "Farm da Thaty",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:45|24/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-24T05:45:28.798Z"
   },
   "FARM DO SAPATO": {

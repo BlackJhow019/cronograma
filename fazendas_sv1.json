@@ -55,14 +55,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-24T09:57:22.530Z"
   },
-  "BORRACHAS FARM": {
-    "idNumerico": "33",
-    "nome": "Borrachas Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:40|24/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T07:40:17.375Z"
-  },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
     "nome": "Wesker_u$MeTraLha",
@@ -122,10 +114,10 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:42|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T07:13:03.957Z"
+    "roubadaEm": "2026-07-24T12:42:25.256Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",

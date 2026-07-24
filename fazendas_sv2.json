@@ -132,7 +132,7 @@
     "nome": "Ariana_B13",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:20|24/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-24T14:20:01.855Z"
   },
   "FARME DO DRAKE": {
@@ -234,10 +234,10 @@
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:54|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T01:33:30.802Z"
+    "roubadaEm": "2026-07-24T14:54:58.528Z"
   },
   "CHAMA A POLICIA": {
     "idNumerico": "44",

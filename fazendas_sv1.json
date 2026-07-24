@@ -10,10 +10,10 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:23|24/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-23T20:48:05.703Z"
+    "roubadaEm": "2026-07-24T05:23:02.376Z"
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -63,14 +63,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-24T02:15:32.960Z"
   },
-  "WESKER_U$METRALHA": {
-    "idNumerico": "28",
-    "nome": "Wesker_u$MeTraLha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:36|24/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-24T00:36:18.006Z"
-  },
   "< GAUBRE LTDA >": {
     "idNumerico": "2",
     "nome": "< GAUBRE LTDA >",
@@ -107,9 +99,9 @@
     "idNumerico": "27",
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
-    "disponivelEm": "02:34|24/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-24T00:34:47.618Z"
+    "disponivelEm": "07:38|24/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-24T05:38:39.707Z"
   },
   "MONOPOLIO FARMS": {
     "idNumerico": "20",

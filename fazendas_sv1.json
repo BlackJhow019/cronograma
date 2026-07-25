@@ -116,7 +116,7 @@
     "nome": "Farm's de Cafe",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:01|26/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-25T23:01:33.689Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
@@ -162,10 +162,10 @@
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:10|26/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T16:57:57.169Z"
+    "roubadaEm": "2026-07-25T23:10:03.495Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",

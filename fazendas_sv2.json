@@ -20,7 +20,7 @@
     "nome": "AwaKe Company",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:09|25/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-25T19:09:39.866Z"
   },
   "ROCK FARM": {
@@ -250,9 +250,9 @@
   "~E V O M~": {
     "idNumerico": "25",
     "nome": "~E V O M~",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:10|25/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-25T14:10:25.433Z"
   },
   "FAZENDA CUIUDA - BY GAZOLA": {

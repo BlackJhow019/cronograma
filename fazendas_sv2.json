@@ -66,10 +66,10 @@
   "B13 :)": {
     "idNumerico": "23",
     "nome": "B13 :)",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:08|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T02:56:09.183Z"
+    "roubadaEm": "2026-07-25T08:08:53.759Z"
   },
   "MALVADA'S FARM": {
     "idNumerico": "32",
@@ -175,14 +175,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-25T06:16:09.462Z"
   },
-  "FARM DO SAPATO": {
-    "idNumerico": "9",
-    "nome": "FARM DO SAPATO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:07|25/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T03:07:02.430Z"
-  },
   "AURA + EGO": {
     "idNumerico": "22",
     "nome": "Aura + Ego",
@@ -230,14 +222,6 @@
     "disponivelEm": "05:46|25/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-25T03:46:09.742Z"
-  },
-  "$ COMPANY $R.RC_PLINIODMG $": {
-    "idNumerico": "3",
-    "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:06|25/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T03:06:57.882Z"
   },
   "GRUPO RANTER": {
     "idNumerico": "19",

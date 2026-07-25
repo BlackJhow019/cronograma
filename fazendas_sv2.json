@@ -26,10 +26,10 @@
   "ROCK FARM": {
     "idNumerico": "11",
     "nome": "RocK Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:50|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T08:22:35.807Z"
+    "roubadaEm": "2026-07-25T15:50:40.914Z"
   },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
@@ -132,7 +132,7 @@
     "nome": "Farme do Drake",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:17|25/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-25T15:30:01.363Z"
   },
   "DEAD (:": {

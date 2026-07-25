@@ -2,10 +2,10 @@
   "999": {
     "idNumerico": "39",
     "nome": "999",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:21|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T04:40:05.810Z"
+    "roubadaEm": "2026-07-25T11:21:29.957Z"
   },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
@@ -347,7 +347,7 @@
     "idNumerico": "1",
     "nome": "Farm da Thaty",
     "status": "INDISPONIVEL",
-    "disponivelEm": "08:20|25/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-25T06:20:57.720Z"
   }

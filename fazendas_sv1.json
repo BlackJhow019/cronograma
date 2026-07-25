@@ -4,7 +4,7 @@
     "nome": "rico louco",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:18|26/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-25T22:18:49.005Z"
   },
   "KODIAK": {
@@ -266,8 +266,8 @@
   "GRUPO NEXUS": {
     "idNumerico": "9",
     "nome": "GRUPO NEXUS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:22|25/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-25T17:22:12.576Z"
   },

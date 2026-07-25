@@ -90,8 +90,8 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:55|24/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-24T21:55:11.563Z"
   },
@@ -326,14 +326,6 @@
     "disponivelEm": "02:41|25/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-25T00:41:49.997Z"
-  },
-  "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": "38",
-    "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:57|24/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-24T21:57:11.045Z"
   },
   "..OURO..PR3TO..": {
     "idNumerico": "5",

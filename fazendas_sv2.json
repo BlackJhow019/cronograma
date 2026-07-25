@@ -162,10 +162,10 @@
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:56|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T14:49:47.166Z"
+    "roubadaEm": "2026-07-25T19:56:28.360Z"
   },
   "FARM DO SAPATO": {
     "idNumerico": "9",
@@ -190,14 +190,6 @@
     "disponivelEm": "19:18|25/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-25T17:18:16.692Z"
-  },
-  "AMO A MAZZI": {
-    "idNumerico": "6",
-    "nome": "Amo a Mazzi",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T14:53:03.450Z"
   },
   "YANINHA_ANTIFALSOS": {
     "idNumerico": "34",
@@ -244,7 +236,7 @@
     "nome": "/VENDERPRODUTOS",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:53|25/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-25T19:53:31.987Z"
   },
   "~E V O M~": {

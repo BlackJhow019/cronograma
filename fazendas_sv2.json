@@ -3,9 +3,9 @@
     "idNumerico": "39",
     "nome": "999",
     "status": "INDISPONIVEL",
-    "disponivelEm": "01:38|25/07/2026",
+    "disponivelEm": "06:40|25/07/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-07-24T23:38:39.604Z"
+    "roubadaEm": "2026-07-25T04:40:05.810Z"
   },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
@@ -19,9 +19,9 @@
     "idNumerico": "13",
     "nome": "AwaKe Company",
     "status": "INDISPONIVEL",
-    "disponivelEm": "00:40|25/07/2026",
+    "disponivelEm": "06:24|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T22:40:43.642Z"
+    "roubadaEm": "2026-07-25T04:24:18.160Z"
   },
   "ROCK FARM": {
     "idNumerico": "11",
@@ -106,10 +106,10 @@
   "CANNABIS": {
     "idNumerico": "8",
     "nome": "CANNABIS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T22:15:32.809Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:05|25/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-25T04:05:34.582Z"
   },
   "AMO O LOWER": {
     "idNumerico": "2",
@@ -139,9 +139,9 @@
     "idNumerico": "35",
     "nome": "Farme do Drake",
     "status": "INDISPONIVEL",
-    "disponivelEm": "05:23|25/07/2026",
+    "disponivelEm": "05:56|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T03:23:38.649Z"
+    "roubadaEm": "2026-07-25T03:56:33.110Z"
   },
   "DEAD (:": {
     "idNumerico": "27",
@@ -154,10 +154,10 @@
   "DONA SEM RAZAO": {
     "idNumerico": "26",
     "nome": "Dona sem razao",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:43|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T20:36:19.097Z"
+    "roubadaEm": "2026-07-25T04:43:40.587Z"
   },
   "FAZENDA DO GALIN": {
     "idNumerico": "15",
@@ -179,7 +179,7 @@
     "idNumerico": "1",
     "nome": "Farm da Thaty",
     "status": "INDISPONIVEL",
-    "disponivelEm": "00:53|25/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-24T22:53:32.098Z"
   },
@@ -234,10 +234,10 @@
   "CHAMA A POLICIA": {
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T22:18:18.305Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:46|25/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-25T03:46:09.742Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",
@@ -251,7 +251,7 @@
     "idNumerico": "40",
     "nome": "FARM DO GALO",
     "status": "INDISPONIVEL",
-    "disponivelEm": "01:18|25/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-24T23:18:20.715Z"
   },
@@ -283,7 +283,7 @@
     "idNumerico": "37",
     "nome": "WELCOME > MELHOR FAZENDA DO BPS",
     "status": "INDISPONIVEL",
-    "disponivelEm": "01:22|25/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-24T23:22:59.620Z"
   },
@@ -306,10 +306,10 @@
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",
     "nome": "RAMONZIN_FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:33|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T21:28:25.202Z"
+    "roubadaEm": "2026-07-25T04:33:27.883Z"
   },
   "QG FARM KHAOS": {
     "idNumerico": "18",
@@ -350,5 +350,13 @@
     "disponivelEm": "03:44|25/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-25T01:44:44.266Z"
+  },
+  "FRANCA": {
+    "idNumerico": "28",
+    "nome": "FRANCA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:50|25/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-25T03:50:12.084Z"
   }
 }

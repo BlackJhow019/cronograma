@@ -66,10 +66,10 @@
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
     "nome": "VENDO 500km ACEITO TROCAS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:06|26/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T16:35:33.689Z"
+    "roubadaEm": "2026-07-25T23:06:04.196Z"
   },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
@@ -86,14 +86,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-25T17:50:38.742Z"
-  },
-  "HWD INVESTIMENTOS": {
-    "idNumerico": "27",
-    "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:03|25/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-25T18:03:20.915Z"
   },
   "MONOPOLIO FARMS": {
     "idNumerico": "20",

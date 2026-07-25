@@ -247,14 +247,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-24T22:18:18.305Z"
   },
-  "$ COMPANY $R.RC_PLINIODMG $": {
-    "idNumerico": "3",
-    "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:30|24/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-24T21:30:10.905Z"
-  },
   "FARM DO GALO": {
     "idNumerico": "40",
     "nome": "FARM DO GALO",
@@ -314,8 +306,8 @@
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",
     "nome": "RAMONZIN_FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:28|24/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-24T21:28:25.202Z"
   },

@@ -82,10 +82,10 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:13|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T03:42:26.522Z"
+    "roubadaEm": "2026-07-25T09:13:17.179Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
@@ -156,7 +156,7 @@
     "nome": "Quem Roubar e Petista",
     "status": "INDISPONIVEL",
     "disponivelEm": "11:11|25/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-25T09:11:18.236Z"
   },
   "VC É A PIADA AQUI": {

@@ -10,10 +10,10 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:18|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T01:26:46.117Z"
+    "roubadaEm": "2026-07-25T08:18:31.406Z"
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -44,7 +44,7 @@
     "nome": "Lek0zika",
     "status": "INDISPONIVEL",
     "disponivelEm": "10:14|25/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-25T08:14:05.412Z"
   },
   "BORRACHAS FARM": {

@@ -42,10 +42,10 @@
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:14|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T20:39:40.937Z"
+    "roubadaEm": "2026-07-25T08:14:05.412Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -188,7 +188,7 @@
     "nome": "021",
     "status": "INDISPONIVEL",
     "disponivelEm": "10:09|25/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-25T08:09:58.109Z"
   },
   "FAMILIA KUSH": {

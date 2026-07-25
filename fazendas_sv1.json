@@ -31,14 +31,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-25T13:56:59.348Z"
   },
-  "THUG LIFE": {
-    "idNumerico": "21",
-    "nome": "THUG LIFE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:53|25/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-25T20:53:16.834Z"
-  },
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
@@ -218,10 +210,10 @@
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:34|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T14:47:30.453Z"
+    "roubadaEm": "2026-07-25T21:34:51.300Z"
   },
   "RICK FARM'S": {
     "idNumerico": "30",
@@ -260,7 +252,7 @@
     "nome": "fazenda feliz",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:28|25/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-25T21:28:46.406Z"
   },
   "OS DE RACA": {
@@ -350,5 +342,13 @@
     "disponivelEm": "22:04|25/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-25T20:04:42.143Z"
+  },
+  "THUG LIFE": {
+    "idNumerico": "21",
+    "nome": "THUG LIFE",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:53|25/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-25T20:53:16.834Z"
   }
 }

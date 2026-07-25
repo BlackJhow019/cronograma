@@ -35,7 +35,7 @@
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
     "status": "INDISPONIVEL",
-    "disponivelEm": "10:35|25/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-25T08:35:58.390Z"
   },
@@ -126,6 +126,14 @@
     "disponivelEm": "13:34|25/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-25T11:34:18.759Z"
+  },
+  "FARME DO DRAKE": {
+    "idNumerico": "35",
+    "nome": "Farme do Drake",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-25T08:44:23.651Z"
   },
   "DEAD (:": {
     "idNumerico": "27",

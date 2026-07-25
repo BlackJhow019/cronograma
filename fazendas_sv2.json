@@ -218,10 +218,10 @@
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",
     "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:25|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T03:06:57.882Z"
+    "roubadaEm": "2026-07-25T12:25:25.573Z"
   },
   "GRUPO RANTER": {
     "idNumerico": "19",

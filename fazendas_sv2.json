@@ -26,10 +26,10 @@
   "ROCK FARM": {
     "idNumerico": "11",
     "nome": "RocK Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:11|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T15:50:40.805Z"
+    "roubadaEm": "2026-07-25T21:11:46.171Z"
   },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
@@ -62,14 +62,6 @@
     "disponivelEm": "18:57|25/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-25T16:57:10.963Z"
-  },
-  "B13 :)": {
-    "idNumerico": "23",
-    "nome": "B13 :)",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:10|25/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-25T16:10:04.999Z"
   },
   "MALVADA'S FARM": {
     "idNumerico": "32",

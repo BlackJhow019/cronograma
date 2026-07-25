@@ -234,10 +234,10 @@
   "JAH RASTAFARI": {
     "idNumerico": "39",
     "nome": "JAH RASTAFARI",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:09|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T13:47:35.528Z"
+    "roubadaEm": "2026-07-25T18:09:43.633Z"
   },
   ".": {
     "idNumerico": "31",
@@ -318,14 +318,6 @@
     "disponivelEm": "17:58|25/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-25T15:58:46.921Z"
-  },
-  "..OURO..PR3TO..": {
-    "idNumerico": "5",
-    "nome": "..OURO..PR3TO..",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:07|25/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-25T13:07:20.558Z"
   },
   "DM2 FARM": {
     "idNumerico": "6",

@@ -31,14 +31,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-24T17:52:21.560Z"
   },
-  "FAZENDA DO TEMOR": {
-    "idNumerico": "30",
-    "nome": "Fazenda do Temor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:20|24/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T20:20:23.570Z"
-  },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
     "nome": "LA FAMILIA CHIARADIA",
@@ -114,10 +106,10 @@
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:22|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T20:01:17.177Z"
+    "roubadaEm": "2026-07-25T01:22:21.465Z"
   },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",

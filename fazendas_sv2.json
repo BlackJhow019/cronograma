@@ -146,10 +146,10 @@
   "DONA SEM RAZAO": {
     "idNumerico": "26",
     "nome": "Dona sem razao",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:28|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T04:43:40.587Z"
+    "roubadaEm": "2026-07-25T21:28:22.629Z"
   },
   "FAZENDA DO GALIN": {
     "idNumerico": "15",
@@ -340,7 +340,7 @@
     "nome": "Farm da Thaty",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:23|25/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-25T21:23:43.223Z"
   },
   "FAZENDA REI DROGADO": {

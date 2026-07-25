@@ -122,10 +122,10 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:03|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T18:41:51.670Z"
+    "roubadaEm": "2026-07-25T01:03:18.433Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
@@ -172,7 +172,7 @@
     "nome": "Quem Roubar e Petista",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:00|25/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-25T01:00:10.194Z"
   },
   "VC É A PIADA AQUI": {

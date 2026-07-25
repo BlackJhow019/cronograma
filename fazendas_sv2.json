@@ -164,7 +164,7 @@
     "nome": "FARM'S NAY E NICK",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:56|25/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-25T19:56:53.774Z"
   },
   "FARM DO SAPATO": {
@@ -190,6 +190,14 @@
     "disponivelEm": "19:18|25/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-25T17:18:16.692Z"
+  },
+  "AMO A MAZZI": {
+    "idNumerico": "6",
+    "nome": "Amo a Mazzi",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-25T14:53:03.450Z"
   },
   "YANINHA_ANTIFALSOS": {
     "idNumerico": "34",

@@ -106,10 +106,10 @@
   "MONOPOLIO FARMS": {
     "idNumerico": "20",
     "nome": "Monopolio Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:41|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T00:15:12.861Z"
+    "roubadaEm": "2026-07-25T05:41:13.327Z"
   },
   "AZEROX": {
     "idNumerico": "23",
@@ -263,20 +263,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-24T21:34:33.464Z"
   },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:39|25/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-25T00:39:09.077Z"
-  },
   "GRUPO NEXUS": {
     "idNumerico": "9",
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:37|25/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-25T05:37:47.605Z"
   },
   "K1NG FARM'S": {

@@ -31,14 +31,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-25T23:02:02.399Z"
   },
-  "LEK0ZIKA": {
-    "idNumerico": "35",
-    "nome": "Lek0zika",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:19|25/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-25T18:19:44.504Z"
-  },
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
@@ -98,9 +90,9 @@
   "MONOPOLIO FARMS": {
     "idNumerico": "20",
     "nome": "Monopolio Farms",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:14|25/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-25T18:14:08.063Z"
   },
   "AZEROX": {
@@ -343,9 +335,9 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-25T20:04:42.143Z"
   },
-  "THUG LIFE": {
+  "RAMONZIN_FRANCA": {
     "idNumerico": "21",
-    "nome": "THUG LIFE",
+    "nome": "RAMONZIN_FRANCA",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:53|25/07/2026",
     "cofreConsertado": true,

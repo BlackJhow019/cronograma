@@ -34,10 +34,10 @@
   "THUG LIFE": {
     "idNumerico": "21",
     "nome": "THUG LIFE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:52|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T08:01:56.901Z"
+    "roubadaEm": "2026-07-25T14:52:49.115Z"
   },
   "LEK0ZIKA": {
     "idNumerico": "35",
@@ -220,7 +220,7 @@
     "nome": "Norex farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:47|25/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-25T14:47:30.453Z"
   },
   "RICK FARM'S": {

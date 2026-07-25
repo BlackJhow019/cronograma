@@ -236,7 +236,7 @@
     "nome": "Rolinha Cansada Farms",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:09|25/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-25T17:09:14.910Z"
   },
   "/VENDERPRODUTOS": {
@@ -278,6 +278,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-24T02:08:35.932Z"
+  },
+  "FAZENDINHA BETREZE 2": {
+    "idNumerico": "38",
+    "nome": "Fazendinha BeTreZe 2",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-25T12:08:20.687Z"
   },
   "@FILH_ODOPAII": {
     "idNumerico": "12",

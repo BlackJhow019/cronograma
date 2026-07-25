@@ -146,10 +146,10 @@
   "DEAD (:": {
     "idNumerico": "27",
     "nome": "Dead (:",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:38|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T17:14:53.000Z"
+    "roubadaEm": "2026-07-25T06:38:24.264Z"
   },
   "DONA SEM RAZAO": {
     "idNumerico": "26",
@@ -294,14 +294,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-24T02:08:35.932Z"
-  },
-  "FAZENDINHA BETREZE 2": {
-    "idNumerico": "38",
-    "nome": "Fazendinha BeTreZe 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:37|25/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T01:37:15.236Z"
   },
   "@FILH_ODOPAII": {
     "idNumerico": "12",

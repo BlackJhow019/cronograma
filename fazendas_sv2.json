@@ -202,10 +202,10 @@
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",
     "nome": "Fazenda Rei Drogado",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:15|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T18:01:34.058Z"
+    "roubadaEm": "2026-07-25T05:15:22.282Z"
   },
   "AMO A MAZZI": {
     "idNumerico": "6",

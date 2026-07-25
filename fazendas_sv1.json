@@ -99,7 +99,7 @@
     "idNumerico": "27",
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
-    "disponivelEm": "08:07|25/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-25T06:07:42.557Z"
   },
@@ -266,10 +266,10 @@
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:07|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T05:59:50.131Z"
+    "roubadaEm": "2026-07-25T11:07:57.382Z"
   },
   "GRUPO NEXUS": {
     "idNumerico": "9",

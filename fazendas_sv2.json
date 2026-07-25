@@ -44,7 +44,7 @@
     "nome": "LA FAMILIA CHIARADIA",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:13|25/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-25T21:13:57.326Z"
   },
   "FARMA DA FAMILIA ELITE": {
@@ -68,7 +68,7 @@
     "nome": "B13 :)",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:16|25/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-25T21:16:41.305Z"
   },
   "MALVADA'S FARM": {
@@ -338,10 +338,10 @@
   "FARM DA THATY": {
     "idNumerico": "1",
     "nome": "Farm da Thaty",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:23|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T12:47:26.752Z"
+    "roubadaEm": "2026-07-25T21:23:43.223Z"
   },
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",

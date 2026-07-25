@@ -23,14 +23,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-25T19:09:39.866Z"
   },
-  "ROCK FARM": {
-    "idNumerico": "11",
-    "nome": "RocK Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:50|25/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-25T15:50:40.805Z"
-  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -218,10 +210,10 @@
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",
     "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:53|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T12:25:25.346Z"
+    "roubadaEm": "2026-07-25T20:53:04.764Z"
   },
   "GRUPO RANTER": {
     "idNumerico": "19",
@@ -292,7 +284,7 @@
     "nome": "@filh_odopaii",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:46|25/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-25T20:46:47.926Z"
   },
   "FAZENDA DO MIRIM": {

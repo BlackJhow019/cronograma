@@ -11,7 +11,7 @@
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
     "status": "INDISPONIVEL",
-    "disponivelEm": "20:21|25/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-25T18:21:08.476Z"
   },
@@ -138,10 +138,10 @@
   "DEAD (:": {
     "idNumerico": "27",
     "nome": "Dead (:",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:21|26/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T17:31:05.470Z"
+    "roubadaEm": "2026-07-25T23:21:21.532Z"
   },
   "DONA SEM RAZAO": {
     "idNumerico": "26",
@@ -171,7 +171,7 @@
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
     "status": "INDISPONIVEL",
-    "disponivelEm": "20:21|25/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-25T18:21:02.561Z"
   },

@@ -114,10 +114,10 @@
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:58|26/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T13:49:37.522Z"
+    "roubadaEm": "2026-07-25T22:58:18.949Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
     "idNumerico": "17",

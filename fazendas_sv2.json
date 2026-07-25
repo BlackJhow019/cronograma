@@ -42,10 +42,10 @@
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
     "nome": "LA FAMILIA CHIARADIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:58|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T16:12:45.364Z"
+    "roubadaEm": "2026-07-25T15:58:50.226Z"
   },
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
@@ -268,7 +268,7 @@
     "nome": "RAMONZIN_FRANCA",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:54|25/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-25T15:54:28.722Z"
   },
   "QG FARM KHAOS": {
@@ -308,7 +308,7 @@
     "nome": "ZICO TREM BALA",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:54|25/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-25T15:54:18.822Z"
   },
   "FRANCA": {

@@ -116,7 +116,7 @@
     "nome": "AzeRoX",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:39|25/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-25T14:39:10.669Z"
   },
   "FARM'S DE CAFE": {
@@ -343,12 +343,12 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-25T11:45:22.861Z"
   },
-  "PEEEERFEITO": {
+  "PEEEERFEITO!": {
     "idNumerico": "12",
-    "nome": "Peeeerfeito",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "nome": "Peeeerfeito!",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:45|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T05:31:11.747Z"
+    "roubadaEm": "2026-07-25T14:45:06.158Z"
   }
 }

@@ -76,7 +76,7 @@
     "nome": "Malvada's Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:22|25/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-25T18:22:00.306Z"
   },
   "YELLOWSTONE - BY MONSTER": {
@@ -154,10 +154,10 @@
   "FAZENDA DO GALIN": {
     "idNumerico": "15",
     "nome": "Fazenda do Galin",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:24|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T12:15:08.438Z"
+    "roubadaEm": "2026-07-25T18:24:48.351Z"
   },
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
@@ -172,7 +172,7 @@
     "nome": "FARM DO SAPATO",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:21|25/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-25T18:21:02.561Z"
   },
   "AURA + EGO": {

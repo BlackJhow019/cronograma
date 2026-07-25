@@ -122,10 +122,10 @@
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:52|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T21:43:54.897Z"
+    "roubadaEm": "2026-07-25T02:53:12.149Z"
   },
   "ARIANA_B13": {
     "idNumerico": "10",
@@ -270,14 +270,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-24T06:37:35.764Z"
-  },
-  "ROLINHA CANSADA FARMS": {
-    "idNumerico": "14",
-    "nome": "Rolinha Cansada Farms",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:51|24/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-24T21:51:57.149Z"
   },
   "/VENDERPRODUTOS": {
     "idNumerico": "7",

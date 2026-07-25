@@ -103,6 +103,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-24T18:49:08.608Z"
   },
+  "CANNABIS": {
+    "idNumerico": "8",
+    "nome": "CANNABIS",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-24T22:15:32.809Z"
+  },
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
@@ -230,14 +238,6 @@
     "disponivelEm": "00:22|25/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-24T22:22:08.989Z"
-  },
-  "CHAMA A POLICIA": {
-    "idNumerico": "44",
-    "nome": "CHAMA A POLICIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:18|25/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T22:18:18.305Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",

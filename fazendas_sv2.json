@@ -1,12 +1,4 @@
 {
-  "999": {
-    "idNumerico": "39",
-    "nome": "999",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:13|25/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-25T17:13:34.492Z"
-  },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
@@ -231,6 +223,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-25T17:04:37.049Z"
   },
+  "ROLINHA CANSADA FARMS": {
+    "idNumerico": "14",
+    "nome": "Rolinha Cansada Farms",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-25T17:09:14.910Z"
+  },
   "/VENDERPRODUTOS": {
     "idNumerico": "7",
     "nome": "/VENDERPRODUTOS",
@@ -252,7 +252,7 @@
     "nome": "Fazenda Cuiuda - By GAZOLA",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:11|26/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-25T22:11:43.090Z"
   },
   "RAMONZIN_FRANCA": {

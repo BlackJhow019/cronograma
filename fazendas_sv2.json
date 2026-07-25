@@ -132,7 +132,7 @@
     "nome": "Farme do Drake",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:27|25/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-25T20:40:00.820Z"
   },
   "DEAD (:": {
@@ -290,10 +290,10 @@
   "@FILH_ODOPAII": {
     "idNumerico": "12",
     "nome": "@filh_odopaii",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:46|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T13:46:45.001Z"
+    "roubadaEm": "2026-07-25T20:46:26.760Z"
   },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",

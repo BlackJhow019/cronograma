@@ -114,10 +114,10 @@
   "MONOPOLIO FARMS": {
     "idNumerico": "20",
     "nome": "Monopolio Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:15|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T16:21:27.621Z"
+    "roubadaEm": "2026-07-25T00:15:12.861Z"
   },
   "AZEROX": {
     "idNumerico": "23",
@@ -211,7 +211,7 @@
     "idNumerico": "34",
     "nome": "Familia KuSh",
     "status": "INDISPONIVEL",
-    "disponivelEm": "21:17|24/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-24T19:17:12.921Z"
   },
@@ -293,7 +293,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "02:07|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T00:07:33.897Z"
+    "roubadaEm": "2026-07-25T00:07:33.813Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",

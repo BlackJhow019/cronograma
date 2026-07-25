@@ -58,10 +58,10 @@
   "TA NO GRALI": {
     "idNumerico": "4",
     "nome": "ta no grali",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:25|26/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T16:57:10.963Z"
+    "roubadaEm": "2026-07-25T22:25:07.748Z"
   },
   "B13 :)": {
     "idNumerico": "23",
@@ -110,14 +110,6 @@
     "disponivelEm": "21:26|25/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-25T19:26:40.500Z"
-  },
-  "SE ROUBAR MORRE": {
-    "idNumerico": "41",
-    "nome": "SE ROUBAR MORRE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:23|25/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-25T17:24:14.602Z"
   },
   "ARIANA_B13": {
     "idNumerico": "10",
@@ -174,14 +166,6 @@
     "disponivelEm": "20:21|25/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-25T18:21:02.561Z"
-  },
-  "AURA + EGO": {
-    "idNumerico": "22",
-    "nome": "Aura + Ego",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:23|25/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-25T17:23:18.401Z"
   },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",

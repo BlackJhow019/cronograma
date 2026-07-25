@@ -2,9 +2,9 @@
   "999": {
     "idNumerico": "39",
     "nome": "999",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:40|25/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-25T04:40:05.810Z"
   },
   "JESUS EA SOLUCAO": {
@@ -150,14 +150,6 @@
     "disponivelEm": "08:38|25/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-25T06:38:36.956Z"
-  },
-  "DONA SEM RAZAO": {
-    "idNumerico": "26",
-    "nome": "Dona sem razao",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:43|25/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T04:43:40.587Z"
   },
   "FAZENDA DO GALIN": {
     "idNumerico": "15",

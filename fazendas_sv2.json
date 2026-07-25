@@ -5,7 +5,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "13:21|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T11:21:58.821Z"
+    "roubadaEm": "2026-07-25T11:21:29.877Z"
   },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
@@ -181,7 +181,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "13:22|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T11:22:37.345Z"
+    "roubadaEm": "2026-07-25T11:22:37.160Z"
   },
   "AURA + EGO": {
     "idNumerico": "22",
@@ -258,8 +258,8 @@
   "~E V O M~": {
     "idNumerico": "25",
     "nome": "~E V O M~",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:23|25/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-25T06:23:04.179Z"
   },
@@ -342,5 +342,13 @@
     "disponivelEm": "09:53|25/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-25T07:53:55.479Z"
+  },
+  "FARM DA THATY": {
+    "idNumerico": "1",
+    "nome": "Farm da Thaty",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-25T06:20:57.720Z"
   }
 }

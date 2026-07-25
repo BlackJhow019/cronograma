@@ -18,9 +18,9 @@
   "NIKE SHOX": {
     "idNumerico": "42",
     "nome": "NIKE SHOX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:42|25/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-25T15:42:30.638Z"
   },
   "RAFHA INVESTIMENTOS $": {
@@ -224,10 +224,10 @@
     "roubadaEm": "2026-07-25T14:47:30.453Z"
   },
   "RICK FARM'S": {
-    "idNumerico": "40",
+    "idNumerico": "30",
     "nome": "Rick Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:42|25/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-25T15:42:09.026Z"
   },

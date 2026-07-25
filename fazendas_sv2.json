@@ -10,7 +10,7 @@
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-25T18:21:08.476Z"
@@ -70,14 +70,6 @@
     "disponivelEm": "23:16|25/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-25T21:16:41.305Z"
-  },
-  "MALVADA'S FARM": {
-    "idNumerico": "32",
-    "nome": "Malvada's Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:22|25/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-25T18:22:00.306Z"
   },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
@@ -170,9 +162,9 @@
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-25T18:21:02.561Z"
   },
   "AURA + EGO": {

@@ -43,9 +43,9 @@
     "idNumerico": "35",
     "nome": "Lek0zika",
     "status": "INDISPONIVEL",
-    "disponivelEm": "15:18|25/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-25T13:18:17.537Z"
+    "disponivelEm": "20:19|25/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-25T18:19:28.005Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -108,7 +108,7 @@
     "nome": "Monopolio Farms",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:14|25/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-25T18:14:08.063Z"
   },
   "AZEROX": {
@@ -302,14 +302,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-24T19:36:50.761Z"
-  },
-  "RANCHO DO DOUTOR": {
-    "idNumerico": "14",
-    "nome": "Rancho do Doutor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:15|25/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-25T13:15:32.117Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",

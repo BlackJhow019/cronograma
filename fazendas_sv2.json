@@ -178,10 +178,10 @@
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:22|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T03:07:02.430Z"
+    "roubadaEm": "2026-07-25T11:22:37.345Z"
   },
   "AURA + EGO": {
     "idNumerico": "22",

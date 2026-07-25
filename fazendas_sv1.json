@@ -115,7 +115,7 @@
     "idNumerico": "23",
     "nome": "AzeRoX",
     "status": "INDISPONIVEL",
-    "disponivelEm": "03:03|25/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-25T01:03:49.826Z"
   },
@@ -150,14 +150,6 @@
     "disponivelEm": "06:39|25/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-25T04:39:32.529Z"
-  },
-  "QUEM ROUBAR E PETISTA": {
-    "idNumerico": "44",
-    "nome": "Quem Roubar e Petista",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:00|25/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-25T01:00:10.194Z"
   },
   "VC É A PIADA AQUI": {
     "idNumerico": "10",
@@ -194,10 +186,10 @@
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:03|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T00:52:37.298Z"
+    "roubadaEm": "2026-07-25T06:03:53.822Z"
   },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",

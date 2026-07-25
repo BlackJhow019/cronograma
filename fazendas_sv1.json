@@ -63,14 +63,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-22T18:02:37.989Z"
   },
-  "VENDO 500KM ACEITO TROCAS": {
-    "idNumerico": "24",
-    "nome": "VENDO 500km ACEITO TROCAS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:35|25/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-25T16:35:33.689Z"
-  },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
@@ -212,16 +204,16 @@
     "nome": "Norex farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:35|25/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-25T21:35:05.321Z"
   },
   "RICK FARM'S": {
     "idNumerico": "30",
     "nome": "Rick Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:41|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T15:42:09.026Z"
+    "roubadaEm": "2026-07-25T21:41:24.828Z"
   },
   "JAH RASTAFARI": {
     "idNumerico": "39",
@@ -238,14 +230,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-24T14:54:45.019Z"
-  },
-  "30PRAUM": {
-    "idNumerico": "16",
-    "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:37|25/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-25T16:37:12.308Z"
   },
   "FAZENDA FELIZ": {
     "idNumerico": "22",

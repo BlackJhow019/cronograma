@@ -258,17 +258,17 @@
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:28|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T15:57:44.228Z"
+    "roubadaEm": "2026-07-25T21:28:26.576Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:24|25/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-25T21:24:50.306Z"
   },
   "GRUPO NEXUS": {

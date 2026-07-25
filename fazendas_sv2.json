@@ -186,10 +186,10 @@
   "AURA + EGO": {
     "idNumerico": "22",
     "nome": "Aura + Ego",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:47|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T18:41:24.602Z"
+    "roubadaEm": "2026-07-25T06:47:43.583Z"
   },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",
@@ -318,14 +318,6 @@
     "disponivelEm": "07:42|25/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-25T05:42:20.257Z"
-  },
-  "ZICO TREM BALA": {
-    "idNumerico": "42",
-    "nome": "ZICO TREM BALA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:44|25/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T01:44:44.266Z"
   },
   "FRANCA": {
     "idNumerico": "28",

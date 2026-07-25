@@ -20,7 +20,7 @@
     "nome": "AwaKe Company",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:27|25/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-25T13:27:03.142Z"
   },
   "ROCK FARM": {
@@ -131,7 +131,7 @@
     "idNumerico": "35",
     "nome": "Farme do Drake",
     "status": "INDISPONIVEL",
-    "disponivelEm": "10:31|25/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-25T08:44:23.651Z"
   },
@@ -242,10 +242,10 @@
   "/VENDERPRODUTOS": {
     "idNumerico": "7",
     "nome": "/VENDERPRODUTOS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:32|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T16:14:39.558Z"
+    "roubadaEm": "2026-07-25T13:32:07.765Z"
   },
   "~E V O M~": {
     "idNumerico": "25",

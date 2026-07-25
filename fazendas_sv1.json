@@ -10,10 +10,10 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:26|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T18:24:48.319Z"
+    "roubadaEm": "2026-07-25T01:26:34.694Z"
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -100,7 +100,7 @@
     "nome": "Fazenda da Milly",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:18|25/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-25T01:18:25.844Z"
   },
   "HWD INVESTIMENTOS": {

@@ -2,10 +2,10 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T22:20:56.230Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:08|25/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-25T04:08:31.256Z"
   },
   "KODIAK": {
     "idNumerico": "3",
@@ -43,7 +43,7 @@
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
-    "disponivelEm": "01:40|25/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-24T23:40:45.700Z"
   },
@@ -90,10 +90,10 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:42|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T21:55:11.563Z"
+    "roubadaEm": "2026-07-25T03:42:26.522Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
@@ -151,21 +151,13 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-19T21:19:33.877Z"
   },
-  "DM2 FARM": {
-    "idNumerico": "6",
-    "nome": "Dm2 Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:26|25/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-24T22:26:32.177Z"
-  },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
     "status": "INDISPONIVEL",
-    "disponivelEm": "01:33|25/07/2026",
+    "disponivelEm": "06:39|25/07/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-07-24T23:33:55.533Z"
+    "roubadaEm": "2026-07-25T04:39:32.529Z"
   },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
@@ -195,9 +187,9 @@
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
     "status": "INDISPONIVEL",
-    "disponivelEm": "01:07|25/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-24T23:07:48.900Z"
+    "disponivelEm": "06:30|25/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-25T04:30:51.714Z"
   },
   "021": {
     "idNumerico": "1",
@@ -341,7 +333,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "05:21|25/07/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-07-25T03:21:44.066Z"
+    "roubadaEm": "2026-07-25T03:21:43.902Z"
   },
   "PEEEERFEITO": {
     "idNumerico": "12",
@@ -350,5 +342,13 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-24T22:11:53.233Z"
+  },
+  "DM2 FARM": {
+    "idNumerico": "6",
+    "nome": "Dm2 Farm",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:45|25/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-25T04:45:40.438Z"
   }
 }

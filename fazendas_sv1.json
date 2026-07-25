@@ -108,7 +108,7 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:23|25/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-25T00:23:03.264Z"
   },
   "MONOPOLIO FARMS": {
@@ -240,12 +240,12 @@
     "roubadaEm": "2026-07-24T21:30:49.502Z"
   },
   "RICK FARM'S": {
-    "idNumerico": "30",
+    "idNumerico": "40",
     "nome": "Rick Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:42|24/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T21:42:09.548Z"
+    "roubadaEm": "2026-07-24T01:15:01.750Z"
   },
   "JAH RASTAFARI": {
     "idNumerico": "39",
@@ -282,10 +282,10 @@
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:38|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T19:03:29.367Z"
+    "roubadaEm": "2026-07-25T00:38:25.812Z"
   },
   "GRUPO NEXUS": {
     "idNumerico": "9",
@@ -311,14 +311,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-24T20:04:09.478Z"
   },
-  "ROUBO OFF": {
-    "idNumerico": "7",
-    "nome": "roubo off",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:36|24/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T19:36:50.761Z"
-  },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
@@ -334,14 +326,6 @@
     "disponivelEm": "23:57|24/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-24T21:57:11.045Z"
-  },
-  "BERNARDO FARM'S": {
-    "idNumerico": "40",
-    "nome": "Bernardo Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T01:15:01.750Z"
   },
   "..OURO..PR3TO..": {
     "idNumerico": "5",

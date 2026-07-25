@@ -327,14 +327,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-25T03:21:43.902Z"
   },
-  "PEEEERFEITO": {
-    "idNumerico": "12",
-    "nome": "Peeeerfeito",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T22:11:53.233Z"
-  },
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
@@ -350,5 +342,13 @@
     "disponivelEm": "07:11|25/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-25T05:11:29.169Z"
+  },
+  "PEEEERFEITO!": {
+    "idNumerico": "12",
+    "nome": "Peeeerfeito!",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:30|25/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-25T05:30:44.290Z"
   }
 }

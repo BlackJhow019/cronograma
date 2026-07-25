@@ -100,8 +100,16 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:03|25/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-25T18:03:20.915Z"
+  },
+  "MONOPOLIO FARMS": {
+    "idNumerico": "20",
+    "nome": "Monopolio Farms",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-25T13:00:07.149Z"
   },
   "AZEROX": {
     "idNumerico": "23",

@@ -274,10 +274,10 @@
   "GRUPO NEXUS": {
     "idNumerico": "9",
     "nome": "GRUPO NEXUS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:37|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T00:07:33.813Z"
+    "roubadaEm": "2026-07-25T05:37:31.191Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",
@@ -343,9 +343,9 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-25T05:11:29.169Z"
   },
-  "PEEEERFEITO!": {
+  "PEEEERFEITO": {
     "idNumerico": "12",
-    "nome": "Peeeerfeito!",
+    "nome": "Peeeerfeito",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:31|25/07/2026",
     "cofreConsertado": false,

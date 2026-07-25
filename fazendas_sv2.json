@@ -10,10 +10,10 @@
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:30|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T00:06:19.818Z"
+    "roubadaEm": "2026-07-25T05:30:47.280Z"
   },
   "AWAKE COMPANY": {
     "idNumerico": "13",
@@ -204,7 +204,7 @@
     "nome": "Fazenda Rei Drogado",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:16|25/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-25T05:16:11.019Z"
   },
   "AMO A MAZZI": {
@@ -302,14 +302,6 @@
     "disponivelEm": "03:37|25/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-25T01:37:15.236Z"
-  },
-  "@FILH_ODOPAII": {
-    "idNumerico": "12",
-    "nome": "@filh_odopaii",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:28|25/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T00:28:56.252Z"
   },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",

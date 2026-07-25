@@ -282,10 +282,10 @@
   "GRUPO NEXUS": {
     "idNumerico": "9",
     "nome": "GRUPO NEXUS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:07|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T19:00:30.229Z"
+    "roubadaEm": "2026-07-25T00:07:33.897Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",

@@ -28,7 +28,7 @@
     "nome": "RocK Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:50|25/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-25T15:50:56.291Z"
   },
   "FAZENDA DO TEMOR": {
@@ -306,10 +306,10 @@
   "ZICO TREM BALA": {
     "idNumerico": "42",
     "nome": "ZICO TREM BALA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:54|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T08:13:18.859Z"
+    "roubadaEm": "2026-07-25T15:54:18.822Z"
   },
   "FRANCA": {
     "idNumerico": "28",

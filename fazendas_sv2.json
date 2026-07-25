@@ -228,16 +228,16 @@
     "nome": "GRUPO RANTER",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:04|25/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-25T17:04:37.049Z"
   },
   "ROLINHA CANSADA FARMS": {
     "idNumerico": "14",
     "nome": "Rolinha Cansada Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:09|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T21:51:57.149Z"
+    "roubadaEm": "2026-07-25T17:09:14.910Z"
   },
   "/VENDERPRODUTOS": {
     "idNumerico": "7",
@@ -278,14 +278,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-24T02:08:35.932Z"
-  },
-  "FAZENDINHA BETREZE 2": {
-    "idNumerico": "38",
-    "nome": "Fazendinha BeTreZe 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:08|25/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T12:08:20.687Z"
   },
   "@FILH_ODOPAII": {
     "idNumerico": "12",
@@ -332,7 +324,7 @@
     "nome": "FARM DO GALO",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:02|25/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-25T17:02:42.363Z"
   },
   "FARM DA THATY": {

@@ -170,10 +170,10 @@
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:59|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T18:55:00.379Z"
+    "roubadaEm": "2026-07-25T00:59:58.731Z"
   },
   "VC É A PIADA AQUI": {
     "idNumerico": "10",
@@ -212,7 +212,7 @@
     "nome": "Familia KuSh",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:52|25/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-25T00:52:37.298Z"
   },
   "FAZENDINHA DO IGEZE": {

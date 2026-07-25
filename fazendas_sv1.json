@@ -26,10 +26,10 @@
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
     "nome": "Rafha investimentos $",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:56|25/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T06:16:03.300Z"
+    "roubadaEm": "2026-07-25T13:56:44.629Z"
   },
   "THUG LIFE": {
     "idNumerico": "21",
@@ -124,7 +124,7 @@
     "nome": "Farm's de Cafe",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:49|25/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-25T13:49:37.522Z"
   },
   "FAZENDA ROTA DO CAFÉ": {

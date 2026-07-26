@@ -42,10 +42,10 @@
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:25|26/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T15:05:59.121Z"
+    "roubadaEm": "2026-07-26T21:25:58.710Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
@@ -148,7 +148,7 @@
     "nome": "Vc é a piada aqui",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:13|26/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-26T21:13:35.575Z"
   },
   "GRANJA DO IMONKEY": {

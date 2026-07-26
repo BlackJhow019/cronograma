@@ -18,10 +18,10 @@
   "AWAKE COMPANY": {
     "idNumerico": "13",
     "nome": "AwaKe Company",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:48|26/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T19:09:39.866Z"
+    "roubadaEm": "2026-07-26T05:48:55.762Z"
   },
   "ROCK FARM": {
     "idNumerico": "11",
@@ -141,7 +141,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "07:27|26/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T05:27:41.207Z"
+    "roubadaEm": "2026-07-26T05:27:18.632Z"
   },
   "DONA SEM RAZAO": {
     "idNumerico": "26",

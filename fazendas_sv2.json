@@ -36,7 +36,7 @@
     "nome": "Fazenda do Temor",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:39|26/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-26T02:39:28.939Z"
   },
   "LA FAMILIA CHIARADIA": {
@@ -122,10 +122,10 @@
   "ARIANA_B13": {
     "idNumerico": "10",
     "nome": "Ariana_B13",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:46|26/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T19:42:01.764Z"
+    "roubadaEm": "2026-07-26T02:46:24.963Z"
   },
   "FARME DO DRAKE": {
     "idNumerico": "35",

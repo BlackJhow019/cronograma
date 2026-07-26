@@ -244,7 +244,7 @@
     "nome": "30PRAUM",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:40|26/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-26T12:40:32.227Z"
   },
   "FAZENDA FELIZ": {
@@ -254,14 +254,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-26T05:10:14.132Z"
-  },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:51|26/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-26T07:51:45.728Z"
   },
   "GRUPO NEXUS": {
     "idNumerico": "9",
@@ -346,9 +338,9 @@
   "THUG LIFE": {
     "idNumerico": "21",
     "nome": "THUG LIFE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:54|26/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T07:22:58.118Z"
+    "roubadaEm": "2026-07-26T12:54:36.898Z"
   }
 }

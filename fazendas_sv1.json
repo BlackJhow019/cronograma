@@ -34,10 +34,10 @@
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:33|26/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T06:06:48.850Z"
+    "roubadaEm": "2026-07-26T14:33:10.128Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -292,7 +292,7 @@
     "nome": "roubo off",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:22|26/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-26T14:22:00.190Z"
   },
   "RANCHO DO DOUTOR": {

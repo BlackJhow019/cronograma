@@ -255,6 +255,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-26T05:10:14.132Z"
   },
+  "OS DE RACA": {
+    "idNumerico": "0",
+    "nome": "OS DE RACA",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-26T07:51:45.728Z"
+  },
   "GRUPO NEXUS": {
     "idNumerico": "9",
     "nome": "GRUPO NEXUS",
@@ -278,14 +286,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-26T02:03:40.399Z"
-  },
-  "ROUBO OFF": {
-    "idNumerico": "7",
-    "nome": "roubo off",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:54|26/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-26T07:54:50.514Z"
   },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",

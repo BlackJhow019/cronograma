@@ -4,7 +4,7 @@
     "nome": "rico louco",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:01|26/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-26T05:01:33.503Z"
   },
   "KODIAK": {
@@ -50,10 +50,10 @@
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
     "nome": "Wesker_u$MeTraLha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:09|26/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-24T14:38:47.313Z"
+    "roubadaEm": "2026-07-26T05:09:36.184Z"
   },
   "< GAUBRE LTDA >": {
     "idNumerico": "2",
@@ -324,7 +324,7 @@
     "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:00|26/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-26T05:00:03.911Z"
   },
   "SAO PEDRO 2": {

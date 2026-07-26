@@ -36,7 +36,7 @@
     "nome": "Lek0zika",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:06|26/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-26T06:06:48.850Z"
   },
   "BORRACHAS FARM": {
@@ -74,10 +74,10 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:10|26/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T00:48:25.910Z"
+    "roubadaEm": "2026-07-26T06:10:37.616Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
@@ -334,14 +334,6 @@
     "disponivelEm": "06:18|26/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-26T04:18:23.059Z"
-  },
-  "PEEEERFEITO": {
-    "idNumerico": "12",
-    "nome": "Peeeerfeito",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:07|26/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T01:07:53.598Z"
   },
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",

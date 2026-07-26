@@ -31,14 +31,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-25T23:02:02.399Z"
   },
-  "LEK0ZIKA": {
-    "idNumerico": "35",
-    "nome": "Lek0zika",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:17|26/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-26T00:17:07.996Z"
-  },
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
@@ -52,7 +44,7 @@
     "nome": "Wesker_u$MeTraLha",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:09|26/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-26T05:09:53.480Z"
   },
   "< GAUBRE LTDA >": {
@@ -167,14 +159,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-25T23:12:20.536Z"
   },
-  "YT @GANDIA_RP": {
-    "idNumerico": "15",
-    "nome": "YT @GANDIA_RP",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:18|26/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-26T00:18:05.575Z"
-  },
   "021": {
     "idNumerico": "1",
     "nome": "021",
@@ -190,14 +174,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-25T11:52:09.988Z"
-  },
-  "FAZENDINHA DO IGEZE": {
-    "idNumerico": "36",
-    "nome": "fazendinha do igeze",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:17|26/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-26T00:17:40.840Z"
   },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
@@ -218,10 +194,10 @@
   "RICK FARM'S": {
     "idNumerico": "40",
     "nome": "Rick Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:20|26/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T21:41:48.896Z"
+    "roubadaEm": "2026-07-26T05:20:43.737Z"
   },
   "JAH RASTAFARI": {
     "idNumerico": "39",
@@ -252,7 +228,7 @@
     "nome": "fazenda feliz",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:10|26/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-26T05:10:14.132Z"
   },
   "OS DE RACA": {

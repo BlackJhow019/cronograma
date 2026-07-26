@@ -19,7 +19,7 @@
     "idNumerico": "13",
     "nome": "AwaKe Company",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:45|26/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-26T14:45:07.046Z"
   },
@@ -38,6 +38,14 @@
     "disponivelEm": "19:22|26/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-26T17:22:35.317Z"
+  },
+  "LA FAMILIA CHIARADIA": {
+    "idNumerico": "43",
+    "nome": "LA FAMILIA CHIARADIA",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-26T14:38:05.595Z"
   },
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
@@ -186,8 +194,8 @@
   "AMO A MAZZI": {
     "idNumerico": "6",
     "nome": "Amo a Mazzi",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:40|26/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-26T14:40:48.845Z"
   },
@@ -262,14 +270,6 @@
     "disponivelEm": "17:11|26/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-26T15:11:11.473Z"
-  },
-  "QG FARM KHAOS": {
-    "idNumerico": "18",
-    "nome": "QG FARM KHAOS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:41|26/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T14:41:43.522Z"
   },
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",

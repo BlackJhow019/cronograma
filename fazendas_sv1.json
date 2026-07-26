@@ -100,7 +100,7 @@
     "nome": "Monopolio Farms",
     "status": "INDISPONIVEL",
     "disponivelEm": "10:20|26/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-26T08:20:25.969Z"
   },
   "AZEROX": {
@@ -146,18 +146,10 @@
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T02:41:38.168Z"
-  },
-  "VC É A PIADA AQUI": {
-    "idNumerico": "10",
-    "nome": "Vc é a piada aqui",
     "status": "INDISPONIVEL",
-    "disponivelEm": "05:38|26/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-26T03:38:57.725Z"
+    "disponivelEm": "10:41|26/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-26T08:41:53.021Z"
   },
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
@@ -211,7 +203,7 @@
     "idNumerico": "13",
     "nome": "Norex farm's",
     "status": "INDISPONIVEL",
-    "disponivelEm": "05:41|26/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-26T03:41:39.914Z"
   },

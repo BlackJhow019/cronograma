@@ -122,9 +122,9 @@
   "ARIANA_B13": {
     "idNumerico": "10",
     "nome": "Ariana_B13",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:58|26/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-26T17:58:29.735Z"
   },
   "FARME DO DRAKE": {
@@ -350,13 +350,5 @@
     "disponivelEm": "23:07|26/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-26T21:07:36.082Z"
-  },
-  "@FILH_ODOPAII": {
-    "idNumerico": "12",
-    "nome": "@filh_odopaii",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:01|26/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T18:01:24.138Z"
   }
 }

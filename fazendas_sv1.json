@@ -279,14 +279,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-26T13:13:38.987Z"
   },
-  "ROUBO OFF": {
-    "idNumerico": "7",
-    "nome": "roubo off",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:22|26/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-26T14:22:00.190Z"
-  },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
@@ -346,9 +338,9 @@
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:25|26/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-07-26T19:25:50.184Z"
   }
 }

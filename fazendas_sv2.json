@@ -100,16 +100,8 @@
     "nome": "CANNABIS",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:24|26/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-26T00:24:41.225Z"
-  },
-  "AMO O LOWER": {
-    "idNumerico": "2",
-    "nome": "Amo o Lower",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:26|25/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T19:26:40.500Z"
   },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
@@ -250,8 +242,8 @@
   "~E V O M~": {
     "idNumerico": "25",
     "nome": "~E V O M~",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:25|25/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-25T19:25:08.986Z"
   },

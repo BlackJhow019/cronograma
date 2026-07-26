@@ -28,7 +28,7 @@
     "nome": "Rafha investimentos $",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:11|26/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-26T14:11:41.724Z"
   },
   "LEK0ZIKA": {
@@ -290,10 +290,10 @@
   "ROUBO OFF": {
     "idNumerico": "7",
     "nome": "roubo off",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:21|26/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T07:54:50.514Z"
+    "roubadaEm": "2026-07-26T14:21:40.690Z"
   },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",

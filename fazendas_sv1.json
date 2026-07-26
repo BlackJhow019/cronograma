@@ -2,9 +2,9 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:18|26/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-25T22:18:49.005Z"
   },
   "KODIAK": {
@@ -343,9 +343,9 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-26T01:07:53.598Z"
   },
-  "RAMONZIN_FRANCA": {
+  "THUG LIFE": {
     "idNumerico": "21",
-    "nome": "RAMONZIN_FRANCA",
+    "nome": "THUG LIFE",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:56|26/07/2026",
     "cofreConsertado": true,

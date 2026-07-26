@@ -26,8 +26,8 @@
   "ROCK FARM": {
     "idNumerico": "11",
     "nome": "RocK Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:11|25/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-25T21:11:59.487Z"
   },
@@ -38,14 +38,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-25T20:36:52.786Z"
-  },
-  "LA FAMILIA CHIARADIA": {
-    "idNumerico": "43",
-    "nome": "LA FAMILIA CHIARADIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:13|25/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-25T21:13:57.326Z"
   },
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
@@ -228,7 +220,7 @@
     "nome": "GRUPO RANTER",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:11|26/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-26T02:11:42.367Z"
   },
   "ROLINHA CANSADA FARMS": {

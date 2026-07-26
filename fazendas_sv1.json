@@ -202,10 +202,10 @@
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:18|26/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T20:48:59.370Z"
+    "roubadaEm": "2026-07-26T02:18:19.364Z"
   },
   "NOREX FARM'S": {
     "idNumerico": "13",
@@ -299,7 +299,7 @@
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
     "status": "INDISPONIVEL",
-    "disponivelEm": "23:18|25/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-25T21:18:07.308Z"
   },

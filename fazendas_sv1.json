@@ -2,10 +2,10 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:57|26/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T05:01:33.503Z"
+    "roubadaEm": "2026-07-26T11:57:59.737Z"
   },
   "KODIAK": {
     "idNumerico": "3",
@@ -324,7 +324,7 @@
     "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:50|26/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-26T11:50:52.478Z"
   },
   "SAO PEDRO 2": {

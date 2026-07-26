@@ -31,6 +31,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-26T02:27:58.281Z"
   },
+  "FAZENDA DO TEMOR": {
+    "idNumerico": "30",
+    "nome": "Fazenda do Temor",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-26T12:01:22.080Z"
+  },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
     "nome": "LA FAMILIA CHIARADIA",
@@ -274,10 +282,10 @@
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",
     "nome": "Fazendinha BeTreZe 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:05|26/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T17:36:10.239Z"
+    "roubadaEm": "2026-07-26T17:05:19.547Z"
   },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",

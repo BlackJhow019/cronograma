@@ -42,9 +42,9 @@
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:44|26/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-26T00:44:50.725Z"
   },
   "WESKER_U$METRALHA": {
@@ -70,14 +70,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-25T23:06:04.196Z"
-  },
-  "CLUBE DA LULUZINHA": {
-    "idNumerico": "8",
-    "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:48|26/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T00:48:25.910Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
@@ -197,7 +189,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "07:44|26/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T05:44:31.382Z"
+    "roubadaEm": "2026-07-26T05:44:19.734Z"
   },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
@@ -343,9 +335,9 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-26T01:07:53.598Z"
   },
-  "THUG LIFE": {
+  "RAMONZIN_FRANCA": {
     "idNumerico": "21",
-    "nome": "THUG LIFE",
+    "nome": "RAMONZIN_FRANCA",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:56|26/07/2026",
     "cofreConsertado": true,

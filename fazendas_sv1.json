@@ -1,4 +1,12 @@
 {
+  "RICO LOUCO": {
+    "idNumerico": "11",
+    "nome": "rico louco",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-26T18:33:31.209Z"
+  },
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
@@ -50,8 +58,8 @@
   "< GAUBRE LTDA >": {
     "idNumerico": "2",
     "nome": "< GAUBRE LTDA >",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:35|26/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-26T18:35:23.154Z"
   },
@@ -187,7 +195,7 @@
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
     "status": "INDISPONIVEL",
-    "disponivelEm": "20:37|26/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-26T18:37:53.821Z"
   },

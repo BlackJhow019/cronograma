@@ -2,10 +2,10 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:40|27/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T18:33:31.209Z"
+    "roubadaEm": "2026-07-26T23:40:18.274Z"
   },
   "KODIAK": {
     "idNumerico": "3",
@@ -190,14 +190,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-26T18:08:05.923Z"
-  },
-  "POLEMICO$ INDUSTRI$": {
-    "idNumerico": "37",
-    "nome": "PoLeMiCo$ industri$",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-26T18:37:53.821Z"
   },
   "NOREX FARM'S": {
     "idNumerico": "13",

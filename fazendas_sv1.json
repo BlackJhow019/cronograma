@@ -100,7 +100,7 @@
     "nome": "Monopolio Farms",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:32|26/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-26T01:32:36.805Z"
   },
   "AZEROX": {
@@ -199,14 +199,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-26T00:17:40.840Z"
   },
-  "POLEMICO$ INDUSTRI$": {
-    "idNumerico": "37",
-    "nome": "PoLeMiCo$ industri$",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:48|25/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T20:48:59.370Z"
-  },
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
@@ -226,10 +218,10 @@
   "JAH RASTAFARI": {
     "idNumerico": "39",
     "nome": "JAH RASTAFARI",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:50|26/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T18:10:10.340Z"
+    "roubadaEm": "2026-07-26T01:50:45.700Z"
   },
   ".": {
     "idNumerico": "31",

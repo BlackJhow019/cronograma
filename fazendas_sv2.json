@@ -119,22 +119,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-26T06:22:28.928Z"
   },
-  "ARIANA_B13": {
-    "idNumerico": "10",
-    "nome": "Ariana_B13",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T11:34:04.071Z"
-  },
-  "FARME DO DRAKE": {
-    "idNumerico": "35",
-    "nome": "Farme do Drake",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:34|26/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T11:46:52.563Z"
-  },
   "DEAD (:": {
     "idNumerico": "27",
     "nome": "Dead (:",
@@ -330,10 +314,10 @@
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",
     "nome": "Fazenda Rei Drogado",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:36|26/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T16:33:55.659Z"
+    "roubadaEm": "2026-07-26T16:36:40.505Z"
   },
   "TREMBALA": {
     "idNumerico": "42",

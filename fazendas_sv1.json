@@ -164,7 +164,7 @@
     "nome": "Granja do iMonKeY",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:40|26/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-26T06:40:54.293Z"
   },
   "YT @GANDIA_RP": {
@@ -335,14 +335,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-26T04:18:23.059Z"
   },
-  "PEEEERFEITO": {
-    "idNumerico": "12",
-    "nome": "Peeeerfeito",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T01:07:53.598Z"
-  },
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",
     "nome": "RAMONZIN_FRANCA",
@@ -350,5 +342,13 @@
     "disponivelEm": "03:56|26/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-26T01:56:23.450Z"
+  },
+  "PEEEERFEITO!": {
+    "idNumerico": "12",
+    "nome": "Peeeerfeito!",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:43|26/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-26T06:43:58.949Z"
   }
 }

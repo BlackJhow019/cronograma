@@ -330,10 +330,10 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:18|26/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T04:18:23.059Z"
+    "roubadaEm": "2026-07-26T10:18:32.795Z"
   },
   "PEEEERFEITO": {
     "idNumerico": "12",

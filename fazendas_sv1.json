@@ -226,9 +226,9 @@
   "JAH RASTAFARI": {
     "idNumerico": "39",
     "nome": "JAH RASTAFARI",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:51|26/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-26T01:51:05.736Z"
   },
   ".": {
@@ -343,9 +343,9 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-26T01:56:23.450Z"
   },
-  "PEEEERFEITO!": {
+  "PEEEERFEITO": {
     "idNumerico": "12",
-    "nome": "Peeeerfeito!",
+    "nome": "Peeeerfeito",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:43|26/07/2026",
     "cofreConsertado": false,

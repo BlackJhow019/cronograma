@@ -183,14 +183,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-26T19:12:14.790Z"
   },
-  "FAZENDINHA DO IGEZE": {
-    "idNumerico": "36",
-    "nome": "fazendinha do igeze",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:08|26/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T18:08:05.923Z"
-  },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
@@ -266,10 +258,10 @@
   "K1NG FARM'S": {
     "idNumerico": "25",
     "nome": "K1NG Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:10|27/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T13:04:05.607Z"
+    "roubadaEm": "2026-07-26T23:10:53.690Z"
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",

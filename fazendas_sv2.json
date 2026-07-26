@@ -10,10 +10,10 @@
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:20|26/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T14:19:49.870Z"
+    "roubadaEm": "2026-07-26T20:20:26.492Z"
   },
   "AWAKE COMPANY": {
     "idNumerico": "13",
@@ -187,7 +187,7 @@
     "idNumerico": "29",
     "nome": "Succubus Farms",
     "status": "INDISPONIVEL",
-    "disponivelEm": "17:20|26/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-26T15:20:01.783Z"
   },

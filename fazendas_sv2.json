@@ -34,10 +34,10 @@
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:22|26/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T12:01:22.080Z"
+    "roubadaEm": "2026-07-26T17:22:35.400Z"
   },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
@@ -308,7 +308,7 @@
     "nome": "WELCOME > MELHOR FAZENDA DO BPS",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:15|26/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-26T17:15:53.558Z"
   },
   "FARM DO GALO": {

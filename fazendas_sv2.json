@@ -218,9 +218,9 @@
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",
     "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:53|25/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-25T20:53:04.215Z"
   },
   "GRUPO RANTER": {
@@ -302,14 +302,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-25T18:30:32.065Z"
-  },
-  "ZICO TREM BALA": {
-    "idNumerico": "42",
-    "nome": "ZICO TREM BALA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:56|25/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-25T20:56:33.649Z"
   },
   "FRANCA": {
     "idNumerico": "28",

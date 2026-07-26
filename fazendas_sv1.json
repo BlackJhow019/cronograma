@@ -138,10 +138,10 @@
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:31|26/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T22:53:28.124Z"
+    "roubadaEm": "2026-07-26T04:31:47.660Z"
   },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
@@ -332,7 +332,7 @@
     "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:18|26/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-26T04:18:23.059Z"
   },
   "PEEEERFEITO": {

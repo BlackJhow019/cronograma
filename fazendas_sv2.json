@@ -23,14 +23,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-26T20:07:58.837Z"
   },
-  "ROCK FARM": {
-    "idNumerico": "11",
-    "nome": "RocK Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:56|26/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-26T18:56:49.955Z"
-  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -79,14 +71,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-26T14:36:34.556Z"
   },
-  "YELLOWSTONE - BY MONSTER": {
-    "idNumerico": "16",
-    "nome": "YellowStone - By Monster",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:54|26/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-26T18:54:34.118Z"
-  },
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
     "nome": "Farms de Galopisitas",
@@ -122,10 +106,10 @@
   "ARIANA_B13": {
     "idNumerico": "10",
     "nome": "Ariana_B13",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:57|27/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T17:58:29.735Z"
+    "roubadaEm": "2026-07-26T23:57:54.071Z"
   },
   "FARME DO DRAKE": {
     "idNumerico": "35",

@@ -34,9 +34,9 @@
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:33|26/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-26T14:33:23.832Z"
   },
   "BORRACHAS FARM": {
@@ -99,7 +99,7 @@
     "idNumerico": "20",
     "nome": "Monopolio Farms",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:37|26/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-26T14:37:48.636Z"
   },
@@ -348,7 +348,7 @@
     "nome": "Familia AlmanaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:26|26/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-26T19:26:06.060Z"
   }
 }

@@ -67,9 +67,9 @@
     "idNumerico": "23",
     "nome": "B13 :)",
     "status": "INDISPONIVEL",
-    "disponivelEm": "00:42|27/07/2026",
+    "disponivelEm": "00:43|27/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T22:42:01.752Z"
+    "roubadaEm": "2026-07-26T22:43:04.462Z"
   },
   "MALVADA'S FARM": {
     "idNumerico": "32",
@@ -127,14 +127,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-26T17:58:29.735Z"
   },
-  "FARME DO DRAKE": {
-    "idNumerico": "35",
-    "nome": "Farme do Drake",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:42|26/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-26T17:54:39.110Z"
-  },
   "DEAD (:": {
     "idNumerico": "27",
     "nome": "Dead (:",
@@ -171,7 +163,7 @@
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
     "status": "INDISPONIVEL",
-    "disponivelEm": "19:42|26/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-26T17:42:46.201Z"
   },

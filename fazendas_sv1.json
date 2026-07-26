@@ -335,14 +335,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-26T10:18:32.544Z"
   },
-  "PEEEERFEITO": {
-    "idNumerico": "12",
-    "nome": "Peeeerfeito",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T06:43:58.858Z"
-  },
   "THUG LIFE": {
     "idNumerico": "21",
     "nome": "THUG LIFE",
@@ -350,5 +342,13 @@
     "disponivelEm": "14:54|26/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-26T12:54:36.898Z"
+  },
+  "PEEEERFEITO!": {
+    "idNumerico": "12",
+    "nome": "Peeeerfeito!",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:45|26/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-26T14:45:23.757Z"
   }
 }

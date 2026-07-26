@@ -122,17 +122,17 @@
   "ARIANA_B13": {
     "idNumerico": "10",
     "nome": "Ariana_B13",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:58|26/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T11:34:04.071Z"
+    "roubadaEm": "2026-07-26T17:58:07.172Z"
   },
   "FARME DO DRAKE": {
     "idNumerico": "35",
     "nome": "Farme do Drake",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:42|26/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-26T17:54:39.110Z"
   },
   "DEAD (:": {

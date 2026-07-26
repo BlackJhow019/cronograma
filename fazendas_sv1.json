@@ -15,6 +15,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-25T20:14:10.348Z"
   },
+  "NIKE SHOX": {
+    "idNumerico": "42",
+    "nome": "NIKE SHOX",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-26T02:50:27.271Z"
+  },
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
     "nome": "Rafha investimentos $",
@@ -235,7 +243,7 @@
     "idNumerico": "16",
     "nome": "30PRAUM",
     "status": "INDISPONIVEL",
-    "disponivelEm": "04:55|26/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-26T02:55:45.838Z"
   },
@@ -284,7 +292,7 @@
     "nome": "roubo off",
     "status": "INDISPONIVEL",
     "disponivelEm": "09:54|26/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-26T07:54:50.514Z"
   },
   "RANCHO DO DOUTOR": {

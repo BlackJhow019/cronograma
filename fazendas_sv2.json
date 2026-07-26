@@ -47,14 +47,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-26T02:27:14.440Z"
   },
-  "FARMA DA FAMILIA ELITE": {
-    "idNumerico": "33",
-    "nome": "Farma Da Familia Elite",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:02|26/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T22:02:17.019Z"
-  },
   "TA NO GRALI": {
     "idNumerico": "4",
     "nome": "ta no grali",
@@ -132,7 +124,7 @@
     "nome": "Farme do Drake",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:41|26/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-26T02:53:49.908Z"
   },
   "DEAD (:": {
@@ -210,9 +202,9 @@
   "CHAMA A POLICIA": {
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:00|26/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-25T22:00:06.883Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {

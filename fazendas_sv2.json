@@ -314,10 +314,10 @@
   "FARM DO GALO": {
     "idNumerico": "40",
     "nome": "FARM DO GALO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:31|26/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T05:01:11.537Z"
+    "roubadaEm": "2026-07-26T21:31:26.041Z"
   },
   "FARM DA THATY": {
     "idNumerico": "1",

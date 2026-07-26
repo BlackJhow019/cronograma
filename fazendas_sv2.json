@@ -74,10 +74,10 @@
   "MALVADA'S FARM": {
     "idNumerico": "32",
     "nome": "Malvada's Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:29|26/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T18:22:00.306Z"
+    "roubadaEm": "2026-07-26T00:29:05.052Z"
   },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",

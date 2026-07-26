@@ -156,7 +156,7 @@
     "nome": "Vc é a piada aqui",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:38|26/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-26T03:38:57.725Z"
   },
   "GRANJA DO IMONKEY": {
@@ -212,7 +212,7 @@
     "nome": "Norex farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:41|26/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-26T03:41:39.914Z"
   },
   "RICK FARM'S": {
@@ -274,8 +274,8 @@
   "K1NG FARM'S": {
     "idNumerico": "25",
     "nome": "K1NG Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:48|26/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-25T22:48:32.633Z"
   },

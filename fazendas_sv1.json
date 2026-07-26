@@ -98,10 +98,10 @@
   "MONOPOLIO FARMS": {
     "idNumerico": "20",
     "nome": "Monopolio Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:20|26/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T01:32:36.805Z"
+    "roubadaEm": "2026-07-26T08:20:25.969Z"
   },
   "AZEROX": {
     "idNumerico": "23",

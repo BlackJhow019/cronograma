@@ -306,10 +306,10 @@
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:06|26/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T07:05:51.041Z"
+    "roubadaEm": "2026-07-26T14:06:05.313Z"
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {
     "idNumerico": "37",

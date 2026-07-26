@@ -60,7 +60,7 @@
     "nome": "ta no grali",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:03|26/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-26T18:03:37.796Z"
   },
   "B13 :)": {
@@ -82,9 +82,9 @@
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
     "nome": "YellowStone - By Monster",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:08|26/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-26T13:08:35.172Z"
   },
   "FARMS DE GALOPISITAS": {

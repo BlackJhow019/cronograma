@@ -36,7 +36,7 @@
     "nome": "Lek0zika",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:33|26/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-26T14:33:23.832Z"
   },
   "BORRACHAS FARM": {
@@ -98,10 +98,10 @@
   "MONOPOLIO FARMS": {
     "idNumerico": "20",
     "nome": "Monopolio Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:37|26/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T08:20:25.969Z"
+    "roubadaEm": "2026-07-26T14:37:48.636Z"
   },
   "AZEROX": {
     "idNumerico": "23",

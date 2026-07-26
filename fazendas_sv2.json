@@ -178,10 +178,10 @@
   "AURA + EGO": {
     "idNumerico": "22",
     "nome": "Aura + Ego",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:51|26/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T06:06:52.743Z"
+    "roubadaEm": "2026-07-26T13:51:22.743Z"
   },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",
@@ -204,7 +204,7 @@
     "nome": "yAninha_AntiFalsos",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:45|26/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-26T13:45:26.694Z"
   },
   "CHAMA A POLICIA": {

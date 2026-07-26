@@ -111,14 +111,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-26T01:40:19.467Z"
   },
-  "SE ROUBAR MORRE": {
-    "idNumerico": "41",
-    "nome": "SE ROUBAR MORRE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:12|26/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T00:12:53.230Z"
-  },
   "ARIANA_B13": {
     "idNumerico": "10",
     "nome": "Ariana_B13",
@@ -167,11 +159,19 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-26T01:37:30.091Z"
   },
+  "FARM DO SAPATO": {
+    "idNumerico": "9",
+    "nome": "FARM DO SAPATO",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-26T00:10:29.435Z"
+  },
   "AURA + EGO": {
     "idNumerico": "22",
     "nome": "Aura + Ego",
     "status": "INDISPONIVEL",
-    "disponivelEm": "02:13|26/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-26T00:13:03.761Z"
   },

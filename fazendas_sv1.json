@@ -140,7 +140,7 @@
     "nome": "Familia AlmanaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:07|26/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-26T12:07:15.294Z"
   },
   "QUEM ROUBAR E PETISTA": {
@@ -210,10 +210,10 @@
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:15|26/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T03:41:39.914Z"
+    "roubadaEm": "2026-07-26T12:15:03.261Z"
   },
   "RICK FARM'S": {
     "idNumerico": "30",

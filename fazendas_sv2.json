@@ -95,14 +95,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-26T01:51:26.038Z"
   },
-  "CANNABIS": {
-    "idNumerico": "8",
-    "nome": "CANNABIS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:24|26/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-26T00:24:24.992Z"
-  },
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
@@ -138,10 +130,10 @@
   "DEAD (:": {
     "idNumerico": "27",
     "nome": "Dead (:",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:27|26/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T23:21:32.910Z"
+    "roubadaEm": "2026-07-26T05:27:18.707Z"
   },
   "DONA SEM RAZAO": {
     "idNumerico": "26",

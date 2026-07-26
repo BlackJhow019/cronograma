@@ -39,6 +39,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-25T20:36:52.786Z"
   },
+  "LA FAMILIA CHIARADIA": {
+    "idNumerico": "43",
+    "nome": "LA FAMILIA CHIARADIA",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-25T21:13:57.326Z"
+  },
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
     "nome": "Farma Da Familia Elite",
@@ -54,6 +62,14 @@
     "disponivelEm": "00:25|26/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-25T22:25:29.182Z"
+  },
+  "B13 :)": {
+    "idNumerico": "23",
+    "nome": "B13 :)",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-25T21:16:41.305Z"
   },
   "MALVADA'S FARM": {
     "idNumerico": "32",
@@ -287,14 +303,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-25T18:30:32.065Z"
   },
-  "ZICO TREM BALA": {
-    "idNumerico": "42",
-    "nome": "ZICO TREM BALA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T20:56:33.649Z"
-  },
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
@@ -334,5 +342,13 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-25T16:33:55.659Z"
+  },
+  "TREMBALA": {
+    "idNumerico": "42",
+    "nome": "TremBala",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-25T20:56:33.649Z"
   }
 }

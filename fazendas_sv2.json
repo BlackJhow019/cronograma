@@ -10,10 +10,10 @@
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:43|26/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T00:44:52.883Z"
+    "roubadaEm": "2026-07-26T07:43:14.411Z"
   },
   "AWAKE COMPANY": {
     "idNumerico": "13",
@@ -30,14 +30,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-26T02:27:58.281Z"
-  },
-  "FAZENDA DO TEMOR": {
-    "idNumerico": "30",
-    "nome": "Fazenda do Temor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:39|26/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-26T02:39:00.433Z"
   },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
@@ -126,14 +118,6 @@
     "disponivelEm": "04:46|26/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-26T02:46:24.768Z"
-  },
-  "FARME DO DRAKE": {
-    "idNumerico": "35",
-    "nome": "Farme do Drake",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:41|26/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-26T02:53:49.908Z"
   },
   "DEAD (:": {
     "idNumerico": "27",

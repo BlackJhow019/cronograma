@@ -42,10 +42,10 @@
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
     "nome": "LA FAMILIA CHIARADIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:38|26/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T14:38:05.595Z"
+    "roubadaEm": "2026-07-26T21:38:43.169Z"
   },
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
@@ -148,7 +148,7 @@
     "nome": "Dona sem razao",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:32|26/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-26T21:32:30.639Z"
   },
   "FAZENDA DO GALIN": {
@@ -252,7 +252,7 @@
     "nome": "~E V O M~",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:33|26/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-26T21:33:49.322Z"
   },
   "FAZENDA CUIUDA - BY GAZOLA": {
@@ -316,7 +316,7 @@
     "nome": "FARM DO GALO",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:32|26/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-26T21:32:32.877Z"
   },
   "FARM DA THATY": {
@@ -326,14 +326,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-25T21:23:43.223Z"
-  },
-  "FAZENDA REI DROGADO": {
-    "idNumerico": "31",
-    "nome": "Fazenda Rei Drogado",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:36|26/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T16:36:52.334Z"
   },
   "TREMBALA": {
     "idNumerico": "42",

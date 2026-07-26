@@ -143,19 +143,11 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-26T16:42:02.455Z"
   },
-  "DONA SEM RAZAO": {
-    "idNumerico": "26",
-    "nome": "Dona sem razao",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:27|26/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T15:27:12.497Z"
-  },
   "FAZENDA DO GALIN": {
     "idNumerico": "15",
     "nome": "Fazenda do Galin",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:26|26/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-26T15:26:36.604Z"
   },

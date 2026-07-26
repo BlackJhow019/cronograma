@@ -84,7 +84,7 @@
     "nome": "Fazenda da Milly",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:04|26/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-26T21:04:50.900Z"
   },
   "HWD INVESTIMENTOS": {
@@ -146,10 +146,10 @@
   "VC É A PIADA AQUI": {
     "idNumerico": "10",
     "nome": "Vc é a piada aqui",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:13|26/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T03:38:57.725Z"
+    "roubadaEm": "2026-07-26T21:13:35.575Z"
   },
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",

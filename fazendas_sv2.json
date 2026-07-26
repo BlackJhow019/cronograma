@@ -39,14 +39,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-26T17:22:35.317Z"
   },
-  "LA FAMILIA CHIARADIA": {
-    "idNumerico": "43",
-    "nome": "LA FAMILIA CHIARADIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:38|26/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-26T14:38:05.595Z"
-  },
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
     "nome": "Farma Da Familia Elite",
@@ -74,8 +66,8 @@
   "MALVADA'S FARM": {
     "idNumerico": "32",
     "nome": "Malvada's Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:36|26/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-26T14:36:34.556Z"
   },

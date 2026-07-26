@@ -298,10 +298,10 @@
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:50|26/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T02:20:19.770Z"
+    "roubadaEm": "2026-07-26T09:50:26.557Z"
   },
   "FRANCA": {
     "idNumerico": "28",

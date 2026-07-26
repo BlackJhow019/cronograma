@@ -20,8 +20,8 @@
     "nome": "NIKE SHOX",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:50|26/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T02:50:41.482Z"
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-26T02:50:27.271Z"
   },
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
@@ -149,7 +149,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "04:41|26/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T02:41:38.279Z"
+    "roubadaEm": "2026-07-26T02:41:38.168Z"
   },
   "VC É A PIADA AQUI": {
     "idNumerico": "10",
@@ -335,14 +335,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-25T16:52:08.023Z"
   },
-  "THUG LIFE": {
-    "idNumerico": "21",
-    "nome": "THUG LIFE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:56|26/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-26T01:56:23.450Z"
-  },
   "PEEEERFEITO": {
     "idNumerico": "12",
     "nome": "Peeeerfeito",
@@ -350,5 +342,13 @@
     "disponivelEm": "03:07|26/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-26T01:07:53.598Z"
+  },
+  "THUG LIFE": {
+    "idNumerico": "21",
+    "nome": "THUG LIFE",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:56|26/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-26T01:56:23.450Z"
   }
 }

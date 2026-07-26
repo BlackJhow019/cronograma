@@ -66,10 +66,10 @@
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
     "nome": "VENDO 500km ACEITO TROCAS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:01|27/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-25T23:06:04.196Z"
+    "roubadaEm": "2026-07-26T23:01:32.007Z"
   },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",

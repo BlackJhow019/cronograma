@@ -4,7 +4,7 @@
     "nome": "rico louco",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:33|26/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-26T18:33:31.209Z"
   },
   "KODIAK": {
@@ -58,10 +58,10 @@
   "< GAUBRE LTDA >": {
     "idNumerico": "2",
     "nome": "< GAUBRE LTDA >",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:34|26/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-22T18:02:37.989Z"
+    "roubadaEm": "2026-07-26T18:34:53.607Z"
   },
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
@@ -190,14 +190,6 @@
     "disponivelEm": "20:08|26/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-26T18:08:05.923Z"
-  },
-  "POLEMICO$ INDUSTRI$": {
-    "idNumerico": "37",
-    "nome": "PoLeMiCo$ industri$",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-26T13:33:09.388Z"
   },
   "NOREX FARM'S": {
     "idNumerico": "13",

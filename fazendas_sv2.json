@@ -35,7 +35,7 @@
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
     "status": "INDISPONIVEL",
-    "disponivelEm": "14:01|26/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-26T12:01:22.080Z"
   },
@@ -106,10 +106,10 @@
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:01|26/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T11:50:36.362Z"
+    "roubadaEm": "2026-07-26T17:01:51.318Z"
   },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",

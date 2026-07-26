@@ -95,14 +95,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-25T20:36:25.866Z"
   },
-  "CANNABIS": {
-    "idNumerico": "8",
-    "nome": "CANNABIS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:20|25/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-25T19:20:22.915Z"
-  },
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
@@ -172,7 +164,7 @@
     "nome": "FARM DO SAPATO",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:10|26/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-26T00:10:29.435Z"
   },
   "AURA + EGO": {
@@ -314,9 +306,9 @@
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:17|25/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-25T19:17:34.990Z"
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {

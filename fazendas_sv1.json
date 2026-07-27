@@ -234,10 +234,10 @@
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:51|27/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-27T12:45:02.836Z"
+    "roubadaEm": "2026-07-27T18:51:12.666Z"
   },
   "FAZENDA FELIZ": {
     "idNumerico": "22",
@@ -261,7 +261,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "20:35|27/07/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-07-27T18:35:04.253Z"
+    "roubadaEm": "2026-07-27T18:35:04.086Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",
@@ -277,7 +277,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "20:42|27/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-27T18:42:28.727Z"
+    "roubadaEm": "2026-07-27T18:42:28.648Z"
   },
   "ROUBO OFF": {
     "idNumerico": "7",

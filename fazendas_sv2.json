@@ -4,7 +4,7 @@
     "nome": "999",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:12|27/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-27T16:12:12.285Z"
   },
   "JESUS EA SOLUCAO": {
@@ -186,10 +186,10 @@
   "AMO A MAZZI": {
     "idNumerico": "6",
     "nome": "Amo a Mazzi",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:23|27/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T21:30:07.778Z"
+    "roubadaEm": "2026-07-27T16:23:26.467Z"
   },
   "CHAMA A POLICIA": {
     "idNumerico": "44",

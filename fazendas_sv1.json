@@ -274,10 +274,10 @@
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:42|27/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-27T13:06:14.038Z"
+    "roubadaEm": "2026-07-27T18:42:28.727Z"
   },
   "ROUBO OFF": {
     "idNumerico": "7",
@@ -323,7 +323,7 @@
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
-    "disponivelEm": "15:41|27/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-27T13:41:58.839Z"
   },

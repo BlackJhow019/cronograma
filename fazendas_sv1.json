@@ -2,17 +2,17 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:06|27/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T23:40:18.130Z"
+    "roubadaEm": "2026-07-27T14:06:59.896Z"
   },
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:00|27/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-27T14:00:06.083Z"
   },
   "NIKE SHOX": {

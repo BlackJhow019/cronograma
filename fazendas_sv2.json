@@ -196,7 +196,7 @@
     "nome": "CHAMA A POLICIA",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:17|27/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-27T13:17:41.243Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
@@ -314,10 +314,10 @@
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",
     "nome": "Fazenda Rei Drogado",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:18|27/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T16:36:52.334Z"
+    "roubadaEm": "2026-07-27T13:18:54.302Z"
   },
   "TREMBALA": {
     "idNumerico": "42",
@@ -348,7 +348,7 @@
     "nome": "YellowStone - By Monster",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:12|27/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-27T13:12:57.937Z"
   },
   "YANINHA_ANTIFALSOS": {

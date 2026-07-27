@@ -114,9 +114,9 @@
   "ARIANA_B13": {
     "idNumerico": "10",
     "nome": "Ariana_B13",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:57|27/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-26T23:57:53.993Z"
   },
   "FARME DO DRAKE": {
@@ -334,14 +334,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-26T21:07:36.082Z"
-  },
-  "@FILH_ODOPAII": {
-    "idNumerico": "12",
-    "nome": "@filh_odopaii",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:00|27/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-27T00:00:12.583Z"
   },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",

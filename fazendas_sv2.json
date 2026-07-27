@@ -11,7 +11,7 @@
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
     "status": "INDISPONIVEL",
-    "disponivelEm": "04:48|27/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-27T02:48:08.832Z"
   },
@@ -298,8 +298,8 @@
   "FARM DO GALO": {
     "idNumerico": "40",
     "nome": "FARM DO GALO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:45|27/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-27T02:45:14.933Z"
   },

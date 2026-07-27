@@ -84,7 +84,7 @@
     "nome": "Farms de Galopisitas",
     "status": "INDISPONIVEL",
     "disponivelEm": "11:46|27/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-27T09:46:25.948Z"
   },
   "CANNABIS": {
@@ -234,10 +234,10 @@
   "~E V O M~": {
     "idNumerico": "25",
     "nome": "~E V O M~",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:49|27/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T21:33:49.322Z"
+    "roubadaEm": "2026-07-27T09:49:23.406Z"
   },
   "FAZENDA CUIUDA - BY GAZOLA": {
     "idNumerico": "17",

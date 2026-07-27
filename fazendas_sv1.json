@@ -42,10 +42,10 @@
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:36|28/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-27T15:43:42.564Z"
+    "roubadaEm": "2026-07-27T23:36:02.606Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
@@ -254,14 +254,6 @@
     "disponivelEm": "00:56|28/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-27T22:56:05.232Z"
-  },
-  "GRUPO NEXUS": {
-    "idNumerico": "9",
-    "nome": "GRUPO NEXUS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:35|27/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-27T18:35:04.086Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",

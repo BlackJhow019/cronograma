@@ -291,7 +291,7 @@
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
     "status": "INDISPONIVEL",
-    "disponivelEm": "14:38|27/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-27T12:38:27.476Z"
   },
@@ -343,12 +343,12 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-27T13:58:38.991Z"
   },
-  "PEEEERFEITO": {
+  "PEEEERFEITO!": {
     "idNumerico": "12",
-    "nome": "Peeeerfeito",
+    "nome": "Peeeerfeito!",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:38|27/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-27T17:38:11.576Z"
+    "roubadaEm": "2026-07-27T17:38:36.672Z"
   }
 }

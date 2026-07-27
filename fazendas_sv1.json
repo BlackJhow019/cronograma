@@ -290,10 +290,10 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:59|27/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-27T12:38:27.476Z"
+    "roubadaEm": "2026-07-27T18:59:24.794Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
@@ -334,14 +334,6 @@
     "disponivelEm": "20:00|27/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-27T18:00:29.019Z"
-  },
-  "FAMILIA ALMANAK": {
-    "idNumerico": "32",
-    "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:58|27/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-27T13:58:38.991Z"
   },
   "PEEEERFEITO": {
     "idNumerico": "12",

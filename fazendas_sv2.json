@@ -23,6 +23,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-26T20:07:58.837Z"
   },
+  "ROCK FARM": {
+    "idNumerico": "11",
+    "nome": "RocK Farm",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-26T18:56:49.955Z"
+  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -338,9 +346,9 @@
   "@FILH_ODOPAII": {
     "idNumerico": "12",
     "nome": "@filh_odopaii",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:00|27/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T18:01:24.138Z"
+    "roubadaEm": "2026-07-27T00:00:12.732Z"
   }
 }

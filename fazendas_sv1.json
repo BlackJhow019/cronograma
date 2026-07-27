@@ -258,10 +258,10 @@
   "GRUPO NEXUS": {
     "idNumerico": "9",
     "nome": "GRUPO NEXUS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:52|27/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-27T04:16:18.976Z"
+    "roubadaEm": "2026-07-27T11:52:42.967Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",
@@ -300,7 +300,7 @@
     "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:44|27/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-27T11:44:36.336Z"
   },
   "..OURO..PR3TO..": {

@@ -244,7 +244,7 @@
     "nome": "fazenda feliz",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:10|27/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-27T12:10:39.534Z"
   },
   "OS DE RACA": {
@@ -314,10 +314,10 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:16|27/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T22:43:45.221Z"
+    "roubadaEm": "2026-07-27T12:16:08.410Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -334,14 +334,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-27T04:34:42.393Z"
-  },
-  "FAMILIA ALMANAK": {
-    "idNumerico": "32",
-    "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:13|27/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-27T07:13:20.065Z"
   },
   "PEEEERFEITO": {
     "idNumerico": "12",

@@ -106,10 +106,10 @@
   "ARIANA_B13": {
     "idNumerico": "10",
     "nome": "Ariana_B13",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:23|27/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-27T12:01:39.261Z"
+    "roubadaEm": "2026-07-27T17:23:49.439Z"
   },
   "FARME DO DRAKE": {
     "idNumerico": "35",
@@ -132,7 +132,7 @@
     "nome": "Dona sem razao",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:21|27/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-27T17:21:18.546Z"
   },
   "FAZENDA DO GALIN": {

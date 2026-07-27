@@ -42,8 +42,8 @@
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:26|26/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-26T21:26:28.966Z"
   },
@@ -286,14 +286,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-26T14:22:00.190Z"
-  },
-  "RANCHO DO DOUTOR": {
-    "idNumerico": "14",
-    "nome": "Rancho do Doutor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:29|26/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-26T21:29:51.685Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",

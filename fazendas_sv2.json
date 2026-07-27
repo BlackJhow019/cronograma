@@ -196,7 +196,7 @@
     "nome": "CHAMA A POLICIA",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:31|27/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-27T18:31:29.298Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
@@ -250,10 +250,10 @@
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",
     "nome": "RAMONZIN_FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:38|27/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-27T12:36:34.095Z"
+    "roubadaEm": "2026-07-27T18:38:56.366Z"
   },
   "QG FARM KHAOS": {
     "idNumerico": "18",
@@ -356,7 +356,7 @@
     "nome": "yAninha_AntiFalsos",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:26|27/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-27T18:26:33.463Z"
   }
 }

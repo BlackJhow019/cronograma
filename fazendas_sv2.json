@@ -194,9 +194,9 @@
   "CHAMA A POLICIA": {
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:17|27/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-27T13:17:27.214Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
@@ -238,6 +238,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-27T09:49:23.284Z"
+  },
+  "FAZENDA CUIUDA - BY GAZOLA": {
+    "idNumerico": "17",
+    "nome": "Fazenda Cuiuda - By GAZOLA",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-27T13:15:45.881Z"
   },
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",
@@ -302,14 +310,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-27T12:49:53.261Z"
-  },
-  "FAZENDA REI DROGADO": {
-    "idNumerico": "31",
-    "nome": "Fazenda Rei Drogado",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:18|27/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-27T13:18:54.177Z"
   },
   "TREMBALA": {
     "idNumerico": "42",

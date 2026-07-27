@@ -1,12 +1,4 @@
 {
-  "999": {
-    "idNumerico": "39",
-    "nome": "999",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:06|26/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-26T20:06:19.025Z"
-  },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
@@ -194,9 +186,9 @@
   "CHAMA A POLICIA": {
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:03|26/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-26T20:03:27.453Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
@@ -348,7 +340,7 @@
     "nome": "YellowStone - By Monster",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:53|27/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-27T00:53:05.732Z"
   },
   "YANINHA_ANTIFALSOS": {

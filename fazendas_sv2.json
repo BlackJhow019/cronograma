@@ -15,14 +15,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-27T14:26:17.402Z"
   },
-  "AWAKE COMPANY": {
-    "idNumerico": "13",
-    "nome": "AwaKe Company",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:30|27/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-27T12:30:03.732Z"
-  },
   "ROCK FARM": {
     "idNumerico": "11",
     "nome": "RocK Farm",
@@ -76,7 +68,7 @@
     "nome": "Malvada's Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:27|27/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-27T17:27:33.363Z"
   },
   "FARMS DE GALOPISITAS": {
@@ -143,14 +135,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-27T17:21:18.546Z"
   },
-  "FAZENDA DO GALIN": {
-    "idNumerico": "15",
-    "nome": "Fazenda do Galin",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:29|27/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-27T12:29:25.086Z"
-  },
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
@@ -170,10 +154,10 @@
   "AURA + EGO": {
     "idNumerico": "22",
     "nome": "Aura + Ego",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:31|27/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-27T03:04:25.584Z"
+    "roubadaEm": "2026-07-27T17:31:41.909Z"
   },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",

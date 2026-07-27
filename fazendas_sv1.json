@@ -18,10 +18,10 @@
   "NIKE SHOX": {
     "idNumerico": "42",
     "nome": "NIKE SHOX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:29|27/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-27T12:59:26.438Z"
+    "roubadaEm": "2026-07-27T18:29:04.661Z"
   },
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
@@ -220,7 +220,7 @@
     "nome": "JAH RASTAFARI",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:11|27/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-27T18:11:37.742Z"
   },
   ".": {

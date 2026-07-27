@@ -66,10 +66,10 @@
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
     "nome": "VENDO 500km ACEITO TROCAS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:07|27/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T23:01:32.007Z"
+    "roubadaEm": "2026-07-27T20:07:44.989Z"
   },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
@@ -83,7 +83,7 @@
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
     "status": "INDISPONIVEL",
-    "disponivelEm": "17:07|27/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-27T15:07:42.072Z"
   },

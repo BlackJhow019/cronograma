@@ -35,7 +35,7 @@
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
     "status": "INDISPONIVEL",
-    "disponivelEm": "08:52|27/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-27T06:52:42.004Z"
   },
@@ -107,7 +107,7 @@
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
     "status": "INDISPONIVEL",
-    "disponivelEm": "08:52|27/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-27T06:53:07.032Z"
   },
@@ -354,9 +354,9 @@
   "YANINHA_ANTIFALSOS": {
     "idNumerico": "34",
     "nome": "yAninha_AntiFalsos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:52|27/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-27T01:07:51.618Z"
+    "roubadaEm": "2026-07-27T11:52:44.428Z"
   }
 }

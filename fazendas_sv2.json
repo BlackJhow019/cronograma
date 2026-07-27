@@ -127,14 +127,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-27T17:14:48.958Z"
   },
-  "DEAD (:": {
-    "idNumerico": "27",
-    "nome": "Dead (:",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:21|27/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-27T13:21:36.065Z"
-  },
   "DONA SEM RAZAO": {
     "idNumerico": "26",
     "nome": "Dona sem razao",
@@ -330,10 +322,10 @@
   "@FILH_ODOPAII": {
     "idNumerico": "12",
     "nome": "@filh_odopaii",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:22|27/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-27T12:39:09.425Z"
+    "roubadaEm": "2026-07-27T18:22:30.888Z"
   },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",

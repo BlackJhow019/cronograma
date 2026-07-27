@@ -98,9 +98,9 @@
   "MONOPOLIO FARMS": {
     "idNumerico": "20",
     "nome": "Monopolio Farms",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:11|26/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-26T20:11:36.442Z"
   },
   "AZEROX": {
@@ -231,14 +231,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-24T14:54:45.019Z"
   },
-  "30PRAUM": {
-    "idNumerico": "16",
-    "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:12|26/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-26T20:12:05.438Z"
-  },
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
@@ -346,8 +338,8 @@
   "PEEEERFEITO": {
     "idNumerico": "12",
     "nome": "Peeeerfeito",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:11|26/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-26T20:11:19.274Z"
   }

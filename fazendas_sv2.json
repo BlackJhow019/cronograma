@@ -122,10 +122,10 @@
   "FARME DO DRAKE": {
     "idNumerico": "35",
     "nome": "Farme do Drake",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:01|27/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-27T12:09:24.141Z"
+    "roubadaEm": "2026-07-27T17:14:17.621Z"
   },
   "DEAD (:": {
     "idNumerico": "27",
@@ -276,7 +276,7 @@
     "nome": "Fazenda Do MIRIM",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:05|27/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-27T16:05:14.904Z"
   },
   "FRANCA": {

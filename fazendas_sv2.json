@@ -36,7 +36,7 @@
     "nome": "Fazenda do Temor",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:47|27/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-27T01:47:56.428Z"
   },
   "LA FAMILIA CHIARADIA": {
@@ -46,14 +46,6 @@
     "disponivelEm": "23:39|26/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-26T21:39:39.626Z"
-  },
-  "FARMA DA FAMILIA ELITE": {
-    "idNumerico": "33",
-    "nome": "Farma Da Familia Elite",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:10|26/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T21:10:06.443Z"
   },
   "TA NO GRALI": {
     "idNumerico": "4",
@@ -82,10 +74,10 @@
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
     "nome": "Farms de Galopisitas",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:11|27/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T20:41:19.856Z"
+    "roubadaEm": "2026-07-27T02:11:17.580Z"
   },
   "CANNABIS": {
     "idNumerico": "8",
@@ -326,14 +318,6 @@
     "disponivelEm": "01:39|27/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-26T23:39:08.020Z"
-  },
-  "VALE DAS SOMBRAS": {
-    "idNumerico": "24",
-    "nome": "Vale das Sombras",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:07|26/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-26T21:07:36.082Z"
   },
   "@FILH_ODOPAII": {
     "idNumerico": "12",

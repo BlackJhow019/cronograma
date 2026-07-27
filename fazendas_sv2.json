@@ -322,10 +322,10 @@
   "TREMBALA": {
     "idNumerico": "42",
     "nome": "TremBala",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:40|27/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-27T13:03:25.900Z"
+    "roubadaEm": "2026-07-27T18:40:06.688Z"
   },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",

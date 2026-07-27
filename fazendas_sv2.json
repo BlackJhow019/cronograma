@@ -279,14 +279,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-26T20:19:04.232Z"
   },
-  "FRANCA": {
-    "idNumerico": "28",
-    "nome": "FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:49|26/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-26T19:49:54.147Z"
-  },
   "WELCOME > MELHOR FAZENDA DO BPS": {
     "idNumerico": "37",
     "nome": "WELCOME > MELHOR FAZENDA DO BPS",
@@ -346,10 +338,10 @@
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
     "nome": "YellowStone - By Monster",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:52|27/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-07-27T00:52:52.187Z"
   },
   "YANINHA_ANTIFALSOS": {
     "idNumerico": "34",

@@ -26,10 +26,10 @@
   "ROCK FARM": {
     "idNumerico": "11",
     "nome": "RocK Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:46|27/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-27T12:19:08.914Z"
+    "roubadaEm": "2026-07-27T18:46:09.150Z"
   },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
@@ -324,7 +324,7 @@
     "nome": "TremBala",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:40|27/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-27T18:40:25.388Z"
   },
   "VALE DAS SOMBRAS": {

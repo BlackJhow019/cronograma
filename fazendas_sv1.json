@@ -7,14 +7,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-26T23:40:18.130Z"
   },
-  "KODIAK": {
-    "idNumerico": "3",
-    "nome": "KodiaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:15|26/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T21:15:26.260Z"
-  },
   "NIKE SHOX": {
     "idNumerico": "42",
     "nome": "NIKE SHOX",
@@ -146,9 +138,9 @@
   "VC É A PIADA AQUI": {
     "idNumerico": "10",
     "nome": "Vc é a piada aqui",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:13|26/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-26T21:13:35.575Z"
   },
   "GRANJA DO IMONKEY": {

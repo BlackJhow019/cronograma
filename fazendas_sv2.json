@@ -36,7 +36,7 @@
     "nome": "Fazenda do Temor",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:30|28/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-27T22:30:24.319Z"
   },
   "LA FAMILIA CHIARADIA": {
@@ -70,6 +70,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-27T14:19:28.924Z"
+  },
+  "MALVADA'S FARM": {
+    "idNumerico": "32",
+    "nome": "Malvada's Farm",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-27T17:27:33.363Z"
   },
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
@@ -158,14 +166,6 @@
     "disponivelEm": "22:54|27/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-27T20:54:11.963Z"
-  },
-  "AURA + EGO": {
-    "idNumerico": "22",
-    "nome": "Aura + Ego",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:32|27/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-27T17:32:13.568Z"
   },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",

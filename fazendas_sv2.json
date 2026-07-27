@@ -74,10 +74,10 @@
   "MALVADA'S FARM": {
     "idNumerico": "32",
     "nome": "Malvada's Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:26|27/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-27T03:08:35.244Z"
+    "roubadaEm": "2026-07-27T17:26:50.216Z"
   },
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
@@ -116,7 +116,7 @@
     "nome": "Ariana_B13",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:23|27/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-27T17:23:57.582Z"
   },
   "FARME DO DRAKE": {

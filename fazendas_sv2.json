@@ -63,14 +63,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-27T12:20:12.580Z"
   },
-  "B13 :)": {
-    "idNumerico": "23",
-    "nome": "B13 :)",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:19|27/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-27T14:19:28.924Z"
-  },
   "MALVADA'S FARM": {
     "idNumerico": "32",
     "nome": "Malvada's Farm",
@@ -90,9 +82,9 @@
   "CANNABIS": {
     "idNumerico": "8",
     "nome": "CANNABIS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:57|27/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-27T13:57:03.743Z"
   },
   "AMO O LOWER": {
@@ -106,10 +98,10 @@
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:22|27/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-27T06:53:07.032Z"
+    "roubadaEm": "2026-07-27T19:22:27.459Z"
   },
   "ARIANA_B13": {
     "idNumerico": "10",

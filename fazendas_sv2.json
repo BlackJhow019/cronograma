@@ -58,10 +58,10 @@
   "TA NO GRALI": {
     "idNumerico": "4",
     "nome": "ta no grali",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:44|27/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T18:03:22.264Z"
+    "roubadaEm": "2026-07-27T01:44:43.312Z"
   },
   "B13 :)": {
     "idNumerico": "23",
@@ -78,14 +78,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-26T14:36:34.556Z"
-  },
-  "FARMS DE GALOPISITAS": {
-    "idNumerico": "20",
-    "nome": "Farms de Galopisitas",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:41|26/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-26T20:41:19.856Z"
   },
   "CANNABIS": {
     "idNumerico": "8",
@@ -255,14 +247,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-26T22:27:23.682Z"
   },
-  "QG FARM KHAOS": {
-    "idNumerico": "18",
-    "nome": "QG FARM KHAOS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:42|26/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T20:42:16.411Z"
-  },
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",
     "nome": "Fazendinha BeTreZe 2",
@@ -308,7 +292,7 @@
     "nome": "Farm da Thaty",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:39|27/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-27T01:39:25.692Z"
   },
   "FAZENDA REI DROGADO": {

@@ -319,6 +319,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-27T13:18:54.177Z"
   },
+  "TREMBALA": {
+    "idNumerico": "42",
+    "nome": "TremBala",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-27T18:40:06.585Z"
+  },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
     "nome": "Vale das Sombras",
@@ -347,8 +355,8 @@
     "idNumerico": "34",
     "nome": "yAninha_AntiFalsos",
     "status": "INDISPONIVEL",
-    "disponivelEm": "01:41|28/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-27T23:41:54.674Z"
+    "disponivelEm": "01:42|28/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-27T23:42:12.417Z"
   }
 }

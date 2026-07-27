@@ -178,10 +178,10 @@
   "SUCCUBUS FARMS": {
     "idNumerico": "29",
     "nome": "Succubus Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:23|28/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-27T09:54:27.169Z"
+    "roubadaEm": "2026-07-27T23:23:52.508Z"
   },
   "AMO A MAZZI": {
     "idNumerico": "6",
@@ -334,14 +334,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-26T21:07:36.082Z"
-  },
-  "@FILH_ODOPAII": {
-    "idNumerico": "12",
-    "nome": "@filh_odopaii",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:23|27/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-27T18:23:07.176Z"
   },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",

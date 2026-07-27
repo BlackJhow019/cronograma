@@ -191,14 +191,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-26T18:08:05.923Z"
   },
-  "POLEMICO$ INDUSTRI$": {
-    "idNumerico": "37",
-    "nome": "PoLeMiCo$ industri$",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:45|27/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-27T05:45:51.202Z"
-  },
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
@@ -234,8 +226,8 @@
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:42|27/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-27T05:42:26.208Z"
   },

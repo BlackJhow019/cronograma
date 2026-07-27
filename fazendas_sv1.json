@@ -252,7 +252,7 @@
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:27|27/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-27T12:27:04.025Z"
   },
   "GRUPO NEXUS": {
@@ -290,10 +290,10 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:37|27/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-27T03:54:39.720Z"
+    "roubadaEm": "2026-07-27T12:37:56.948Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",

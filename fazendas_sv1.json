@@ -92,7 +92,7 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:47|27/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-27T19:47:34.002Z"
   },
   "MONOPOLIO FARMS": {
@@ -226,10 +226,10 @@
   ".": {
     "idNumerico": "31",
     "nome": ".",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:01|27/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-27T02:02:11.905Z"
+    "roubadaEm": "2026-07-27T20:01:48.658Z"
   },
   "30PRAUM": {
     "idNumerico": "16",
@@ -284,7 +284,7 @@
     "nome": "roubo off",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:48|27/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-27T19:48:36.051Z"
   },
   "RANCHO DO DOUTOR": {

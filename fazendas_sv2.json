@@ -79,14 +79,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-27T03:08:35.244Z"
   },
-  "FARMS DE GALOPISITAS": {
-    "idNumerico": "20",
-    "nome": "Farms de Galopisitas",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:11|27/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-27T02:11:52.115Z"
-  },
   "CANNABIS": {
     "idNumerico": "8",
     "nome": "CANNABIS",
@@ -228,7 +220,7 @@
     "nome": "/VENDERPRODUTOS",
     "status": "INDISPONIVEL",
     "disponivelEm": "09:06|27/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-27T07:06:46.126Z"
   },
   "~E V O M~": {
@@ -338,10 +330,10 @@
   "@FILH_ODOPAII": {
     "idNumerico": "12",
     "nome": "@filh_odopaii",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:14|27/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-27T00:00:12.583Z"
+    "roubadaEm": "2026-07-27T07:14:39.980Z"
   },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",

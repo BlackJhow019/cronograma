@@ -50,10 +50,10 @@
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
     "nome": "Farma Da Familia Elite",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:30|27/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T21:10:06.443Z"
+    "roubadaEm": "2026-07-27T18:30:25.362Z"
   },
   "TA NO GRALI": {
     "idNumerico": "4",
@@ -92,7 +92,7 @@
     "nome": "CANNABIS",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:57|27/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-27T13:57:03.743Z"
   },
   "AMO O LOWER": {
@@ -148,7 +148,7 @@
     "nome": "Fazenda do Galin",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:26|27/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-27T18:26:16.857Z"
   },
   "FARM'S NAY E NICK": {
@@ -340,7 +340,7 @@
     "nome": "@filh_odopaii",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:23|27/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-27T18:23:07.176Z"
   },
   "YELLOWSTONE - BY MONSTER": {

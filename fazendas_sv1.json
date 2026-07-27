@@ -98,10 +98,10 @@
   "MONOPOLIO FARMS": {
     "idNumerico": "20",
     "nome": "Monopolio Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:31|28/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-27T17:13:15.486Z"
+    "roubadaEm": "2026-07-27T22:31:39.647Z"
   },
   "AZEROX": {
     "idNumerico": "23",
@@ -310,14 +310,6 @@
     "disponivelEm": "22:31|27/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-27T20:31:03.013Z"
-  },
-  "DM2 FARM": {
-    "idNumerico": "6",
-    "nome": "Dm2 Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:27|27/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-27T17:27:58.420Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",

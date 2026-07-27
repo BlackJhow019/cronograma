@@ -71,14 +71,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-26T23:01:32.007Z"
   },
-  "CLUBE DA LULUZINHA": {
-    "idNumerico": "8",
-    "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:45|27/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-27T11:45:37.457Z"
-  },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
@@ -298,9 +290,9 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:44|27/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-27T11:44:36.336Z"
   },
   "..OURO..PR3TO..": {

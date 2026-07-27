@@ -111,14 +111,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-27T19:22:27.459Z"
   },
-  "ARIANA_B13": {
-    "idNumerico": "10",
-    "nome": "Ariana_B13",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:23|27/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-27T17:23:57.582Z"
-  },
   "FARME DO DRAKE": {
     "idNumerico": "35",
     "nome": "Farme do Drake",
@@ -138,9 +130,9 @@
   "DONA SEM RAZAO": {
     "idNumerico": "26",
     "nome": "Dona sem razao",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:21|27/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-27T17:21:18.546Z"
   },
   "FAZENDA DO GALIN": {

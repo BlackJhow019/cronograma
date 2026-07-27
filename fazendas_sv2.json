@@ -250,10 +250,10 @@
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",
     "nome": "RAMONZIN_FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:09|27/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T22:27:23.682Z"
+    "roubadaEm": "2026-07-27T04:09:30.016Z"
   },
   "QG FARM KHAOS": {
     "idNumerico": "18",
@@ -292,7 +292,7 @@
     "nome": "WELCOME > MELHOR FAZENDA DO BPS",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:05|27/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-27T04:05:36.068Z"
   },
   "FARM DO GALO": {

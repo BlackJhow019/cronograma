@@ -82,10 +82,10 @@
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
     "nome": "Farms de Galopisitas",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:40|27/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-27T09:46:10.986Z"
+    "roubadaEm": "2026-07-27T16:40:23.434Z"
   },
   "CANNABIS": {
     "idNumerico": "8",
@@ -188,7 +188,7 @@
     "nome": "Amo a Mazzi",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:24|27/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-27T16:24:05.077Z"
   },
   "CHAMA A POLICIA": {

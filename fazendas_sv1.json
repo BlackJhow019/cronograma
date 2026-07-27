@@ -4,7 +4,7 @@
     "nome": "rico louco",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:07|27/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-27T14:07:19.242Z"
   },
   "KODIAK": {
@@ -210,10 +210,10 @@
   "RICK FARM'S": {
     "idNumerico": "30",
     "nome": "Rick Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:29|27/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-27T05:58:59.528Z"
+    "roubadaEm": "2026-07-27T14:29:08.136Z"
   },
   "JAH RASTAFARI": {
     "idNumerico": "39",

@@ -266,10 +266,10 @@
   "K1NG FARM'S": {
     "idNumerico": "25",
     "nome": "K1NG Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:06|27/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T23:11:28.100Z"
+    "roubadaEm": "2026-07-27T06:06:28.134Z"
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
@@ -334,14 +334,6 @@
     "disponivelEm": "06:34|27/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-27T04:34:42.393Z"
-  },
-  "FAMILIA ALMANAK": {
-    "idNumerico": "32",
-    "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:04|27/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-27T01:04:12.747Z"
   },
   "PEEEERFEITO": {
     "idNumerico": "12",

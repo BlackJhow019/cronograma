@@ -215,14 +215,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-27T14:29:08.026Z"
   },
-  "JAH RASTAFARI": {
-    "idNumerico": "39",
-    "nome": "JAH RASTAFARI",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:11|27/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-27T18:11:37.742Z"
-  },
   ".": {
     "idNumerico": "31",
     "nome": ".",
@@ -330,9 +322,9 @@
   "THUG LIFE": {
     "idNumerico": "21",
     "nome": "THUG LIFE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:00|27/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-27T18:00:29.019Z"
   },
   "FAMILIA ALMANAK": {
@@ -343,9 +335,9 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-27T19:03:41.367Z"
   },
-  "PEEEERFEITO!": {
+  "PEEEERFEITO": {
     "idNumerico": "12",
-    "nome": "Peeeerfeito!",
+    "nome": "Peeeerfeito",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:40|28/07/2026",
     "cofreConsertado": false,

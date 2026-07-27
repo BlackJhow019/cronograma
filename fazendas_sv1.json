@@ -164,7 +164,7 @@
     "nome": "YT @GANDIA_RP",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:15|27/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-27T19:15:51.087Z"
   },
   "021": {
@@ -322,10 +322,10 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:25|27/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-27T13:41:58.839Z"
+    "roubadaEm": "2026-07-27T19:25:44.686Z"
   },
   "THUG LIFE": {
     "idNumerico": "21",

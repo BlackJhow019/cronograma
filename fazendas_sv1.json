@@ -314,10 +314,10 @@
   "THUG LIFE": {
     "idNumerico": "21",
     "nome": "THUG LIFE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:00|27/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-27T12:20:14.835Z"
+    "roubadaEm": "2026-07-27T18:00:15.762Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",

@@ -115,9 +115,9 @@
     "idNumerico": "10",
     "nome": "Ariana_B13",
     "status": "INDISPONIVEL",
-    "disponivelEm": "01:58|27/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T23:58:39.805Z"
+    "disponivelEm": "01:57|27/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-26T23:57:53.993Z"
   },
   "FARME DO DRAKE": {
     "idNumerico": "35",
@@ -195,7 +195,7 @@
     "idNumerico": "34",
     "nome": "yAninha_AntiFalsos",
     "status": "INDISPONIVEL",
-    "disponivelEm": "21:05|26/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-26T19:05:18.130Z"
   },
@@ -348,7 +348,15 @@
     "nome": "@filh_odopaii",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:00|27/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-27T00:00:12.583Z"
+  },
+  "YELLOWSTONE - BY MONSTER": {
+    "idNumerico": "16",
+    "nome": "YellowStone - By Monster",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-27T00:00:12.732Z"
+    "roubadaEm": null
   }
 }

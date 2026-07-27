@@ -274,10 +274,10 @@
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:30|27/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-27T07:34:33.611Z"
+    "roubadaEm": "2026-07-27T14:30:40.648Z"
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {
     "idNumerico": "37",
@@ -292,7 +292,7 @@
     "nome": "FARM DO GALO",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:27|27/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-27T14:27:43.471Z"
   },
   "FARM DA THATY": {

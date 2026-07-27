@@ -7,14 +7,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-27T14:07:19.242Z"
   },
-  "KODIAK": {
-    "idNumerico": "3",
-    "nome": "KodiaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:00|27/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-27T14:00:06.083Z"
-  },
   "NIKE SHOX": {
     "idNumerico": "42",
     "nome": "NIKE SHOX",
@@ -138,10 +130,10 @@
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:01|27/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-27T13:43:05.269Z"
+    "roubadaEm": "2026-07-27T19:01:40.424Z"
   },
   "VC É A PIADA AQUI": {
     "idNumerico": "10",

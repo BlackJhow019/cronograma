@@ -119,14 +119,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-26T23:57:53.993Z"
   },
-  "FARME DO DRAKE": {
-    "idNumerico": "35",
-    "nome": "Farme do Drake",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:02|27/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-26T23:15:02.572Z"
-  },
   "DEAD (:": {
     "idNumerico": "27",
     "nome": "Dead (:",
@@ -290,10 +282,10 @@
   "WELCOME > MELHOR FAZENDA DO BPS": {
     "idNumerico": "37",
     "nome": "WELCOME > MELHOR FAZENDA DO BPS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:04|27/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T17:14:52.936Z"
+    "roubadaEm": "2026-07-27T04:04:31.051Z"
   },
   "FARM DO GALO": {
     "idNumerico": "40",

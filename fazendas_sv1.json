@@ -322,10 +322,10 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:12|27/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-27T02:44:04.410Z"
+    "roubadaEm": "2026-07-27T08:12:13.910Z"
   },
   "THUG LIFE": {
     "idNumerico": "21",

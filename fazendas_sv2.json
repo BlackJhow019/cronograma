@@ -28,7 +28,7 @@
     "nome": "RocK Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:00|28/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-28T01:00:06.950Z"
   },
   "FAZENDA DO TEMOR": {
@@ -154,9 +154,9 @@
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:16|27/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-27T20:16:35.396Z"
   },
   "FARM DO SAPATO": {

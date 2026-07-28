@@ -44,7 +44,7 @@
     "nome": "LA FAMILIA CHIARADIA",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:29|28/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-28T02:29:04.359Z"
   },
   "FARMA DA FAMILIA ELITE": {
@@ -282,9 +282,9 @@
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:46|27/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-27T21:46:43.639Z"
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {

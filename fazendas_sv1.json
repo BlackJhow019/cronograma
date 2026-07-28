@@ -34,10 +34,10 @@
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:13|28/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T06:31:20.046Z"
+    "roubadaEm": "2026-07-28T12:13:18.484Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -46,14 +46,6 @@
     "disponivelEm": "13:35|28/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-28T11:35:07.446Z"
-  },
-  "WESKER_U$METRALHA": {
-    "idNumerico": "28",
-    "nome": "Wesker_u$MeTraLha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:12|28/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T07:12:16.419Z"
   },
   "< GAUBRE LTDA >": {
     "idNumerico": "2",
@@ -213,7 +205,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "14:10|28/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T12:10:43.695Z"
+    "roubadaEm": "2026-07-28T12:10:57.586Z"
   },
   "JAH RASTAFARI": {
     "idNumerico": "39",
@@ -324,7 +316,7 @@
     "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:59|28/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-28T12:01:07.378Z"
   },
   "THUG LIFE": {

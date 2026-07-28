@@ -66,10 +66,10 @@
   "B13 :)": {
     "idNumerico": "23",
     "nome": "B13 :)",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:51|28/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T04:50:08.133Z"
+    "roubadaEm": "2026-07-28T13:51:22.743Z"
   },
   "MALVADA'S FARM": {
     "idNumerico": "32",
@@ -324,7 +324,7 @@
     "nome": "TremBala",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:43|28/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-28T13:43:41.958Z"
   },
   "VALE DAS SOMBRAS": {

@@ -2,10 +2,10 @@
   "999": {
     "idNumerico": "39",
     "nome": "999",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:31|28/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-27T22:26:22.558Z"
+    "roubadaEm": "2026-07-28T03:31:45.787Z"
   },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
@@ -30,14 +30,6 @@
     "disponivelEm": "02:59|28/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-28T00:59:27.484Z"
-  },
-  "FAZENDA DO TEMOR": {
-    "idNumerico": "30",
-    "nome": "Fazenda do Temor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:30|28/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-27T22:30:24.213Z"
   },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
@@ -156,7 +148,7 @@
     "nome": "FARM'S NAY E NICK",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:21|28/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-28T03:21:38.268Z"
   },
   "FARM DO SAPATO": {

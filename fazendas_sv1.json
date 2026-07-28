@@ -234,10 +234,10 @@
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:19|28/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T15:03:39.383Z"
+    "roubadaEm": "2026-07-28T20:19:51.257Z"
   },
   "FAZENDA FELIZ": {
     "idNumerico": "22",
@@ -279,14 +279,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-28T18:06:21.600Z"
   },
-  "ROUBO OFF": {
-    "idNumerico": "7",
-    "nome": "roubo off",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:15|28/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T15:15:47.531Z"
-  },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
@@ -310,14 +302,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-28T12:26:29.970Z"
-  },
-  "DM2 FARM": {
-    "idNumerico": "6",
-    "nome": "Dm2 Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:17|28/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T15:17:24.551Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",

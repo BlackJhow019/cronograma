@@ -299,7 +299,7 @@
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
-    "disponivelEm": "20:51|28/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-28T18:51:08.987Z"
   },
@@ -335,9 +335,17 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-28T22:36:14.574Z"
   },
-  "PEEEERFEITO!": {
+  "FAMILIA ALMANAK": {
+    "idNumerico": "32",
+    "nome": "Familia AlmanaK",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-28T18:45:17.705Z"
+  },
+  "PEEEERFEITO": {
     "idNumerico": "12",
-    "nome": "Peeeerfeito!",
+    "nome": "Peeeerfeito",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:49|29/07/2026",
     "cofreConsertado": false,

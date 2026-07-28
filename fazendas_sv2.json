@@ -28,16 +28,8 @@
     "nome": "RocK Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:46|28/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T18:46:31.929Z"
-  },
-  "FAZENDA DO TEMOR": {
-    "idNumerico": "30",
-    "nome": "Fazenda do Temor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:56|28/07/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-07-28T13:56:16.236Z"
+    "roubadaEm": "2026-07-28T18:46:31.929Z"
   },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
@@ -66,9 +58,9 @@
   "B13 :)": {
     "idNumerico": "23",
     "nome": "B13 :)",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:51|28/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-28T13:51:38.691Z"
   },
   "MALVADA'S FARM": {
@@ -99,7 +91,7 @@
     "idNumerico": "2",
     "nome": "Amo o Lower",
     "status": "INDISPONIVEL",
-    "disponivelEm": "15:57|28/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-28T13:57:14.754Z"
   },
@@ -130,8 +122,8 @@
   "DEAD (:": {
     "idNumerico": "27",
     "nome": "Dead (:",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:52|28/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-28T13:52:04.156Z"
   },

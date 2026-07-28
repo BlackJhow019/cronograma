@@ -244,7 +244,7 @@
     "nome": "fazenda feliz",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:50|28/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-28T14:50:38.716Z"
   },
   "OS DE RACA": {
@@ -258,10 +258,10 @@
   "GRUPO NEXUS": {
     "idNumerico": "9",
     "nome": "GRUPO NEXUS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:52|28/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T06:03:54.269Z"
+    "roubadaEm": "2026-07-28T14:52:49.877Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",

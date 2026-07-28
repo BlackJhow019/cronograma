@@ -210,10 +210,10 @@
   "RICK FARM'S": {
     "idNumerico": "30",
     "nome": "Rick Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:09|28/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-27T14:29:08.026Z"
+    "roubadaEm": "2026-07-28T12:09:59.968Z"
   },
   "JAH RASTAFARI": {
     "idNumerico": "39",
@@ -340,7 +340,7 @@
     "nome": "Familia AlmanaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:00|28/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-28T12:00:33.374Z"
   },
   "PEEEERFEITO": {

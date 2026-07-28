@@ -10,10 +10,10 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:51|28/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T08:05:43.012Z"
+    "roubadaEm": "2026-07-28T13:51:30.895Z"
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -156,7 +156,7 @@
     "nome": "Granja do iMonKeY",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:45|28/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-28T13:45:56.489Z"
   },
   "YT @GANDIA_RP": {

@@ -106,10 +106,10 @@
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:05|28/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T06:34:58.858Z"
+    "roubadaEm": "2026-07-28T13:05:42.079Z"
   },
   "ARIANA_B13": {
     "idNumerico": "10",
@@ -148,7 +148,7 @@
     "nome": "Fazenda do Galin",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:00|28/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-28T13:00:24.635Z"
   },
   "FARM'S NAY E NICK": {

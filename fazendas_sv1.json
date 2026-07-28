@@ -138,8 +138,8 @@
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:04|28/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-28T02:04:43.647Z"
   },
@@ -230,14 +230,6 @@
     "disponivelEm": "05:30|28/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-28T03:30:59.087Z"
-  },
-  "30PRAUM": {
-    "idNumerico": "16",
-    "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:06|28/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T02:06:11.158Z"
   },
   "FAZENDA FELIZ": {
     "idNumerico": "22",

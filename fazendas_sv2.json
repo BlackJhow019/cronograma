@@ -303,6 +303,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-28T16:30:47.260Z"
   },
+  "FARM DA THATY": {
+    "idNumerico": "1",
+    "nome": "Farm da Thaty",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-28T14:41:32.392Z"
+  },
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",
     "nome": "Fazenda Rei Drogado",
@@ -316,7 +324,7 @@
     "nome": "TremBala",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:43|28/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-28T19:43:25.591Z"
   },
   "VALE DAS SOMBRAS": {

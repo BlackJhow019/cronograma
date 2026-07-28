@@ -223,14 +223,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-26T16:54:09.309Z"
   },
-  "/VENDERPRODUTOS": {
-    "idNumerico": "7",
-    "nome": "/VENDERPRODUTOS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:25|28/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-28T14:25:43.071Z"
-  },
   "~E V O M~": {
     "idNumerico": "25",
     "nome": "~E V O M~",
@@ -282,8 +274,8 @@
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:21|28/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-28T14:21:58.135Z"
   },

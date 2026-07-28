@@ -212,7 +212,7 @@
     "nome": "GRUPO RANTER",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:20|28/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-28T16:20:01.822Z"
   },
   "ROLINHA CANSADA FARMS": {
@@ -298,10 +298,10 @@
   "FARM DO GALO": {
     "idNumerico": "40",
     "nome": "FARM DO GALO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:30|28/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T09:45:30.693Z"
+    "roubadaEm": "2026-07-28T16:30:18.504Z"
   },
   "FARM DA THATY": {
     "idNumerico": "1",

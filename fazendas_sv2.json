@@ -228,7 +228,7 @@
     "nome": "/VENDERPRODUTOS",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:12|28/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-28T02:12:41.621Z"
   },
   "~E V O M~": {
@@ -302,6 +302,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-27T14:27:43.471Z"
+  },
+  "FARM DA THATY": {
+    "idNumerico": "1",
+    "nome": "Farm da Thaty",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-27T21:19:17.580Z"
   },
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",

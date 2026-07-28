@@ -4,8 +4,8 @@
     "nome": "999",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:53|28/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T11:53:12.474Z"
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-28T11:53:12.370Z"
   },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
@@ -277,7 +277,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "13:52|28/07/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-07-28T11:52:49.478Z"
+    "roubadaEm": "2026-07-28T11:52:34.268Z"
   },
   "FRANCA": {
     "idNumerico": "28",
@@ -322,8 +322,8 @@
   "TREMBALA": {
     "idNumerico": "42",
     "nome": "TremBala",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:01|28/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-28T07:01:02.728Z"
   },

@@ -2,9 +2,9 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:27|27/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-27T19:27:55.650Z"
   },
   "KODIAK": {
@@ -12,7 +12,7 @@
     "nome": "KodiaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:16|28/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-28T00:16:07.358Z"
   },
   "NIKE SHOX": {
@@ -322,9 +322,9 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:25|27/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-27T19:25:58.722Z"
   },
   "THUG LIFE": {
@@ -340,7 +340,7 @@
     "nome": "Familia AlmanaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:21|28/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-28T00:21:43.595Z"
   },
   "PEEEERFEITO": {

@@ -20,7 +20,7 @@
     "nome": "AwaKe Company",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:25|28/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-28T13:25:01.438Z"
   },
   "ROCK FARM": {
@@ -194,10 +194,10 @@
   "CHAMA A POLICIA": {
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:39|28/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T06:53:02.572Z"
+    "roubadaEm": "2026-07-28T13:39:22.369Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",

@@ -180,7 +180,7 @@
     "nome": "Familia KuSh",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:39|28/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-28T20:39:17.290Z"
   },
   "FAZENDINHA DO IGEZE": {
@@ -306,10 +306,10 @@
   "..OURO..PR3TO..": {
     "idNumerico": "5",
     "nome": "..OURO..PR3TO..",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:51|28/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T12:26:29.970Z"
+    "roubadaEm": "2026-07-28T20:51:58.726Z"
   },
   "DM2 FARM": {
     "idNumerico": "6",

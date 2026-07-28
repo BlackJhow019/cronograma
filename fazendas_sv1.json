@@ -135,14 +135,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-19T21:19:33.877Z"
   },
-  "QUEM ROUBAR E PETISTA": {
-    "idNumerico": "44",
-    "nome": "Quem Roubar e Petista",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:01|27/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-27T19:01:56.486Z"
-  },
   "VC É A PIADA AQUI": {
     "idNumerico": "10",
     "nome": "Vc é a piada aqui",
@@ -287,6 +279,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-27T19:48:36.051Z"
   },
+  "RANCHO DO DOUTOR": {
+    "idNumerico": "14",
+    "nome": "Rancho do Doutor",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-27T18:59:24.794Z"
+  },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
@@ -308,7 +308,7 @@
     "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:00|28/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-28T00:00:07.972Z"
   },
   "SAO PEDRO 2": {

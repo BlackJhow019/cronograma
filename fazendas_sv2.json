@@ -282,10 +282,10 @@
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:44|28/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-27T21:46:43.639Z"
+    "roubadaEm": "2026-07-28T04:44:55.846Z"
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {
     "idNumerico": "37",
@@ -350,13 +350,5 @@
     "disponivelEm": "02:29|28/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-28T00:29:44.082Z"
-  },
-  "YANINHA_ANTIFALSOS": {
-    "idNumerico": "34",
-    "nome": "yAninha_AntiFalsos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:42|28/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-27T23:42:12.417Z"
   }
 }

@@ -1,4 +1,12 @@
 {
+  "RICO LOUCO": {
+    "idNumerico": "11",
+    "nome": "rico louco",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-28T17:45:30.025Z"
+  },
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
@@ -22,6 +30,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-28T05:24:09.329Z"
+  },
+  "LEK0ZIKA": {
+    "idNumerico": "35",
+    "nome": "Lek0zika",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-28T17:45:22.398Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",

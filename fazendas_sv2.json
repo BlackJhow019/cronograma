@@ -242,10 +242,10 @@
   "FAZENDA CUIUDA - BY GAZOLA": {
     "idNumerico": "17",
     "nome": "Fazenda Cuiuda - By GAZOLA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:54|28/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-27T13:15:45.881Z"
+    "roubadaEm": "2026-07-28T05:54:24.108Z"
   },
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",
@@ -318,14 +318,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-27T13:18:54.177Z"
-  },
-  "TREMBALA": {
-    "idNumerico": "42",
-    "nome": "TremBala",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:53|28/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T00:53:45.192Z"
   },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",

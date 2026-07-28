@@ -274,8 +274,8 @@
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:17|28/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-28T06:17:41.328Z"
   },
@@ -339,9 +339,9 @@
     "idNumerico": "12",
     "nome": "@filh_odopaii",
     "status": "INDISPONIVEL",
-    "disponivelEm": "13:13|28/07/2026",
+    "disponivelEm": "13:14|28/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T11:13:41.855Z"
+    "roubadaEm": "2026-07-28T11:14:02.960Z"
   },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",

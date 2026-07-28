@@ -36,7 +36,7 @@
     "nome": "Lek0zika",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:31|28/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-28T06:31:20.046Z"
   },
   "BORRACHAS FARM": {
@@ -106,8 +106,8 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:38|28/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-28T01:38:32.072Z"
   },

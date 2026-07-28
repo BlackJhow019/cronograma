@@ -82,10 +82,10 @@
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
     "nome": "Farms de Galopisitas",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:15|28/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-27T23:45:10.626Z"
+    "roubadaEm": "2026-07-28T13:15:22.646Z"
   },
   "CANNABIS": {
     "idNumerico": "8",
@@ -108,7 +108,7 @@
     "nome": "SE ROUBAR MORRE",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:05|28/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-28T13:05:59.009Z"
   },
   "ARIANA_B13": {

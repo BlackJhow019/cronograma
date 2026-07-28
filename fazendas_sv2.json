@@ -111,14 +111,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-28T19:08:25.745Z"
   },
-  "ARIANA_B13": {
-    "idNumerico": "10",
-    "nome": "Ariana_B13",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:33|28/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-28T16:33:57.093Z"
-  },
   "FARME DO DRAKE": {
     "idNumerico": "35",
     "nome": "Farme do Drake",
@@ -298,9 +290,9 @@
   "FARM DO GALO": {
     "idNumerico": "40",
     "nome": "FARM DO GALO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:30|28/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-28T16:30:47.260Z"
   },
   "FARM DA THATY": {

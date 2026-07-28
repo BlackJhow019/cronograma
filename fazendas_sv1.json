@@ -34,10 +34,10 @@
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:09|29/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T17:45:22.398Z"
+    "roubadaEm": "2026-07-28T23:09:24.837Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -270,14 +270,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-28T13:24:40.255Z"
-  },
-  "PREFEITO ROADBLOCK": {
-    "idNumerico": "41",
-    "nome": "Prefeito Roadblock",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:06|28/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T18:06:21.600Z"
   },
   "ROUBO OFF": {
     "idNumerico": "7",

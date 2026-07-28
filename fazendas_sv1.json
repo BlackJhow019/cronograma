@@ -226,10 +226,10 @@
   ".": {
     "idNumerico": "31",
     "nome": ".",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:30|28/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-27T20:02:30.995Z"
+    "roubadaEm": "2026-07-28T03:30:59.203Z"
   },
   "30PRAUM": {
     "idNumerico": "16",

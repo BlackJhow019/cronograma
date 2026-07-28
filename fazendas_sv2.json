@@ -196,7 +196,7 @@
     "nome": "CHAMA A POLICIA",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:39|28/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-28T13:39:30.963Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
@@ -322,10 +322,10 @@
   "TREMBALA": {
     "idNumerico": "42",
     "nome": "TremBala",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:43|28/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T07:01:02.728Z"
+    "roubadaEm": "2026-07-28T13:43:24.116Z"
   },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",

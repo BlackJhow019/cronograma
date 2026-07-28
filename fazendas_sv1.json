@@ -106,8 +106,8 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:29|28/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-28T17:29:17.384Z"
   },
@@ -326,14 +326,6 @@
     "disponivelEm": "19:54|28/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-28T17:55:37.448Z"
-  },
-  "THUG LIFE": {
-    "idNumerico": "21",
-    "nome": "THUG LIFE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:30|28/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-28T17:30:46.782Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",

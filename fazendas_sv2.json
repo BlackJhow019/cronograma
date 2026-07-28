@@ -274,10 +274,10 @@
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:32|28/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T11:52:34.268Z"
+    "roubadaEm": "2026-07-28T17:32:12.987Z"
   },
   "FRANCA": {
     "idNumerico": "28",
@@ -356,7 +356,7 @@
     "nome": "yAninha_AntiFalsos",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:26|28/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-28T17:26:48.763Z"
   }
 }

@@ -42,10 +42,10 @@
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:44|28/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T11:35:07.446Z"
+    "roubadaEm": "2026-07-28T16:44:41.420Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
@@ -167,14 +167,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-28T13:39:41.476Z"
   },
-  "021": {
-    "idNumerico": "1",
-    "nome": "021",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:42|28/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T11:42:17.283Z"
-  },
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
@@ -294,14 +286,6 @@
     "disponivelEm": "13:53|28/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-28T11:53:25.073Z"
-  },
-  "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": "38",
-    "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:42|28/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-28T11:42:38.536Z"
   },
   "..OURO..PR3TO..": {
     "idNumerico": "5",

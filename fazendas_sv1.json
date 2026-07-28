@@ -202,10 +202,10 @@
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:35|28/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T09:27:56.106Z"
+    "roubadaEm": "2026-07-28T18:35:46.980Z"
   },
   "RICK FARM'S": {
     "idNumerico": "30",
@@ -251,7 +251,7 @@
     "idNumerico": "0",
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
-    "disponivelEm": "15:35|28/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-28T13:35:38.089Z"
   },

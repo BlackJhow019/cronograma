@@ -170,8 +170,8 @@
   "021": {
     "idNumerico": "1",
     "nome": "021",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:53|28/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-28T16:53:04.687Z"
   },
@@ -206,14 +206,6 @@
     "disponivelEm": "20:36|28/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-28T18:36:00.579Z"
-  },
-  "RICK FARM'S": {
-    "idNumerico": "30",
-    "nome": "Rick Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:55|28/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-28T19:45:06.586Z"
   },
   "JAH RASTAFARI": {
     "idNumerico": "39",

@@ -299,18 +299,20 @@
     ]
   },
   "1C09F2088941D7B4": {
-    "nick": "teste 2",
+    "nick": "Telefone 2 Sesh",
     "modelo": "SM-A022M",
     "marca": "samsung",
     "android": "11",
-    "servidor": "SV2",
-    "status": "✅ AUTORIZADO",
-    "ultimo_login": "2026-06-17T20:05:20.954Z",
+    "servidor": "SV1",
+    "status": "❌ NEGADO",
+    "ultimo_login": "2026-07-28T00:46:43.633Z",
     "primeiro_login": "17/06/2026, 17:05:20",
     "nicks": [
       "teste",
-      "teste 2"
-    ]
+      "teste 2",
+      "Telefone 2 Sesh"
+    ],
+    "ip": "177.55.195.140"
   },
   "5DBAF9F1B605A8DA": {
     "nick": "Rzz",

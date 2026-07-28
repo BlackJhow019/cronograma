@@ -316,7 +316,7 @@
     "nome": "Fazenda Rei Drogado",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:54|28/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-28T14:54:51.335Z"
   },
   "TREMBALA": {
@@ -346,9 +346,9 @@
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
     "nome": "YellowStone - By Monster",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:57|28/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-28T09:57:52.597Z"
   },
   "YANINHA_ANTIFALSOS": {

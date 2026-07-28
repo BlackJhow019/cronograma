@@ -82,17 +82,17 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:56|28/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T02:24:36.889Z"
+    "roubadaEm": "2026-07-28T11:56:59.336Z"
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:52|28/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-28T11:52:49.632Z"
   },
   "MONOPOLIO FARMS": {
@@ -102,14 +102,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-28T05:01:45.906Z"
-  },
-  "AZEROX": {
-    "idNumerico": "23",
-    "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:54|28/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T06:54:29.510Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
@@ -196,7 +188,7 @@
     "nome": "PoLeMiCo$ industri$",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:52|28/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-28T11:52:17.889Z"
   },
   "NOREX FARM'S": {

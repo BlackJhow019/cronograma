@@ -2,10 +2,10 @@
   "999": {
     "idNumerico": "39",
     "nome": "999",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:53|28/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T03:32:03.315Z"
+    "roubadaEm": "2026-07-28T11:53:12.474Z"
   },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
@@ -195,7 +195,7 @@
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
     "status": "INDISPONIVEL",
-    "disponivelEm": "08:53|28/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-28T06:53:02.572Z"
   },

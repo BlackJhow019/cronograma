@@ -132,7 +132,7 @@
     "nome": "Vaqueiro Farm´s",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:08|28/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-28T13:08:50.464Z"
   },
   "QUEM ROUBAR E PETISTA": {
@@ -266,10 +266,10 @@
   "K1NG FARM'S": {
     "idNumerico": "25",
     "nome": "K1NG Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:24|28/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-27T12:49:06.332Z"
+    "roubadaEm": "2026-07-28T13:24:14.369Z"
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",

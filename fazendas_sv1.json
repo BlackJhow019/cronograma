@@ -140,7 +140,7 @@
     "nome": "Quem Roubar e Petista",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:24|28/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-28T15:24:03.567Z"
   },
   "VC É A PIADA AQUI": {
@@ -346,8 +346,8 @@
   "PEEEERFEITO": {
     "idNumerico": "12",
     "nome": "Peeeerfeito",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:35|28/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-28T10:35:25.817Z"
   }

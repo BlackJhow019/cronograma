@@ -74,10 +74,10 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:38|28/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T04:38:06.688Z"
+    "roubadaEm": "2026-07-28T10:38:39.954Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
@@ -335,17 +335,9 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-28T04:29:37.782Z"
   },
-  "FAMILIA ALMANAK": {
-    "idNumerico": "32",
-    "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:36|28/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T05:36:16.070Z"
-  },
-  "PEEEERFEITO!": {
+  "PEEEERFEITO": {
     "idNumerico": "12",
-    "nome": "Peeeerfeito!",
+    "nome": "Peeeerfeito",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:35|28/07/2026",
     "cofreConsertado": false,

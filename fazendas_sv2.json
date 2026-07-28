@@ -20,7 +20,7 @@
     "nome": "AwaKe Company",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:13|28/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-28T19:13:43.076Z"
   },
   "ROCK FARM": {
@@ -98,10 +98,10 @@
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:19|28/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T13:57:14.754Z"
+    "roubadaEm": "2026-07-28T19:19:32.885Z"
   },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",

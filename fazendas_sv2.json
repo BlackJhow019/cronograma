@@ -4,7 +4,7 @@
     "nome": "999",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:32|28/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-28T03:32:03.315Z"
   },
   "JESUS EA SOLUCAO": {
@@ -30,6 +30,14 @@
     "disponivelEm": "02:59|28/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-28T00:59:27.484Z"
+  },
+  "FAZENDA DO TEMOR": {
+    "idNumerico": "30",
+    "nome": "Fazenda do Temor",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-27T22:30:24.213Z"
   },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",

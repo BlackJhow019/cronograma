@@ -50,10 +50,10 @@
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
     "nome": "Farma Da Familia Elite",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:28|28/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-27T18:30:39.956Z"
+    "roubadaEm": "2026-07-28T00:28:35.638Z"
   },
   "TA NO GRALI": {
     "idNumerico": "4",
@@ -106,8 +106,8 @@
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:22|27/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-27T19:22:27.459Z"
   },
@@ -340,7 +340,7 @@
     "nome": "@filh_odopaii",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:11|28/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-28T00:11:30.589Z"
   },
   "YELLOWSTONE - BY MONSTER": {

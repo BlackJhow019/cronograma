@@ -287,14 +287,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-27T19:48:36.051Z"
   },
-  "RANCHO DO DOUTOR": {
-    "idNumerico": "14",
-    "nome": "Rancho do Doutor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:59|27/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-27T18:59:24.794Z"
-  },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
@@ -314,10 +306,10 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:00|28/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-27T17:27:58.420Z"
+    "roubadaEm": "2026-07-28T00:00:07.972Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",

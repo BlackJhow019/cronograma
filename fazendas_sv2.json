@@ -26,10 +26,10 @@
   "ROCK FARM": {
     "idNumerico": "11",
     "nome": "RocK Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:46|28/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T13:01:04.283Z"
+    "roubadaEm": "2026-07-28T18:46:15.175Z"
   },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
@@ -119,14 +119,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-28T16:33:57.093Z"
   },
-  "FARME DO DRAKE": {
-    "idNumerico": "35",
-    "nome": "Farme do Drake",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:40|28/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-28T13:52:54.025Z"
-  },
   "DEAD (:": {
     "idNumerico": "27",
     "nome": "Dead (:",
@@ -190,14 +182,6 @@
     "disponivelEm": "18:45|28/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-28T16:45:44.259Z"
-  },
-  "CHAMA A POLICIA": {
-    "idNumerico": "44",
-    "nome": "CHAMA A POLICIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:39|28/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-28T13:39:30.963Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",
@@ -318,14 +302,6 @@
     "disponivelEm": "16:54|28/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-28T14:54:51.335Z"
-  },
-  "TREMBALA": {
-    "idNumerico": "42",
-    "nome": "TremBala",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:43|28/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-28T13:43:41.958Z"
   },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",

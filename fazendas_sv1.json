@@ -106,10 +106,10 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:28|28/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T12:15:27.844Z"
+    "roubadaEm": "2026-07-28T17:28:59.040Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
@@ -302,14 +302,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-28T11:42:38.536Z"
-  },
-  "..OURO..PR3TO..": {
-    "idNumerico": "5",
-    "nome": "..OURO..PR3TO..",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:26|28/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T12:26:29.970Z"
   },
   "DM2 FARM": {
     "idNumerico": "6",

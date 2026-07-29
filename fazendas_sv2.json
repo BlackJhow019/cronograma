@@ -154,10 +154,10 @@
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:15|30/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T17:04:08.874Z"
+    "roubadaEm": "2026-07-29T23:15:10.735Z"
   },
   "FARM DO SAPATO": {
     "idNumerico": "9",
@@ -292,7 +292,7 @@
     "nome": "WELCOME > MELHOR FAZENDA DO BPS",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:11|30/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-29T23:11:50.496Z"
   },
   "FARM DO GALO": {

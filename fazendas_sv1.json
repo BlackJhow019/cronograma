@@ -3,17 +3,9 @@
     "idNumerico": "11",
     "nome": "rico louco",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:55|29/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-29T14:55:17.965Z"
-  },
-  "KODIAK": {
-    "idNumerico": "3",
-    "nome": "KodiaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:52|29/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-29T14:52:52.254Z"
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -106,10 +98,10 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:55|29/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T14:31:27.209Z"
+    "roubadaEm": "2026-07-29T19:55:49.000Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
@@ -163,7 +155,7 @@
     "idNumerico": "1",
     "nome": "021",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:55|29/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-29T14:55:23.532Z"
   },

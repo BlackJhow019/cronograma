@@ -156,7 +156,7 @@
     "nome": "YT @GANDIA_RP",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:42|29/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-29T02:42:51.774Z"
   },
   "021": {
@@ -234,10 +234,10 @@
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:46|29/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T19:52:01.826Z"
+    "roubadaEm": "2026-07-29T02:46:44.498Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",

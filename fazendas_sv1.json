@@ -308,7 +308,7 @@
     "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:14|29/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-29T15:14:50.800Z"
   },
   "SAO PEDRO 2": {
@@ -322,10 +322,10 @@
   "THUG LIFE": {
     "idNumerico": "21",
     "nome": "THUG LIFE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:16|29/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T03:52:41.070Z"
+    "roubadaEm": "2026-07-29T15:16:34.717Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",

@@ -4,7 +4,7 @@
     "nome": "999",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:22|29/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-29T01:22:25.455Z"
   },
   "JESUS EA SOLUCAO": {
@@ -18,10 +18,10 @@
   "AWAKE COMPANY": {
     "idNumerico": "13",
     "nome": "AwaKe Company",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:25|29/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T19:13:43.076Z"
+    "roubadaEm": "2026-07-29T01:25:54.071Z"
   },
   "ROCK FARM": {
     "idNumerico": "11",
@@ -156,7 +156,7 @@
     "nome": "FARM'S NAY E NICK",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:12|29/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-29T01:12:21.772Z"
   },
   "FARM DO SAPATO": {

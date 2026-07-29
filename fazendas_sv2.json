@@ -36,7 +36,7 @@
     "nome": "Fazenda do Temor",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:22|29/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-29T10:22:14.717Z"
   },
   "LA FAMILIA CHIARADIA": {
@@ -162,10 +162,10 @@
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:27|29/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T02:26:41.983Z"
+    "roubadaEm": "2026-07-29T10:27:15.551Z"
   },
   "AURA + EGO": {
     "idNumerico": "22",

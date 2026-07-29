@@ -10,10 +10,10 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:25|29/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T03:55:39.713Z"
+    "roubadaEm": "2026-07-29T09:25:31.425Z"
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -163,9 +163,9 @@
     "idNumerico": "1",
     "nome": "021",
     "status": "INDISPONIVEL",
-    "disponivelEm": "10:43|29/07/2026",
+    "disponivelEm": "10:42|29/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T08:43:13.206Z"
+    "roubadaEm": "2026-07-29T08:42:49.341Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
@@ -205,7 +205,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "07:47|29/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T08:37:03.483Z"
+    "roubadaEm": "2026-07-29T08:36:49.550Z"
   },
   "JAH RASTAFARI": {
     "idNumerico": "39",
@@ -317,7 +317,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "10:35|29/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T08:36:30.374Z"
+    "roubadaEm": "2026-07-29T08:36:30.289Z"
   },
   "THUG LIFE": {
     "idNumerico": "21",

@@ -242,10 +242,10 @@
   "FAZENDA CUIUDA - BY GAZOLA": {
     "idNumerico": "17",
     "nome": "Fazenda Cuiuda - By GAZOLA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:01|30/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T05:54:24.108Z"
+    "roubadaEm": "2026-07-29T22:01:14.041Z"
   },
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",
@@ -350,13 +350,5 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-29T12:38:26.585Z"
-  },
-  "YANINHA_ANTIFALSOS": {
-    "idNumerico": "34",
-    "nome": "yAninha_AntiFalsos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:00|29/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T17:00:37.497Z"
   }
 }

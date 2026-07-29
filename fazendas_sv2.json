@@ -58,10 +58,10 @@
   "TA NO GRALI": {
     "idNumerico": "4",
     "nome": "ta no grali",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:52|29/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T14:33:32.682Z"
+    "roubadaEm": "2026-07-29T02:52:59.424Z"
   },
   "B13 :)": {
     "idNumerico": "23",
@@ -164,7 +164,7 @@
     "nome": "FARM DO SAPATO",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:26|29/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-29T02:26:41.983Z"
   },
   "AURA + EGO": {
@@ -342,14 +342,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-28T18:28:01.073Z"
-  },
-  "YELLOWSTONE - BY MONSTER": {
-    "idNumerico": "16",
-    "nome": "YellowStone - By Monster",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:49|28/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-28T21:49:49.444Z"
   },
   "YANINHA_ANTIFALSOS": {
     "idNumerico": "34",

@@ -124,7 +124,7 @@
     "nome": "Farme do Drake",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:54|29/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-29T01:06:42.713Z"
   },
   "DEAD (:": {
@@ -178,10 +178,10 @@
   "SUCCUBUS FARMS": {
     "idNumerico": "29",
     "nome": "Succubus Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:16|29/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T15:07:47.432Z"
+    "roubadaEm": "2026-07-29T01:16:36.149Z"
   },
   "AMO A MAZZI": {
     "idNumerico": "6",

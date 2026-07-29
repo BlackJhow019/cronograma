@@ -250,10 +250,10 @@
   "GRUPO NEXUS": {
     "idNumerico": "9",
     "nome": "GRUPO NEXUS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:29|29/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T04:06:06.961Z"
+    "roubadaEm": "2026-07-29T15:29:12.658Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",
@@ -324,7 +324,7 @@
     "nome": "THUG LIFE",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:16|29/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-29T15:16:48.443Z"
   },
   "FAMILIA ALMANAK": {
@@ -335,14 +335,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-29T12:46:47.845Z"
   },
-  "PEEEERFEITO": {
-    "idNumerico": "12",
-    "nome": "Peeeerfeito",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T23:49:38.602Z"
-  },
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
@@ -350,5 +342,13 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-26T21:13:35.575Z"
+  },
+  "PEEEERFEITO": {
+    "idNumerico": "12",
+    "nome": "Peeeerfeito",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-28T23:49:38.602Z"
   }
 }

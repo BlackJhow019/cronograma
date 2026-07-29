@@ -98,10 +98,10 @@
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:16|30/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T17:09:48.757Z"
+    "roubadaEm": "2026-07-29T23:16:14.364Z"
   },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
@@ -156,7 +156,7 @@
     "nome": "FARM'S NAY E NICK",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:15|30/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-29T23:15:10.735Z"
   },
   "FARM DO SAPATO": {

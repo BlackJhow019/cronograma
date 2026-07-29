@@ -196,7 +196,7 @@
     "nome": "CHAMA A POLICIA",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:22|29/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-29T04:22:45.915Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
@@ -330,10 +330,10 @@
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
     "nome": "Vale das Sombras",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:26|29/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T23:18:58.480Z"
+    "roubadaEm": "2026-07-29T04:26:14.516Z"
   },
   "@FILH_ODOPAII": {
     "idNumerico": "12",

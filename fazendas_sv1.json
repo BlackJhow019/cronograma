@@ -10,17 +10,17 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:52|29/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T09:27:36.498Z"
+    "roubadaEm": "2026-07-29T14:52:20.583Z"
   },
   "NIKE SHOX": {
     "idNumerico": "42",
     "nome": "NIKE SHOX",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:44|29/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-29T14:51:19.281Z"
   },
   "RAFHA INVESTIMENTOS $": {
@@ -302,14 +302,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-28T20:52:13.982Z"
-  },
-  "DM2 FARM": {
-    "idNumerico": "6",
-    "nome": "Dm2 Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T09:51:14.128Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",

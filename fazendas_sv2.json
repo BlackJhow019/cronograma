@@ -164,7 +164,7 @@
     "nome": "FARM DO SAPATO",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:14|29/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-29T17:14:25.433Z"
   },
   "AURA + EGO": {
@@ -306,10 +306,10 @@
   "FARM DA THATY": {
     "idNumerico": "1",
     "nome": "Farm da Thaty",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:23|29/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T05:44:31.816Z"
+    "roubadaEm": "2026-07-29T17:23:21.762Z"
   },
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",

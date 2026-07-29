@@ -4,7 +4,7 @@
     "nome": "rico louco",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:56|29/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-29T20:56:46.504Z"
   },
   "KODIAK": {
@@ -20,7 +20,7 @@
     "nome": "NIKE SHOX",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:49|29/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-29T20:55:42.846Z"
   },
   "RAFHA INVESTIMENTOS $": {
@@ -314,10 +314,10 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:06|29/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T15:00:12.462Z"
+    "roubadaEm": "2026-07-29T21:08:09.802Z"
   },
   "THUG LIFE": {
     "idNumerico": "21",

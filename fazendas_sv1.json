@@ -44,7 +44,7 @@
     "nome": "Borrachas Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:34|30/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-29T23:34:12.832Z"
   },
   "WESKER_U$METRALHA": {
@@ -98,10 +98,10 @@
   "MONOPOLIO FARMS": {
     "idNumerico": "20",
     "nome": "Monopolio Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:51|30/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T12:23:15.580Z"
+    "roubadaEm": "2026-07-29T23:51:22.914Z"
   },
   "AZEROX": {
     "idNumerico": "23",

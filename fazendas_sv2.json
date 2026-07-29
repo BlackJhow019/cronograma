@@ -159,14 +159,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-29T01:12:21.772Z"
   },
-  "FARM DO SAPATO": {
-    "idNumerico": "9",
-    "nome": "FARM DO SAPATO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:55|28/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-28T20:55:15.499Z"
-  },
   "AURA + EGO": {
     "idNumerico": "22",
     "nome": "Aura + Ego",
@@ -282,9 +274,9 @@
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:52|28/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-28T20:52:22.947Z"
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {

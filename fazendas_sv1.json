@@ -147,7 +147,7 @@
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
     "status": "INDISPONIVEL",
-    "disponivelEm": "19:44|29/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-29T17:44:07.741Z"
   },
@@ -194,9 +194,9 @@
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-29T17:40:33.299Z"
   },
   "RICK FARM'S": {

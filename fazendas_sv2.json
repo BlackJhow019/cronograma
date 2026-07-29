@@ -119,14 +119,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-29T03:46:10.050Z"
   },
-  "FARME DO DRAKE": {
-    "idNumerico": "35",
-    "nome": "Farme do Drake",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:54|29/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-29T01:06:42.713Z"
-  },
   "DEAD (:": {
     "idNumerico": "27",
     "nome": "Dead (:",
@@ -346,10 +338,10 @@
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
     "nome": "YellowStone - By Monster",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:59|29/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T21:49:49.444Z"
+    "roubadaEm": "2026-07-29T05:59:46.414Z"
   },
   "YANINHA_ANTIFALSOS": {
     "idNumerico": "34",

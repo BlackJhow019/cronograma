@@ -143,14 +143,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-28T20:35:05.171Z"
   },
-  "VC É A PIADA AQUI": {
-    "idNumerico": "10",
-    "nome": "Vc é a piada aqui",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T21:13:35.575Z"
-  },
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
@@ -162,10 +154,10 @@
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:41|29/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T13:39:41.476Z"
+    "roubadaEm": "2026-07-29T02:41:54.275Z"
   },
   "021": {
     "idNumerico": "1",
@@ -306,8 +298,8 @@
   "..OURO..PR3TO..": {
     "idNumerico": "5",
     "nome": "..OURO..PR3TO..",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:52|28/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-28T20:52:13.982Z"
   },
@@ -350,5 +342,13 @@
     "disponivelEm": "01:49|29/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-28T23:49:38.602Z"
+  },
+  "PENOSO FARM'S": {
+    "idNumerico": "10",
+    "nome": "Penoso Farm's",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-26T21:13:35.575Z"
   }
 }

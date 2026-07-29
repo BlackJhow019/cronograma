@@ -156,7 +156,7 @@
     "nome": "Granja do iMonKeY",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:28|29/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-29T01:28:45.894Z"
   },
   "YT @GANDIA_RP": {
@@ -314,10 +314,10 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:32|29/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T15:17:24.551Z"
+    "roubadaEm": "2026-07-29T01:32:33.074Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",

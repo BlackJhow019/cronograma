@@ -11,7 +11,7 @@
     "idNumerico": "3",
     "nome": "KodiaK",
     "status": "INDISPONIVEL",
-    "disponivelEm": "05:55|29/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-29T03:55:39.713Z"
   },
@@ -322,9 +322,9 @@
   "THUG LIFE": {
     "idNumerico": "21",
     "nome": "THUG LIFE",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-29T03:52:41.070Z"
   },
   "FAMILIA ALMANAK": {

@@ -106,10 +106,10 @@
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:28|30/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T17:06:12.703Z"
+    "roubadaEm": "2026-07-29T22:28:47.850Z"
   },
   "ARIANA_B13": {
     "idNumerico": "10",
@@ -245,7 +245,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "00:01|30/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T22:01:14.041Z"
+    "roubadaEm": "2026-07-29T22:01:13.989Z"
   },
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",
@@ -325,7 +325,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "00:08|30/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T22:08:50.514Z"
+    "roubadaEm": "2026-07-29T22:08:36.557Z"
   },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",

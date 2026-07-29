@@ -12,7 +12,7 @@
     "nome": "KodiaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:55|29/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-29T03:55:39.713Z"
   },
   "NIKE SHOX": {
@@ -84,7 +84,7 @@
     "nome": "Fazenda da Milly",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:49|29/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-29T03:49:53.548Z"
   },
   "HWD INVESTIMENTOS": {
@@ -250,10 +250,10 @@
   "GRUPO NEXUS": {
     "idNumerico": "9",
     "nome": "GRUPO NEXUS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:05|29/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T20:21:29.559Z"
+    "roubadaEm": "2026-07-29T04:05:53.190Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",

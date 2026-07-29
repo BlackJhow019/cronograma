@@ -20,7 +20,7 @@
     "nome": "AwaKe Company",
     "status": "INDISPONIVEL",
     "disponivelEm": "10:40|29/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-29T08:40:16.447Z"
   },
   "ROCK FARM": {
@@ -170,9 +170,9 @@
   "AURA + EGO": {
     "idNumerico": "22",
     "nome": "Aura + Ego",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:59|29/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-29T03:59:02.959Z"
   },
   "SUCCUBUS FARMS": {

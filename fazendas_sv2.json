@@ -36,7 +36,7 @@
     "nome": "Fazenda do Temor",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:37|30/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-29T23:37:06.197Z"
   },
   "LA FAMILIA CHIARADIA": {
@@ -282,10 +282,10 @@
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:43|30/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T16:36:19.022Z"
+    "roubadaEm": "2026-07-29T23:43:17.368Z"
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {
     "idNumerico": "37",

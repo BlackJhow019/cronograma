@@ -34,10 +34,10 @@
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:24|29/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T07:41:13.079Z"
+    "roubadaEm": "2026-07-29T14:24:12.925Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -116,7 +116,7 @@
     "nome": "Farm's de Cafe",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:19|29/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-29T14:19:56.605Z"
   },
   "FAZENDA ROTA DO CAFÉ": {

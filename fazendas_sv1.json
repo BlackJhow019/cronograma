@@ -202,10 +202,10 @@
   "RICK FARM'S": {
     "idNumerico": "40",
     "nome": "Rick Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:41|29/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T08:36:49.550Z"
+    "roubadaEm": "2026-07-29T15:30:32.913Z"
   },
   "JAH RASTAFARI": {
     "idNumerico": "39",
@@ -252,7 +252,7 @@
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:29|29/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-29T15:29:12.658Z"
   },
   "K1NG FARM'S": {

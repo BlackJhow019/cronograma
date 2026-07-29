@@ -114,10 +114,10 @@
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:54|29/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T23:52:58.389Z"
+    "roubadaEm": "2026-07-29T05:54:47.694Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
     "idNumerico": "17",
@@ -244,7 +244,7 @@
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:32|29/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-29T05:32:12.841Z"
   },
   "GRUPO NEXUS": {

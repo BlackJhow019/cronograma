@@ -123,7 +123,7 @@
     "idNumerico": "35",
     "nome": "Farme do Drake",
     "status": "INDISPONIVEL",
-    "disponivelEm": "19:48|29/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-29T18:00:57.559Z"
   },
@@ -162,10 +162,10 @@
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:48|30/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T17:14:25.433Z"
+    "roubadaEm": "2026-07-29T22:48:37.814Z"
   },
   "AURA + EGO": {
     "idNumerico": "22",
@@ -299,7 +299,7 @@
     "idNumerico": "40",
     "nome": "FARM DO GALO",
     "status": "INDISPONIVEL",
-    "disponivelEm": "19:48|29/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-29T17:48:08.038Z"
   },

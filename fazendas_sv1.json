@@ -306,10 +306,10 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:14|29/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T09:51:14.128Z"
+    "roubadaEm": "2026-07-29T15:14:38.733Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",

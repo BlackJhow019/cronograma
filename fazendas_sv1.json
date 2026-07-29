@@ -220,8 +220,8 @@
     "nome": ".",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:28|29/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T18:28:53.252Z"
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-29T18:28:53.104Z"
   },
   "30PRAUM": {
     "idNumerico": "16",
@@ -263,14 +263,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-28T13:24:40.255Z"
   },
-  "PREFEITO ROADBLOCK": {
-    "idNumerico": "41",
-    "nome": "Prefeito Roadblock",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:58|29/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T13:58:46.707Z"
-  },
   "ROUBO OFF": {
     "idNumerico": "7",
     "nome": "roubo off",
@@ -284,7 +276,7 @@
     "nome": "Rancho do Doutor",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:23|29/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-29T18:23:58.298Z"
   },
   "WORK INDUSTRIA'S LIMITED": {

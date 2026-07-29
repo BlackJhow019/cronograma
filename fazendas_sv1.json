@@ -75,7 +75,7 @@
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
     "status": "INDISPONIVEL",
-    "disponivelEm": "14:04|29/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-29T12:04:20.771Z"
   },
@@ -170,10 +170,10 @@
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:04|29/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T08:17:17.464Z"
+    "roubadaEm": "2026-07-29T17:04:50.546Z"
   },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",

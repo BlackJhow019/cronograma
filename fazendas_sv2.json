@@ -4,7 +4,7 @@
     "nome": "999",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:27|29/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-29T13:27:14.404Z"
   },
   "JESUS EA SOLUCAO": {
@@ -130,10 +130,10 @@
   "DEAD (:": {
     "idNumerico": "27",
     "nome": "Dead (:",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:33|29/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T01:59:36.238Z"
+    "roubadaEm": "2026-07-29T13:33:46.521Z"
   },
   "DONA SEM RAZAO": {
     "idNumerico": "26",
@@ -252,7 +252,7 @@
     "nome": "RAMONZIN_FRANCA",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:18|29/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-29T13:18:46.835Z"
   },
   "QG FARM KHAOS": {

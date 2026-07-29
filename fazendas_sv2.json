@@ -20,7 +20,7 @@
     "nome": "AwaKe Company",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:26|29/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-29T01:26:09.380Z"
   },
   "ROCK FARM": {
@@ -202,10 +202,10 @@
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",
     "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:32|29/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T12:12:52.813Z"
+    "roubadaEm": "2026-07-29T01:32:37.241Z"
   },
   "GRUPO RANTER": {
     "idNumerico": "19",

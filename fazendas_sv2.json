@@ -114,10 +114,10 @@
   "ARIANA_B13": {
     "idNumerico": "10",
     "nome": "Ariana_B13",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:45|29/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T22:29:32.928Z"
+    "roubadaEm": "2026-07-29T03:45:52.572Z"
   },
   "FARME DO DRAKE": {
     "idNumerico": "35",
@@ -171,7 +171,7 @@
     "idNumerico": "22",
     "nome": "Aura + Ego",
     "status": "INDISPONIVEL",
-    "disponivelEm": "00:45|29/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-28T22:45:40.001Z"
   },
@@ -230,14 +230,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-28T19:49:03.416Z"
-  },
-  "~E V O M~": {
-    "idNumerico": "25",
-    "nome": "~E V O M~",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:43|29/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-28T22:43:28.322Z"
   },
   "FAZENDA CUIUDA - BY GAZOLA": {
     "idNumerico": "17",

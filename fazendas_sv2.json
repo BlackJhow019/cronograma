@@ -164,7 +164,7 @@
     "nome": "FARM DO SAPATO",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:48|30/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-29T22:48:52.554Z"
   },
   "AURA + EGO": {
@@ -298,10 +298,10 @@
   "FARM DO GALO": {
     "idNumerico": "40",
     "nome": "FARM DO GALO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:01|30/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T17:48:08.038Z"
+    "roubadaEm": "2026-07-29T23:01:36.018Z"
   },
   "FARM DA THATY": {
     "idNumerico": "1",

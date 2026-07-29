@@ -188,16 +188,16 @@
     "nome": "Amo a Mazzi",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:16|29/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-29T04:16:35.154Z"
   },
   "CHAMA A POLICIA": {
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:22|29/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T22:03:02.272Z"
+    "roubadaEm": "2026-07-29T04:22:00.306Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",
@@ -326,14 +326,6 @@
     "disponivelEm": "02:48|29/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-29T00:48:33.588Z"
-  },
-  "VALE DAS SOMBRAS": {
-    "idNumerico": "24",
-    "nome": "Vale das Sombras",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:18|29/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-28T23:18:58.480Z"
   },
   "@FILH_ODOPAII": {
     "idNumerico": "12",

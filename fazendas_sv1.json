@@ -186,10 +186,10 @@
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:25|29/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T04:16:54.490Z"
+    "roubadaEm": "2026-07-29T12:25:06.785Z"
   },
   "NOREX FARM'S": {
     "idNumerico": "13",
@@ -228,7 +228,7 @@
     "nome": "30PRAUM",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:20|29/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-29T12:20:35.007Z"
   },
   "FAZENDA FELIZ": {

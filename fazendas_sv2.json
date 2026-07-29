@@ -26,10 +26,10 @@
   "ROCK FARM": {
     "idNumerico": "11",
     "nome": "RocK Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:45|29/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T18:46:31.929Z"
+    "roubadaEm": "2026-07-29T00:45:10.283Z"
   },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
@@ -92,7 +92,7 @@
     "nome": "CANNABIS",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:34|29/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-29T00:34:27.863Z"
   },
   "AMO O LOWER": {
@@ -108,7 +108,7 @@
     "nome": "SE ROUBAR MORRE",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:31|29/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-29T00:32:02.237Z"
   },
   "ARIANA_B13": {
@@ -318,14 +318,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-28T14:54:51.335Z"
-  },
-  "TREMBALA": {
-    "idNumerico": "42",
-    "nome": "TremBala",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:43|28/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-28T19:43:25.514Z"
   },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",

@@ -44,7 +44,7 @@
     "nome": "Borrachas Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:56|29/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-29T11:56:21.477Z"
   },
   "WESKER_U$METRALHA": {
@@ -74,17 +74,17 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:03|29/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T04:38:25.118Z"
+    "roubadaEm": "2026-07-29T12:03:34.515Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:34|29/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-29T11:34:15.072Z"
   },
   "HWD INVESTIMENTOS": {

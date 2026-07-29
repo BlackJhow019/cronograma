@@ -106,17 +106,17 @@
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:05|29/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T11:11:53.020Z"
+    "roubadaEm": "2026-07-29T17:05:57.722Z"
   },
   "ARIANA_B13": {
     "idNumerico": "10",
     "nome": "Ariana_B13",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:03|29/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-29T17:03:43.446Z"
   },
   "FARME DO DRAKE": {

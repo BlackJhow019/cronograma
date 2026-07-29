@@ -28,7 +28,7 @@
     "nome": "RocK Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:08|29/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-29T14:08:36.544Z"
   },
   "FAZENDA DO TEMOR": {
@@ -58,10 +58,10 @@
   "TA NO GRALI": {
     "idNumerico": "4",
     "nome": "ta no grali",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:41|29/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T02:52:59.328Z"
+    "roubadaEm": "2026-07-29T14:41:25.562Z"
   },
   "B13 :)": {
     "idNumerico": "23",

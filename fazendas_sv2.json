@@ -20,7 +20,7 @@
     "nome": "AwaKe Company",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:12|29/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-29T17:12:33.544Z"
   },
   "ROCK FARM": {
@@ -118,6 +118,14 @@
     "disponivelEm": "19:03|29/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-29T17:03:43.446Z"
+  },
+  "FARME DO DRAKE": {
+    "idNumerico": "35",
+    "nome": "Farme do Drake",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-29T12:25:49.211Z"
   },
   "DEAD (:": {
     "idNumerico": "27",

@@ -148,7 +148,7 @@
     "nome": "Granja do iMonKeY",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:44|29/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-29T17:44:07.741Z"
   },
   "YT @GANDIA_RP": {
@@ -202,10 +202,10 @@
   "RICK FARM'S": {
     "idNumerico": "30",
     "nome": "Rick Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:58|29/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T15:30:47.455Z"
+    "roubadaEm": "2026-07-29T17:47:13.860Z"
   },
   "JAH RASTAFARI": {
     "idNumerico": "39",
@@ -326,14 +326,6 @@
     "disponivelEm": "17:16|29/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-29T15:16:48.443Z"
-  },
-  "FAMILIA ALMANAK": {
-    "idNumerico": "32",
-    "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:46|29/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-29T12:46:47.845Z"
   },
   "PENOSO FARM'S": {
     "idNumerico": "10",

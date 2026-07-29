@@ -43,9 +43,9 @@
     "idNumerico": "33",
     "nome": "Borrachas Farm",
     "status": "INDISPONIVEL",
-    "disponivelEm": "20:14|29/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T18:14:06.559Z"
+    "disponivelEm": "20:13|29/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-29T18:13:53.663Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
@@ -282,10 +282,10 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:23|29/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T05:01:37.057Z"
+    "roubadaEm": "2026-07-29T18:23:58.298Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
@@ -293,7 +293,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "20:06|29/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T18:06:39.512Z"
+    "roubadaEm": "2026-07-29T18:06:26.867Z"
   },
   "..OURO..PR3TO..": {
     "idNumerico": "5",

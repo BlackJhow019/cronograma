@@ -10,10 +10,10 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:31|29/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T14:52:52.254Z"
+    "roubadaEm": "2026-07-29T20:31:05.551Z"
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -247,14 +247,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-29T17:20:14.503Z"
   },
-  "GRUPO NEXUS": {
-    "idNumerico": "9",
-    "nome": "GRUPO NEXUS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:29|29/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-29T15:29:12.658Z"
-  },
   "K1NG FARM'S": {
     "idNumerico": "25",
     "nome": "K1NG Farm's",
@@ -342,13 +334,5 @@
     "disponivelEm": "17:48|29/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-29T15:48:56.896Z"
-  },
-  "PEEEERFEITO": {
-    "idNumerico": "12",
-    "nome": "Peeeerfeito",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:29|29/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T15:29:54.837Z"
   }
 }

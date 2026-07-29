@@ -117,7 +117,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "07:54|29/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T05:54:47.694Z"
+    "roubadaEm": "2026-07-29T05:54:47.676Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
     "idNumerico": "17",
@@ -291,9 +291,9 @@
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
-    "disponivelEm": "08:02|29/07/2026",
+    "disponivelEm": "08:01|29/07/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-07-29T06:02:11.643Z"
+    "roubadaEm": "2026-07-29T06:01:37.183Z"
   },
   "..OURO..PR3TO..": {
     "idNumerico": "5",
@@ -306,9 +306,9 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:33|29/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-29T01:33:16.868Z"
   },
   "SAO PEDRO 2": {

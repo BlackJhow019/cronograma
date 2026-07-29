@@ -223,14 +223,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-29T18:28:53.104Z"
   },
-  "30PRAUM": {
-    "idNumerico": "16",
-    "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:50|29/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-29T17:50:07.688Z"
-  },
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
@@ -250,10 +242,10 @@
   "GRUPO NEXUS": {
     "idNumerico": "9",
     "nome": "GRUPO NEXUS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:51|30/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T15:29:12.658Z"
+    "roubadaEm": "2026-07-29T22:51:27.561Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",
@@ -326,14 +318,6 @@
     "disponivelEm": "22:22|29/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-29T20:22:16.215Z"
-  },
-  "FAMILIA ALMANAK": {
-    "idNumerico": "32",
-    "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:49|29/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-29T17:49:44.350Z"
   },
   "PENOSO FARM'S": {
     "idNumerico": "10",

@@ -212,7 +212,7 @@
     "nome": "GRUPO RANTER",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:03|29/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-29T13:03:08.853Z"
   },
   "ROLINHA CANSADA FARMS": {
@@ -250,10 +250,10 @@
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",
     "nome": "RAMONZIN_FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:18|29/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T03:19:50.684Z"
+    "roubadaEm": "2026-07-29T13:18:46.922Z"
   },
   "QG FARM KHAOS": {
     "idNumerico": "18",

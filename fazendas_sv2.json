@@ -194,10 +194,10 @@
   "CHAMA A POLICIA": {
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:48|29/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T04:22:00.274Z"
+    "roubadaEm": "2026-07-29T11:48:18.511Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",
@@ -356,7 +356,7 @@
     "nome": "yAninha_AntiFalsos",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:45|29/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-29T11:45:22.150Z"
   }
 }

@@ -194,9 +194,9 @@
   "CHAMA A POLICIA": {
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:22|29/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-29T04:22:00.274Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
@@ -331,7 +331,7 @@
     "idNumerico": "24",
     "nome": "Vale das Sombras",
     "status": "INDISPONIVEL",
-    "disponivelEm": "06:26|29/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-29T04:26:14.438Z"
   },

@@ -234,7 +234,7 @@
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-28T20:20:06.326Z"
@@ -254,14 +254,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-28T19:01:06.760Z"
-  },
-  "GRUPO NEXUS": {
-    "idNumerico": "9",
-    "nome": "GRUPO NEXUS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:21|28/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-28T20:21:29.559Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",

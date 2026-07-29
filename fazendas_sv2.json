@@ -154,9 +154,9 @@
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:12|29/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-29T01:12:21.772Z"
   },
   "FARM DO SAPATO": {
@@ -174,14 +174,6 @@
     "disponivelEm": "05:59|29/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-29T03:59:02.959Z"
-  },
-  "SUCCUBUS FARMS": {
-    "idNumerico": "29",
-    "nome": "Succubus Farms",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:16|29/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-29T01:16:36.149Z"
   },
   "AMO A MAZZI": {
     "idNumerico": "6",
@@ -348,7 +340,7 @@
     "nome": "YellowStone - By Monster",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:00|29/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-29T06:00:17.286Z"
   },
   "YANINHA_ANTIFALSOS": {

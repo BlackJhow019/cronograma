@@ -36,16 +36,16 @@
     "nome": "Fazenda do Temor",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:06|29/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-29T02:06:23.777Z"
   },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
     "nome": "LA FAMILIA CHIARADIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:20|29/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T11:30:57.055Z"
+    "roubadaEm": "2026-07-29T02:20:42.628Z"
   },
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",

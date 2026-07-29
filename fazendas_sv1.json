@@ -204,7 +204,7 @@
     "nome": "Rick Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:59|29/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-29T20:48:21.221Z"
   },
   "JAH RASTAFARI": {
@@ -338,8 +338,8 @@
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:48|29/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-29T15:48:56.896Z"
   },

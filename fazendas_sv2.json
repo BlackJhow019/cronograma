@@ -290,10 +290,10 @@
   "WELCOME > MELHOR FAZENDA DO BPS": {
     "idNumerico": "37",
     "nome": "WELCOME > MELHOR FAZENDA DO BPS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:11|30/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T03:22:12.332Z"
+    "roubadaEm": "2026-07-29T23:11:32.199Z"
   },
   "FARM DO GALO": {
     "idNumerico": "40",
@@ -308,7 +308,7 @@
     "nome": "Farm da Thaty",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:04|30/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-29T23:04:47.186Z"
   },
   "FAZENDA REI DROGADO": {

@@ -247,14 +247,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-28T19:52:01.826Z"
   },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:01|28/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T19:01:06.760Z"
-  },
   "GRUPO NEXUS": {
     "idNumerico": "9",
     "nome": "GRUPO NEXUS",
@@ -338,10 +330,10 @@
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:02|29/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T18:45:17.705Z"
+    "roubadaEm": "2026-07-29T00:02:09.536Z"
   },
   "PEEEERFEITO": {
     "idNumerico": "12",

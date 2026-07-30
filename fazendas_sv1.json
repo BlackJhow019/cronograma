@@ -28,7 +28,7 @@
     "nome": "Rafha investimentos $",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:02|30/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-30T13:02:16.286Z"
   },
   "LEK0ZIKA": {
@@ -170,10 +170,10 @@
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:05|30/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T03:48:27.854Z"
+    "roubadaEm": "2026-07-30T13:05:01.686Z"
   },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
@@ -244,7 +244,7 @@
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:57|30/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-30T12:57:56.893Z"
   },
   "GRUPO NEXUS": {

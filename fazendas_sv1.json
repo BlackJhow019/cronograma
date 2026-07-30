@@ -12,7 +12,7 @@
     "nome": "KodiaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:09|30/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-30T12:09:34.163Z"
   },
   "NIKE SHOX": {
@@ -84,7 +84,7 @@
     "nome": "Fazenda da Milly",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:08|30/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-30T12:08:54.203Z"
   },
   "HWD INVESTIMENTOS": {
@@ -343,12 +343,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-29T15:48:56.896Z"
   },
-  "PEEEERFEITO": {
+  "PEEEERFEITO!": {
     "idNumerico": "12",
-    "nome": "Peeeerfeito",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "nome": "Peeeerfeito!",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:18|30/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T03:47:27.064Z"
+    "roubadaEm": "2026-07-30T12:18:02.839Z"
   }
 }

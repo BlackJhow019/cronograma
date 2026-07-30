@@ -74,8 +74,8 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:30|30/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-30T00:30:22.201Z"
   },
@@ -157,7 +157,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "07:16|30/07/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-07-30T05:16:12.641Z"
+    "roubadaEm": "2026-07-30T05:16:00.969Z"
   },
   "021": {
     "idNumerico": "1",
@@ -178,10 +178,10 @@
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:33|30/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T20:13:09.758Z"
+    "roubadaEm": "2026-07-30T05:33:33.742Z"
   },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
@@ -262,14 +262,6 @@
     "disponivelEm": "03:39|30/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-30T01:39:40.568Z"
-  },
-  "PREFEITO ROADBLOCK": {
-    "idNumerico": "41",
-    "nome": "Prefeito Roadblock",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:35|30/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T00:35:09.820Z"
   },
   "ROUBO OFF": {
     "idNumerico": "7",

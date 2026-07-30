@@ -140,16 +140,16 @@
     "nome": "Dona sem razao",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:45|30/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-30T00:45:29.695Z"
   },
   "FAZENDA DO GALIN": {
     "idNumerico": "15",
     "nome": "Fazenda do Galin",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:47|30/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T09:48:44.770Z"
+    "roubadaEm": "2026-07-30T00:47:39.594Z"
   },
   "FARM'S NAY E NICK": {
     "idNumerico": "5",

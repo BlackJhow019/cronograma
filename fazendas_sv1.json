@@ -58,10 +58,10 @@
   "< GAUBRE LTDA >": {
     "idNumerico": "2",
     "nome": "< GAUBRE LTDA >",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:58|30/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T15:04:17.383Z"
+    "roubadaEm": "2026-07-30T03:58:26.001Z"
   },
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
@@ -172,7 +172,7 @@
     "nome": "Familia KuSh",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:48|30/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-30T03:48:27.854Z"
   },
   "FAZENDINHA DO IGEZE": {
@@ -246,14 +246,6 @@
     "disponivelEm": "03:19|30/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-30T01:19:13.405Z"
-  },
-  "GRUPO NEXUS": {
-    "idNumerico": "9",
-    "nome": "GRUPO NEXUS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:51|30/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-29T22:51:27.561Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",

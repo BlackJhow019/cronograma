@@ -147,7 +147,7 @@
     "idNumerico": "15",
     "nome": "Fazenda do Galin",
     "status": "INDISPONIVEL",
-    "disponivelEm": "19:07|30/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-30T17:07:32.089Z"
   },
@@ -314,9 +314,9 @@
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",
     "nome": "Fazenda Rei Drogado",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:05|30/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-30T17:05:51.640Z"
   },
   "TREMBALA": {

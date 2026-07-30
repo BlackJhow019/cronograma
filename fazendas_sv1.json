@@ -1,12 +1,4 @@
 {
-  "RICO LOUCO": {
-    "idNumerico": "11",
-    "nome": "rico louco",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:39|30/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T18:39:46.316Z"
-  },
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
@@ -26,10 +18,10 @@
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
     "nome": "Rafha investimentos $",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:40|31/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T13:02:16.286Z"
+    "roubadaEm": "2026-07-30T23:40:27.794Z"
   },
   "LEK0ZIKA": {
     "idNumerico": "35",

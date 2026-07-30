@@ -52,7 +52,7 @@
     "nome": "Wesker_u$MeTraLha",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:27|30/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-30T14:27:46.793Z"
   },
   "< GAUBRE LTDA >": {
@@ -330,9 +330,9 @@
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:30|30/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-30T09:30:12.708Z"
   },
   "PENOSO FARM'S": {

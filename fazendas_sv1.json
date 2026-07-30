@@ -34,10 +34,10 @@
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:50|30/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T10:37:42.018Z"
+    "roubadaEm": "2026-07-30T20:50:34.441Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -340,7 +340,7 @@
     "nome": "Penoso Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:39|30/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-30T20:39:45.612Z"
   },
   "PEEEERFEITO": {

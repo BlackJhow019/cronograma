@@ -10,10 +10,10 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:23|30/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T12:09:34.163Z"
+    "roubadaEm": "2026-07-30T18:23:09.437Z"
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -246,14 +246,6 @@
     "disponivelEm": "18:39|30/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-30T16:39:28.442Z"
-  },
-  "K1NG FARM'S": {
-    "idNumerico": "25",
-    "nome": "K1NG Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:20|30/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T13:20:23.269Z"
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",

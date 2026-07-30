@@ -34,10 +34,10 @@
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:01|30/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T11:58:27.760Z"
+    "roubadaEm": "2026-07-30T20:01:25.571Z"
   },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
@@ -92,7 +92,7 @@
     "nome": "CANNABIS",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:58|30/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-30T19:58:49.817Z"
   },
   "AMO O LOWER": {

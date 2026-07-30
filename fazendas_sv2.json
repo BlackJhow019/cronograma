@@ -74,10 +74,10 @@
   "MALVADA'S FARM": {
     "idNumerico": "32",
     "nome": "Malvada's Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:02|30/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-28T17:53:43.887Z"
+    "roubadaEm": "2026-07-30T01:02:03.521Z"
   },
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",

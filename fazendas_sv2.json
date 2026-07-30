@@ -23,14 +23,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-30T17:30:10.457Z"
   },
-  "ROCK FARM": {
-    "idNumerico": "11",
-    "nome": "RocK Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:00|30/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-30T16:00:55.096Z"
-  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -207,14 +199,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-29T01:32:54.391Z"
   },
-  "GRUPO RANTER": {
-    "idNumerico": "19",
-    "nome": "GRUPO RANTER",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:01|30/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-30T16:01:18.001Z"
-  },
   "ROLINHA CANSADA FARMS": {
     "idNumerico": "14",
     "nome": "Rolinha Cansada Farms",
@@ -334,6 +318,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-30T15:36:07.774Z"
+  },
+  "@FILH_ODOPAII": {
+    "idNumerico": "12",
+    "nome": "@filh_odopaii",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-30T15:58:56.533Z"
   },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",

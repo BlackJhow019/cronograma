@@ -90,10 +90,10 @@
   "CANNABIS": {
     "idNumerico": "8",
     "nome": "CANNABIS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:58|30/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T03:51:07.590Z"
+    "roubadaEm": "2026-07-30T19:58:21.077Z"
   },
   "AMO O LOWER": {
     "idNumerico": "2",
@@ -247,14 +247,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-29T22:01:13.989Z"
   },
-  "RAMONZIN_FRANCA": {
-    "idNumerico": "21",
-    "nome": "RAMONZIN_FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:56|30/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-30T14:56:50.498Z"
-  },
   "QG FARM KHAOS": {
     "idNumerico": "18",
     "nome": "QG FARM KHAOS",
@@ -346,9 +338,9 @@
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
     "nome": "YellowStone - By Monster",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:49|30/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-30T14:49:19.983Z"
   },
   "YANINHA_ANTIFALSOS": {

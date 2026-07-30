@@ -76,7 +76,7 @@
     "nome": "Malvada's Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:02|30/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-30T01:02:19.893Z"
   },
   "FARMS DE GALOPISITAS": {
@@ -130,10 +130,10 @@
   "DEAD (:": {
     "idNumerico": "27",
     "nome": "Dead (:",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:08|30/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T13:34:03.414Z"
+    "roubadaEm": "2026-07-30T01:08:59.914Z"
   },
   "DONA SEM RAZAO": {
     "idNumerico": "26",

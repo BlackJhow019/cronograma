@@ -74,10 +74,10 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:30|30/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T17:54:08.301Z"
+    "roubadaEm": "2026-07-30T00:30:10.344Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
@@ -262,14 +262,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-28T13:24:40.255Z"
-  },
-  "PREFEITO ROADBLOCK": {
-    "idNumerico": "41",
-    "nome": "Prefeito Roadblock",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:30|29/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T19:30:02.598Z"
   },
   "ROUBO OFF": {
     "idNumerico": "7",

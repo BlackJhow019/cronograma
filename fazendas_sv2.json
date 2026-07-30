@@ -114,10 +114,10 @@
   "ARIANA_B13": {
     "idNumerico": "10",
     "nome": "Ariana_B13",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:52|30/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T15:24:52.072Z"
+    "roubadaEm": "2026-07-30T21:52:43.019Z"
   },
   "FARME DO DRAKE": {
     "idNumerico": "35",
@@ -174,14 +174,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-30T16:09:22.353Z"
-  },
-  "SUCCUBUS FARMS": {
-    "idNumerico": "29",
-    "nome": "Succubus Farms",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:51|30/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-30T16:51:33.312Z"
   },
   "AMO A MAZZI": {
     "idNumerico": "6",

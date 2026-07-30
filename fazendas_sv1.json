@@ -34,10 +34,10 @@
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:34|30/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T20:11:59.538Z"
+    "roubadaEm": "2026-07-30T10:34:35.636Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -175,14 +175,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-30T03:48:27.854Z"
   },
-  "FAZENDINHA DO IGEZE": {
-    "idNumerico": "36",
-    "nome": "fazendinha do igeze",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:33|30/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T05:33:33.742Z"
-  },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
@@ -252,7 +244,7 @@
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:20|30/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-30T10:20:40.536Z"
   },
   "K1NG FARM'S": {

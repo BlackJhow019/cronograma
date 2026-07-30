@@ -135,14 +135,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-28T13:08:50.464Z"
   },
-  "QUEM ROUBAR E PETISTA": {
-    "idNumerico": "44",
-    "nome": "Quem Roubar e Petista",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:22|30/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-30T01:22:33.308Z"
-  },
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
@@ -239,6 +231,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-29T11:26:49.740Z"
   },
+  "OS DE RACA": {
+    "idNumerico": "0",
+    "nome": "OS DE RACA",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-30T01:19:13.405Z"
+  },
   "GRUPO NEXUS": {
     "idNumerico": "9",
     "nome": "GRUPO NEXUS",
@@ -268,7 +268,7 @@
     "nome": "roubo off",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:21|30/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-30T06:21:46.756Z"
   },
   "RANCHO DO DOUTOR": {

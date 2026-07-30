@@ -60,7 +60,7 @@
     "nome": "ta no grali",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:06|30/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-30T13:06:33.386Z"
   },
   "B13 :)": {
@@ -274,10 +274,10 @@
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:16|30/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T02:43:04.800Z"
+    "roubadaEm": "2026-07-30T13:16:29.077Z"
   },
   "FRANCA": {
     "idNumerico": "28",

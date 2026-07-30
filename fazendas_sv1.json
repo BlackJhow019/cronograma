@@ -138,10 +138,10 @@
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:22|30/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T17:37:43.155Z"
+    "roubadaEm": "2026-07-30T01:22:19.606Z"
   },
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
@@ -244,7 +244,7 @@
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:19|30/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-30T01:19:13.405Z"
   },
   "GRUPO NEXUS": {
@@ -323,7 +323,7 @@
     "idNumerico": "21",
     "nome": "THUG LIFE",
     "status": "INDISPONIVEL",
-    "disponivelEm": "22:22|29/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-29T20:22:16.215Z"
   },

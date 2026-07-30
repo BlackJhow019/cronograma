@@ -90,10 +90,10 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:01|30/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T21:23:50.900Z"
+    "roubadaEm": "2026-07-30T03:01:51.415Z"
   },
   "MONOPOLIO FARMS": {
     "idNumerico": "20",
@@ -324,7 +324,7 @@
     "nome": "THUG LIFE",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:42|30/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-30T02:42:51.324Z"
   },
   "FAMILIA ALMANAK": {

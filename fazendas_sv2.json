@@ -26,10 +26,10 @@
   "ROCK FARM": {
     "idNumerico": "11",
     "nome": "RocK Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:11|31/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T16:00:55.096Z"
+    "roubadaEm": "2026-07-30T22:11:05.214Z"
   },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",

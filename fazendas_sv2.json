@@ -31,6 +31,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-30T04:26:53.287Z"
   },
+  "FAZENDA DO TEMOR": {
+    "idNumerico": "30",
+    "nome": "Fazenda do Temor",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-29T23:37:06.197Z"
+  },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
     "nome": "LA FAMILIA CHIARADIA",
@@ -324,7 +332,7 @@
     "nome": "Vale das Sombras",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:38|30/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-30T04:38:18.385Z"
   },
   "@FILH_ODOPAII": {

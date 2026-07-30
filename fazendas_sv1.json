@@ -11,9 +11,9 @@
     "idNumerico": "3",
     "nome": "KodiaK",
     "status": "INDISPONIVEL",
-    "disponivelEm": "22:31|29/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-29T20:31:05.551Z"
+    "disponivelEm": "03:32|30/07/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-30T01:32:34.782Z"
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -140,7 +140,7 @@
     "nome": "Quem Roubar e Petista",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:22|30/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-30T01:22:33.308Z"
   },
   "GRANJA DO IMONKEY": {
@@ -303,14 +303,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-30T01:07:40.667Z"
   },
-  "DM2 FARM": {
-    "idNumerico": "6",
-    "nome": "Dm2 Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:31|29/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-29T20:31:57.608Z"
-  },
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
@@ -322,7 +314,7 @@
   "THUG LIFE": {
     "idNumerico": "21",
     "nome": "THUG LIFE",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-29T20:22:16.215Z"

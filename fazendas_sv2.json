@@ -98,10 +98,10 @@
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:44|31/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T15:13:58.139Z"
+    "roubadaEm": "2026-07-30T22:44:12.855Z"
   },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
@@ -164,7 +164,7 @@
     "nome": "FARM DO SAPATO",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:37|31/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-30T22:37:26.913Z"
   },
   "AURA + EGO": {

@@ -164,7 +164,7 @@
     "nome": "FARM DO SAPATO",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:40|30/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-30T15:40:47.549Z"
   },
   "AURA + EGO": {
@@ -314,10 +314,10 @@
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",
     "nome": "Fazenda Rei Drogado",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:05|30/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T01:37:32.721Z"
+    "roubadaEm": "2026-07-30T17:05:02.305Z"
   },
   "TREMBALA": {
     "idNumerico": "42",

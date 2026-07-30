@@ -116,7 +116,7 @@
     "nome": "Farm's de Cafe",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:33|30/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-30T19:33:21.218Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
@@ -186,10 +186,10 @@
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:36|30/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T11:12:24.688Z"
+    "roubadaEm": "2026-07-30T19:36:13.870Z"
   },
   "NOREX FARM'S": {
     "idNumerico": "13",

@@ -140,7 +140,7 @@
     "nome": "Quem Roubar e Petista",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:37|30/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-30T11:37:48.030Z"
   },
   "GRANJA DO IMONKEY": {
@@ -282,10 +282,10 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:49|30/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T00:14:01.701Z"
+    "roubadaEm": "2026-07-30T11:49:31.050Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",

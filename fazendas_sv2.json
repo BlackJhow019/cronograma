@@ -83,7 +83,7 @@
     "idNumerico": "20",
     "nome": "Farms de Galopisitas",
     "status": "INDISPONIVEL",
-    "disponivelEm": "12:28|30/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-30T10:28:27.864Z"
   },
@@ -258,10 +258,10 @@
   "QG FARM KHAOS": {
     "idNumerico": "18",
     "nome": "QG FARM KHAOS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:28|30/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-27T03:01:49.463Z"
+    "roubadaEm": "2026-07-30T15:28:23.153Z"
   },
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",
@@ -285,7 +285,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "17:28|30/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T15:28:23.007Z"
+    "roubadaEm": "2026-07-30T15:28:33.374Z"
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {
     "idNumerico": "37",

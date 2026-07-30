@@ -130,10 +130,10 @@
   "DEAD (:": {
     "idNumerico": "27",
     "nome": "Dead (:",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:10|30/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T11:46:06.387Z"
+    "roubadaEm": "2026-07-30T17:10:45.011Z"
   },
   "DONA SEM RAZAO": {
     "idNumerico": "26",
@@ -148,7 +148,7 @@
     "nome": "Fazenda do Galin",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:07|30/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-30T17:07:32.089Z"
   },
   "FARM'S NAY E NICK": {

@@ -204,7 +204,7 @@
     "nome": "Rick Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:25|30/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-30T20:14:30.181Z"
   },
   "JAH RASTAFARI": {
@@ -322,10 +322,10 @@
   "THUG LIFE": {
     "idNumerico": "21",
     "nome": "THUG LIFE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:18|30/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T14:56:18.203Z"
+    "roubadaEm": "2026-07-30T20:18:20.671Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",

@@ -7,14 +7,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-30T13:12:18.125Z"
   },
-  "KODIAK": {
-    "idNumerico": "3",
-    "nome": "KodiaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:09|30/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-30T12:09:34.163Z"
-  },
   "NIKE SHOX": {
     "idNumerico": "42",
     "nome": "NIKE SHOX",
@@ -79,14 +71,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-30T09:48:23.611Z"
   },
-  "FAZENDA DA MILLY": {
-    "idNumerico": "19",
-    "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:08|30/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-30T12:08:54.203Z"
-  },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
@@ -138,10 +122,10 @@
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:11|30/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T11:37:48.030Z"
+    "roubadaEm": "2026-07-30T17:11:09.370Z"
   },
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",

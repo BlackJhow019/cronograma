@@ -306,10 +306,10 @@
   "FARM DA THATY": {
     "idNumerico": "1",
     "nome": "Farm da Thaty",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:58|31/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T23:04:47.186Z"
+    "roubadaEm": "2026-07-30T23:58:39.938Z"
   },
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",

@@ -210,10 +210,10 @@
   "GRUPO RANTER": {
     "idNumerico": "19",
     "nome": "GRUPO RANTER",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:15|30/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T16:01:18.001Z"
+    "roubadaEm": "2026-07-30T21:15:44.944Z"
   },
   "ROLINHA CANSADA FARMS": {
     "idNumerico": "14",

@@ -146,17 +146,17 @@
   "FAZENDA DO GALIN": {
     "idNumerico": "15",
     "nome": "Fazenda do Galin",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:30|31/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T17:07:32.089Z"
+    "roubadaEm": "2026-07-30T23:30:55.143Z"
   },
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:18|31/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-30T23:18:27.703Z"
   },
   "FARM DO SAPATO": {
@@ -270,14 +270,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-29T03:22:44.511Z"
-  },
-  "FAZENDA DO MIRIM": {
-    "idNumerico": "36",
-    "nome": "Fazenda Do MIRIM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:28|30/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-30T18:28:25.928Z"
   },
   "FRANCA": {
     "idNumerico": "28",

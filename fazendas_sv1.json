@@ -239,14 +239,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-29T11:26:49.740Z"
   },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:19|30/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-30T01:19:13.405Z"
-  },
   "GRUPO NEXUS": {
     "idNumerico": "9",
     "nome": "GRUPO NEXUS",
@@ -274,10 +266,10 @@
   "ROUBO OFF": {
     "idNumerico": "7",
     "nome": "roubo off",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:20|30/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T04:13:37.457Z"
+    "roubadaEm": "2026-07-30T06:20:27.862Z"
   },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
@@ -298,9 +290,9 @@
   "..OURO..PR3TO..": {
     "idNumerico": "5",
     "nome": "..OURO..PR3TO..",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:07|30/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-30T01:07:40.667Z"
   },
   "DM2 FARM": {

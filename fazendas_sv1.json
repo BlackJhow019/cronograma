@@ -154,10 +154,10 @@
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:16|30/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T23:16:50.124Z"
+    "roubadaEm": "2026-07-30T05:16:01.076Z"
   },
   "021": {
     "idNumerico": "1",
@@ -278,14 +278,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-29T04:13:37.457Z"
-  },
-  "RANCHO DO DOUTOR": {
-    "idNumerico": "14",
-    "nome": "Rancho do Doutor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:14|30/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-30T00:14:01.701Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",

@@ -282,10 +282,10 @@
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:28|30/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T10:21:37.639Z"
+    "roubadaEm": "2026-07-30T15:28:23.007Z"
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {
     "idNumerico": "37",
@@ -324,7 +324,7 @@
     "nome": "TremBala",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:20|30/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-30T15:20:48.355Z"
   },
   "VALE DAS SOMBRAS": {

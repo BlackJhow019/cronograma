@@ -138,10 +138,10 @@
   "DONA SEM RAZAO": {
     "idNumerico": "26",
     "nome": "Dona sem razao",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:34|30/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T07:31:50.459Z"
+    "roubadaEm": "2026-07-30T18:34:51.464Z"
   },
   "FAZENDA DO GALIN": {
     "idNumerico": "15",
@@ -276,8 +276,8 @@
     "nome": "Fazenda Do MIRIM",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:28|30/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T18:28:40.518Z"
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-30T18:28:25.928Z"
   },
   "FRANCA": {
     "idNumerico": "28",

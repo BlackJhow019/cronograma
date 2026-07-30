@@ -2,17 +2,17 @@
   "999": {
     "idNumerico": "39",
     "nome": "999",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:30|30/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T13:27:14.404Z"
+    "roubadaEm": "2026-07-30T00:30:04.221Z"
   },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:22|30/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-30T00:22:10.258Z"
   },
   "AWAKE COMPANY": {

@@ -20,7 +20,7 @@
     "nome": "AwaKe Company",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:31|30/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-30T04:31:26.248Z"
   },
   "ROCK FARM": {
@@ -30,14 +30,6 @@
     "disponivelEm": "06:26|30/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-30T04:26:53.287Z"
-  },
-  "FAZENDA DO TEMOR": {
-    "idNumerico": "30",
-    "nome": "Fazenda do Temor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:37|30/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-29T23:37:06.197Z"
   },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
@@ -300,7 +292,7 @@
     "nome": "FARM DO GALO",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:24|30/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-30T04:24:45.602Z"
   },
   "FARM DA THATY": {
@@ -330,10 +322,10 @@
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
     "nome": "Vale das Sombras",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:38|30/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T16:07:17.721Z"
+    "roubadaEm": "2026-07-30T04:38:18.385Z"
   },
   "@FILH_ODOPAII": {
     "idNumerico": "12",

@@ -26,10 +26,10 @@
   "ROCK FARM": {
     "idNumerico": "11",
     "nome": "RocK Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:00|30/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T04:26:53.287Z"
+    "roubadaEm": "2026-07-30T16:00:38.432Z"
   },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
@@ -210,10 +210,10 @@
   "GRUPO RANTER": {
     "idNumerico": "19",
     "nome": "GRUPO RANTER",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:00|30/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T13:03:08.853Z"
+    "roubadaEm": "2026-07-30T16:00:37.757Z"
   },
   "ROLINHA CANSADA FARMS": {
     "idNumerico": "14",

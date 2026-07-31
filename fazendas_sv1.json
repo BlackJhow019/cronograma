@@ -202,10 +202,10 @@
   "RICK FARM'S": {
     "idNumerico": "30",
     "nome": "Rick Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:01|31/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T02:02:10.664Z"
+    "roubadaEm": "2026-07-31T07:18:07.103Z"
   },
   "JAH RASTAFARI": {
     "idNumerico": "39",
@@ -286,14 +286,6 @@
     "disponivelEm": "06:05|31/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-31T04:05:12.133Z"
-  },
-  "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": "38",
-    "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:15|31/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T02:15:24.134Z"
   },
   "..OURO..PR3TO..": {
     "idNumerico": "5",

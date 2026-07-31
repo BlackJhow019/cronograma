@@ -36,7 +36,7 @@
     "nome": "Fazenda do Temor",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:12|31/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-31T11:12:29.545Z"
   },
   "LA FAMILIA CHIARADIA": {
@@ -54,14 +54,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-31T00:05:47.344Z"
-  },
-  "TA NO GRALI": {
-    "idNumerico": "4",
-    "nome": "ta no grali",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:12|31/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T06:12:43.131Z"
   },
   "B13 :)": {
     "idNumerico": "23",
@@ -155,7 +147,7 @@
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
     "status": "INDISPONIVEL",
-    "disponivelEm": "08:15|31/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-31T06:15:19.189Z"
   },
@@ -322,10 +314,10 @@
   "TREMBALA": {
     "idNumerico": "42",
     "nome": "TremBala",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:15|31/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T02:08:54.537Z"
+    "roubadaEm": "2026-07-31T11:15:26.802Z"
   },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",

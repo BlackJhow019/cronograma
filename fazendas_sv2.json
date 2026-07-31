@@ -226,10 +226,10 @@
   "/VENDERPRODUTOS": {
     "idNumerico": "7",
     "nome": "/VENDERPRODUTOS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:05|31/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T00:26:35.664Z"
+    "roubadaEm": "2026-07-31T20:05:46.460Z"
   },
   "~E V O M~": {
     "idNumerico": "25",
@@ -356,7 +356,7 @@
     "nome": "yAninha_AntiFalsos",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:02|31/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-31T20:02:00.497Z"
   }
 }

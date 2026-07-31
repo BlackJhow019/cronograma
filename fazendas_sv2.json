@@ -4,7 +4,7 @@
     "nome": "999",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:17|31/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-31T03:17:50.803Z"
   },
   "JESUS EA SOLUCAO": {
@@ -67,7 +67,7 @@
     "idNumerico": "23",
     "nome": "B13 :)",
     "status": "INDISPONIVEL",
-    "disponivelEm": "00:22|31/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-30T22:22:48.099Z"
   },
@@ -250,9 +250,9 @@
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",
     "nome": "RAMONZIN_FRANCA",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-30T22:19:52.995Z"
   },
   "QG FARM KHAOS": {

@@ -164,7 +164,7 @@
     "nome": "FARM DO SAPATO",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:53|01/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-31T23:53:05.455Z"
   },
   "AURA + EGO": {
@@ -250,10 +250,10 @@
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",
     "nome": "RAMONZIN_FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:54|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T14:15:35.409Z"
+    "roubadaEm": "2026-07-31T23:54:16.587Z"
   },
   "QG FARM KHAOS": {
     "idNumerico": "18",

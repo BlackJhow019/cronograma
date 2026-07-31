@@ -43,7 +43,7 @@
     "idNumerico": "43",
     "nome": "LA FAMILIA CHIARADIA",
     "status": "INDISPONIVEL",
-    "disponivelEm": "20:37|31/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-07-31T18:37:17.220Z"
   },
@@ -194,9 +194,9 @@
   "CHAMA A POLICIA": {
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:35|31/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-31T18:35:37.634Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {

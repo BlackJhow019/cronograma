@@ -186,10 +186,10 @@
   "AMO A MAZZI": {
     "idNumerico": "6",
     "nome": "Amo a Mazzi",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:57|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T10:21:36.311Z"
+    "roubadaEm": "2026-07-31T23:57:05.734Z"
   },
   "CHAMA A POLICIA": {
     "idNumerico": "44",
@@ -252,7 +252,7 @@
     "nome": "RAMONZIN_FRANCA",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:54|01/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-31T23:54:41.979Z"
   },
   "QG FARM KHAOS": {

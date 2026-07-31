@@ -316,16 +316,16 @@
     "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:43|31/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-31T13:44:17.321Z"
   },
   "THUG LIFE": {
     "idNumerico": "21",
     "nome": "THUG LIFE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:48|31/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T20:18:32.331Z"
+    "roubadaEm": "2026-07-31T13:48:20.460Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",

@@ -178,8 +178,8 @@
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:46|31/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-31T15:46:25.026Z"
   },
@@ -200,11 +200,11 @@
     "roubadaEm": "2026-07-31T17:48:46.393Z"
   },
   "RICK FARM'S": {
-    "idNumerico": "40",
+    "idNumerico": "30",
     "nome": "Rick Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:46|31/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-31T19:02:55.233Z"
   },
   "JAH RASTAFARI": {

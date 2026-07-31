@@ -20,7 +20,7 @@
     "nome": "NIKE SHOX",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:57|31/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-31T01:03:49.561Z"
   },
   "RAFHA INVESTIMENTOS $": {
@@ -242,10 +242,10 @@
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:22|31/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T18:49:59.819Z"
+    "roubadaEm": "2026-07-31T01:22:37.934Z"
   },
   "GRUPO NEXUS": {
     "idNumerico": "9",
@@ -318,14 +318,6 @@
     "disponivelEm": "02:32|31/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-31T00:33:25.427Z"
-  },
-  "THUG LIFE": {
-    "idNumerico": "21",
-    "nome": "THUG LIFE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:18|30/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T20:18:32.331Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",

@@ -34,10 +34,10 @@
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:57|31/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T20:01:56.306Z"
+    "roubadaEm": "2026-07-31T01:57:43.972Z"
   },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
@@ -318,14 +318,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-30T17:05:51.640Z"
-  },
-  "TREMBALA": {
-    "idNumerico": "42",
-    "nome": "TremBala",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:55|30/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T20:55:56.360Z"
   },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",

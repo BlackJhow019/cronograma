@@ -119,6 +119,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-31T20:39:16.434Z"
   },
+  "FARME DO DRAKE": {
+    "idNumerico": "35",
+    "nome": "Farme do Drake",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-31T18:14:05.549Z"
+  },
   "DEAD (:": {
     "idNumerico": "27",
     "nome": "Dead (:",
@@ -260,7 +268,7 @@
     "nome": "Fazendinha BeTreZe 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:02|01/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-31T23:02:34.990Z"
   },
   "FAZENDA DO MIRIM": {
@@ -270,6 +278,14 @@
     "disponivelEm": "20:47|31/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-31T18:47:51.446Z"
+  },
+  "FRANCA": {
+    "idNumerico": "28",
+    "nome": "FRANCA",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-31T18:00:43.086Z"
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {
     "idNumerico": "37",

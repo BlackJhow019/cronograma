@@ -74,10 +74,10 @@
   "MALVADA'S FARM": {
     "idNumerico": "32",
     "nome": "Malvada's Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:17|31/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T20:45:53.948Z"
+    "roubadaEm": "2026-07-31T02:17:58.659Z"
   },
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
@@ -206,14 +206,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-29T01:32:54.391Z"
-  },
-  "GRUPO RANTER": {
-    "idNumerico": "19",
-    "nome": "GRUPO RANTER",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T21:16:13.022Z"
   },
   "ROLINHA CANSADA FARMS": {
     "idNumerico": "14",

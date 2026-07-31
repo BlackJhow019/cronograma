@@ -101,7 +101,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "16:42|31/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T14:42:59.693Z"
+    "roubadaEm": "2026-07-31T14:42:33.731Z"
   },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
@@ -171,9 +171,9 @@
     "idNumerico": "22",
     "nome": "Aura + Ego",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:50|31/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T14:50:30.694Z"
+    "disponivelEm": "16:47|31/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-31T14:47:58.238Z"
   },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",
@@ -186,8 +186,8 @@
   "AMO A MAZZI": {
     "idNumerico": "6",
     "nome": "Amo a Mazzi",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:21|31/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-31T10:21:36.311Z"
   },
@@ -295,14 +295,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-31T07:12:06.794Z"
   },
-  "FARM DO GALO": {
-    "idNumerico": "40",
-    "nome": "FARM DO GALO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:23|31/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T10:23:36.547Z"
-  },
   "FARM DA THATY": {
     "idNumerico": "1",
     "nome": "Farm da Thaty",
@@ -315,9 +307,9 @@
     "idNumerico": "31",
     "nome": "Fazenda Rei Drogado",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:49|31/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T14:49:00.620Z"
+    "disponivelEm": "16:48|31/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-31T14:48:38.269Z"
   },
   "TREMBALA": {
     "idNumerico": "42",

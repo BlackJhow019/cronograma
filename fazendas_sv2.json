@@ -31,6 +31,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-30T22:11:18.767Z"
   },
+  "FAZENDA DO TEMOR": {
+    "idNumerico": "30",
+    "nome": "Fazenda do Temor",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-31T01:57:55.549Z"
+  },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
     "nome": "LA FAMILIA CHIARADIA",
@@ -106,10 +114,10 @@
   "ARIANA_B13": {
     "idNumerico": "10",
     "nome": "Ariana_B13",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:56|31/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T21:52:59.435Z"
+    "roubadaEm": "2026-07-31T06:56:50.417Z"
   },
   "FARME DO DRAKE": {
     "idNumerico": "35",
@@ -299,9 +307,9 @@
     "idNumerico": "1",
     "nome": "Farm da Thaty",
     "status": "INDISPONIVEL",
-    "disponivelEm": "08:46|31/07/2026",
+    "disponivelEm": "08:45|31/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T06:46:15.038Z"
+    "roubadaEm": "2026-07-31T06:45:58.594Z"
   },
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",

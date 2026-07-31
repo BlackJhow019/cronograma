@@ -44,7 +44,7 @@
     "nome": "LA FAMILIA CHIARADIA",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:37|31/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-31T18:37:17.220Z"
   },
   "FARMA DA FAMILIA ELITE": {
@@ -274,10 +274,10 @@
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:47|31/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T18:28:25.928Z"
+    "roubadaEm": "2026-07-31T18:47:33.710Z"
   },
   "FRANCA": {
     "idNumerico": "28",

@@ -74,10 +74,10 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:44|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T17:26:53.634Z"
+    "roubadaEm": "2026-07-31T22:44:31.422Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
@@ -271,14 +271,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-31T19:57:09.527Z"
   },
-  "ROUBO OFF": {
-    "idNumerico": "7",
-    "nome": "roubo off",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:40|31/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-31T17:40:39.082Z"
-  },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
@@ -292,7 +284,7 @@
     "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:38|01/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-31T22:38:46.708Z"
   },
   "..OURO..PR3TO..": {

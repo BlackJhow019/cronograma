@@ -210,10 +210,10 @@
   "GRUPO RANTER": {
     "idNumerico": "19",
     "nome": "GRUPO RANTER",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:37|31/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T03:05:23.191Z"
+    "roubadaEm": "2026-07-31T15:37:04.025Z"
   },
   "ROLINHA CANSADA FARMS": {
     "idNumerico": "14",
@@ -332,7 +332,7 @@
     "nome": "Vale das Sombras",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:26|31/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-31T15:26:44.493Z"
   },
   "@FILH_ODOPAII": {

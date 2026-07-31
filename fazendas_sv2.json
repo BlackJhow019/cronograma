@@ -26,10 +26,10 @@
   "ROCK FARM": {
     "idNumerico": "11",
     "nome": "RocK Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:39|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T18:32:51.468Z"
+    "roubadaEm": "2026-07-31T23:39:39.999Z"
   },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
@@ -38,14 +38,6 @@
     "disponivelEm": "01:11|01/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-31T23:11:43.572Z"
-  },
-  "LA FAMILIA CHIARADIA": {
-    "idNumerico": "43",
-    "nome": "LA FAMILIA CHIARADIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-31T18:37:17.220Z"
   },
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",

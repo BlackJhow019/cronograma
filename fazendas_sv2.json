@@ -290,10 +290,10 @@
   "WELCOME > MELHOR FAZENDA DO BPS": {
     "idNumerico": "37",
     "nome": "WELCOME > MELHOR FAZENDA DO BPS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:23|31/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T07:12:06.794Z"
+    "roubadaEm": "2026-07-31T18:23:27.107Z"
   },
   "FARM DO GALO": {
     "idNumerico": "40",

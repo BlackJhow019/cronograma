@@ -194,10 +194,10 @@
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:48|31/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T10:16:00.783Z"
+    "roubadaEm": "2026-07-31T17:48:46.538Z"
   },
   "RICK FARM'S": {
     "idNumerico": "30",
@@ -276,7 +276,7 @@
     "nome": "roubo off",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:40|31/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-31T17:40:39.335Z"
   },
   "RANCHO DO DOUTOR": {

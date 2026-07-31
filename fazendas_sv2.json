@@ -74,10 +74,10 @@
   "MALVADA'S FARM": {
     "idNumerico": "32",
     "nome": "Malvada's Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:40|31/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T02:18:12.063Z"
+    "roubadaEm": "2026-07-31T14:40:18.311Z"
   },
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
@@ -308,7 +308,7 @@
     "nome": "Farm da Thaty",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:34|31/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-31T14:34:08.550Z"
   },
   "FAZENDA REI DROGADO": {

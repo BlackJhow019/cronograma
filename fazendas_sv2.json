@@ -2,10 +2,10 @@
   "999": {
     "idNumerico": "39",
     "nome": "999",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:17|31/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T20:34:30.556Z"
+    "roubadaEm": "2026-07-31T03:17:37.093Z"
   },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
@@ -126,14 +126,6 @@
     "disponivelEm": "03:56|31/07/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-31T02:09:00.918Z"
-  },
-  "DEAD (:": {
-    "idNumerico": "27",
-    "nome": "Dead (:",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:15|31/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T22:15:28.063Z"
   },
   "DONA SEM RAZAO": {
     "idNumerico": "26",

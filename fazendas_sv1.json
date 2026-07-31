@@ -106,10 +106,10 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:37|31/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T09:55:45.564Z"
+    "roubadaEm": "2026-07-31T15:37:14.886Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
@@ -244,7 +244,7 @@
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:26|31/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-31T15:26:57.733Z"
   },
   "GRUPO NEXUS": {

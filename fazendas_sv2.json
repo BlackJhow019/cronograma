@@ -322,10 +322,10 @@
   "TREMBALA": {
     "idNumerico": "42",
     "nome": "TremBala",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:08|31/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T20:55:56.360Z"
+    "roubadaEm": "2026-07-31T02:08:54.620Z"
   },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
@@ -340,7 +340,7 @@
     "nome": "@filh_odopaii",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:07|31/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-31T02:07:09.791Z"
   },
   "YELLOWSTONE - BY MONSTER": {

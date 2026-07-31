@@ -163,7 +163,7 @@
     "idNumerico": "1",
     "nome": "021",
     "status": "INDISPONIVEL",
-    "disponivelEm": "09:07|31/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-31T07:07:20.690Z"
   },
@@ -330,8 +330,8 @@
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:05|31/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-31T07:05:23.901Z"
   },

@@ -196,7 +196,7 @@
     "nome": "Norex farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:14|31/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-31T03:14:34.822Z"
   },
   "RICK FARM'S": {
@@ -250,10 +250,10 @@
   "GRUPO NEXUS": {
     "idNumerico": "9",
     "nome": "GRUPO NEXUS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:23|31/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T21:41:22.443Z"
+    "roubadaEm": "2026-07-31T03:23:03.011Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",

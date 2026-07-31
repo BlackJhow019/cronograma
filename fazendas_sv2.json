@@ -124,7 +124,7 @@
     "nome": "Farme do Drake",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:11|01/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-31T23:24:20.028Z"
   },
   "DEAD (:": {
@@ -322,10 +322,10 @@
   "TREMBALA": {
     "idNumerico": "42",
     "nome": "TremBala",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:29|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T17:46:42.193Z"
+    "roubadaEm": "2026-07-31T23:29:19.816Z"
   },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",

@@ -82,10 +82,10 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:14|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T04:39:43.665Z"
+    "roubadaEm": "2026-07-31T22:14:44.886Z"
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
@@ -286,14 +286,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-31T10:46:24.904Z"
-  },
-  "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": "38",
-    "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:12|31/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T17:12:38.617Z"
   },
   "..OURO..PR3TO..": {
     "idNumerico": "5",

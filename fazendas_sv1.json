@@ -36,7 +36,7 @@
     "nome": "Lek0zika",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:26|31/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-31T02:26:17.628Z"
   },
   "BORRACHAS FARM": {
@@ -178,10 +178,10 @@
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:29|31/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T19:21:48.281Z"
+    "roubadaEm": "2026-07-31T02:29:54.954Z"
   },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",

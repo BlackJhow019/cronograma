@@ -98,10 +98,10 @@
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:23|31/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T14:42:33.731Z"
+    "roubadaEm": "2026-07-31T20:23:45.020Z"
   },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
@@ -228,7 +228,7 @@
     "nome": "/VENDERPRODUTOS",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:06|31/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-31T20:06:02.875Z"
   },
   "~E V O M~": {

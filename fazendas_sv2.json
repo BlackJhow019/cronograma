@@ -4,7 +4,7 @@
     "nome": "999",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:35|31/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-31T13:35:50.391Z"
   },
   "JESUS EA SOLUCAO": {
@@ -154,10 +154,10 @@
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:59|31/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T06:15:19.189Z"
+    "roubadaEm": "2026-07-31T13:59:24.424Z"
   },
   "FARM DO SAPATO": {
     "idNumerico": "9",

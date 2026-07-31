@@ -98,10 +98,10 @@
   "MONOPOLIO FARMS": {
     "idNumerico": "20",
     "nome": "Monopolio Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:17|31/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T23:51:46.483Z"
+    "roubadaEm": "2026-07-31T18:17:20.786Z"
   },
   "AZEROX": {
     "idNumerico": "23",
@@ -197,7 +197,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "19:48|31/07/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-07-31T17:48:46.538Z"
+    "roubadaEm": "2026-07-31T17:48:46.393Z"
   },
   "RICK FARM'S": {
     "idNumerico": "30",
@@ -277,7 +277,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "19:40|31/07/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-07-31T17:40:39.335Z"
+    "roubadaEm": "2026-07-31T17:40:39.082Z"
   },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",

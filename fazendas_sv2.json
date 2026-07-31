@@ -34,10 +34,10 @@
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:11|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T17:23:35.672Z"
+    "roubadaEm": "2026-07-31T23:11:20.538Z"
   },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
@@ -126,14 +126,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-31T18:14:05.549Z"
-  },
-  "DEAD (:": {
-    "idNumerico": "27",
-    "nome": "Dead (:",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T18:10:31.961Z"
   },
   "DONA SEM RAZAO": {
     "idNumerico": "26",

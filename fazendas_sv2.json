@@ -66,10 +66,10 @@
   "B13 :)": {
     "idNumerico": "23",
     "nome": "B13 :)",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:00|31/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T22:22:48.099Z"
+    "roubadaEm": "2026-07-31T19:00:10.063Z"
   },
   "MALVADA'S FARM": {
     "idNumerico": "32",
@@ -155,7 +155,7 @@
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
     "status": "INDISPONIVEL",
-    "disponivelEm": "15:59|31/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-31T13:59:35.305Z"
   },
@@ -276,7 +276,7 @@
     "nome": "Fazenda Do MIRIM",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:47|31/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-31T18:47:51.446Z"
   },
   "FRANCA": {

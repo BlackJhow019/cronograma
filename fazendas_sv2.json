@@ -111,14 +111,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-30T22:55:32.664Z"
   },
-  "ARIANA_B13": {
-    "idNumerico": "10",
-    "nome": "Ariana_B13",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:52|30/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T21:52:59.435Z"
-  },
   "FARME DO DRAKE": {
     "idNumerico": "35",
     "nome": "Farme do Drake",
@@ -282,10 +274,10 @@
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:53|31/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T21:31:26.246Z"
+    "roubadaEm": "2026-07-31T02:53:39.882Z"
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {
     "idNumerico": "37",

@@ -156,7 +156,7 @@
     "nome": "YT @GANDIA_RP",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:58|31/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-31T01:58:00.321Z"
   },
   "021": {
@@ -202,10 +202,10 @@
   "RICK FARM'S": {
     "idNumerico": "40",
     "nome": "Rick Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:45|31/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T21:31:22.652Z"
+    "roubadaEm": "2026-07-31T02:02:10.815Z"
   },
   "JAH RASTAFARI": {
     "idNumerico": "39",

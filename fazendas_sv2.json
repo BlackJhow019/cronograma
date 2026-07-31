@@ -36,7 +36,7 @@
     "nome": "Fazenda do Temor",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:57|31/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-31T01:57:55.549Z"
   },
   "LA FAMILIA CHIARADIA": {
@@ -338,10 +338,10 @@
   "@FILH_ODOPAII": {
     "idNumerico": "12",
     "nome": "@filh_odopaii",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:06|31/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T15:58:56.533Z"
+    "roubadaEm": "2026-07-31T02:06:50.447Z"
   },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",

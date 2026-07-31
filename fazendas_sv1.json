@@ -162,10 +162,10 @@
   "021": {
     "idNumerico": "1",
     "nome": "021",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:54|31/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T12:56:34.032Z"
+    "roubadaEm": "2026-07-31T18:54:07.585Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
@@ -318,14 +318,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-31T13:44:17.321Z"
-  },
-  "THUG LIFE": {
-    "idNumerico": "21",
-    "nome": "THUG LIFE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:50|31/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-31T13:50:09.380Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",

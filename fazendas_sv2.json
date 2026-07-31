@@ -114,10 +114,10 @@
   "ARIANA_B13": {
     "idNumerico": "10",
     "nome": "Ariana_B13",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:39|31/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T14:07:40.955Z"
+    "roubadaEm": "2026-07-31T20:39:02.476Z"
   },
   "FARME DO DRAKE": {
     "idNumerico": "35",
@@ -206,14 +206,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-29T01:32:54.391Z"
-  },
-  "GRUPO RANTER": {
-    "idNumerico": "19",
-    "nome": "GRUPO RANTER",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:37|31/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T15:37:04.025Z"
   },
   "ROLINHA CANSADA FARMS": {
     "idNumerico": "14",

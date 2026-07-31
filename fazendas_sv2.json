@@ -322,8 +322,8 @@
   "TREMBALA": {
     "idNumerico": "42",
     "nome": "TremBala",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:08|31/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-31T02:08:54.537Z"
   },
@@ -338,9 +338,9 @@
   "@FILH_ODOPAII": {
     "idNumerico": "12",
     "nome": "@filh_odopaii",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:06|31/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-31T02:06:50.294Z"
   },
   "YELLOWSTONE - BY MONSTER": {

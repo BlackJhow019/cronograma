@@ -71,14 +71,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-31T14:48:46.328Z"
   },
-  "CLUBE DA LULUZINHA": {
-    "idNumerico": "8",
-    "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:46|31/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T11:46:31.103Z"
-  },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
@@ -116,7 +108,7 @@
     "nome": "Farm's de Cafe",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:39|31/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-31T16:39:42.017Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
@@ -202,10 +194,10 @@
   "RICK FARM'S": {
     "idNumerico": "30",
     "nome": "Rick Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:31|31/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T07:18:19.000Z"
+    "roubadaEm": "2026-07-31T16:47:56.373Z"
   },
   "JAH RASTAFARI": {
     "idNumerico": "39",

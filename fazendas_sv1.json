@@ -18,10 +18,10 @@
   "NIKE SHOX": {
     "idNumerico": "42",
     "nome": "NIKE SHOX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:28|31/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T16:22:18.846Z"
+    "roubadaEm": "2026-07-31T21:34:45.628Z"
   },
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
@@ -148,7 +148,7 @@
     "nome": "Granja do iMonKeY",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:29|31/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-31T21:29:46.926Z"
   },
   "YT @GANDIA_RP": {

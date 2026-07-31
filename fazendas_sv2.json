@@ -146,10 +146,10 @@
   "FAZENDA DO GALIN": {
     "idNumerico": "15",
     "nome": "Fazenda do Galin",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:54|31/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T05:24:10.662Z"
+    "roubadaEm": "2026-07-31T16:54:05.732Z"
   },
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
@@ -180,7 +180,7 @@
     "nome": "Succubus Farms",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:29|31/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-31T16:29:28.895Z"
   },
   "AMO A MAZZI": {

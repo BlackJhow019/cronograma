@@ -92,7 +92,7 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:36|31/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-31T21:36:50.341Z"
   },
   "MONOPOLIO FARMS": {
@@ -110,14 +110,6 @@
     "disponivelEm": "23:13|31/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-31T21:13:27.487Z"
-  },
-  "FARM'S DE CAFE": {
-    "idNumerico": "4",
-    "nome": "Farm's de Cafe",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:39|31/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-31T16:39:42.017Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
     "idNumerico": "17",
@@ -178,10 +170,10 @@
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:44|31/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T15:46:25.026Z"
+    "roubadaEm": "2026-07-31T21:44:40.073Z"
   },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",

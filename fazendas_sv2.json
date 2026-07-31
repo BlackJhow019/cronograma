@@ -58,9 +58,9 @@
   "TA NO GRALI": {
     "idNumerico": "4",
     "nome": "ta no grali",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:40|31/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-31T15:40:36.061Z"
   },
   "B13 :)": {
@@ -116,7 +116,7 @@
     "nome": "Ariana_B13",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:39|31/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-31T20:39:16.434Z"
   },
   "FARME DO DRAKE": {
@@ -206,6 +206,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-29T01:32:54.391Z"
+  },
+  "GRUPO RANTER": {
+    "idNumerico": "19",
+    "nome": "GRUPO RANTER",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-31T15:37:04.025Z"
   },
   "ROLINHA CANSADA FARMS": {
     "idNumerico": "14",

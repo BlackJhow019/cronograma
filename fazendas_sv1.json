@@ -243,9 +243,9 @@
     "idNumerico": "0",
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
-    "disponivelEm": "03:23|31/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T01:23:49.021Z"
+    "disponivelEm": "03:24|31/07/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-07-31T01:24:09.562Z"
   },
   "GRUPO NEXUS": {
     "idNumerico": "9",
@@ -330,10 +330,10 @@
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:35|31/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T09:30:12.708Z"
+    "roubadaEm": "2026-07-31T01:35:20.141Z"
   },
   "PENOSO FARM'S": {
     "idNumerico": "10",

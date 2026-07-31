@@ -252,7 +252,7 @@
     "nome": "RAMONZIN_FRANCA",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:15|31/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-31T14:15:35.409Z"
   },
   "QG FARM KHAOS": {
@@ -306,10 +306,10 @@
   "FARM DA THATY": {
     "idNumerico": "1",
     "nome": "Farm da Thaty",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:33|31/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T06:45:58.594Z"
+    "roubadaEm": "2026-07-31T14:33:53.025Z"
   },
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",
@@ -356,7 +356,7 @@
     "nome": "yAninha_AntiFalsos",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:02|31/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-31T14:02:34.026Z"
   }
 }

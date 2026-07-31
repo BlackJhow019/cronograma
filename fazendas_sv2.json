@@ -10,10 +10,10 @@
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:53|31/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T01:34:06.826Z"
+    "roubadaEm": "2026-07-31T15:53:14.033Z"
   },
   "AWAKE COMPANY": {
     "idNumerico": "13",
@@ -60,7 +60,7 @@
     "nome": "ta no grali",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:40|31/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-31T15:40:36.061Z"
   },
   "B13 :)": {

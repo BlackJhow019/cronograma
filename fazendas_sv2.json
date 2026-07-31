@@ -1,12 +1,4 @@
 {
-  "999": {
-    "idNumerico": "39",
-    "nome": "999",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:35|31/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-31T13:35:50.391Z"
-  },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
@@ -42,10 +34,10 @@
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
     "nome": "LA FAMILIA CHIARADIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:36|31/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T00:07:09.862Z"
+    "roubadaEm": "2026-07-31T18:36:55.828Z"
   },
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
@@ -196,7 +188,7 @@
     "nome": "CHAMA A POLICIA",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:35|31/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-31T18:35:37.634Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {

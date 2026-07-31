@@ -15,14 +15,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-31T01:34:06.826Z"
   },
-  "AWAKE COMPANY": {
-    "idNumerico": "13",
-    "nome": "AwaKe Company",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:59|31/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-30T23:59:47.376Z"
-  },
   "ROCK FARM": {
     "idNumerico": "11",
     "nome": "RocK Farm",
@@ -266,10 +258,10 @@
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",
     "nome": "Fazendinha BeTreZe 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:00|31/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-29T03:22:44.511Z"
+    "roubadaEm": "2026-07-31T05:00:32.930Z"
   },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
@@ -302,14 +294,6 @@
     "disponivelEm": "03:17|31/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-31T01:17:04.529Z"
-  },
-  "FARM DA THATY": {
-    "idNumerico": "1",
-    "nome": "Farm da Thaty",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:59|31/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T23:59:49.667Z"
   },
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",

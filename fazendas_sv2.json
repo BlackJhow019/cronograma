@@ -20,7 +20,7 @@
     "nome": "AwaKe Company",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:59|31/07/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-30T23:59:47.376Z"
   },
   "ROCK FARM": {
@@ -50,10 +50,10 @@
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
     "nome": "Farma Da Familia Elite",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:05|31/07/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T01:59:33.453Z"
+    "roubadaEm": "2026-07-31T00:05:08.107Z"
   },
   "TA NO GRALI": {
     "idNumerico": "4",
@@ -222,14 +222,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-26T16:54:09.309Z"
-  },
-  "/VENDERPRODUTOS": {
-    "idNumerico": "7",
-    "nome": "/VENDERPRODUTOS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:01|30/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-30T19:01:44.574Z"
   },
   "~E V O M~": {
     "idNumerico": "25",

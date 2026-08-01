@@ -196,8 +196,8 @@
     "nome": "CHAMA A POLICIA",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:13|01/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T06:13:00.896Z"
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-01T06:13:14.862Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",
@@ -259,7 +259,7 @@
     "idNumerico": "18",
     "nome": "QG FARM KHAOS",
     "status": "INDISPONIVEL",
-    "disponivelEm": "03:15|01/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-01T01:15:57.413Z"
   },
@@ -330,10 +330,10 @@
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
     "nome": "Vale das Sombras",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:16|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T23:47:14.331Z"
+    "roubadaEm": "2026-08-01T06:16:05.305Z"
   },
   "@FILH_ODOPAII": {
     "idNumerico": "12",

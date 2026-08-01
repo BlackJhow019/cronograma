@@ -36,7 +36,7 @@
     "nome": "Lek0zika",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:08|01/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-01T02:08:04.219Z"
   },
   "BORRACHAS FARM": {
@@ -102,6 +102,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-31T18:17:20.786Z"
+  },
+  "AZEROX": {
+    "idNumerico": "23",
+    "nome": "AzeRoX",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-31T21:13:27.487Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
@@ -238,6 +246,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-31T20:42:18.869Z"
+  },
+  "GRUPO NEXUS": {
+    "idNumerico": "9",
+    "nome": "GRUPO NEXUS",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-31T21:14:29.922Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",

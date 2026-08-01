@@ -106,10 +106,10 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:12|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T13:46:45.943Z"
+    "roubadaEm": "2026-08-01T19:12:15.766Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
@@ -140,7 +140,7 @@
     "nome": "Quem Roubar e Petista",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:53|01/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-01T18:53:22.653Z"
   },
   "GRANJA DO IMONKEY": {

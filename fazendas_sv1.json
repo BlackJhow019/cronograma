@@ -2,10 +2,10 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:47|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T02:20:48.523Z"
+    "roubadaEm": "2026-08-01T07:47:01.834Z"
   },
   "KODIAK": {
     "idNumerico": "3",
@@ -156,7 +156,7 @@
     "nome": "YT @GANDIA_RP",
     "status": "INDISPONIVEL",
     "disponivelEm": "09:42|01/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-01T07:42:24.531Z"
   },
   "021": {

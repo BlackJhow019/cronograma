@@ -84,7 +84,7 @@
     "nome": "Fazenda da Milly",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:50|01/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-01T05:50:49.320Z"
   },
   "HWD INVESTIMENTOS": {
@@ -315,7 +315,7 @@
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
-    "disponivelEm": "02:54|01/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-01T00:55:32.413Z"
   },
@@ -330,10 +330,10 @@
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:54|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T00:25:10.803Z"
+    "roubadaEm": "2026-08-01T05:54:58.309Z"
   },
   "PENOSO FARM'S": {
     "idNumerico": "10",

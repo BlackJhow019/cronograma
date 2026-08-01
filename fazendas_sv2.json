@@ -116,7 +116,7 @@
     "nome": "Ariana_B13",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:55|01/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-01T13:55:36.201Z"
   },
   "FARME DO DRAKE": {
@@ -266,10 +266,10 @@
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",
     "nome": "Fazendinha BeTreZe 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:05|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T05:43:53.121Z"
+    "roubadaEm": "2026-08-01T14:05:16.299Z"
   },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",

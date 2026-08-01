@@ -42,10 +42,10 @@
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
     "nome": "LA FAMILIA CHIARADIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:10|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T23:42:44.946Z"
+    "roubadaEm": "2026-08-01T05:10:09.746Z"
   },
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
@@ -140,7 +140,7 @@
     "nome": "Dona sem razao",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:00|01/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-01T05:00:43.382Z"
   },
   "FAZENDA DO GALIN": {

@@ -98,10 +98,10 @@
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:31|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T11:40:31.918Z"
+    "roubadaEm": "2026-08-01T18:31:10.378Z"
   },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
@@ -356,7 +356,7 @@
     "nome": "yAninha_AntiFalsos",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:21|01/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-01T18:21:55.443Z"
   }
 }

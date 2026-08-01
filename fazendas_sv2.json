@@ -34,10 +34,10 @@
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:10|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T04:15:23.447Z"
+    "roubadaEm": "2026-08-01T11:10:25.902Z"
   },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
@@ -246,14 +246,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-31T16:23:11.889Z"
-  },
-  "RAMONZIN_FRANCA": {
-    "idNumerico": "21",
-    "nome": "RAMONZIN_FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:08|01/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T06:08:01.542Z"
   },
   "QG FARM KHAOS": {
     "idNumerico": "18",

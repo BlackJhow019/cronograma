@@ -10,10 +10,10 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:18|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T10:07:10.227Z"
+    "roubadaEm": "2026-08-01T00:18:53.006Z"
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -347,7 +347,7 @@
     "idNumerico": "12",
     "nome": "Peeeerfeito",
     "status": "INDISPONIVEL",
-    "disponivelEm": "21:18|31/07/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-31T19:18:18.174Z"
   }

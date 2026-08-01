@@ -92,7 +92,7 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:58|01/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-01T19:58:31.873Z"
   },
   "MONOPOLIO FARMS": {
@@ -227,7 +227,7 @@
     "idNumerico": "16",
     "nome": "30PRAUM",
     "status": "INDISPONIVEL",
-    "disponivelEm": "17:01|01/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-01T15:01:28.035Z"
   },
@@ -338,10 +338,10 @@
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:02|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T19:33:06.140Z"
+    "roubadaEm": "2026-08-01T20:02:08.750Z"
   },
   "JESUS IS THE WAY": {
     "idNumerico": "12",

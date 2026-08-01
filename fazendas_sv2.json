@@ -107,7 +107,7 @@
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
     "status": "INDISPONIVEL",
-    "disponivelEm": "12:55|01/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-01T10:55:37.037Z"
   },
@@ -154,10 +154,10 @@
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:55|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T10:42:00.907Z"
+    "roubadaEm": "2026-08-01T15:55:17.219Z"
   },
   "FARM DO SAPATO": {
     "idNumerico": "9",

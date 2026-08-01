@@ -228,7 +228,7 @@
     "nome": "30PRAUM",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:01|01/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-01T15:01:28.221Z"
   },
   "FAZENDA FELIZ": {
@@ -287,14 +287,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-31T10:46:24.904Z"
   },
-  "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": "38",
-    "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-01T10:01:25.427Z"
-  },
   "..OURO..PR3TO..": {
     "idNumerico": "5",
     "nome": "..OURO..PR3TO..",
@@ -343,12 +335,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-31T19:33:06.140Z"
   },
-  "PEEEERFEITO": {
+  "JESUS IS THE WAY": {
     "idNumerico": "12",
-    "nome": "Peeeerfeito",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "nome": "Jesus is the way",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:04|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T19:18:18.174Z"
+    "roubadaEm": "2026-08-01T15:04:22.403Z"
   }
 }

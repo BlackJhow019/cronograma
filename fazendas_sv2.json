@@ -90,10 +90,10 @@
   "CANNABIS": {
     "idNumerico": "8",
     "nome": "CANNABIS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:18|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T19:54:40.037Z"
+    "roubadaEm": "2026-08-01T06:18:59.981Z"
   },
   "AMO O LOWER": {
     "idNumerico": "2",
@@ -324,7 +324,7 @@
     "nome": "Vale das Sombras",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:16|01/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-01T06:16:20.534Z"
   },
   "@FILH_ODOPAII": {

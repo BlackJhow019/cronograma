@@ -226,10 +226,10 @@
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:01|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T08:41:20.379Z"
+    "roubadaEm": "2026-08-01T15:01:28.221Z"
   },
   "FAZENDA FELIZ": {
     "idNumerico": "22",
@@ -291,7 +291,7 @@
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
-    "disponivelEm": "12:01|01/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-01T10:01:25.427Z"
   },

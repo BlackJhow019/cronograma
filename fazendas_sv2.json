@@ -314,10 +314,10 @@
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",
     "nome": "Fazenda Rei Drogado",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:17|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T04:23:16.518Z"
+    "roubadaEm": "2026-08-01T18:17:35.699Z"
   },
   "TREMBALA": {
     "idNumerico": "42",

@@ -10,10 +10,10 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:00|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T00:19:51.697Z"
+    "roubadaEm": "2026-08-01T06:00:00.699Z"
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -324,7 +324,7 @@
     "nome": "Familia AlmanaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:55|01/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-01T05:55:12.496Z"
   },
   "PENOSO FARM'S": {

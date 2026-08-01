@@ -20,7 +20,7 @@
     "nome": "NIKE SHOX",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:23|01/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-01T16:29:42.494Z"
   },
   "RAFHA INVESTIMENTOS $": {
@@ -210,10 +210,10 @@
   "JAH RASTAFARI": {
     "idNumerico": "39",
     "nome": "JAH RASTAFARI",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:33|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T10:55:06.200Z"
+    "roubadaEm": "2026-08-01T16:33:31.792Z"
   },
   ".": {
     "idNumerico": "31",
@@ -238,14 +238,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-29T11:26:49.740Z"
-  },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:30|01/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-01T11:30:32.126Z"
   },
   "GRUPO NEXUS": {
     "idNumerico": "9",

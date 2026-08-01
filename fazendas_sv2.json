@@ -111,14 +111,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-01T03:28:28.802Z"
   },
-  "ARIANA_B13": {
-    "idNumerico": "10",
-    "nome": "Ariana_B13",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:52|01/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-01T01:52:13.222Z"
-  },
   "FARME DO DRAKE": {
     "idNumerico": "35",
     "nome": "Farme do Drake",
@@ -212,7 +204,7 @@
     "nome": "GRUPO RANTER",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:40|01/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-01T06:40:10.653Z"
   },
   "ROLINHA CANSADA FARMS": {
@@ -306,10 +298,10 @@
   "FARM DA THATY": {
     "idNumerico": "1",
     "nome": "Farm da Thaty",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:53|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T19:37:14.913Z"
+    "roubadaEm": "2026-08-01T06:53:58.994Z"
   },
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",

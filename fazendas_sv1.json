@@ -191,14 +191,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-01T15:53:07.243Z"
   },
-  "NOREX FARM'S": {
-    "idNumerico": "13",
-    "nome": "Norex farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:34|01/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-01T11:34:56.400Z"
-  },
   "RICK FARM'S": {
     "idNumerico": "40",
     "nome": "Rick Farm's",
@@ -238,6 +230,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-29T11:26:49.740Z"
+  },
+  "OS DE RACA": {
+    "idNumerico": "0",
+    "nome": "OS DE RACA",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-01T11:30:32.126Z"
   },
   "GRUPO NEXUS": {
     "idNumerico": "9",

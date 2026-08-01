@@ -170,10 +170,10 @@
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:41|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T15:57:01.858Z"
+    "roubadaEm": "2026-08-01T17:41:41.618Z"
   },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
@@ -196,7 +196,7 @@
     "nome": "Norex farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:23|01/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-01T17:23:58.927Z"
   },
   "RICK FARM'S": {

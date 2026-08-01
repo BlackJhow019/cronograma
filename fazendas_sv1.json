@@ -178,10 +178,10 @@
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:14|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T21:44:39.919Z"
+    "roubadaEm": "2026-08-01T04:14:20.249Z"
   },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
@@ -292,7 +292,7 @@
     "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:00|01/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-01T04:00:40.581Z"
   },
   "..OURO..PR3TO..": {
@@ -302,14 +302,6 @@
     "disponivelEm": "01:39|01/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-31T23:39:16.771Z"
-  },
-  "DM2 FARM": {
-    "idNumerico": "6",
-    "nome": "Dm2 Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:11|01/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-31T23:11:16.498Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",

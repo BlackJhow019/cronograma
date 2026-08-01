@@ -20,7 +20,7 @@
     "nome": "AwaKe Company",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:05|01/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-01T15:05:58.674Z"
   },
   "ROCK FARM": {
@@ -74,8 +74,8 @@
   "MALVADA'S FARM": {
     "idNumerico": "32",
     "nome": "Malvada's Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:07|01/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-01T10:07:16.812Z"
   },
@@ -158,14 +158,6 @@
     "disponivelEm": "12:42|01/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-01T10:42:00.907Z"
-  },
-  "FARM DO SAPATO": {
-    "idNumerico": "9",
-    "nome": "FARM DO SAPATO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:10|01/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T10:10:02.688Z"
   },
   "AURA + EGO": {
     "idNumerico": "22",
@@ -308,7 +300,7 @@
     "nome": "Farm da Thaty",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:05|01/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-01T15:05:51.995Z"
   },
   "FAZENDA REI DROGADO": {

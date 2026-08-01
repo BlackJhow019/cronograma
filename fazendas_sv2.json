@@ -18,10 +18,10 @@
   "AWAKE COMPANY": {
     "idNumerico": "13",
     "nome": "AwaKe Company",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:56|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T18:24:04.757Z"
+    "roubadaEm": "2026-08-01T05:56:23.462Z"
   },
   "ROCK FARM": {
     "idNumerico": "11",
@@ -148,7 +148,7 @@
     "nome": "Fazenda do Galin",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:47|01/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-01T05:47:35.614Z"
   },
   "FARM'S NAY E NICK": {

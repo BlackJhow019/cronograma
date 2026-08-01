@@ -162,8 +162,8 @@
   "021": {
     "idNumerico": "1",
     "nome": "021",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:54|31/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-31T18:54:21.780Z"
   },
@@ -182,14 +182,6 @@
     "disponivelEm": "23:44|31/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-31T21:44:39.919Z"
-  },
-  "POLEMICO$ INDUSTRI$": {
-    "idNumerico": "37",
-    "nome": "PoLeMiCo$ industri$",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:00|31/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T19:00:09.711Z"
   },
   "NOREX FARM'S": {
     "idNumerico": "13",
@@ -300,7 +292,7 @@
     "nome": "..OURO..PR3TO..",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:39|01/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-07-31T23:39:31.175Z"
   },
   "DM2 FARM": {

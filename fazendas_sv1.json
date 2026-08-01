@@ -154,10 +154,10 @@
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:19|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T07:42:24.531Z"
+    "roubadaEm": "2026-08-01T16:19:25.750Z"
   },
   "021": {
     "idNumerico": "1",
@@ -252,7 +252,7 @@
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:14|01/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-01T16:14:04.689Z"
   },
   "K1NG FARM'S": {

@@ -2,9 +2,9 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:38|01/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-01T14:38:16.538Z"
   },
   "KODIAK": {
@@ -203,7 +203,7 @@
     "idNumerico": "40",
     "nome": "Rick Farm's",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:41|01/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-01T17:57:38.740Z"
   },

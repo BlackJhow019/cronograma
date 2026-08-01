@@ -98,10 +98,10 @@
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:32|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T20:23:45.020Z"
+    "roubadaEm": "2026-08-01T05:32:55.033Z"
   },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",

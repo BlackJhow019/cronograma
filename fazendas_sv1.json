@@ -151,14 +151,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-07-31T21:29:46.926Z"
   },
-  "YT @GANDIA_RP": {
-    "idNumerico": "15",
-    "nome": "YT @GANDIA_RP",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:27|31/07/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T19:27:27.679Z"
-  },
   "021": {
     "idNumerico": "1",
     "nome": "021",
@@ -322,8 +314,8 @@
   "THUG LIFE": {
     "idNumerico": "21",
     "nome": "THUG LIFE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:25|31/07/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-31T19:25:43.661Z"
   },
@@ -332,7 +324,7 @@
     "nome": "Familia AlmanaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:25|01/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-01T00:25:10.803Z"
   },
   "PENOSO FARM'S": {

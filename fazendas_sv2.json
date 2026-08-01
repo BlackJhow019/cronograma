@@ -98,10 +98,10 @@
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:40|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T05:33:50.962Z"
+    "roubadaEm": "2026-08-01T11:40:31.918Z"
   },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
@@ -206,14 +206,6 @@
     "disponivelEm": "09:21|01/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-01T07:21:57.857Z"
-  },
-  "GRUPO RANTER": {
-    "idNumerico": "19",
-    "nome": "GRUPO RANTER",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:40|01/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-01T06:40:10.653Z"
   },
   "ROLINHA CANSADA FARMS": {
     "idNumerico": "14",

@@ -162,10 +162,10 @@
   "021": {
     "idNumerico": "1",
     "nome": "021",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:38|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T07:22:47.947Z"
+    "roubadaEm": "2026-08-01T13:38:39.288Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
@@ -227,7 +227,7 @@
     "idNumerico": "16",
     "nome": "30PRAUM",
     "status": "INDISPONIVEL",
-    "disponivelEm": "10:41|01/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-01T08:41:20.379Z"
   },
@@ -333,7 +333,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "15:01|01/08/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-08-01T13:01:21.144Z"
+    "roubadaEm": "2026-08-01T13:01:06.969Z"
   },
   "PENOSO FARM'S": {
     "idNumerico": "10",

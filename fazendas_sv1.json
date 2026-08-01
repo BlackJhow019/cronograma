@@ -194,10 +194,10 @@
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:40|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T17:48:46.393Z"
+    "roubadaEm": "2026-08-01T03:40:57.140Z"
   },
   "RICK FARM'S": {
     "idNumerico": "30",
@@ -286,14 +286,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-31T10:46:24.904Z"
-  },
-  "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": "38",
-    "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:38|01/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-31T22:38:46.708Z"
   },
   "..OURO..PR3TO..": {
     "idNumerico": "5",

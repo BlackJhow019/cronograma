@@ -207,6 +207,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-29T01:32:54.391Z"
   },
+  "GRUPO RANTER": {
+    "idNumerico": "19",
+    "nome": "GRUPO RANTER",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-01T00:41:33.964Z"
+  },
   "ROLINHA CANSADA FARMS": {
     "idNumerico": "14",
     "nome": "Rolinha Cansada Farms",
@@ -260,7 +268,7 @@
     "nome": "Fazendinha BeTreZe 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:43|01/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-01T05:43:53.121Z"
   },
   "FAZENDA DO MIRIM": {

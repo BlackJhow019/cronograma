@@ -131,15 +131,15 @@
     "idNumerico": "27",
     "nome": "Dead (:",
     "status": "INDISPONIVEL",
-    "disponivelEm": "12:13|01/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-01T10:13:16.827Z"
   },
   "DONA SEM RAZAO": {
     "idNumerico": "26",
     "nome": "Dona sem razao",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:10|01/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-01T10:10:35.003Z"
   },
@@ -158,6 +158,14 @@
     "disponivelEm": "12:42|01/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-01T10:42:00.907Z"
+  },
+  "FARM DO SAPATO": {
+    "idNumerico": "9",
+    "nome": "FARM DO SAPATO",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-01T10:10:02.688Z"
   },
   "AURA + EGO": {
     "idNumerico": "22",

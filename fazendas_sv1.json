@@ -4,7 +4,7 @@
     "nome": "rico louco",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:06|01/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-01T20:06:14.854Z"
   },
   "KODIAK": {
@@ -142,14 +142,6 @@
     "disponivelEm": "20:53|01/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-01T18:53:22.653Z"
-  },
-  "GRANJA DO IMONKEY": {
-    "idNumerico": "29",
-    "nome": "Granja do iMonKeY",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:07|01/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-01T15:07:52.796Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
@@ -342,5 +334,13 @@
     "disponivelEm": "22:02|01/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-01T20:02:53.506Z"
+  },
+  "JESUS IS THE WAY": {
+    "idNumerico": "12",
+    "nome": "Jesus is the way",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-01T15:04:22.314Z"
   }
 }

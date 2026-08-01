@@ -50,10 +50,10 @@
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
     "nome": "Farma Da Familia Elite",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:28|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T00:59:23.563Z"
+    "roubadaEm": "2026-08-01T10:28:29.138Z"
   },
   "TA NO GRALI": {
     "idNumerico": "4",
@@ -77,7 +77,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "12:07|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T10:07:28.936Z"
+    "roubadaEm": "2026-08-01T10:07:16.812Z"
   },
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
@@ -119,21 +119,13 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-01T06:59:06.146Z"
   },
-  "FARME DO DRAKE": {
-    "idNumerico": "35",
-    "nome": "Farme do Drake",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:28|01/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T05:40:43.930Z"
-  },
   "DEAD (:": {
     "idNumerico": "27",
     "nome": "Dead (:",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:13|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T10:13:28.069Z"
+    "roubadaEm": "2026-08-01T10:13:16.827Z"
   },
   "DONA SEM RAZAO": {
     "idNumerico": "26",
@@ -141,7 +133,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "12:10|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T10:10:52.777Z"
+    "roubadaEm": "2026-08-01T10:10:35.003Z"
   },
   "FAZENDA DO GALIN": {
     "idNumerico": "15",
@@ -165,7 +157,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "12:10|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T10:10:31.438Z"
+    "roubadaEm": "2026-08-01T10:10:02.688Z"
   },
   "AURA + EGO": {
     "idNumerico": "22",
@@ -354,9 +346,9 @@
   "YANINHA_ANTIFALSOS": {
     "idNumerico": "34",
     "nome": "yAninha_AntiFalsos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:29|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T04:05:41.066Z"
+    "roubadaEm": "2026-08-01T10:29:56.058Z"
   }
 }

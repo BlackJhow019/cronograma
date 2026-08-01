@@ -1,4 +1,12 @@
 {
+  "RICO LOUCO": {
+    "idNumerico": "11",
+    "nome": "rico louco",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-01T02:20:48.523Z"
+  },
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
@@ -238,14 +246,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-31T20:42:18.869Z"
-  },
-  "GRUPO NEXUS": {
-    "idNumerico": "9",
-    "nome": "GRUPO NEXUS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:23|01/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-01T02:23:06.960Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",

@@ -186,10 +186,10 @@
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:24|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T19:00:09.711Z"
+    "roubadaEm": "2026-08-01T10:24:07.506Z"
   },
   "NOREX FARM'S": {
     "idNumerico": "13",
@@ -292,7 +292,7 @@
     "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:01|01/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-01T10:01:25.427Z"
   },
   "..OURO..PR3TO..": {

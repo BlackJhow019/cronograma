@@ -223,6 +223,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-31T15:07:24.071Z"
   },
+  "30PRAUM": {
+    "idNumerico": "16",
+    "nome": "30PRAUM",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-01T15:01:28.035Z"
+  },
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
@@ -332,15 +340,7 @@
     "nome": "Penoso Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:02|01/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-01T20:02:53.506Z"
-  },
-  "JESUS IS THE WAY": {
-    "idNumerico": "12",
-    "nome": "Jesus is the way",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:04|01/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T15:04:22.314Z"
   }
 }

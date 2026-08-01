@@ -66,10 +66,10 @@
   "B13 :)": {
     "idNumerico": "23",
     "nome": "B13 :)",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:23|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T07:41:43.687Z"
+    "roubadaEm": "2026-08-01T14:23:09.275Z"
   },
   "MALVADA'S FARM": {
     "idNumerico": "32",
@@ -268,7 +268,7 @@
     "nome": "Fazendinha BeTreZe 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:05|01/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-01T14:05:16.299Z"
   },
   "FAZENDA DO MIRIM": {

@@ -82,10 +82,10 @@
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
     "nome": "Farms de Galopisitas",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:13|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T03:24:24.512Z"
+    "roubadaEm": "2026-08-01T13:13:00.239Z"
   },
   "CANNABIS": {
     "idNumerico": "8",

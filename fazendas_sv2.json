@@ -76,7 +76,7 @@
     "nome": "Malvada's Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:45|01/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-01T16:45:47.669Z"
   },
   "FARMS DE GALOPISITAS": {
@@ -322,10 +322,10 @@
   "TREMBALA": {
     "idNumerico": "42",
     "nome": "TremBala",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:49|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T09:55:18.587Z"
+    "roubadaEm": "2026-08-01T16:49:29.333Z"
   },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",

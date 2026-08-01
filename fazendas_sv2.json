@@ -10,10 +10,10 @@
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:28|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T13:48:50.077Z"
+    "roubadaEm": "2026-08-01T19:30:28.843Z"
   },
   "AWAKE COMPANY": {
     "idNumerico": "13",
@@ -214,14 +214,6 @@
     "disponivelEm": "20:54|01/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-01T18:54:34.274Z"
-  },
-  "ROLINHA CANSADA FARMS": {
-    "idNumerico": "14",
-    "nome": "Rolinha Cansada Farms",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:28|01/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T14:28:27.944Z"
   },
   "/VENDERPRODUTOS": {
     "idNumerico": "7",

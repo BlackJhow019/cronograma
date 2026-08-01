@@ -191,6 +191,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-01T15:53:07.243Z"
   },
+  "NOREX FARM'S": {
+    "idNumerico": "13",
+    "nome": "Norex farm's",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-01T11:34:56.400Z"
+  },
   "RICK FARM'S": {
     "idNumerico": "40",
     "nome": "Rick Farm's",
@@ -204,7 +212,7 @@
     "nome": "JAH RASTAFARI",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:33|01/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-01T16:33:31.792Z"
   },
   ".": {

@@ -338,10 +338,10 @@
   "@FILH_ODOPAII": {
     "idNumerico": "12",
     "nome": "@filh_odopaii",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:21|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T22:52:46.393Z"
+    "roubadaEm": "2026-08-01T04:21:43.385Z"
   },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",

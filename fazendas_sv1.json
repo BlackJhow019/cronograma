@@ -90,9 +90,9 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:36|31/07/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-07-31T21:36:36.565Z"
   },
   "MONOPOLIO FARMS": {
@@ -227,9 +227,9 @@
     "idNumerico": "16",
     "nome": "30PRAUM",
     "status": "INDISPONIVEL",
-    "disponivelEm": "04:34|01/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T02:34:04.104Z"
+    "disponivelEm": "04:33|01/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-01T02:33:44.591Z"
   },
   "FAZENDA FELIZ": {
     "idNumerico": "22",

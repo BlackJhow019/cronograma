@@ -91,7 +91,7 @@
     "idNumerico": "8",
     "nome": "CANNABIS",
     "status": "INDISPONIVEL",
-    "disponivelEm": "08:19|01/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-01T06:19:13.955Z"
   },
@@ -330,9 +330,9 @@
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
     "nome": "Vale das Sombras",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-01T06:16:20.534Z"
   },
   "@FILH_ODOPAII": {

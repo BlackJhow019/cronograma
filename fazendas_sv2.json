@@ -58,10 +58,10 @@
   "TA NO GRALI": {
     "idNumerico": "4",
     "nome": "ta no grali",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:59|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T20:43:28.190Z"
+    "roubadaEm": "2026-08-01T01:59:48.544Z"
   },
   "B13 :)": {
     "idNumerico": "23",
@@ -116,7 +116,7 @@
     "nome": "Ariana_B13",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:52|01/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-01T01:52:13.222Z"
   },
   "FARME DO DRAKE": {
@@ -150,14 +150,6 @@
     "disponivelEm": "00:55|01/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-07-31T22:55:25.654Z"
-  },
-  "FARM'S NAY E NICK": {
-    "idNumerico": "5",
-    "nome": "FARM'S NAY E NICK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:58|31/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-31T20:58:24.970Z"
   },
   "FARM DO SAPATO": {
     "idNumerico": "9",

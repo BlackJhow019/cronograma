@@ -210,10 +210,10 @@
   "GRUPO RANTER": {
     "idNumerico": "19",
     "nome": "GRUPO RANTER",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:41|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T15:37:04.025Z"
+    "roubadaEm": "2026-08-01T00:41:34.043Z"
   },
   "ROLINHA CANSADA FARMS": {
     "idNumerico": "14",
@@ -302,14 +302,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-31T16:23:43.016Z"
-  },
-  "FARM DA THATY": {
-    "idNumerico": "1",
-    "nome": "Farm da Thaty",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:37|31/07/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-31T19:37:14.913Z"
   },
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",

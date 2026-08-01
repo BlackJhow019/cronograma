@@ -186,10 +186,10 @@
   "CHAMA A POLICIA": {
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:38|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T16:28:37.823Z"
+    "roubadaEm": "2026-08-01T22:38:48.727Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",
@@ -279,14 +279,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-01T22:36:29.194Z"
   },
-  "WELCOME > MELHOR FAZENDA DO BPS": {
-    "idNumerico": "37",
-    "nome": "WELCOME > MELHOR FAZENDA DO BPS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T17:37:55.516Z"
-  },
   "FARM DO GALO": {
     "idNumerico": "40",
     "nome": "FARM DO GALO",
@@ -318,14 +310,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-01T16:49:29.333Z"
-  },
-  "VALE DAS SOMBRAS": {
-    "idNumerico": "24",
-    "nome": "Vale das Sombras",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:38|01/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T17:38:04.348Z"
   },
   "@FILH_ODOPAII": {
     "idNumerico": "12",

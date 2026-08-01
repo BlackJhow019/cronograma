@@ -79,21 +79,13 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-31T22:44:43.658Z"
   },
-  "FAZENDA DA MILLY": {
-    "idNumerico": "19",
-    "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:15|01/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-07-31T22:15:23.894Z"
-  },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:17|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T21:36:36.565Z"
+    "roubadaEm": "2026-08-01T03:17:10.685Z"
   },
   "MONOPOLIO FARMS": {
     "idNumerico": "20",

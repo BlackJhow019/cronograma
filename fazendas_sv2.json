@@ -2,10 +2,10 @@
   "999": {
     "idNumerico": "39",
     "nome": "999",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:11|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T05:32:07.333Z"
+    "roubadaEm": "2026-08-01T12:11:04.796Z"
   },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
@@ -148,7 +148,7 @@
     "nome": "Fazenda do Galin",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:02|01/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-01T12:02:39.115Z"
   },
   "FARM'S NAY E NICK": {
@@ -294,14 +294,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-31T18:23:43.565Z"
-  },
-  "FARM DO GALO": {
-    "idNumerico": "40",
-    "nome": "FARM DO GALO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:07|01/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T07:07:01.042Z"
   },
   "FARM DA THATY": {
     "idNumerico": "1",

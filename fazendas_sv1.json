@@ -34,10 +34,10 @@
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:19|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T02:08:04.219Z"
+    "roubadaEm": "2026-08-01T15:19:58.953Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -147,9 +147,9 @@
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
     "status": "INDISPONIVEL",
-    "disponivelEm": "17:08|01/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T15:08:06.768Z"
+    "disponivelEm": "17:07|01/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-01T15:07:52.796Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
@@ -229,7 +229,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "17:01|01/08/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-08-01T15:01:28.221Z"
+    "roubadaEm": "2026-08-01T15:01:28.035Z"
   },
   "FAZENDA FELIZ": {
     "idNumerico": "22",
@@ -347,8 +347,8 @@
     "idNumerico": "12",
     "nome": "Jesus is the way",
     "status": "INDISPONIVEL",
-    "disponivelEm": "17:06|01/08/2026",
+    "disponivelEm": "17:04|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T15:06:00.027Z"
+    "roubadaEm": "2026-08-01T15:04:22.314Z"
   }
 }

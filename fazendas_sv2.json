@@ -2,8 +2,8 @@
   "999": {
     "idNumerico": "39",
     "nome": "999",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:32|01/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-01T05:32:07.333Z"
   },
@@ -94,14 +94,6 @@
     "disponivelEm": "08:19|01/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-01T06:19:13.955Z"
-  },
-  "AMO O LOWER": {
-    "idNumerico": "2",
-    "nome": "Amo o Lower",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:33|01/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T05:33:50.962Z"
   },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",

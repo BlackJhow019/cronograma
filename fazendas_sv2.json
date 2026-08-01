@@ -50,10 +50,10 @@
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
     "nome": "Farma Da Familia Elite",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:59|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T00:05:47.344Z"
+    "roubadaEm": "2026-08-01T00:59:23.563Z"
   },
   "TA NO GRALI": {
     "idNumerico": "4",
@@ -195,9 +195,9 @@
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
     "status": "INDISPONIVEL",
-    "disponivelEm": "02:36|01/08/2026",
+    "disponivelEm": "02:35|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T00:36:20.068Z"
+    "roubadaEm": "2026-08-01T00:35:30.525Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",
@@ -211,9 +211,9 @@
     "idNumerico": "19",
     "nome": "GRUPO RANTER",
     "status": "INDISPONIVEL",
-    "disponivelEm": "02:42|01/08/2026",
+    "disponivelEm": "02:41|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T00:42:41.540Z"
+    "roubadaEm": "2026-08-01T00:41:33.964Z"
   },
   "ROLINHA CANSADA FARMS": {
     "idNumerico": "14",

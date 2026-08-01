@@ -68,7 +68,7 @@
     "nome": "B13 :)",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:23|01/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-01T14:23:21.890Z"
   },
   "MALVADA'S FARM": {
@@ -218,10 +218,10 @@
   "ROLINHA CANSADA FARMS": {
     "idNumerico": "14",
     "nome": "Rolinha Cansada Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:28|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-26T16:54:09.309Z"
+    "roubadaEm": "2026-08-01T14:28:27.944Z"
   },
   "/VENDERPRODUTOS": {
     "idNumerico": "7",

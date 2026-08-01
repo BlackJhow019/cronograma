@@ -188,7 +188,7 @@
     "nome": "PoLeMiCo$ industri$",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:53|01/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-01T15:53:07.243Z"
   },
   "NOREX FARM'S": {
@@ -206,14 +206,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-01T05:10:52.231Z"
-  },
-  "JAH RASTAFARI": {
-    "idNumerico": "39",
-    "nome": "JAH RASTAFARI",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:55|01/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-01T10:55:06.200Z"
   },
   ".": {
     "idNumerico": "31",
@@ -290,10 +282,10 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:57|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T10:01:25.427Z"
+    "roubadaEm": "2026-08-01T15:57:33.588Z"
   },
   "..OURO..PR3TO..": {
     "idNumerico": "5",

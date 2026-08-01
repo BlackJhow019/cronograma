@@ -74,10 +74,10 @@
   "MALVADA'S FARM": {
     "idNumerico": "32",
     "nome": "Malvada's Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:45|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T10:07:16.812Z"
+    "roubadaEm": "2026-08-01T16:45:31.353Z"
   },
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
@@ -236,7 +236,7 @@
     "nome": "~E V O M~",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:42|01/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-01T16:42:51.191Z"
   },
   "FAZENDA CUIUDA - BY GAZOLA": {

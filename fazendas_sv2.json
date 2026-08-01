@@ -226,10 +226,10 @@
   "/VENDERPRODUTOS": {
     "idNumerico": "7",
     "nome": "/VENDERPRODUTOS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:34|01/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T07:34:24.224Z"
+    "roubadaEm": "2026-08-01T14:34:13.746Z"
   },
   "~E V O M~": {
     "idNumerico": "25",

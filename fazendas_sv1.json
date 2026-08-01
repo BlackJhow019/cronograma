@@ -12,7 +12,7 @@
     "nome": "KodiaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:19|01/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-01T00:19:51.697Z"
   },
   "NIKE SHOX": {
@@ -342,5 +342,13 @@
     "disponivelEm": "21:33|31/07/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-07-31T19:33:06.140Z"
+  },
+  "PEEEERFEITO": {
+    "idNumerico": "12",
+    "nome": "Peeeerfeito",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-07-31T19:18:18.174Z"
   }
 }

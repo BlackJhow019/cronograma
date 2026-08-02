@@ -162,7 +162,7 @@
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
     "nome": "LA FAMILIA CHIARADIA",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T19:38:39.443Z"
@@ -271,14 +271,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T21:54:22.675Z"
   },
-  "CHAMA A POLICIA": {
-    "idNumerico": "44",
-    "nome": "CHAMA A POLICIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:23|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T20:46:34.933Z"
-  },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
@@ -286,22 +278,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T13:52:56.715Z"
-  },
-  "GRANJA DO IMONKEY": {
-    "idNumerico": "29",
-    "nome": "Granja do iMonKeY",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:15|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T19:15:19.624Z"
-  },
-  "RAMONZIN_FRANCA": {
-    "idNumerico": "21",
-    "nome": "RAMONZIN_FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:53|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T19:53:11.123Z"
   },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
@@ -315,9 +291,9 @@
     "idNumerico": "9",
     "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
-    "disponivelEm": "00:00|03/08/2026",
+    "disponivelEm": "00:01|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T22:00:53.233Z"
+    "roubadaEm": "2026-08-02T22:01:23.386Z"
   },
   "PENOSO FARM'S": {
     "idNumerico": "10",
@@ -335,22 +311,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T18:49:13.598Z"
   },
-  "ROCK FARM": {
-    "idNumerico": "11",
-    "nome": "RocK Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:08|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T21:08:17.366Z"
-  },
-  "AMO O CREEPER_STAFF ><": {
-    "idNumerico": "20",
-    "nome": "amo o Creeper_Staff ><",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T20:51:11.723Z"
-  },
   "JAH RASTAFARI": {
     "idNumerico": "39",
     "nome": "JAH RASTAFARI",
@@ -358,5 +318,45 @@
     "disponivelEm": "22:46|02/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T20:50:04.070Z"
+  },
+  "FARMS DE GALOPISITAS": {
+    "idNumerico": "20",
+    "nome": "Farms de Galopisitas",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T20:51:11.723Z"
+  },
+  "CHAMA A POLICIA": {
+    "idNumerico": "44",
+    "nome": "CHAMA A POLICIA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:23|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T20:46:34.933Z"
+  },
+  "THUG LIFE": {
+    "idNumerico": "21",
+    "nome": "THUG LIFE",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:53|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T19:53:11.123Z"
+  },
+  "RICO LOUCO": {
+    "idNumerico": "11",
+    "nome": "rico louco",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:08|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T21:08:17.366Z"
+  },
+  "SUCCUBUS FARMS": {
+    "idNumerico": "29",
+    "nome": "Succubus Farms",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:15|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T19:15:19.624Z"
   }
 }

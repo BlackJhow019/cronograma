@@ -1,4 +1,12 @@
 {
+  "999": {
+    "idNumerico": "39",
+    "nome": "999",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:46|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T04:46:57.643Z"
+  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -54,14 +62,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-01T22:51:08.834Z"
-  },
-  "ROUBO OFF": {
-    "idNumerico": "7",
-    "nome": "roubo off",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:54|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T01:54:19.467Z"
   },
   "AZEROX": {
     "idNumerico": "23",
@@ -207,14 +207,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T05:43:50.941Z"
   },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:35|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T05:35:59.332Z"
-  },
   "FARME DO DRAKE": {
     "idNumerico": "35",
     "nome": "Farme do Drake",
@@ -351,12 +343,12 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T04:17:36.021Z"
   },
-  "JAH RASTAFARI": {
-    "idNumerico": "39",
-    "nome": "JAH RASTAFARI",
+  "JESUS EA SOLUCAO": {
+    "idNumerico": "0",
+    "nome": "JESUS EA SOLUCAO",
     "status": "INDISPONIVEL",
-    "disponivelEm": "06:46|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T04:46:57.643Z"
+    "disponivelEm": "07:05|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T06:56:04.593Z"
   }
 }

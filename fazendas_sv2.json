@@ -143,6 +143,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T14:58:07.366Z"
   },
+  "SE ROUBAR MORRE": {
+    "idNumerico": "41",
+    "nome": "SE ROUBAR MORRE",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T13:57:42.129Z"
+  },
   ".": {
     "idNumerico": "31",
     "nome": ".",
@@ -287,13 +295,37 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T17:57:39.527Z"
   },
-  "FAZENDINHA DO IGEZE": {
+  "SUCCUBUS FARMS": {
+    "idNumerico": "29",
+    "nome": "Succubus Farms",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T01:49:57.225Z"
+  },
+  "FAZENDA DO MIRIM": {
     "idNumerico": "36",
-    "nome": "fazendinha do igeze",
+    "nome": "Fazenda Do MIRIM",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T13:52:56.715Z"
+  },
+  "30PRAUM": {
+    "idNumerico": "16",
+    "nome": "30PRAUM",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:19|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T18:38:31.398Z"
+  },
+  "OS DE RACA": {
+    "idNumerico": "0",
+    "nome": "OS DE RACA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:08|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T18:59:17.298Z"
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -326,29 +358,5 @@
     "disponivelEm": "17:27|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T18:47:01.347Z"
-  },
-  "YELLOWSTONE - BY MONSTER": {
-    "idNumerico": "16",
-    "nome": "YellowStone - By Monster",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:19|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T18:38:31.398Z"
-  },
-  "GRANJA DO IMONKEY": {
-    "idNumerico": "29",
-    "nome": "Granja do iMonKeY",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T01:49:57.225Z"
-  },
-  "JESUS EA SOLUCAO": {
-    "idNumerico": "0",
-    "nome": "JESUS EA SOLUCAO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:08|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T18:59:17.298Z"
   }
 }

@@ -4,7 +4,7 @@
     "nome": "rico louco",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:41|02/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-02T13:41:44.392Z"
   },
   "KODIAK": {
@@ -218,10 +218,10 @@
   ".": {
     "idNumerico": "31",
     "nome": ".",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:44|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T15:07:24.071Z"
+    "roubadaEm": "2026-08-02T13:44:40.371Z"
   },
   "30PRAUM": {
     "idNumerico": "16",

@@ -223,14 +223,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T06:45:25.524Z"
   },
-  "ARIANA_B13": {
-    "idNumerico": "10",
-    "nome": "Ariana_B13",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:03|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T08:03:42.602Z"
-  },
   "JAH RASTAFARI": {
     "idNumerico": "39",
     "nome": "JAH RASTAFARI",
@@ -356,7 +348,15 @@
     "nome": "/VENDERPRODUTOS",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:30|02/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-02T11:30:12.274Z"
+  },
+  "PENOSO FARM'S": {
+    "idNumerico": "10",
+    "nome": "Penoso Farm's",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:00|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T11:32:03.441Z"
   }
 }

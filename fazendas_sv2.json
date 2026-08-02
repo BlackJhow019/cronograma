@@ -44,7 +44,7 @@
     "nome": "Rancho do Doutor",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:41|03/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-02T22:41:15.574Z"
   },
   "KODIAK": {
@@ -114,10 +114,10 @@
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:59|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T14:55:30.831Z"
+    "roubadaEm": "2026-08-02T22:59:48.536Z"
   },
   "DONA SEM RAZAO": {
     "idNumerico": "26",
@@ -335,14 +335,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T22:33:34.427Z"
   },
-  "AMO O CREEPER_STAFF ><": {
-    "idNumerico": "20",
-    "nome": "amo o Creeper_Staff ><",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T20:51:11.723Z"
-  },
   "JAH RASTAFARI": {
     "idNumerico": "39",
     "nome": "JAH RASTAFARI",
@@ -351,9 +343,17 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T20:50:04.070Z"
   },
-  "QUEM ROUBAR E PETISTA": {
+  "FARMS DE GALOPISITAS": {
+    "idNumerico": "20",
+    "nome": "Farms de Galopisitas",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T20:51:11.723Z"
+  },
+  "CHAMA A POLICIA": {
     "idNumerico": "44",
-    "nome": "Quem Roubar e Petista",
+    "nome": "CHAMA A POLICIA",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,

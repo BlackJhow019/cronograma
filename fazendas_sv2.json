@@ -79,14 +79,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T01:49:57.225Z"
   },
-  "FARM DO GALO": {
-    "idNumerico": "40",
-    "nome": "FARM DO GALO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T06:36:53.312Z"
-  },
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
@@ -271,6 +263,30 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T13:52:56.715Z"
   },
+  "TREMBALA": {
+    "idNumerico": "42",
+    "nome": "TremBala",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "FARME DO DRAKE": {
+    "idNumerico": "35",
+    "nome": "Farme do Drake",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:21|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T12:21:30.282Z"
+  },
+  "RICK FARM'S": {
+    "idNumerico": "40",
+    "nome": "Rick Farm's",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:27|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T15:27:07.424Z"
+  },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
@@ -286,6 +302,14 @@
     "disponivelEm": "15:45|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T13:45:20.641Z"
+  },
+  "CHAMA A POLICIA": {
+    "idNumerico": "44",
+    "nome": "CHAMA A POLICIA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:35|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T14:58:07.366Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
@@ -334,29 +358,5 @@
     "disponivelEm": "14:26|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T12:26:06.800Z"
-  },
-  "LEK0ZIKA": {
-    "idNumerico": "35",
-    "nome": "Lek0zika",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:21|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T12:21:30.282Z"
-  },
-  "NIKE SHOX": {
-    "idNumerico": "42",
-    "nome": "NIKE SHOX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "QUEM ROUBAR E PETISTA": {
-    "idNumerico": "44",
-    "nome": "Quem Roubar e Petista",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:35|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T14:58:07.366Z"
   }
 }

@@ -196,7 +196,7 @@
     "nome": "JAH RASTAFARI",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:50|02/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-02T20:50:04.089Z"
   },
   ".": {
@@ -218,10 +218,10 @@
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:58|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T13:41:33.887Z"
+    "roubadaEm": "2026-08-02T20:58:27.354Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",
@@ -347,8 +347,8 @@
     "idNumerico": "20",
     "nome": "amo o Creeper_Staff ><",
     "status": "INDISPONIVEL",
-    "disponivelEm": "22:50|02/08/2026",
+    "disponivelEm": "22:51|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T20:50:40.255Z"
+    "roubadaEm": "2026-08-02T20:51:12.007Z"
   }
 }

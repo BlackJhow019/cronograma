@@ -167,14 +167,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T13:02:47.593Z"
   },
-  "QUEM ROUBAR E PETISTA": {
-    "idNumerico": "44",
-    "nome": "Quem Roubar e Petista",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T09:12:20.791Z"
-  },
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
     "nome": "VENDO 500km ACEITO TROCAS",
@@ -198,14 +190,6 @@
     "disponivelEm": "13:17|02/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T11:17:58.946Z"
-  },
-  "AMO A MAZZI": {
-    "idNumerico": "6",
-    "nome": "Amo a Mazzi",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:26|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T11:26:34.924Z"
   },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
@@ -350,5 +334,21 @@
     "disponivelEm": "12:44|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T13:24:22.379Z"
+  },
+  "CHAMA A POLICIA": {
+    "idNumerico": "44",
+    "nome": "CHAMA A POLICIA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:25|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T13:25:16.662Z"
+  },
+  "DM2 FARM": {
+    "idNumerico": "6",
+    "nome": "Dm2 Farm",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:26|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T11:26:34.924Z"
   }
 }

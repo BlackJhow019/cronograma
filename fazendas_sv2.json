@@ -7,14 +7,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T13:11:32.561Z"
   },
-  "FARMA DA FAMILIA ELITE": {
-    "idNumerico": "33",
-    "nome": "Farma Da Familia Elite",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T21:26:38.005Z"
-  },
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
     "nome": "Farms de Galopisitas",
@@ -135,14 +127,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T11:26:34.924Z"
   },
-  "FARM DO SAPATO": {
-    "idNumerico": "9",
-    "nome": "FARM DO SAPATO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T13:15:44.977Z"
-  },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
     "nome": "Vale das Sombras",
@@ -154,8 +138,8 @@
   "GRUPO RANTER": {
     "idNumerico": "19",
     "nome": "GRUPO RANTER",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:38|02/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T11:38:51.508Z"
   },
@@ -287,6 +271,54 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T15:39:04.991Z"
   },
+  "QUEM ROUBAR E PETISTA": {
+    "idNumerico": "44",
+    "nome": "Quem Roubar e Petista",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T14:58:07.366Z"
+  },
+  "YELLOWSTONE - BY MONSTER": {
+    "idNumerico": "16",
+    "nome": "YellowStone - By Monster",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:33|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T15:58:21.298Z"
+  },
+  "SE ROUBAR MORRE": {
+    "idNumerico": "41",
+    "nome": "SE ROUBAR MORRE",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:57|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T13:57:42.129Z"
+  },
+  ".": {
+    "idNumerico": "31",
+    "nome": ".",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:45|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T13:45:20.641Z"
+  },
+  "GRUPO NEXUS": {
+    "idNumerico": "9",
+    "nome": "GRUPO NEXUS",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T13:15:44.977Z"
+  },
+  "ROCK FARM": {
+    "idNumerico": "11",
+    "nome": "RocK Farm",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:41|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T13:41:43.686Z"
+  },
   "JAH RASTAFARI": {
     "idNumerico": "39",
     "nome": "JAH RASTAFARI",
@@ -303,14 +335,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T15:28:14.468Z"
   },
-  "QUEM ROUBAR E PETISTA": {
-    "idNumerico": "44",
-    "nome": "Quem Roubar e Petista",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:35|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T14:58:07.366Z"
-  },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
@@ -319,44 +343,20 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T16:25:24.974Z"
   },
-  "RICO LOUCO": {
-    "idNumerico": "11",
-    "nome": "rico louco",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:41|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T13:41:43.686Z"
-  },
-  "30PRAUM": {
-    "idNumerico": "16",
-    "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:33|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T15:58:21.298Z"
-  },
-  "PREFEITO ROADBLOCK": {
-    "idNumerico": "41",
-    "nome": "Prefeito Roadblock",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:57|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T13:57:42.129Z"
-  },
-  "FAZENDA REI DROGADO": {
-    "idNumerico": "31",
-    "nome": "Fazenda Rei Drogado",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:45|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T13:45:20.641Z"
-  },
-  "PENOSO FARM'S": {
+  "ARIANA_B13": {
     "idNumerico": "10",
-    "nome": "Penoso Farm's",
+    "nome": "Ariana_B13",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:02|02/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-02T16:33:41.413Z"
+  },
+  "BORRACHAS FARM": {
+    "idNumerico": "33",
+    "nome": "Borrachas Farm",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:48|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T16:48:25.608Z"
   }
 }

@@ -1,12 +1,4 @@
 {
-  "999": {
-    "idNumerico": "39",
-    "nome": "999",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:46|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T20:50:04.070Z"
-  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -279,14 +271,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T21:54:22.675Z"
   },
-  "FARMS DE GALOPISITAS": {
-    "idNumerico": "20",
-    "nome": "Farms de Galopisitas",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T20:51:11.723Z"
-  },
   "CHAMA A POLICIA": {
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
@@ -294,30 +278,6 @@
     "disponivelEm": "19:23|02/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T20:46:34.933Z"
-  },
-  "RICO LOUCO": {
-    "idNumerico": "11",
-    "nome": "rico louco",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:08|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T21:08:17.366Z"
-  },
-  "ARIANA_B13": {
-    "idNumerico": "10",
-    "nome": "Ariana_B13",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T16:33:41.413Z"
-  },
-  "FAZENDINHA BETREZE 2": {
-    "idNumerico": "38",
-    "nome": "Fazendinha BeTreZe 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:49|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T18:49:13.598Z"
   },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
@@ -357,6 +317,46 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "00:00|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T22:00:37.662Z"
+    "roubadaEm": "2026-08-02T22:00:53.233Z"
+  },
+  "PENOSO FARM'S": {
+    "idNumerico": "10",
+    "nome": "Penoso Farm's",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T16:33:41.413Z"
+  },
+  "WORK INDUSTRIA'S LIMITED": {
+    "idNumerico": "38",
+    "nome": "Work Industria's Limited",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:49|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T18:49:13.598Z"
+  },
+  "ROCK FARM": {
+    "idNumerico": "11",
+    "nome": "RocK Farm",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:08|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T21:08:17.366Z"
+  },
+  "AMO O CREEPER_STAFF ><": {
+    "idNumerico": "20",
+    "nome": "amo o Creeper_Staff ><",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T20:51:11.723Z"
+  },
+  "JAH RASTAFARI": {
+    "idNumerico": "39",
+    "nome": "JAH RASTAFARI",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:46|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T20:50:04.070Z"
   }
 }

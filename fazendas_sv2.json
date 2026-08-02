@@ -111,14 +111,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T16:48:25.608Z"
   },
-  "FAZENDA DA MILLY": {
-    "idNumerico": "19",
-    "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:53|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T16:53:54.574Z"
-  },
   "TA NO GRALI": {
     "idNumerico": "4",
     "nome": "ta no grali",
@@ -358,5 +350,13 @@
     "disponivelEm": "19:08|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T18:59:17.298Z"
+  },
+  "GRUPO RANTER": {
+    "idNumerico": "19",
+    "nome": "GRUPO RANTER",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:12|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T21:03:27.267Z"
   }
 }

@@ -98,8 +98,8 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:19|02/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T01:19:47.156Z"
   },
@@ -303,14 +303,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T03:58:39.793Z"
   },
-  "JAH RASTAFARI": {
-    "idNumerico": "39",
-    "nome": "JAH RASTAFARI",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:46|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T04:46:57.643Z"
-  },
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
@@ -318,22 +310,6 @@
     "disponivelEm": "05:50|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T03:50:16.830Z"
-  },
-  "FARM DO SAPATO": {
-    "idNumerico": "9",
-    "nome": "FARM DO SAPATO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:17|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T04:17:36.021Z"
-  },
-  "NIKE SHOX": {
-    "idNumerico": "42",
-    "nome": "NIKE SHOX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:54|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T05:43:40.500Z"
   },
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
@@ -350,6 +326,30 @@
     "disponivelEm": "05:23|02/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T03:23:02.148Z"
+  },
+  "JAH RASTAFARI": {
+    "idNumerico": "39",
+    "nome": "JAH RASTAFARI",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:46|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T04:46:57.643Z"
+  },
+  "FARM DO SAPATO": {
+    "idNumerico": "9",
+    "nome": "FARM DO SAPATO",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:17|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T04:17:36.021Z"
+  },
+  "NIKE SHOX": {
+    "idNumerico": "42",
+    "nome": "NIKE SHOX",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:54|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T05:43:40.500Z"
   },
   "THUG LIFE": {
     "idNumerico": "21",

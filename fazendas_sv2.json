@@ -55,6 +55,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-01T22:51:08.834Z"
   },
+  "ROUBO OFF": {
+    "idNumerico": "7",
+    "nome": "roubo off",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T01:54:19.467Z"
+  },
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
@@ -102,14 +110,6 @@
     "disponivelEm": "04:51|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T02:51:47.518Z"
-  },
-  "SAO PEDRO 2": {
-    "idNumerico": "43",
-    "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:39|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T04:39:41.803Z"
   },
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
@@ -350,5 +350,13 @@
     "disponivelEm": "06:46|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T04:46:57.643Z"
+  },
+  "LA FAMILIA CHIARADIA": {
+    "idNumerico": "43",
+    "nome": "LA FAMILIA CHIARADIA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:39|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T04:39:41.803Z"
   }
 }

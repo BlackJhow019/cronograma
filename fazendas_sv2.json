@@ -1,4 +1,12 @@
 {
+  "999": {
+    "idNumerico": "39",
+    "nome": "999",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:46|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T20:50:04.070Z"
+  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -199,6 +207,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T21:04:16.415Z"
   },
+  "JESUS EA SOLUCAO": {
+    "idNumerico": "0",
+    "nome": "JESUS EA SOLUCAO",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T18:59:17.298Z"
+  },
   "DEAD (:": {
     "idNumerico": "27",
     "nome": "Dead (:",
@@ -279,13 +295,37 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T22:01:38.817Z"
   },
-  "JAH RASTAFARI": {
-    "idNumerico": "39",
-    "nome": "JAH RASTAFARI",
+  "MALVADA'S FARM": {
+    "idNumerico": "32",
+    "nome": "Malvada's Farm",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T18:00:25.546Z"
+  },
+  "WORK INDUSTRIA'S LIMITED": {
+    "idNumerico": "38",
+    "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
-    "disponivelEm": "22:46|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T20:50:04.070Z"
+    "disponivelEm": "20:49|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T18:49:13.598Z"
+  },
+  "SE ROUBAR MORRE": {
+    "idNumerico": "41",
+    "nome": "SE ROUBAR MORRE",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:13|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T19:13:09.262Z"
+  },
+  "PENOSO FARM'S": {
+    "idNumerico": "10",
+    "nome": "Penoso Farm's",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T16:33:41.413Z"
   },
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
@@ -298,18 +338,10 @@
   "CHAMA A POLICIA": {
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:23|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T20:46:34.933Z"
-  },
-  "THUG LIFE": {
-    "idNumerico": "21",
-    "nome": "THUG LIFE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:53|02/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T19:53:11.123Z"
+    "roubadaEm": "2026-08-02T20:46:34.933Z"
   },
   "RICO LOUCO": {
     "idNumerico": "11",
@@ -319,36 +351,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T21:08:17.366Z"
   },
-  "PREFEITO ROADBLOCK": {
-    "idNumerico": "41",
-    "nome": "Prefeito Roadblock",
+  "RAMONZIN_FRANCA": {
+    "idNumerico": "21",
+    "nome": "RAMONZIN_FRANCA",
     "status": "INDISPONIVEL",
-    "disponivelEm": "21:13|02/08/2026",
+    "disponivelEm": "21:53|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T19:13:09.262Z"
-  },
-  "ARIANA_B13": {
-    "idNumerico": "10",
-    "nome": "Ariana_B13",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T16:33:41.413Z"
-  },
-  "FAZENDINHA BETREZE 2": {
-    "idNumerico": "38",
-    "nome": "Fazendinha BeTreZe 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:49|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T18:49:13.598Z"
-  },
-  "MALVADA'S FARM": {
-    "idNumerico": "32",
-    "nome": "Malvada's Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T18:00:25.546Z"
+    "roubadaEm": "2026-08-02T19:53:11.123Z"
   }
 }

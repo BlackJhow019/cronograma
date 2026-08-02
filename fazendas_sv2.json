@@ -18,10 +18,10 @@
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
     "nome": "Farms de Galopisitas",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:19|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T23:52:53.607Z"
+    "roubadaEm": "2026-08-02T20:19:26.110Z"
   },
   "FAZENDA CUIUDA - BY GAZOLA": {
     "idNumerico": "17",
@@ -46,14 +46,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T05:43:50.941Z"
-  },
-  "POLEMICO$ INDUSTRI$": {
-    "idNumerico": "37",
-    "nome": "PoLeMiCo$ industri$",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T04:44:36.663Z"
   },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
@@ -279,6 +271,22 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T19:24:25.426Z"
   },
+  "WELCOME > MELHOR FAZENDA DO BPS": {
+    "idNumerico": "37",
+    "nome": "WELCOME > MELHOR FAZENDA DO BPS",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T04:44:36.663Z"
+  },
+  "LA FAMILIA CHIARADIA": {
+    "idNumerico": "43",
+    "nome": "LA FAMILIA CHIARADIA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:00|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T19:38:39.443Z"
+  },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",
     "nome": "Succubus Farms",
@@ -302,6 +310,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T19:14:15.671Z"
+  },
+  "LEK0ZIKA": {
+    "idNumerico": "35",
+    "nome": "Lek0zika",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:06|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T20:03:25.978Z"
   },
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
@@ -342,21 +358,5 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T18:21:57.975Z"
-  },
-  "SAO PEDRO 2": {
-    "idNumerico": "43",
-    "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:00|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T19:38:39.443Z"
-  },
-  "FARME DO DRAKE": {
-    "idNumerico": "35",
-    "nome": "Farme do Drake",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:06|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T20:03:25.978Z"
   }
 }

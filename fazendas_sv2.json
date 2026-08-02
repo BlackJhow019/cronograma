@@ -119,14 +119,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T03:39:27.653Z"
   },
-  "RICO LOUCO": {
-    "idNumerico": "11",
-    "nome": "rico louco",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:41|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T13:41:43.686Z"
-  },
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
@@ -158,6 +150,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
+  },
+  "AZEROX": {
+    "idNumerico": "23",
+    "nome": "AzeRoX",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T10:36:56.033Z"
   },
   "KODIAK": {
     "idNumerico": "3",
@@ -350,5 +350,13 @@
     "disponivelEm": "14:56|02/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T15:39:04.991Z"
+  },
+  "ROCK FARM": {
+    "idNumerico": "11",
+    "nome": "RocK Farm",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:41|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T13:41:43.686Z"
   }
 }

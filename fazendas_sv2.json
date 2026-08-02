@@ -306,9 +306,9 @@
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:17|02/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-02T04:17:36.021Z"
   },
   "FARM'S NAY E NICK": {
@@ -322,9 +322,9 @@
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
     "nome": "LA FAMILIA CHIARADIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:19|02/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-02T06:59:37.649Z"
   },
   "ROLINHA CANSADA FARMS": {
@@ -351,9 +351,9 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T06:56:17.744Z"
   },
-  "QUEM ROUBAR E PETISTA": {
+  "CHAMA A POLICIA": {
     "idNumerico": "44",
-    "nome": "Quem Roubar e Petista",
+    "nome": "CHAMA A POLICIA",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:54|02/08/2026",
     "cofreConsertado": true,

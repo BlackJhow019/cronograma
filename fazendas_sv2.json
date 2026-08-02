@@ -98,10 +98,10 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:40|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T11:26:34.924Z"
+    "roubadaEm": "2026-08-02T18:40:06.727Z"
   },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
@@ -222,14 +222,6 @@
     "disponivelEm": "19:14|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T17:14:15.541Z"
-  },
-  "< GAUBRE LTDA >": {
-    "idNumerico": "2",
-    "nome": "< GAUBRE LTDA >",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:05|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T17:19:53.437Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
@@ -358,5 +350,13 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
+  },
+  "AMO O LOWER": {
+    "idNumerico": "2",
+    "nome": "Amo o Lower",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:05|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T17:19:53.437Z"
   }
 }

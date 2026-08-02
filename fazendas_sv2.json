@@ -293,15 +293,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "17:27|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T18:46:50.497Z"
-  },
-  "AMO O LOWER": {
-    "idNumerico": "2",
-    "nome": "Amo o Lower",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:05|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T17:19:53.437Z"
+    "roubadaEm": "2026-08-02T18:47:01.347Z"
   },
   "30PRAUM": {
     "idNumerico": "16",
@@ -310,14 +302,6 @@
     "disponivelEm": "18:19|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T18:38:31.398Z"
-  },
-  "AZEROX": {
-    "idNumerico": "23",
-    "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:27|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T18:21:57.975Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
@@ -342,5 +326,21 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
+  },
+  "< GAUBRE LTDA >": {
+    "idNumerico": "2",
+    "nome": "< GAUBRE LTDA >",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:05|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T17:19:53.437Z"
+  },
+  "B13 :)": {
+    "idNumerico": "23",
+    "nome": "B13 :)",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:27|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T18:21:57.975Z"
   }
 }

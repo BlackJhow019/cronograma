@@ -87,14 +87,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T12:32:52.023Z"
   },
-  "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": "38",
-    "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T05:21:56.900Z"
-  },
   "K1NG FARM'S": {
     "idNumerico": "25",
     "nome": "K1NG Farm's",
@@ -358,5 +350,13 @@
     "disponivelEm": "11:55|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T12:24:23.452Z"
+  },
+  "FAZENDINHA BETREZE 2": {
+    "idNumerico": "38",
+    "nome": "Fazendinha BeTreZe 2",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:49|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T12:49:56.403Z"
   }
 }

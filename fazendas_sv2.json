@@ -66,8 +66,8 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:06|02/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T01:06:09.282Z"
   },
@@ -311,6 +311,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T04:44:36.663Z"
   },
+  "AURA + EGO": {
+    "idNumerico": "22",
+    "nome": "Aura + Ego",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:52|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T04:52:29.146Z"
+  },
   "JAH RASTAFARI": {
     "idNumerico": "39",
     "nome": "JAH RASTAFARI",
@@ -318,6 +326,14 @@
     "disponivelEm": "06:46|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T04:46:57.643Z"
+  },
+  "FRANCA": {
+    "idNumerico": "28",
+    "nome": "FRANCA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:50|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T03:50:16.830Z"
   },
   "FARM DO SAPATO": {
     "idNumerico": "9",
@@ -342,21 +358,5 @@
     "disponivelEm": "05:31|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T03:31:58.217Z"
-  },
-  "WESKER_U$METRALHA": {
-    "idNumerico": "28",
-    "nome": "Wesker_u$MeTraLha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:50|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T03:50:16.830Z"
-  },
-  "FAZENDA FELIZ": {
-    "idNumerico": "22",
-    "nome": "fazenda feliz",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:52|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T04:52:29.146Z"
   }
 }

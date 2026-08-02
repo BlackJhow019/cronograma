@@ -119,14 +119,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T04:44:36.663Z"
   },
-  "FRANCA": {
-    "idNumerico": "28",
-    "nome": "FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T03:50:16.830Z"
-  },
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
@@ -355,8 +347,16 @@
     "idNumerico": "42",
     "nome": "TremBala",
     "status": "INDISPONIVEL",
-    "disponivelEm": "11:34|02/08/2026",
+    "disponivelEm": "11:35|02/08/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T13:03:55.769Z"
+    "roubadaEm": "2026-08-02T13:04:39.035Z"
+  },
+  "WESKER_U$METRALHA": {
+    "idNumerico": "28",
+    "nome": "Wesker_u$MeTraLha",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T03:50:16.830Z"
   }
 }

@@ -10,10 +10,10 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:15|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T12:54:30.089Z"
+    "roubadaEm": "2026-08-02T19:15:14.448Z"
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -267,9 +267,9 @@
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
     "status": "INDISPONIVEL",
-    "disponivelEm": "21:12|02/08/2026",
+    "disponivelEm": "21:13|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T19:12:55.235Z"
+    "roubadaEm": "2026-08-02T19:13:09.485Z"
   },
   "ROUBO OFF": {
     "idNumerico": "7",

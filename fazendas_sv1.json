@@ -2,9 +2,9 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:41|02/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-02T13:41:28.948Z"
   },
   "KODIAK": {
@@ -215,28 +215,20 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T15:31:36.637Z"
   },
-  ".": {
-    "idNumerico": "31",
-    "nome": ".",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:44|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T13:44:40.147Z"
-  },
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:38|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T18:38:18.644Z"
+    "roubadaEm": "2026-08-02T18:38:31.536Z"
   },
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:41|02/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-02T13:41:33.887Z"
   },
   "OS DE RACA": {

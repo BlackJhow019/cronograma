@@ -179,9 +179,9 @@
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
     "status": "INDISPONIVEL",
-    "disponivelEm": "12:58|02/08/2026",
+    "disponivelEm": "13:00|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T13:00:44.456Z"
+    "roubadaEm": "2026-08-02T13:02:47.593Z"
   },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
@@ -319,14 +319,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T12:24:23.452Z"
   },
-  "KODIAK": {
-    "idNumerico": "3",
-    "nome": "KodiaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:36|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T12:54:30.287Z"
-  },
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",
     "nome": "Fazendinha BeTreZe 2",
@@ -335,28 +327,36 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T12:59:44.534Z"
   },
-  "FAMILIA ALMANAK": {
-    "idNumerico": "32",
-    "nome": "Familia AlmanaK",
+  "$ COMPANY $R.RC_PLINIODMG $": {
+    "idNumerico": "3",
+    "nome": "$ Company $r.RC_PlinioDmG $",
     "status": "INDISPONIVEL",
-    "disponivelEm": "10:47|02/08/2026",
+    "disponivelEm": "11:36|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T12:10:17.550Z"
+    "roubadaEm": "2026-08-02T12:54:30.287Z"
   },
-  "021": {
+  "FARM DA THATY": {
     "idNumerico": "1",
-    "nome": "021",
+    "nome": "Farm da Thaty",
     "status": "INDISPONIVEL",
     "disponivelEm": "10:23|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T12:02:52.511Z"
   },
-  "AZEROX": {
+  "B13 :)": {
     "idNumerico": "23",
-    "nome": "AzeRoX",
+    "nome": "B13 :)",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:36|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T10:36:56.033Z"
+  },
+  "MALVADA'S FARM": {
+    "idNumerico": "32",
+    "nome": "Malvada's Farm",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:47|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T12:10:17.550Z"
   }
 }

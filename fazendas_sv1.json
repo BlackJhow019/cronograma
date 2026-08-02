@@ -244,7 +244,7 @@
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:36|02/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-02T05:36:13.056Z"
   },
   "GRUPO NEXUS": {
@@ -258,10 +258,10 @@
   "K1NG FARM'S": {
     "idNumerico": "25",
     "nome": "K1NG Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:44|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T00:04:56.565Z"
+    "roubadaEm": "2026-08-02T05:44:06.524Z"
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",

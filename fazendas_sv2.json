@@ -191,14 +191,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T05:31:01.161Z"
   },
-  "021": {
-    "idNumerico": "1",
-    "nome": "021",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:42|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T01:42:44.118Z"
-  },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
     "nome": "YellowStone - By Monster",
@@ -322,10 +314,10 @@
   "ROCK FARM": {
     "idNumerico": "11",
     "nome": "RocK Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:43|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T01:19:47.156Z"
+    "roubadaEm": "2026-08-02T06:43:04.176Z"
   },
   "JAH RASTAFARI": {
     "idNumerico": "39",

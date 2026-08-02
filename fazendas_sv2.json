@@ -52,7 +52,7 @@
     "nome": "Vale das Sombras",
     "status": "INDISPONIVEL",
     "disponivelEm": "09:31|02/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-02T07:31:48.720Z"
   },
   "HWD INVESTIMENTOS": {
@@ -106,8 +106,8 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:51|02/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T02:51:47.518Z"
   },
@@ -266,9 +266,9 @@
   "TREMBALA": {
     "idNumerico": "42",
     "nome": "TremBala",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:54|02/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-02T05:43:40.500Z"
   },
   "FARM DO GALO": {
@@ -332,8 +332,16 @@
     "nome": "CHAMA A POLICIA",
     "status": "INDISPONIVEL",
     "disponivelEm": "09:30|02/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-02T07:30:25.019Z"
+  },
+  "LA FAMILIA CHIARADIA": {
+    "idNumerico": "43",
+    "nome": "LA FAMILIA CHIARADIA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:19|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T06:59:37.649Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",
@@ -343,20 +351,12 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T06:56:17.744Z"
   },
-  "CANNABIS": {
+  "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
-    "nome": "CANNABIS",
+    "nome": "Clube da Luluzinha",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:34|02/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T07:32:56.763Z"
-  },
-  "SAO PEDRO 2": {
-    "idNumerico": "43",
-    "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:19|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T06:59:37.649Z"
   }
 }

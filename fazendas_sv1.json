@@ -44,7 +44,7 @@
     "nome": "Borrachas Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:48|02/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-02T16:48:24.770Z"
   },
   "WESKER_U$METRALHA": {
@@ -82,10 +82,10 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:53|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T11:38:51.842Z"
+    "roubadaEm": "2026-08-02T16:53:53.747Z"
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
@@ -278,14 +278,6 @@
     "disponivelEm": "18:21|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T16:21:32.849Z"
-  },
-  "RANCHO DO DOUTOR": {
-    "idNumerico": "14",
-    "nome": "Rancho do Doutor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:51|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T11:51:57.645Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",

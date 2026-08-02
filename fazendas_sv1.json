@@ -199,14 +199,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T19:24:24.692Z"
   },
-  "RICK FARM'S": {
-    "idNumerico": "40",
-    "nome": "Rick Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T15:27:29.513Z"
-  },
   "JAH RASTAFARI": {
     "idNumerico": "39",
     "nome": "JAH RASTAFARI",
@@ -350,5 +342,13 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T12:24:23.151Z"
+  },
+  "RICKW_WARRIOR": {
+    "idNumerico": "40",
+    "nome": "rickw_warrior",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:31|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T20:31:00.485Z"
   }
 }

@@ -175,22 +175,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T11:32:03.441Z"
   },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T06:56:17.744Z"
-  },
-  "FAZENDINHA DO IGEZE": {
-    "idNumerico": "36",
-    "nome": "fazendinha do igeze",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:46|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T11:46:49.729Z"
-  },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
@@ -242,8 +226,8 @@
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:47|02/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T12:10:17.550Z"
   },
@@ -254,6 +238,38 @@
     "disponivelEm": "15:41|02/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T13:41:43.686Z"
+  },
+  "AZEROX": {
+    "idNumerico": "23",
+    "nome": "AzeRoX",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:36|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T10:36:56.033Z"
+  },
+  "FAZENDA FELIZ": {
+    "idNumerico": "22",
+    "nome": "fazenda feliz",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T04:52:29.146Z"
+  },
+  "021": {
+    "idNumerico": "1",
+    "nome": "021",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "FAZENDA REI DROGADO": {
+    "idNumerico": "31",
+    "nome": "Fazenda Rei Drogado",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:45|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T13:45:20.641Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
@@ -287,13 +303,13 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T13:04:39.035Z"
   },
-  "AZEROX": {
-    "idNumerico": "23",
-    "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:36|02/08/2026",
+  "OS DE RACA": {
+    "idNumerico": "0",
+    "nome": "OS DE RACA",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T10:36:56.033Z"
+    "roubadaEm": "2026-08-02T06:56:17.744Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -327,6 +343,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T12:54:30.287Z"
   },
+  "FAZENDA DO MIRIM": {
+    "idNumerico": "36",
+    "nome": "Fazenda Do MIRIM",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:46|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T11:46:49.729Z"
+  },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
     "nome": "YellowStone - By Monster",
@@ -334,29 +358,5 @@
     "disponivelEm": "13:16|02/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T13:35:19.897Z"
-  },
-  "FARM DA THATY": {
-    "idNumerico": "1",
-    "nome": "Farm da Thaty",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "FAZENDA FELIZ": {
-    "idNumerico": "22",
-    "nome": "fazenda feliz",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T04:52:29.146Z"
-  },
-  ".": {
-    "idNumerico": "31",
-    "nome": ".",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:45|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T13:45:20.641Z"
   }
 }

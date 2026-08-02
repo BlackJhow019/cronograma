@@ -159,14 +159,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T16:20:47.859Z"
   },
-  "FAZENDA DO GALIN": {
-    "idNumerico": "15",
-    "nome": "Fazenda do Galin",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T15:39:04.991Z"
-  },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
@@ -174,14 +166,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T14:58:07.366Z"
-  },
-  "YELLOWSTONE - BY MONSTER": {
-    "idNumerico": "16",
-    "nome": "YellowStone - By Monster",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:33|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T15:58:21.298Z"
   },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
@@ -247,14 +231,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T17:19:53.437Z"
   },
-  "NIKE SHOX": {
-    "idNumerico": "42",
-    "nome": "NIKE SHOX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
@@ -319,14 +295,6 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "RICK FARM'S": {
-    "idNumerico": "40",
-    "nome": "Rick Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:28|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T15:28:14.468Z"
-  },
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
@@ -334,6 +302,14 @@
     "disponivelEm": "20:23|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T18:23:43.868Z"
+  },
+  "RICK FARM'S": {
+    "idNumerico": "40",
+    "nome": "Rick Farm's",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:28|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T15:28:14.468Z"
   },
   "B13 :)": {
     "idNumerico": "23",
@@ -358,5 +334,29 @@
     "disponivelEm": "16:57|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T18:00:25.546Z"
+  },
+  "FAZENDA DO GALIN": {
+    "idNumerico": "15",
+    "nome": "Fazenda do Galin",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T15:39:04.991Z"
+  },
+  "30PRAUM": {
+    "idNumerico": "16",
+    "nome": "30PRAUM",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:19|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T18:38:31.398Z"
+  },
+  "TREMBALA": {
+    "idNumerico": "42",
+    "nome": "TremBala",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
   }
 }

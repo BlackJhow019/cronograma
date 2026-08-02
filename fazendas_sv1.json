@@ -43,9 +43,9 @@
     "idNumerico": "33",
     "nome": "Borrachas Farm",
     "status": "INDISPONIVEL",
-    "disponivelEm": "00:37|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T22:37:49.237Z"
+    "disponivelEm": "00:38|03/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T22:38:10.160Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
@@ -266,10 +266,10 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:41|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T17:01:48.667Z"
+    "roubadaEm": "2026-08-02T22:41:14.743Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",

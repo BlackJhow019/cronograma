@@ -167,14 +167,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T03:31:58.217Z"
   },
-  "TREMBALA": {
-    "idNumerico": "42",
-    "nome": "TremBala",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T05:43:40.500Z"
-  },
   "FARM DO GALO": {
     "idNumerico": "40",
     "nome": "FARM DO GALO",
@@ -335,28 +327,36 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T03:39:27.653Z"
   },
-  "FAMILIA ALMANAK": {
-    "idNumerico": "32",
-    "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:47|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T12:10:17.550Z"
-  },
-  "021": {
+  "FARM DA THATY": {
     "idNumerico": "1",
-    "nome": "021",
+    "nome": "Farm da Thaty",
     "status": "INDISPONIVEL",
     "disponivelEm": "10:23|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T12:02:52.511Z"
   },
-  "AZEROX": {
+  "B13 :)": {
     "idNumerico": "23",
-    "nome": "AzeRoX",
+    "nome": "B13 :)",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:36|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T10:36:56.033Z"
+  },
+  "MALVADA'S FARM": {
+    "idNumerico": "32",
+    "nome": "Malvada's Farm",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:47|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T12:10:17.550Z"
+  },
+  "NIKE SHOX": {
+    "idNumerico": "42",
+    "nome": "NIKE SHOX",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:12|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T12:12:30.241Z"
   }
 }

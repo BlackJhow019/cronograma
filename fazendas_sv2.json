@@ -239,14 +239,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T13:34:31.793Z"
   },
-  "FAZENDA REI DROGADO": {
-    "idNumerico": "31",
-    "nome": "Fazenda Rei Drogado",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T18:18:07.096Z"
-  },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
@@ -260,7 +252,7 @@
     "nome": "rico louco",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:41|02/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-02T13:41:43.686Z"
   },
   "WESKER_U$METRALHA": {
@@ -358,5 +350,13 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T04:52:29.146Z"
+  },
+  ".": {
+    "idNumerico": "31",
+    "nome": ".",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:44|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T13:44:58.009Z"
   }
 }

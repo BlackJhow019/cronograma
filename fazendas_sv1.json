@@ -66,8 +66,8 @@
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
     "nome": "VENDO 500km ACEITO TROCAS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:07|02/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T11:07:35.570Z"
   },
@@ -212,7 +212,7 @@
     "nome": "JAH RASTAFARI",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:31|02/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-02T15:31:36.637Z"
   },
   ".": {

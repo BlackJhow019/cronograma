@@ -84,7 +84,7 @@
     "nome": "Fazenda da Milly",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:54|02/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-02T16:54:08.109Z"
   },
   "HWD INVESTIMENTOS": {
@@ -278,6 +278,14 @@
     "disponivelEm": "18:21|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T16:21:32.849Z"
+  },
+  "RANCHO DO DOUTOR": {
+    "idNumerico": "14",
+    "nome": "Rancho do Doutor",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T11:51:57.645Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",

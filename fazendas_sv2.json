@@ -58,10 +58,10 @@
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
     "nome": "Vale das Sombras",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:47|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T14:37:36.197Z"
+    "roubadaEm": "2026-08-02T23:17:19.201Z"
   },
   "@FILH_ODOPAII": {
     "idNumerico": "12",
@@ -159,14 +159,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T18:21:57.975Z"
   },
-  "GRUPO RANTER": {
-    "idNumerico": "19",
-    "nome": "GRUPO RANTER",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:13|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T21:04:16.415Z"
-  },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
@@ -222,14 +214,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T19:14:15.671Z"
-  },
-  "FARM DA THATY": {
-    "idNumerico": "1",
-    "nome": "Farm da Thaty",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:54|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T21:54:22.675Z"
   },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
@@ -327,6 +311,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T20:46:34.933Z"
   },
+  "GRUPO RANTER": {
+    "idNumerico": "19",
+    "nome": "GRUPO RANTER",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:13|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T21:04:16.415Z"
+  },
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
@@ -358,5 +350,13 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T20:51:11.723Z"
+  },
+  "021": {
+    "idNumerico": "1",
+    "nome": "021",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:54|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T21:54:22.675Z"
   }
 }

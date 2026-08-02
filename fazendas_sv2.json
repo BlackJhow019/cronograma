@@ -3,9 +3,9 @@
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
     "status": "INDISPONIVEL",
-    "disponivelEm": "15:10|02/08/2026",
+    "disponivelEm": "15:11|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T13:10:56.069Z"
+    "roubadaEm": "2026-08-02T13:11:32.561Z"
   },
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
@@ -311,14 +311,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T13:05:00.947Z"
   },
-  "KODIAK": {
-    "idNumerico": "3",
-    "nome": "KodiaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:36|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T12:54:30.287Z"
-  },
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",
     "nome": "Fazendinha BeTreZe 2",
@@ -335,28 +327,36 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T13:04:39.035Z"
   },
-  "FAMILIA ALMANAK": {
-    "idNumerico": "32",
-    "nome": "Familia AlmanaK",
+  "$ COMPANY $R.RC_PLINIODMG $": {
+    "idNumerico": "3",
+    "nome": "$ Company $r.RC_PlinioDmG $",
     "status": "INDISPONIVEL",
-    "disponivelEm": "10:47|02/08/2026",
+    "disponivelEm": "11:36|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T12:10:17.550Z"
+    "roubadaEm": "2026-08-02T12:54:30.287Z"
   },
-  "021": {
+  "FARM DA THATY": {
     "idNumerico": "1",
-    "nome": "021",
+    "nome": "Farm da Thaty",
     "status": "INDISPONIVEL",
     "disponivelEm": "10:23|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T12:02:52.511Z"
   },
-  "AZEROX": {
+  "B13 :)": {
     "idNumerico": "23",
-    "nome": "AzeRoX",
+    "nome": "B13 :)",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:36|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T10:36:56.033Z"
+  },
+  "MALVADA'S FARM": {
+    "idNumerico": "32",
+    "nome": "Malvada's Farm",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:47|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T12:10:17.550Z"
   }
 }

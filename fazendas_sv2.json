@@ -95,22 +95,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T01:16:06.302Z"
   },
-  "RICO LOUCO": {
-    "idNumerico": "11",
-    "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T01:19:47.156Z"
-  },
-  "FARM'S DE CAFE": {
-    "idNumerico": "4",
-    "nome": "Farm's de Cafe",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:41|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T01:41:59.536Z"
-  },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
@@ -210,7 +194,7 @@
   "< GAUBRE LTDA >": {
     "idNumerico": "2",
     "nome": "< GAUBRE LTDA >",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T01:36:32.262Z"
@@ -335,6 +319,22 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T05:43:40.500Z"
   },
+  "FARM DO GALO": {
+    "idNumerico": "40",
+    "nome": "FARM DO GALO",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:36|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T06:36:53.312Z"
+  },
+  "ROCK FARM": {
+    "idNumerico": "11",
+    "nome": "RocK Farm",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T01:19:47.156Z"
+  },
   "JAH RASTAFARI": {
     "idNumerico": "39",
     "nome": "JAH RASTAFARI",
@@ -343,13 +343,13 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T04:46:57.643Z"
   },
-  "FARM DO GALO": {
-    "idNumerico": "40",
-    "nome": "FARM DO GALO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:36|02/08/2026",
+  "AMO O LOWER": {
+    "idNumerico": "2",
+    "nome": "Amo o Lower",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T06:36:53.312Z"
+    "roubadaEm": null
   },
   "FARM DO SAPATO": {
     "idNumerico": "9",

@@ -1,4 +1,12 @@
 {
+  "999": {
+    "idNumerico": "39",
+    "nome": "999",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:52|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T15:52:26.081Z"
+  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -134,6 +142,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
+  },
+  "FRANCA": {
+    "idNumerico": "28",
+    "nome": "FRANCA",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T13:21:05.503Z"
   },
   "ROUBO OFF": {
     "idNumerico": "7",
@@ -303,9 +319,25 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "AZEROX": {
+  "RICK FARM'S": {
+    "idNumerico": "40",
+    "nome": "Rick Farm's",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:28|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T15:28:14.468Z"
+  },
+  "LEK0ZIKA": {
+    "idNumerico": "35",
+    "nome": "Lek0zika",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:23|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T18:23:43.868Z"
+  },
+  "B13 :)": {
     "idNumerico": "23",
-    "nome": "AzeRoX",
+    "nome": "B13 :)",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:27|02/08/2026",
     "cofreConsertado": true,
@@ -326,29 +358,5 @@
     "disponivelEm": "16:57|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T18:00:25.546Z"
-  },
-  "JAH RASTAFARI": {
-    "idNumerico": "39",
-    "nome": "JAH RASTAFARI",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:52|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T15:52:26.081Z"
-  },
-  "RICK FARM'S": {
-    "idNumerico": "40",
-    "nome": "Rick Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:28|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T15:28:14.468Z"
-  },
-  "LEK0ZIKA": {
-    "idNumerico": "35",
-    "nome": "Lek0zika",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:23|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T18:23:43.868Z"
   }
 }

@@ -191,14 +191,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T05:31:01.161Z"
   },
-  "< GAUBRE LTDA >": {
-    "idNumerico": "2",
-    "nome": "< GAUBRE LTDA >",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T01:36:32.262Z"
-  },
   "021": {
     "idNumerico": "1",
     "nome": "021",
@@ -346,10 +338,10 @@
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:42|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-08-02T06:42:31.509Z"
   },
   "FARM DO SAPATO": {
     "idNumerico": "9",

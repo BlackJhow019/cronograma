@@ -116,7 +116,7 @@
     "nome": "Familia KuSh",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:59|03/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-02T22:59:48.536Z"
   },
   "DONA SEM RAZAO": {
@@ -158,14 +158,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T18:21:57.975Z"
-  },
-  "RICKW_WARRIOR": {
-    "idNumerico": "40",
-    "nome": "rickw_warrior",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T15:28:14.468Z"
   },
   "GRUPO RANTER": {
     "idNumerico": "19",
@@ -343,6 +335,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T20:50:04.070Z"
   },
+  "QUEM ROUBAR E PETISTA": {
+    "idNumerico": "44",
+    "nome": "Quem Roubar e Petista",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T20:46:34.933Z"
+  },
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
     "nome": "Farms de Galopisitas",
@@ -351,12 +351,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T20:51:11.723Z"
   },
-  "CHAMA A POLICIA": {
-    "idNumerico": "44",
-    "nome": "CHAMA A POLICIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+  "FARM DO GALO": {
+    "idNumerico": "40",
+    "nome": "FARM DO GALO",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:02|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T20:46:34.933Z"
+    "roubadaEm": "2026-08-02T23:02:46.084Z"
   }
 }

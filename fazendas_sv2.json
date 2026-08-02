@@ -187,7 +187,7 @@
     "idNumerico": "22",
     "nome": "Aura + Ego",
     "status": "INDISPONIVEL",
-    "disponivelEm": "06:52|02/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T04:52:29.146Z"
   },
@@ -226,10 +226,10 @@
   "@FILH_ODOPAII": {
     "idNumerico": "12",
     "nome": "@filh_odopaii",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:52|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T03:23:02.148Z"
+    "roubadaEm": "2026-08-02T09:52:52.394Z"
   },
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",

@@ -42,10 +42,10 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:41|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T17:01:48.123Z"
+    "roubadaEm": "2026-08-02T22:41:15.574Z"
   },
   "KODIAK": {
     "idNumerico": "3",
@@ -100,7 +100,7 @@
     "nome": "Borrachas Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:38|03/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-02T22:38:10.024Z"
   },
   "TA NO GRALI": {
@@ -311,6 +311,22 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T21:08:17.366Z"
   },
+  "AWAKE COMPANY": {
+    "idNumerico": "13",
+    "nome": "AwaKe Company",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:52|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T22:38:36.322Z"
+  },
+  "RAMONZIN_FRANCA": {
+    "idNumerico": "21",
+    "nome": "RAMONZIN_FRANCA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:53|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T19:53:11.123Z"
+  },
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
@@ -318,6 +334,14 @@
     "disponivelEm": "21:08|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T22:33:34.427Z"
+  },
+  "AMO O CREEPER_STAFF ><": {
+    "idNumerico": "20",
+    "nome": "amo o Creeper_Staff ><",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T20:51:11.723Z"
   },
   "JAH RASTAFARI": {
     "idNumerico": "39",
@@ -327,36 +351,12 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T20:50:04.070Z"
   },
-  "FARMS DE GALOPISITAS": {
-    "idNumerico": "20",
-    "nome": "Farms de Galopisitas",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T20:51:11.723Z"
-  },
-  "CHAMA A POLICIA": {
+  "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
-    "nome": "CHAMA A POLICIA",
+    "nome": "Quem Roubar e Petista",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T20:46:34.933Z"
-  },
-  "THUG LIFE": {
-    "idNumerico": "21",
-    "nome": "THUG LIFE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:53|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T19:53:11.123Z"
-  },
-  "AWAKE COMPANY": {
-    "idNumerico": "13",
-    "nome": "AwaKe Company",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:52|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T22:38:36.322Z"
   }
 }

@@ -151,14 +151,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T13:35:19.897Z"
   },
-  "JESUS IS THE WAY": {
-    "idNumerico": "12",
-    "nome": "Jesus is the way",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T12:24:23.452Z"
-  },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
@@ -279,6 +271,22 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T12:21:30.282Z"
   },
+  "RICK FARM'S": {
+    "idNumerico": "40",
+    "nome": "Rick Farm's",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:28|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T15:28:14.468Z"
+  },
+  "DEAD (:": {
+    "idNumerico": "27",
+    "nome": "Dead (:",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:26|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T12:26:06.800Z"
+  },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
@@ -343,20 +351,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T14:55:30.831Z"
   },
-  "HWD INVESTIMENTOS": {
-    "idNumerico": "27",
-    "nome": "hwd investimentos",
+  "@FILH_ODOPAII": {
+    "idNumerico": "12",
+    "nome": "@filh_odopaii",
     "status": "INDISPONIVEL",
-    "disponivelEm": "14:26|02/08/2026",
+    "disponivelEm": "17:34|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T12:26:06.800Z"
-  },
-  "FARM DO GALO": {
-    "idNumerico": "40",
-    "nome": "FARM DO GALO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:28|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T15:28:14.468Z"
+    "roubadaEm": "2026-08-02T15:34:06.356Z"
   }
 }

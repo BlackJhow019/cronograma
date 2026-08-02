@@ -175,30 +175,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T13:57:42.129Z"
   },
-  ".": {
-    "idNumerico": "31",
-    "nome": ".",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:45|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T13:45:20.641Z"
-  },
-  "GRUPO NEXUS": {
-    "idNumerico": "9",
-    "nome": "GRUPO NEXUS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T13:15:44.977Z"
-  },
-  "ROCK FARM": {
-    "idNumerico": "11",
-    "nome": "RocK Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:41|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T13:41:43.686Z"
-  },
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
@@ -311,6 +287,38 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T15:39:04.991Z"
   },
+  "FARM DO SAPATO": {
+    "idNumerico": "9",
+    "nome": "FARM DO SAPATO",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:27|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T18:46:50.497Z"
+  },
+  "AMO O LOWER": {
+    "idNumerico": "2",
+    "nome": "Amo o Lower",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:05|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T17:19:53.437Z"
+  },
+  "30PRAUM": {
+    "idNumerico": "16",
+    "nome": "30PRAUM",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:19|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T18:38:31.398Z"
+  },
+  "AZEROX": {
+    "idNumerico": "23",
+    "nome": "AzeRoX",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:27|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T18:21:57.975Z"
+  },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
@@ -334,29 +342,5 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
-  },
-  "< GAUBRE LTDA >": {
-    "idNumerico": "2",
-    "nome": "< GAUBRE LTDA >",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:05|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T17:19:53.437Z"
-  },
-  "B13 :)": {
-    "idNumerico": "23",
-    "nome": "B13 :)",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:27|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T18:21:57.975Z"
-  },
-  "YELLOWSTONE - BY MONSTER": {
-    "idNumerico": "16",
-    "nome": "YellowStone - By Monster",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:19|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T18:38:31.398Z"
   }
 }

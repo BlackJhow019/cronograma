@@ -39,14 +39,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-01T18:10:46.230Z"
   },
-  "VALE DAS SOMBRAS": {
-    "idNumerico": "24",
-    "nome": "Vale das Sombras",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:31|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T07:31:48.720Z"
-  },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
@@ -279,14 +271,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T04:46:57.643Z"
   },
-  "FARM DO SAPATO": {
-    "idNumerico": "9",
-    "nome": "FARM DO SAPATO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T04:17:36.021Z"
-  },
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
@@ -327,6 +311,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T06:56:17.744Z"
   },
+  "QUEM ROUBAR E PETISTA": {
+    "idNumerico": "44",
+    "nome": "Quem Roubar e Petista",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T09:12:20.791Z"
+  },
   "B13 :)": {
     "idNumerico": "23",
     "nome": "B13 :)",
@@ -343,12 +335,28 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T10:41:52.744Z"
   },
-  "YELLOWSTONE - BY MONSTER": {
+  "VENDO 500KM ACEITO TROCAS": {
+    "idNumerico": "24",
+    "nome": "VENDO 500km ACEITO TROCAS",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:41|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T11:06:36.164Z"
+  },
+  "30PRAUM": {
     "idNumerico": "16",
-    "nome": "YellowStone - By Monster",
+    "nome": "30PRAUM",
     "status": "INDISPONIVEL",
     "disponivelEm": "10:42|02/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T10:54:07.824Z"
+  },
+  "GRUPO NEXUS": {
+    "idNumerico": "9",
+    "nome": "GRUPO NEXUS",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T04:17:36.021Z"
   }
 }

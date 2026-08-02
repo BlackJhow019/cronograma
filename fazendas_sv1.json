@@ -140,8 +140,8 @@
     "nome": "Quem Roubar e Petista",
     "status": "INDISPONIVEL",
     "disponivelEm": "11:12|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T09:12:05.852Z"
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T09:12:21.149Z"
   },
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
@@ -250,9 +250,9 @@
   "GRUPO NEXUS": {
     "idNumerico": "9",
     "nome": "GRUPO NEXUS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:17|02/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-02T04:17:36.575Z"
   },
   "K1NG FARM'S": {
@@ -298,8 +298,8 @@
   "..OURO..PR3TO..": {
     "idNumerico": "5",
     "nome": "..OURO..PR3TO..",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:19|02/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T04:19:30.409Z"
   },

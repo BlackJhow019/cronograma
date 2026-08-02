@@ -154,10 +154,10 @@
   "FAZENDA DO GALIN": {
     "idNumerico": "15",
     "nome": "Fazenda do Galin",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:32|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T17:09:04.955Z"
+    "roubadaEm": "2026-08-02T06:32:00.330Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
@@ -327,6 +327,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T03:23:02.148Z"
   },
+  "RAMONZIN_FRANCA": {
+    "idNumerico": "21",
+    "nome": "RAMONZIN_FRANCA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:31|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T03:31:58.217Z"
+  },
   "JAH RASTAFARI": {
     "idNumerico": "39",
     "nome": "JAH RASTAFARI",
@@ -350,13 +358,5 @@
     "disponivelEm": "04:54|02/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T05:43:40.500Z"
-  },
-  "THUG LIFE": {
-    "idNumerico": "21",
-    "nome": "THUG LIFE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:31|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T03:31:58.217Z"
   }
 }

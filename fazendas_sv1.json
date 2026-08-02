@@ -42,10 +42,10 @@
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:48|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T22:37:29.963Z"
+    "roubadaEm": "2026-08-02T16:48:24.770Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
@@ -175,14 +175,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T12:32:52.124Z"
   },
-  "FAZENDINHA DO IGEZE": {
-    "idNumerico": "36",
-    "nome": "fazendinha do igeze",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:46|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T11:46:50.340Z"
-  },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
@@ -238,14 +230,6 @@
     "disponivelEm": "15:41|02/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T13:41:33.887Z"
-  },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:44|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T11:44:11.149Z"
   },
   "GRUPO NEXUS": {
     "idNumerico": "9",

@@ -226,9 +226,9 @@
   "@FILH_ODOPAII": {
     "idNumerico": "12",
     "nome": "@filh_odopaii",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:23|02/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-02T03:23:02.148Z"
   },
   "RAMONZIN_FRANCA": {
@@ -303,38 +303,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T08:05:08.129Z"
   },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:05|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T06:56:17.744Z"
-  },
-  "CLUBE DA LULUZINHA": {
-    "idNumerico": "8",
-    "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:34|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T07:32:56.763Z"
-  },
-  "SAO PEDRO 2": {
-    "idNumerico": "43",
-    "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:19|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T06:59:37.649Z"
-  },
-  "..OURO..PR3TO..": {
-    "idNumerico": "5",
-    "nome": "..OURO..PR3TO..",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:14|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T07:17:10.122Z"
-  },
   "JAH RASTAFARI": {
     "idNumerico": "39",
     "nome": "JAH RASTAFARI",
@@ -351,12 +319,44 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T04:17:36.021Z"
   },
-  "RANCHO DO DOUTOR": {
+  "FARM'S NAY E NICK": {
+    "idNumerico": "5",
+    "nome": "FARM'S NAY E NICK",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:14|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T07:17:10.122Z"
+  },
+  "LA FAMILIA CHIARADIA": {
+    "idNumerico": "43",
+    "nome": "LA FAMILIA CHIARADIA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:19|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T06:59:37.649Z"
+  },
+  "ROLINHA CANSADA FARMS": {
     "idNumerico": "14",
-    "nome": "Rancho do Doutor",
+    "nome": "Rolinha Cansada Farms",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:39|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T03:39:27.653Z"
+  },
+  "OS DE RACA": {
+    "idNumerico": "0",
+    "nome": "OS DE RACA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:05|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T06:56:17.744Z"
+  },
+  "CLUBE DA LULUZINHA": {
+    "idNumerico": "8",
+    "nome": "Clube da Luluzinha",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:34|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T07:32:56.763Z"
   }
 }

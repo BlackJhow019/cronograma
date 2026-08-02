@@ -247,14 +247,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T12:21:30.282Z"
   },
-  "THUG LIFE": {
-    "idNumerico": "21",
-    "nome": "THUG LIFE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:36|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T12:36:39.875Z"
-  },
   "JESUS IS THE WAY": {
     "idNumerico": "12",
     "nome": "Jesus is the way",
@@ -271,6 +263,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T13:21:54.870Z"
   },
+  "FARM DA THATY": {
+    "idNumerico": "1",
+    "nome": "Farm da Thaty",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
   "CHAMA A POLICIA": {
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
@@ -279,14 +279,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T13:25:59.613Z"
   },
-  "DM2 FARM": {
-    "idNumerico": "6",
-    "nome": "Dm2 Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:26|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T11:26:34.924Z"
-  },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
     "nome": "Wesker_u$MeTraLha",
@@ -294,14 +286,6 @@
     "disponivelEm": "15:21|02/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T13:21:05.503Z"
-  },
-  "KODIAK": {
-    "idNumerico": "3",
-    "nome": "KodiaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:36|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T12:54:30.287Z"
   },
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",
@@ -319,30 +303,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T13:04:39.035Z"
   },
-  "FAMILIA ALMANAK": {
-    "idNumerico": "32",
-    "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:47|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T12:10:17.550Z"
-  },
-  "021": {
-    "idNumerico": "1",
-    "nome": "021",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "AZEROX": {
-    "idNumerico": "23",
-    "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:36|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T10:36:56.033Z"
-  },
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
@@ -358,5 +318,45 @@
     "disponivelEm": "11:56|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T13:15:44.977Z"
+  },
+  "AMO A MAZZI": {
+    "idNumerico": "6",
+    "nome": "Amo a Mazzi",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:26|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T11:26:34.924Z"
+  },
+  "$ COMPANY $R.RC_PLINIODMG $": {
+    "idNumerico": "3",
+    "nome": "$ Company $r.RC_PlinioDmG $",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:36|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T12:54:30.287Z"
+  },
+  "B13 :)": {
+    "idNumerico": "23",
+    "nome": "B13 :)",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:36|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T10:36:56.033Z"
+  },
+  "MALVADA'S FARM": {
+    "idNumerico": "32",
+    "nome": "Malvada's Farm",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:47|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T12:10:17.550Z"
+  },
+  "RAMONZIN_FRANCA": {
+    "idNumerico": "21",
+    "nome": "RAMONZIN_FRANCA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:23|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T13:30:07.323Z"
   }
 }

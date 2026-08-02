@@ -15,6 +15,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-31T16:23:11.889Z"
   },
+  "QG FARM KHAOS": {
+    "idNumerico": "18",
+    "nome": "QG FARM KHAOS",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T16:12:54.137Z"
+  },
   "K1NG FARM'S": {
     "idNumerico": "25",
     "nome": "K1NG Farm's",
@@ -78,6 +86,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T13:21:05.503Z"
+  },
+  "ROUBO OFF": {
+    "idNumerico": "7",
+    "nome": "roubo off",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T16:20:47.859Z"
   },
   ".": {
     "idNumerico": "31",
@@ -271,6 +287,46 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T18:59:17.298Z"
   },
+  "DEAD (:": {
+    "idNumerico": "27",
+    "nome": "Dead (:",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:05|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T21:05:09.572Z"
+  },
+  "FARMS DE GALOPISITAS": {
+    "idNumerico": "20",
+    "nome": "Farms de Galopisitas",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:22|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T20:51:11.723Z"
+  },
+  "CHAMA A POLICIA": {
+    "idNumerico": "44",
+    "nome": "CHAMA A POLICIA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:23|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T20:46:34.933Z"
+  },
+  "..OURO..PR3TO..": {
+    "idNumerico": "5",
+    "nome": "..OURO..PR3TO..",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "RICO LOUCO": {
+    "idNumerico": "11",
+    "nome": "rico louco",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:08|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T21:08:31.524Z"
+  },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",
     "nome": "Succubus Farms",
@@ -302,45 +358,5 @@
     "disponivelEm": "20:06|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T20:03:25.978Z"
-  },
-  "FARM'S NAY E NICK": {
-    "idNumerico": "5",
-    "nome": "FARM'S NAY E NICK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "ROCK FARM": {
-    "idNumerico": "11",
-    "nome": "RocK Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:08|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T21:08:31.524Z"
-  },
-  "DEAD (:": {
-    "idNumerico": "27",
-    "nome": "Dead (:",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:05|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T21:05:09.572Z"
-  },
-  "QUEM ROUBAR E PETISTA": {
-    "idNumerico": "44",
-    "nome": "Quem Roubar e Petista",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:23|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T20:46:34.933Z"
-  },
-  "FARMS DE GALOPISITAS": {
-    "idNumerico": "20",
-    "nome": "Farms de Galopisitas",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:22|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T20:51:11.723Z"
   }
 }

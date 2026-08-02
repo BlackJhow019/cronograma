@@ -103,14 +103,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T13:45:20.641Z"
   },
-  "BORRACHAS FARM": {
-    "idNumerico": "33",
-    "nome": "Borrachas Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:48|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T16:48:25.608Z"
-  },
   "TA NO GRALI": {
     "idNumerico": "4",
     "nome": "ta no grali",
@@ -143,22 +135,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T18:00:25.546Z"
   },
-  "021": {
-    "idNumerico": "1",
-    "nome": "021",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T17:57:39.527Z"
-  },
-  "PREFEITO ROADBLOCK": {
-    "idNumerico": "41",
-    "nome": "Prefeito Roadblock",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:13|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T19:13:09.262Z"
-  },
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
@@ -166,14 +142,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T18:47:01.347Z"
-  },
-  "THUG LIFE": {
-    "idNumerico": "21",
-    "nome": "THUG LIFE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:53|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T19:53:11.123Z"
   },
   "NOREX FARM'S": {
     "idNumerico": "13",
@@ -231,14 +199,6 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "JAH RASTAFARI": {
-    "idNumerico": "39",
-    "nome": "JAH RASTAFARI",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:46|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T20:50:04.070Z"
-  },
   "GRUPO RANTER": {
     "idNumerico": "19",
     "nome": "GRUPO RANTER",
@@ -287,21 +247,21 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T15:39:04.991Z"
   },
-  "FARMS DE GALOPISITAS": {
-    "idNumerico": "20",
-    "nome": "Farms de Galopisitas",
+  "YELLOWSTONE - BY MONSTER": {
+    "idNumerico": "16",
+    "nome": "YellowStone - By Monster",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:14|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T21:39:34.066Z"
+  },
+  "AMO A MAZZI": {
+    "idNumerico": "6",
+    "nome": "Amo a Mazzi",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T20:51:11.723Z"
-  },
-  "CHAMA A POLICIA": {
-    "idNumerico": "44",
-    "nome": "CHAMA A POLICIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:23|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T20:46:34.933Z"
+    "roubadaEm": "2026-08-02T19:14:15.671Z"
   },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",
@@ -319,13 +279,21 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T13:52:56.715Z"
   },
-  "DM2 FARM": {
-    "idNumerico": "6",
-    "nome": "Dm2 Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+  "RAMONZIN_FRANCA": {
+    "idNumerico": "21",
+    "nome": "RAMONZIN_FRANCA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:53|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T19:14:15.671Z"
+    "roubadaEm": "2026-08-02T19:53:11.123Z"
+  },
+  "SE ROUBAR MORRE": {
+    "idNumerico": "41",
+    "nome": "SE ROUBAR MORRE",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:13|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T19:13:09.262Z"
   },
   "PENOSO FARM'S": {
     "idNumerico": "10",
@@ -351,12 +319,36 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T21:08:17.366Z"
   },
-  "YELLOWSTONE - BY MONSTER": {
-    "idNumerico": "16",
-    "nome": "YellowStone - By Monster",
+  "JAH RASTAFARI": {
+    "idNumerico": "39",
+    "nome": "JAH RASTAFARI",
     "status": "INDISPONIVEL",
-    "disponivelEm": "21:14|02/08/2026",
+    "disponivelEm": "22:46|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T20:50:04.070Z"
+  },
+  "QUEM ROUBAR E PETISTA": {
+    "idNumerico": "44",
+    "nome": "Quem Roubar e Petista",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:23|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T20:46:34.933Z"
+  },
+  "FARMS DE GALOPISITAS": {
+    "idNumerico": "20",
+    "nome": "Farms de Galopisitas",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T21:39:34.066Z"
+    "roubadaEm": "2026-08-02T20:51:11.723Z"
+  },
+  "FARM DA THATY": {
+    "idNumerico": "1",
+    "nome": "Farm da Thaty",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:51|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T21:51:01.505Z"
   }
 }

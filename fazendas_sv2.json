@@ -266,8 +266,8 @@
   "021": {
     "idNumerico": "1",
     "nome": "021",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:18|02/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T17:57:39.527Z"
   },
@@ -279,12 +279,36 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T18:38:31.398Z"
   },
+  "PREFEITO ROADBLOCK": {
+    "idNumerico": "41",
+    "nome": "Prefeito Roadblock",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:13|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T19:13:09.262Z"
+  },
+  "ARIANA_B13": {
+    "idNumerico": "10",
+    "nome": "Ariana_B13",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:02|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T16:33:41.413Z"
+  },
+  "FARM DO SAPATO": {
+    "idNumerico": "9",
+    "nome": "FARM DO SAPATO",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:27|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T18:47:01.347Z"
+  },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",
     "nome": "Succubus Farms",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:15|02/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-02T19:15:19.624Z"
   },
   "FAZENDINHA DO IGEZE": {
@@ -294,6 +318,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T13:52:56.715Z"
+  },
+  "DM2 FARM": {
+    "idNumerico": "6",
+    "nome": "Dm2 Farm",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:46|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T19:14:15.671Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",
@@ -326,37 +358,5 @@
     "disponivelEm": "16:27|02/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T18:21:57.975Z"
-  },
-  "GRUPO NEXUS": {
-    "idNumerico": "9",
-    "nome": "GRUPO NEXUS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:27|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T18:47:01.347Z"
-  },
-  "PENOSO FARM'S": {
-    "idNumerico": "10",
-    "nome": "Penoso Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:02|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T16:33:41.413Z"
-  },
-  "PREFEITO ROADBLOCK": {
-    "idNumerico": "41",
-    "nome": "Prefeito Roadblock",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:13|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T19:13:09.262Z"
-  },
-  "AMO A MAZZI": {
-    "idNumerico": "6",
-    "nome": "Amo a Mazzi",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:46|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T19:14:15.671Z"
   }
 }

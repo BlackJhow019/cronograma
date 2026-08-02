@@ -130,18 +130,10 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:26|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T11:26:34.924Z"
-  },
-  "ARIANA_B13": {
-    "idNumerico": "10",
-    "nome": "Ariana_B13",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T13:57:20.294Z"
+    "roubadaEm": "2026-08-02T11:26:34.924Z"
   },
   "FARM DO SAPATO": {
     "idNumerico": "9",
@@ -287,6 +279,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T16:20:47.859Z"
   },
+  "FAZENDA DO GALIN": {
+    "idNumerico": "15",
+    "nome": "Fazenda do Galin",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:56|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T15:39:04.991Z"
+  },
   "JAH RASTAFARI": {
     "idNumerico": "39",
     "nome": "JAH RASTAFARI",
@@ -302,6 +302,22 @@
     "disponivelEm": "17:28|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T15:28:14.468Z"
+  },
+  "QUEM ROUBAR E PETISTA": {
+    "idNumerico": "44",
+    "nome": "Quem Roubar e Petista",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:35|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T14:58:07.366Z"
+  },
+  "FARM'S DE CAFE": {
+    "idNumerico": "4",
+    "nome": "Farm's de Cafe",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:25|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T16:25:24.974Z"
   },
   "RICO LOUCO": {
     "idNumerico": "11",
@@ -335,28 +351,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T13:45:20.641Z"
   },
-  "CHAMA A POLICIA": {
-    "idNumerico": "44",
-    "nome": "CHAMA A POLICIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:35|02/08/2026",
+  "PENOSO FARM'S": {
+    "idNumerico": "10",
+    "nome": "Penoso Farm's",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T14:58:07.366Z"
-  },
-  "YT @GANDIA_RP": {
-    "idNumerico": "15",
-    "nome": "YT @GANDIA_RP",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:56|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T15:39:04.991Z"
-  },
-  "TA NO GRALI": {
-    "idNumerico": "4",
-    "nome": "ta no grali",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:25|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T16:25:24.974Z"
+    "roubadaEm": "2026-08-02T13:57:20.294Z"
   }
 }

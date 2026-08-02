@@ -148,7 +148,7 @@
     "nome": "Granja do iMonKeY",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:58|02/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-02T18:58:14.892Z"
   },
   "YT @GANDIA_RP": {
@@ -266,10 +266,10 @@
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:12|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T13:34:33.840Z"
+    "roubadaEm": "2026-08-02T19:12:55.235Z"
   },
   "ROUBO OFF": {
     "idNumerico": "7",

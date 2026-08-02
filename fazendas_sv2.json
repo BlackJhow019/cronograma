@@ -207,19 +207,11 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T05:31:01.161Z"
   },
-  "RICK FARM'S": {
-    "idNumerico": "40",
-    "nome": "Rick Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T00:43:03.617Z"
-  },
   "< GAUBRE LTDA >": {
     "idNumerico": "2",
     "nome": "< GAUBRE LTDA >",
     "status": "INDISPONIVEL",
-    "disponivelEm": "03:36|02/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T01:36:32.262Z"
   },
@@ -335,6 +327,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T03:31:58.217Z"
   },
+  "TREMBALA": {
+    "idNumerico": "42",
+    "nome": "TremBala",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:54|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T05:43:40.500Z"
+  },
   "JAH RASTAFARI": {
     "idNumerico": "39",
     "nome": "JAH RASTAFARI",
@@ -343,6 +343,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T04:46:57.643Z"
   },
+  "FARM DO GALO": {
+    "idNumerico": "40",
+    "nome": "FARM DO GALO",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:36|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T06:36:42.014Z"
+  },
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
@@ -350,13 +358,5 @@
     "disponivelEm": "06:17|02/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T04:17:36.021Z"
-  },
-  "NIKE SHOX": {
-    "idNumerico": "42",
-    "nome": "NIKE SHOX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:54|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T05:43:40.500Z"
   }
 }

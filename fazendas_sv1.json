@@ -116,7 +116,7 @@
     "nome": "Farm's de Cafe",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:45|02/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-02T14:45:44.837Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
@@ -138,10 +138,10 @@
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:58|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T09:12:05.711Z"
+    "roubadaEm": "2026-08-02T14:58:08.482Z"
   },
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",

@@ -127,14 +127,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T02:01:50.542Z"
   },
-  "LEK0ZIKA": {
-    "idNumerico": "35",
-    "nome": "Lek0zika",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:41|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T02:41:12.664Z"
-  },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
@@ -332,7 +324,7 @@
     "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:21|02/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-02T05:21:56.900Z"
   },
   "WESKER_U$METRALHA": {
@@ -358,5 +350,13 @@
     "disponivelEm": "06:44|02/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T04:44:36.663Z"
+  },
+  "FARME DO DRAKE": {
+    "idNumerico": "35",
+    "nome": "Farme do Drake",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:10|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T05:25:06.609Z"
   }
 }

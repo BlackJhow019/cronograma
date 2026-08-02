@@ -167,6 +167,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T01:44:20.191Z"
   },
+  "FARM DO GALO": {
+    "idNumerico": "40",
+    "nome": "FARM DO GALO",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T00:43:03.617Z"
+  },
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
@@ -279,6 +287,30 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T05:36:12.479Z"
   },
+  "K1NG FARM'S": {
+    "idNumerico": "25",
+    "nome": "K1NG Farm's",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:26|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T05:44:06.847Z"
+  },
+  "FARME DO DRAKE": {
+    "idNumerico": "35",
+    "nome": "Farme do Drake",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:11|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T05:25:16.716Z"
+  },
+  "POLEMICO$ INDUSTRI$": {
+    "idNumerico": "37",
+    "nome": "PoLeMiCo$ industri$",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:44|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T04:44:36.663Z"
+  },
   "JAH RASTAFARI": {
     "idNumerico": "39",
     "nome": "JAH RASTAFARI",
@@ -294,6 +326,14 @@
     "disponivelEm": "06:17|02/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T04:17:36.021Z"
+  },
+  "NIKE SHOX": {
+    "idNumerico": "42",
+    "nome": "NIKE SHOX",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:54|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T05:43:57.278Z"
   },
   "THUG LIFE": {
     "idNumerico": "21",
@@ -318,37 +358,5 @@
     "disponivelEm": "06:52|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T04:52:29.146Z"
-  },
-  "WELCOME > MELHOR FAZENDA DO BPS": {
-    "idNumerico": "37",
-    "nome": "WELCOME > MELHOR FAZENDA DO BPS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:44|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T04:44:36.663Z"
-  },
-  "LEK0ZIKA": {
-    "idNumerico": "35",
-    "nome": "Lek0zika",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:11|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T05:25:16.716Z"
-  },
-  "TREMBALA": {
-    "idNumerico": "42",
-    "nome": "TremBala",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:54|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T05:43:57.278Z"
-  },
-  "K1NG FARM'S": {
-    "idNumerico": "25",
-    "nome": "K1NG Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:26|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T05:44:06.847Z"
   }
 }

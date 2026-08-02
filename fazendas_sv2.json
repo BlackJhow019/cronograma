@@ -215,14 +215,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T10:54:07.824Z"
   },
-  "$ COMPANY $R.RC_PLINIODMG $": {
-    "idNumerico": "3",
-    "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:12|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T11:12:22.508Z"
-  },
   "TA NO GRALI": {
     "idNumerico": "4",
     "nome": "ta no grali",
@@ -358,5 +350,13 @@
     "disponivelEm": "11:55|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T12:24:23.452Z"
+  },
+  "KODIAK": {
+    "idNumerico": "3",
+    "nome": "KodiaK",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:36|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T12:54:17.117Z"
   }
 }

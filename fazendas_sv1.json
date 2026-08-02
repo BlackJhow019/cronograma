@@ -36,7 +36,7 @@
     "nome": "Lek0zika",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:21|02/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-02T12:21:31.288Z"
   },
   "BORRACHAS FARM": {
@@ -90,10 +90,10 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:25|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T02:26:19.451Z"
+    "roubadaEm": "2026-08-02T12:25:47.250Z"
   },
   "MONOPOLIO FARMS": {
     "idNumerico": "20",

@@ -90,8 +90,8 @@
   "@FILH_ODOPAII": {
     "idNumerico": "12",
     "nome": "@filh_odopaii",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:34|02/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T15:34:06.356Z"
   },
@@ -166,14 +166,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T12:26:06.800Z"
-  },
-  "RICK FARM'S": {
-    "idNumerico": "40",
-    "nome": "Rick Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T15:28:14.468Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
@@ -309,6 +301,14 @@
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T15:28:14.468Z"
+  },
+  "TREMBALA": {
+    "idNumerico": "42",
+    "nome": "TremBala",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": null
   },
   "SUCCUBUS FARMS": {
@@ -326,14 +326,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T13:52:56.715Z"
-  },
-  "TREMBALA": {
-    "idNumerico": "42",
-    "nome": "TremBala",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
   },
   "DM2 FARM": {
     "idNumerico": "6",

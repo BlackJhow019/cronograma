@@ -175,14 +175,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T18:53:38.751Z"
   },
-  "POLEMICO$ INDUSTRI$": {
-    "idNumerico": "37",
-    "nome": "PoLeMiCo$ industri$",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:18|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T16:18:11.254Z"
-  },
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
@@ -220,7 +212,7 @@
     "nome": "fazenda feliz",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:58|02/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-02T20:58:48.472Z"
   },
   "OS DE RACA": {
@@ -274,10 +266,10 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:20|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T13:00:49.246Z"
+    "roubadaEm": "2026-08-02T21:20:16.003Z"
   },
   "..OURO..PR3TO..": {
     "idNumerico": "5",

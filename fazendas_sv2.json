@@ -271,14 +271,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T08:03:42.602Z"
   },
-  "30PRAUM": {
-    "idNumerico": "16",
-    "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:05|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T08:05:08.129Z"
-  },
   "JAH RASTAFARI": {
     "idNumerico": "39",
     "nome": "JAH RASTAFARI",
@@ -358,5 +350,13 @@
     "disponivelEm": "12:41|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T10:41:52.744Z"
+  },
+  "YELLOWSTONE - BY MONSTER": {
+    "idNumerico": "16",
+    "nome": "YellowStone - By Monster",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:42|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T10:53:48.675Z"
   }
 }

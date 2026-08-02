@@ -178,10 +178,10 @@
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:46|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T02:08:19.705Z"
+    "roubadaEm": "2026-08-02T11:46:50.340Z"
   },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
@@ -316,7 +316,7 @@
     "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:40|02/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-02T11:41:42.223Z"
   },
   "THUG LIFE": {

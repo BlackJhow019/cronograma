@@ -119,14 +119,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-01T23:43:36.360Z"
   },
-  "KODIAK": {
-    "idNumerico": "3",
-    "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T05:11:32.299Z"
-  },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
@@ -343,14 +335,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T11:07:35.041Z"
   },
-  "30PRAUM": {
-    "idNumerico": "16",
-    "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:42|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T10:54:07.824Z"
-  },
   "GRUPO NEXUS": {
     "idNumerico": "9",
     "nome": "GRUPO NEXUS",
@@ -358,5 +342,21 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T04:17:36.021Z"
+  },
+  "YELLOWSTONE - BY MONSTER": {
+    "idNumerico": "16",
+    "nome": "YellowStone - By Monster",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:42|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T10:54:07.824Z"
+  },
+  "$ COMPANY $R.RC_PLINIODMG $": {
+    "idNumerico": "3",
+    "nome": "$ Company $r.RC_PlinioDmG $",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:12|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T11:12:10.012Z"
   }
 }

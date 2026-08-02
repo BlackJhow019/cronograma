@@ -146,10 +146,10 @@
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:41|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T17:19:53.437Z"
+    "roubadaEm": "2026-08-02T23:41:57.537Z"
   },
   "AZEROX": {
     "idNumerico": "23",
@@ -303,6 +303,46 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T20:51:11.723Z"
   },
+  "FARM'S NAY E NICK": {
+    "idNumerico": "5",
+    "nome": "FARM'S NAY E NICK",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:33|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T23:35:41.753Z"
+  },
+  "FARM DO GALO": {
+    "idNumerico": "40",
+    "nome": "FARM DO GALO",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:02|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T23:02:46.084Z"
+  },
+  "MALVADA'S FARM": {
+    "idNumerico": "32",
+    "nome": "Malvada's Farm",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T18:00:25.546Z"
+  },
+  "FARM DA THATY": {
+    "idNumerico": "1",
+    "nome": "Farm da Thaty",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:39|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T23:17:40.139Z"
+  },
+  "GRUPO RANTER": {
+    "idNumerico": "19",
+    "nome": "GRUPO RANTER",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:13|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T21:04:16.415Z"
+  },
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
@@ -318,45 +358,5 @@
     "disponivelEm": "22:46|02/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T20:50:04.070Z"
-  },
-  "RICKW_WARRIOR": {
-    "idNumerico": "40",
-    "nome": "rickw_warrior",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:02|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T23:02:46.084Z"
-  },
-  "021": {
-    "idNumerico": "1",
-    "nome": "021",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:39|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T23:17:40.139Z"
-  },
-  "FAZENDA DA MILLY": {
-    "idNumerico": "19",
-    "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:13|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T21:04:16.415Z"
-  },
-  "FARM'S NAY E NICK": {
-    "idNumerico": "5",
-    "nome": "FARM'S NAY E NICK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:33|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T23:35:41.753Z"
-  },
-  "FAMILIA ALMANAK": {
-    "idNumerico": "32",
-    "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T18:00:25.546Z"
   }
 }

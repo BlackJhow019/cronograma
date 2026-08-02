@@ -319,29 +319,13 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T10:36:56.033Z"
   },
-  "MALVADA'S FARM": {
-    "idNumerico": "32",
-    "nome": "Malvada's Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:47|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T12:10:17.550Z"
-  },
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
     "status": "INDISPONIVEL",
-    "disponivelEm": "11:55|02/08/2026",
+    "disponivelEm": "11:56|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T13:15:31.170Z"
-  },
-  "TREMBALA": {
-    "idNumerico": "42",
-    "nome": "TremBala",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:35|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T13:04:39.035Z"
+    "roubadaEm": "2026-08-02T13:15:44.977Z"
   },
   "KODIAK": {
     "idNumerico": "3",
@@ -358,5 +342,21 @@
     "disponivelEm": "14:59|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T12:59:44.534Z"
+  },
+  "NIKE SHOX": {
+    "idNumerico": "42",
+    "nome": "NIKE SHOX",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:35|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T13:04:39.035Z"
+  },
+  "FAMILIA ALMANAK": {
+    "idNumerico": "32",
+    "nome": "Familia AlmanaK",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:47|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T12:10:17.550Z"
   }
 }

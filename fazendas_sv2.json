@@ -1,12 +1,4 @@
 {
-  "999": {
-    "idNumerico": "39",
-    "nome": "999",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:46|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T04:46:57.643Z"
-  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -349,6 +341,14 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "07:05|02/08/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T06:56:04.593Z"
+    "roubadaEm": "2026-08-02T06:56:17.744Z"
+  },
+  "JAH RASTAFARI": {
+    "idNumerico": "39",
+    "nome": "JAH RASTAFARI",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:46|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T04:46:57.643Z"
   }
 }

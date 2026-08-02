@@ -1,12 +1,4 @@
 {
-  "999": {
-    "idNumerico": "39",
-    "nome": "999",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:52|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T15:52:26.081Z"
-  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -135,19 +127,19 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T13:52:56.715Z"
   },
-  "TREMBALA": {
-    "idNumerico": "42",
-    "nome": "TremBala",
+  "FARME DO DRAKE": {
+    "idNumerico": "35",
+    "nome": "Farme do Drake",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-08-02T12:21:30.282Z"
   },
   "DEAD (:": {
     "idNumerico": "27",
     "nome": "Dead (:",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:26|02/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T12:26:06.800Z"
   },
@@ -327,14 +319,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T16:53:54.574Z"
   },
-  "RICK FARM'S": {
-    "idNumerico": "40",
-    "nome": "Rick Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:28|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T15:28:14.468Z"
-  },
   "< GAUBRE LTDA >": {
     "idNumerico": "2",
     "nome": "< GAUBRE LTDA >",
@@ -343,12 +327,36 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T17:19:53.437Z"
   },
-  "TA NO GRALI": {
+  "JAH RASTAFARI": {
+    "idNumerico": "39",
+    "nome": "JAH RASTAFARI",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:52|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T15:52:26.081Z"
+  },
+  "RICK FARM'S": {
+    "idNumerico": "40",
+    "nome": "Rick Farm's",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:28|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T15:28:14.468Z"
+  },
+  "FARM'S DE CAFE": {
     "idNumerico": "4",
-    "nome": "ta no grali",
+    "nome": "Farm's de Cafe",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:25|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T16:25:24.974Z"
+  },
+  "NIKE SHOX": {
+    "idNumerico": "42",
+    "nome": "NIKE SHOX",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
   }
 }

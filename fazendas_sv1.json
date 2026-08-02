@@ -74,10 +74,10 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:30|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T23:56:29.622Z"
+    "roubadaEm": "2026-08-02T05:30:45.138Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
@@ -290,10 +290,10 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T22:29:37.707Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:21|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T05:21:57.011Z"
   },
   "..OURO..PR3TO..": {
     "idNumerico": "5",
@@ -308,8 +308,8 @@
     "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:18|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T05:18:10.333Z"
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T05:18:25.380Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",

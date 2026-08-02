@@ -1,4 +1,12 @@
 {
+  "999": {
+    "idNumerico": "39",
+    "nome": "999",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:52|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T15:52:26.081Z"
+  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -36,7 +44,7 @@
     "nome": "QG FARM KHAOS",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:12|02/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-02T16:12:54.137Z"
   },
   "RAFHA INVESTIMENTOS $": {
@@ -94,14 +102,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T11:27:27.134Z"
-  },
-  "/VENDERPRODUTOS": {
-    "idNumerico": "7",
-    "nome": "/VENDERPRODUTOS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:30|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T11:30:12.274Z"
   },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
@@ -174,14 +174,6 @@
     "disponivelEm": "13:38|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T11:38:51.508Z"
-  },
-  "FARM'S DE CAFE": {
-    "idNumerico": "4",
-    "nome": "Farm's de Cafe",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:17|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T11:17:58.946Z"
   },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
@@ -295,14 +287,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T13:21:05.503Z"
   },
-  "JAH RASTAFARI": {
-    "idNumerico": "39",
-    "nome": "JAH RASTAFARI",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:52|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T15:52:26.081Z"
-  },
   "RICK FARM'S": {
     "idNumerico": "40",
     "nome": "Rick Farm's",
@@ -318,14 +302,6 @@
     "disponivelEm": "15:41|02/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T13:41:43.686Z"
-  },
-  "30PRAUM": {
-    "idNumerico": "16",
-    "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:33|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T15:58:21.298Z"
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
@@ -358,5 +334,21 @@
     "disponivelEm": "14:56|02/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T15:39:04.991Z"
+  },
+  "ROUBO OFF": {
+    "idNumerico": "7",
+    "nome": "roubo off",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:11|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T16:20:47.859Z"
+  },
+  "YELLOWSTONE - BY MONSTER": {
+    "idNumerico": "16",
+    "nome": "YellowStone - By Monster",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:33|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T15:58:21.298Z"
   }
 }

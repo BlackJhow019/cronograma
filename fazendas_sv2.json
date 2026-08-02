@@ -87,14 +87,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T12:39:07.376Z"
   },
-  "AURA + EGO": {
-    "idNumerico": "22",
-    "nome": "Aura + Ego",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T04:52:29.146Z"
-  },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
@@ -269,7 +261,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "15:41|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T13:41:28.861Z"
+    "roubadaEm": "2026-08-02T13:41:43.686Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
@@ -358,5 +350,13 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
+  },
+  "FAZENDA FELIZ": {
+    "idNumerico": "22",
+    "nome": "fazenda feliz",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T04:52:29.146Z"
   }
 }

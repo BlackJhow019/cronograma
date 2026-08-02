@@ -42,10 +42,10 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:26|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T22:51:08.834Z"
+    "roubadaEm": "2026-08-02T12:26:06.800Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
@@ -324,7 +324,7 @@
     "nome": "Lek0zika",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:21|02/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-02T12:21:30.282Z"
   },
   "FARM DA THATY": {
@@ -351,9 +351,9 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T12:10:17.550Z"
   },
-  "JESUS IS THE WAY": {
+  "@FILH_ODOPAII": {
     "idNumerico": "12",
-    "nome": "Jesus is the way",
+    "nome": "@filh_odopaii",
     "status": "INDISPONIVEL",
     "disponivelEm": "11:55|02/08/2026",
     "cofreConsertado": false,

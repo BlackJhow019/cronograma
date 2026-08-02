@@ -35,9 +35,9 @@
     "idNumerico": "18",
     "nome": "QG FARM KHAOS",
     "status": "INDISPONIVEL",
-    "disponivelEm": "18:09|02/08/2026",
+    "disponivelEm": "18:11|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T16:09:41.847Z"
+    "roubadaEm": "2026-08-02T16:11:48.809Z"
   },
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
@@ -86,14 +86,6 @@
     "disponivelEm": "14:34|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T12:34:04.508Z"
-  },
-  "CLUBE DA LULUZINHA": {
-    "idNumerico": "8",
-    "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:10|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T11:27:27.134Z"
   },
   "/VENDERPRODUTOS": {
     "idNumerico": "7",
@@ -279,6 +271,22 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
+  "..OURO..PR3TO..": {
+    "idNumerico": "5",
+    "nome": "..OURO..PR3TO..",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "FRANCA": {
+    "idNumerico": "28",
+    "nome": "FRANCA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:21|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T13:21:05.503Z"
+  },
   "JAH RASTAFARI": {
     "idNumerico": "39",
     "nome": "JAH RASTAFARI",
@@ -294,14 +302,6 @@
     "disponivelEm": "17:28|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T15:28:14.468Z"
-  },
-  "..OURO..PR3TO..": {
-    "idNumerico": "5",
-    "nome": "..OURO..PR3TO..",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
   },
   "RICO LOUCO": {
     "idNumerico": "11",
@@ -350,13 +350,5 @@
     "disponivelEm": "14:56|02/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T15:39:04.991Z"
-  },
-  "FRANCA": {
-    "idNumerico": "28",
-    "nome": "FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:21|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T13:21:05.503Z"
   }
 }

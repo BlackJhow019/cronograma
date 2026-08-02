@@ -282,9 +282,9 @@
   "AWAKE COMPANY": {
     "idNumerico": "13",
     "nome": "AwaKe Company",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:39|02/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-02T12:39:07.376Z"
   },
   "PENOSO FARM'S": {
@@ -327,6 +327,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T17:19:53.437Z"
   },
+  "NIKE SHOX": {
+    "idNumerico": "42",
+    "nome": "NIKE SHOX",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
   "JAH RASTAFARI": {
     "idNumerico": "39",
     "nome": "JAH RASTAFARI",
@@ -350,13 +358,5 @@
     "disponivelEm": "18:25|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T16:25:24.974Z"
-  },
-  "NIKE SHOX": {
-    "idNumerico": "42",
-    "nome": "NIKE SHOX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
   }
 }

@@ -103,14 +103,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-31T18:17:20.786Z"
   },
-  "AZEROX": {
-    "idNumerico": "23",
-    "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:00|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T12:00:55.090Z"
-  },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
@@ -282,10 +274,10 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:01|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T11:51:57.645Z"
+    "roubadaEm": "2026-08-02T17:01:35.840Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",

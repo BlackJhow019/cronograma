@@ -135,14 +135,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T14:37:36.197Z"
   },
-  "GRUPO RANTER": {
-    "idNumerico": "19",
-    "nome": "GRUPO RANTER",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T11:38:51.508Z"
-  },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
@@ -319,6 +311,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T13:41:43.686Z"
   },
+  "BORRACHAS FARM": {
+    "idNumerico": "33",
+    "nome": "Borrachas Farm",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:48|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T16:48:25.608Z"
+  },
   "JAH RASTAFARI": {
     "idNumerico": "39",
     "nome": "JAH RASTAFARI",
@@ -351,12 +351,12 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T16:33:41.413Z"
   },
-  "BORRACHAS FARM": {
-    "idNumerico": "33",
-    "nome": "Borrachas Farm",
+  "FAZENDA DA MILLY": {
+    "idNumerico": "19",
+    "nome": "Fazenda da Milly",
     "status": "INDISPONIVEL",
-    "disponivelEm": "18:48|02/08/2026",
+    "disponivelEm": "18:53|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T16:48:25.608Z"
+    "roubadaEm": "2026-08-02T16:53:54.574Z"
   }
 }

@@ -1,4 +1,12 @@
 {
+  "999": {
+    "idNumerico": "39",
+    "nome": "999",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:46|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T04:46:57.643Z"
+  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -231,14 +239,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T04:44:36.663Z"
   },
-  "..OURO..PR3TO..": {
-    "idNumerico": "5",
-    "nome": "..OURO..PR3TO..",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:19|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T04:19:30.046Z"
-  },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
@@ -335,28 +335,28 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T04:17:36.021Z"
   },
-  "JESUS EA SOLUCAO": {
+  "OS DE RACA": {
     "idNumerico": "0",
-    "nome": "JESUS EA SOLUCAO",
+    "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:05|02/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T06:56:17.744Z"
   },
-  "JAH RASTAFARI": {
-    "idNumerico": "39",
-    "nome": "JAH RASTAFARI",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:46|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T04:46:57.643Z"
-  },
-  "LA FAMILIA CHIARADIA": {
+  "SAO PEDRO 2": {
     "idNumerico": "43",
-    "nome": "LA FAMILIA CHIARADIA",
+    "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:19|02/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T06:59:37.649Z"
+  },
+  "FARM'S NAY E NICK": {
+    "idNumerico": "5",
+    "nome": "FARM'S NAY E NICK",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:14|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T07:17:10.223Z"
   }
 }

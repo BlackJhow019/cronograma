@@ -191,14 +191,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T11:07:35.041Z"
   },
-  "GRUPO NEXUS": {
-    "idNumerico": "9",
-    "nome": "GRUPO NEXUS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:34|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T11:34:57.067Z"
-  },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
     "nome": "YellowStone - By Monster",
@@ -358,5 +350,13 @@
     "disponivelEm": "10:47|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T12:10:17.550Z"
+  },
+  "FARM DO SAPATO": {
+    "idNumerico": "9",
+    "nome": "FARM DO SAPATO",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:55|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T13:15:12.538Z"
   }
 }

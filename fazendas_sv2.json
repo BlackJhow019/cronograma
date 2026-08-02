@@ -194,8 +194,8 @@
   "FARME DO DRAKE": {
     "idNumerico": "35",
     "nome": "Farme do Drake",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:06|02/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T20:03:25.978Z"
   },
@@ -319,6 +319,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T19:53:11.123Z"
   },
+  "QUEM ROUBAR E PETISTA": {
+    "idNumerico": "44",
+    "nome": "Quem Roubar e Petista",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T20:46:34.933Z"
+  },
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
@@ -335,13 +343,13 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T20:50:04.070Z"
   },
-  "QUEM ROUBAR E PETISTA": {
-    "idNumerico": "44",
-    "nome": "Quem Roubar e Petista",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+  "RICKW_WARRIOR": {
+    "idNumerico": "40",
+    "nome": "rickw_warrior",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:02|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T20:46:34.933Z"
+    "roubadaEm": "2026-08-02T23:02:46.084Z"
   },
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
@@ -350,13 +358,5 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T20:51:11.723Z"
-  },
-  "FARM DO GALO": {
-    "idNumerico": "40",
-    "nome": "FARM DO GALO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:02|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T23:02:46.084Z"
   }
 }

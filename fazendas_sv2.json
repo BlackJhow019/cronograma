@@ -1,4 +1,12 @@
 {
+  "999": {
+    "idNumerico": "39",
+    "nome": "999",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:52|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T15:52:26.081Z"
+  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -319,14 +327,6 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "JAH RASTAFARI": {
-    "idNumerico": "39",
-    "nome": "JAH RASTAFARI",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:52|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T15:52:26.081Z"
-  },
   "RICK FARM'S": {
     "idNumerico": "40",
     "nome": "Rick Farm's",
@@ -335,28 +335,28 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T15:28:14.468Z"
   },
-  "FAMILIA ALMANAK": {
-    "idNumerico": "32",
-    "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:57|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T18:00:25.546Z"
-  },
-  "021": {
-    "idNumerico": "1",
-    "nome": "021",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:18|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T17:57:39.527Z"
-  },
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:26|02/08/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T18:21:16.823Z"
+    "roubadaEm": "2026-08-02T18:21:31.708Z"
+  },
+  "FARM DA THATY": {
+    "idNumerico": "1",
+    "nome": "Farm da Thaty",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:18|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T17:57:39.527Z"
+  },
+  "MALVADA'S FARM": {
+    "idNumerico": "32",
+    "nome": "Malvada's Farm",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:57|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T18:00:25.546Z"
   }
 }

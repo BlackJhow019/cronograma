@@ -139,7 +139,7 @@
     "idNumerico": "35",
     "nome": "Farme do Drake",
     "status": "INDISPONIVEL",
-    "disponivelEm": "14:21|02/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T12:21:30.282Z"
   },
@@ -158,6 +158,14 @@
     "disponivelEm": "17:34|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T15:34:06.356Z"
+  },
+  "YANINHA_ANTIFALSOS": {
+    "idNumerico": "34",
+    "nome": "yAninha_AntiFalsos",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T14:55:30.831Z"
   },
   "MALVADA'S FARM": {
     "idNumerico": "32",

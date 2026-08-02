@@ -34,10 +34,10 @@
   "QG FARM KHAOS": {
     "idNumerico": "18",
     "nome": "QG FARM KHAOS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:09|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T18:10:46.230Z"
+    "roubadaEm": "2026-08-02T16:09:24.825Z"
   },
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
@@ -202,9 +202,9 @@
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:59|02/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-02T13:52:56.715Z"
   },
   "TREMBALA": {
@@ -263,6 +263,22 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
+  "WORK INDUSTRIA'S LIMITED": {
+    "idNumerico": "38",
+    "nome": "Work Industria's Limited",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:59|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T12:59:44.534Z"
+  },
+  "RAMONZIN_FRANCA": {
+    "idNumerico": "21",
+    "nome": "RAMONZIN_FRANCA",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
   "JAH RASTAFARI": {
     "idNumerico": "39",
     "nome": "JAH RASTAFARI",
@@ -279,6 +295,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T15:28:14.468Z"
   },
+  "..OURO..PR3TO..": {
+    "idNumerico": "5",
+    "nome": "..OURO..PR3TO..",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
@@ -286,6 +310,14 @@
     "disponivelEm": "15:41|02/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T13:41:43.686Z"
+  },
+  "30PRAUM": {
+    "idNumerico": "16",
+    "nome": "30PRAUM",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:33|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T15:58:21.298Z"
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
@@ -319,44 +351,12 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T15:39:04.991Z"
   },
-  "WESKER_U$METRALHA": {
+  "FRANCA": {
     "idNumerico": "28",
-    "nome": "Wesker_u$MeTraLha",
+    "nome": "FRANCA",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:21|02/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T13:21:05.503Z"
-  },
-  "FARM'S NAY E NICK": {
-    "idNumerico": "5",
-    "nome": "FARM'S NAY E NICK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:00|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T13:02:47.593Z"
-  },
-  "THUG LIFE": {
-    "idNumerico": "21",
-    "nome": "THUG LIFE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": "38",
-    "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:59|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T12:59:44.534Z"
-  },
-  "YELLOWSTONE - BY MONSTER": {
-    "idNumerico": "16",
-    "nome": "YellowStone - By Monster",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:33|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T15:58:21.298Z"
   }
 }

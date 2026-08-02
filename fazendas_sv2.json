@@ -5,7 +5,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "15:10|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T13:10:41.371Z"
+    "roubadaEm": "2026-08-02T13:10:56.069Z"
   },
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
@@ -311,22 +311,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T13:05:00.947Z"
   },
-  "FARM DA THATY": {
-    "idNumerico": "1",
-    "nome": "Farm da Thaty",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:23|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T12:02:52.511Z"
-  },
-  "B13 :)": {
-    "idNumerico": "23",
-    "nome": "B13 :)",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:36|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T10:36:56.033Z"
-  },
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
@@ -358,5 +342,21 @@
     "disponivelEm": "10:47|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T12:10:17.550Z"
+  },
+  "021": {
+    "idNumerico": "1",
+    "nome": "021",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:23|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T12:02:52.511Z"
+  },
+  "AZEROX": {
+    "idNumerico": "23",
+    "nome": "AzeRoX",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:36|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T10:36:56.033Z"
   }
 }

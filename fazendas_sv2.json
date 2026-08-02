@@ -99,9 +99,9 @@
     "idNumerico": "6",
     "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
-    "disponivelEm": "20:40|02/08/2026",
+    "disponivelEm": "20:41|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T18:40:06.727Z"
+    "roubadaEm": "2026-08-02T18:41:35.535Z"
   },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
@@ -303,6 +303,46 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T15:28:14.468Z"
   },
+  "YT @GANDIA_RP": {
+    "idNumerico": "15",
+    "nome": "YT @GANDIA_RP",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T15:39:04.991Z"
+  },
+  "FAMILIA ALMANAK": {
+    "idNumerico": "32",
+    "nome": "Familia AlmanaK",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:57|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T18:00:25.546Z"
+  },
+  "021": {
+    "idNumerico": "1",
+    "nome": "021",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:18|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T17:57:39.527Z"
+  },
+  "NIKE SHOX": {
+    "idNumerico": "42",
+    "nome": "NIKE SHOX",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "< GAUBRE LTDA >": {
+    "idNumerico": "2",
+    "nome": "< GAUBRE LTDA >",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:05|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T17:19:53.437Z"
+  },
   "B13 :)": {
     "idNumerico": "23",
     "nome": "B13 :)",
@@ -311,52 +351,12 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T18:21:57.975Z"
   },
-  "FARM DA THATY": {
-    "idNumerico": "1",
-    "nome": "Farm da Thaty",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:18|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T17:57:39.527Z"
-  },
-  "MALVADA'S FARM": {
-    "idNumerico": "32",
-    "nome": "Malvada's Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:57|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T18:00:25.546Z"
-  },
-  "FAZENDA DO GALIN": {
-    "idNumerico": "15",
-    "nome": "Fazenda do Galin",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T15:39:04.991Z"
-  },
-  "30PRAUM": {
+  "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
-    "nome": "30PRAUM",
+    "nome": "YellowStone - By Monster",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:19|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T18:38:31.398Z"
-  },
-  "TREMBALA": {
-    "idNumerico": "42",
-    "nome": "TremBala",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "AMO O LOWER": {
-    "idNumerico": "2",
-    "nome": "Amo o Lower",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:05|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T17:19:53.437Z"
   }
 }

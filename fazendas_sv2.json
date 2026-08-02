@@ -79,14 +79,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-01T18:18:07.096Z"
   },
-  "FAZENDA DO GALIN": {
-    "idNumerico": "15",
-    "nome": "Fazenda do Galin",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:32|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T06:32:12.444Z"
-  },
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
@@ -298,10 +290,10 @@
   "GRUPO NEXUS": {
     "idNumerico": "9",
     "nome": "GRUPO NEXUS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:34|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T04:17:36.021Z"
+    "roubadaEm": "2026-08-02T11:34:45.213Z"
   },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",

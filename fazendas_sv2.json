@@ -2,10 +2,10 @@
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:16|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T13:11:32.561Z"
+    "roubadaEm": "2026-08-02T21:16:14.449Z"
   },
   "FAZENDA CUIUDA - BY GAZOLA": {
     "idNumerico": "17",
@@ -14,14 +14,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-31T16:23:11.889Z"
-  },
-  "QG FARM KHAOS": {
-    "idNumerico": "18",
-    "nome": "QG FARM KHAOS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:12|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T16:12:54.137Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",
@@ -86,14 +78,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T13:21:05.503Z"
-  },
-  "ROUBO OFF": {
-    "idNumerico": "7",
-    "nome": "roubo off",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:11|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T16:20:47.859Z"
   },
   ".": {
     "idNumerico": "31",
@@ -279,22 +263,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T21:04:16.415Z"
   },
-  "FARMS DE GALOPISITAS": {
-    "idNumerico": "20",
-    "nome": "Farms de Galopisitas",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:22|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T20:51:11.723Z"
-  },
-  "CHAMA A POLICIA": {
-    "idNumerico": "44",
-    "nome": "CHAMA A POLICIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:23|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T20:46:34.933Z"
-  },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
@@ -343,14 +311,6 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "HWD INVESTIMENTOS": {
-    "idNumerico": "27",
-    "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:05|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T21:05:09.572Z"
-  },
   "ROCK FARM": {
     "idNumerico": "11",
     "nome": "RocK Farm",
@@ -358,5 +318,29 @@
     "disponivelEm": "23:08|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T21:08:31.524Z"
+  },
+  "DEAD (:": {
+    "idNumerico": "27",
+    "nome": "Dead (:",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:05|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T21:05:09.572Z"
+  },
+  "QUEM ROUBAR E PETISTA": {
+    "idNumerico": "44",
+    "nome": "Quem Roubar e Petista",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:23|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T20:46:34.933Z"
+  },
+  "FARMS DE GALOPISITAS": {
+    "idNumerico": "20",
+    "nome": "Farms de Galopisitas",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:22|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T20:51:11.723Z"
   }
 }

@@ -231,14 +231,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T11:32:03.441Z"
   },
-  "SAO PEDRO 2": {
-    "idNumerico": "43",
-    "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T06:59:37.649Z"
-  },
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
@@ -332,16 +324,8 @@
     "nome": "YT @GANDIA_RP",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:21|02/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-02T13:21:54.870Z"
-  },
-  "FARM DA THATY": {
-    "idNumerico": "1",
-    "nome": "Farm da Thaty",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:23|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T12:02:52.511Z"
   },
   "B13 :)": {
     "idNumerico": "23",
@@ -358,5 +342,13 @@
     "disponivelEm": "10:47|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T12:10:17.550Z"
+  },
+  "LA FAMILIA CHIARADIA": {
+    "idNumerico": "43",
+    "nome": "LA FAMILIA CHIARADIA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:43|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T13:24:09.545Z"
   }
 }

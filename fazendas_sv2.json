@@ -143,14 +143,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-01T23:43:36.360Z"
   },
-  "PENOSO FARM'S": {
-    "idNumerico": "10",
-    "nome": "Penoso Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T13:55:36.201Z"
-  },
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
@@ -358,5 +350,13 @@
     "disponivelEm": "06:34|02/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T07:32:56.763Z"
+  },
+  "ARIANA_B13": {
+    "idNumerico": "10",
+    "nome": "Ariana_B13",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:03|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T08:03:43.790Z"
   }
 }

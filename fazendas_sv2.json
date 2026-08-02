@@ -167,14 +167,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T11:30:12.274Z"
   },
-  "PENOSO FARM'S": {
-    "idNumerico": "10",
-    "nome": "Penoso Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:00|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T11:32:03.441Z"
-  },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
@@ -214,14 +206,6 @@
     "disponivelEm": "15:25|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T13:25:59.613Z"
-  },
-  "PREFEITO ROADBLOCK": {
-    "idNumerico": "41",
-    "nome": "Prefeito Roadblock",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:34|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T13:34:31.793Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
@@ -263,6 +247,14 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
+  "30PRAUM": {
+    "idNumerico": "16",
+    "nome": "30PRAUM",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:16|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T13:35:19.897Z"
+  },
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",
     "nome": "Fazenda Rei Drogado",
@@ -302,6 +294,14 @@
     "disponivelEm": "11:35|02/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T13:04:39.035Z"
+  },
+  "FAZENDINHA DO IGEZE": {
+    "idNumerico": "36",
+    "nome": "fazendinha do igeze",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:59|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T13:52:56.873Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",
@@ -343,20 +343,20 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T12:54:30.287Z"
   },
-  "FAZENDA DO MIRIM": {
-    "idNumerico": "36",
-    "nome": "Fazenda Do MIRIM",
+  "ARIANA_B13": {
+    "idNumerico": "10",
+    "nome": "Ariana_B13",
     "status": "INDISPONIVEL",
-    "disponivelEm": "12:59|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T13:52:56.873Z"
-  },
-  "YELLOWSTONE - BY MONSTER": {
-    "idNumerico": "16",
-    "nome": "YellowStone - By Monster",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:16|02/08/2026",
+    "disponivelEm": "13:22|02/08/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T13:35:19.897Z"
+    "roubadaEm": "2026-08-02T13:57:20.383Z"
+  },
+  "SE ROUBAR MORRE": {
+    "idNumerico": "41",
+    "nome": "SE ROUBAR MORRE",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:34|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T13:34:31.793Z"
   }
 }

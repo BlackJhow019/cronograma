@@ -279,14 +279,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T12:21:30.282Z"
   },
-  "RICK FARM'S": {
-    "idNumerico": "40",
-    "nome": "Rick Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:27|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T15:27:28.582Z"
-  },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
@@ -358,5 +350,13 @@
     "disponivelEm": "14:26|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T12:26:06.800Z"
+  },
+  "FARM DO GALO": {
+    "idNumerico": "40",
+    "nome": "FARM DO GALO",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:27|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T15:27:51.095Z"
   }
 }

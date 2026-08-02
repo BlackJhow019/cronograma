@@ -74,8 +74,8 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:09|02/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T17:09:34.461Z"
   },
@@ -299,7 +299,7 @@
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
-    "disponivelEm": "19:12|02/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T17:13:58.314Z"
   },

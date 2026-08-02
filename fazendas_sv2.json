@@ -95,14 +95,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T04:52:29.146Z"
   },
-  "AZEROX": {
-    "idNumerico": "23",
-    "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T10:36:56.033Z"
-  },
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
@@ -358,5 +350,13 @@
     "disponivelEm": "19:14|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T17:14:15.630Z"
+  },
+  "B13 :)": {
+    "idNumerico": "23",
+    "nome": "B13 :)",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:15|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T17:15:53.082Z"
   }
 }

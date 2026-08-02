@@ -178,10 +178,10 @@
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:58|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T07:17:10.122Z"
+    "roubadaEm": "2026-08-02T13:00:44.456Z"
   },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
@@ -319,44 +319,44 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T12:24:23.452Z"
   },
-  "$ COMPANY $R.RC_PLINIODMG $": {
+  "KODIAK": {
     "idNumerico": "3",
-    "nome": "$ Company $r.RC_PlinioDmG $",
+    "nome": "KodiaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "11:36|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T12:54:30.287Z"
   },
-  "FARM DA THATY": {
-    "idNumerico": "1",
-    "nome": "Farm da Thaty",
+  "FAZENDINHA BETREZE 2": {
+    "idNumerico": "38",
+    "nome": "Fazendinha BeTreZe 2",
     "status": "INDISPONIVEL",
-    "disponivelEm": "10:23|02/08/2026",
+    "disponivelEm": "14:59|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T12:02:52.511Z"
+    "roubadaEm": "2026-08-02T12:59:44.534Z"
   },
-  "B13 :)": {
-    "idNumerico": "23",
-    "nome": "B13 :)",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:36|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T10:36:56.033Z"
-  },
-  "MALVADA'S FARM": {
+  "FAMILIA ALMANAK": {
     "idNumerico": "32",
-    "nome": "Malvada's Farm",
+    "nome": "Familia AlmanaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "10:47|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T12:10:17.550Z"
   },
-  "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": "38",
-    "nome": "Work Industria's Limited",
+  "021": {
+    "idNumerico": "1",
+    "nome": "021",
     "status": "INDISPONIVEL",
-    "disponivelEm": "14:59|02/08/2026",
+    "disponivelEm": "10:23|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T12:59:44.534Z"
+    "roubadaEm": "2026-08-02T12:02:52.511Z"
+  },
+  "AZEROX": {
+    "idNumerico": "23",
+    "nome": "AzeRoX",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:36|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T10:36:56.033Z"
   }
 }

@@ -82,8 +82,8 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:51|02/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T02:51:47.935Z"
   },
@@ -267,7 +267,7 @@
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
     "status": "INDISPONIVEL",
-    "disponivelEm": "04:54|02/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T02:54:34.942Z"
   },

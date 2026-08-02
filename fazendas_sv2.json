@@ -191,14 +191,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T12:26:06.800Z"
   },
-  "FARM'S NAY E NICK": {
-    "idNumerico": "5",
-    "nome": "FARM'S NAY E NICK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
@@ -279,6 +271,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T16:33:41.413Z"
   },
+  "FARM DO SAPATO": {
+    "idNumerico": "9",
+    "nome": "FARM DO SAPATO",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:27|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T18:47:01.347Z"
+  },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",
     "nome": "Succubus Farms",
@@ -298,10 +298,18 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:46|02/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T19:14:15.671Z"
+  },
+  "FARM'S NAY E NICK": {
+    "idNumerico": "5",
+    "nome": "FARM'S NAY E NICK",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
   },
   "OS DE RACA": {
     "idNumerico": "0",
@@ -335,6 +343,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T18:21:57.975Z"
   },
+  "SAO PEDRO 2": {
+    "idNumerico": "43",
+    "nome": "SAO PEDRO 2",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:00|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T19:38:39.443Z"
+  },
   "AWAKE COMPANY": {
     "idNumerico": "13",
     "nome": "AwaKe Company",
@@ -342,21 +358,5 @@
     "disponivelEm": "21:24|02/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T19:24:25.426Z"
-  },
-  "GRUPO NEXUS": {
-    "idNumerico": "9",
-    "nome": "GRUPO NEXUS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:27|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T18:47:01.347Z"
-  },
-  "LA FAMILIA CHIARADIA": {
-    "idNumerico": "43",
-    "nome": "LA FAMILIA CHIARADIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:00|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T19:38:39.443Z"
   }
 }

@@ -143,14 +143,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T04:44:36.663Z"
   },
-  "FAZENDA DO MIRIM": {
-    "idNumerico": "36",
-    "nome": "Fazenda Do MIRIM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T03:58:39.793Z"
-  },
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
@@ -199,30 +191,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T06:36:53.312Z"
   },
-  "ROCK FARM": {
-    "idNumerico": "11",
-    "nome": "RocK Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:43|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T06:43:04.176Z"
-  },
-  "AMO O LOWER": {
-    "idNumerico": "2",
-    "nome": "Amo o Lower",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:42|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T06:42:43.359Z"
-  },
-  "SE ROUBAR MORRE": {
-    "idNumerico": "41",
-    "nome": "SE ROUBAR MORRE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:45|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T06:45:25.524Z"
-  },
   "JAH RASTAFARI": {
     "idNumerico": "39",
     "nome": "JAH RASTAFARI",
@@ -239,14 +207,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T07:17:10.122Z"
   },
-  "LA FAMILIA CHIARADIA": {
-    "idNumerico": "43",
-    "nome": "LA FAMILIA CHIARADIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T06:59:37.649Z"
-  },
   "ROLINHA CANSADA FARMS": {
     "idNumerico": "14",
     "nome": "Rolinha Cansada Farms",
@@ -254,14 +214,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T03:39:27.653Z"
-  },
-  "JESUS EA SOLUCAO": {
-    "idNumerico": "0",
-    "nome": "JESUS EA SOLUCAO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T06:56:17.744Z"
   },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
@@ -358,5 +310,29 @@
     "disponivelEm": "12:00|02/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T11:32:03.441Z"
+  },
+  "SAO PEDRO 2": {
+    "idNumerico": "43",
+    "nome": "SAO PEDRO 2",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T06:59:37.649Z"
+  },
+  "OS DE RACA": {
+    "idNumerico": "0",
+    "nome": "OS DE RACA",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T06:56:17.744Z"
+  },
+  "FAZENDINHA DO IGEZE": {
+    "idNumerico": "36",
+    "nome": "fazendinha do igeze",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:46|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T11:46:49.729Z"
   }
 }

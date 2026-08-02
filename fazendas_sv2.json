@@ -1,12 +1,4 @@
 {
-  "999": {
-    "idNumerico": "39",
-    "nome": "999",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:52|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T15:52:26.081Z"
-  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -126,14 +118,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T04:52:29.146Z"
-  },
-  "30PRAUM": {
-    "idNumerico": "16",
-    "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:16|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T13:35:19.897Z"
   },
   "AZEROX": {
     "idNumerico": "23",
@@ -279,6 +263,14 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
+  "JAH RASTAFARI": {
+    "idNumerico": "39",
+    "nome": "JAH RASTAFARI",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:52|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T15:52:26.081Z"
+  },
   "RICK FARM'S": {
     "idNumerico": "40",
     "nome": "Rick Farm's",
@@ -351,12 +343,20 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "FAZENDINHA BETREZE 2": {
+  "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
-    "nome": "Fazendinha BeTreZe 2",
+    "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:59|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T12:59:44.534Z"
+  },
+  "YELLOWSTONE - BY MONSTER": {
+    "idNumerico": "16",
+    "nome": "YellowStone - By Monster",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:32|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T15:57:13.607Z"
   }
 }

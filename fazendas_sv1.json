@@ -151,21 +151,13 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T18:32:06.709Z"
   },
-  "021": {
-    "idNumerico": "1",
-    "nome": "021",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:57|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T17:57:40.094Z"
-  },
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:59|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T12:32:52.124Z"
+    "roubadaEm": "2026-08-02T22:59:31.705Z"
   },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
@@ -268,7 +260,7 @@
     "nome": "Rancho do Doutor",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:41|03/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-02T22:41:33.676Z"
   },
   "WORK INDUSTRIA'S LIMITED": {

@@ -167,14 +167,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T05:43:50.941Z"
   },
-  "FARME DO DRAKE": {
-    "idNumerico": "35",
-    "nome": "Farme do Drake",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:11|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T05:25:16.716Z"
-  },
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
@@ -279,14 +271,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T06:45:25.524Z"
   },
-  "CHAMA A POLICIA": {
-    "idNumerico": "44",
-    "nome": "CHAMA A POLICIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:30|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T07:30:25.019Z"
-  },
   "ARIANA_B13": {
     "idNumerico": "10",
     "nome": "Ariana_B13",
@@ -358,5 +342,13 @@
     "disponivelEm": "07:05|02/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T06:56:17.744Z"
+  },
+  "QUEM ROUBAR E PETISTA": {
+    "idNumerico": "44",
+    "nome": "Quem Roubar e Petista",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:53|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T09:12:05.094Z"
   }
 }

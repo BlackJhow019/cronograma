@@ -74,9 +74,9 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:18|02/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-02T05:18:25.128Z"
   },
   "MALVADA'S FARM": {
@@ -142,14 +142,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T05:11:32.299Z"
-  },
-  "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": "38",
-    "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:21|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T05:21:56.900Z"
   },
   "021": {
     "idNumerico": "1",

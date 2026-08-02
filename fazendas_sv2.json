@@ -247,14 +247,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T19:53:11.123Z"
   },
-  "CHAMA A POLICIA": {
-    "idNumerico": "44",
-    "nome": "CHAMA A POLICIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T14:58:07.366Z"
-  },
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
@@ -311,6 +303,38 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
+  "FARME DO DRAKE": {
+    "idNumerico": "35",
+    "nome": "Farme do Drake",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:06|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T20:03:25.978Z"
+  },
+  "..OURO..PR3TO..": {
+    "idNumerico": "5",
+    "nome": "..OURO..PR3TO..",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "QUEM ROUBAR E PETISTA": {
+    "idNumerico": "44",
+    "nome": "Quem Roubar e Petista",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:23|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T20:46:13.941Z"
+  },
+  "JESUS EA SOLUCAO": {
+    "idNumerico": "0",
+    "nome": "JESUS EA SOLUCAO",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:08|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T18:59:17.298Z"
+  },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",
     "nome": "Succubus Farms",
@@ -334,29 +358,5 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T19:14:15.671Z"
-  },
-  "LEK0ZIKA": {
-    "idNumerico": "35",
-    "nome": "Lek0zika",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:06|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T20:03:25.978Z"
-  },
-  "FARM'S NAY E NICK": {
-    "idNumerico": "5",
-    "nome": "FARM'S NAY E NICK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:08|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T18:59:17.298Z"
   }
 }

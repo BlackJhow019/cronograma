@@ -135,14 +135,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-01T17:36:41.279Z"
   },
-  "HWD INVESTIMENTOS": {
-    "idNumerico": "27",
-    "nome": "hwd investimentos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T12:26:06.800Z"
-  },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
@@ -358,5 +350,13 @@
     "disponivelEm": "22:13|02/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T21:04:16.415Z"
+  },
+  "DEAD (:": {
+    "idNumerico": "27",
+    "nome": "Dead (:",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:04|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T21:04:37.438Z"
   }
 }

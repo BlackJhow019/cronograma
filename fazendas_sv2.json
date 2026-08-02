@@ -2,10 +2,10 @@
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:10|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T22:26:26.230Z"
+    "roubadaEm": "2026-08-02T13:10:22.497Z"
   },
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
@@ -292,7 +292,7 @@
     "nome": "THUG LIFE",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:36|02/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-02T12:36:39.875Z"
   },
   "JESUS IS THE WAY": {
@@ -303,6 +303,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T12:24:23.452Z"
   },
+  "WESKER_U$METRALHA": {
+    "idNumerico": "28",
+    "nome": "Wesker_u$MeTraLha",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:05|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T13:05:00.947Z"
+  },
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",
     "nome": "Fazendinha BeTreZe 2",
@@ -310,6 +318,14 @@
     "disponivelEm": "14:59|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T12:59:44.534Z"
+  },
+  "NIKE SHOX": {
+    "idNumerico": "42",
+    "nome": "NIKE SHOX",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:35|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T13:04:39.035Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",
@@ -342,21 +358,5 @@
     "disponivelEm": "10:47|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T12:10:17.550Z"
-  },
-  "TREMBALA": {
-    "idNumerico": "42",
-    "nome": "TremBala",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:35|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T13:04:39.035Z"
-  },
-  "WESKER_U$METRALHA": {
-    "idNumerico": "28",
-    "nome": "Wesker_u$MeTraLha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:05|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T13:05:00.947Z"
   }
 }

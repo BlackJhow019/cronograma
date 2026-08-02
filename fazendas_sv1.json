@@ -178,10 +178,10 @@
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:53|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T11:46:50.340Z"
+    "roubadaEm": "2026-08-02T18:53:25.382Z"
   },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
@@ -308,7 +308,7 @@
     "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:49|02/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-02T18:49:14.754Z"
   },
   "SAO PEDRO 2": {

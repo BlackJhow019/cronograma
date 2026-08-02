@@ -114,8 +114,8 @@
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:41|02/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T01:41:48.354Z"
   },
@@ -222,14 +222,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-07-31T15:07:24.071Z"
-  },
-  "30PRAUM": {
-    "idNumerico": "16",
-    "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:44|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T01:44:20.934Z"
   },
   "FAZENDA FELIZ": {
     "idNumerico": "22",

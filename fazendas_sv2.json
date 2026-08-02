@@ -183,14 +183,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T19:13:09.262Z"
   },
-  "RICO LOUCO": {
-    "idNumerico": "11",
-    "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T13:41:43.686Z"
-  },
   "ARIANA_B13": {
     "idNumerico": "10",
     "nome": "Ariana_B13",
@@ -279,6 +271,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T20:50:04.070Z"
   },
+  "GRUPO RANTER": {
+    "idNumerico": "19",
+    "nome": "GRUPO RANTER",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:13|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T21:04:16.415Z"
+  },
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
     "nome": "Farms de Galopisitas",
@@ -294,6 +294,14 @@
     "disponivelEm": "19:23|02/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T20:46:34.933Z"
+  },
+  "JESUS EA SOLUCAO": {
+    "idNumerico": "0",
+    "nome": "JESUS EA SOLUCAO",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:08|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T18:59:17.298Z"
   },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",
@@ -335,28 +343,20 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:08|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T18:59:17.298Z"
-  },
-  "GRUPO RANTER": {
-    "idNumerico": "19",
-    "nome": "GRUPO RANTER",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:13|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T21:04:16.415Z"
-  },
-  "DEAD (:": {
+  "HWD INVESTIMENTOS": {
     "idNumerico": "27",
-    "nome": "Dead (:",
+    "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:05|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T21:05:09.572Z"
+  },
+  "ROCK FARM": {
+    "idNumerico": "11",
+    "nome": "RocK Farm",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:08|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T21:08:03.562Z"
   }
 }

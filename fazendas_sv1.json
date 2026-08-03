@@ -306,10 +306,10 @@
   "THUG LIFE": {
     "idNumerico": "21",
     "nome": "THUG LIFE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:27|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T00:55:21.207Z"
+    "roubadaEm": "2026-08-03T08:27:23.450Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
@@ -318,14 +318,6 @@
     "disponivelEm": "08:42|03/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T06:42:49.666Z"
-  },
-  "PENOSO FARM'S": {
-    "idNumerico": "10",
-    "nome": "Penoso Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:26|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T03:26:28.989Z"
   },
   "RICKW_WARRIOR": {
     "idNumerico": "40",

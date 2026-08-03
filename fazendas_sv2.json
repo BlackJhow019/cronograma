@@ -199,14 +199,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T01:36:10.404Z"
   },
-  "TREMBALA": {
-    "idNumerico": "42",
-    "nome": "TremBala",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T00:20:27.953Z"
-  },
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
     "nome": "Farma Da Familia Elite",
@@ -358,5 +350,13 @@
     "disponivelEm": "04:46|03/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T03:37:27.185Z"
+  },
+  "NIKE SHOX": {
+    "idNumerico": "42",
+    "nome": "NIKE SHOX",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:39|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T03:39:16.400Z"
   }
 }

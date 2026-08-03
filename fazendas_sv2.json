@@ -1,4 +1,12 @@
 {
+  "999": {
+    "idNumerico": "39",
+    "nome": "999",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:57|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T02:57:39.454Z"
+  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -311,14 +319,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T02:10:01.162Z"
   },
-  "JAH RASTAFARI": {
-    "idNumerico": "39",
-    "nome": "JAH RASTAFARI",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:57|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T02:57:39.454Z"
-  },
   "FAMILIA KYLES": {
     "idNumerico": "12",
     "nome": "Familia KyLeS",
@@ -343,20 +343,20 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T03:54:48.243Z"
   },
-  "PREFEITO ROADBLOCK": {
-    "idNumerico": "41",
-    "nome": "Prefeito Roadblock",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:14|03/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T03:42:37.953Z"
-  },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:29|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T03:55:37.110Z"
+    "roubadaEm": "2026-08-03T03:55:52.395Z"
+  },
+  "SE ROUBAR MORRE": {
+    "idNumerico": "41",
+    "nome": "SE ROUBAR MORRE",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:14|03/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-03T03:42:37.953Z"
   }
 }

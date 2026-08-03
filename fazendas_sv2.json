@@ -85,7 +85,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "02:36|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T00:36:09.565Z"
+    "roubadaEm": "2026-08-03T00:36:21.634Z"
   },
   "TA NO GRALI": {
     "idNumerico": "4",
@@ -311,22 +311,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T19:14:15.671Z"
   },
-  "FARMA DA FAMILIA ELITE": {
-    "idNumerico": "33",
-    "nome": "Farma Da Familia Elite",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:23|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T00:31:02.575Z"
-  },
-  "TREMBALA": {
-    "idNumerico": "42",
-    "nome": "TremBala",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:55|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T00:20:27.953Z"
-  },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
@@ -343,14 +327,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T00:04:24.099Z"
   },
-  "FAMILIA ALMANAK": {
-    "idNumerico": "32",
-    "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T18:00:25.546Z"
-  },
   "021": {
     "idNumerico": "1",
     "nome": "021",
@@ -358,5 +334,29 @@
     "disponivelEm": "21:39|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T23:17:40.139Z"
+  },
+  "BORRACHAS FARM": {
+    "idNumerico": "33",
+    "nome": "Borrachas Farm",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:23|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-03T00:31:02.575Z"
+  },
+  "NIKE SHOX": {
+    "idNumerico": "42",
+    "nome": "NIKE SHOX",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:55|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-03T00:20:27.953Z"
+  },
+  "MALVADA'S FARM": {
+    "idNumerico": "32",
+    "nome": "Malvada's Farm",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T18:00:25.546Z"
   }
 }

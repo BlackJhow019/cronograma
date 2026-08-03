@@ -111,14 +111,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T23:35:41.753Z"
   },
-  "FAZENDA DA MILLY": {
-    "idNumerico": "19",
-    "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T21:04:16.415Z"
-  },
   "/VENDERPRODUTOS": {
     "idNumerico": "7",
     "nome": "/VENDERPRODUTOS",
@@ -327,6 +319,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T02:12:42.554Z"
   },
+  "FAZENDINHA DO IGEZE": {
+    "idNumerico": "36",
+    "nome": "fazendinha do igeze",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T01:12:44.721Z"
+  },
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
@@ -351,12 +351,12 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T02:10:01.162Z"
   },
-  "FAZENDA DO MIRIM": {
-    "idNumerico": "36",
-    "nome": "Fazenda Do MIRIM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+  "GRUPO RANTER": {
+    "idNumerico": "19",
+    "nome": "GRUPO RANTER",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:46|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T01:12:44.721Z"
+    "roubadaEm": "2026-08-03T03:37:15.563Z"
   }
 }

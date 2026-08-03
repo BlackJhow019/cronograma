@@ -311,6 +311,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T18:12:27.545Z"
   },
+  "@FILH_ODOPAII": {
+    "idNumerico": "12",
+    "nome": "@filh_odopaii",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:37|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T20:30:54.033Z"
+  },
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
@@ -350,13 +358,5 @@
     "disponivelEm": "19:23|03/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T20:07:16.547Z"
-  },
-  "@FILH_ODOPAII": {
-    "idNumerico": "12",
-    "nome": "@filh_odopaii",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:37|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T20:30:54.114Z"
   }
 }

@@ -298,10 +298,10 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:48|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T09:05:37.473Z"
+    "roubadaEm": "2026-08-03T15:49:58.996Z"
   },
   "THUG LIFE": {
     "idNumerico": "21",
@@ -326,14 +326,6 @@
     "disponivelEm": "14:45|03/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T12:45:46.271Z"
-  },
-  "FAMILIA KYLES": {
-    "idNumerico": "12",
-    "nome": "Familia KyLeS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:49|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T10:49:02.672Z"
   },
   "RICK FARM'S": {
     "idNumerico": "40",

@@ -327,30 +327,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T08:30:03.795Z"
   },
-  "YELLOWSTONE - BY MONSTER": {
-    "idNumerico": "16",
-    "nome": "YellowStone - By Monster",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:53|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T06:19:57.131Z"
-  },
-  "GRUPO RANTER": {
-    "idNumerico": "19",
-    "nome": "GRUPO RANTER",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:28|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T07:02:52.846Z"
-  },
-  "CANNABIS": {
-    "idNumerico": "8",
-    "nome": "CANNABIS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:52|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T06:09:04.961Z"
-  },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
@@ -358,5 +334,29 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
+  },
+  "FAZENDA DA MILLY": {
+    "idNumerico": "19",
+    "nome": "Fazenda da Milly",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:28|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T07:02:52.846Z"
+  },
+  "30PRAUM": {
+    "idNumerico": "16",
+    "nome": "30PRAUM",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T06:19:57.131Z"
+  },
+  "CLUBE DA LULUZINHA": {
+    "idNumerico": "8",
+    "nome": "Clube da Luluzinha",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:52|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T06:09:04.961Z"
   }
 }

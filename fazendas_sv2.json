@@ -58,10 +58,10 @@
   "TA NO GRALI": {
     "idNumerico": "4",
     "nome": "ta no grali",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:27|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T16:25:24.974Z"
+    "roubadaEm": "2026-08-03T04:27:40.763Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
@@ -335,6 +335,14 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
+  "NOREX FARM'S": {
+    "idNumerico": "13",
+    "nome": "Norex farm's",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:27|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T04:13:10.720Z"
+  },
   "JAH RASTAFARI": {
     "idNumerico": "39",
     "nome": "JAH RASTAFARI",
@@ -350,13 +358,5 @@
     "disponivelEm": "04:12|03/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T02:12:42.554Z"
-  },
-  "AWAKE COMPANY": {
-    "idNumerico": "13",
-    "nome": "AwaKe Company",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:27|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T04:13:10.720Z"
   }
 }

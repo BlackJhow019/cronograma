@@ -63,14 +63,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T10:25:51.067Z"
   },
-  "WELCOME > MELHOR FAZENDA DO BPS": {
-    "idNumerico": "37",
-    "nome": "WELCOME > MELHOR FAZENDA DO BPS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T04:44:36.663Z"
-  },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",
     "nome": "Succubus Farms",
@@ -358,5 +350,13 @@
     "disponivelEm": "11:46|03/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T14:15:00.415Z"
+  },
+  "POLEMICO$ INDUSTRI$": {
+    "idNumerico": "37",
+    "nome": "PoLeMiCo$ industri$",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:38|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T14:38:46.288Z"
   }
 }

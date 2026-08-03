@@ -1,4 +1,12 @@
 {
+  "999": {
+    "idNumerico": "39",
+    "nome": "999",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:56|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T02:56:34.530Z"
+  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -255,14 +263,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T02:03:05.086Z"
   },
-  "JAH RASTAFARI": {
-    "idNumerico": "39",
-    "nome": "JAH RASTAFARI",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T20:50:04.070Z"
-  },
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
     "nome": "VENDO 500km ACEITO TROCAS",
@@ -287,6 +287,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T01:07:18.219Z"
   },
+  "RICKW_WARRIOR": {
+    "idNumerico": "40",
+    "nome": "rickw_warrior",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:42|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T02:53:19.308Z"
+  },
   "FAMILIA KYLES": {
     "idNumerico": "12",
     "nome": "Familia KyLeS",
@@ -294,6 +302,14 @@
     "disponivelEm": "04:12|03/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T02:12:42.554Z"
+  },
+  "LA FAMILIA CHIARADIA": {
+    "idNumerico": "43",
+    "nome": "LA FAMILIA CHIARADIA",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T19:38:39.443Z"
   },
   "RICO LOUCO": {
     "idNumerico": "11",
@@ -342,21 +358,5 @@
     "disponivelEm": "02:10|03/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T02:43:10.171Z"
-  },
-  "SAO PEDRO 2": {
-    "idNumerico": "43",
-    "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T19:38:39.443Z"
-  },
-  "RICKW_WARRIOR": {
-    "idNumerico": "40",
-    "nome": "rickw_warrior",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:42|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T02:53:19.308Z"
   }
 }

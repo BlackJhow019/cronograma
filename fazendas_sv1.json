@@ -263,14 +263,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T10:40:37.446Z"
   },
-  "RANCHO DO DOUTOR": {
-    "idNumerico": "14",
-    "nome": "Rancho do Doutor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:47|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T05:47:19.144Z"
-  },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
@@ -346,9 +338,9 @@
   "FAMILIA KYLES": {
     "idNumerico": "12",
     "nome": "Familia KyLeS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:48|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T02:07:17.834Z"
+    "roubadaEm": "2026-08-03T10:48:45.256Z"
   }
 }

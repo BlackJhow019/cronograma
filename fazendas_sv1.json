@@ -186,10 +186,10 @@
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:34|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T18:12:57.037Z"
+    "roubadaEm": "2026-08-03T23:34:29.605Z"
   },
   "JAH RASTAFARI": {
     "idNumerico": "39",
@@ -324,7 +324,7 @@
     "nome": "Penoso Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:21|04/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-03T23:21:32.988Z"
   },
   "FAMILIA KYLES": {

@@ -7,14 +7,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T19:30:55.488Z"
   },
-  "KODIAK": {
-    "idNumerico": "3",
-    "nome": "KodiaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:15|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T19:15:14.448Z"
-  },
   "NIKE SHOX": {
     "idNumerico": "42",
     "nome": "NIKE SHOX",
@@ -90,10 +82,10 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:16|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T12:26:06.301Z"
+    "roubadaEm": "2026-08-03T00:16:09.792Z"
   },
   "AZEROX": {
     "idNumerico": "23",
@@ -246,14 +238,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T05:43:51.157Z"
-  },
-  "PREFEITO ROADBLOCK": {
-    "idNumerico": "41",
-    "nome": "Prefeito Roadblock",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:13|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T19:13:09.485Z"
   },
   "ROUBO OFF": {
     "idNumerico": "7",

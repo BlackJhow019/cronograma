@@ -159,14 +159,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T20:46:34.933Z"
   },
-  "AMO O CREEPER_STAFF ><": {
-    "idNumerico": "20",
-    "nome": "amo o Creeper_Staff ><",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T20:51:11.723Z"
-  },
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
@@ -295,6 +287,30 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T00:46:04.270Z"
   },
+  "FAMILIA ALMANAK": {
+    "idNumerico": "32",
+    "nome": "Familia AlmanaK",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T18:00:25.546Z"
+  },
+  "THUG LIFE": {
+    "idNumerico": "21",
+    "nome": "THUG LIFE",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "FAZENDA DO MIRIM": {
+    "idNumerico": "36",
+    "nome": "Fazenda Do MIRIM",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:52|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T01:12:44.721Z"
+  },
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",
     "nome": "Fazenda Rei Drogado",
@@ -310,14 +326,6 @@
     "disponivelEm": "02:09|03/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T00:09:00.565Z"
-  },
-  "FAMILIA ALMANAK": {
-    "idNumerico": "32",
-    "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T18:00:25.546Z"
   },
   "AZEROX": {
     "idNumerico": "23",
@@ -343,20 +351,12 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T00:20:27.953Z"
   },
-  "RAMONZIN_FRANCA": {
-    "idNumerico": "21",
-    "nome": "RAMONZIN_FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "FAZENDINHA DO IGEZE": {
-    "idNumerico": "36",
-    "nome": "fazendinha do igeze",
+  "FARMS DE GALOPISITAS": {
+    "idNumerico": "20",
+    "nome": "Farms de Galopisitas",
     "status": "INDISPONIVEL",
-    "disponivelEm": "22:52|02/08/2026",
+    "disponivelEm": "03:23|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T01:12:44.721Z"
+    "roubadaEm": "2026-08-03T01:23:08.875Z"
   }
 }

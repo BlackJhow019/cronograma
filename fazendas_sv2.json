@@ -90,10 +90,10 @@
   "THUG LIFE": {
     "idNumerico": "21",
     "nome": "THUG LIFE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:10|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T15:01:19.049Z"
+    "roubadaEm": "2026-08-03T20:10:38.682Z"
   },
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
@@ -335,14 +335,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T18:58:04.066Z"
   },
-  "JESUS EA SOLUCAO": {
-    "idNumerico": "0",
-    "nome": "JESUS EA SOLUCAO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:21|03/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T18:12:27.545Z"
-  },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
     "nome": "YellowStone - By Monster",
@@ -357,6 +349,14 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "19:23|03/08/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T20:07:01.375Z"
+    "roubadaEm": "2026-08-03T20:07:16.547Z"
+  },
+  "OS DE RACA": {
+    "idNumerico": "0",
+    "nome": "OS DE RACA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:21|03/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-03T18:12:27.545Z"
   }
 }

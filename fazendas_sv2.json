@@ -162,16 +162,16 @@
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:15|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T10:32:30.171Z"
+    "roubadaEm": "2026-08-03T16:35:32.186Z"
   },
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:29|03/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T13:50:24.431Z"
   },

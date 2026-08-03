@@ -322,10 +322,10 @@
   "/VENDERPRODUTOS": {
     "idNumerico": "7",
     "nome": "/VENDERPRODUTOS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:11|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T16:20:47.859Z"
+    "roubadaEm": "2026-08-03T00:11:22.353Z"
   },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
@@ -343,17 +343,17 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T00:04:24.099Z"
   },
-  "FAMILIA ALMANAK": {
+  "MALVADA'S FARM": {
     "idNumerico": "32",
-    "nome": "Familia AlmanaK",
+    "nome": "Malvada's Farm",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T18:00:25.546Z"
   },
-  "021": {
+  "FARM DA THATY": {
     "idNumerico": "1",
-    "nome": "021",
+    "nome": "Farm da Thaty",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:39|02/08/2026",
     "cofreConsertado": false,

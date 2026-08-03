@@ -311,22 +311,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T03:25:10.427Z"
   },
-  "PENOSO FARM'S": {
-    "idNumerico": "10",
-    "nome": "Penoso Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:54|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T03:26:15.968Z"
-  },
-  "ROCK FARM": {
-    "idNumerico": "11",
-    "nome": "RocK Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:57|03/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T02:29:24.638Z"
-  },
   "JAH RASTAFARI": {
     "idNumerico": "39",
     "nome": "JAH RASTAFARI",
@@ -334,14 +318,6 @@
     "disponivelEm": "04:57|03/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T02:57:39.454Z"
-  },
-  "FARME DO DRAKE": {
-    "idNumerico": "35",
-    "nome": "Farme do Drake",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:49|03/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T02:10:01.162Z"
   },
   "FAMILIA KYLES": {
     "idNumerico": "12",
@@ -351,12 +327,36 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T02:12:42.554Z"
   },
-  "FAZENDINHA DO IGEZE": {
+  "RICO LOUCO": {
+    "idNumerico": "11",
+    "nome": "rico louco",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:57|03/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-03T02:29:24.638Z"
+  },
+  "LEK0ZIKA": {
+    "idNumerico": "35",
+    "nome": "Lek0zika",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:49|03/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-03T02:10:01.162Z"
+  },
+  "FAZENDA DO MIRIM": {
     "idNumerico": "36",
-    "nome": "fazendinha do igeze",
+    "nome": "Fazenda Do MIRIM",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T01:12:44.721Z"
+  },
+  "PENOSO FARM'S": {
+    "idNumerico": "10",
+    "nome": "Penoso Farm's",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:54|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T03:26:28.649Z"
   }
 }

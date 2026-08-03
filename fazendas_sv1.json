@@ -2,10 +2,10 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:59|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T13:51:33.246Z"
+    "roubadaEm": "2026-08-03T18:59:50.966Z"
   },
   "KODIAK": {
     "idNumerico": "3",
@@ -90,9 +90,9 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-03T13:54:33.246Z"
   },
   "AZEROX": {
@@ -230,14 +230,6 @@
     "disponivelEm": "19:21|03/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T17:21:02.981Z"
-  },
-  "GRUPO NEXUS": {
-    "idNumerico": "9",
-    "nome": "GRUPO NEXUS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:58|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T13:58:39.677Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",

@@ -47,14 +47,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T13:36:21.586Z"
   },
-  "KODIAK": {
-    "idNumerico": "3",
-    "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T12:20:07.808Z"
-  },
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
@@ -358,5 +350,13 @@
     "disponivelEm": "19:13|03/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T17:13:24.189Z"
+  },
+  "$ COMPANY $R.RC_PLINIODMG $": {
+    "idNumerico": "3",
+    "nome": "$ Company $r.RC_PlinioDmG $",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:14|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T17:14:19.900Z"
   }
 }

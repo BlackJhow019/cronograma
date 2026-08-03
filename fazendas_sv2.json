@@ -51,7 +51,7 @@
     "idNumerico": "27",
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
-    "disponivelEm": "19:18|03/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T19:06:48.783Z"
   },
@@ -175,19 +175,11 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "$ COMPANY $R.RC_PLINIODMG $": {
-    "idNumerico": "3",
-    "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:15|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T17:15:06.042Z"
-  },
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:13|03/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T17:13:24.189Z"
   },
@@ -303,6 +295,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T21:43:58.843Z"
   },
+  "021": {
+    "idNumerico": "1",
+    "nome": "021",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:09|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T22:09:01.609Z"
+  },
   "CHAPADO MY LOVE": {
     "idNumerico": "20",
     "nome": "ChaPaDo My Love",
@@ -350,13 +350,5 @@
     "disponivelEm": "21:23|03/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T21:46:04.612Z"
-  },
-  "FARM DA THATY": {
-    "idNumerico": "1",
-    "nome": "Farm da Thaty",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:09|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T22:09:01.609Z"
   }
 }

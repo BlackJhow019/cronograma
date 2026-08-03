@@ -223,14 +223,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T13:25:13.297Z"
   },
-  "30PRAUM": {
-    "idNumerico": "16",
-    "nome": "30PRAUM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T14:14:44.752Z"
-  },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
@@ -358,5 +350,13 @@
     "disponivelEm": "17:23|03/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T17:50:53.573Z"
+  },
+  "YELLOWSTONE - BY MONSTER": {
+    "idNumerico": "16",
+    "nome": "YellowStone - By Monster",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:43|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T18:07:59.567Z"
   }
 }

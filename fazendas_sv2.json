@@ -148,7 +148,7 @@
     "nome": "THUG LIFE",
     "status": "INDISPONIVEL",
     "disponivelEm": "10:27|03/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-03T08:27:49.728Z"
   },
   "FARMS DE GALOPISITAS": {
@@ -186,8 +186,8 @@
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
     "nome": "Rafha investimentos $",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:32|03/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T03:32:15.829Z"
   },
@@ -356,7 +356,7 @@
     "nome": "rico louco",
     "status": "INDISPONIVEL",
     "disponivelEm": "09:22|03/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-03T08:30:17.134Z"
   }
 }

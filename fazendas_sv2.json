@@ -207,14 +207,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T02:53:19.308Z"
   },
-  "CANNABIS": {
-    "idNumerico": "8",
-    "nome": "CANNABIS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T03:25:10.427Z"
-  },
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
     "nome": "Rafha investimentos $",
@@ -343,6 +335,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T05:58:09.779Z"
   },
+  "LEK0ZIKA": {
+    "idNumerico": "35",
+    "nome": "Lek0zika",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:03|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T06:03:41.837Z"
+  },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
@@ -351,12 +351,12 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "LEK0ZIKA": {
-    "idNumerico": "35",
-    "nome": "Lek0zika",
+  "CLUBE DA LULUZINHA": {
+    "idNumerico": "8",
+    "nome": "Clube da Luluzinha",
     "status": "INDISPONIVEL",
-    "disponivelEm": "08:03|03/08/2026",
+    "disponivelEm": "07:52|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T06:03:41.837Z"
+    "roubadaEm": "2026-08-03T06:09:05.050Z"
   }
 }

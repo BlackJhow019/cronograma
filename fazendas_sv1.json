@@ -211,9 +211,9 @@
     "idNumerico": "16",
     "nome": "30PRAUM",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:14|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T14:14:44.912Z"
+    "disponivelEm": "16:15|03/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-03T14:15:02.101Z"
   },
   "FAZENDA FELIZ": {
     "idNumerico": "22",
@@ -251,9 +251,9 @@
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:14|03/08/2026",
+    "disponivelEm": "16:15|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T14:14:59.961Z"
+    "roubadaEm": "2026-08-03T14:15:18.236Z"
   },
   "ROUBO OFF": {
     "idNumerico": "7",
@@ -290,10 +290,10 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:21|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T09:10:24.563Z"
+    "roubadaEm": "2026-08-03T14:21:01.608Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",

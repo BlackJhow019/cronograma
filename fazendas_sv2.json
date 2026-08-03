@@ -58,8 +58,8 @@
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:37|03/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T00:37:26.811Z"
   },
@@ -238,14 +238,6 @@
     "disponivelEm": "04:46|03/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T03:37:27.185Z"
-  },
-  "FAZENDA REI DROGADO": {
-    "idNumerico": "31",
-    "nome": "Fazenda Rei Drogado",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:39|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T00:39:50.988Z"
   },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",

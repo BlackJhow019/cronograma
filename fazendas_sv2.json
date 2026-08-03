@@ -295,37 +295,13 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T03:25:10.427Z"
   },
-  "FAZENDA DO MIRIM": {
-    "idNumerico": "36",
-    "nome": "Fazenda Do MIRIM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T01:12:44.721Z"
-  },
-  "PENOSO FARM'S": {
-    "idNumerico": "10",
-    "nome": "Penoso Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:54|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T03:26:28.649Z"
-  },
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
     "nome": "Rafha investimentos $",
     "status": "INDISPONIVEL",
-    "disponivelEm": "05:31|03/08/2026",
+    "disponivelEm": "05:32|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T03:31:29.053Z"
-  },
-  "ROCK FARM": {
-    "idNumerico": "11",
-    "nome": "RocK Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:57|03/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T02:29:24.638Z"
+    "roubadaEm": "2026-08-03T03:32:15.829Z"
   },
   "JAH RASTAFARI": {
     "idNumerico": "39",
@@ -335,14 +311,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T02:57:39.454Z"
   },
-  "FARME DO DRAKE": {
-    "idNumerico": "35",
-    "nome": "Farme do Drake",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:49|03/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T02:10:01.162Z"
-  },
   "FAMILIA KYLES": {
     "idNumerico": "12",
     "nome": "Familia KyLeS",
@@ -350,5 +318,37 @@
     "disponivelEm": "04:12|03/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T02:12:42.554Z"
+  },
+  "FAZENDINHA DO IGEZE": {
+    "idNumerico": "36",
+    "nome": "fazendinha do igeze",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T01:12:44.721Z"
+  },
+  "RICO LOUCO": {
+    "idNumerico": "11",
+    "nome": "rico louco",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:57|03/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-03T02:29:24.638Z"
+  },
+  "ARIANA_B13": {
+    "idNumerico": "10",
+    "nome": "Ariana_B13",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:54|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T03:26:28.649Z"
+  },
+  "LEK0ZIKA": {
+    "idNumerico": "35",
+    "nome": "Lek0zika",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:49|03/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-03T02:10:01.162Z"
   }
 }

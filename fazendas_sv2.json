@@ -155,9 +155,9 @@
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
     "status": "INDISPONIVEL",
-    "disponivelEm": "23:35|02/08/2026",
+    "disponivelEm": "23:37|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T00:29:35.393Z"
+    "roubadaEm": "2026-08-03T00:31:37.540Z"
   },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",
@@ -311,22 +311,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T19:14:15.671Z"
   },
-  "FARMA DA FAMILIA ELITE": {
-    "idNumerico": "33",
-    "nome": "Farma Da Familia Elite",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:23|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T00:31:02.575Z"
-  },
-  "TREMBALA": {
-    "idNumerico": "42",
-    "nome": "TremBala",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:55|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T00:20:27.953Z"
-  },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
@@ -335,28 +319,44 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T00:09:00.565Z"
   },
-  "YT @GANDIA_RP": {
-    "idNumerico": "15",
-    "nome": "YT @GANDIA_RP",
+  "BORRACHAS FARM": {
+    "idNumerico": "33",
+    "nome": "Borrachas Farm",
     "status": "INDISPONIVEL",
-    "disponivelEm": "02:04|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T00:04:24.099Z"
+    "disponivelEm": "23:23|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-03T00:31:02.575Z"
   },
-  "FAMILIA ALMANAK": {
+  "NIKE SHOX": {
+    "idNumerico": "42",
+    "nome": "NIKE SHOX",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:55|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-03T00:20:27.953Z"
+  },
+  "MALVADA'S FARM": {
     "idNumerico": "32",
-    "nome": "Familia AlmanaK",
+    "nome": "Malvada's Farm",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T18:00:25.546Z"
   },
-  "021": {
+  "FARM DA THATY": {
     "idNumerico": "1",
-    "nome": "021",
+    "nome": "Farm da Thaty",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:39|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T23:17:40.139Z"
+  },
+  "FAZENDA DO GALIN": {
+    "idNumerico": "15",
+    "nome": "Fazenda do Galin",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:04|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T00:04:24.099Z"
   }
 }

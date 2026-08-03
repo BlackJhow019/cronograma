@@ -244,7 +244,7 @@
     "nome": "K1NG Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:51|03/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-03T14:51:50.471Z"
   },
   "PREFEITO ROADBLOCK": {
@@ -284,7 +284,7 @@
     "nome": "..OURO..PR3TO..",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:46|03/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-03T14:46:54.637Z"
   },
   "DM2 FARM": {
@@ -306,10 +306,10 @@
   "THUG LIFE": {
     "idNumerico": "21",
     "nome": "THUG LIFE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:01|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T08:27:23.377Z"
+    "roubadaEm": "2026-08-03T15:01:17.936Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",

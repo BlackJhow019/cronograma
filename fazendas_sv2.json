@@ -71,14 +71,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T04:44:36.663Z"
   },
-  "AMO O LOWER": {
-    "idNumerico": "2",
-    "nome": "Amo o Lower",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T23:43:00.282Z"
-  },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",
     "nome": "Succubus Farms",
@@ -124,7 +116,7 @@
     "nome": "Familia AlmanaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "10:49|03/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-03T11:52:42.948Z"
   },
   "THUG LIFE": {
@@ -252,7 +244,7 @@
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:49|03/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-03T11:49:51.557Z"
   },
   "SAO PEDRO 2": {
@@ -358,5 +350,13 @@
     "disponivelEm": "13:06|03/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T11:06:44.378Z"
+  },
+  "< GAUBRE LTDA >": {
+    "idNumerico": "2",
+    "nome": "< GAUBRE LTDA >",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:00|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T12:14:11.385Z"
   }
 }

@@ -43,9 +43,9 @@
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
     "status": "INDISPONIVEL",
-    "disponivelEm": "20:50|03/08/2026",
+    "disponivelEm": "20:51|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T18:50:48.345Z"
+    "roubadaEm": "2026-08-03T18:51:02.551Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
@@ -327,14 +327,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T18:42:46.931Z"
   },
-  "FAZENDA FELIZ": {
-    "idNumerico": "22",
-    "nome": "fazenda feliz",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:08|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T17:40:52.222Z"
-  },
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
@@ -351,9 +343,17 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T16:52:29.985Z"
   },
-  "JESUS EA SOLUCAO": {
+  "AURA + EGO": {
+    "idNumerico": "22",
+    "nome": "Aura + Ego",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:08|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T17:40:52.222Z"
+  },
+  "OS DE RACA": {
     "idNumerico": "0",
-    "nome": "JESUS EA SOLUCAO",
+    "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:21|03/08/2026",
     "cofreConsertado": true,

@@ -159,14 +159,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T16:52:29.985Z"
   },
-  "LEK0ZIKA": {
-    "idNumerico": "35",
-    "nome": "Lek0zika",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:49|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T12:49:33.648Z"
-  },
   "GRUPO NEXUS": {
     "idNumerico": "9",
     "nome": "GRUPO NEXUS",
@@ -198,14 +190,6 @@
     "disponivelEm": "17:50|03/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T15:50:13.270Z"
-  },
-  "YT @GANDIA_RP": {
-    "idNumerico": "15",
-    "nome": "YT @GANDIA_RP",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:05|03/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T15:05:59.616Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
@@ -358,5 +342,13 @@
     "disponivelEm": "16:08|03/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T17:40:52.222Z"
+  },
+  "FAZENDA DO GALIN": {
+    "idNumerico": "15",
+    "nome": "Fazenda do Galin",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:22|03/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-03T17:50:07.920Z"
   }
 }

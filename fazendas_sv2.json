@@ -103,14 +103,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T19:42:35.263Z"
   },
-  "LEK0ZIKA": {
-    "idNumerico": "35",
-    "nome": "Lek0zika",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:18|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T19:18:10.234Z"
-  },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
@@ -327,14 +319,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T21:03:02.982Z"
   },
-  "TREMBALA": {
-    "idNumerico": "42",
-    "nome": "TremBala",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:45|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T19:41:16.205Z"
-  },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
@@ -358,5 +342,13 @@
     "disponivelEm": "20:55|03/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T21:32:42.900Z"
+  },
+  "FARME DO DRAKE": {
+    "idNumerico": "35",
+    "nome": "Farme do Drake",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:23|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T21:46:04.612Z"
   }
 }

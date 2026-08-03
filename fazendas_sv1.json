@@ -99,7 +99,7 @@
     "idNumerico": "23",
     "nome": "AzeRoX",
     "status": "INDISPONIVEL",
-    "disponivelEm": "15:50|03/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T13:50:23.970Z"
   },
@@ -266,10 +266,10 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:51|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T13:36:20.158Z"
+    "roubadaEm": "2026-08-03T18:51:01.681Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",

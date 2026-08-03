@@ -138,10 +138,10 @@
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:44|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T18:58:14.892Z"
+    "roubadaEm": "2026-08-03T14:44:15.513Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
@@ -180,8 +180,8 @@
     "nome": "PoLeMiCo$ industri$",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:39|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T14:39:29.390Z"
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-03T14:39:51.944Z"
   },
   "NOREX FARM'S": {
     "idNumerico": "13",

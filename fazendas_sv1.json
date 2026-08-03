@@ -26,18 +26,18 @@
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
     "nome": "Rafha investimentos $",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:58|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T03:32:16.105Z"
+    "roubadaEm": "2026-08-03T12:58:17.365Z"
   },
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:49|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T06:03:27.483Z"
+    "roubadaEm": "2026-08-03T12:49:33.940Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -324,8 +324,8 @@
     "nome": "Penoso Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:45|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T12:45:30.725Z"
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-03T12:45:46.271Z"
   },
   "AMO O CREEPER_STAFF ><": {
     "idNumerico": "20",
@@ -346,8 +346,8 @@
   "RICK FARM'S": {
     "idNumerico": "40",
     "nome": "Rick Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:49|03/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T11:05:51.820Z"
   }

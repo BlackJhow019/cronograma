@@ -90,9 +90,9 @@
   "THUG LIFE": {
     "idNumerico": "21",
     "nome": "THUG LIFE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:01|03/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-03T15:01:19.049Z"
   },
   "VENDO 500KM ACEITO TROCAS": {
@@ -319,6 +319,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T19:41:16.205Z"
   },
+  "FARMA DA FAMILIA ELITE": {
+    "idNumerico": "33",
+    "nome": "Farma Da Familia Elite",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:52|03/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-03T16:52:29.985Z"
+  },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
@@ -350,13 +358,5 @@
     "disponivelEm": "18:21|03/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T18:12:27.545Z"
-  },
-  "BORRACHAS FARM": {
-    "idNumerico": "33",
-    "nome": "Borrachas Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:52|03/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T16:52:29.985Z"
   }
 }

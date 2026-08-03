@@ -10,10 +10,10 @@
   "FAZENDA CUIUDA - BY GAZOLA": {
     "idNumerico": "17",
     "nome": "Fazenda Cuiuda - By GAZOLA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:06|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-07-31T16:23:11.889Z"
+    "roubadaEm": "2026-08-03T04:06:21.393Z"
   },
   "QG FARM KHAOS": {
     "idNumerico": "18",
@@ -335,6 +335,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T03:42:37.953Z"
   },
+  "ROCK FARM": {
+    "idNumerico": "11",
+    "nome": "RocK Farm",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T02:29:24.638Z"
+  },
   "JAH RASTAFARI": {
     "idNumerico": "39",
     "nome": "JAH RASTAFARI",
@@ -350,13 +358,5 @@
     "disponivelEm": "04:12|03/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T02:12:42.554Z"
-  },
-  "RICO LOUCO": {
-    "idNumerico": "11",
-    "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T02:29:24.638Z"
   }
 }

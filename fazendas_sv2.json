@@ -180,7 +180,7 @@
     "nome": "Borrachas Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:52|03/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-03T16:52:29.985Z"
   },
   "LEK0ZIKA": {
@@ -314,9 +314,9 @@
   "< GAUBRE LTDA >": {
     "idNumerico": "2",
     "nome": "< GAUBRE LTDA >",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:00|03/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-03T12:14:24.981Z"
   },
   "CHAPADO MY LOVE": {

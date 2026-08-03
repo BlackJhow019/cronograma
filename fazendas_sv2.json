@@ -74,9 +74,9 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:16|03/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-03T19:42:35.263Z"
   },
   "QUEM ROUBAR E PETISTA": {
@@ -234,8 +234,8 @@
   "AWAKE COMPANY": {
     "idNumerico": "13",
     "nome": "AwaKe Company",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:12|03/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T18:12:56.523Z"
   },
@@ -266,9 +266,9 @@
   "..OURO..PR3TO..": {
     "idNumerico": "5",
     "nome": "..OURO..PR3TO..",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:14|03/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-03T21:03:02.982Z"
   },
   "FAZENDINHA DO IGEZE": {
@@ -319,6 +319,14 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
+  "RAMONZIN_FRANCA": {
+    "idNumerico": "21",
+    "nome": "RAMONZIN_FRANCA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:10|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T20:10:53.801Z"
+  },
   "021": {
     "idNumerico": "1",
     "nome": "021",
@@ -350,13 +358,5 @@
     "disponivelEm": "20:55|03/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T21:32:42.900Z"
-  },
-  "THUG LIFE": {
-    "idNumerico": "21",
-    "nome": "THUG LIFE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:10|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T20:10:53.801Z"
   }
 }

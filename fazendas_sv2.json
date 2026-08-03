@@ -83,9 +83,9 @@
     "idNumerico": "28",
     "nome": "FRANCA",
     "status": "INDISPONIVEL",
-    "disponivelEm": "02:36|03/08/2026",
+    "disponivelEm": "02:37|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T00:36:21.634Z"
+    "roubadaEm": "2026-08-03T00:37:26.811Z"
   },
   "TA NO GRALI": {
     "idNumerico": "4",
@@ -327,14 +327,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T00:04:24.099Z"
   },
-  "021": {
-    "idNumerico": "1",
-    "nome": "021",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:39|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T23:17:40.139Z"
-  },
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
@@ -358,5 +350,13 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T18:00:25.546Z"
+  },
+  "FARM DA THATY": {
+    "idNumerico": "1",
+    "nome": "Farm da Thaty",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:39|02/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T23:17:40.139Z"
   }
 }

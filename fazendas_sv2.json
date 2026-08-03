@@ -255,14 +255,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T02:29:24.638Z"
   },
-  "LA FAMILIA CHIARADIA": {
-    "idNumerico": "43",
-    "nome": "LA FAMILIA CHIARADIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T19:38:39.443Z"
-  },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
@@ -358,5 +350,13 @@
     "disponivelEm": "05:53|03/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T06:19:57.131Z"
+  },
+  "SAO PEDRO 2": {
+    "idNumerico": "43",
+    "nome": "SAO PEDRO 2",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:48|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T06:48:13.461Z"
   }
 }

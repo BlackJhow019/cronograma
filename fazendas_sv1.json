@@ -154,10 +154,10 @@
   "021": {
     "idNumerico": "1",
     "nome": "021",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:24|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T15:59:53.896Z"
+    "roubadaEm": "2026-08-03T21:24:59.667Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
@@ -331,7 +331,7 @@
     "idNumerico": "12",
     "nome": "Familia KyLeS",
     "status": "INDISPONIVEL",
-    "disponivelEm": "18:24|03/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T16:24:51.149Z"
   },

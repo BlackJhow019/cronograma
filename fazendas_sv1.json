@@ -1,12 +1,4 @@
 {
-  "RICO LOUCO": {
-    "idNumerico": "11",
-    "nome": "rico louco",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:30|03/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T08:30:04.029Z"
-  },
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
@@ -83,9 +75,9 @@
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
     "status": "INDISPONIVEL",
-    "disponivelEm": "15:24|03/08/2026",
+    "disponivelEm": "15:25|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T13:24:57.690Z"
+    "roubadaEm": "2026-08-03T13:25:13.534Z"
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
@@ -306,9 +298,9 @@
   "THUG LIFE": {
     "idNumerico": "21",
     "nome": "THUG LIFE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:27|03/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-03T08:27:23.377Z"
   },
   "FAMILIA ALMANAK": {

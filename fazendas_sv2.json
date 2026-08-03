@@ -274,9 +274,9 @@
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
     "nome": "Farma Da Familia Elite",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:23|02/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-03T00:31:02.575Z"
   },
   "FAZENDA FELIZ": {
@@ -302,6 +302,14 @@
     "disponivelEm": "04:12|03/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T02:12:42.554Z"
+  },
+  "VENDO 500KM ACEITO TROCAS": {
+    "idNumerico": "24",
+    "nome": "VENDO 500km ACEITO TROCAS",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:19|03/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-03T01:27:17.953Z"
   },
   "LEK0ZIKA": {
     "idNumerico": "35",
@@ -350,13 +358,5 @@
     "disponivelEm": "03:07|03/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T01:07:18.219Z"
-  },
-  "VALE DAS SOMBRAS": {
-    "idNumerico": "24",
-    "nome": "Vale das Sombras",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:19|03/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T01:27:17.953Z"
   }
 }

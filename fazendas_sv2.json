@@ -199,14 +199,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T03:32:15.829Z"
   },
-  "GRUPO RANTER": {
-    "idNumerico": "19",
-    "nome": "GRUPO RANTER",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:46|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T03:37:27.185Z"
-  },
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",
     "nome": "Fazenda Rei Drogado",
@@ -358,5 +350,13 @@
     "disponivelEm": "07:52|03/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T06:09:04.961Z"
+  },
+  "FAZENDA DA MILLY": {
+    "idNumerico": "19",
+    "nome": "Fazenda da Milly",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:27|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T07:02:38.382Z"
   }
 }

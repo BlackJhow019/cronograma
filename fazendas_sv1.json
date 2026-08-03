@@ -327,14 +327,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T12:45:46.271Z"
   },
-  "AMO O CREEPER_STAFF ><": {
-    "idNumerico": "20",
-    "nome": "amo o Creeper_Staff ><",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T20:51:12.007Z"
-  },
   "FAMILIA KYLES": {
     "idNumerico": "12",
     "nome": "Familia KyLeS",
@@ -350,5 +342,13 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T11:05:51.820Z"
+  },
+  "CHAPADO MY LOVE": {
+    "idNumerico": "20",
+    "nome": "ChaPaDo My Love",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:08|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T13:08:32.721Z"
   }
 }

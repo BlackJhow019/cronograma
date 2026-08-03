@@ -4,7 +4,7 @@
     "nome": "Fazenda do Temor",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:33|03/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-03T02:33:48.851Z"
   },
   "FAZENDA CUIUDA - BY GAZOLA": {
@@ -119,20 +119,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T19:13:09.262Z"
   },
-  "AWAKE COMPANY": {
-    "idNumerico": "13",
-    "nome": "AwaKe Company",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T22:38:36.322Z"
-  },
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-02T23:35:41.753Z"
   },
   "FARM DO GALO": {
@@ -303,6 +295,22 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T02:12:42.554Z"
   },
+  "NOREX FARM'S": {
+    "idNumerico": "13",
+    "nome": "Norex farm's",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T22:38:36.322Z"
+  },
+  "B13 :)": {
+    "idNumerico": "23",
+    "nome": "B13 :)",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:07|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T01:07:18.219Z"
+  },
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
@@ -350,13 +358,5 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T19:38:39.443Z"
-  },
-  "AZEROX": {
-    "idNumerico": "23",
-    "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:07|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T01:07:18.219Z"
   }
 }

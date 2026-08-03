@@ -223,14 +223,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T03:26:28.649Z"
   },
-  "ROCK FARM": {
-    "idNumerico": "11",
-    "nome": "RocK Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T02:29:24.638Z"
-  },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
@@ -358,5 +350,13 @@
     "disponivelEm": "10:11|03/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T08:11:13.949Z"
+  },
+  "RICO LOUCO": {
+    "idNumerico": "11",
+    "nome": "rico louco",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:22|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T08:30:03.873Z"
   }
 }

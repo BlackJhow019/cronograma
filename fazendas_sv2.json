@@ -159,14 +159,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T19:13:09.262Z"
   },
-  "ROCK FARM": {
-    "idNumerico": "11",
-    "nome": "RocK Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:08|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T21:08:17.366Z"
-  },
   "AWAKE COMPANY": {
     "idNumerico": "13",
     "nome": "AwaKe Company",
@@ -178,10 +170,10 @@
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",
     "nome": "RAMONZIN_FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:53|02/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T19:53:11.123Z"
+    "roubadaEm": null
   },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
@@ -279,22 +271,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T00:04:24.099Z"
   },
-  "FARM DA THATY": {
-    "idNumerico": "1",
-    "nome": "Farm da Thaty",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "FAZENDA REI DROGADO": {
-    "idNumerico": "31",
-    "nome": "Fazenda Rei Drogado",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:39|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T00:39:50.988Z"
-  },
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
@@ -311,6 +287,22 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T00:41:50.599Z"
   },
+  "ARIANA_B13": {
+    "idNumerico": "10",
+    "nome": "Ariana_B13",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:11|03/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-03T00:45:59.436Z"
+  },
+  "FAZENDA REI DROGADO": {
+    "idNumerico": "31",
+    "nome": "Fazenda Rei Drogado",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:39|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T00:39:50.988Z"
+  },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
@@ -318,6 +310,14 @@
     "disponivelEm": "02:09|03/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T00:09:00.565Z"
+  },
+  "021": {
+    "idNumerico": "1",
+    "nome": "021",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -343,20 +343,20 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T18:00:25.546Z"
   },
-  "ARIANA_B13": {
-    "idNumerico": "10",
-    "nome": "Ariana_B13",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:11|03/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T00:45:59.436Z"
-  },
-  "FARM DO SAPATO": {
+  "GRUPO NEXUS": {
     "idNumerico": "9",
-    "nome": "FARM DO SAPATO",
+    "nome": "GRUPO NEXUS",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:57|02/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T00:46:04.270Z"
+  },
+  "RICO LOUCO": {
+    "idNumerico": "11",
+    "nome": "rico louco",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:52|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T01:00:24.749Z"
   }
 }

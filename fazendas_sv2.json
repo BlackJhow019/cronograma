@@ -63,14 +63,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T12:54:30.287Z"
   },
-  "VALE DAS SOMBRAS": {
-    "idNumerico": "24",
-    "nome": "Vale das Sombras",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:47|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T23:17:18.936Z"
-  },
   "@FILH_ODOPAII": {
     "idNumerico": "12",
     "nome": "@filh_odopaii",
@@ -303,6 +295,14 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
+  "FARMS DE GALOPISITAS": {
+    "idNumerico": "20",
+    "nome": "Farms de Galopisitas",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:23|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T01:23:22.584Z"
+  },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
@@ -335,6 +335,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T01:07:18.219Z"
   },
+  "VENDO 500KM ACEITO TROCAS": {
+    "idNumerico": "24",
+    "nome": "VENDO 500km ACEITO TROCAS",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:19|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T01:27:04.513Z"
+  },
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
@@ -350,13 +358,5 @@
     "disponivelEm": "22:55|02/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T00:20:27.953Z"
-  },
-  "FARMS DE GALOPISITAS": {
-    "idNumerico": "20",
-    "nome": "Farms de Galopisitas",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:23|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T01:23:22.584Z"
   }
 }

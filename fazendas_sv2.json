@@ -39,14 +39,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T05:43:50.941Z"
   },
-  "RANCHO DO DOUTOR": {
-    "idNumerico": "14",
-    "nome": "Rancho do Doutor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:47|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T05:47:18.963Z"
-  },
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
@@ -215,14 +207,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T10:32:30.171Z"
   },
-  "@FILH_ODOPAII": {
-    "idNumerico": "12",
-    "nome": "@filh_odopaii",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T02:12:42.554Z"
-  },
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
@@ -358,5 +342,13 @@
     "disponivelEm": "12:31|03/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T10:40:38.089Z"
+  },
+  "FAMILIA KYLES": {
+    "idNumerico": "12",
+    "nome": "Familia KyLeS",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:48|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T10:48:46.174Z"
   }
 }

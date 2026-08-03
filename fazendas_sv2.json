@@ -183,14 +183,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T16:36:14.200Z"
   },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:20|03/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T17:20:45.978Z"
-  },
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
@@ -266,16 +258,16 @@
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:12|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T11:06:44.378Z"
+    "roubadaEm": "2026-08-03T18:12:56.523Z"
   },
   "CHAPADO MY LOVE": {
     "idNumerico": "20",
     "nome": "ChaPaDo My Love",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:08|03/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T13:08:48.300Z"
   },
@@ -311,22 +303,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T14:46:54.545Z"
   },
-  "AMO O LOWER": {
-    "idNumerico": "2",
-    "nome": "Amo o Lower",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:13|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T17:13:24.189Z"
-  },
-  "$ COMPANY $R.RC_PLINIODMG $": {
-    "idNumerico": "3",
-    "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:15|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T17:15:06.042Z"
-  },
   ".": {
     "idNumerico": "31",
     "nome": ".",
@@ -351,12 +327,36 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T17:50:53.573Z"
   },
+  "KODIAK": {
+    "idNumerico": "3",
+    "nome": "KodiaK",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:15|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T17:15:06.042Z"
+  },
+  "< GAUBRE LTDA >": {
+    "idNumerico": "2",
+    "nome": "< GAUBRE LTDA >",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:13|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T17:13:24.189Z"
+  },
+  "JESUS EA SOLUCAO": {
+    "idNumerico": "0",
+    "nome": "JESUS EA SOLUCAO",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:21|03/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-03T18:12:27.545Z"
+  },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
     "nome": "YellowStone - By Monster",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:43|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T18:08:12.959Z"
+    "roubadaEm": "2026-08-03T18:07:59.469Z"
   }
 }

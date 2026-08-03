@@ -106,10 +106,10 @@
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:20|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T02:03:05.086Z"
+    "roubadaEm": "2026-08-03T16:20:13.495Z"
   },
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",

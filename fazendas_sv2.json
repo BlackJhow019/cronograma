@@ -146,8 +146,8 @@
   "NIKE SHOX": {
     "idNumerico": "42",
     "nome": "NIKE SHOX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:04|03/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T11:04:55.503Z"
   },
@@ -295,19 +295,11 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T10:49:03.264Z"
   },
-  "RICK FARM'S": {
-    "idNumerico": "40",
-    "nome": "Rick Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:05|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T11:05:51.927Z"
-  },
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
     "status": "INDISPONIVEL",
-    "disponivelEm": "13:06|03/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T11:06:44.378Z"
   },

@@ -58,10 +58,10 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:21|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T12:54:30.287Z"
+    "roubadaEm": "2026-08-03T01:39:41.901Z"
   },
   "@FILH_ODOPAII": {
     "idNumerico": "12",

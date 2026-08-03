@@ -36,8 +36,8 @@
     "nome": "K1NG Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:00|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T20:18:42.146Z"
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-03T20:18:56.398Z"
   },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
@@ -191,14 +191,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T17:57:54.380Z"
   },
-  "FAMILIA KYLES": {
-    "idNumerico": "12",
-    "nome": "Familia KyLeS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:24|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T16:24:47.400Z"
-  },
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
@@ -311,6 +303,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T16:52:29.985Z"
   },
+  "JESUS EA SOLUCAO": {
+    "idNumerico": "0",
+    "nome": "JESUS EA SOLUCAO",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:21|03/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-03T18:12:27.545Z"
+  },
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
@@ -351,12 +351,12 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T20:07:16.547Z"
   },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
+  "@FILH_ODOPAII": {
+    "idNumerico": "12",
+    "nome": "@filh_odopaii",
     "status": "INDISPONIVEL",
-    "disponivelEm": "18:21|03/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T18:12:27.545Z"
+    "disponivelEm": "21:37|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T20:30:54.114Z"
   }
 }

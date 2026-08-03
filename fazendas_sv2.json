@@ -122,9 +122,9 @@
   "THUG LIFE": {
     "idNumerico": "21",
     "nome": "THUG LIFE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:27|03/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-03T08:27:22.829Z"
   },
   "FAZENDA FELIZ": {

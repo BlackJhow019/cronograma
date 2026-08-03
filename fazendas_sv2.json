@@ -178,10 +178,10 @@
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:52|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T05:58:09.779Z"
+    "roubadaEm": "2026-08-03T16:52:17.187Z"
   },
   "LEK0ZIKA": {
     "idNumerico": "35",
@@ -204,16 +204,8 @@
     "nome": "Quem Roubar e Petista",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:20|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T16:36:14.200Z"
-  },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:49|03/08/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T11:49:51.557Z"
+    "roubadaEm": "2026-08-03T16:36:14.200Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -247,20 +239,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T13:51:32.429Z"
   },
-  "FAZENDA DA MILLY": {
-    "idNumerico": "19",
-    "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:50|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T13:25:13.297Z"
-  },
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:47|03/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-03T14:14:44.752Z"
   },
   "CLUBE DA LULUZINHA": {

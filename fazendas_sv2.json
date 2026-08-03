@@ -84,7 +84,7 @@
     "nome": "Familia AlmanaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:48|03/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-03T17:51:33.345Z"
   },
   "THUG LIFE": {
@@ -250,10 +250,10 @@
   "ROUBO OFF": {
     "idNumerico": "7",
     "nome": "roubo off",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:48|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T10:40:38.089Z"
+    "roubadaEm": "2026-08-03T17:57:44.208Z"
   },
   "FAMILIA KYLES": {
     "idNumerico": "12",

@@ -63,14 +63,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T19:06:48.783Z"
   },
-  "DM2 FARM": {
-    "idNumerico": "6",
-    "nome": "Dm2 Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:20|03/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T14:20:39.761Z"
-  },
   "021": {
     "idNumerico": "1",
     "nome": "021",
@@ -149,14 +141,14 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "21:18|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T19:18:10.372Z"
+    "roubadaEm": "2026-08-03T19:18:10.234Z"
   },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:20|03/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-03T16:36:14.200Z"
   },
   "SAO PEDRO 2": {
@@ -317,7 +309,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "18:24|03/08/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T19:13:42.080Z"
+    "roubadaEm": "2026-08-03T19:13:32.363Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
@@ -326,6 +318,14 @@
     "disponivelEm": "20:07|03/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T18:58:04.066Z"
+  },
+  "AURA + EGO": {
+    "idNumerico": "22",
+    "nome": "Aura + Ego",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
   },
   "OS DE RACA": {
     "idNumerico": "0",
@@ -350,13 +350,5 @@
     "disponivelEm": "18:06|03/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T19:00:37.785Z"
-  },
-  "FAZENDA FELIZ": {
-    "idNumerico": "22",
-    "nome": "fazenda feliz",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
   }
 }

@@ -325,7 +325,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "04:30|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T03:56:23.400Z"
+    "roubadaEm": "2026-08-03T03:56:37.939Z"
   },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
@@ -334,14 +334,6 @@
     "disponivelEm": "01:14|03/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T03:42:37.953Z"
-  },
-  "ROCK FARM": {
-    "idNumerico": "11",
-    "nome": "RocK Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:57|03/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T02:29:24.638Z"
   },
   "JAH RASTAFARI": {
     "idNumerico": "39",
@@ -358,5 +350,13 @@
     "disponivelEm": "04:12|03/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T02:12:42.554Z"
+  },
+  "RICO LOUCO": {
+    "idNumerico": "11",
+    "nome": "rico louco",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:57|03/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-03T02:29:24.638Z"
   }
 }

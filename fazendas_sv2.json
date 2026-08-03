@@ -95,14 +95,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T20:10:53.801Z"
   },
-  "VENDO 500KM ACEITO TROCAS": {
-    "idNumerico": "24",
-    "nome": "VENDO 500km ACEITO TROCAS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T01:27:17.953Z"
-  },
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
     "nome": "Rafha investimentos $",
@@ -148,7 +140,7 @@
     "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:56|03/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-03T20:56:42.982Z"
   },
   "RICO LOUCO": {
@@ -247,14 +239,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T19:00:37.785Z"
   },
-  "FARM'S NAY E NICK": {
-    "idNumerico": "5",
-    "nome": "FARM'S NAY E NICK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:22|03/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T18:51:33.517Z"
-  },
   "AURA + EGO": {
     "idNumerico": "22",
     "nome": "Aura + Ego",
@@ -319,14 +303,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T20:07:16.547Z"
   },
-  "FAZENDA DA MILLY": {
-    "idNumerico": "19",
-    "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:07|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T18:58:04.066Z"
-  },
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
@@ -335,22 +311,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T20:54:14.329Z"
   },
-  "PREFEITO ROADBLOCK": {
-    "idNumerico": "41",
-    "nome": "Prefeito Roadblock",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:42|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T18:42:46.931Z"
-  },
-  "30PRAUM": {
-    "idNumerico": "16",
-    "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:00|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T19:27:46.788Z"
-  },
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
@@ -358,5 +318,45 @@
     "disponivelEm": "18:08|03/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T20:15:41.958Z"
+  },
+  "SE ROUBAR MORRE": {
+    "idNumerico": "41",
+    "nome": "SE ROUBAR MORRE",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:42|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T18:42:46.931Z"
+  },
+  "FAZENDA DA MILLY": {
+    "idNumerico": "19",
+    "nome": "Fazenda da Milly",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:07|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T18:58:04.066Z"
+  },
+  "..OURO..PR3TO..": {
+    "idNumerico": "5",
+    "nome": "..OURO..PR3TO..",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:14|03/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-03T21:03:02.982Z"
+  },
+  "YELLOWSTONE - BY MONSTER": {
+    "idNumerico": "16",
+    "nome": "YellowStone - By Monster",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:00|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T19:27:46.788Z"
+  },
+  "VALE DAS SOMBRAS": {
+    "idNumerico": "24",
+    "nome": "Vale das Sombras",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:33|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T21:03:28.437Z"
   }
 }

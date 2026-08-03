@@ -37,7 +37,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "21:18|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T19:18:29.672Z"
+    "roubadaEm": "2026-08-03T19:18:10.938Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -290,9 +290,9 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:20|03/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-03T14:20:40.018Z"
   },
   "SAO PEDRO 2": {

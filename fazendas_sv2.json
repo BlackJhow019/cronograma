@@ -122,10 +122,10 @@
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:49|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T06:42:48.237Z"
+    "roubadaEm": "2026-08-03T11:52:27.039Z"
   },
   "THUG LIFE": {
     "idNumerico": "21",
@@ -254,6 +254,14 @@
     "disponivelEm": "13:49|03/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T11:49:51.557Z"
+  },
+  "SAO PEDRO 2": {
+    "idNumerico": "43",
+    "nome": "SAO PEDRO 2",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T06:48:28.081Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",

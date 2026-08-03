@@ -287,6 +287,22 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T02:03:05.086Z"
   },
+  "JAH RASTAFARI": {
+    "idNumerico": "39",
+    "nome": "JAH RASTAFARI",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T20:50:04.070Z"
+  },
+  "LEK0ZIKA": {
+    "idNumerico": "35",
+    "nome": "Lek0zika",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:49|03/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-03T02:10:01.162Z"
+  },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
@@ -294,14 +310,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T01:12:44.721Z"
-  },
-  "FAMILIA KYLES": {
-    "idNumerico": "12",
-    "nome": "Familia KyLeS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:07|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T02:07:18.323Z"
   },
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",
@@ -343,20 +351,12 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T01:27:17.953Z"
   },
-  "JAH RASTAFARI": {
-    "idNumerico": "39",
-    "nome": "JAH RASTAFARI",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T20:50:04.070Z"
-  },
-  "FARME DO DRAKE": {
-    "idNumerico": "35",
-    "nome": "Farme do Drake",
+  "@FILH_ODOPAII": {
+    "idNumerico": "12",
+    "nome": "@filh_odopaii",
     "status": "INDISPONIVEL",
-    "disponivelEm": "01:49|03/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T02:10:01.162Z"
+    "disponivelEm": "04:11|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T02:11:55.811Z"
   }
 }

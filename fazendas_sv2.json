@@ -44,7 +44,7 @@
     "nome": "Rancho do Doutor",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:36|03/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-03T13:36:21.586Z"
   },
   "KODIAK": {
@@ -115,7 +115,7 @@
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
     "status": "INDISPONIVEL",
-    "disponivelEm": "10:49|03/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T11:52:42.948Z"
   },
@@ -165,7 +165,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "14:15|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T13:41:21.450Z"
+    "roubadaEm": "2026-08-03T13:41:42.045Z"
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -194,10 +194,10 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:29|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T05:20:42.295Z"
+    "roubadaEm": "2026-08-03T13:50:06.385Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",

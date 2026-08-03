@@ -111,6 +111,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T10:10:32.207Z"
   },
+  "FAMILIA ALMANAK": {
+    "idNumerico": "32",
+    "nome": "Familia AlmanaK",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T11:52:42.948Z"
+  },
   "THUG LIFE": {
     "idNumerico": "21",
     "nome": "THUG LIFE",
@@ -258,10 +266,10 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:43|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T08:30:03.795Z"
+    "roubadaEm": "2026-08-03T13:51:32.429Z"
   },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",

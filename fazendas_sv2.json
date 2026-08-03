@@ -95,14 +95,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T23:35:41.753Z"
   },
-  "/VENDERPRODUTOS": {
-    "idNumerico": "7",
-    "nome": "/VENDERPRODUTOS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T00:11:38.304Z"
-  },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
@@ -358,5 +350,13 @@
     "disponivelEm": "12:17|03/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T10:17:55.820Z"
+  },
+  "ROUBO OFF": {
+    "idNumerico": "7",
+    "nome": "roubo off",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:31|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T10:40:38.089Z"
   }
 }

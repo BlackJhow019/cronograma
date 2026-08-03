@@ -194,10 +194,10 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:05|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T13:25:13.297Z"
+    "roubadaEm": "2026-08-03T18:40:32.296Z"
   },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",

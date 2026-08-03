@@ -271,14 +271,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T13:51:32.429Z"
   },
-  "SE ROUBAR MORRE": {
-    "idNumerico": "41",
-    "nome": "SE ROUBAR MORRE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
@@ -290,10 +282,10 @@
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:47|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T06:19:57.131Z"
+    "roubadaEm": "2026-08-03T14:14:44.842Z"
   },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
@@ -358,5 +350,13 @@
     "disponivelEm": "15:08|03/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T13:08:48.300Z"
+  },
+  "PREFEITO ROADBLOCK": {
+    "idNumerico": "41",
+    "nome": "Prefeito Roadblock",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:46|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T14:15:00.503Z"
   }
 }

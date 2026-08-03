@@ -28,7 +28,7 @@
     "nome": "QG FARM KHAOS",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:21|03/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-03T17:21:19.472Z"
   },
   "K1NG FARM'S": {
@@ -71,14 +71,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T14:20:39.761Z"
   },
-  "021": {
-    "idNumerico": "1",
-    "nome": "021",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:21|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T15:59:53.677Z"
-  },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
@@ -118,14 +110,6 @@
     "disponivelEm": "14:58|03/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T12:58:31.311Z"
-  },
-  "FAZENDA REI DROGADO": {
-    "idNumerico": "31",
-    "nome": "Fazenda Rei Drogado",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T00:39:50.988Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
@@ -204,7 +188,7 @@
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:20|03/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-03T17:20:45.978Z"
   },
   "SAO PEDRO 2": {
@@ -358,5 +342,13 @@
     "disponivelEm": "19:15|03/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T17:15:06.042Z"
+  },
+  ".": {
+    "idNumerico": "31",
+    "nome": ".",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:23|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T17:23:46.745Z"
   }
 }

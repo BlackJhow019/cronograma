@@ -2,10 +2,10 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:00|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T19:30:55.488Z"
+    "roubadaEm": "2026-08-03T01:00:46.298Z"
   },
   "KODIAK": {
     "idNumerico": "3",
@@ -308,7 +308,7 @@
     "nome": "THUG LIFE",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:55|03/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-03T00:55:21.207Z"
   },
   "FAMILIA ALMANAK": {

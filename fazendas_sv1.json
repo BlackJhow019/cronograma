@@ -4,7 +4,7 @@
     "nome": "rico louco",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:00|03/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-03T01:00:59.276Z"
   },
   "KODIAK": {
@@ -170,10 +170,10 @@
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:12|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T18:53:38.751Z"
+    "roubadaEm": "2026-08-03T01:12:45.236Z"
   },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",

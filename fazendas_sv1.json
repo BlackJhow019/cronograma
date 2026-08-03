@@ -316,7 +316,7 @@
     "nome": "Familia AlmanaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:51|03/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-03T17:51:35.085Z"
   },
   "PENOSO FARM'S": {
@@ -338,8 +338,8 @@
   "RICK FARM'S": {
     "idNumerico": "40",
     "nome": "Rick Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:51|03/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T16:08:08.802Z"
   },

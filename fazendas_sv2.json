@@ -15,13 +15,13 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T21:12:43.626Z"
   },
-  "QG FARM KHAOS": {
-    "idNumerico": "18",
-    "nome": "QG FARM KHAOS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:21|03/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T17:21:19.472Z"
+  "FAZENDA CUIUDA - BY GAZOLA": {
+    "idNumerico": "17",
+    "nome": "Fazenda Cuiuda - By GAZOLA",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T17:18:26.965Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",
@@ -38,6 +38,14 @@
     "disponivelEm": "20:51|03/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T18:51:02.551Z"
+  },
+  "HWD INVESTIMENTOS": {
+    "idNumerico": "27",
+    "nome": "hwd investimentos",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T19:06:48.783Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
@@ -195,7 +203,7 @@
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
     "status": "INDISPONIVEL",
-    "disponivelEm": "19:23|03/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T20:07:16.547Z"
   },
@@ -279,6 +287,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T21:43:58.843Z"
   },
+  "FARME DO DRAKE": {
+    "idNumerico": "35",
+    "nome": "Farme do Drake",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:23|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T21:46:04.612Z"
+  },
   "021": {
     "idNumerico": "1",
     "nome": "021",
@@ -303,6 +319,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T21:32:42.900Z"
   },
+  "THUG LIFE": {
+    "idNumerico": "21",
+    "nome": "THUG LIFE",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:10|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T20:10:53.801Z"
+  },
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
@@ -326,21 +350,5 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T20:15:41.958Z"
-  },
-  "LEK0ZIKA": {
-    "idNumerico": "35",
-    "nome": "Lek0zika",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:23|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T21:46:04.612Z"
-  },
-  "RAMONZIN_FRANCA": {
-    "idNumerico": "21",
-    "nome": "RAMONZIN_FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:10|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T20:10:53.801Z"
   }
 }

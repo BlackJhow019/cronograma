@@ -98,10 +98,10 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:09|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T14:28:55.277Z"
+    "roubadaEm": "2026-08-03T22:26:04.667Z"
   },
   "ROUBO OFF": {
     "idNumerico": "7",
@@ -126,14 +126,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T14:44:34.548Z"
-  },
-  ".": {
-    "idNumerico": "31",
-    "nome": ".",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:23|03/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T17:23:46.745Z"
   },
   "FARM DO GALO": {
     "idNumerico": "40",
@@ -198,14 +190,6 @@
     "disponivelEm": "21:37|03/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T20:30:54.033Z"
-  },
-  "YT @GANDIA_RP": {
-    "idNumerico": "15",
-    "nome": "YT @GANDIA_RP",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T20:07:16.547Z"
   },
   "FRANCA": {
     "idNumerico": "28",
@@ -282,8 +266,8 @@
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:23|03/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T21:43:58.843Z"
   },

@@ -26,10 +26,10 @@
   "QG FARM KHAOS": {
     "idNumerico": "18",
     "nome": "QG FARM KHAOS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:00|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T17:21:19.472Z"
+    "roubadaEm": "2026-08-03T23:00:44.476Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",
@@ -319,37 +319,13 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "FARM'S DE CAFE": {
-    "idNumerico": "4",
-    "nome": "Farm's de Cafe",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:53|03/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T21:16:25.522Z"
-  },
-  "RAMONZIN_FRANCA": {
-    "idNumerico": "21",
-    "nome": "RAMONZIN_FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:10|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T20:10:53.801Z"
-  },
-  "FARMS DE GALOPISITAS": {
+  "CHAPADO MY LOVE": {
     "idNumerico": "20",
-    "nome": "Farms de Galopisitas",
+    "nome": "ChaPaDo My Love",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
-  },
-  "YANINHA_ANTIFALSOS": {
-    "idNumerico": "34",
-    "nome": "yAninha_AntiFalsos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:55|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T21:32:42.900Z"
   },
   "021": {
     "idNumerico": "1",
@@ -358,5 +334,29 @@
     "disponivelEm": "00:09|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T22:09:01.609Z"
+  },
+  "TA NO GRALI": {
+    "idNumerico": "4",
+    "nome": "ta no grali",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:53|03/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-03T21:16:25.522Z"
+  },
+  "FAMILIA KUSH": {
+    "idNumerico": "34",
+    "nome": "Familia KuSh",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:55|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T21:32:42.900Z"
+  },
+  "THUG LIFE": {
+    "idNumerico": "21",
+    "nome": "THUG LIFE",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:10|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T20:10:53.801Z"
   }
 }

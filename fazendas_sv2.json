@@ -1,12 +1,4 @@
 {
-  "999": {
-    "idNumerico": "39",
-    "nome": "999",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:57|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T02:57:39.454Z"
-  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -319,22 +311,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T02:10:01.162Z"
   },
-  "FAMILIA KYLES": {
-    "idNumerico": "12",
-    "nome": "Familia KyLeS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:12|03/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T02:12:42.554Z"
-  },
-  "RICO LOUCO": {
-    "idNumerico": "11",
-    "nome": "rico louco",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:57|03/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T02:29:24.638Z"
-  },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
     "nome": "YellowStone - By Monster",
@@ -347,9 +323,9 @@
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
-    "disponivelEm": "04:29|03/08/2026",
+    "disponivelEm": "04:30|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T03:55:52.395Z"
+    "roubadaEm": "2026-08-03T03:56:07.498Z"
   },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
@@ -358,5 +334,29 @@
     "disponivelEm": "01:14|03/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T03:42:37.953Z"
+  },
+  "ROCK FARM": {
+    "idNumerico": "11",
+    "nome": "RocK Farm",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:57|03/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-03T02:29:24.638Z"
+  },
+  "JAH RASTAFARI": {
+    "idNumerico": "39",
+    "nome": "JAH RASTAFARI",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:57|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T02:57:39.454Z"
+  },
+  "FAMILIA KYLES": {
+    "idNumerico": "12",
+    "nome": "Familia KyLeS",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:12|03/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-03T02:12:42.554Z"
   }
 }

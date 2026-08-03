@@ -127,6 +127,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T00:11:38.304Z"
   },
+  "HWD INVESTIMENTOS": {
+    "idNumerico": "27",
+    "nome": "hwd investimentos",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T00:16:21.832Z"
+  },
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",
     "nome": "Fazendinha BeTreZe 2",
@@ -319,14 +327,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T02:12:42.554Z"
   },
-  "FAZENDINHA DO IGEZE": {
-    "idNumerico": "36",
-    "nome": "fazendinha do igeze",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T01:12:44.721Z"
-  },
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
@@ -350,5 +350,13 @@
     "disponivelEm": "01:49|03/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T02:10:01.162Z"
+  },
+  "FAZENDA DO MIRIM": {
+    "idNumerico": "36",
+    "nome": "Fazenda Do MIRIM",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T01:12:44.721Z"
   }
 }

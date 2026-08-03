@@ -11,7 +11,7 @@
     "idNumerico": "3",
     "nome": "KodiaK",
     "status": "INDISPONIVEL",
-    "disponivelEm": "14:20|03/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T12:20:08.771Z"
   },
@@ -226,10 +226,10 @@
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:20|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T11:49:50.563Z"
+    "roubadaEm": "2026-08-03T17:20:31.172Z"
   },
   "GRUPO NEXUS": {
     "idNumerico": "9",

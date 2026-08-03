@@ -114,10 +114,10 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T13:41:42.045Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:16|03/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-03T19:42:35.263Z"
   },
   "PENOSO FARM'S": {
     "idNumerico": "10",
@@ -223,13 +223,13 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T13:08:48.300Z"
   },
-  "GRANJA DO IMONKEY": {
-    "idNumerico": "29",
-    "nome": "Granja do iMonKeY",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:44|03/08/2026",
+  "POLEMICO$ INDUSTRI$": {
+    "idNumerico": "37",
+    "nome": "PoLeMiCo$ industri$",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T14:44:34.548Z"
+    "roubadaEm": "2026-08-03T14:39:51.757Z"
   },
   ".": {
     "idNumerico": "31",
@@ -271,22 +271,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T18:51:33.517Z"
   },
-  "FAZENDA DA MILLY": {
-    "idNumerico": "19",
-    "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:07|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T18:58:04.066Z"
-  },
-  "YELLOWSTONE - BY MONSTER": {
-    "idNumerico": "16",
-    "nome": "YellowStone - By Monster",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:00|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T19:27:46.788Z"
-  },
   "FAZENDA DO GALIN": {
     "idNumerico": "15",
     "nome": "Fazenda do Galin",
@@ -302,14 +286,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
-  },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:21|03/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T18:12:27.545Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",
@@ -327,22 +303,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T17:13:24.189Z"
   },
-  "BORRACHAS FARM": {
-    "idNumerico": "33",
-    "nome": "Borrachas Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:52|03/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T16:52:29.985Z"
-  },
-  "PREFEITO ROADBLOCK": {
-    "idNumerico": "41",
-    "nome": "Prefeito Roadblock",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:42|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T18:42:46.931Z"
-  },
   "TREMBALA": {
     "idNumerico": "42",
     "nome": "TremBala",
@@ -350,5 +310,45 @@
     "disponivelEm": "18:45|03/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T19:41:16.205Z"
+  },
+  "SE ROUBAR MORRE": {
+    "idNumerico": "41",
+    "nome": "SE ROUBAR MORRE",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:42|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T18:42:46.931Z"
+  },
+  "FAZENDA DA MILLY": {
+    "idNumerico": "19",
+    "nome": "Fazenda da Milly",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:07|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T18:58:04.066Z"
+  },
+  "YELLOWSTONE - BY MONSTER": {
+    "idNumerico": "16",
+    "nome": "YellowStone - By Monster",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:00|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T19:27:46.788Z"
+  },
+  "OS DE RACA": {
+    "idNumerico": "0",
+    "nome": "OS DE RACA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:21|03/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-03T18:12:27.545Z"
+  },
+  "BORRACHAS FARM": {
+    "idNumerico": "33",
+    "nome": "Borrachas Farm",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:52|03/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-03T16:52:29.985Z"
   }
 }

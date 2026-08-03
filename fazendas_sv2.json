@@ -301,7 +301,15 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "03:36|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T01:36:23.623Z"
+    "roubadaEm": "2026-08-03T01:36:10.404Z"
+  },
+  "TREMBALA": {
+    "idNumerico": "42",
+    "nome": "TremBala",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:55|02/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-03T00:20:27.953Z"
   },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
@@ -318,14 +326,6 @@
     "disponivelEm": "23:23|02/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T00:31:02.575Z"
-  },
-  "TREMBALA": {
-    "idNumerico": "42",
-    "nome": "TremBala",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:55|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T00:20:27.953Z"
   },
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",
@@ -351,12 +351,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T01:07:18.219Z"
   },
-  "VALE DAS SOMBRAS": {
+  "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
-    "nome": "Vale das Sombras",
+    "nome": "VENDO 500km ACEITO TROCAS",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:19|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T01:27:18.085Z"
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-03T01:27:17.953Z"
   }
 }

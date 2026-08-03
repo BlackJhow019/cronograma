@@ -325,7 +325,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "02:11|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T00:11:22.353Z"
+    "roubadaEm": "2026-08-03T00:11:38.304Z"
   },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
@@ -334,14 +334,6 @@
     "disponivelEm": "02:09|03/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T00:09:00.565Z"
-  },
-  "YT @GANDIA_RP": {
-    "idNumerico": "15",
-    "nome": "YT @GANDIA_RP",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:04|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T00:04:24.099Z"
   },
   "MALVADA'S FARM": {
     "idNumerico": "32",
@@ -358,5 +350,13 @@
     "disponivelEm": "21:39|02/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T23:17:40.139Z"
+  },
+  "FAZENDA DO GALIN": {
+    "idNumerico": "15",
+    "nome": "Fazenda do Galin",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:04|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T00:04:24.099Z"
   }
 }

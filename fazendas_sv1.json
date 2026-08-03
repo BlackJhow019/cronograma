@@ -36,7 +36,7 @@
     "nome": "Lek0zika",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:41|03/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-03T00:41:49.690Z"
   },
   "BORRACHAS FARM": {
@@ -204,7 +204,7 @@
     "nome": ".",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:39|03/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-03T00:39:51.776Z"
   },
   "30PRAUM": {
@@ -212,7 +212,7 @@
     "nome": "30PRAUM",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:41|03/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-03T00:41:10.963Z"
   },
   "FAZENDA FELIZ": {
@@ -282,9 +282,9 @@
   "..OURO..PR3TO..": {
     "idNumerico": "5",
     "nome": "..OURO..PR3TO..",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:43|02/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-02T19:43:16.094Z"
   },
   "DM2 FARM": {

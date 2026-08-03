@@ -327,14 +327,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T21:37:45.667Z"
   },
-  "JESUS IS THE WAY": {
-    "idNumerico": "12",
-    "nome": "Jesus is the way",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T12:24:23.151Z"
-  },
   "RICKW_WARRIOR": {
     "idNumerico": "40",
     "nome": "rickw_warrior",
@@ -350,5 +342,13 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T20:51:12.007Z"
+  },
+  "FAMILIA KYLES": {
+    "idNumerico": "12",
+    "nome": "Familia KyLeS",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:07|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T02:07:17.834Z"
   }
 }

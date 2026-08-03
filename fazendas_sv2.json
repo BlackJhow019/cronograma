@@ -58,10 +58,10 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:18|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T13:54:32.368Z"
+    "roubadaEm": "2026-08-03T19:06:48.783Z"
   },
   "DM2 FARM": {
     "idNumerico": "6",
@@ -343,6 +343,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T16:52:29.985Z"
   },
+  "FAZENDINHA DO IGEZE": {
+    "idNumerico": "36",
+    "nome": "fazendinha do igeze",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:06|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T19:00:37.785Z"
+  },
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
@@ -350,13 +358,5 @@
     "disponivelEm": "16:08|03/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T17:40:52.222Z"
-  },
-  "FAZENDA DO MIRIM": {
-    "idNumerico": "36",
-    "nome": "Fazenda Do MIRIM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:06|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T19:00:37.785Z"
   }
 }

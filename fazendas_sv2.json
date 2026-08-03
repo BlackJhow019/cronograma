@@ -127,14 +127,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T23:43:00.282Z"
   },
-  "FAZENDA DO MIRIM": {
-    "idNumerico": "36",
-    "nome": "Fazenda Do MIRIM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:37|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T00:31:37.540Z"
-  },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",
     "nome": "Succubus Farms",
@@ -319,9 +311,17 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T00:09:00.565Z"
   },
-  "B13 :)": {
+  "FAMILIA ALMANAK": {
+    "idNumerico": "32",
+    "nome": "Familia AlmanaK",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T18:00:25.546Z"
+  },
+  "AZEROX": {
     "idNumerico": "23",
-    "nome": "B13 :)",
+    "nome": "AzeRoX",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:07|03/08/2026",
     "cofreConsertado": false,
@@ -351,12 +351,12 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "MALVADA'S FARM": {
-    "idNumerico": "32",
-    "nome": "Malvada's Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+  "FAZENDINHA DO IGEZE": {
+    "idNumerico": "36",
+    "nome": "fazendinha do igeze",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:51|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T18:00:25.546Z"
+    "roubadaEm": "2026-08-03T01:11:32.354Z"
   }
 }

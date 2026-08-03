@@ -146,10 +146,10 @@
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:17|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T12:49:33.648Z"
+    "roubadaEm": "2026-08-03T19:17:58.509Z"
   },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
@@ -319,14 +319,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T19:13:42.080Z"
   },
-  "FAZENDA DO MIRIM": {
-    "idNumerico": "36",
-    "nome": "Fazenda Do MIRIM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:06|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T19:00:37.785Z"
-  },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
@@ -335,22 +327,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T18:58:04.066Z"
   },
-  "FARMA DA FAMILIA ELITE": {
-    "idNumerico": "33",
-    "nome": "Farma Da Familia Elite",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:52|03/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T16:52:29.985Z"
-  },
-  "AURA + EGO": {
-    "idNumerico": "22",
-    "nome": "Aura + Ego",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
@@ -358,5 +334,29 @@
     "disponivelEm": "18:21|03/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T18:12:27.545Z"
+  },
+  "BORRACHAS FARM": {
+    "idNumerico": "33",
+    "nome": "Borrachas Farm",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:52|03/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-03T16:52:29.985Z"
+  },
+  "FAZENDINHA DO IGEZE": {
+    "idNumerico": "36",
+    "nome": "fazendinha do igeze",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:06|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T19:00:37.785Z"
+  },
+  "FAZENDA FELIZ": {
+    "idNumerico": "22",
+    "nome": "fazenda feliz",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
   }
 }

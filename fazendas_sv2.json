@@ -60,7 +60,7 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:18|03/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-03T19:06:48.783Z"
   },
   "DM2 FARM": {
@@ -151,14 +151,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T12:49:33.648Z"
   },
-  "GRUPO NEXUS": {
-    "idNumerico": "9",
-    "nome": "GRUPO NEXUS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T13:58:40.221Z"
-  },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
@@ -188,16 +180,8 @@
     "nome": "rico louco",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:52|03/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-03T19:00:07.302Z"
-  },
-  "CLUBE DA LULUZINHA": {
-    "idNumerico": "8",
-    "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:11|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T14:28:55.277Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
@@ -319,6 +303,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T18:51:33.517Z"
   },
+  "FAZENDA FELIZ": {
+    "idNumerico": "22",
+    "nome": "fazenda feliz",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
@@ -351,12 +343,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T19:00:37.785Z"
   },
-  "FAZENDA FELIZ": {
-    "idNumerico": "22",
-    "nome": "fazenda feliz",
+  "FARM DO SAPATO": {
+    "idNumerico": "9",
+    "nome": "FARM DO SAPATO",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:08|03/08/2026",
+    "disponivelEm": "18:24|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T17:40:52.222Z"
+    "roubadaEm": "2026-08-03T19:13:32.533Z"
   }
 }

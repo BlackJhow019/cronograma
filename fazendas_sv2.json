@@ -162,8 +162,8 @@
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
     "nome": "Farms de Galopisitas",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:23|03/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T01:23:22.584Z"
   },
@@ -327,21 +327,21 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T06:03:27.387Z"
   },
-  "SE ROUBAR MORRE": {
+  "GRUPO NEXUS": {
+    "idNumerico": "9",
+    "nome": "GRUPO NEXUS",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:20|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T06:20:15.227Z"
+  },
+  "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
-    "nome": "SE ROUBAR MORRE",
+    "nome": "Prefeito Roadblock",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
-  },
-  "30PRAUM": {
-    "idNumerico": "16",
-    "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:53|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T06:19:57.131Z"
   },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
@@ -351,12 +351,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T06:09:04.961Z"
   },
-  "GRUPO NEXUS": {
-    "idNumerico": "9",
-    "nome": "GRUPO NEXUS",
+  "YELLOWSTONE - BY MONSTER": {
+    "idNumerico": "16",
+    "nome": "YellowStone - By Monster",
     "status": "INDISPONIVEL",
-    "disponivelEm": "08:20|03/08/2026",
+    "disponivelEm": "05:53|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T06:20:15.227Z"
+    "roubadaEm": "2026-08-03T06:19:57.131Z"
   }
 }

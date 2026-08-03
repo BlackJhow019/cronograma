@@ -63,14 +63,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T10:25:51.067Z"
   },
-  "FARM'S NAY E NICK": {
-    "idNumerico": "5",
-    "nome": "FARM'S NAY E NICK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T23:35:41.753Z"
-  },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
@@ -358,5 +350,13 @@
     "disponivelEm": "16:44|03/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T14:44:34.548Z"
+  },
+  "..OURO..PR3TO..": {
+    "idNumerico": "5",
+    "nome": "..OURO..PR3TO..",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:46|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T14:46:08.869Z"
   }
 }

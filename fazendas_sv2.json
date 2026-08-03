@@ -331,25 +331,9 @@
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:46|03/08/2026",
+    "disponivelEm": "19:22|03/08/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T14:46:54.545Z"
-  },
-  "FARMA DA FAMILIA ELITE": {
-    "idNumerico": "33",
-    "nome": "Farma Da Familia Elite",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:52|03/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T16:52:29.985Z"
-  },
-  "AURA + EGO": {
-    "idNumerico": "22",
-    "nome": "Aura + Ego",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:08|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T17:40:52.222Z"
+    "roubadaEm": "2026-08-03T18:51:19.959Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",
@@ -358,5 +342,21 @@
     "disponivelEm": "18:21|03/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T18:12:27.545Z"
+  },
+  "BORRACHAS FARM": {
+    "idNumerico": "33",
+    "nome": "Borrachas Farm",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:52|03/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-03T16:52:29.985Z"
+  },
+  "FAZENDA FELIZ": {
+    "idNumerico": "22",
+    "nome": "fazenda feliz",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:08|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T17:40:52.222Z"
   }
 }

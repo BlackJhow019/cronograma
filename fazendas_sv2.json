@@ -151,6 +151,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T12:49:33.648Z"
   },
+  "GRUPO NEXUS": {
+    "idNumerico": "9",
+    "nome": "GRUPO NEXUS",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T13:58:40.221Z"
+  },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
@@ -311,9 +319,9 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T18:51:33.517Z"
   },
-  "GRUPO RANTER": {
+  "FAZENDA DA MILLY": {
     "idNumerico": "19",
-    "nome": "GRUPO RANTER",
+    "nome": "Fazenda da Milly",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:07|03/08/2026",
     "cofreConsertado": false,
@@ -335,6 +343,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T16:52:29.985Z"
   },
+  "FAZENDINHA DO IGEZE": {
+    "idNumerico": "36",
+    "nome": "fazendinha do igeze",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:06|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T19:00:37.785Z"
+  },
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
@@ -342,13 +358,5 @@
     "disponivelEm": "16:08|03/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T17:40:52.222Z"
-  },
-  "FAZENDA DO MIRIM": {
-    "idNumerico": "36",
-    "nome": "Fazenda Do MIRIM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:06|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T18:59:59.253Z"
   }
 }

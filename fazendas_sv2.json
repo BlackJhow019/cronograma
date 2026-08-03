@@ -71,14 +71,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-02T22:59:48.536Z"
   },
-  "DONA SEM RAZAO": {
-    "idNumerico": "26",
-    "nome": "Dona sem razao",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-01T17:36:41.279Z"
-  },
   "WELCOME > MELHOR FAZENDA DO BPS": {
     "idNumerico": "37",
     "nome": "WELCOME > MELHOR FAZENDA DO BPS",
@@ -134,14 +126,6 @@
     "disponivelEm": "02:11|03/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T00:11:38.304Z"
-  },
-  "HWD INVESTIMENTOS": {
-    "idNumerico": "27",
-    "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:27|03/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T00:16:21.832Z"
   },
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",
@@ -311,38 +295,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T03:25:10.427Z"
   },
-  "JAH RASTAFARI": {
-    "idNumerico": "39",
-    "nome": "JAH RASTAFARI",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:57|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T02:57:39.454Z"
-  },
-  "FAMILIA KYLES": {
-    "idNumerico": "12",
-    "nome": "Familia KyLeS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:12|03/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T02:12:42.554Z"
-  },
-  "RICO LOUCO": {
-    "idNumerico": "11",
-    "nome": "rico louco",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:57|03/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T02:29:24.638Z"
-  },
-  "LEK0ZIKA": {
-    "idNumerico": "35",
-    "nome": "Lek0zika",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:49|03/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T02:10:01.162Z"
-  },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
@@ -358,5 +310,45 @@
     "disponivelEm": "03:54|03/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T03:26:28.649Z"
+  },
+  "RAFHA INVESTIMENTOS $": {
+    "idNumerico": "26",
+    "nome": "Rafha investimentos $",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:31|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T03:31:29.053Z"
+  },
+  "ROCK FARM": {
+    "idNumerico": "11",
+    "nome": "RocK Farm",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:57|03/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-03T02:29:24.638Z"
+  },
+  "JAH RASTAFARI": {
+    "idNumerico": "39",
+    "nome": "JAH RASTAFARI",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:57|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T02:57:39.454Z"
+  },
+  "FARME DO DRAKE": {
+    "idNumerico": "35",
+    "nome": "Farme do Drake",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:49|03/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-03T02:10:01.162Z"
+  },
+  "FAMILIA KYLES": {
+    "idNumerico": "12",
+    "nome": "Familia KyLeS",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:12|03/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-03T02:12:42.554Z"
   }
 }

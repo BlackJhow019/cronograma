@@ -75,7 +75,7 @@
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:28|03/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T14:28:55.265Z"
   },
@@ -98,10 +98,10 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:22|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T13:50:23.970Z"
+    "roubadaEm": "2026-08-03T19:22:25.717Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
@@ -210,10 +210,10 @@
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:27|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T14:14:44.789Z"
+    "roubadaEm": "2026-08-03T19:27:35.928Z"
   },
   "FAZENDA FELIZ": {
     "idNumerico": "22",

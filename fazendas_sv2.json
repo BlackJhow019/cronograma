@@ -1,4 +1,12 @@
 {
+  "999": {
+    "idNumerico": "39",
+    "nome": "999",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:57|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T02:57:39.454Z"
+  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -35,7 +43,7 @@
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
     "status": "INDISPONIVEL",
-    "disponivelEm": "00:10|03/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T22:27:30.302Z"
   },
@@ -115,9 +123,9 @@
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
     "status": "INDISPONIVEL",
-    "disponivelEm": "05:09|03/08/2026",
+    "disponivelEm": "05:10|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T03:10:23.392Z"
+    "roubadaEm": "2026-08-03T03:10:37.207Z"
   },
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
@@ -302,14 +310,6 @@
     "disponivelEm": "02:10|03/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T02:43:10.171Z"
-  },
-  "JAH RASTAFARI": {
-    "idNumerico": "39",
-    "nome": "JAH RASTAFARI",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:57|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T02:57:39.454Z"
   },
   "FAMILIA KYLES": {
     "idNumerico": "12",

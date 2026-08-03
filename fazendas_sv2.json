@@ -82,10 +82,10 @@
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:34|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T13:21:05.503Z"
+    "roubadaEm": "2026-08-03T00:34:26.186Z"
   },
   "TA NO GRALI": {
     "idNumerico": "4",

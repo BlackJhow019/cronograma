@@ -1,12 +1,4 @@
 {
-  "999": {
-    "idNumerico": "39",
-    "nome": "999",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:57|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T02:57:39.454Z"
-  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -125,7 +117,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "05:10|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T03:10:37.207Z"
+    "roubadaEm": "2026-08-03T03:10:49.267Z"
   },
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
@@ -311,30 +303,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T02:43:10.171Z"
   },
-  "FAMILIA KYLES": {
-    "idNumerico": "12",
-    "nome": "Familia KyLeS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:12|03/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T02:12:42.554Z"
-  },
-  "RICO LOUCO": {
-    "idNumerico": "11",
-    "nome": "rico louco",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:57|03/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T02:29:24.638Z"
-  },
-  "LEK0ZIKA": {
-    "idNumerico": "35",
-    "nome": "Lek0zika",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:49|03/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T02:10:01.162Z"
-  },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
@@ -358,5 +326,37 @@
     "disponivelEm": "02:09|03/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T00:09:00.565Z"
+  },
+  "ROCK FARM": {
+    "idNumerico": "11",
+    "nome": "RocK Farm",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:57|03/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-03T02:29:24.638Z"
+  },
+  "JAH RASTAFARI": {
+    "idNumerico": "39",
+    "nome": "JAH RASTAFARI",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:57|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T02:57:39.454Z"
+  },
+  "FARME DO DRAKE": {
+    "idNumerico": "35",
+    "nome": "Farme do Drake",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:49|03/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-03T02:10:01.162Z"
+  },
+  "FAMILIA KYLES": {
+    "idNumerico": "12",
+    "nome": "Familia KyLeS",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:12|03/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-03T02:12:42.554Z"
   }
 }

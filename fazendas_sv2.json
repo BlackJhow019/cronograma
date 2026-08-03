@@ -1,4 +1,12 @@
 {
+  "999": {
+    "idNumerico": "39",
+    "nome": "999",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:57|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T02:57:39.454Z"
+  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -199,14 +207,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T01:27:17.953Z"
   },
-  "B13 :)": {
-    "idNumerico": "23",
-    "nome": "B13 :)",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:07|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T01:07:18.219Z"
-  },
   "RICKW_WARRIOR": {
     "idNumerico": "40",
     "nome": "rickw_warrior",
@@ -327,6 +327,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T01:12:44.721Z"
   },
+  "@FILH_ODOPAII": {
+    "idNumerico": "12",
+    "nome": "@filh_odopaii",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:12|03/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-03T02:12:42.554Z"
+  },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
@@ -343,20 +351,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T04:13:10.720Z"
   },
-  "@FILH_ODOPAII": {
-    "idNumerico": "12",
-    "nome": "@filh_odopaii",
+  "AZEROX": {
+    "idNumerico": "23",
+    "nome": "AzeRoX",
     "status": "INDISPONIVEL",
-    "disponivelEm": "04:12|03/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T02:12:42.554Z"
-  },
-  "JAH RASTAFARI": {
-    "idNumerico": "39",
-    "nome": "JAH RASTAFARI",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:57|03/08/2026",
+    "disponivelEm": "04:58|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T02:57:39.454Z"
+    "roubadaEm": "2026-08-03T05:19:55.090Z"
   }
 }

@@ -95,14 +95,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T20:56:42.982Z"
   },
-  "RICO LOUCO": {
-    "idNumerico": "11",
-    "nome": "rico louco",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:52|03/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T19:00:07.302Z"
-  },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
@@ -114,8 +106,8 @@
   "ROUBO OFF": {
     "idNumerico": "7",
     "nome": "roubo off",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:48|03/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T17:57:54.380Z"
   },
@@ -303,13 +295,13 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T22:39:10.220Z"
   },
-  "RAMONZIN_FRANCA": {
-    "idNumerico": "21",
-    "nome": "RAMONZIN_FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:10|03/08/2026",
+  "NIKE SHOX": {
+    "idNumerico": "42",
+    "nome": "NIKE SHOX",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T20:10:53.801Z"
+    "roubadaEm": null
   },
   "AMO A MAZZI": {
     "idNumerico": "6",
@@ -318,22 +310,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
-  },
-  "FARMS DE GALOPISITAS": {
-    "idNumerico": "20",
-    "nome": "Farms de Galopisitas",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:56|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T21:54:55.604Z"
-  },
-  "YANINHA_ANTIFALSOS": {
-    "idNumerico": "34",
-    "nome": "yAninha_AntiFalsos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:55|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T21:32:42.900Z"
   },
   "021": {
     "idNumerico": "1",
@@ -351,12 +327,28 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T21:16:25.522Z"
   },
-  "NIKE SHOX": {
-    "idNumerico": "42",
-    "nome": "NIKE SHOX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+  "CHAPADO MY LOVE": {
+    "idNumerico": "20",
+    "nome": "ChaPaDo My Love",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:56|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-08-03T21:54:55.604Z"
+  },
+  "FAMILIA KUSH": {
+    "idNumerico": "34",
+    "nome": "Familia KuSh",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:55|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T21:32:42.900Z"
+  },
+  "THUG LIFE": {
+    "idNumerico": "21",
+    "nome": "THUG LIFE",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:10|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T20:10:53.801Z"
   }
 }

@@ -19,7 +19,7 @@
     "idNumerico": "42",
     "nome": "NIKE SHOX",
     "status": "INDISPONIVEL",
-    "disponivelEm": "18:04|03/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T16:10:55.368Z"
   },
@@ -150,6 +150,14 @@
     "disponivelEm": "22:07|03/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T20:07:16.516Z"
+  },
+  "021": {
+    "idNumerico": "1",
+    "nome": "021",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T15:59:53.896Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",

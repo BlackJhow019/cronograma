@@ -175,14 +175,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T17:57:54.380Z"
   },
-  "NOREX FARM'S": {
-    "idNumerico": "13",
-    "nome": "Norex farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:12|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T18:12:56.523Z"
-  },
   "CHAPADO MY LOVE": {
     "idNumerico": "20",
     "nome": "ChaPaDo My Love",
@@ -234,8 +226,8 @@
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:06|03/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T19:00:37.785Z"
   },
@@ -311,13 +303,29 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T20:54:14.329Z"
   },
+  "VALE DAS SOMBRAS": {
+    "idNumerico": "24",
+    "nome": "Vale das Sombras",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:33|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T21:03:42.343Z"
+  },
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:08|03/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T20:15:41.958Z"
+  },
+  "FARM'S NAY E NICK": {
+    "idNumerico": "5",
+    "nome": "FARM'S NAY E NICK",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:14|03/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-03T21:03:02.982Z"
   },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
@@ -335,14 +343,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T18:58:04.066Z"
   },
-  "..OURO..PR3TO..": {
-    "idNumerico": "5",
-    "nome": "..OURO..PR3TO..",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:14|03/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T21:03:02.982Z"
-  },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
     "nome": "YellowStone - By Monster",
@@ -351,12 +351,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T19:27:46.788Z"
   },
-  "VALE DAS SOMBRAS": {
-    "idNumerico": "24",
-    "nome": "Vale das Sombras",
+  "AWAKE COMPANY": {
+    "idNumerico": "13",
+    "nome": "AwaKe Company",
     "status": "INDISPONIVEL",
-    "disponivelEm": "21:33|03/08/2026",
+    "disponivelEm": "20:12|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T21:03:42.343Z"
+    "roubadaEm": "2026-08-03T18:12:56.523Z"
   }
 }

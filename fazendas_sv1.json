@@ -4,7 +4,7 @@
     "nome": "rico louco",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:00|03/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-03T19:00:05.432Z"
   },
   "KODIAK": {
@@ -34,10 +34,10 @@
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:17|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T12:49:33.940Z"
+    "roubadaEm": "2026-08-03T19:17:59.158Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -92,7 +92,7 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:07|03/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-03T19:07:01.493Z"
   },
   "AZEROX": {
@@ -207,14 +207,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T17:24:00.019Z"
   },
-  "30PRAUM": {
-    "idNumerico": "16",
-    "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:14|03/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T14:14:44.789Z"
-  },
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
@@ -246,14 +238,6 @@
     "disponivelEm": "16:51|03/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T14:51:50.471Z"
-  },
-  "PREFEITO ROADBLOCK": {
-    "idNumerico": "41",
-    "nome": "Prefeito Roadblock",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:14|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T14:14:59.866Z"
   },
   "ROUBO OFF": {
     "idNumerico": "7",

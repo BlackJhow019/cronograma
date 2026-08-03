@@ -186,10 +186,10 @@
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:12|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T11:17:21.148Z"
+    "roubadaEm": "2026-08-03T18:12:57.037Z"
   },
   "JAH RASTAFARI": {
     "idNumerico": "39",
@@ -259,9 +259,9 @@
     "idNumerico": "7",
     "nome": "roubo off",
     "status": "INDISPONIVEL",
-    "disponivelEm": "19:58|03/08/2026",
+    "disponivelEm": "19:57|03/08/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T17:58:15.882Z"
+    "roubadaEm": "2026-08-03T17:57:43.370Z"
   },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
@@ -317,7 +317,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "19:51|03/08/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T17:51:35.085Z"
+    "roubadaEm": "2026-08-03T17:51:22.052Z"
   },
   "PENOSO FARM'S": {
     "idNumerico": "10",

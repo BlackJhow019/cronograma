@@ -100,8 +100,8 @@
     "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:20|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T14:20:39.861Z"
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-03T14:20:39.761Z"
   },
   "021": {
     "idNumerico": "1",
@@ -283,17 +283,17 @@
     "idNumerico": "16",
     "nome": "30PRAUM",
     "status": "INDISPONIVEL",
-    "disponivelEm": "13:48|03/08/2026",
+    "disponivelEm": "13:47|03/08/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T14:15:00.919Z"
+    "roubadaEm": "2026-08-03T14:14:44.752Z"
   },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:10|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T06:09:04.961Z"
+    "roubadaEm": "2026-08-03T14:27:56.643Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
@@ -355,8 +355,8 @@
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
     "status": "INDISPONIVEL",
-    "disponivelEm": "11:47|03/08/2026",
+    "disponivelEm": "11:46|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T14:15:18.117Z"
+    "roubadaEm": "2026-08-03T14:15:00.415Z"
   }
 }

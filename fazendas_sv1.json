@@ -60,7 +60,7 @@
     "nome": "< GAUBRE LTDA >",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:14|03/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-03T12:14:24.384Z"
   },
   "VENDO 500KM ACEITO TROCAS": {
@@ -322,10 +322,10 @@
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:45|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T03:26:28.989Z"
+    "roubadaEm": "2026-08-03T12:45:30.725Z"
   },
   "AMO O CREEPER_STAFF ><": {
     "idNumerico": "20",

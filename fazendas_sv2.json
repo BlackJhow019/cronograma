@@ -157,7 +157,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "21:23|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T22:56:05.709Z"
+    "roubadaEm": "2026-08-03T22:56:32.647Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",
@@ -319,19 +319,11 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T22:09:01.609Z"
   },
-  "TA NO GRALI": {
-    "idNumerico": "4",
-    "nome": "ta no grali",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:53|03/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T21:16:25.522Z"
-  },
   "CHAPADO MY LOVE": {
     "idNumerico": "20",
     "nome": "ChaPaDo My Love",
     "status": "INDISPONIVEL",
-    "disponivelEm": "19:56|03/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T21:54:55.604Z"
   },
@@ -350,5 +342,13 @@
     "disponivelEm": "22:10|03/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T20:10:53.801Z"
+  },
+  "FARM'S DE CAFE": {
+    "idNumerico": "4",
+    "nome": "Farm's de Cafe",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:53|03/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-03T21:16:25.522Z"
   }
 }

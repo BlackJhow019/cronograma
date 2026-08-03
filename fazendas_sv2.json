@@ -215,14 +215,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T05:20:42.295Z"
   },
-  "AWAKE COMPANY": {
-    "idNumerico": "13",
-    "nome": "AwaKe Company",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T04:13:10.720Z"
-  },
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
@@ -349,6 +341,14 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "13:05|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T11:05:32.307Z"
+    "roubadaEm": "2026-08-03T11:05:51.927Z"
+  },
+  "NOREX FARM'S": {
+    "idNumerico": "13",
+    "nome": "Norex farm's",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:06|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T11:06:44.378Z"
   }
 }

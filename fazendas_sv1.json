@@ -31,14 +31,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T03:32:16.105Z"
   },
-  "LEK0ZIKA": {
-    "idNumerico": "35",
-    "nome": "Lek0zika",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:41|03/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T00:41:49.690Z"
-  },
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
@@ -202,18 +194,10 @@
   ".": {
     "idNumerico": "31",
     "nome": ".",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:39|03/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-03T00:39:51.776Z"
-  },
-  "30PRAUM": {
-    "idNumerico": "16",
-    "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:41|03/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T00:41:10.963Z"
   },
   "FAZENDA FELIZ": {
     "idNumerico": "22",

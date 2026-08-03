@@ -220,7 +220,7 @@
     "nome": "fazenda feliz",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:20|03/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-03T16:20:29.022Z"
   },
   "OS DE RACA": {
@@ -330,10 +330,10 @@
   "FAMILIA KYLES": {
     "idNumerico": "12",
     "nome": "Familia KyLeS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:24|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T10:49:02.672Z"
+    "roubadaEm": "2026-08-03T16:24:35.687Z"
   },
   "RICK FARM'S": {
     "idNumerico": "40",

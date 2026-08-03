@@ -269,7 +269,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "07:47|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T05:47:04.249Z"
+    "roubadaEm": "2026-08-03T05:47:19.144Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
@@ -306,9 +306,9 @@
   "THUG LIFE": {
     "idNumerico": "21",
     "nome": "THUG LIFE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:55|03/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-03T00:55:21.207Z"
   },
   "FAMILIA ALMANAK": {

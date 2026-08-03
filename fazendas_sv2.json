@@ -138,9 +138,9 @@
   "AWAKE COMPANY": {
     "idNumerico": "13",
     "nome": "AwaKe Company",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:52|02/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-02T22:38:36.322Z"
   },
   "FARM'S NAY E NICK": {
@@ -303,14 +303,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T01:36:10.404Z"
   },
-  "TREMBALA": {
-    "idNumerico": "42",
-    "nome": "TremBala",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:55|02/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T00:20:27.953Z"
-  },
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
     "nome": "Farma Da Familia Elite",
@@ -318,22 +310,6 @@
     "disponivelEm": "23:23|02/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T00:31:02.575Z"
-  },
-  "FAZENDA DO MIRIM": {
-    "idNumerico": "36",
-    "nome": "Fazenda Do MIRIM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:52|02/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T01:12:44.721Z"
-  },
-  "FAZENDA REI DROGADO": {
-    "idNumerico": "31",
-    "nome": "Fazenda Rei Drogado",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:39|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T00:39:50.988Z"
   },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
@@ -343,20 +319,36 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T00:09:00.565Z"
   },
-  "AZEROX": {
+  "VENDO 500KM ACEITO TROCAS": {
+    "idNumerico": "24",
+    "nome": "VENDO 500km ACEITO TROCAS",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:19|03/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-03T01:27:17.953Z"
+  },
+  "FAZENDINHA DO IGEZE": {
+    "idNumerico": "36",
+    "nome": "fazendinha do igeze",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T01:12:44.721Z"
+  },
+  "B13 :)": {
     "idNumerico": "23",
-    "nome": "AzeRoX",
+    "nome": "B13 :)",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:07|03/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T01:07:18.219Z"
   },
-  "VALE DAS SOMBRAS": {
-    "idNumerico": "24",
-    "nome": "Vale das Sombras",
+  ".": {
+    "idNumerico": "31",
+    "nome": ".",
     "status": "INDISPONIVEL",
-    "disponivelEm": "01:19|03/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T01:27:17.953Z"
+    "disponivelEm": "02:39|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T00:39:50.988Z"
   }
 }

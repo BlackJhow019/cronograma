@@ -84,7 +84,7 @@
     "nome": "Fazenda da Milly",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:40|03/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-03T18:40:31.439Z"
   },
   "HWD INVESTIMENTOS": {
@@ -274,8 +274,8 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:41|03/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T13:41:41.946Z"
   },

@@ -127,14 +127,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T08:27:22.829Z"
   },
-  "FARMS DE GALOPISITAS": {
-    "idNumerico": "20",
-    "nome": "Farms de Galopisitas",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T01:23:22.584Z"
-  },
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
@@ -266,8 +258,8 @@
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
     "nome": "Wesker_u$MeTraLha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:11|03/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T08:11:13.949Z"
   },
@@ -358,5 +350,13 @@
     "disponivelEm": "14:00|03/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T12:14:24.981Z"
+  },
+  "CHAPADO MY LOVE": {
+    "idNumerico": "20",
+    "nome": "ChaPaDo My Love",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:08|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T13:08:48.300Z"
   }
 }

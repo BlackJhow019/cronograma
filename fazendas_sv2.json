@@ -58,10 +58,10 @@
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:25|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T22:59:48.536Z"
+    "roubadaEm": "2026-08-03T10:25:19.726Z"
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {
     "idNumerico": "37",
@@ -356,7 +356,7 @@
     "nome": "Farm's de Cafe",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:17|03/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-03T10:17:55.820Z"
   }
 }

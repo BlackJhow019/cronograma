@@ -87,14 +87,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T13:21:05.503Z"
   },
-  "BORRACHAS FARM": {
-    "idNumerico": "33",
-    "nome": "Borrachas Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:38|03/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T22:38:10.024Z"
-  },
   "TA NO GRALI": {
     "idNumerico": "4",
     "nome": "ta no grali",
@@ -159,21 +151,13 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T21:39:34.066Z"
   },
-  "AMO A MAZZI": {
-    "idNumerico": "6",
-    "nome": "Amo a Mazzi",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T19:14:15.671Z"
-  },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:35|02/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-02T13:52:56.715Z"
+    "roubadaEm": "2026-08-03T00:29:11.106Z"
   },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",
@@ -308,7 +292,7 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:27|03/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-03T00:16:21.832Z"
   },
   "FAZENDINHA BETREZE 2": {
@@ -318,6 +302,14 @@
     "disponivelEm": "02:21|03/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T00:21:35.519Z"
+  },
+  "DM2 FARM": {
+    "idNumerico": "6",
+    "nome": "Dm2 Farm",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-02T19:14:15.671Z"
   },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
@@ -358,5 +350,13 @@
     "disponivelEm": "02:04|03/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T00:04:24.099Z"
+  },
+  "FARMA DA FAMILIA ELITE": {
+    "idNumerico": "33",
+    "nome": "Farma Da Familia Elite",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:38|03/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-02T22:38:10.024Z"
   }
 }

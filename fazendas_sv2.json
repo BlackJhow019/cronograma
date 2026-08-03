@@ -95,14 +95,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T15:01:19.049Z"
   },
-  "FAZENDA FELIZ": {
-    "idNumerico": "22",
-    "nome": "fazenda feliz",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:20|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T16:20:29.462Z"
-  },
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
     "nome": "VENDO 500km ACEITO TROCAS",
@@ -358,5 +350,13 @@
     "disponivelEm": "19:23|03/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T17:23:46.745Z"
+  },
+  "AURA + EGO": {
+    "idNumerico": "22",
+    "nome": "Aura + Ego",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:08|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T17:40:40.683Z"
   }
 }

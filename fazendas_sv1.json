@@ -98,8 +98,8 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:34|03/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-02T23:34:30.786Z"
   },
@@ -157,7 +157,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "06:25|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T04:25:15.407Z"
+    "roubadaEm": "2026-08-03T04:25:30.968Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
@@ -310,14 +310,6 @@
     "disponivelEm": "02:55|03/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T00:55:21.207Z"
-  },
-  "FAMILIA ALMANAK": {
-    "idNumerico": "32",
-    "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:35|03/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-02T23:35:09.681Z"
   },
   "PENOSO FARM'S": {
     "idNumerico": "10",

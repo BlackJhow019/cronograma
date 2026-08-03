@@ -303,6 +303,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T00:31:02.575Z"
   },
+  "FAZENDA FELIZ": {
+    "idNumerico": "22",
+    "nome": "fazenda feliz",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:03|03/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T02:03:05.086Z"
+  },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
@@ -326,14 +334,6 @@
     "disponivelEm": "02:09|03/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T00:09:00.565Z"
-  },
-  "FAZENDA FELIZ": {
-    "idNumerico": "22",
-    "nome": "fazenda feliz",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:03|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T02:03:05.172Z"
   },
   "AZEROX": {
     "idNumerico": "23",

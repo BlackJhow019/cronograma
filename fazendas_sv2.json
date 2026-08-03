@@ -218,9 +218,9 @@
   "CANNABIS": {
     "idNumerico": "8",
     "nome": "CANNABIS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:27|03/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-03T03:25:10.427Z"
   },
   "RAFHA INVESTIMENTOS $": {
@@ -335,14 +335,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T02:12:42.554Z"
   },
-  "SE ROUBAR MORRE": {
-    "idNumerico": "41",
-    "nome": "SE ROUBAR MORRE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
@@ -351,9 +343,17 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T05:20:42.295Z"
   },
-  "AWAKE COMPANY": {
+  "SE ROUBAR MORRE": {
+    "idNumerico": "41",
+    "nome": "SE ROUBAR MORRE",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "NOREX FARM'S": {
     "idNumerico": "13",
-    "nome": "AwaKe Company",
+    "nome": "Norex farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:27|03/08/2026",
     "cofreConsertado": false,

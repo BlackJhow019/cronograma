@@ -90,10 +90,10 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:27|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T13:22:37.527Z"
+    "roubadaEm": "2026-08-04T20:27:51.607Z"
   },
   "AZEROX": {
     "idNumerico": "23",
@@ -166,14 +166,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T13:50:46.332Z"
-  },
-  "FAZENDINHA DO IGEZE": {
-    "idNumerico": "36",
-    "nome": "fazendinha do igeze",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:25|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T15:25:31.711Z"
   },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",

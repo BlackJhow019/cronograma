@@ -28,7 +28,7 @@
     "nome": "PoLeMiCo$ industri$",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:37|04/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-04T20:37:02.607Z"
   },
   "AMO O LOWER": {
@@ -118,14 +118,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T14:34:50.708Z"
-  },
-  "SUCCUBUS FARMS": {
-    "idNumerico": "29",
-    "nome": "Succubus Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T14:03:33.191Z"
   },
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
@@ -358,5 +350,13 @@
     "disponivelEm": "18:54|04/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T17:38:33.750Z"
+  },
+  "GRANJA DO IMONKEY": {
+    "idNumerico": "29",
+    "nome": "Granja do iMonKeY",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:39|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T20:39:21.860Z"
   }
 }

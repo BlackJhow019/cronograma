@@ -319,14 +319,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T02:25:51.017Z"
   },
-  "CANNABIS": {
-    "idNumerico": "8",
-    "nome": "CANNABIS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:15|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T03:34:21.493Z"
-  },
   "FAMILIA KYLES": {
     "idNumerico": "12",
     "nome": "Familia KyLeS",
@@ -347,8 +339,16 @@
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
     "status": "INDISPONIVEL",
-    "disponivelEm": "06:45|04/08/2026",
+    "disponivelEm": "06:46|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T04:46:18.911Z"
+    "roubadaEm": "2026-08-04T04:46:45.719Z"
+  },
+  "CANNABIS": {
+    "idNumerico": "8",
+    "nome": "CANNABIS",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:15|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T03:34:21.493Z"
   }
 }

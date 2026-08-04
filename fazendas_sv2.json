@@ -187,9 +187,9 @@
     "idNumerico": "34",
     "nome": "Familia KuSh",
     "status": "INDISPONIVEL",
-    "disponivelEm": "04:27|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T02:27:48.951Z"
+    "disponivelEm": "04:30|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T02:30:27.862Z"
   },
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
@@ -287,6 +287,22 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T02:16:52.261Z"
   },
+  "YT @GANDIA_RP": {
+    "idNumerico": "15",
+    "nome": "YT @GANDIA_RP",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:38|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T01:29:19.176Z"
+  },
+  "AWAKE COMPANY": {
+    "idNumerico": "13",
+    "nome": "AwaKe Company",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:26|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T02:12:49.159Z"
+  },
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
@@ -295,13 +311,13 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T02:20:19.195Z"
   },
-  "TREMBALA": {
-    "idNumerico": "42",
-    "nome": "TremBala",
+  "WORK INDUSTRIA'S LIMITED": {
+    "idNumerico": "38",
+    "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
-    "disponivelEm": "04:25|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T02:25:51.017Z"
+    "disponivelEm": "02:01|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T02:00:01.358Z"
   },
   "AZEROX": {
     "idNumerico": "23",
@@ -327,28 +343,12 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "NOREX FARM'S": {
-    "idNumerico": "13",
-    "nome": "Norex farm's",
+  "NIKE SHOX": {
+    "idNumerico": "42",
+    "nome": "NIKE SHOX",
     "status": "INDISPONIVEL",
-    "disponivelEm": "02:26|04/08/2026",
+    "disponivelEm": "04:25|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T02:12:49.159Z"
-  },
-  "FAZENDINHA BETREZE 2": {
-    "idNumerico": "38",
-    "nome": "Fazendinha BeTreZe 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:01|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T02:00:01.358Z"
-  },
-  "FAZENDA DO GALIN": {
-    "idNumerico": "15",
-    "nome": "Fazenda do Galin",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:38|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T01:29:19.176Z"
+    "roubadaEm": "2026-08-04T02:25:51.017Z"
   }
 }

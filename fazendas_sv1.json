@@ -268,7 +268,7 @@
     "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:37|05/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-04T23:37:52.011Z"
   },
   "..OURO..PR3TO..": {
@@ -278,6 +278,14 @@
     "disponivelEm": "23:37|04/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T21:37:09.618Z"
+  },
+  "DM2 FARM": {
+    "idNumerico": "6",
+    "nome": "Dm2 Farm",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T18:36:35.431Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",

@@ -90,10 +90,10 @@
   "TREMBALA": {
     "idNumerico": "42",
     "nome": "TremBala",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:50|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T09:19:49.586Z"
+    "roubadaEm": "2026-08-04T17:46:51.204Z"
   },
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",
@@ -284,56 +284,8 @@
     "nome": "Rolinha Cansada Farms",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:54|04/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-04T17:38:33.750Z"
-  },
-  "QUEM ROUBAR E PETISTA": {
-    "idNumerico": "44",
-    "nome": "Quem Roubar e Petista",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:02|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T17:28:56.718Z"
-  },
-  "..OURO..PR3TO..": {
-    "idNumerico": "5",
-    "nome": "..OURO..PR3TO..",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:01|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T17:24:05.115Z"
-  },
-  "FARM'S DE CAFE": {
-    "idNumerico": "4",
-    "nome": "Farm's de Cafe",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:49|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T16:46:13.938Z"
-  },
-  "FARM DA THATY": {
-    "idNumerico": "1",
-    "nome": "Farm da Thaty",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:41|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T17:32:14.470Z"
-  },
-  "YT @GANDIA_RP": {
-    "idNumerico": "15",
-    "nome": "YT @GANDIA_RP",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:52|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T17:32:56.962Z"
-  },
-  "FAMILIA ALMANAK": {
-    "idNumerico": "32",
-    "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:53|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T16:34:43.249Z"
   },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
@@ -351,12 +303,60 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T17:43:48.844Z"
   },
-  "ROCK FARM": {
+  "QUEM ROUBAR E PETISTA": {
+    "idNumerico": "44",
+    "nome": "Quem Roubar e Petista",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:02|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T17:28:56.718Z"
+  },
+  "MALVADA'S FARM": {
+    "idNumerico": "32",
+    "nome": "Malvada's Farm",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:53|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T16:34:43.249Z"
+  },
+  "..OURO..PR3TO..": {
+    "idNumerico": "5",
+    "nome": "..OURO..PR3TO..",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:01|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T17:24:05.115Z"
+  },
+  "FARM'S DE CAFE": {
+    "idNumerico": "4",
+    "nome": "Farm's de Cafe",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:49|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T16:46:13.938Z"
+  },
+  "RICO LOUCO": {
     "idNumerico": "11",
-    "nome": "RocK Farm",
+    "nome": "rico louco",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:05|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T17:44:14.144Z"
+  },
+  "FARM DA THATY": {
+    "idNumerico": "1",
+    "nome": "Farm da Thaty",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:41|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T17:32:14.470Z"
+  },
+  "YT @GANDIA_RP": {
+    "idNumerico": "15",
+    "nome": "YT @GANDIA_RP",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:52|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T17:32:56.962Z"
   }
 }

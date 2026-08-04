@@ -130,10 +130,10 @@
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
     "nome": "Vale das Sombras",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:06|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T21:03:42.343Z"
+    "roubadaEm": "2026-08-04T08:36:22.272Z"
   },
   "..OURO..PR3TO..": {
     "idNumerico": "5",
@@ -306,8 +306,8 @@
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:19|04/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T06:08:42.115Z"
   },

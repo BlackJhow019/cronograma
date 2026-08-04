@@ -85,7 +85,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "06:38|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T05:46:37.182Z"
+    "roubadaEm": "2026-08-04T05:46:53.196Z"
   },
   "ROUBO OFF": {
     "idNumerico": "7",
@@ -327,14 +327,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T05:32:32.273Z"
   },
-  "PENOSO FARM'S": {
-    "idNumerico": "10",
-    "nome": "Penoso Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:36|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T05:11:42.874Z"
-  },
   "CANNABIS": {
     "idNumerico": "8",
     "nome": "CANNABIS",
@@ -350,5 +342,13 @@
     "disponivelEm": "04:35|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T05:17:09.566Z"
+  },
+  "PENOSO FARM'S": {
+    "idNumerico": "10",
+    "nome": "Penoso Farm's",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:36|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T05:11:42.874Z"
   }
 }

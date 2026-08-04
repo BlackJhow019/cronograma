@@ -39,14 +39,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T19:42:26.306Z"
   },
-  "BORRACHAS FARM": {
-    "idNumerico": "33",
-    "nome": "Borrachas Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:21|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T18:21:46.271Z"
-  },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
     "nome": "Wesker_u$MeTraLha",
@@ -214,6 +206,14 @@
     "disponivelEm": "01:12|05/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T23:12:50.209Z"
+  },
+  "FAZENDA FELIZ": {
+    "idNumerico": "22",
+    "nome": "fazenda feliz",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T18:20:05.551Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",

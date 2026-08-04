@@ -279,6 +279,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T15:09:59.878Z"
   },
+  "RAMONZIN_FRANCA": {
+    "idNumerico": "21",
+    "nome": "RAMONZIN_FRANCA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:15|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T15:17:02.696Z"
+  },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
     "nome": "Vale das Sombras",
@@ -314,8 +322,8 @@
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:31|04/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T14:11:12.513Z"
   },
@@ -330,10 +338,10 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T14:13:28.680Z"
+    "cofreConsertado": false,
+    "roubadaEm": null
   },
   "JAH RASTAFARI": {
     "idNumerico": "39",
@@ -342,13 +350,5 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T13:29:48.893Z"
-  },
-  "THUG LIFE": {
-    "idNumerico": "21",
-    "nome": "THUG LIFE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:15|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T15:17:02.696Z"
   }
 }

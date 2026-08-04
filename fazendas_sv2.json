@@ -314,8 +314,8 @@
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
     "nome": "Farma Da Familia Elite",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:06|04/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T08:14:07.726Z"
   },
@@ -343,9 +343,9 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T09:48:32.003Z"
   },
-  "JESUS EA SOLUCAO": {
+  "OS DE RACA": {
     "idNumerico": "0",
-    "nome": "JESUS EA SOLUCAO",
+    "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:33|04/08/2026",
     "cofreConsertado": false,

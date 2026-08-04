@@ -231,14 +231,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T00:51:01.888Z"
   },
-  "FAZENDA DA MILLY": {
-    "idNumerico": "19",
-    "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T18:58:04.066Z"
-  },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
@@ -350,5 +342,13 @@
     "disponivelEm": "04:25|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T02:25:51.017Z"
+  },
+  "GRUPO RANTER": {
+    "idNumerico": "19",
+    "nome": "GRUPO RANTER",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:48|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T02:39:22.520Z"
   }
 }

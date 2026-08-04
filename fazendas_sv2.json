@@ -66,8 +66,8 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:13|04/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T02:13:26.356Z"
   },
@@ -290,8 +290,8 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:14|04/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T05:32:32.273Z"
   },

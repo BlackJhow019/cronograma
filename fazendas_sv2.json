@@ -34,10 +34,10 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:21|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T18:51:02.551Z"
+    "roubadaEm": "2026-08-04T13:21:22.951Z"
   },
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
@@ -142,14 +142,6 @@
     "disponivelEm": "13:01|04/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T13:00:08.830Z"
-  },
-  "DEAD (:": {
-    "idNumerico": "27",
-    "nome": "Dead (:",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T00:44:19.011Z"
   },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
@@ -343,13 +335,13 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T13:15:03.964Z"
   },
-  "ARIANA_B13": {
-    "idNumerico": "10",
-    "nome": "Ariana_B13",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:52|04/08/2026",
+  "HWD INVESTIMENTOS": {
+    "idNumerico": "27",
+    "nome": "hwd investimentos",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T12:55:13.786Z"
+    "roubadaEm": "2026-08-04T00:44:19.011Z"
   },
   "CHAPADO MY LOVE": {
     "idNumerico": "20",
@@ -358,5 +350,13 @@
     "disponivelEm": "14:40|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T12:40:00.072Z"
+  },
+  "PENOSO FARM'S": {
+    "idNumerico": "10",
+    "nome": "Penoso Farm's",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:52|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T12:55:13.786Z"
   }
 }

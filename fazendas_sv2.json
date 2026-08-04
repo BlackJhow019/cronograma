@@ -119,14 +119,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T12:23:18.195Z"
   },
-  "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": "38",
-    "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:01|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T13:00:08.830Z"
-  },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
@@ -339,9 +331,9 @@
     "idNumerico": "0",
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
-    "disponivelEm": "13:24|04/08/2026",
+    "disponivelEm": "12:31|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T13:15:03.964Z"
+    "roubadaEm": "2026-08-04T14:10:58.743Z"
   },
   "NOREX FARM'S": {
     "idNumerico": "13",
@@ -350,5 +342,13 @@
     "disponivelEm": "16:10|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T14:10:47.343Z"
+  },
+  "FAZENDINHA BETREZE 2": {
+    "idNumerico": "38",
+    "nome": "Fazendinha BeTreZe 2",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:01|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T13:00:08.830Z"
   }
 }

@@ -18,9 +18,9 @@
   "QG FARM KHAOS": {
     "idNumerico": "18",
     "nome": "QG FARM KHAOS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:00|04/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-03T23:00:44.476Z"
   },
   "K1NG FARM'S": {
@@ -223,14 +223,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T00:10:44.513Z"
   },
-  "JESUS EA SOLUCAO": {
-    "idNumerico": "0",
-    "nome": "JESUS EA SOLUCAO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T22:39:10.220Z"
-  },
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
@@ -287,6 +279,22 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
+  "OS DE RACA": {
+    "idNumerico": "0",
+    "nome": "OS DE RACA",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T22:39:10.220Z"
+  },
+  "DEAD (:": {
+    "idNumerico": "27",
+    "nome": "Dead (:",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T00:44:19.011Z"
+  },
   "CANNABIS": {
     "idNumerico": "8",
     "nome": "CANNABIS",
@@ -342,21 +350,5 @@
     "disponivelEm": "03:49|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T02:39:49.979Z"
-  },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "HWD INVESTIMENTOS": {
-    "idNumerico": "27",
-    "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:55|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T00:44:19.011Z"
   }
 }

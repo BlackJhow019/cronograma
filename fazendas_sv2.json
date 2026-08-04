@@ -1,4 +1,12 @@
 {
+  "999": {
+    "idNumerico": "39",
+    "nome": "999",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:13|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T18:57:21.143Z"
+  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -18,10 +26,10 @@
   "QG FARM KHAOS": {
     "idNumerico": "18",
     "nome": "QG FARM KHAOS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:16|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T13:54:09.682Z"
+    "roubadaEm": "2026-08-04T19:16:22.388Z"
   },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
@@ -199,14 +207,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T14:43:55.773Z"
   },
-  "30PRAUM": {
-    "idNumerico": "16",
-    "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:32|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T17:59:28.303Z"
-  },
   "MALVADA'S FARM": {
     "idNumerico": "32",
     "nome": "Malvada's Farm",
@@ -271,30 +271,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T17:32:56.962Z"
   },
-  "RICO LOUCO": {
-    "idNumerico": "11",
-    "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "@FILH_ODOPAII": {
-    "idNumerico": "12",
-    "nome": "@filh_odopaii",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:00|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T19:00:55.085Z"
-  },
-  "JAH RASTAFARI": {
-    "idNumerico": "39",
-    "nome": "JAH RASTAFARI",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:13|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T18:57:21.143Z"
-  },
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
@@ -302,14 +278,6 @@
     "disponivelEm": "16:48|04/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T18:20:55.422Z"
-  },
-  "SAO PEDRO 2": {
-    "idNumerico": "43",
-    "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:34|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T18:12:42.828Z"
   },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
@@ -351,6 +319,14 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
+  "RICO LOUCO": {
+    "idNumerico": "11",
+    "nome": "rico louco",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
   "FARM DA THATY": {
     "idNumerico": "1",
     "nome": "Farm da Thaty",
@@ -358,5 +334,29 @@
     "disponivelEm": "16:41|04/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T17:32:14.470Z"
+  },
+  "YELLOWSTONE - BY MONSTER": {
+    "idNumerico": "16",
+    "nome": "YellowStone - By Monster",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:32|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T17:59:28.303Z"
+  },
+  "FAMILIA KYLES": {
+    "idNumerico": "12",
+    "nome": "Familia KyLeS",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:00|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T19:00:55.085Z"
+  },
+  "LA FAMILIA CHIARADIA": {
+    "idNumerico": "43",
+    "nome": "LA FAMILIA CHIARADIA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:34|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T18:12:42.828Z"
   }
 }

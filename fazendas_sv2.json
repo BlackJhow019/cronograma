@@ -52,7 +52,7 @@
     "nome": "Familia AlmanaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:47|04/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-04T09:51:00.422Z"
   },
   "RAFHA INVESTIMENTOS $": {
@@ -290,9 +290,9 @@
   "YANINHA_ANTIFALSOS": {
     "idNumerico": "34",
     "nome": "yAninha_AntiFalsos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:00|04/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-04T06:43:15.323Z"
   },
   "/VENDERPRODUTOS": {
@@ -335,14 +335,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T09:23:28.051Z"
   },
-  "JESUS EA SOLUCAO": {
-    "idNumerico": "0",
-    "nome": "JESUS EA SOLUCAO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:33|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T08:47:35.233Z"
-  },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
@@ -350,5 +342,13 @@
     "disponivelEm": "08:54|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T09:48:32.003Z"
+  },
+  "JESUS EA SOLUCAO": {
+    "idNumerico": "0",
+    "nome": "JESUS EA SOLUCAO",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:33|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T08:47:35.233Z"
   }
 }

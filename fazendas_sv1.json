@@ -170,8 +170,8 @@
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:14|04/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T10:14:02.018Z"
   },
@@ -307,9 +307,9 @@
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:57|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T14:57:21.220Z"
+    "disponivelEm": "16:59|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T14:59:30.409Z"
   },
   "PENOSO FARM'S": {
     "idNumerico": "10",

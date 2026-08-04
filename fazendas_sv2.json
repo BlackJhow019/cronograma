@@ -1,4 +1,12 @@
 {
+  "999": {
+    "idNumerico": "39",
+    "nome": "999",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:56|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T18:24:58.553Z"
+  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -231,14 +239,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T18:14:09.977Z"
   },
-  "JAH RASTAFARI": {
-    "idNumerico": "39",
-    "nome": "JAH RASTAFARI",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:56|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T18:24:58.553Z"
-  },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
@@ -347,8 +347,8 @@
     "idNumerico": "3",
     "nome": "$ Company $r.RC_PlinioDmG $",
     "status": "INDISPONIVEL",
-    "disponivelEm": "20:55|04/08/2026",
+    "disponivelEm": "20:56|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T18:55:40.821Z"
+    "roubadaEm": "2026-08-04T18:56:12.831Z"
   }
 }

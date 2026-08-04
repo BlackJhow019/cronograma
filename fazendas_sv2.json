@@ -271,6 +271,22 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
+  "..OURO..PR3TO..": {
+    "idNumerico": "5",
+    "nome": "..OURO..PR3TO..",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:01|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T17:24:05.115Z"
+  },
+  "$ COMPANY $R.RC_PLINIODMG $": {
+    "idNumerico": "3",
+    "nome": "$ Company $r.RC_PlinioDmG $",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:56|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T18:56:42.372Z"
+  },
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
@@ -278,6 +294,22 @@
     "disponivelEm": "16:48|04/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T18:20:55.422Z"
+  },
+  "K1NG FARM'S": {
+    "idNumerico": "25",
+    "nome": "K1NG Farm's",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:50|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T18:07:59.629Z"
+  },
+  "ROUBO OFF": {
+    "idNumerico": "7",
+    "nome": "roubo off",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:09|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T18:07:43.453Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -287,68 +319,36 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T18:12:42.828Z"
   },
-  "QUEM ROUBAR E PETISTA": {
-    "idNumerico": "44",
-    "nome": "Quem Roubar e Petista",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T17:28:56.718Z"
-  },
-  "/VENDERPRODUTOS": {
-    "idNumerico": "7",
-    "nome": "/VENDERPRODUTOS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:09|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T18:07:43.453Z"
-  },
-  "..OURO..PR3TO..": {
-    "idNumerico": "5",
-    "nome": "..OURO..PR3TO..",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:01|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T17:24:05.115Z"
-  },
-  "~E V O M~": {
-    "idNumerico": "25",
-    "nome": "~E V O M~",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:50|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T18:07:59.629Z"
-  },
-  "RICO LOUCO": {
+  "ROCK FARM": {
     "idNumerico": "11",
-    "nome": "rico louco",
+    "nome": "RocK Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:05|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T17:44:14.144Z"
   },
-  "FARM DA THATY": {
-    "idNumerico": "1",
-    "nome": "Farm da Thaty",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:41|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T17:32:14.470Z"
-  },
-  "YT @GANDIA_RP": {
+  "FAZENDA DO GALIN": {
     "idNumerico": "15",
-    "nome": "YT @GANDIA_RP",
+    "nome": "Fazenda do Galin",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:52|04/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T17:32:56.962Z"
   },
-  "$ COMPANY $R.RC_PLINIODMG $": {
-    "idNumerico": "3",
-    "nome": "$ Company $r.RC_PlinioDmG $",
+  "021": {
+    "idNumerico": "1",
+    "nome": "021",
     "status": "INDISPONIVEL",
-    "disponivelEm": "20:56|04/08/2026",
+    "disponivelEm": "16:41|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T17:32:14.470Z"
+  },
+  "CHAMA A POLICIA": {
+    "idNumerico": "44",
+    "nome": "CHAMA A POLICIA",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T18:56:12.831Z"
+    "roubadaEm": "2026-08-04T17:28:56.718Z"
   }
 }

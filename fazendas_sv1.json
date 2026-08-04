@@ -4,7 +4,7 @@
     "nome": "rico louco",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:59|04/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-04T10:59:11.312Z"
   },
   "KODIAK": {
@@ -130,10 +130,10 @@
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:23|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T01:19:12.112Z"
+    "roubadaEm": "2026-08-04T11:23:25.028Z"
   },
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",

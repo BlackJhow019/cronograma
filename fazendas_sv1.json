@@ -92,7 +92,7 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:28|04/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-04T20:28:05.083Z"
   },
   "AZEROX": {
@@ -178,10 +178,10 @@
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:37|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T14:23:44.442Z"
+    "roubadaEm": "2026-08-04T20:37:01.282Z"
   },
   "NOREX FARM'S": {
     "idNumerico": "13",

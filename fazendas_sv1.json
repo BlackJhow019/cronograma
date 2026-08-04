@@ -27,7 +27,7 @@
     "idNumerico": "26",
     "nome": "Rafha investimentos $",
     "status": "INDISPONIVEL",
-    "disponivelEm": "05:46|04/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T03:46:00.524Z"
   },
@@ -226,9 +226,9 @@
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:42|04/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-04T03:42:54.552Z"
   },
   "K1NG FARM'S": {

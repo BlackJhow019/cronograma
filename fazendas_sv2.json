@@ -155,9 +155,9 @@
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
     "status": "INDISPONIVEL",
-    "disponivelEm": "13:26|04/08/2026",
+    "disponivelEm": "13:27|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T13:45:38.090Z"
+    "roubadaEm": "2026-08-04T13:46:31.924Z"
   },
   "YANINHA_ANTIFALSOS": {
     "idNumerico": "34",
@@ -198,14 +198,6 @@
     "disponivelEm": "10:56|04/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T10:19:45.781Z"
-  },
-  "FARM DO GALO": {
-    "idNumerico": "40",
-    "nome": "FARM DO GALO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:00|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T10:43:56.915Z"
   },
   "FAZENDA DO GALIN": {
     "idNumerico": "15",
@@ -320,12 +312,20 @@
     "roubadaEm": "2026-08-04T13:33:25.068Z"
   },
   "RICK FARM'S": {
-    "idNumerico": "9",
+    "idNumerico": "40",
     "nome": "Rick Farm's",
     "status": "INDISPONIVEL",
-    "disponivelEm": "15:37|04/08/2026",
+    "disponivelEm": "11:00|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T10:43:56.915Z"
+  },
+  "@FILH_ODOPAII": {
+    "idNumerico": "12",
+    "nome": "@filh_odopaii",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:41|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T13:37:02.425Z"
+    "roubadaEm": "2026-08-04T13:41:25.768Z"
   },
   "JAH RASTAFARI": {
     "idNumerico": "39",
@@ -334,14 +334,6 @@
     "disponivelEm": "12:08|04/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T13:29:48.893Z"
-  },
-  "FAMILIA KYLES": {
-    "idNumerico": "12",
-    "nome": "Familia KyLeS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:41|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T13:41:25.768Z"
   },
   "30PRAUM": {
     "idNumerico": "16",

@@ -186,10 +186,10 @@
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:32|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T01:29:19.176Z"
+    "roubadaEm": "2026-08-04T07:23:06.843Z"
   },
   "AWAKE COMPANY": {
     "idNumerico": "13",
@@ -335,6 +335,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T07:00:41.134Z"
   },
+  "/VENDERPRODUTOS": {
+    "idNumerico": "7",
+    "nome": "/VENDERPRODUTOS",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:20|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T07:20:34.365Z"
+  },
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
@@ -342,13 +350,5 @@
     "disponivelEm": "04:36|04/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T05:11:42.874Z"
-  },
-  "/VENDERPRODUTOS": {
-    "idNumerico": "7",
-    "nome": "/VENDERPRODUTOS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:20|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T07:20:34.365Z"
   }
 }

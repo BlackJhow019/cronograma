@@ -258,17 +258,17 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:21|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T01:58:30.493Z"
+    "roubadaEm": "2026-08-04T13:21:51.903Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:00|04/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-04T13:00:10.986Z"
   },
   "..OURO..PR3TO..": {

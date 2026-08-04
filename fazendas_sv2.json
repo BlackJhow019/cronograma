@@ -223,22 +223,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T09:35:02.928Z"
   },
-  "FAZENDINHA DO IGEZE": {
-    "idNumerico": "36",
-    "nome": "fazendinha do igeze",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T21:43:58.843Z"
-  },
-  "SE ROUBAR MORRE": {
-    "idNumerico": "41",
-    "nome": "SE ROUBAR MORRE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:46|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T04:46:45.719Z"
-  },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
     "nome": "YellowStone - By Monster",
@@ -350,5 +334,13 @@
     "disponivelEm": "07:33|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T08:47:35.233Z"
+  },
+  "FAZENDA DO MIRIM": {
+    "idNumerico": "36",
+    "nome": "Fazenda Do MIRIM",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:53|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T09:47:31.269Z"
   }
 }

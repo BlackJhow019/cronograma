@@ -250,8 +250,8 @@
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:39|03/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T19:39:09.030Z"
   },
@@ -270,14 +270,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T18:51:01.681Z"
-  },
-  "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": "38",
-    "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:42|03/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T19:42:35.490Z"
   },
   "..OURO..PR3TO..": {
     "idNumerico": "5",
@@ -316,7 +308,7 @@
     "nome": "Familia AlmanaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:31|04/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-04T00:31:18.420Z"
   },
   "PENOSO FARM'S": {

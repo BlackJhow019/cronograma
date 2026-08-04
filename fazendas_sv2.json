@@ -119,14 +119,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T12:32:44.514Z"
   },
-  "RICK FARM'S": {
-    "idNumerico": "9",
-    "nome": "Rick Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T13:48:21.779Z"
-  },
   "DONA SEM RAZAO": {
     "idNumerico": "26",
     "nome": "Dona sem razao",
@@ -279,13 +271,21 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T14:43:55.773Z"
   },
-  "QUEM ROUBAR E PETISTA": {
-    "idNumerico": "44",
-    "nome": "Quem Roubar e Petista",
+  "30PRAUM": {
+    "idNumerico": "16",
+    "nome": "30PRAUM",
     "status": "INDISPONIVEL",
-    "disponivelEm": "15:02|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T17:28:56.718Z"
+    "disponivelEm": "17:32|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T17:59:28.303Z"
+  },
+  "MALVADA'S FARM": {
+    "idNumerico": "32",
+    "nome": "Malvada's Farm",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T16:34:43.249Z"
   },
   "..OURO..PR3TO..": {
     "idNumerico": "5",
@@ -343,20 +343,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T17:53:23.049Z"
   },
-  "FAMILIA ALMANAK": {
-    "idNumerico": "32",
-    "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T16:34:43.249Z"
-  },
-  "30PRAUM": {
-    "idNumerico": "16",
-    "nome": "30PRAUM",
+  "FARM DO SAPATO": {
+    "idNumerico": "9",
+    "nome": "FARM DO SAPATO",
     "status": "INDISPONIVEL",
-    "disponivelEm": "17:32|04/08/2026",
+    "disponivelEm": "17:15|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T17:59:28.303Z"
+    "roubadaEm": "2026-08-04T18:03:58.026Z"
   }
 }

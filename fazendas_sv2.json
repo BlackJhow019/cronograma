@@ -42,9 +42,9 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-04T12:15:49.357Z"
   },
   "RICO LOUCO": {
@@ -199,6 +199,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T15:09:59.878Z"
   },
+  "RAMONZIN_FRANCA": {
+    "idNumerico": "21",
+    "nome": "RAMONZIN_FRANCA",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T15:17:02.696Z"
+  },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
@@ -295,6 +303,22 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T17:03:40.838Z"
   },
+  "DEAD (:": {
+    "idNumerico": "27",
+    "nome": "Dead (:",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:15|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T17:15:13.986Z"
+  },
+  "FARM DO GALO": {
+    "idNumerico": "40",
+    "nome": "FARM DO GALO",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:32|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T17:15:58.250Z"
+  },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
@@ -319,6 +343,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T14:43:55.773Z"
   },
+  "AWAKE COMPANY": {
+    "idNumerico": "13",
+    "nome": "AwaKe Company",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:49|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T14:34:50.708Z"
+  },
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
@@ -326,29 +358,5 @@
     "disponivelEm": "15:14|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T15:49:45.197Z"
-  },
-  "NOREX FARM'S": {
-    "idNumerico": "13",
-    "nome": "Norex farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:49|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T14:34:50.708Z"
-  },
-  "DEAD (:": {
-    "idNumerico": "27",
-    "nome": "Dead (:",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:15|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T17:15:13.986Z"
-  },
-  "FARM DO GALO": {
-    "idNumerico": "40",
-    "nome": "FARM DO GALO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:32|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T17:15:58.250Z"
   }
 }

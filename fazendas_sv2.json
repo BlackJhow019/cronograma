@@ -275,17 +275,9 @@
     "idNumerico": "26",
     "nome": "Dona sem razao",
     "status": "INDISPONIVEL",
-    "disponivelEm": "17:10|04/08/2026",
+    "disponivelEm": "17:09|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T15:10:17.426Z"
-  },
-  "VALE DAS SOMBRAS": {
-    "idNumerico": "24",
-    "nome": "Vale das Sombras",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:13|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T14:43:55.773Z"
+    "roubadaEm": "2026-08-04T15:09:59.878Z"
   },
   "NOREX FARM'S": {
     "idNumerico": "13",
@@ -294,14 +286,6 @@
     "disponivelEm": "14:49|04/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T14:34:50.708Z"
-  },
-  "FAMILIA KUSH": {
-    "idNumerico": "34",
-    "nome": "Familia KuSh",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:57|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T15:16:54.047Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
@@ -343,12 +327,28 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T13:29:48.893Z"
   },
-  "THUG LIFE": {
+  "RAMONZIN_FRANCA": {
     "idNumerico": "21",
-    "nome": "THUG LIFE",
+    "nome": "RAMONZIN_FRANCA",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:15|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T15:17:02.696Z"
+  },
+  "YANINHA_ANTIFALSOS": {
+    "idNumerico": "34",
+    "nome": "yAninha_AntiFalsos",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:56|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T15:16:35.033Z"
+  },
+  "VENDO 500KM ACEITO TROCAS": {
+    "idNumerico": "24",
+    "nome": "VENDO 500km ACEITO TROCAS",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:13|04/08/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T15:17:18.717Z"
+    "roubadaEm": "2026-08-04T14:43:55.773Z"
   }
 }

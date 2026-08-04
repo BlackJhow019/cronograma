@@ -231,14 +231,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T03:34:21.493Z"
   },
-  "FARM DA THATY": {
-    "idNumerico": "1",
-    "nome": "Farm da Thaty",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T05:17:09.566Z"
-  },
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
@@ -357,6 +349,14 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "11:52|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T11:27:03.857Z"
+    "roubadaEm": "2026-08-04T11:27:20.525Z"
+  },
+  "021": {
+    "idNumerico": "1",
+    "nome": "021",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:00|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T11:28:54.665Z"
   }
 }

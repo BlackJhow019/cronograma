@@ -35,7 +35,7 @@
     "idNumerico": "35",
     "nome": "Lek0zika",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:24|04/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T14:24:56.826Z"
   },
@@ -178,9 +178,9 @@
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:23|04/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-04T14:23:44.442Z"
   },
   "NOREX FARM'S": {

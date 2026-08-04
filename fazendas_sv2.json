@@ -138,9 +138,9 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:15|04/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-04T18:14:09.977Z"
   },
   "FAZENDA DO MIRIM": {
@@ -174,14 +174,6 @@
     "disponivelEm": "19:25|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T19:44:13.996Z"
-  },
-  "LEK0ZIKA": {
-    "idNumerico": "35",
-    "nome": "Lek0zika",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:42|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T19:42:11.313Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",
@@ -310,6 +302,14 @@
     "disponivelEm": "22:21|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T20:21:40.153Z"
+  },
+  "LEK0ZIKA": {
+    "idNumerico": "35",
+    "nome": "Lek0zika",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:42|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T19:42:11.313Z"
   },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",

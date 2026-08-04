@@ -239,6 +239,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T10:43:56.915Z"
   },
+  "FAZENDA DO GALIN": {
+    "idNumerico": "15",
+    "nome": "Fazenda do Galin",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T10:40:46.696Z"
+  },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
@@ -327,22 +335,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T10:53:45.672Z"
   },
-  "PENOSO FARM'S": {
-    "idNumerico": "10",
-    "nome": "Penoso Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:52|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T12:55:13.786Z"
-  },
-  "FARMS DE GALOPISITAS": {
-    "idNumerico": "20",
-    "nome": "Farms de Galopisitas",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:40|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T12:40:00.072Z"
-  },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
@@ -350,5 +342,21 @@
     "disponivelEm": "13:24|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T13:15:03.964Z"
+  },
+  "ARIANA_B13": {
+    "idNumerico": "10",
+    "nome": "Ariana_B13",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:52|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T12:55:13.786Z"
+  },
+  "CHAPADO MY LOVE": {
+    "idNumerico": "20",
+    "nome": "ChaPaDo My Love",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:40|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T12:40:00.072Z"
   }
 }

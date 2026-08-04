@@ -98,10 +98,10 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:53|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T11:40:16.376Z"
+    "roubadaEm": "2026-08-04T17:53:08.148Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
@@ -292,7 +292,7 @@
     "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:45|04/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-04T17:46:45.715Z"
   },
   "THUG LIFE": {

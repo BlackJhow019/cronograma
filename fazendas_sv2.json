@@ -335,14 +335,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T00:51:01.888Z"
   },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:39|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T22:39:10.220Z"
-  },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
@@ -357,6 +349,14 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "23:09|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T01:16:40.241Z"
+    "roubadaEm": "2026-08-04T01:16:58.510Z"
+  },
+  "JESUS EA SOLUCAO": {
+    "idNumerico": "0",
+    "nome": "JESUS EA SOLUCAO",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:39|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-03T22:39:10.220Z"
   }
 }

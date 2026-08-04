@@ -1,12 +1,4 @@
 {
-  "999": {
-    "idNumerico": "39",
-    "nome": "999",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:10|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T22:10:58.693Z"
-  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -303,6 +295,38 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T20:30:54.033Z"
   },
+  "AWAKE COMPANY": {
+    "idNumerico": "13",
+    "nome": "AwaKe Company",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:26|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T02:12:49.159Z"
+  },
+  "JAH RASTAFARI": {
+    "idNumerico": "39",
+    "nome": "JAH RASTAFARI",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:48|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T02:16:52.261Z"
+  },
+  "WORK INDUSTRIA'S LIMITED": {
+    "idNumerico": "38",
+    "nome": "Work Industria's Limited",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:01|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T02:00:01.358Z"
+  },
+  "YT @GANDIA_RP": {
+    "idNumerico": "15",
+    "nome": "YT @GANDIA_RP",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:38|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T01:29:19.176Z"
+  },
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
@@ -326,29 +350,5 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
-  },
-  "FAZENDINHA BETREZE 2": {
-    "idNumerico": "38",
-    "nome": "Fazendinha BeTreZe 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:01|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T02:00:01.358Z"
-  },
-  "FAZENDA DO GALIN": {
-    "idNumerico": "15",
-    "nome": "Fazenda do Galin",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:38|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T01:29:19.176Z"
-  },
-  "AWAKE COMPANY": {
-    "idNumerico": "13",
-    "nome": "AwaKe Company",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:26|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T02:12:49.159Z"
   }
 }

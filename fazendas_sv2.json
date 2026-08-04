@@ -247,14 +247,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T08:05:29.767Z"
   },
-  "FARME DO DRAKE": {
-    "idNumerico": "35",
-    "nome": "Farme do Drake",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T05:08:33.489Z"
-  },
   "@FILH_ODOPAII": {
     "idNumerico": "12",
     "nome": "@filh_odopaii",
@@ -335,6 +327,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T08:14:07.726Z"
   },
+  "TREMBALA": {
+    "idNumerico": "42",
+    "nome": "TremBala",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:23|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T09:19:49.586Z"
+  },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
@@ -343,12 +343,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T08:47:35.233Z"
   },
-  "TREMBALA": {
-    "idNumerico": "42",
-    "nome": "TremBala",
+  "LEK0ZIKA": {
+    "idNumerico": "35",
+    "nome": "Lek0zika",
     "status": "INDISPONIVEL",
-    "disponivelEm": "08:23|04/08/2026",
+    "disponivelEm": "11:22|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T09:19:49.586Z"
+    "roubadaEm": "2026-08-04T09:22:16.908Z"
   }
 }

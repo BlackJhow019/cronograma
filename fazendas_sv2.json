@@ -354,9 +354,9 @@
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:32|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T13:38:57.887Z"
+    "roubadaEm": "2026-08-04T17:59:28.303Z"
   }
 }

@@ -66,10 +66,10 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:51|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T05:47:21.001Z"
+    "roubadaEm": "2026-08-04T10:58:54.304Z"
   },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
@@ -346,14 +346,14 @@
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:53|04/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T10:14:02.013Z"
+    "roubadaEm": null
   },
-  "MALVADA'S FARM": {
+  "FAMILIA ALMANAK": {
     "idNumerico": "32",
-    "nome": "Malvada's Farm",
+    "nome": "Familia AlmanaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:56|04/08/2026",
     "cofreConsertado": true,

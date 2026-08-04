@@ -10,10 +10,10 @@
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:54|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T06:09:40.201Z"
+    "roubadaEm": "2026-08-04T11:54:51.254Z"
   },
   "FAZENDA CUIUDA - BY GAZOLA": {
     "idNumerico": "17",
@@ -327,6 +327,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T11:31:59.819Z"
   },
+  "FAZENDA REI DROGADO": {
+    "idNumerico": "31",
+    "nome": "Fazenda Rei Drogado",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:39|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T11:39:53.650Z"
+  },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
@@ -343,20 +351,12 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "FAZENDA REI DROGADO": {
-    "idNumerico": "31",
-    "nome": "Fazenda Rei Drogado",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:39|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T11:39:53.650Z"
-  },
-  "AZEROX": {
+  "B13 :)": {
     "idNumerico": "23",
-    "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "nome": "B13 :)",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:19|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T09:35:02.928Z"
+    "roubadaEm": "2026-08-04T11:40:16.510Z"
   }
 }

@@ -218,10 +218,10 @@
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:19|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T12:32:44.810Z"
+    "roubadaEm": "2026-08-04T18:19:51.855Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",
@@ -268,7 +268,7 @@
     "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:14|04/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-04T18:14:09.177Z"
   },
   "..OURO..PR3TO..": {

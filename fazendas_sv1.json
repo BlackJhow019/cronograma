@@ -132,7 +132,7 @@
     "nome": "Quem Roubar e Petista",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:32|05/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-04T22:32:57.300Z"
   },
   "GRANJA DO IMONKEY": {
@@ -298,10 +298,10 @@
   "THUG LIFE": {
     "idNumerico": "21",
     "nome": "THUG LIFE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:37|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T12:23:18.372Z"
+    "roubadaEm": "2026-08-04T22:37:37.293Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",

@@ -26,10 +26,10 @@
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:37|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T14:23:44.774Z"
+    "roubadaEm": "2026-08-04T20:37:02.607Z"
   },
   "AMO O LOWER": {
     "idNumerico": "2",
@@ -271,6 +271,38 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T20:21:40.153Z"
   },
+  "B13 :)": {
+    "idNumerico": "23",
+    "nome": "B13 :)",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:50|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T20:14:02.717Z"
+  },
+  "RANCHO DO DOUTOR": {
+    "idNumerico": "14",
+    "nome": "Rancho do Doutor",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:54|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T17:38:33.750Z"
+  },
+  "YELLOWSTONE - BY MONSTER": {
+    "idNumerico": "16",
+    "nome": "YellowStone - By Monster",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:27|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T19:18:23.609Z"
+  },
+  "LA FAMILIA CHIARADIA": {
+    "idNumerico": "43",
+    "nome": "LA FAMILIA CHIARADIA",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
@@ -318,29 +350,5 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
-  },
-  "30PRAUM": {
-    "idNumerico": "16",
-    "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:27|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T19:18:23.609Z"
-  },
-  "AZEROX": {
-    "idNumerico": "23",
-    "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:50|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T20:14:02.717Z"
-  },
-  "ROLINHA CANSADA FARMS": {
-    "idNumerico": "14",
-    "nome": "Rolinha Cansada Farms",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:54|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T17:38:33.750Z"
   }
 }

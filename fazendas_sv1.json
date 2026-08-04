@@ -82,10 +82,10 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:26|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T01:15:19.782Z"
+    "roubadaEm": "2026-08-04T11:26:52.136Z"
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
@@ -317,7 +317,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "13:25|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T11:25:29.055Z"
+    "roubadaEm": "2026-08-04T11:25:44.171Z"
   },
   "FAMILIA KYLES": {
     "idNumerico": "12",

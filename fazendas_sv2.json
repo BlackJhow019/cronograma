@@ -87,22 +87,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T20:16:20.810Z"
   },
-  "FARMS DE GALOPISITAS": {
-    "idNumerico": "20",
-    "nome": "Farms de Galopisitas",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:32|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T22:50:29.959Z"
-  },
-  "FARM DO GALO": {
-    "idNumerico": "40",
-    "nome": "FARM DO GALO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:38|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T22:21:07.614Z"
-  },
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
     "nome": "VENDO 500km ACEITO TROCAS",
@@ -126,6 +110,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T17:43:48.844Z"
+  },
+  "$ COMPANY $R.RC_PLINIODMG $": {
+    "idNumerico": "3",
+    "nome": "$ Company $r.RC_PlinioDmG $",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T18:56:42.372Z"
   },
   "ROUBO OFF": {
     "idNumerico": "7",
@@ -350,5 +342,21 @@
     "disponivelEm": "01:36|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T23:58:30.047Z"
+  },
+  "RICK FARM'S": {
+    "idNumerico": "40",
+    "nome": "Rick Farm's",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:38|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T22:21:07.614Z"
+  },
+  "CHAPADO MY LOVE": {
+    "idNumerico": "20",
+    "nome": "ChaPaDo My Love",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:32|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T22:50:29.959Z"
   }
 }

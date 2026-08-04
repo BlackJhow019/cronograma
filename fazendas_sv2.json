@@ -274,10 +274,10 @@
   "@FILH_ODOPAII": {
     "idNumerico": "12",
     "nome": "@filh_odopaii",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:14|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T02:47:12.653Z"
+    "roubadaEm": "2026-08-04T08:08:48.047Z"
   },
   "KODIAK": {
     "idNumerico": "3",

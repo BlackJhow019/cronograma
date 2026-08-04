@@ -143,14 +143,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T15:52:35.767Z"
   },
-  "021": {
-    "idNumerico": "1",
-    "nome": "021",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T11:29:07.637Z"
-  },
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
@@ -306,10 +298,10 @@
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:29|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T11:25:44.171Z"
+    "roubadaEm": "2026-08-04T16:29:50.494Z"
   },
   "FAMILIA KYLES": {
     "idNumerico": "12",

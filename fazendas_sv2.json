@@ -98,10 +98,10 @@
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
     "nome": "Farms de Galopisitas",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:32|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T17:03:40.838Z"
+    "roubadaEm": "2026-08-04T22:49:59.427Z"
   },
   "FARM DO GALO": {
     "idNumerico": "40",
@@ -151,14 +151,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T18:56:42.372Z"
   },
-  "CLUBE DA LULUZINHA": {
-    "idNumerico": "8",
-    "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T19:44:13.996Z"
-  },
   "K1NG FARM'S": {
     "idNumerico": "25",
     "nome": "K1NG Farm's",
@@ -174,14 +166,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T18:07:43.453Z"
-  },
-  "ROCK FARM": {
-    "idNumerico": "11",
-    "nome": "RocK Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
   },
   "021": {
     "idNumerico": "1",
@@ -327,6 +311,38 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T15:16:35.033Z"
   },
+  "QUEM ROUBAR E PETISTA": {
+    "idNumerico": "44",
+    "nome": "Quem Roubar e Petista",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:16|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T22:32:58.051Z"
+  },
+  "RICO LOUCO": {
+    "idNumerico": "11",
+    "nome": "rico louco",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "CANNABIS": {
+    "idNumerico": "8",
+    "nome": "CANNABIS",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T19:44:13.996Z"
+  },
+  "FARME DO DRAKE": {
+    "idNumerico": "35",
+    "nome": "Farme do Drake",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:42|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T19:42:11.313Z"
+  },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
@@ -342,21 +358,5 @@
     "disponivelEm": "21:30|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T22:26:45.478Z"
-  },
-  "QUEM ROUBAR E PETISTA": {
-    "idNumerico": "44",
-    "nome": "Quem Roubar e Petista",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:16|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T22:32:58.051Z"
-  },
-  "LEK0ZIKA": {
-    "idNumerico": "35",
-    "nome": "Lek0zika",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:42|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T19:42:11.313Z"
   }
 }

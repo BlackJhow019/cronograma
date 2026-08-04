@@ -250,10 +250,10 @@
   "ROUBO OFF": {
     "idNumerico": "7",
     "nome": "roubo off",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:07|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T23:00:30.714Z"
+    "roubadaEm": "2026-08-04T18:07:20.922Z"
   },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",

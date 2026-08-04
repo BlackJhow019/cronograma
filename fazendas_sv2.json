@@ -92,8 +92,8 @@
     "nome": "PoLeMiCo$ industri$",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:09|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T04:09:52.389Z"
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T04:09:52.313Z"
   },
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
@@ -295,6 +295,30 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T00:44:19.011Z"
   },
+  "GRUPO RANTER": {
+    "idNumerico": "19",
+    "nome": "GRUPO RANTER",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:49|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T02:39:49.979Z"
+  },
+  "B13 :)": {
+    "idNumerico": "23",
+    "nome": "B13 :)",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "FAZENDINHA DO IGEZE": {
+    "idNumerico": "36",
+    "nome": "fazendinha do igeze",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T21:43:58.843Z"
+  },
   "CANNABIS": {
     "idNumerico": "8",
     "nome": "CANNABIS",
@@ -326,29 +350,5 @@
     "disponivelEm": "04:25|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T02:25:51.017Z"
-  },
-  "FAZENDA DO MIRIM": {
-    "idNumerico": "36",
-    "nome": "Fazenda Do MIRIM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T21:43:58.843Z"
-  },
-  "AZEROX": {
-    "idNumerico": "23",
-    "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "FAZENDA DA MILLY": {
-    "idNumerico": "19",
-    "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:49|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T02:39:49.979Z"
   }
 }

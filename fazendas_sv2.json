@@ -167,14 +167,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T15:25:32.718Z"
   },
-  "HWD INVESTIMENTOS": {
-    "idNumerico": "27",
-    "nome": "hwd investimentos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T13:22:37.213Z"
-  },
   "RICK FARM'S": {
     "idNumerico": "9",
     "nome": "Rick Farm's",
@@ -303,6 +295,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T15:16:35.033Z"
   },
+  "FARMS DE GALOPISITAS": {
+    "idNumerico": "20",
+    "nome": "Farms de Galopisitas",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:45|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T17:03:40.838Z"
+  },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
@@ -343,12 +343,12 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T14:34:50.708Z"
   },
-  "FARMS DE GALOPISITAS": {
-    "idNumerico": "20",
-    "nome": "Farms de Galopisitas",
+  "DEAD (:": {
+    "idNumerico": "27",
+    "nome": "Dead (:",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:45|04/08/2026",
+    "disponivelEm": "19:14|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T17:03:40.838Z"
+    "roubadaEm": "2026-08-04T17:14:29.012Z"
   }
 }

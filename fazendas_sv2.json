@@ -154,8 +154,8 @@
   "AURA + EGO": {
     "idNumerico": "22",
     "nome": "Aura + Ego",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:23|03/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T22:56:32.647Z"
   },
@@ -172,7 +172,7 @@
     "nome": "Amo o Lower",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:18|04/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-03T22:18:26.167Z"
   },
   "FARMA DA FAMILIA ELITE": {
@@ -290,8 +290,8 @@
   "FARME DO DRAKE": {
     "idNumerico": "35",
     "nome": "Farme do Drake",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:23|03/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T21:46:04.612Z"
   },
@@ -319,13 +319,21 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:39|04/08/2026",
+  "NOREX FARM'S": {
+    "idNumerico": "13",
+    "nome": "Norex farm's",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T22:39:10.220Z"
+    "roubadaEm": "2026-08-03T18:12:56.523Z"
+  },
+  "FARM'S DE CAFE": {
+    "idNumerico": "4",
+    "nome": "Farm's de Cafe",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:53|03/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-03T21:16:25.522Z"
   },
   "ARIANA_B13": {
     "idNumerico": "10",
@@ -343,20 +351,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T22:09:01.609Z"
   },
-  "TA NO GRALI": {
-    "idNumerico": "4",
-    "nome": "ta no grali",
+  "JESUS EA SOLUCAO": {
+    "idNumerico": "0",
+    "nome": "JESUS EA SOLUCAO",
     "status": "INDISPONIVEL",
-    "disponivelEm": "21:53|03/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T21:16:25.522Z"
-  },
-  "AWAKE COMPANY": {
-    "idNumerico": "13",
-    "nome": "AwaKe Company",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "disponivelEm": "00:39|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T18:12:56.523Z"
+    "roubadaEm": "2026-08-03T22:39:10.220Z"
   }
 }

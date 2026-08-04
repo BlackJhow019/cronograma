@@ -12,7 +12,7 @@
     "nome": "KodiaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:30|04/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-04T13:30:19.547Z"
   },
   "NIKE SHOX": {
@@ -52,7 +52,7 @@
     "nome": "Wesker_u$MeTraLha",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:33|04/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-04T13:33:23.807Z"
   },
   "< GAUBRE LTDA >": {
@@ -322,10 +322,10 @@
   "FAMILIA KYLES": {
     "idNumerico": "12",
     "nome": "Familia KyLeS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:41|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T02:06:44.963Z"
+    "roubadaEm": "2026-08-04T13:41:12.982Z"
   },
   "RICK FARM'S": {
     "idNumerico": "40",

@@ -1,4 +1,12 @@
 {
+  "999": {
+    "idNumerico": "39",
+    "nome": "999",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:13|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T18:57:21.143Z"
+  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -119,14 +127,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T15:16:35.033Z"
   },
-  "FARMS DE GALOPISITAS": {
-    "idNumerico": "20",
-    "nome": "Farms de Galopisitas",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:45|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T17:03:40.838Z"
-  },
   "DEAD (:": {
     "idNumerico": "27",
     "nome": "Dead (:",
@@ -231,6 +231,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T17:32:56.962Z"
   },
+  "021": {
+    "idNumerico": "1",
+    "nome": "021",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T17:32:14.470Z"
+  },
   "ROCK FARM": {
     "idNumerico": "11",
     "nome": "RocK Farm",
@@ -271,38 +279,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T19:42:27.272Z"
   },
-  "JESUS EA SOLUCAO": {
-    "idNumerico": "0",
-    "nome": "JESUS EA SOLUCAO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:32|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T19:22:56.430Z"
-  },
-  "DM2 FARM": {
-    "idNumerico": "6",
-    "nome": "Dm2 Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:52|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T19:20:01.659Z"
-  },
-  "@FILH_ODOPAII": {
-    "idNumerico": "12",
-    "nome": "@filh_odopaii",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:00|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T19:00:55.085Z"
-  },
-  "JAH RASTAFARI": {
-    "idNumerico": "39",
-    "nome": "JAH RASTAFARI",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:13|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T18:57:21.143Z"
-  },
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
@@ -310,14 +286,6 @@
     "disponivelEm": "16:48|04/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T18:20:55.422Z"
-  },
-  "30PRAUM": {
-    "idNumerico": "16",
-    "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:27|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T19:18:23.609Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -350,5 +318,37 @@
     "disponivelEm": "19:25|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T19:44:31.420Z"
+  },
+  "OS DE RACA": {
+    "idNumerico": "0",
+    "nome": "OS DE RACA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:32|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T19:22:56.430Z"
+  },
+  "AMO A MAZZI": {
+    "idNumerico": "6",
+    "nome": "Amo a Mazzi",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:52|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T19:20:01.659Z"
+  },
+  "YELLOWSTONE - BY MONSTER": {
+    "idNumerico": "16",
+    "nome": "YellowStone - By Monster",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:27|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T19:18:23.609Z"
+  },
+  "FAMILIA KYLES": {
+    "idNumerico": "12",
+    "nome": "Familia KyLeS",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:00|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T19:00:55.085Z"
   }
 }

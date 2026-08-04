@@ -194,10 +194,10 @@
   "JAH RASTAFARI": {
     "idNumerico": "39",
     "nome": "JAH RASTAFARI",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:55|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T02:17:07.615Z"
+    "roubadaEm": "2026-08-04T12:55:36.609Z"
   },
   ".": {
     "idNumerico": "31",
@@ -340,7 +340,7 @@
     "nome": "ChaPaDo My Love",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:39|04/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-04T12:39:59.517Z"
   }
 }

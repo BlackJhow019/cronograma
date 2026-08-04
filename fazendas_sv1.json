@@ -274,10 +274,10 @@
   "..OURO..PR3TO..": {
     "idNumerico": "5",
     "nome": "..OURO..PR3TO..",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:32|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T21:03:03.088Z"
+    "roubadaEm": "2026-08-04T16:32:14.550Z"
   },
   "DM2 FARM": {
     "idNumerico": "6",

@@ -178,9 +178,9 @@
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:32|04/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-04T07:23:33.219Z"
   },
   "AWAKE COMPANY": {
@@ -335,6 +335,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T09:19:49.586Z"
   },
+  "LEK0ZIKA": {
+    "idNumerico": "35",
+    "nome": "Lek0zika",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:23|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T09:23:28.051Z"
+  },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
@@ -342,13 +350,5 @@
     "disponivelEm": "07:33|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T08:47:35.233Z"
-  },
-  "LEK0ZIKA": {
-    "idNumerico": "35",
-    "nome": "Lek0zika",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:23|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T09:23:28.051Z"
   }
 }

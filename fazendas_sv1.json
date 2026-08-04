@@ -74,8 +74,8 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:26|04/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T22:26:16.073Z"
   },
@@ -328,10 +328,10 @@
     "roubadaEm": "2026-08-04T02:06:44.963Z"
   },
   "RICK FARM'S": {
-    "idNumerico": "9",
+    "idNumerico": "40",
     "nome": "Rick Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:19|04/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T01:35:42.513Z"
   },

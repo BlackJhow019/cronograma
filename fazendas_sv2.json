@@ -151,14 +151,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T18:56:42.372Z"
   },
-  "K1NG FARM'S": {
-    "idNumerico": "25",
-    "nome": "K1NG Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T18:07:59.629Z"
-  },
   "ROUBO OFF": {
     "idNumerico": "7",
     "nome": "roubo off",
@@ -335,6 +327,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T23:24:12.850Z"
   },
+  "FAMILIA KUSH": {
+    "idNumerico": "34",
+    "nome": "Familia KuSh",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:00|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T23:20:32.092Z"
+  },
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
@@ -343,20 +343,20 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T23:13:39.598Z"
   },
-  "FARM'S NAY E NICK": {
+  "..OURO..PR3TO..": {
     "idNumerico": "5",
-    "nome": "FARM'S NAY E NICK",
+    "nome": "..OURO..PR3TO..",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:52|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T23:26:27.420Z"
   },
-  "YANINHA_ANTIFALSOS": {
-    "idNumerico": "34",
-    "nome": "yAninha_AntiFalsos",
+  "~E V O M~": {
+    "idNumerico": "25",
+    "nome": "~E V O M~",
     "status": "INDISPONIVEL",
-    "disponivelEm": "23:00|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T23:20:32.092Z"
+    "disponivelEm": "01:32|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T23:32:41.157Z"
   }
 }

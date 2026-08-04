@@ -82,10 +82,10 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:38|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T19:00:07.302Z"
+    "roubadaEm": "2026-08-04T05:46:37.182Z"
   },
   "ROUBO OFF": {
     "idNumerico": "7",
@@ -319,13 +319,13 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T02:47:12.653Z"
   },
-  "FARM DA THATY": {
-    "idNumerico": "1",
-    "nome": "Farm da Thaty",
+  "KODIAK": {
+    "idNumerico": "3",
+    "nome": "KodiaK",
     "status": "INDISPONIVEL",
-    "disponivelEm": "04:35|04/08/2026",
+    "disponivelEm": "04:14|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T05:17:09.566Z"
+    "roubadaEm": "2026-08-04T05:32:32.273Z"
   },
   "PENOSO FARM'S": {
     "idNumerico": "10",
@@ -335,20 +335,20 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T05:11:42.874Z"
   },
-  "KODIAK": {
-    "idNumerico": "3",
-    "nome": "KodiaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:14|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T05:32:32.273Z"
-  },
-  "CLUBE DA LULUZINHA": {
+  "CANNABIS": {
     "idNumerico": "8",
-    "nome": "Clube da Luluzinha",
+    "nome": "CANNABIS",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:15|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T03:34:21.493Z"
+  },
+  "FARM DA THATY": {
+    "idNumerico": "1",
+    "nome": "Farm da Thaty",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:35|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T05:17:09.566Z"
   }
 }

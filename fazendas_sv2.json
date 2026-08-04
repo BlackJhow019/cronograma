@@ -135,14 +135,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T10:19:45.781Z"
   },
-  "FAZENDA DO GALIN": {
-    "idNumerico": "15",
-    "nome": "Fazenda do Galin",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T10:40:46.696Z"
-  },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
@@ -271,6 +263,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T15:17:02.696Z"
   },
+  "YT @GANDIA_RP": {
+    "idNumerico": "15",
+    "nome": "YT @GANDIA_RP",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:01|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T15:52:34.953Z"
+  },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
     "nome": "Vale das Sombras",
@@ -278,6 +278,14 @@
     "disponivelEm": "15:13|04/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T14:43:55.773Z"
+  },
+  "LEK0ZIKA": {
+    "idNumerico": "35",
+    "nome": "Lek0zika",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:14|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T15:49:45.197Z"
   },
   "NOREX FARM'S": {
     "idNumerico": "13",
@@ -342,13 +350,5 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T13:29:48.893Z"
-  },
-  "FARME DO DRAKE": {
-    "idNumerico": "35",
-    "nome": "Farme do Drake",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:14|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T15:49:45.197Z"
   }
 }

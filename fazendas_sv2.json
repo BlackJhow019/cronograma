@@ -1,12 +1,4 @@
 {
-  "999": {
-    "idNumerico": "39",
-    "nome": "999",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T13:29:48.893Z"
-  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -271,6 +263,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T18:14:09.977Z"
   },
+  "AURA + EGO": {
+    "idNumerico": "22",
+    "nome": "Aura + Ego",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:48|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T18:20:55.422Z"
+  },
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
@@ -351,12 +351,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T17:43:48.844Z"
   },
-  "AURA + EGO": {
-    "idNumerico": "22",
-    "nome": "Aura + Ego",
+  "JAH RASTAFARI": {
+    "idNumerico": "39",
+    "nome": "JAH RASTAFARI",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:48|04/08/2026",
+    "disponivelEm": "19:56|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T18:20:55.422Z"
+    "roubadaEm": "2026-08-04T18:24:44.246Z"
   }
 }

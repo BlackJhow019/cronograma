@@ -44,7 +44,7 @@
     "nome": "Borrachas Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:21|04/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-04T18:21:46.271Z"
   },
   "WESKER_U$METRALHA": {
@@ -86,14 +86,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T11:27:20.349Z"
-  },
-  "HWD INVESTIMENTOS": {
-    "idNumerico": "27",
-    "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:22|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T13:22:37.527Z"
   },
   "AZEROX": {
     "idNumerico": "23",
@@ -194,10 +186,10 @@
   "JAH RASTAFARI": {
     "idNumerico": "39",
     "nome": "JAH RASTAFARI",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:24|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T12:55:56.579Z"
+    "roubadaEm": "2026-08-04T18:24:44.811Z"
   },
   ".": {
     "idNumerico": "31",
@@ -254,14 +246,6 @@
     "disponivelEm": "20:07|04/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T18:07:41.778Z"
-  },
-  "RANCHO DO DOUTOR": {
-    "idNumerico": "14",
-    "nome": "Rancho do Doutor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:21|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T13:21:51.903Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",

@@ -10,10 +10,10 @@
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:08|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T21:12:43.626Z"
+    "roubadaEm": "2026-08-04T06:08:42.049Z"
   },
   "FAZENDA CUIUDA - BY GAZOLA": {
     "idNumerico": "17",
@@ -341,6 +341,6 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "05:19|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T06:08:27.981Z"
+    "roubadaEm": "2026-08-04T06:08:42.115Z"
   }
 }

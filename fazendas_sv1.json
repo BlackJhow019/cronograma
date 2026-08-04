@@ -42,10 +42,10 @@
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:02|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T01:53:55.531Z"
+    "roubadaEm": "2026-08-04T12:02:21.127Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
@@ -285,7 +285,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "14:00|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T12:00:36.398Z"
+    "roubadaEm": "2026-08-04T12:00:49.600Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",

@@ -180,8 +180,8 @@
     "nome": "PoLeMiCo$ industri$",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:09|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T04:09:35.021Z"
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T04:09:52.152Z"
   },
   "NOREX FARM'S": {
     "idNumerico": "13",
@@ -314,9 +314,9 @@
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:21|04/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-03T23:21:32.988Z"
   },
   "FAMILIA KYLES": {

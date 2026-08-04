@@ -199,14 +199,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T04:46:45.719Z"
   },
-  "YELLOWSTONE - BY MONSTER": {
-    "idNumerico": "16",
-    "nome": "YellowStone - By Monster",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T08:05:29.767Z"
-  },
   "@FILH_ODOPAII": {
     "idNumerico": "12",
     "nome": "@filh_odopaii",
@@ -327,22 +319,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T11:25:43.972Z"
   },
-  "FAMILIA ALMANAK": {
-    "idNumerico": "32",
-    "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:56|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T10:53:45.672Z"
-  },
-  "FAZENDA DO MIRIM": {
-    "idNumerico": "36",
-    "nome": "Fazenda Do MIRIM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
@@ -357,6 +333,30 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "11:00|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T11:28:54.665Z"
+    "roubadaEm": "2026-08-04T11:29:08.151Z"
+  },
+  "FAMILIA ALMANAK": {
+    "idNumerico": "32",
+    "nome": "Familia AlmanaK",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:56|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T10:53:45.672Z"
+  },
+  "30PRAUM": {
+    "idNumerico": "16",
+    "nome": "30PRAUM",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:04|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T11:31:23.783Z"
+  },
+  "FAZENDA DO MIRIM": {
+    "idNumerico": "36",
+    "nome": "Fazenda Do MIRIM",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
   }
 }

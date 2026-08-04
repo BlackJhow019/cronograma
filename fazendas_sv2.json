@@ -79,14 +79,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T05:47:21.001Z"
   },
-  "ROUBO OFF": {
-    "idNumerico": "7",
-    "nome": "roubo off",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T17:57:54.380Z"
-  },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
@@ -350,5 +342,13 @@
     "disponivelEm": "04:36|04/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T05:11:42.874Z"
+  },
+  "/VENDERPRODUTOS": {
+    "idNumerico": "7",
+    "nome": "/VENDERPRODUTOS",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:20|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T07:20:20.221Z"
   }
 }

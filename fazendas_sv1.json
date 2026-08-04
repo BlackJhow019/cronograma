@@ -268,16 +268,8 @@
     "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:00|04/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-04T02:00:14.650Z"
-  },
-  "..OURO..PR3TO..": {
-    "idNumerico": "5",
-    "nome": "..OURO..PR3TO..",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:03|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T21:03:03.088Z"
   },
   "DM2 FARM": {
     "idNumerico": "6",
@@ -322,10 +314,10 @@
   "FAMILIA KYLES": {
     "idNumerico": "12",
     "nome": "Familia KyLeS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:06|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T16:24:51.149Z"
+    "roubadaEm": "2026-08-04T02:06:30.043Z"
   },
   "RICK FARM'S": {
     "idNumerico": "9",

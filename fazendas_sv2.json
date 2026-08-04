@@ -159,14 +159,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T14:34:50.708Z"
   },
-  "FARME DO DRAKE": {
-    "idNumerico": "35",
-    "nome": "Farme do Drake",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T15:49:45.197Z"
-  },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",
     "nome": "Succubus Farms",
@@ -247,13 +239,53 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T17:32:56.962Z"
   },
-  "FARM'S DE CAFE": {
-    "idNumerico": "4",
-    "nome": "Farm's de Cafe",
+  "021": {
+    "idNumerico": "1",
+    "nome": "021",
+    "status": "INDISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T17:32:14.470Z"
+  },
+  "ROCK FARM": {
+    "idNumerico": "11",
+    "nome": "RocK Farm",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
+  },
+  "TA NO GRALI": {
+    "idNumerico": "4",
+    "nome": "ta no grali",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "K1NG FARM'S": {
+    "idNumerico": "25",
+    "nome": "K1NG Farm's",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:50|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T18:07:59.629Z"
+  },
+  "FARM'S NAY E NICK": {
+    "idNumerico": "5",
+    "nome": "FARM'S NAY E NICK",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:01|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T17:24:05.115Z"
+  },
+  "LEK0ZIKA": {
+    "idNumerico": "35",
+    "nome": "Lek0zika",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:42|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T19:42:27.272Z"
   },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
@@ -295,14 +327,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T18:20:55.422Z"
   },
-  "K1NG FARM'S": {
-    "idNumerico": "25",
-    "nome": "K1NG Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:50|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T18:07:59.629Z"
-  },
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
@@ -318,30 +342,6 @@
     "disponivelEm": "17:34|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T18:12:42.828Z"
-  },
-  "ROCK FARM": {
-    "idNumerico": "11",
-    "nome": "RocK Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "021": {
-    "idNumerico": "1",
-    "nome": "021",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:41|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T17:32:14.470Z"
-  },
-  "FARM'S NAY E NICK": {
-    "idNumerico": "5",
-    "nome": "FARM'S NAY E NICK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:01|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T17:24:05.115Z"
   },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",

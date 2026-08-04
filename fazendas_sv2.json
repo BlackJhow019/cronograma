@@ -79,14 +79,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T13:40:58.724Z"
   },
-  "..OURO..PR3TO..": {
-    "idNumerico": "5",
-    "nome": "..OURO..PR3TO..",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:43|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T16:32:28.563Z"
-  },
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
@@ -319,6 +311,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T17:15:58.250Z"
   },
+  "AWAKE COMPANY": {
+    "idNumerico": "13",
+    "nome": "AwaKe Company",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:49|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T14:34:50.708Z"
+  },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
@@ -343,14 +343,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T14:43:55.773Z"
   },
-  "AWAKE COMPANY": {
-    "idNumerico": "13",
-    "nome": "AwaKe Company",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:49|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T14:34:50.708Z"
-  },
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
@@ -358,5 +350,13 @@
     "disponivelEm": "15:14|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T15:49:45.197Z"
+  },
+  "FARM'S NAY E NICK": {
+    "idNumerico": "5",
+    "nome": "FARM'S NAY E NICK",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:01|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T17:23:30.099Z"
   }
 }

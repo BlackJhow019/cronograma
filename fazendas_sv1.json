@@ -43,9 +43,9 @@
     "idNumerico": "33",
     "nome": "Borrachas Farm",
     "status": "INDISPONIVEL",
-    "disponivelEm": "01:25|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T23:25:07.002Z"
+    "disponivelEm": "01:24|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T23:24:50.893Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
@@ -101,7 +101,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "01:21|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T23:21:44.821Z"
+    "roubadaEm": "2026-08-04T23:21:31.591Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
@@ -194,9 +194,9 @@
   "JAH RASTAFARI": {
     "idNumerico": "39",
     "nome": "JAH RASTAFARI",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-04T18:24:58.104Z"
   },
   ".": {

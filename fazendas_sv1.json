@@ -42,10 +42,10 @@
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:21|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T12:02:34.620Z"
+    "roubadaEm": "2026-08-04T18:21:31.334Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",

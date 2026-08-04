@@ -191,14 +191,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T18:56:42.372Z"
   },
-  "..OURO..PR3TO..": {
-    "idNumerico": "5",
-    "nome": "..OURO..PR3TO..",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T17:24:05.115Z"
-  },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
@@ -277,7 +269,7 @@
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-08-04T17:24:05.115Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
@@ -293,23 +285,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "19:04|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T20:06:55.103Z"
-  },
-  "RANCHO DO DOUTOR": {
-    "idNumerico": "14",
-    "nome": "Rancho do Doutor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:54|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T17:38:33.750Z"
-  },
-  "LA FAMILIA CHIARADIA": {
-    "idNumerico": "43",
-    "nome": "LA FAMILIA CHIARADIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:34|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T18:12:42.828Z"
+    "roubadaEm": "2026-08-04T20:07:13.116Z"
   },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
@@ -366,5 +342,21 @@
     "disponivelEm": "18:27|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T19:18:23.609Z"
+  },
+  "SAO PEDRO 2": {
+    "idNumerico": "43",
+    "nome": "SAO PEDRO 2",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:34|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T18:12:42.828Z"
+  },
+  "ROLINHA CANSADA FARMS": {
+    "idNumerico": "14",
+    "nome": "Rolinha Cansada Farms",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:54|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T17:38:33.750Z"
   }
 }

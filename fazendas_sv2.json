@@ -223,14 +223,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T09:23:28.051Z"
   },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T08:47:35.233Z"
-  },
   "TA NO GRALI": {
     "idNumerico": "4",
     "nome": "ta no grali",
@@ -350,5 +342,13 @@
     "disponivelEm": "14:40|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T12:40:00.072Z"
+  },
+  "JESUS EA SOLUCAO": {
+    "idNumerico": "0",
+    "nome": "JESUS EA SOLUCAO",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:24|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T13:15:03.964Z"
   }
 }

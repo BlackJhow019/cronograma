@@ -60,7 +60,7 @@
     "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:16|04/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-04T12:16:02.910Z"
   },
   "RICO LOUCO": {
@@ -182,6 +182,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T04:46:45.719Z"
+  },
+  "@FILH_ODOPAII": {
+    "idNumerico": "12",
+    "nome": "@filh_odopaii",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T08:09:08.218Z"
   },
   "KODIAK": {
     "idNumerico": "3",
@@ -327,28 +335,28 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T12:02:33.845Z"
   },
-  "AZEROX": {
-    "idNumerico": "23",
-    "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:19|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T11:40:16.510Z"
-  },
-  "MALVADA'S FARM": {
+  "FAMILIA ALMANAK": {
     "idNumerico": "32",
-    "nome": "Malvada's Farm",
+    "nome": "Familia AlmanaK",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T10:53:45.672Z"
   },
-  "FAZENDINHA DO IGEZE": {
+  "FAZENDA DO MIRIM": {
     "idNumerico": "36",
-    "nome": "fazendinha do igeze",
+    "nome": "Fazenda Do MIRIM",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
+  },
+  "B13 :)": {
+    "idNumerico": "23",
+    "nome": "B13 :)",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:19|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T11:40:16.510Z"
   }
 }

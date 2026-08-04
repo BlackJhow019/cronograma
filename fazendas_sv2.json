@@ -234,9 +234,9 @@
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:15|04/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-04T21:06:52.792Z"
   },
   "AURA + EGO": {
@@ -343,6 +343,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T23:12:35.561Z"
   },
+  "NOREX FARM'S": {
+    "idNumerico": "13",
+    "nome": "Norex farm's",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:15|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T23:13:39.598Z"
+  },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
@@ -350,13 +358,5 @@
     "disponivelEm": "22:21|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T20:21:40.153Z"
-  },
-  "AWAKE COMPANY": {
-    "idNumerico": "13",
-    "nome": "AwaKe Company",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:15|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T23:13:39.598Z"
   }
 }

@@ -74,10 +74,10 @@
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:03|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T14:44:34.548Z"
+    "roubadaEm": "2026-08-04T14:03:33.191Z"
   },
   "AMO O LOWER": {
     "idNumerico": "2",
@@ -218,8 +218,8 @@
   "021": {
     "idNumerico": "1",
     "nome": "021",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:00|04/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T11:29:08.151Z"
   },

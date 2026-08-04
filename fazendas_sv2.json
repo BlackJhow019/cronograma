@@ -1,12 +1,4 @@
 {
-  "999": {
-    "idNumerico": "39",
-    "nome": "999",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:08|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T13:29:48.893Z"
-  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -94,14 +86,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T22:18:26.167Z"
-  },
-  "FRANCA": {
-    "idNumerico": "28",
-    "nome": "FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T06:10:48.616Z"
   },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
@@ -351,6 +335,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T12:40:00.072Z"
   },
+  "JAH RASTAFARI": {
+    "idNumerico": "39",
+    "nome": "JAH RASTAFARI",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:08|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T13:29:48.893Z"
+  },
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
@@ -358,5 +350,13 @@
     "disponivelEm": "11:52|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T12:55:13.786Z"
+  },
+  "WESKER_U$METRALHA": {
+    "idNumerico": "28",
+    "nome": "Wesker_u$MeTraLha",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:33|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T13:33:03.425Z"
   }
 }

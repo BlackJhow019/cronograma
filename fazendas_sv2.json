@@ -71,14 +71,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T16:36:14.200Z"
   },
-  "SAO PEDRO 2": {
-    "idNumerico": "43",
-    "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:56|03/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T20:56:42.982Z"
-  },
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
@@ -151,14 +143,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T22:18:26.167Z"
   },
-  "FARMA DA FAMILIA ELITE": {
-    "idNumerico": "33",
-    "nome": "Farma Da Familia Elite",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T16:52:29.985Z"
-  },
   "@FILH_ODOPAII": {
     "idNumerico": "12",
     "nome": "@filh_odopaii",
@@ -170,8 +154,8 @@
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:54|03/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T20:54:14.329Z"
   },
@@ -311,6 +295,22 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T00:10:44.513Z"
   },
+  "JESUS EA SOLUCAO": {
+    "idNumerico": "0",
+    "nome": "JESUS EA SOLUCAO",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:39|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-03T22:39:10.220Z"
+  },
+  "BORRACHAS FARM": {
+    "idNumerico": "33",
+    "nome": "Borrachas Farm",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T16:52:29.985Z"
+  },
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
@@ -334,14 +334,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
-  },
-  "JESUS EA SOLUCAO": {
-    "idNumerico": "0",
-    "nome": "JESUS EA SOLUCAO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:39|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-03T22:39:10.220Z"
   },
   "FAZENDA DO GALIN": {
     "idNumerico": "15",

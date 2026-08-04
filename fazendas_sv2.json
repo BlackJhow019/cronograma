@@ -1,12 +1,4 @@
 {
-  "999": {
-    "idNumerico": "39",
-    "nome": "999",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:13|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T18:57:21.143Z"
-  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -74,10 +66,10 @@
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",
     "nome": "Fazenda Rei Drogado",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:03|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T11:39:53.650Z"
+    "roubadaEm": "2026-08-04T19:03:06.290Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -271,6 +263,30 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T18:56:42.372Z"
   },
+  "FAZENDA DO GALIN": {
+    "idNumerico": "15",
+    "nome": "Fazenda do Galin",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:52|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T17:32:56.962Z"
+  },
+  "@FILH_ODOPAII": {
+    "idNumerico": "12",
+    "nome": "@filh_odopaii",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:00|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T19:00:55.085Z"
+  },
+  "JAH RASTAFARI": {
+    "idNumerico": "39",
+    "nome": "JAH RASTAFARI",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:13|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T18:57:21.143Z"
+  },
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
@@ -286,14 +302,6 @@
     "disponivelEm": "17:34|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T18:12:42.828Z"
-  },
-  "FAZENDA DO GALIN": {
-    "idNumerico": "15",
-    "nome": "Fazenda do Galin",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:52|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T17:32:56.962Z"
   },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
@@ -350,13 +358,5 @@
     "disponivelEm": "16:41|04/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T17:32:14.470Z"
-  },
-  "FAMILIA KYLES": {
-    "idNumerico": "12",
-    "nome": "Familia KyLeS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:00|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T19:00:55.085Z"
   }
 }

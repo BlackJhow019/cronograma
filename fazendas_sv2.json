@@ -218,8 +218,8 @@
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
     "nome": "YellowStone - By Monster",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:40|04/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T08:05:29.767Z"
   },
@@ -335,21 +335,13 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T10:19:45.781Z"
   },
-  "FAZENDA DO MIRIM": {
-    "idNumerico": "36",
-    "nome": "Fazenda Do MIRIM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:53|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T10:14:02.013Z"
-  },
   "FARM DO GALO": {
     "idNumerico": "40",
     "nome": "FARM DO GALO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:00|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-08-04T10:43:36.062Z"
   },
   "FAZENDA DO GALIN": {
     "idNumerico": "15",
@@ -358,5 +350,13 @@
     "disponivelEm": "10:13|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T10:40:46.696Z"
+  },
+  "FAZENDA DO MIRIM": {
+    "idNumerico": "36",
+    "nome": "Fazenda Do MIRIM",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:53|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T10:14:02.013Z"
   }
 }

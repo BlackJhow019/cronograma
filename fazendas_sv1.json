@@ -250,10 +250,10 @@
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:57|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T19:39:09.030Z"
+    "roubadaEm": "2026-08-04T00:57:20.771Z"
   },
   "ROUBO OFF": {
     "idNumerico": "7",
@@ -292,7 +292,7 @@
     "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:51|04/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-04T00:51:57.545Z"
   },
   "SAO PEDRO 2": {

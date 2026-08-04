@@ -223,14 +223,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T12:32:44.514Z"
   },
-  "AZEROX": {
-    "idNumerico": "23",
-    "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T11:40:16.510Z"
-  },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
@@ -287,6 +279,30 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T13:38:57.887Z"
   },
+  "FAMILIA ALMANAK": {
+    "idNumerico": "32",
+    "nome": "Familia AlmanaK",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:56|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T14:59:30.090Z"
+  },
+  "VALE DAS SOMBRAS": {
+    "idNumerico": "24",
+    "nome": "Vale das Sombras",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:13|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T14:43:55.773Z"
+  },
+  "B13 :)": {
+    "idNumerico": "23",
+    "nome": "B13 :)",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:59|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T15:07:02.921Z"
+  },
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
@@ -334,21 +350,5 @@
     "disponivelEm": "12:08|04/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T13:29:48.893Z"
-  },
-  "FAMILIA ALMANAK": {
-    "idNumerico": "32",
-    "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:56|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T14:59:30.090Z"
-  },
-  "VENDO 500KM ACEITO TROCAS": {
-    "idNumerico": "24",
-    "nome": "VENDO 500km ACEITO TROCAS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:13|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T14:43:55.773Z"
   }
 }

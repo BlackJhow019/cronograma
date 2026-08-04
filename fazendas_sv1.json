@@ -42,10 +42,10 @@
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:53|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T16:52:29.785Z"
+    "roubadaEm": "2026-08-04T01:53:42.606Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
@@ -339,7 +339,7 @@
     "idNumerico": "20",
     "nome": "ChaPaDo My Love",
     "status": "INDISPONIVEL",
-    "disponivelEm": "22:53|03/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T20:53:29.175Z"
   }

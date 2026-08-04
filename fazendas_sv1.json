@@ -4,7 +4,7 @@
     "nome": "rico louco",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:13|04/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-04T00:13:45.087Z"
   },
   "KODIAK": {
@@ -34,8 +34,8 @@
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:18|03/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T19:18:10.938Z"
   },
@@ -99,7 +99,7 @@
     "idNumerico": "23",
     "nome": "AzeRoX",
     "status": "INDISPONIVEL",
-    "disponivelEm": "21:22|03/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T19:22:25.717Z"
   },

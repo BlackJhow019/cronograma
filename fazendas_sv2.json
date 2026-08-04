@@ -1,12 +1,4 @@
 {
-  "999": {
-    "idNumerico": "39",
-    "nome": "999",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:13|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T18:57:21.143Z"
-  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -28,7 +20,7 @@
     "nome": "QG FARM KHAOS",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:16|04/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-04T19:16:22.388Z"
   },
   "POLEMICO$ INDUSTRI$": {
@@ -271,6 +263,22 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T17:32:56.962Z"
   },
+  "@FILH_ODOPAII": {
+    "idNumerico": "12",
+    "nome": "@filh_odopaii",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:00|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T19:00:55.085Z"
+  },
+  "JAH RASTAFARI": {
+    "idNumerico": "39",
+    "nome": "JAH RASTAFARI",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:13|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T18:57:21.143Z"
+  },
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
@@ -278,6 +286,14 @@
     "disponivelEm": "16:48|04/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T18:20:55.422Z"
+  },
+  "SAO PEDRO 2": {
+    "idNumerico": "43",
+    "nome": "SAO PEDRO 2",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:34|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T18:12:42.828Z"
   },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
@@ -339,24 +355,8 @@
     "idNumerico": "16",
     "nome": "YellowStone - By Monster",
     "status": "INDISPONIVEL",
-    "disponivelEm": "17:32|04/08/2026",
+    "disponivelEm": "18:27|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T17:59:28.303Z"
-  },
-  "FAMILIA KYLES": {
-    "idNumerico": "12",
-    "nome": "Familia KyLeS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:00|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T19:00:55.085Z"
-  },
-  "LA FAMILIA CHIARADIA": {
-    "idNumerico": "43",
-    "nome": "LA FAMILIA CHIARADIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:34|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T18:12:42.828Z"
+    "roubadaEm": "2026-08-04T19:18:02.876Z"
   }
 }

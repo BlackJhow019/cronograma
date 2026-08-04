@@ -63,14 +63,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T14:23:44.774Z"
   },
-  "GRANJA DO IMONKEY": {
-    "idNumerico": "29",
-    "nome": "Granja do iMonKeY",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:03|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T14:03:33.191Z"
-  },
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
@@ -134,6 +126,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T12:02:33.845Z"
+  },
+  "FAZENDA FELIZ": {
+    "idNumerico": "22",
+    "nome": "fazenda feliz",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T12:32:44.514Z"
   },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
@@ -350,5 +350,13 @@
     "disponivelEm": "15:13|04/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T14:43:55.773Z"
+  },
+  "SUCCUBUS FARMS": {
+    "idNumerico": "29",
+    "nome": "Succubus Farms",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:03|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T14:03:33.191Z"
   }
 }

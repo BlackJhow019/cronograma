@@ -31,14 +31,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T13:54:09.682Z"
   },
-  "SAO PEDRO 2": {
-    "idNumerico": "43",
-    "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T12:15:49.357Z"
-  },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
@@ -279,6 +271,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T18:04:24.810Z"
   },
+  "AZEROX": {
+    "idNumerico": "23",
+    "nome": "AzeRoX",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:32|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T17:53:23.049Z"
+  },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
@@ -287,9 +287,9 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T17:28:56.718Z"
   },
-  "ROUBO OFF": {
+  "/VENDERPRODUTOS": {
     "idNumerico": "7",
-    "nome": "roubo off",
+    "nome": "/VENDERPRODUTOS",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:09|04/08/2026",
     "cofreConsertado": true,
@@ -302,6 +302,14 @@
     "disponivelEm": "17:01|04/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T17:24:05.115Z"
+  },
+  "~E V O M~": {
+    "idNumerico": "25",
+    "nome": "~E V O M~",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:50|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T18:07:59.629Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
@@ -327,6 +335,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T17:32:14.470Z"
   },
+  "LA FAMILIA CHIARADIA": {
+    "idNumerico": "43",
+    "nome": "LA FAMILIA CHIARADIA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:34|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T18:12:42.828Z"
+  },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
@@ -342,21 +358,5 @@
     "disponivelEm": "16:49|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T17:43:48.844Z"
-  },
-  "B13 :)": {
-    "idNumerico": "23",
-    "nome": "B13 :)",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:32|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T17:53:23.049Z"
-  },
-  "K1NG FARM'S": {
-    "idNumerico": "25",
-    "nome": "K1NG Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:50|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T18:07:59.629Z"
   }
 }

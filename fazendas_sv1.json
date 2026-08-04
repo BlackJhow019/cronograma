@@ -220,7 +220,7 @@
     "nome": "fazenda feliz",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:32|04/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-04T12:32:44.810Z"
   },
   "OS DE RACA": {
@@ -338,9 +338,9 @@
   "CHAPADO MY LOVE": {
     "idNumerico": "20",
     "nome": "ChaPaDo My Love",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:39|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T20:53:29.175Z"
+    "roubadaEm": "2026-08-04T12:39:36.829Z"
   }
 }

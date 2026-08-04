@@ -140,7 +140,7 @@
     "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:01|04/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-04T13:00:08.830Z"
   },
   "DEAD (:": {
@@ -162,10 +162,10 @@
   "@FILH_ODOPAII": {
     "idNumerico": "12",
     "nome": "@filh_odopaii",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:20|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T08:09:08.218Z"
+    "roubadaEm": "2026-08-04T13:13:58.944Z"
   },
   "KODIAK": {
     "idNumerico": "3",
@@ -247,14 +247,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T10:43:56.915Z"
   },
-  "FAZENDA DO GALIN": {
-    "idNumerico": "15",
-    "nome": "Fazenda do Galin",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:13|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T10:40:46.696Z"
-  },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
@@ -335,14 +327,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T12:55:55.795Z"
   },
-  "PENOSO FARM'S": {
-    "idNumerico": "10",
-    "nome": "Penoso Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:52|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T12:55:13.786Z"
-  },
   "MALVADA'S FARM": {
     "idNumerico": "32",
     "nome": "Malvada's Farm",
@@ -350,6 +334,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T10:53:45.672Z"
+  },
+  "PENOSO FARM'S": {
+    "idNumerico": "10",
+    "nome": "Penoso Farm's",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:52|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T12:55:13.786Z"
   },
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",

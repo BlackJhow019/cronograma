@@ -247,14 +247,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T11:29:08.151Z"
   },
-  "30PRAUM": {
-    "idNumerico": "16",
-    "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:05|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T11:31:59.819Z"
-  },
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",
     "nome": "Fazenda Rei Drogado",
@@ -358,5 +350,13 @@
     "disponivelEm": "15:37|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T13:37:02.425Z"
+  },
+  "YELLOWSTONE - BY MONSTER": {
+    "idNumerico": "16",
+    "nome": "YellowStone - By Monster",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:04|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T13:38:45.979Z"
   }
 }

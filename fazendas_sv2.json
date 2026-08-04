@@ -271,14 +271,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T02:00:01.358Z"
   },
-  "CANNABIS": {
-    "idNumerico": "8",
-    "nome": "CANNABIS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:09|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T02:54:33.115Z"
-  },
   "021": {
     "idNumerico": "1",
     "nome": "021",
@@ -350,5 +342,13 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
+  },
+  "CLUBE DA LULUZINHA": {
+    "idNumerico": "8",
+    "nome": "Clube da Luluzinha",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:15|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T03:34:21.493Z"
   }
 }

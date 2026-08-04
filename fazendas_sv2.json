@@ -10,7 +10,7 @@
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T11:55:13.454Z"
@@ -116,7 +116,7 @@
     "nome": "/VENDERPRODUTOS",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:54|04/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-04T16:54:45.567Z"
   },
   "TREMBALA": {
@@ -132,7 +132,7 @@
     "nome": "Quem Roubar e Petista",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:38|04/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-04T16:54:54.299Z"
   },
   "FAZENDA REI DROGADO": {
@@ -295,14 +295,6 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "FARM'S DE CAFE": {
-    "idNumerico": "4",
-    "nome": "Farm's de Cafe",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:49|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T16:46:13.938Z"
-  },
   "CANNABIS": {
     "idNumerico": "8",
     "nome": "CANNABIS",
@@ -318,6 +310,14 @@
     "disponivelEm": "14:56|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T15:16:35.033Z"
+  },
+  "FARM'S DE CAFE": {
+    "idNumerico": "4",
+    "nome": "Farm's de Cafe",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:49|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T16:46:13.938Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",

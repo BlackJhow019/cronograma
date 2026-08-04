@@ -63,14 +63,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T19:04:33.003Z"
   },
-  "DONA SEM RAZAO": {
-    "idNumerico": "26",
-    "nome": "Dona sem razao",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:09|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T15:09:59.878Z"
-  },
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",
     "nome": "RAMONZIN_FRANCA",
@@ -158,14 +150,6 @@
     "disponivelEm": "17:15|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T18:04:24.810Z"
-  },
-  "AZEROX": {
-    "idNumerico": "23",
-    "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:32|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T17:53:23.049Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
@@ -284,7 +268,7 @@
     "nome": "Ariana_B13",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:04|04/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-04T20:07:13.116Z"
   },
   "JESUS EA SOLUCAO": {
@@ -310,14 +294,6 @@
     "disponivelEm": "21:00|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T19:00:55.085Z"
-  },
-  "JAH RASTAFARI": {
-    "idNumerico": "39",
-    "nome": "JAH RASTAFARI",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:13|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T18:57:21.143Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -358,5 +334,13 @@
     "disponivelEm": "18:54|04/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T17:38:33.750Z"
+  },
+  "B13 :)": {
+    "idNumerico": "23",
+    "nome": "B13 :)",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:50|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T20:14:02.717Z"
   }
 }

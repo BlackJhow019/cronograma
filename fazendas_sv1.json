@@ -84,7 +84,7 @@
     "nome": "Fazenda da Milly",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:27|04/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-04T11:27:20.349Z"
   },
   "HWD INVESTIMENTOS": {
@@ -98,10 +98,10 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:40|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T01:15:48.526Z"
+    "roubadaEm": "2026-08-04T11:40:16.376Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",

@@ -186,9 +186,9 @@
   "K1NG FARM'S": {
     "idNumerico": "25",
     "nome": "K1NG Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:50|04/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-04T18:07:59.629Z"
   },
   "ROUBO OFF": {
@@ -274,8 +274,8 @@
   "B13 :)": {
     "idNumerico": "23",
     "nome": "B13 :)",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:50|04/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T20:14:02.717Z"
   },
@@ -327,22 +327,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T21:37:09.378Z"
   },
-  "PREFEITO ROADBLOCK": {
-    "idNumerico": "41",
-    "nome": "Prefeito Roadblock",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:21|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T20:21:40.153Z"
-  },
-  "LEK0ZIKA": {
-    "idNumerico": "35",
-    "nome": "Lek0zika",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:42|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T19:42:11.313Z"
-  },
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
@@ -358,5 +342,21 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T19:20:01.659Z"
+  },
+  "PREFEITO ROADBLOCK": {
+    "idNumerico": "41",
+    "nome": "Prefeito Roadblock",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:21|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T20:21:40.153Z"
+  },
+  "LEK0ZIKA": {
+    "idNumerico": "35",
+    "nome": "Lek0zika",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:42|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T19:42:11.313Z"
   }
 }

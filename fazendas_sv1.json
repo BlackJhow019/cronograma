@@ -36,7 +36,7 @@
     "nome": "Lek0zika",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:12|04/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-04T01:12:04.987Z"
   },
   "BORRACHAS FARM": {
@@ -82,10 +82,10 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:15|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T18:40:31.439Z"
+    "roubadaEm": "2026-08-04T01:15:19.782Z"
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
@@ -98,10 +98,10 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:15|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T19:22:25.717Z"
+    "roubadaEm": "2026-08-04T01:15:37.238Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
@@ -302,6 +302,14 @@
     "disponivelEm": "22:55|03/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T20:56:56.190Z"
+  },
+  "THUG LIFE": {
+    "idNumerico": "21",
+    "nome": "THUG LIFE",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T20:10:52.524Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",

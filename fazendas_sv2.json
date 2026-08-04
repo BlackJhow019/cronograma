@@ -138,8 +138,8 @@
   "CANNABIS": {
     "idNumerico": "8",
     "nome": "CANNABIS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:33|04/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T15:44:14.054Z"
   },
@@ -263,6 +263,22 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T18:24:58.553Z"
   },
+  "FAZENDA DO MIRIM": {
+    "idNumerico": "36",
+    "nome": "Fazenda Do MIRIM",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:49|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T17:43:48.844Z"
+  },
+  "@FILH_ODOPAII": {
+    "idNumerico": "12",
+    "nome": "@filh_odopaii",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:58|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T18:30:57.982Z"
+  },
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
@@ -278,14 +294,6 @@
     "disponivelEm": "17:34|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T18:12:42.828Z"
-  },
-  "FAZENDA DO MIRIM": {
-    "idNumerico": "36",
-    "nome": "Fazenda Do MIRIM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:49|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T17:43:48.844Z"
   },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
@@ -350,13 +358,5 @@
     "disponivelEm": "16:52|04/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T17:32:56.962Z"
-  },
-  "@FILH_ODOPAII": {
-    "idNumerico": "12",
-    "nome": "@filh_odopaii",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:58|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T18:30:57.982Z"
   }
 }

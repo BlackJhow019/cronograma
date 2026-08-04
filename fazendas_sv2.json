@@ -231,14 +231,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T21:43:58.843Z"
   },
-  "NIKE SHOX": {
-    "idNumerico": "42",
-    "nome": "NIKE SHOX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T02:25:51.017Z"
-  },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
@@ -350,5 +342,13 @@
     "disponivelEm": "07:33|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T08:47:35.233Z"
+  },
+  "TREMBALA": {
+    "idNumerico": "42",
+    "nome": "TremBala",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:22|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T09:18:52.549Z"
   }
 }

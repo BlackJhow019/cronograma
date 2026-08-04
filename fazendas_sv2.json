@@ -1,4 +1,12 @@
 {
+  "999": {
+    "idNumerico": "39",
+    "nome": "999",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T18:57:21.143Z"
+  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -58,10 +66,10 @@
   "DONA SEM RAZAO": {
     "idNumerico": "26",
     "nome": "Dona sem razao",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:06|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T15:09:59.878Z"
+    "roubadaEm": "2026-08-04T21:06:54.765Z"
   },
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",
@@ -295,22 +303,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T19:18:23.609Z"
   },
-  "@FILH_ODOPAII": {
-    "idNumerico": "12",
-    "nome": "@filh_odopaii",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:00|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T19:00:55.085Z"
-  },
-  "JAH RASTAFARI": {
-    "idNumerico": "39",
-    "nome": "JAH RASTAFARI",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T18:57:21.143Z"
-  },
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
@@ -358,5 +350,13 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T19:20:01.659Z"
+  },
+  "FAMILIA KYLES": {
+    "idNumerico": "12",
+    "nome": "Familia KyLeS",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:00|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T19:00:55.085Z"
   }
 }

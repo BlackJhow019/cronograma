@@ -204,7 +204,7 @@
     "nome": ".",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:55|05/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-04T23:55:20.106Z"
   },
   "30PRAUM": {
@@ -330,10 +330,10 @@
   "RICK FARM'S": {
     "idNumerico": "9",
     "nome": "Rick Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:43|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T13:48:21.202Z"
+    "roubadaEm": "2026-08-04T23:59:32.892Z"
   },
   "CHAPADO MY LOVE": {
     "idNumerico": "20",

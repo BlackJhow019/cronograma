@@ -1,12 +1,4 @@
 {
-  "999": {
-    "idNumerico": "39",
-    "nome": "999",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T18:57:21.143Z"
-  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -202,9 +194,9 @@
   "ROUBO OFF": {
     "idNumerico": "7",
     "nome": "roubo off",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:09|04/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-04T18:07:43.453Z"
   },
   "ROCK FARM": {
@@ -303,20 +295,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T19:18:23.609Z"
   },
-  "FAZENDA FELIZ": {
-    "idNumerico": "22",
-    "nome": "fazenda feliz",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:15|04/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-04T21:06:52.792Z"
   },
   "PREFEITO ROADBLOCK": {
@@ -327,36 +311,52 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T20:21:40.153Z"
   },
-  "FARMA DA FAMILIA ELITE": {
-    "idNumerico": "33",
-    "nome": "Farma Da Familia Elite",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:41|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T19:48:52.231Z"
-  },
-  "OS DE RACA": {
+  "JESUS EA SOLUCAO": {
     "idNumerico": "0",
-    "nome": "OS DE RACA",
+    "nome": "JESUS EA SOLUCAO",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T19:22:56.430Z"
   },
-  "AMO A MAZZI": {
+  "DM2 FARM": {
     "idNumerico": "6",
-    "nome": "Amo a Mazzi",
+    "nome": "Dm2 Farm",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T19:20:01.659Z"
   },
-  "FAMILIA KYLES": {
+  "@FILH_ODOPAII": {
     "idNumerico": "12",
-    "nome": "Familia KyLeS",
+    "nome": "@filh_odopaii",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:00|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T19:00:55.085Z"
+  },
+  "JAH RASTAFARI": {
+    "idNumerico": "39",
+    "nome": "JAH RASTAFARI",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T18:57:21.143Z"
+  },
+  "BORRACHAS FARM": {
+    "idNumerico": "33",
+    "nome": "Borrachas Farm",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:41|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T19:48:52.231Z"
+  },
+  "FAZENDA FELIZ": {
+    "idNumerico": "22",
+    "nome": "fazenda feliz",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
   }
 }

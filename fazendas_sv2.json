@@ -130,10 +130,10 @@
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:10|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T20:54:14.329Z"
+    "roubadaEm": "2026-08-04T06:10:33.251Z"
   },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",

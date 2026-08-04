@@ -114,18 +114,10 @@
   "FARM DO GALO": {
     "idNumerico": "40",
     "nome": "FARM DO GALO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:37|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T17:15:58.250Z"
-  },
-  "AWAKE COMPANY": {
-    "idNumerico": "13",
-    "nome": "AwaKe Company",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T14:34:50.708Z"
+    "roubadaEm": "2026-08-04T22:20:58.349Z"
   },
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
@@ -342,6 +334,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T19:20:01.659Z"
+  },
+  "NOREX FARM'S": {
+    "idNumerico": "13",
+    "nome": "Norex farm's",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:12|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T22:12:47.332Z"
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",

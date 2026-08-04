@@ -258,15 +258,15 @@
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
     "nome": "YellowStone - By Monster",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:40|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-08-04T08:05:16.456Z"
   },
   "FARME DO DRAKE": {
     "idNumerico": "35",
     "nome": "Farme do Drake",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T05:08:33.489Z"

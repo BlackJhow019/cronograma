@@ -1,4 +1,12 @@
 {
+  "999": {
+    "idNumerico": "39",
+    "nome": "999",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:44|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T05:00:51.627Z"
+  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -175,14 +183,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T05:05:43.042Z"
   },
-  "PENOSO FARM'S": {
-    "idNumerico": "10",
-    "nome": "Penoso Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:26|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T04:50:02.241Z"
-  },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
@@ -311,14 +311,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T04:46:45.719Z"
   },
-  "CANNABIS": {
-    "idNumerico": "8",
-    "nome": "CANNABIS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:15|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T03:34:21.493Z"
-  },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
     "nome": "YellowStone - By Monster",
@@ -326,14 +318,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
-  },
-  "JAH RASTAFARI": {
-    "idNumerico": "39",
-    "nome": "JAH RASTAFARI",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:44|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T05:00:51.627Z"
   },
   "FAMILIA KYLES": {
     "idNumerico": "12",
@@ -350,5 +334,21 @@
     "disponivelEm": "04:45|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T05:08:33.489Z"
+  },
+  "ARIANA_B13": {
+    "idNumerico": "10",
+    "nome": "Ariana_B13",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:36|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T05:11:42.874Z"
+  },
+  "CLUBE DA LULUZINHA": {
+    "idNumerico": "8",
+    "nome": "Clube da Luluzinha",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:15|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T03:34:21.493Z"
   }
 }

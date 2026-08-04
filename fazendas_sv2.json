@@ -84,7 +84,7 @@
     "nome": "rico louco",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:39|04/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-04T05:47:21.001Z"
   },
   "ROUBO OFF": {
@@ -186,9 +186,9 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:51|04/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-04T00:51:01.888Z"
   },
   "THUG LIFE": {

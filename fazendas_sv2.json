@@ -271,14 +271,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T11:23:36.564Z"
   },
-  "PENOSO FARM'S": {
-    "idNumerico": "10",
-    "nome": "Penoso Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:02|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T11:25:43.972Z"
-  },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
@@ -335,6 +327,22 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T11:40:16.510Z"
   },
+  "FARMS DE GALOPISITAS": {
+    "idNumerico": "20",
+    "nome": "Farms de Galopisitas",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:40|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T12:40:00.072Z"
+  },
+  "FAZENDINHA DO IGEZE": {
+    "idNumerico": "36",
+    "nome": "fazendinha do igeze",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
@@ -343,20 +351,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T10:53:45.672Z"
   },
-  "FAZENDA DO MIRIM": {
-    "idNumerico": "36",
-    "nome": "Fazenda Do MIRIM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "CHAPADO MY LOVE": {
-    "idNumerico": "20",
-    "nome": "ChaPaDo My Love",
+  "ARIANA_B13": {
+    "idNumerico": "10",
+    "nome": "Ariana_B13",
     "status": "INDISPONIVEL",
-    "disponivelEm": "14:40|04/08/2026",
+    "disponivelEm": "11:51|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T12:40:00.072Z"
+    "roubadaEm": "2026-08-04T12:54:45.445Z"
   }
 }

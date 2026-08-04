@@ -219,7 +219,7 @@
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
     "status": "INDISPONIVEL",
-    "disponivelEm": "22:29|03/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T00:57:22.296Z"
   },
@@ -230,14 +230,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T21:03:02.982Z"
-  },
-  "FAZENDINHA DO IGEZE": {
-    "idNumerico": "36",
-    "nome": "fazendinha do igeze",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T21:43:58.843Z"
   },
   "FARM DA THATY": {
     "idNumerico": "1",
@@ -295,14 +287,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T23:31:21.026Z"
   },
-  "FAZENDA DO GALIN": {
-    "idNumerico": "15",
-    "nome": "Fazenda do Galin",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:00|03/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T23:27:27.659Z"
-  },
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
@@ -343,9 +327,17 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T18:58:04.066Z"
   },
-  "B13 :)": {
+  "FAZENDA DO MIRIM": {
+    "idNumerico": "36",
+    "nome": "Fazenda Do MIRIM",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T21:43:58.843Z"
+  },
+  "AZEROX": {
     "idNumerico": "23",
-    "nome": "B13 :)",
+    "nome": "AzeRoX",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:10|03/08/2026",
     "cofreConsertado": false,
@@ -358,5 +350,13 @@
     "disponivelEm": "00:39|04/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T22:39:10.220Z"
+  },
+  "YT @GANDIA_RP": {
+    "idNumerico": "15",
+    "nome": "YT @GANDIA_RP",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:38|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T01:29:19.176Z"
   }
 }

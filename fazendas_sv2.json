@@ -287,14 +287,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T19:20:01.659Z"
   },
-  "FAMILIA KUSH": {
-    "idNumerico": "34",
-    "nome": "Familia KuSh",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T15:16:35.033Z"
-  },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
@@ -358,5 +350,13 @@
     "disponivelEm": "22:21|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T20:21:40.153Z"
+  },
+  "YANINHA_ANTIFALSOS": {
+    "idNumerico": "34",
+    "nome": "yAninha_AntiFalsos",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:00|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T23:20:32.127Z"
   }
 }

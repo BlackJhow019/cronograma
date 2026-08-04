@@ -330,8 +330,8 @@
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:33|04/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T08:47:35.233Z"
   },
@@ -343,9 +343,9 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T10:19:45.781Z"
   },
-  "FAZENDINHA DO IGEZE": {
+  "FAZENDA DO MIRIM": {
     "idNumerico": "36",
-    "nome": "fazendinha do igeze",
+    "nome": "Fazenda Do MIRIM",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:53|04/08/2026",
     "cofreConsertado": false,

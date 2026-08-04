@@ -90,10 +90,10 @@
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:32|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-08-04T20:16:20.810Z"
   },
   "YANINHA_ANTIFALSOS": {
     "idNumerico": "34",
@@ -150,14 +150,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T14:43:55.773Z"
-  },
-  "FARM DO SAPATO": {
-    "idNumerico": "9",
-    "nome": "FARM DO SAPATO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:15|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T18:04:24.810Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",

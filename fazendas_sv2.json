@@ -170,7 +170,7 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T13:22:37.213Z"
@@ -295,6 +295,22 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T20:18:56.398Z"
   },
+  "FAMILIA ALMANAK": {
+    "idNumerico": "32",
+    "nome": "Familia AlmanaK",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:53|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T16:34:43.249Z"
+  },
+  "FRANCA": {
+    "idNumerico": "28",
+    "nome": "FRANCA",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
     "nome": "Vale das Sombras",
@@ -334,21 +350,5 @@
     "disponivelEm": "15:33|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T15:44:14.054Z"
-  },
-  "WESKER_U$METRALHA": {
-    "idNumerico": "28",
-    "nome": "Wesker_u$MeTraLha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "MALVADA'S FARM": {
-    "idNumerico": "32",
-    "nome": "Malvada's Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:53|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T16:34:43.249Z"
   }
 }

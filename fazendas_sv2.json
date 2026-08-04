@@ -279,6 +279,22 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T18:36:45.641Z"
   },
+  "FAZENDA FELIZ": {
+    "idNumerico": "22",
+    "nome": "fazenda feliz",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:48|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T18:20:55.422Z"
+  },
+  "SAO PEDRO 2": {
+    "idNumerico": "43",
+    "nome": "SAO PEDRO 2",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:34|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T18:12:42.828Z"
+  },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
@@ -342,21 +358,5 @@
     "disponivelEm": "16:52|04/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T17:32:56.962Z"
-  },
-  "FAZENDA FELIZ": {
-    "idNumerico": "22",
-    "nome": "fazenda feliz",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:48|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T18:20:55.422Z"
-  },
-  "LA FAMILIA CHIARADIA": {
-    "idNumerico": "43",
-    "nome": "LA FAMILIA CHIARADIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:34|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T18:12:42.828Z"
   }
 }

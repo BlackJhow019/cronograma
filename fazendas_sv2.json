@@ -114,8 +114,8 @@
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
     "nome": "Vale das Sombras",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:06|04/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T08:36:36.620Z"
   },
@@ -327,6 +327,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T11:39:53.650Z"
   },
+  "BORRACHAS FARM": {
+    "idNumerico": "33",
+    "nome": "Borrachas Farm",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:02|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T12:02:33.845Z"
+  },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
@@ -350,13 +358,5 @@
     "disponivelEm": "11:19|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T11:40:16.510Z"
-  },
-  "BORRACHAS FARM": {
-    "idNumerico": "33",
-    "nome": "Borrachas Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:02|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T12:02:33.845Z"
   }
 }

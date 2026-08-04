@@ -28,7 +28,7 @@
     "nome": "Rafha investimentos $",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:46|04/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-04T03:46:00.524Z"
   },
   "LEK0ZIKA": {
@@ -102,6 +102,14 @@
     "disponivelEm": "03:15|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T01:15:48.526Z"
+  },
+  "FARM'S DE CAFE": {
+    "idNumerico": "4",
+    "nome": "Farm's de Cafe",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T22:43:12.997Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
     "idNumerico": "17",

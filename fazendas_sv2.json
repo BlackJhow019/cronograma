@@ -50,10 +50,10 @@
   "TREMBALA": {
     "idNumerico": "42",
     "nome": "TremBala",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:51|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T17:47:30.524Z"
+    "roubadaEm": "2026-08-04T23:47:23.481Z"
   },
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",
@@ -319,6 +319,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T23:41:33.757Z"
   },
+  "DM2 FARM": {
+    "idNumerico": "6",
+    "nome": "Dm2 Farm",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:43|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T23:43:31.801Z"
+  },
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",
     "nome": "Fazendinha BeTreZe 2",
@@ -350,13 +358,5 @@
     "disponivelEm": "22:52|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T23:26:27.420Z"
-  },
-  "DM2 FARM": {
-    "idNumerico": "6",
-    "nome": "Dm2 Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:43|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T23:43:31.801Z"
   }
 }

@@ -58,10 +58,10 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:21|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T10:59:11.756Z"
+    "roubadaEm": "2026-08-04T16:29:38.625Z"
   },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
@@ -199,14 +199,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T13:48:21.779Z"
   },
-  "ARIANA_B13": {
-    "idNumerico": "10",
-    "nome": "Ariana_B13",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T12:55:13.786Z"
-  },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
     "nome": "YellowStone - By Monster",
@@ -295,6 +287,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T16:22:17.949Z"
   },
+  "FARM DA THATY": {
+    "idNumerico": "1",
+    "nome": "Farm da Thaty",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:44|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T16:26:11.046Z"
+  },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
     "nome": "Vale das Sombras",
@@ -343,12 +343,12 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "FARM DA THATY": {
-    "idNumerico": "1",
-    "nome": "Farm da Thaty",
+  "PENOSO FARM'S": {
+    "idNumerico": "10",
+    "nome": "Penoso Farm's",
     "status": "INDISPONIVEL",
-    "disponivelEm": "15:44|04/08/2026",
+    "disponivelEm": "16:06|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T16:26:11.046Z"
+    "roubadaEm": "2026-08-04T16:29:51.170Z"
   }
 }

@@ -19,9 +19,9 @@
     "idNumerico": "18",
     "nome": "QG FARM KHAOS",
     "status": "INDISPONIVEL",
-    "disponivelEm": "10:52|04/08/2026",
+    "disponivelEm": "15:54|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T08:52:21.623Z"
+    "roubadaEm": "2026-08-04T13:54:09.682Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",
@@ -84,7 +84,7 @@
     "nome": "Amo o Lower",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:40|04/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-04T13:40:58.724Z"
   },
   "VALE DAS SOMBRAS": {
@@ -311,6 +311,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T13:48:21.779Z"
   },
+  "FAMILIA KUSH": {
+    "idNumerico": "34",
+    "nome": "Familia KuSh",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:50|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T13:50:47.398Z"
+  },
   "@FILH_ODOPAII": {
     "idNumerico": "12",
     "nome": "@filh_odopaii",
@@ -342,13 +350,5 @@
     "disponivelEm": "11:52|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T12:55:13.786Z"
-  },
-  "FAMILIA KUSH": {
-    "idNumerico": "34",
-    "nome": "Familia KuSh",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:50|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T13:50:47.398Z"
   }
 }

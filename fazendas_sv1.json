@@ -186,10 +186,10 @@
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:12|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T14:11:14.838Z"
+    "roubadaEm": "2026-08-04T22:12:47.045Z"
   },
   "JAH RASTAFARI": {
     "idNumerico": "39",

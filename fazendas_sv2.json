@@ -202,8 +202,8 @@
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:07|04/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T11:23:36.564Z"
   },
@@ -270,14 +270,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T10:53:45.672Z"
-  },
-  "JESUS EA SOLUCAO": {
-    "idNumerico": "0",
-    "nome": "JESUS EA SOLUCAO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:24|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T13:15:03.964Z"
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
@@ -350,5 +342,13 @@
     "disponivelEm": "11:52|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T12:55:13.786Z"
+  },
+  "OS DE RACA": {
+    "idNumerico": "0",
+    "nome": "OS DE RACA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:24|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T13:15:03.964Z"
   }
 }

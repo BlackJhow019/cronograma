@@ -106,8 +106,8 @@
   "AURA + EGO": {
     "idNumerico": "22",
     "nome": "Aura + Ego",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:26|04/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T08:59:28.794Z"
   },
@@ -147,9 +147,9 @@
     "idNumerico": "20",
     "nome": "Farms de Galopisitas",
     "status": "INDISPONIVEL",
-    "disponivelEm": "08:20|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T10:18:54.925Z"
+    "disponivelEm": "08:19|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T10:18:41.919Z"
   },
   "DM2 FARM": {
     "idNumerico": "6",
@@ -210,8 +210,8 @@
   "B13 :)": {
     "idNumerico": "23",
     "nome": "B13 :)",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:27|04/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T09:35:02.928Z"
   },
@@ -335,20 +335,20 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T08:47:35.233Z"
   },
-  "FAZENDA DO MIRIM": {
-    "idNumerico": "36",
-    "nome": "Fazenda Do MIRIM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:54|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T10:14:15.127Z"
-  },
   "TA NO GRALI": {
     "idNumerico": "4",
     "nome": "ta no grali",
     "status": "INDISPONIVEL",
     "disponivelEm": "10:56|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T10:19:45.781Z"
+  },
+  "FAZENDINHA DO IGEZE": {
+    "idNumerico": "36",
+    "nome": "fazendinha do igeze",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:53|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T10:20:03.903Z"
+    "roubadaEm": "2026-08-04T10:14:02.013Z"
   }
 }

@@ -130,9 +130,9 @@
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:18|04/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-03T22:18:26.167Z"
   },
   "FRANCA": {
@@ -279,6 +279,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T02:54:33.115Z"
   },
+  "021": {
+    "idNumerico": "1",
+    "nome": "021",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:30|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T02:59:04.549Z"
+  },
   "FAMILIA KYLES": {
     "idNumerico": "12",
     "nome": "Familia KyLeS",
@@ -342,13 +350,5 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
-  },
-  "021": {
-    "idNumerico": "1",
-    "nome": "021",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:30|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T02:59:04.549Z"
   }
 }

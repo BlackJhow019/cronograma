@@ -236,8 +236,8 @@
     "nome": "K1NG Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:07|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T18:07:47.413Z"
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T18:07:59.789Z"
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
@@ -252,7 +252,7 @@
     "nome": "roubo off",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:07|04/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-04T18:07:41.778Z"
   },
   "RANCHO DO DOUTOR": {
@@ -266,10 +266,10 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:13|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T13:00:10.986Z"
+    "roubadaEm": "2026-08-04T18:13:52.953Z"
   },
   "..OURO..PR3TO..": {
     "idNumerico": "5",

@@ -226,10 +226,10 @@
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:28|03/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T18:42:46.931Z"
+    "roubadaEm": "2026-08-04T00:56:55.289Z"
   },
   "..OURO..PR3TO..": {
     "idNumerico": "5",
@@ -335,14 +335,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T21:16:25.522Z"
   },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:39|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T22:39:10.220Z"
-  },
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",
     "nome": "RAMONZIN_FRANCA",
@@ -351,12 +343,20 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T00:10:44.513Z"
   },
-  "AMO A MAZZI": {
+  "DM2 FARM": {
     "idNumerico": "6",
-    "nome": "Amo a Mazzi",
+    "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:51|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T00:51:01.888Z"
+  },
+  "JESUS EA SOLUCAO": {
+    "idNumerico": "0",
+    "nome": "JESUS EA SOLUCAO",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:39|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-03T22:39:10.220Z"
   }
 }

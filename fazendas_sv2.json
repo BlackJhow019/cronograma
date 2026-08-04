@@ -306,8 +306,8 @@
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
     "nome": "Farma Da Familia Elite",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:41|04/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T19:48:52.231Z"
   },
@@ -324,7 +324,7 @@
     "nome": "..OURO..PR3TO..",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:48|04/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-04T21:37:09.378Z"
   },
   "PREFEITO ROADBLOCK": {

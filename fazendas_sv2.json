@@ -34,9 +34,9 @@
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:40|04/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-04T13:40:58.724Z"
   },
   "DM2 FARM": {
@@ -271,14 +271,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T18:30:57.982Z"
   },
-  "FARM'S DE CAFE": {
-    "idNumerico": "4",
-    "nome": "Farm's de Cafe",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:49|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T16:46:13.938Z"
-  },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
@@ -295,14 +287,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T18:20:55.422Z"
   },
-  "K1NG FARM'S": {
-    "idNumerico": "25",
-    "nome": "K1NG Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:50|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T18:07:59.629Z"
-  },
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
@@ -310,38 +294,6 @@
     "disponivelEm": "17:34|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T18:12:42.828Z"
-  },
-  "ROCK FARM": {
-    "idNumerico": "11",
-    "nome": "RocK Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:05|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T17:44:14.144Z"
-  },
-  "FAZENDA DO GALIN": {
-    "idNumerico": "15",
-    "nome": "Fazenda do Galin",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:52|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T17:32:56.962Z"
-  },
-  "021": {
-    "idNumerico": "1",
-    "nome": "021",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:41|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T17:32:14.470Z"
-  },
-  "FARM'S NAY E NICK": {
-    "idNumerico": "5",
-    "nome": "FARM'S NAY E NICK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:01|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T17:24:05.115Z"
   },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
@@ -358,5 +310,53 @@
     "disponivelEm": "18:09|04/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T18:07:43.453Z"
+  },
+  "..OURO..PR3TO..": {
+    "idNumerico": "5",
+    "nome": "..OURO..PR3TO..",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:01|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T17:24:05.115Z"
+  },
+  "~E V O M~": {
+    "idNumerico": "25",
+    "nome": "~E V O M~",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:50|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T18:07:59.629Z"
+  },
+  "FARM'S DE CAFE": {
+    "idNumerico": "4",
+    "nome": "Farm's de Cafe",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:49|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T16:46:13.938Z"
+  },
+  "RICO LOUCO": {
+    "idNumerico": "11",
+    "nome": "rico louco",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:05|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T17:44:14.144Z"
+  },
+  "FARM DA THATY": {
+    "idNumerico": "1",
+    "nome": "Farm da Thaty",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:41|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T17:32:14.470Z"
+  },
+  "YT @GANDIA_RP": {
+    "idNumerico": "15",
+    "nome": "YT @GANDIA_RP",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:52|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T17:32:56.962Z"
   }
 }

@@ -194,8 +194,8 @@
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:05|04/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T15:25:32.718Z"
   },
@@ -234,8 +234,8 @@
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
     "nome": "YellowStone - By Monster",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:04|04/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T13:38:57.887Z"
   },
@@ -279,6 +279,62 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T15:52:34.953Z"
   },
+  "FAZENDINHA BETREZE 2": {
+    "idNumerico": "38",
+    "nome": "Fazendinha BeTreZe 2",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "VALE DAS SOMBRAS": {
+    "idNumerico": "24",
+    "nome": "Vale das Sombras",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:13|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T14:43:55.773Z"
+  },
+  "LEK0ZIKA": {
+    "idNumerico": "35",
+    "nome": "Lek0zika",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:14|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T15:49:45.197Z"
+  },
+  "NOREX FARM'S": {
+    "idNumerico": "13",
+    "nome": "Norex farm's",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:49|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T14:34:50.708Z"
+  },
+  "FAMILIA KUSH": {
+    "idNumerico": "34",
+    "nome": "Familia KuSh",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:56|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T15:16:35.033Z"
+  },
+  "CLUBE DA LULUZINHA": {
+    "idNumerico": "8",
+    "nome": "Clube da Luluzinha",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:33|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T15:44:14.054Z"
+  },
+  "WESKER_U$METRALHA": {
+    "idNumerico": "28",
+    "nome": "Wesker_u$MeTraLha",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
@@ -294,61 +350,5 @@
     "disponivelEm": "15:41|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T13:41:25.768Z"
-  },
-  "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": "38",
-    "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "CANNABIS": {
-    "idNumerico": "8",
-    "nome": "CANNABIS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:33|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T15:44:14.054Z"
-  },
-  "YANINHA_ANTIFALSOS": {
-    "idNumerico": "34",
-    "nome": "yAninha_AntiFalsos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:56|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T15:16:35.033Z"
-  },
-  "FRANCA": {
-    "idNumerico": "28",
-    "nome": "FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:05|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T14:49:42.084Z"
-  },
-  "VALE DAS SOMBRAS": {
-    "idNumerico": "24",
-    "nome": "Vale das Sombras",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:13|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T14:43:55.773Z"
-  },
-  "AWAKE COMPANY": {
-    "idNumerico": "13",
-    "nome": "AwaKe Company",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:49|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T14:34:50.708Z"
-  },
-  "LEK0ZIKA": {
-    "idNumerico": "35",
-    "nome": "Lek0zika",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:14|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T15:49:45.197Z"
   }
 }

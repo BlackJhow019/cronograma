@@ -130,9 +130,9 @@
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:54|04/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-04T16:54:55.820Z"
   },
   "GRANJA DO IMONKEY": {
@@ -275,9 +275,9 @@
     "idNumerico": "5",
     "nome": "..OURO..PR3TO..",
     "status": "INDISPONIVEL",
-    "disponivelEm": "23:36|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T21:36:54.490Z"
+    "disponivelEm": "23:37|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T21:37:09.618Z"
   },
   "DM2 FARM": {
     "idNumerico": "6",

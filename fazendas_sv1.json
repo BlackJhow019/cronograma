@@ -79,6 +79,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T03:34:21.994Z"
   },
+  "FAZENDA DA MILLY": {
+    "idNumerico": "19",
+    "nome": "Fazenda da Milly",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T01:15:19.782Z"
+  },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
@@ -86,6 +94,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T00:44:19.469Z"
+  },
+  "AZEROX": {
+    "idNumerico": "23",
+    "nome": "AzeRoX",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T01:15:48.526Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
@@ -115,7 +131,7 @@
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
     "status": "INDISPONIVEL",
-    "disponivelEm": "03:19|04/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T01:19:12.112Z"
   },

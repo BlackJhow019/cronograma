@@ -93,7 +93,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "16:50|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T17:46:51.204Z"
+    "roubadaEm": "2026-08-04T17:47:05.803Z"
   },
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",
@@ -287,22 +287,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T17:38:33.750Z"
   },
-  "VALE DAS SOMBRAS": {
-    "idNumerico": "24",
-    "nome": "Vale das Sombras",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:13|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T14:43:55.773Z"
-  },
-  "FAZENDA DO MIRIM": {
-    "idNumerico": "36",
-    "nome": "Fazenda Do MIRIM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:49|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T17:43:48.844Z"
-  },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
@@ -310,14 +294,6 @@
     "disponivelEm": "15:02|04/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T17:28:56.718Z"
-  },
-  "MALVADA'S FARM": {
-    "idNumerico": "32",
-    "nome": "Malvada's Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:53|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T16:34:43.249Z"
   },
   "..OURO..PR3TO..": {
     "idNumerico": "5",
@@ -358,5 +334,29 @@
     "disponivelEm": "16:52|04/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T17:32:56.962Z"
+  },
+  "FAZENDINHA DO IGEZE": {
+    "idNumerico": "36",
+    "nome": "fazendinha do igeze",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:49|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T17:43:48.844Z"
+  },
+  "VENDO 500KM ACEITO TROCAS": {
+    "idNumerico": "24",
+    "nome": "VENDO 500km ACEITO TROCAS",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:13|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T14:43:55.773Z"
+  },
+  "FAMILIA ALMANAK": {
+    "idNumerico": "32",
+    "nome": "Familia AlmanaK",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:53|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T16:34:43.249Z"
   }
 }

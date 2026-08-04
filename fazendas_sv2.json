@@ -122,10 +122,10 @@
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:22|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T04:46:45.719Z"
+    "roubadaEm": "2026-08-04T14:23:07.020Z"
   },
   "KODIAK": {
     "idNumerico": "3",
@@ -234,8 +234,8 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:19|04/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T11:40:16.510Z"
   },
@@ -300,7 +300,7 @@
     "nome": "Norex farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:11|04/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-04T14:11:15.207Z"
   },
   "JESUS EA SOLUCAO": {
@@ -318,6 +318,14 @@
     "disponivelEm": "15:41|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T13:41:25.768Z"
+  },
+  "WORK INDUSTRIA'S LIMITED": {
+    "idNumerico": "38",
+    "nome": "Work Industria's Limited",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:25|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T14:13:28.680Z"
   },
   "JAH RASTAFARI": {
     "idNumerico": "39",
@@ -342,13 +350,5 @@
     "disponivelEm": "11:52|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T12:55:13.786Z"
-  },
-  "FAZENDINHA BETREZE 2": {
-    "idNumerico": "38",
-    "nome": "Fazendinha BeTreZe 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:25|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T14:13:28.680Z"
   }
 }

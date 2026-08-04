@@ -84,7 +84,7 @@
     "nome": "..OURO..PR3TO..",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:43|04/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-04T16:32:28.563Z"
   },
   "DM2 FARM": {
@@ -171,7 +171,7 @@
     "idNumerico": "27",
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
-    "disponivelEm": "13:33|04/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T13:22:37.213Z"
   },
@@ -198,14 +198,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T13:38:57.887Z"
-  },
-  "FAMILIA ALMANAK": {
-    "idNumerico": "32",
-    "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:56|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T14:59:30.090Z"
   },
   "B13 :)": {
     "idNumerico": "23",
@@ -284,7 +276,7 @@
     "nome": "Farm da Thaty",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:44|04/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-04T16:26:11.046Z"
   },
   "PENOSO FARM'S": {
@@ -350,5 +342,13 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
+  },
+  "MALVADA'S FARM": {
+    "idNumerico": "32",
+    "nome": "Malvada's Farm",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:53|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T16:34:43.249Z"
   }
 }

@@ -26,10 +26,10 @@
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
     "nome": "Rafha investimentos $",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:46|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T20:20:25.251Z"
+    "roubadaEm": "2026-08-04T03:46:00.524Z"
   },
   "LEK0ZIKA": {
     "idNumerico": "35",
@@ -102,14 +102,6 @@
     "disponivelEm": "03:15|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T01:15:48.526Z"
-  },
-  "FARM'S DE CAFE": {
-    "idNumerico": "4",
-    "nome": "Farm's de Cafe",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:43|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T22:43:12.997Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
     "idNumerico": "17",
@@ -228,7 +220,7 @@
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:42|04/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-04T03:42:54.552Z"
   },
   "K1NG FARM'S": {

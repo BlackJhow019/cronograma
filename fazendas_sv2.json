@@ -1,4 +1,12 @@
 {
+  "999": {
+    "idNumerico": "39",
+    "nome": "999",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:44|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T05:00:34.952Z"
+  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -188,7 +196,7 @@
     "nome": "Penoso Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:26|04/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-04T04:50:02.241Z"
   },
   "FARM'S DE CAFE": {
@@ -222,14 +230,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-03T16:52:29.985Z"
-  },
-  "JAH RASTAFARI": {
-    "idNumerico": "39",
-    "nome": "JAH RASTAFARI",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:48|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T02:16:52.261Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
@@ -327,6 +327,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T04:46:45.719Z"
   },
+  "30PRAUM": {
+    "idNumerico": "16",
+    "nome": "30PRAUM",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
   "CANNABIS": {
     "idNumerico": "8",
     "nome": "CANNABIS",
@@ -342,13 +350,5 @@
     "disponivelEm": "03:53|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T02:47:12.653Z"
-  },
-  "30PRAUM": {
-    "idNumerico": "16",
-    "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:55|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T02:20:19.195Z"
   }
 }

@@ -186,10 +186,10 @@
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:26|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T23:21:33.622Z"
+    "roubadaEm": "2026-08-04T04:49:30.822Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
@@ -319,22 +319,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T02:25:51.017Z"
   },
-  "FAMILIA KYLES": {
-    "idNumerico": "12",
-    "nome": "Familia KyLeS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:53|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T02:47:12.653Z"
-  },
-  "30PRAUM": {
-    "idNumerico": "16",
-    "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:55|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T02:20:19.195Z"
-  },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
@@ -350,5 +334,21 @@
     "disponivelEm": "03:15|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T03:34:21.493Z"
+  },
+  "FAMILIA KYLES": {
+    "idNumerico": "12",
+    "nome": "Familia KyLeS",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:53|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T02:47:12.653Z"
+  },
+  "30PRAUM": {
+    "idNumerico": "16",
+    "nome": "30PRAUM",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:55|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T02:20:19.195Z"
   }
 }

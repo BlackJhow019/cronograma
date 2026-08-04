@@ -207,14 +207,6 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "FAZENDA DO GALIN": {
-    "idNumerico": "15",
-    "nome": "Fazenda do Galin",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T17:32:56.962Z"
-  },
   "021": {
     "idNumerico": "1",
     "nome": "021",
@@ -263,21 +255,45 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T20:28:06.651Z"
   },
-  "SAO PEDRO 2": {
+  "GRANJA DO IMONKEY": {
+    "idNumerico": "29",
+    "nome": "Granja do iMonKeY",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:39|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T20:39:21.860Z"
+  },
+  "RANCHO DO DOUTOR": {
+    "idNumerico": "14",
+    "nome": "Rancho do Doutor",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:54|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T17:38:33.750Z"
+  },
+  "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
-    "nome": "SAO PEDRO 2",
+    "nome": "LA FAMILIA CHIARADIA",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "PREFEITO ROADBLOCK": {
-    "idNumerico": "41",
-    "nome": "Prefeito Roadblock",
+  "B13 :)": {
+    "idNumerico": "23",
+    "nome": "B13 :)",
     "status": "INDISPONIVEL",
-    "disponivelEm": "22:21|04/08/2026",
+    "disponivelEm": "18:50|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T20:21:40.153Z"
+    "roubadaEm": "2026-08-04T20:14:02.717Z"
+  },
+  "YELLOWSTONE - BY MONSTER": {
+    "idNumerico": "16",
+    "nome": "YellowStone - By Monster",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:27|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T19:18:23.609Z"
   },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
@@ -327,36 +343,20 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "30PRAUM": {
-    "idNumerico": "16",
-    "nome": "30PRAUM",
+  "YT @GANDIA_RP": {
+    "idNumerico": "15",
+    "nome": "YT @GANDIA_RP",
     "status": "INDISPONIVEL",
-    "disponivelEm": "18:27|04/08/2026",
+    "disponivelEm": "20:15|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T19:18:23.609Z"
+    "roubadaEm": "2026-08-04T21:06:36.882Z"
   },
-  "AZEROX": {
-    "idNumerico": "23",
-    "nome": "AzeRoX",
+  "PREFEITO ROADBLOCK": {
+    "idNumerico": "41",
+    "nome": "Prefeito Roadblock",
     "status": "INDISPONIVEL",
-    "disponivelEm": "18:50|04/08/2026",
+    "disponivelEm": "22:21|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T20:14:02.717Z"
-  },
-  "ROLINHA CANSADA FARMS": {
-    "idNumerico": "14",
-    "nome": "Rolinha Cansada Farms",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:54|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T17:38:33.750Z"
-  },
-  "GRANJA DO IMONKEY": {
-    "idNumerico": "29",
-    "nome": "Granja do iMonKeY",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:39|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T20:39:21.860Z"
+    "roubadaEm": "2026-08-04T20:21:40.153Z"
   }
 }

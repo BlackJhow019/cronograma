@@ -84,7 +84,7 @@
     "nome": "FRANCA",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:32|04/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-04T20:16:20.810Z"
   },
   "YANINHA_ANTIFALSOS": {
@@ -319,14 +319,6 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "PREFEITO ROADBLOCK": {
-    "idNumerico": "41",
-    "nome": "Prefeito Roadblock",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:49|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T20:17:35.721Z"
-  },
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
@@ -358,5 +350,13 @@
     "disponivelEm": "18:54|04/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T17:38:33.750Z"
+  },
+  "SE ROUBAR MORRE": {
+    "idNumerico": "41",
+    "nome": "SE ROUBAR MORRE",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:20|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T20:20:27.443Z"
   }
 }

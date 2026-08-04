@@ -148,7 +148,7 @@
     "nome": "YT @GANDIA_RP",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:29|04/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-04T01:29:18.665Z"
   },
   "021": {
@@ -230,14 +230,6 @@
     "disponivelEm": "00:39|04/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-03T22:39:10.643Z"
-  },
-  "GRUPO NEXUS": {
-    "idNumerico": "9",
-    "nome": "GRUPO NEXUS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T13:58:39.677Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",
@@ -336,12 +328,12 @@
     "roubadaEm": "2026-08-03T16:24:51.149Z"
   },
   "RICK FARM'S": {
-    "idNumerico": "40",
+    "idNumerico": "9",
     "nome": "Rick Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:18|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T16:08:08.802Z"
+    "roubadaEm": "2026-08-04T01:34:57.019Z"
   },
   "CHAPADO MY LOVE": {
     "idNumerico": "20",

@@ -175,14 +175,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T00:44:19.011Z"
   },
-  "B13 :)": {
-    "idNumerico": "23",
-    "nome": "B13 :)",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T09:35:02.928Z"
-  },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
@@ -357,6 +349,14 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "13:39|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T11:39:31.639Z"
+    "roubadaEm": "2026-08-04T11:39:53.650Z"
+  },
+  "AZEROX": {
+    "idNumerico": "23",
+    "nome": "AzeRoX",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T09:35:02.928Z"
   }
 }

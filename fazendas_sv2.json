@@ -271,30 +271,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T20:31:34.070Z"
   },
-  "RICO LOUCO": {
-    "idNumerico": "11",
-    "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T18:09:38.776Z"
-  },
-  "AMO A MAZZI": {
-    "idNumerico": "6",
-    "nome": "Amo a Mazzi",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "$ COMPANY $R.RC_PLINIODMG $": {
-    "idNumerico": "3",
-    "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:29|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T20:29:06.845Z"
-  },
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
@@ -335,20 +311,44 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T19:13:31.318Z"
   },
-  "SUCCUBUS FARMS": {
-    "idNumerico": "29",
-    "nome": "Succubus Farms",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:48|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T18:48:21.116Z"
-  },
   "JAH RASTAFARI": {
     "idNumerico": "39",
     "nome": "JAH RASTAFARI",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:11|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T20:40:03.661Z"
+    "roubadaEm": "2026-08-05T20:40:22.870Z"
+  },
+  "GRANJA DO IMONKEY": {
+    "idNumerico": "29",
+    "nome": "Granja do iMonKeY",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:48|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T18:48:21.116Z"
+  },
+  "KODIAK": {
+    "idNumerico": "3",
+    "nome": "KodiaK",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:29|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T20:29:06.845Z"
+  },
+  "RICO LOUCO": {
+    "idNumerico": "11",
+    "nome": "rico louco",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T18:09:38.776Z"
+  },
+  "AMO A MAZZI": {
+    "idNumerico": "6",
+    "nome": "Amo a Mazzi",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
   }
 }

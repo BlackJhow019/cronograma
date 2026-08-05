@@ -31,14 +31,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T19:38:01.398Z"
   },
-  "VENDO 500KM ACEITO TROCAS": {
-    "idNumerico": "24",
-    "nome": "VENDO 500km ACEITO TROCAS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T08:32:28.635Z"
-  },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
@@ -343,6 +335,14 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
+  "RICK FARM'S": {
+    "idNumerico": "9",
+    "nome": "Rick Farm's",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:16|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-05T23:05:27.074Z"
+  },
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
@@ -351,12 +351,12 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "FARM DO SAPATO": {
-    "idNumerico": "9",
-    "nome": "FARM DO SAPATO",
+  "VALE DAS SOMBRAS": {
+    "idNumerico": "24",
+    "nome": "Vale das Sombras",
     "status": "INDISPONIVEL",
-    "disponivelEm": "22:16|05/08/2026",
+    "disponivelEm": "23:44|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T23:05:27.074Z"
+    "roubadaEm": "2026-08-05T23:14:32.152Z"
   }
 }

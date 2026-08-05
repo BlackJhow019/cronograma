@@ -287,14 +287,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T17:02:21.254Z"
   },
-  "PENOSO FARM'S": {
-    "idNumerico": "10",
-    "nome": "Penoso Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
   "@FILH_ODOPAII": {
     "idNumerico": "12",
     "nome": "@filh_odopaii",
@@ -302,6 +294,14 @@
     "disponivelEm": "23:03|05/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T22:26:32.519Z"
+  },
+  "CLUBE DA LULUZINHA": {
+    "idNumerico": "8",
+    "nome": "Clube da Luluzinha",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T20:34:29.999Z"
   },
   ".": {
     "idNumerico": "31",
@@ -335,6 +335,14 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
+  "PENOSO FARM'S": {
+    "idNumerico": "10",
+    "nome": "Penoso Farm's",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
@@ -350,13 +358,5 @@
     "disponivelEm": "00:07|06/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T22:07:08.570Z"
-  },
-  "CANNABIS": {
-    "idNumerico": "8",
-    "nome": "CANNABIS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:38|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T20:34:29.999Z"
   }
 }

@@ -66,9 +66,9 @@
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:34|05/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-05T17:19:14.504Z"
   },
   "AWAKE COMPANY": {
@@ -154,7 +154,7 @@
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T17:50:29.150Z"
@@ -271,13 +271,37 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T18:02:24.780Z"
   },
+  "/VENDERPRODUTOS": {
+    "idNumerico": "7",
+    "nome": "/VENDERPRODUTOS",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:31|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T20:31:34.070Z"
+  },
+  "PENOSO FARM'S": {
+    "idNumerico": "10",
+    "nome": "Penoso Farm's",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:29|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T20:31:53.365Z"
+  },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
     "status": "INDISPONIVEL",
-    "disponivelEm": "17:36|05/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T20:04:41.190Z"
+  },
+  "CANNABIS": {
+    "idNumerico": "8",
+    "nome": "CANNABIS",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:38|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-05T20:34:29.999Z"
   },
   "AURA + EGO": {
     "idNumerico": "22",
@@ -286,14 +310,6 @@
     "disponivelEm": "21:13|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T19:13:31.318Z"
-  },
-  "ARIANA_B13": {
-    "idNumerico": "10",
-    "nome": "Ariana_B13",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:29|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T20:31:53.365Z"
   },
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
@@ -334,21 +350,5 @@
     "disponivelEm": "19:11|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T20:05:52.395Z"
-  },
-  "/VENDERPRODUTOS": {
-    "idNumerico": "7",
-    "nome": "/VENDERPRODUTOS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:31|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T20:31:34.070Z"
-  },
-  "CLUBE DA LULUZINHA": {
-    "idNumerico": "8",
-    "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:38|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T20:34:29.999Z"
   }
 }

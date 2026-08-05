@@ -301,7 +301,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "23:34|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T23:25:06.362Z"
+    "roubadaEm": "2026-08-05T23:25:22.292Z"
   },
   "@FILH_ODOPAII": {
     "idNumerico": "12",
@@ -318,14 +318,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
-  },
-  "FRANCA": {
-    "idNumerico": "28",
-    "nome": "FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:35|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T22:19:06.780Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
@@ -358,5 +350,13 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T22:24:15.923Z"
+  },
+  "WESKER_U$METRALHA": {
+    "idNumerico": "28",
+    "nome": "Wesker_u$MeTraLha",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:35|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T22:19:06.780Z"
   }
 }

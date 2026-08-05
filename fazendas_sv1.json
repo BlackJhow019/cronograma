@@ -250,9 +250,9 @@
   "ROUBO OFF": {
     "idNumerico": "7",
     "nome": "roubo off",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:28|05/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-05T00:28:49.187Z"
   },
   "RANCHO DO DOUTOR": {
@@ -323,7 +323,7 @@
     "idNumerico": "12",
     "nome": "Familia KyLeS",
     "status": "INDISPONIVEL",
-    "disponivelEm": "02:33|05/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T00:33:26.929Z"
   },

@@ -66,10 +66,10 @@
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",
     "nome": "RAMONZIN_FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:31|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T15:17:02.696Z"
+    "roubadaEm": "2026-08-05T03:33:14.251Z"
   },
   "FRANCA": {
     "idNumerico": "28",
@@ -279,6 +279,22 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T23:13:39.598Z"
   },
+  "VALE DAS SOMBRAS": {
+    "idNumerico": "24",
+    "nome": "Vale das Sombras",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "K1NG FARM'S": {
+    "idNumerico": "25",
+    "nome": "K1NG Farm's",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:33|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T23:33:35.714Z"
+  },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
@@ -286,6 +302,30 @@
     "disponivelEm": "03:57|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T01:57:01.850Z"
+  },
+  "/VENDERPRODUTOS": {
+    "idNumerico": "7",
+    "nome": "/VENDERPRODUTOS",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:23|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-05T00:23:17.645Z"
+  },
+  "FAZENDINHA DO IGEZE": {
+    "idNumerico": "36",
+    "nome": "fazendinha do igeze",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T00:20:27.239Z"
+  },
+  "OS DE RACA": {
+    "idNumerico": "0",
+    "nome": "OS DE RACA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:39|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-05T01:30:53.438Z"
   },
   "PENOSO FARM'S": {
     "idNumerico": "10",
@@ -310,45 +350,5 @@
     "disponivelEm": "01:45|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T01:08:15.980Z"
-  },
-  "/VENDERPRODUTOS": {
-    "idNumerico": "7",
-    "nome": "/VENDERPRODUTOS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:23|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T00:23:17.645Z"
-  },
-  "JESUS EA SOLUCAO": {
-    "idNumerico": "0",
-    "nome": "JESUS EA SOLUCAO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:39|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T01:30:53.438Z"
-  },
-  "FAZENDA DO MIRIM": {
-    "idNumerico": "36",
-    "nome": "Fazenda Do MIRIM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T00:20:27.239Z"
-  },
-  "VENDO 500KM ACEITO TROCAS": {
-    "idNumerico": "24",
-    "nome": "VENDO 500km ACEITO TROCAS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "K1NG FARM'S": {
-    "idNumerico": "25",
-    "nome": "K1NG Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:33|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T23:33:35.714Z"
   }
 }

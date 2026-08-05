@@ -154,8 +154,8 @@
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:20|04/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T00:14:36.924Z"
   },
@@ -222,6 +222,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
+  },
+  "YELLOWSTONE - BY MONSTER": {
+    "idNumerico": "16",
+    "nome": "YellowStone - By Monster",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:11|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T01:06:04.898Z"
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
@@ -342,13 +350,5 @@
     "disponivelEm": "00:05|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T01:28:21.462Z"
-  },
-  "30PRAUM": {
-    "idNumerico": "16",
-    "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:11|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T01:06:04.898Z"
   }
 }

@@ -106,10 +106,10 @@
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:52|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T20:21:40.153Z"
+    "roubadaEm": "2026-08-05T02:53:03.578Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -215,22 +215,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T18:56:42.372Z"
   },
-  "SAO PEDRO 2": {
-    "idNumerico": "43",
-    "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:34|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T02:10:45.178Z"
-  },
-  "MALVADA'S FARM": {
-    "idNumerico": "32",
-    "nome": "Malvada's Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:50|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T01:53:57.541Z"
-  },
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",
     "nome": "Fazendinha BeTreZe 2",
@@ -238,22 +222,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T00:30:22.963Z"
-  },
-  "HWD INVESTIMENTOS": {
-    "idNumerico": "27",
-    "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:57|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T01:57:01.850Z"
-  },
-  "AZEROX": {
-    "idNumerico": "23",
-    "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:05|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T01:28:21.462Z"
   },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
@@ -271,6 +239,30 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
+  "LA FAMILIA CHIARADIA": {
+    "idNumerico": "43",
+    "nome": "LA FAMILIA CHIARADIA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:34|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T02:10:45.178Z"
+  },
+  "HWD INVESTIMENTOS": {
+    "idNumerico": "27",
+    "nome": "hwd investimentos",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:57|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T01:57:01.850Z"
+  },
+  "B13 :)": {
+    "idNumerico": "23",
+    "nome": "B13 :)",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:05|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T01:28:21.462Z"
+  },
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
@@ -278,6 +270,14 @@
     "disponivelEm": "00:54|05/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T01:57:45.530Z"
+  },
+  "MALVADA'S FARM": {
+    "idNumerico": "32",
+    "nome": "Malvada's Farm",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:50|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T01:53:57.541Z"
   },
   "/VENDERPRODUTOS": {
     "idNumerico": "7",

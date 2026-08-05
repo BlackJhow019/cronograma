@@ -1,12 +1,4 @@
 {
-  "999": {
-    "idNumerico": "39",
-    "nome": "999",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:24|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T05:08:56.001Z"
-  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -227,7 +219,7 @@
     "idNumerico": "7",
     "nome": "/VENDERPRODUTOS",
     "status": "INDISPONIVEL",
-    "disponivelEm": "02:23|05/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T00:23:17.645Z"
   },
@@ -250,10 +242,10 @@
   "@FILH_ODOPAII": {
     "idNumerico": "12",
     "nome": "@filh_odopaii",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:00|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T01:08:15.980Z"
+    "roubadaEm": "2026-08-05T05:23:27.202Z"
   },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
@@ -358,5 +350,13 @@
     "disponivelEm": "06:41|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T04:41:21.109Z"
+  },
+  "JAH RASTAFARI": {
+    "idNumerico": "39",
+    "nome": "JAH RASTAFARI",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:24|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T05:08:56.001Z"
   }
 }

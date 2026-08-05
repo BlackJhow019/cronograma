@@ -171,7 +171,7 @@
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
     "status": "INDISPONIVEL",
-    "disponivelEm": "13:55|05/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T11:55:20.813Z"
   },
@@ -258,10 +258,10 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:55|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T11:35:38.034Z"
+    "roubadaEm": "2026-08-05T16:55:25.292Z"
   },
   "..OURO..PR3TO..": {
     "idNumerico": "5",

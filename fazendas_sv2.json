@@ -1,4 +1,12 @@
 {
+  "999": {
+    "idNumerico": "39",
+    "nome": "999",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:24|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T05:08:56.001Z"
+  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -134,14 +142,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T01:06:04.898Z"
-  },
-  "AMO A MAZZI": {
-    "idNumerico": "6",
-    "nome": "Amo a Mazzi",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
   },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
@@ -351,12 +351,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T04:41:21.109Z"
   },
-  "JAH RASTAFARI": {
-    "idNumerico": "39",
-    "nome": "JAH RASTAFARI",
+  "DM2 FARM": {
+    "idNumerico": "6",
+    "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
-    "disponivelEm": "03:24|05/08/2026",
+    "disponivelEm": "07:38|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T05:08:56.001Z"
+    "roubadaEm": "2026-08-05T05:38:02.363Z"
   }
 }

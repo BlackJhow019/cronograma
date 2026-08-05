@@ -114,8 +114,8 @@
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
     "nome": "Vale das Sombras",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:02|05/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T08:32:28.635Z"
   },
@@ -319,6 +319,22 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T11:55:25.502Z"
   },
+  "RAMONZIN_FRANCA": {
+    "idNumerico": "21",
+    "nome": "RAMONZIN_FRANCA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:42|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-05T11:42:16.052Z"
+  },
+  "CHAPADO MY LOVE": {
+    "idNumerico": "20",
+    "nome": "ChaPaDo My Love",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:38|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T11:55:45.844Z"
+  },
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
@@ -342,21 +358,5 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
-  },
-  "FARMS DE GALOPISITAS": {
-    "idNumerico": "20",
-    "nome": "Farms de Galopisitas",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:38|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T11:55:45.844Z"
-  },
-  "THUG LIFE": {
-    "idNumerico": "21",
-    "nome": "THUG LIFE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:42|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T11:42:16.052Z"
   }
 }

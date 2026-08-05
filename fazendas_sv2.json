@@ -39,22 +39,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T10:02:44.300Z"
   },
-  "BORRACHAS FARM": {
-    "idNumerico": "33",
-    "nome": "Borrachas Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T23:24:12.850Z"
-  },
-  "K1NG FARM'S": {
-    "idNumerico": "25",
-    "nome": "K1NG Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T13:27:17.279Z"
-  },
   "ROUBO OFF": {
     "idNumerico": "7",
     "nome": "roubo off",
@@ -231,6 +215,22 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T18:15:48.220Z"
   },
+  "YELLOWSTONE - BY MONSTER": {
+    "idNumerico": "16",
+    "nome": "YellowStone - By Monster",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "DONA SEM RAZAO": {
+    "idNumerico": "26",
+    "nome": "Dona sem razao",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:56|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-05T19:04:01.733Z"
+  },
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
@@ -271,14 +271,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T18:33:45.663Z"
   },
-  "YELLOWSTONE - BY MONSTER": {
-    "idNumerico": "16",
-    "nome": "YellowStone - By Monster",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
@@ -299,7 +291,7 @@
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:07|05/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T16:43:05.881Z"
   },
@@ -351,12 +343,20 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T17:50:29.150Z"
   },
-  "DONA SEM RAZAO": {
-    "idNumerico": "26",
-    "nome": "Dona sem razao",
+  "~E V O M~": {
+    "idNumerico": "25",
+    "nome": "~E V O M~",
     "status": "INDISPONIVEL",
-    "disponivelEm": "19:56|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T19:04:01.733Z"
+    "disponivelEm": "21:07|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T19:07:17.746Z"
+  },
+  "FARMA DA FAMILIA ELITE": {
+    "idNumerico": "33",
+    "nome": "Farma Da Familia Elite",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T23:24:12.850Z"
   }
 }

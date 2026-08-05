@@ -58,10 +58,10 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:43|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T10:32:30.470Z"
+    "roubadaEm": "2026-08-05T17:51:36.859Z"
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
@@ -199,28 +199,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T16:48:26.501Z"
   },
-  "MALVADA'S FARM": {
-    "idNumerico": "32",
-    "nome": "Malvada's Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T16:20:17.841Z"
-  },
-  "CHAMA A POLICIA": {
-    "idNumerico": "44",
-    "nome": "CHAMA A POLICIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T16:15:18.308Z"
-  },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:49|05/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-05T15:24:26.406Z"
   },
   "SE ROUBAR MORRE": {
@@ -279,6 +263,22 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T16:42:25.866Z"
   },
+  "AMO A MAZZI": {
+    "idNumerico": "6",
+    "nome": "Amo a Mazzi",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:13|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T17:43:45.634Z"
+  },
+  "ARIANA_B13": {
+    "idNumerico": "10",
+    "nome": "Ariana_B13",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
   "CHAPADO MY LOVE": {
     "idNumerico": "20",
     "nome": "ChaPaDo My Love",
@@ -319,6 +319,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T16:48:23.486Z"
   },
+  "QUEM ROUBAR E PETISTA": {
+    "idNumerico": "44",
+    "nome": "Quem Roubar e Petista",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:34|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T17:50:29.230Z"
+  },
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
@@ -343,20 +351,12 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "PENOSO FARM'S": {
-    "idNumerico": "10",
-    "nome": "Penoso Farm's",
+  "FAMILIA ALMANAK": {
+    "idNumerico": "32",
+    "nome": "Familia AlmanaK",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "AMO A MAZZI": {
-    "idNumerico": "6",
-    "nome": "Amo a Mazzi",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:13|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T17:43:45.634Z"
+    "roubadaEm": "2026-08-05T16:20:17.841Z"
   }
 }

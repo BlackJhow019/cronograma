@@ -4,7 +4,7 @@
     "nome": "rico louco",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:32|05/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-05T10:32:44.187Z"
   },
   "KODIAK": {
@@ -90,10 +90,10 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:39|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T01:37:12.106Z"
+    "roubadaEm": "2026-08-05T10:39:48.754Z"
   },
   "AZEROX": {
     "idNumerico": "23",
@@ -278,14 +278,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T03:13:56.988Z"
-  },
-  "DM2 FARM": {
-    "idNumerico": "6",
-    "nome": "Dm2 Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:38|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T05:38:01.431Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",

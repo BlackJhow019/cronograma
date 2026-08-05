@@ -162,10 +162,10 @@
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:33|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T12:44:41.318Z"
+    "roubadaEm": "2026-08-05T18:33:29.979Z"
   },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
@@ -190,14 +190,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T18:24:58.104Z"
-  },
-  ".": {
-    "idNumerico": "31",
-    "nome": ".",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:32|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T13:32:31.835Z"
   },
   "30PRAUM": {
     "idNumerico": "16",

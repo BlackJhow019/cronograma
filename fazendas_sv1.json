@@ -18,10 +18,10 @@
   "NIKE SHOX": {
     "idNumerico": "42",
     "nome": "NIKE SHOX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:15|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T12:20:11.269Z"
+    "roubadaEm": "2026-08-05T17:22:02.799Z"
   },
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
@@ -172,7 +172,7 @@
     "nome": "PoLeMiCo$ industri$",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:19|05/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-05T17:19:25.748Z"
   },
   "NOREX FARM'S": {

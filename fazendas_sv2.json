@@ -90,10 +90,10 @@
   "K1NG FARM'S": {
     "idNumerico": "25",
     "nome": "K1NG Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:09|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T23:33:35.714Z"
+    "roubadaEm": "2026-08-05T13:27:17.279Z"
   },
   "ARIANA_B13": {
     "idNumerico": "10",
@@ -262,14 +262,6 @@
     "disponivelEm": "14:45|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T12:45:11.032Z"
-  },
-  "FAZENDINHA DO IGEZE": {
-    "idNumerico": "36",
-    "nome": "fazendinha do igeze",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:24|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T12:44:42.537Z"
   },
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",

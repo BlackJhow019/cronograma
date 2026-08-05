@@ -87,14 +87,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T23:24:12.850Z"
   },
-  "FAZENDA DO GALIN": {
-    "idNumerico": "15",
-    "nome": "Fazenda do Galin",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:36|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T08:17:13.710Z"
-  },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
@@ -180,7 +172,7 @@
     "nome": "rico louco",
     "status": "INDISPONIVEL",
     "disponivelEm": "11:24|05/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-05T10:32:44.684Z"
   },
   "FAZENDA DO MIRIM": {
@@ -206,14 +198,6 @@
     "disponivelEm": "09:51|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T10:31:33.839Z"
-  },
-  "DEAD (:": {
-    "idNumerico": "27",
-    "nome": "Dead (:",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T01:57:01.850Z"
   },
   "FARME DO DRAKE": {
     "idNumerico": "35",
@@ -335,6 +319,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T10:30:45.959Z"
   },
+  "30PRAUM": {
+    "idNumerico": "16",
+    "nome": "30PRAUM",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:47|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T10:14:53.517Z"
+  },
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
@@ -351,12 +343,12 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "YELLOWSTONE - BY MONSTER": {
-    "idNumerico": "16",
-    "nome": "YellowStone - By Monster",
+  "HWD INVESTIMENTOS": {
+    "idNumerico": "27",
+    "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
-    "disponivelEm": "09:47|05/08/2026",
+    "disponivelEm": "10:51|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T10:14:53.517Z"
+    "roubadaEm": "2026-08-05T10:39:19.218Z"
   }
 }

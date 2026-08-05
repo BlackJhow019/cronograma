@@ -226,9 +226,9 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:57|05/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-05T16:55:40.221Z"
   },
   "AZEROX": {
@@ -287,6 +287,22 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T19:07:57.365Z"
   },
+  "SE ROUBAR MORRE": {
+    "idNumerico": "41",
+    "nome": "SE ROUBAR MORRE",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:53|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T19:54:17.899Z"
+  },
+  "AURA + EGO": {
+    "idNumerico": "22",
+    "nome": "Aura + Ego",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:13|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T19:13:31.318Z"
+  },
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
@@ -319,6 +335,22 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T18:02:24.780Z"
   },
+  "JESUS EA SOLUCAO": {
+    "idNumerico": "0",
+    "nome": "JESUS EA SOLUCAO",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:59|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-05T19:35:09.637Z"
+  },
+  "NIKE SHOX": {
+    "idNumerico": "42",
+    "nome": "NIKE SHOX",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:46|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T19:41:45.645Z"
+  },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
@@ -326,37 +358,5 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
-  },
-  "SE ROUBAR MORRE": {
-    "idNumerico": "41",
-    "nome": "SE ROUBAR MORRE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:53|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T19:54:17.899Z"
-  },
-  "TREMBALA": {
-    "idNumerico": "42",
-    "nome": "TremBala",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:46|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T19:41:45.645Z"
-  },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:59|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T19:35:09.637Z"
-  },
-  "AURA + EGO": {
-    "idNumerico": "22",
-    "nome": "Aura + Ego",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:13|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T19:13:31.318Z"
   }
 }

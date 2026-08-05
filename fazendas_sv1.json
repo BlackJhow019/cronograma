@@ -36,7 +36,7 @@
     "nome": "Borrachas Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:45|05/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-05T16:45:01.726Z"
   },
   "WESKER_U$METRALHA": {
@@ -286,6 +286,14 @@
     "disponivelEm": "18:36|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T16:38:09.689Z"
+  },
+  "THUG LIFE": {
+    "idNumerico": "21",
+    "nome": "THUG LIFE",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T11:42:10.282Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",

@@ -1,12 +1,4 @@
 {
-  "999": {
-    "idNumerico": "39",
-    "nome": "999",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T05:08:56.001Z"
-  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -213,7 +205,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "10:06|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T12:23:20.642Z"
+    "roubadaEm": "2026-08-05T12:23:06.472Z"
   },
   "AMO A MAZZI": {
     "idNumerico": "6",
@@ -279,53 +271,37 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T11:40:33.485Z"
   },
-  "POLEMICO$ INDUSTRI$": {
-    "idNumerico": "37",
-    "nome": "PoLeMiCo$ industri$",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:10|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T11:55:25.502Z"
-  },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "VENDO 500KM ACEITO TROCAS": {
-    "idNumerico": "24",
-    "nome": "VENDO 500km ACEITO TROCAS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T08:32:28.635Z"
-  },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
     "status": "INDISPONIVEL",
     "disponivelEm": "11:58|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T12:14:43.447Z"
+    "roubadaEm": "2026-08-05T12:14:28.638Z"
   },
   "ROUBO OFF": {
     "idNumerico": "7",
     "nome": "roubo off",
     "status": "INDISPONIVEL",
-    "disponivelEm": "12:16|05/08/2026",
+    "disponivelEm": "12:15|05/08/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T12:14:43.465Z"
+    "roubadaEm": "2026-08-05T12:14:28.652Z"
   },
   "NIKE SHOX": {
     "idNumerico": "42",
     "nome": "NIKE SHOX",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:20|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-05T12:20:10.289Z"
+  },
+  "JAH RASTAFARI": {
+    "idNumerico": "39",
+    "nome": "JAH RASTAFARI",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T12:20:45.789Z"
+    "roubadaEm": "2026-08-05T05:08:56.001Z"
   },
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",
@@ -358,5 +334,29 @@
     "disponivelEm": "10:49|05/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T10:59:38.734Z"
+  },
+  "JESUS EA SOLUCAO": {
+    "idNumerico": "0",
+    "nome": "JESUS EA SOLUCAO",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "WELCOME > MELHOR FAZENDA DO BPS": {
+    "idNumerico": "37",
+    "nome": "WELCOME > MELHOR FAZENDA DO BPS",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:10|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-05T11:55:25.502Z"
+  },
+  "VALE DAS SOMBRAS": {
+    "idNumerico": "24",
+    "nome": "Vale das Sombras",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T08:32:28.635Z"
   }
 }

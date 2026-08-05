@@ -10,9 +10,9 @@
   "FAZENDA CUIUDA - BY GAZOLA": {
     "idNumerico": "17",
     "nome": "Fazenda Cuiuda - By GAZOLA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:58|05/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-05T17:58:35.808Z"
   },
   "QG FARM KHAOS": {
@@ -82,9 +82,9 @@
   "DONA SEM RAZAO": {
     "idNumerico": "26",
     "nome": "Dona sem razao",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:56|05/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-05T19:04:01.733Z"
   },
   "~E V O M~": {
@@ -102,14 +102,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T17:52:30.117Z"
-  },
-  "QUEM ROUBAR E PETISTA": {
-    "idNumerico": "44",
-    "nome": "Quem Roubar e Petista",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T17:50:29.150Z"
   },
   "FAZENDA DO GALIN": {
     "idNumerico": "15",
@@ -279,6 +271,22 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T22:07:08.570Z"
   },
+  "PREFEITO ROADBLOCK": {
+    "idNumerico": "41",
+    "nome": "Prefeito Roadblock",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T20:04:41.190Z"
+  },
+  "FARMS DE GALOPISITAS": {
+    "idNumerico": "20",
+    "nome": "Farms de Galopisitas",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:39|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T22:56:52.490Z"
+  },
   "@FILH_ODOPAII": {
     "idNumerico": "12",
     "nome": "@filh_odopaii",
@@ -302,14 +310,6 @@
     "disponivelEm": "20:58|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T22:48:49.646Z"
-  },
-  ".": {
-    "idNumerico": "31",
-    "nome": ".",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:59|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T22:24:15.923Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
@@ -343,20 +343,12 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "PREFEITO ROADBLOCK": {
-    "idNumerico": "41",
-    "nome": "Prefeito Roadblock",
+  "CHAMA A POLICIA": {
+    "idNumerico": "44",
+    "nome": "CHAMA A POLICIA",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T20:04:41.190Z"
-  },
-  "FARMS DE GALOPISITAS": {
-    "idNumerico": "20",
-    "nome": "Farms de Galopisitas",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:39|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T22:56:52.490Z"
+    "roubadaEm": "2026-08-05T17:50:29.150Z"
   }
 }

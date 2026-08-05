@@ -39,14 +39,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T20:37:02.607Z"
   },
-  "AMO O LOWER": {
-    "idNumerico": "2",
-    "nome": "Amo o Lower",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:24|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T00:43:20.401Z"
-  },
   "TREMBALA": {
     "idNumerico": "42",
     "nome": "TremBala",
@@ -70,14 +62,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T15:17:02.696Z"
-  },
-  "GRUPO RANTER": {
-    "idNumerico": "19",
-    "nome": "GRUPO RANTER",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:17|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T00:07:37.321Z"
   },
   "FRANCA": {
     "idNumerico": "28",
@@ -150,6 +134,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T20:14:02.717Z"
+  },
+  "SE ROUBAR MORRE": {
+    "idNumerico": "41",
+    "nome": "SE ROUBAR MORRE",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T20:21:40.153Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -342,5 +334,13 @@
     "disponivelEm": "23:00|04/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T23:20:32.092Z"
+  },
+  "FAZENDA DA MILLY": {
+    "idNumerico": "19",
+    "nome": "Fazenda da Milly",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:17|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T00:07:37.321Z"
   }
 }

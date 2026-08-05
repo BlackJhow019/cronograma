@@ -298,10 +298,10 @@
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",
     "nome": "Fazendinha BeTreZe 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:41|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T18:14:09.977Z"
+    "roubadaEm": "2026-08-05T00:29:48.300Z"
   },
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
@@ -343,12 +343,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T00:14:36.924Z"
   },
-  "/VENDERPRODUTOS": {
+  "ROUBO OFF": {
     "idNumerico": "7",
-    "nome": "/VENDERPRODUTOS",
+    "nome": "roubo off",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:23|05/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-05T00:23:17.645Z"
   }
 }

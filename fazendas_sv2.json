@@ -90,10 +90,10 @@
   "AWAKE COMPANY": {
     "idNumerico": "13",
     "nome": "AwaKe Company",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:58|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T13:43:55.655Z"
+    "roubadaEm": "2026-08-05T19:45:40.251Z"
   },
   "THUG LIFE": {
     "idNumerico": "21",
@@ -255,6 +255,22 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T19:33:23.629Z"
   },
+  "DEAD (:": {
+    "idNumerico": "27",
+    "nome": "Dead (:",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:05|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-05T18:05:07.817Z"
+  },
+  "LA FAMILIA CHIARADIA": {
+    "idNumerico": "43",
+    "nome": "LA FAMILIA CHIARADIA",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T16:43:05.881Z"
+  },
   "AURA + EGO": {
     "idNumerico": "22",
     "nome": "Aura + Ego",
@@ -271,13 +287,13 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T18:48:21.116Z"
   },
-  "DEAD (:": {
-    "idNumerico": "27",
-    "nome": "Dead (:",
+  "YANINHA_ANTIFALSOS": {
+    "idNumerico": "34",
+    "nome": "yAninha_AntiFalsos",
     "status": "INDISPONIVEL",
-    "disponivelEm": "20:05|05/08/2026",
+    "disponivelEm": "17:43|05/08/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T18:05:07.817Z"
+    "roubadaEm": "2026-08-05T18:19:07.723Z"
   },
   "RICO LOUCO": {
     "idNumerico": "11",
@@ -311,6 +327,22 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T19:35:09.637Z"
   },
+  "NIKE SHOX": {
+    "idNumerico": "42",
+    "nome": "NIKE SHOX",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:46|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T19:41:45.645Z"
+  },
+  "FARMS DE GALOPISITAS": {
+    "idNumerico": "20",
+    "nome": "Farms de Galopisitas",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T16:59:39.435Z"
+  },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
@@ -326,37 +358,5 @@
     "disponivelEm": "18:00|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T19:07:57.365Z"
-  },
-  "LA FAMILIA CHIARADIA": {
-    "idNumerico": "43",
-    "nome": "LA FAMILIA CHIARADIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T16:43:05.881Z"
-  },
-  "FAMILIA KUSH": {
-    "idNumerico": "34",
-    "nome": "Familia KuSh",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:43|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T18:19:07.723Z"
-  },
-  "CHAPADO MY LOVE": {
-    "idNumerico": "20",
-    "nome": "ChaPaDo My Love",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T16:59:39.435Z"
-  },
-  "TREMBALA": {
-    "idNumerico": "42",
-    "nome": "TremBala",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:46|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T19:41:45.645Z"
   }
 }

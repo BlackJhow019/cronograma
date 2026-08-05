@@ -295,21 +295,13 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T01:57:01.850Z"
   },
-  "$ COMPANY $R.RC_PLINIODMG $": {
-    "idNumerico": "3",
-    "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:41|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T04:41:21.109Z"
-  },
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
     "nome": "Farms de Galopisitas",
     "status": "INDISPONIVEL",
-    "disponivelEm": "04:23|05/08/2026",
+    "disponivelEm": "04:24|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T04:41:42.072Z"
+    "roubadaEm": "2026-08-05T04:41:50.678Z"
   },
   "TA NO GRALI": {
     "idNumerico": "4",
@@ -350,5 +342,13 @@
     "disponivelEm": "03:44|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T04:38:44.328Z"
+  },
+  "KODIAK": {
+    "idNumerico": "3",
+    "nome": "KodiaK",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:41|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T04:41:21.109Z"
   }
 }

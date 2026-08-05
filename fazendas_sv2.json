@@ -106,10 +106,10 @@
   "FAZENDA DO GALIN": {
     "idNumerico": "15",
     "nome": "Fazenda do Galin",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:36|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T00:09:43.632Z"
+    "roubadaEm": "2026-08-05T08:16:27.381Z"
   },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
@@ -303,6 +303,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T05:59:58.880Z"
   },
+  "AWAKE COMPANY": {
+    "idNumerico": "13",
+    "nome": "AwaKe Company",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T05:53:21.159Z"
+  },
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
@@ -343,9 +351,9 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "@FILH_ODOPAII": {
+  "FAMILIA KYLES": {
     "idNumerico": "12",
-    "nome": "@filh_odopaii",
+    "nome": "Familia KyLeS",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,

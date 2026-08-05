@@ -2,10 +2,10 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:32|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T03:56:49.137Z"
+    "roubadaEm": "2026-08-05T10:32:30.421Z"
   },
   "KODIAK": {
     "idNumerico": "3",
@@ -292,7 +292,7 @@
     "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:29|05/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-05T10:30:47.611Z"
   },
   "THUG LIFE": {

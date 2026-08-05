@@ -2,9 +2,9 @@
   "999": {
     "idNumerico": "39",
     "nome": "999",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:26|05/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-05T19:10:53.338Z"
   },
   "FAZENDA DO TEMOR": {
@@ -54,14 +54,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T12:14:28.652Z"
-  },
-  "KODIAK": {
-    "idNumerico": "3",
-    "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T12:41:03.936Z"
   },
   ".": {
     "idNumerico": "31",
@@ -255,6 +247,22 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T19:07:57.365Z"
   },
+  "FARM DA THATY": {
+    "idNumerico": "1",
+    "nome": "Farm da Thaty",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:02|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T20:22:49.256Z"
+  },
+  "FAZENDA DO GALIN": {
+    "idNumerico": "15",
+    "nome": "Fazenda do Galin",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:43|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T20:23:41.565Z"
+  },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
@@ -263,6 +271,22 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T20:04:41.190Z"
   },
+  "TREMBALA": {
+    "idNumerico": "42",
+    "nome": "TremBala",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:46|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T19:41:45.645Z"
+  },
+  "OS DE RACA": {
+    "idNumerico": "0",
+    "nome": "OS DE RACA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:59|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-05T19:35:09.637Z"
+  },
   "AURA + EGO": {
     "idNumerico": "22",
     "nome": "Aura + Ego",
@@ -270,6 +294,14 @@
     "disponivelEm": "21:13|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T19:13:31.318Z"
+  },
+  "FAZENDINHA DO IGEZE": {
+    "idNumerico": "36",
+    "nome": "fazendinha do igeze",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
   },
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
@@ -311,44 +343,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T18:02:24.780Z"
   },
-  "JESUS EA SOLUCAO": {
-    "idNumerico": "0",
-    "nome": "JESUS EA SOLUCAO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:59|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T19:35:09.637Z"
-  },
-  "NIKE SHOX": {
-    "idNumerico": "42",
-    "nome": "NIKE SHOX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:46|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T19:41:45.645Z"
-  },
-  "FAZENDA DO MIRIM": {
-    "idNumerico": "36",
-    "nome": "Fazenda Do MIRIM",
+  "$ COMPANY $R.RC_PLINIODMG $": {
+    "idNumerico": "3",
+    "nome": "$ Company $r.RC_PlinioDmG $",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "FARM DA THATY": {
-    "idNumerico": "1",
-    "nome": "Farm da Thaty",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:02|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T20:22:49.256Z"
-  },
-  "FAZENDA DO GALIN": {
-    "idNumerico": "15",
-    "nome": "Fazenda do Galin",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:43|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T20:23:41.565Z"
+    "roubadaEm": "2026-08-05T12:41:03.936Z"
   }
 }

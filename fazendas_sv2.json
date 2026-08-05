@@ -106,10 +106,10 @@
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:52|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-08-05T20:15:58.106Z"
   },
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
@@ -279,9 +279,17 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T19:07:57.365Z"
   },
-  "PREFEITO ROADBLOCK": {
+  "AMO A MAZZI": {
+    "idNumerico": "6",
+    "nome": "Amo a Mazzi",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "SE ROUBAR MORRE": {
     "idNumerico": "41",
-    "nome": "Prefeito Roadblock",
+    "nome": "SE ROUBAR MORRE",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:36|05/08/2026",
     "cofreConsertado": false,
@@ -311,13 +319,13 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T18:09:38.776Z"
   },
-  "AMO A MAZZI": {
-    "idNumerico": "6",
-    "nome": "Amo a Mazzi",
+  "THUG LIFE": {
+    "idNumerico": "21",
+    "nome": "THUG LIFE",
     "status": "INDISPONIVEL",
-    "disponivelEm": "17:13|05/08/2026",
+    "disponivelEm": "19:11|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T17:43:34.171Z"
+    "roubadaEm": "2026-08-05T20:05:52.395Z"
   },
   "FARM DO GALO": {
     "idNumerico": "40",
@@ -350,13 +358,5 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
-  },
-  "RAMONZIN_FRANCA": {
-    "idNumerico": "21",
-    "nome": "RAMONZIN_FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:11|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T20:05:52.395Z"
   }
 }

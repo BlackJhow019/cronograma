@@ -293,7 +293,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "14:17|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T14:40:24.062Z"
+    "roubadaEm": "2026-08-05T14:40:41.772Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",
@@ -303,14 +303,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T14:24:29.091Z"
   },
-  "021": {
-    "idNumerico": "1",
-    "nome": "021",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
   "..OURO..PR3TO..": {
     "idNumerico": "5",
     "nome": "..OURO..PR3TO..",
@@ -318,14 +310,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T04:38:44.328Z"
-  },
-  "TREMBALA": {
-    "idNumerico": "42",
-    "nome": "TremBala",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:16|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T14:14:21.025Z"
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
@@ -342,5 +326,21 @@
     "disponivelEm": "14:03|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T14:19:48.441Z"
+  },
+  "FARM DA THATY": {
+    "idNumerico": "1",
+    "nome": "Farm da Thaty",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "NIKE SHOX": {
+    "idNumerico": "42",
+    "nome": "NIKE SHOX",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:16|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-05T14:14:21.025Z"
   }
 }

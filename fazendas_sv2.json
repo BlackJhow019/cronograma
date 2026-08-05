@@ -103,14 +103,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T10:12:55.772Z"
   },
-  "YELLOWSTONE - BY MONSTER": {
-    "idNumerico": "16",
-    "nome": "YellowStone - By Monster",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T07:31:16.611Z"
-  },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
     "nome": "LA FAMILIA CHIARADIA",
@@ -358,5 +350,13 @@
     "disponivelEm": "07:25|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T09:16:17.321Z"
+  },
+  "30PRAUM": {
+    "idNumerico": "16",
+    "nome": "30PRAUM",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:47|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T10:14:42.131Z"
   }
 }

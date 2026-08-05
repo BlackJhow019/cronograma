@@ -317,7 +317,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "04:16|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T04:51:23.149Z"
+    "roubadaEm": "2026-08-05T04:51:41.806Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",
@@ -327,22 +327,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T04:41:21.109Z"
   },
-  "FARM'S NAY E NICK": {
-    "idNumerico": "5",
-    "nome": "FARM'S NAY E NICK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:44|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T04:38:44.328Z"
-  },
-  "CHAMA A POLICIA": {
-    "idNumerico": "44",
-    "nome": "CHAMA A POLICIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:00|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T04:26:36.848Z"
-  },
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
@@ -351,12 +335,28 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T04:23:30.668Z"
   },
-  "SUCCUBUS FARMS": {
+  "QUEM ROUBAR E PETISTA": {
+    "idNumerico": "44",
+    "nome": "Quem Roubar e Petista",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:00|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T04:26:36.848Z"
+  },
+  "GRANJA DO IMONKEY": {
     "idNumerico": "29",
-    "nome": "Succubus Farms",
+    "nome": "Granja do iMonKeY",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:09|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T04:09:52.013Z"
+  },
+  "..OURO..PR3TO..": {
+    "idNumerico": "5",
+    "nome": "..OURO..PR3TO..",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:44|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T04:38:44.328Z"
   }
 }

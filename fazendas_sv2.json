@@ -295,14 +295,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T11:42:16.052Z"
   },
-  "021": {
-    "idNumerico": "1",
-    "nome": "021",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:21|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T12:42:05.838Z"
-  },
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
@@ -327,20 +319,28 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T14:14:21.025Z"
   },
-  "< GAUBRE LTDA >": {
+  "FARME DO DRAKE": {
     "idNumerico": "35",
-    "nome": "< GAUBRE LTDA >",
+    "nome": "Farme do Drake",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:03|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T14:19:48.441Z"
   },
-  "PREFEITO ROADBLOCK": {
+  "SE ROUBAR MORRE": {
     "idNumerico": "41",
-    "nome": "Prefeito Roadblock",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "nome": "SE ROUBAR MORRE",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:19|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T08:23:25.044Z"
+    "roubadaEm": "2026-08-05T14:20:10.716Z"
+  },
+  "FARM DA THATY": {
+    "idNumerico": "1",
+    "nome": "Farm da Thaty",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:21|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T12:42:05.838Z"
   }
 }

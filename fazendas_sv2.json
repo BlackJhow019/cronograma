@@ -51,9 +51,9 @@
     "idNumerico": "26",
     "nome": "Dona sem razao",
     "status": "INDISPONIVEL",
-    "disponivelEm": "06:35|05/08/2026",
+    "disponivelEm": "06:36|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T04:35:18.532Z"
+    "roubadaEm": "2026-08-05T04:36:21.339Z"
   },
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",
@@ -167,14 +167,6 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "LA FAMILIA CHIARADIA": {
-    "idNumerico": "43",
-    "nome": "LA FAMILIA CHIARADIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T02:10:45.178Z"
-  },
   "B13 :)": {
     "idNumerico": "23",
     "nome": "B13 :)",
@@ -214,14 +206,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T00:07:37.321Z"
-  },
-  "..OURO..PR3TO..": {
-    "idNumerico": "5",
-    "nome": "..OURO..PR3TO..",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T00:14:36.924Z"
   },
   "NOREX FARM'S": {
     "idNumerico": "13",
@@ -311,6 +295,30 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T04:26:55.988Z"
   },
+  "HWD INVESTIMENTOS": {
+    "idNumerico": "27",
+    "nome": "hwd investimentos",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:57|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T01:57:01.850Z"
+  },
+  "TA NO GRALI": {
+    "idNumerico": "4",
+    "nome": "ta no grali",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:50|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-05T04:30:36.119Z"
+  },
+  "CHAMA A POLICIA": {
+    "idNumerico": "44",
+    "nome": "CHAMA A POLICIA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:00|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T04:26:36.848Z"
+  },
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
@@ -319,36 +327,20 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T04:23:30.668Z"
   },
-  "QUEM ROUBAR E PETISTA": {
-    "idNumerico": "44",
-    "nome": "Quem Roubar e Petista",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:00|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T04:26:36.848Z"
-  },
-  "GRANJA DO IMONKEY": {
+  "SUCCUBUS FARMS": {
     "idNumerico": "29",
-    "nome": "Granja do iMonKeY",
+    "nome": "Succubus Farms",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:09|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T04:09:52.013Z"
   },
-  "FARM'S DE CAFE": {
-    "idNumerico": "4",
-    "nome": "Farm's de Cafe",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:50|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T04:30:36.119Z"
-  },
-  "HWD INVESTIMENTOS": {
-    "idNumerico": "27",
-    "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:57|05/08/2026",
+  "FARM'S NAY E NICK": {
+    "idNumerico": "5",
+    "nome": "FARM'S NAY E NICK",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T01:57:01.850Z"
+    "roubadaEm": "2026-08-05T00:14:36.924Z"
   }
 }

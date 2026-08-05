@@ -12,7 +12,7 @@
     "nome": "Fazenda Cuiuda - By GAZOLA",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:58|05/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-05T17:58:35.808Z"
   },
   "QG FARM KHAOS": {
@@ -54,14 +54,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T13:27:17.279Z"
-  },
-  "RICO LOUCO": {
-    "idNumerico": "11",
-    "nome": "rico louco",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:43|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T17:51:36.615Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
@@ -287,14 +279,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T18:02:24.780Z"
   },
-  "YELLOWSTONE - BY MONSTER": {
-    "idNumerico": "16",
-    "nome": "YellowStone - By Monster",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:50|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T16:56:00.958Z"
-  },
   "CHAPADO MY LOVE": {
     "idNumerico": "20",
     "nome": "ChaPaDo My Love",
@@ -358,5 +342,21 @@
     "disponivelEm": "20:05|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T18:05:07.817Z"
+  },
+  "30PRAUM": {
+    "idNumerico": "16",
+    "nome": "30PRAUM",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:50|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T16:56:00.958Z"
+  },
+  "ROCK FARM": {
+    "idNumerico": "11",
+    "nome": "RocK Farm",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:29|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T18:08:21.444Z"
   }
 }

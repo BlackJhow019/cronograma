@@ -3,9 +3,9 @@
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
     "status": "INDISPONIVEL",
-    "disponivelEm": "18:54|05/08/2026",
+    "disponivelEm": "18:57|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T16:54:55.159Z"
+    "roubadaEm": "2026-08-05T16:57:36.302Z"
   },
   "FAZENDA CUIUDA - BY GAZOLA": {
     "idNumerico": "17",
@@ -134,14 +134,6 @@
     "disponivelEm": "15:44|05/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T13:44:30.972Z"
-  },
-  "FAZENDINHA DO IGEZE": {
-    "idNumerico": "36",
-    "nome": "fazendinha do igeze",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T12:44:42.537Z"
   },
   "DM2 FARM": {
     "idNumerico": "6",
@@ -308,7 +300,7 @@
     "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:58|05/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-05T16:56:48.439Z"
   },
   "YT @GANDIA_RP": {
@@ -342,5 +334,13 @@
     "disponivelEm": "15:50|05/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T16:56:01.139Z"
+  },
+  "FAZENDA DO MIRIM": {
+    "idNumerico": "36",
+    "nome": "Fazenda Do MIRIM",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T12:44:42.537Z"
   }
 }

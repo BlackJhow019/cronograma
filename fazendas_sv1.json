@@ -314,10 +314,10 @@
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:35|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T16:30:04.474Z"
+    "roubadaEm": "2026-08-05T00:35:50.689Z"
   },
   "FAMILIA KYLES": {
     "idNumerico": "12",

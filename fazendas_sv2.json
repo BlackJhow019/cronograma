@@ -239,6 +239,22 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T01:57:01.850Z"
   },
+  "B13 :)": {
+    "idNumerico": "23",
+    "nome": "B13 :)",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:05|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T01:28:21.462Z"
+  },
+  "FAZENDINHA DO IGEZE": {
+    "idNumerico": "36",
+    "nome": "fazendinha do igeze",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T00:20:27.239Z"
+  },
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
@@ -274,10 +290,10 @@
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:26|04/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T00:20:27.239Z"
+    "roubadaEm": null
   },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
@@ -342,13 +358,5 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T00:30:22.963Z"
-  },
-  "AZEROX": {
-    "idNumerico": "23",
-    "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:05|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T01:28:21.462Z"
   }
 }

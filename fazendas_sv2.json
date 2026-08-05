@@ -191,14 +191,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T00:07:37.321Z"
   },
-  "NOREX FARM'S": {
-    "idNumerico": "13",
-    "nome": "Norex farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T23:13:39.598Z"
-  },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
     "nome": "Vale das Sombras",
@@ -358,5 +350,13 @@
     "disponivelEm": "03:44|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T04:38:44.328Z"
+  },
+  "AWAKE COMPANY": {
+    "idNumerico": "13",
+    "nome": "AwaKe Company",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:54|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T05:52:53.388Z"
   }
 }

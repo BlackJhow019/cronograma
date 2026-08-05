@@ -127,14 +127,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T01:34:22.253Z"
   },
-  "FAZENDINHA BETREZE 2": {
-    "idNumerico": "38",
-    "nome": "Fazendinha BeTreZe 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T00:30:22.963Z"
-  },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
     "nome": "YellowStone - By Monster",
@@ -343,6 +335,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T04:09:52.013Z"
   },
+  "NOREX FARM'S": {
+    "idNumerico": "13",
+    "nome": "Norex farm's",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:55|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T05:53:21.159Z"
+  },
   "..OURO..PR3TO..": {
     "idNumerico": "5",
     "nome": "..OURO..PR3TO..",
@@ -351,12 +351,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T04:38:44.328Z"
   },
-  "AWAKE COMPANY": {
-    "idNumerico": "13",
-    "nome": "AwaKe Company",
+  "WORK INDUSTRIA'S LIMITED": {
+    "idNumerico": "38",
+    "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
-    "disponivelEm": "04:55|05/08/2026",
+    "disponivelEm": "06:00|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T05:53:21.159Z"
+    "roubadaEm": "2026-08-05T05:59:30.870Z"
   }
 }

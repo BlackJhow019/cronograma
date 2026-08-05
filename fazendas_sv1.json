@@ -48,11 +48,11 @@
     "roubadaEm": "2026-08-04T13:33:23.807Z"
   },
   "< GAUBRE LTDA >": {
-    "idNumerico": "35",
+    "idNumerico": "2",
     "nome": "< GAUBRE LTDA >",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:02|05/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-05T14:20:13.231Z"
   },
   "VENDO 500KM ACEITO TROCAS": {
@@ -250,8 +250,8 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:02|05/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T10:02:46.143Z"
   },

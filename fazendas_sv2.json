@@ -119,14 +119,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T23:33:35.714Z"
   },
-  "/VENDERPRODUTOS": {
-    "idNumerico": "7",
-    "nome": "/VENDERPRODUTOS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T00:23:17.645Z"
-  },
   "ARIANA_B13": {
     "idNumerico": "10",
     "nome": "Ariana_B13",
@@ -357,6 +349,14 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "11:57|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T12:13:44.371Z"
+    "roubadaEm": "2026-08-05T12:13:58.359Z"
+  },
+  "ROUBO OFF": {
+    "idNumerico": "7",
+    "nome": "roubo off",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:15|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T12:13:44.844Z"
   }
 }

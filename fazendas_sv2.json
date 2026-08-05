@@ -63,14 +63,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T10:32:30.470Z"
   },
-  "SAO PEDRO 2": {
-    "idNumerico": "43",
-    "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:38|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T16:38:09.421Z"
-  },
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
@@ -207,14 +199,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T14:24:29.091Z"
   },
-  "..OURO..PR3TO..": {
-    "idNumerico": "5",
-    "nome": "..OURO..PR3TO..",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T04:38:44.328Z"
-  },
   "FARM DA THATY": {
     "idNumerico": "1",
     "nome": "Farm da Thaty",
@@ -327,9 +311,25 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T14:46:07.691Z"
   },
-  "SE ROUBAR MORRE": {
+  "FARM'S NAY E NICK": {
+    "idNumerico": "5",
+    "nome": "FARM'S NAY E NICK",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:48|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T16:42:08.755Z"
+  },
+  "LA FAMILIA CHIARADIA": {
+    "idNumerico": "43",
+    "nome": "LA FAMILIA CHIARADIA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:38|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T16:38:09.421Z"
+  },
+  "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
-    "nome": "SE ROUBAR MORRE",
+    "nome": "Prefeito Roadblock",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:19|05/08/2026",
     "cofreConsertado": true,

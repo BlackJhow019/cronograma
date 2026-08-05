@@ -143,6 +143,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T19:44:13.996Z"
   },
+  "FARME DO DRAKE": {
+    "idNumerico": "35",
+    "nome": "Farme do Drake",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T19:42:11.313Z"
+  },
   "TA NO GRALI": {
     "idNumerico": "4",
     "nome": "ta no grali",
@@ -231,6 +239,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T20:07:13.116Z"
   },
+  "FARM'S NAY E NICK": {
+    "idNumerico": "5",
+    "nome": "FARM'S NAY E NICK",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:20|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T00:14:36.924Z"
+  },
   "/VENDERPRODUTOS": {
     "idNumerico": "7",
     "nome": "/VENDERPRODUTOS",
@@ -239,13 +255,13 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T00:23:17.645Z"
   },
-  "FARM'S NAY E NICK": {
-    "idNumerico": "5",
-    "nome": "FARM'S NAY E NICK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:20|04/08/2026",
+  "JESUS EA SOLUCAO": {
+    "idNumerico": "0",
+    "nome": "JESUS EA SOLUCAO",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T00:14:36.924Z"
+    "roubadaEm": "2026-08-04T19:22:56.430Z"
   },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
@@ -334,13 +350,5 @@
     "disponivelEm": "22:15|04/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T23:13:39.598Z"
-  },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T19:22:56.430Z"
   }
 }

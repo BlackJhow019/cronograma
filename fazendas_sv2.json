@@ -26,10 +26,10 @@
   "QG FARM KHAOS": {
     "idNumerico": "18",
     "nome": "QG FARM KHAOS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:42|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T19:16:22.388Z"
+    "roubadaEm": "2026-08-05T03:42:11.130Z"
   },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
@@ -295,14 +295,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T23:33:35.714Z"
   },
-  "HWD INVESTIMENTOS": {
-    "idNumerico": "27",
-    "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:57|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T01:57:01.850Z"
-  },
   "/VENDERPRODUTOS": {
     "idNumerico": "7",
     "nome": "/VENDERPRODUTOS",
@@ -310,6 +302,38 @@
     "disponivelEm": "02:23|05/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T00:23:17.645Z"
+  },
+  "ARIANA_B13": {
+    "idNumerico": "10",
+    "nome": "Ariana_B13",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:54|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-05T01:57:45.530Z"
+  },
+  "FAMILIA ALMANAK": {
+    "idNumerico": "32",
+    "nome": "Familia AlmanaK",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:50|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T01:53:57.541Z"
+  },
+  "@FILH_ODOPAII": {
+    "idNumerico": "12",
+    "nome": "@filh_odopaii",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:45|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T01:08:15.980Z"
+  },
+  "HWD INVESTIMENTOS": {
+    "idNumerico": "27",
+    "nome": "hwd investimentos",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:57|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T01:57:01.850Z"
   },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
@@ -326,29 +350,5 @@
     "disponivelEm": "01:39|05/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T01:30:53.438Z"
-  },
-  "PENOSO FARM'S": {
-    "idNumerico": "10",
-    "nome": "Penoso Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:54|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T01:57:45.530Z"
-  },
-  "MALVADA'S FARM": {
-    "idNumerico": "32",
-    "nome": "Malvada's Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:50|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T01:53:57.541Z"
-  },
-  "FAMILIA KYLES": {
-    "idNumerico": "12",
-    "nome": "Familia KyLeS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:45|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T01:08:15.980Z"
   }
 }

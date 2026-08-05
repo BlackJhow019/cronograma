@@ -74,10 +74,10 @@
   "GRUPO RANTER": {
     "idNumerico": "19",
     "nome": "GRUPO RANTER",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:15|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T16:22:17.949Z"
+    "roubadaEm": "2026-08-05T00:06:02.117Z"
   },
   "FRANCA": {
     "idNumerico": "28",

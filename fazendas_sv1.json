@@ -31,14 +31,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T15:10:41.129Z"
   },
-  "BORRACHAS FARM": {
-    "idNumerico": "33",
-    "nome": "Borrachas Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:45|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T16:45:01.726Z"
-  },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
     "nome": "Wesker_u$MeTraLha",
@@ -82,10 +74,10 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T16:36:57.033Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:41|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-05T21:41:59.504Z"
   },
   "AZEROX": {
     "idNumerico": "23",
@@ -154,9 +146,9 @@
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:43|05/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-05T16:43:04.928Z"
   },
   "FAZENDINHA DO IGEZE": {
@@ -330,9 +322,9 @@
   "CHAPADO MY LOVE": {
     "idNumerico": "20",
     "nome": "ChaPaDo My Love",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:41|05/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-05T16:41:10.232Z"
   }
 }

@@ -2,8 +2,8 @@
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:43|05/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T11:43:08.358Z"
   },
@@ -191,6 +191,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T13:43:55.655Z"
   },
+  "THUG LIFE": {
+    "idNumerico": "21",
+    "nome": "THUG LIFE",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T11:42:16.052Z"
+  },
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
@@ -292,8 +300,24 @@
     "nome": "ChaPaDo My Love",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:50|05/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-05T16:41:09.919Z"
+  },
+  "PENOSO FARM'S": {
+    "idNumerico": "10",
+    "nome": "Penoso Farm's",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "SAO PEDRO 2": {
+    "idNumerico": "43",
+    "nome": "SAO PEDRO 2",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:07|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T16:43:05.881Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
@@ -303,29 +327,13 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T14:53:30.010Z"
   },
-  "PENOSO FARM'S": {
-    "idNumerico": "10",
-    "nome": "Penoso Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:43|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T14:46:07.691Z"
-  },
-  "FARM'S NAY E NICK": {
+  "..OURO..PR3TO..": {
     "idNumerico": "5",
-    "nome": "FARM'S NAY E NICK",
+    "nome": "..OURO..PR3TO..",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:48|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T16:42:25.866Z"
-  },
-  "LA FAMILIA CHIARADIA": {
-    "idNumerico": "43",
-    "nome": "LA FAMILIA CHIARADIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:07|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T16:43:05.881Z"
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",

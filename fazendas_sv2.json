@@ -47,14 +47,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T17:19:14.504Z"
   },
-  "FARM'S NAY E NICK": {
-    "idNumerico": "5",
-    "nome": "FARM'S NAY E NICK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T16:42:25.866Z"
-  },
   "FARME DO DRAKE": {
     "idNumerico": "35",
     "nome": "Farme do Drake",
@@ -358,5 +350,13 @@
     "disponivelEm": "20:31|05/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T22:48:30.450Z"
+  },
+  "..OURO..PR3TO..": {
+    "idNumerico": "5",
+    "nome": "..OURO..PR3TO..",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:00|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T22:48:56.507Z"
   }
 }

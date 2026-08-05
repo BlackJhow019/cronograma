@@ -354,9 +354,9 @@
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
     "nome": "Farma Da Familia Elite",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:00|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T23:24:12.850Z"
+    "roubadaEm": "2026-08-05T19:07:57.483Z"
   }
 }

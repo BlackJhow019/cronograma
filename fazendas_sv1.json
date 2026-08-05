@@ -82,10 +82,10 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:36|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T10:39:48.648Z"
+    "roubadaEm": "2026-08-05T16:36:57.033Z"
   },
   "AZEROX": {
     "idNumerico": "23",
@@ -254,14 +254,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T10:02:46.143Z"
-  },
-  "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": "38",
-    "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:35|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T11:35:38.034Z"
   },
   "..OURO..PR3TO..": {
     "idNumerico": "5",

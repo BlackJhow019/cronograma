@@ -103,14 +103,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T18:56:42.372Z"
   },
-  "ARIANA_B13": {
-    "idNumerico": "10",
-    "nome": "Ariana_B13",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T20:07:13.116Z"
-  },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
@@ -231,14 +223,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T23:41:33.757Z"
   },
-  "DM2 FARM": {
-    "idNumerico": "6",
-    "nome": "Dm2 Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:43|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T23:43:31.801Z"
-  },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
@@ -246,14 +230,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T19:22:56.430Z"
-  },
-  ".": {
-    "idNumerico": "31",
-    "nome": ".",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T19:04:33.003Z"
   },
   "FAZENDA FELIZ": {
     "idNumerico": "22",
@@ -271,30 +247,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T00:09:43.632Z"
   },
-  "/VENDERPRODUTOS": {
-    "idNumerico": "7",
-    "nome": "/VENDERPRODUTOS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:23|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T00:23:17.645Z"
-  },
-  "VALE DAS SOMBRAS": {
-    "idNumerico": "24",
-    "nome": "Vale das Sombras",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:11|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T00:19:05.047Z"
-  },
-  "021": {
-    "idNumerico": "1",
-    "nome": "021",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T17:32:14.470Z"
-  },
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",
     "nome": "Fazendinha BeTreZe 2",
@@ -310,14 +262,6 @@
     "disponivelEm": "22:09|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T23:59:53.820Z"
-  },
-  "FAMILIA KUSH": {
-    "idNumerico": "34",
-    "nome": "Familia KuSh",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:00|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T23:20:32.092Z"
   },
   "FARM DO GALO": {
     "idNumerico": "40",
@@ -335,20 +279,84 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T23:13:39.598Z"
   },
-  "..OURO..PR3TO..": {
+  "PENOSO FARM'S": {
+    "idNumerico": "10",
+    "nome": "Penoso Farm's",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T20:07:13.116Z"
+  },
+  "FAZENDA REI DROGADO": {
+    "idNumerico": "31",
+    "nome": "Fazenda Rei Drogado",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T19:04:33.003Z"
+  },
+  "FAMILIA KYLES": {
+    "idNumerico": "12",
+    "nome": "Familia KyLeS",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:11|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T00:34:18.598Z"
+  },
+  "/VENDERPRODUTOS": {
+    "idNumerico": "7",
+    "nome": "/VENDERPRODUTOS",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:23|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-05T00:23:17.645Z"
+  },
+  "AMO A MAZZI": {
+    "idNumerico": "6",
+    "nome": "Amo a Mazzi",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:43|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T23:43:31.801Z"
+  },
+  "FARM'S NAY E NICK": {
     "idNumerico": "5",
-    "nome": "..OURO..PR3TO..",
+    "nome": "FARM'S NAY E NICK",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:20|04/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T00:14:36.924Z"
   },
-  "@FILH_ODOPAII": {
-    "idNumerico": "12",
-    "nome": "@filh_odopaii",
+  "VALE DAS SOMBRAS": {
+    "idNumerico": "24",
+    "nome": "Vale das Sombras",
     "status": "INDISPONIVEL",
-    "disponivelEm": "02:11|05/08/2026",
+    "disponivelEm": "00:11|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-05T00:19:05.047Z"
+  },
+  "021": {
+    "idNumerico": "1",
+    "nome": "021",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T00:34:18.598Z"
+    "roubadaEm": "2026-08-04T17:32:14.470Z"
+  },
+  "YANINHA_ANTIFALSOS": {
+    "idNumerico": "34",
+    "nome": "yAninha_AntiFalsos",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:00|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T23:20:32.092Z"
+  },
+  "RICK FARM'S": {
+    "idNumerico": "9",
+    "nome": "Rick Farm's",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
   }
 }

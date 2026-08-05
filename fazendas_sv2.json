@@ -3,9 +3,9 @@
     "idNumerico": "39",
     "nome": "999",
     "status": "INDISPONIVEL",
-    "disponivelEm": "17:27|05/08/2026",
+    "disponivelEm": "17:26|05/08/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T19:12:13.325Z"
+    "roubadaEm": "2026-08-05T19:10:53.338Z"
   },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
@@ -229,15 +229,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "21:07|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T19:07:17.746Z"
-  },
-  "AURA + EGO": {
-    "idNumerico": "22",
-    "nome": "Aura + Ego",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:41|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T19:13:51.947Z"
+    "roubadaEm": "2026-08-05T19:07:17.674Z"
   },
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
@@ -254,14 +246,6 @@
     "disponivelEm": "16:30|05/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T18:09:38.776Z"
-  },
-  "QUEM ROUBAR E PETISTA": {
-    "idNumerico": "44",
-    "nome": "Quem Roubar e Petista",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:34|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T17:50:29.150Z"
   },
   "AMO A MAZZI": {
     "idNumerico": "6",
@@ -286,22 +270,6 @@
     "disponivelEm": "16:29|05/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T18:33:45.663Z"
-  },
-  "AZEROX": {
-    "idNumerico": "23",
-    "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:27|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T16:48:23.486Z"
-  },
-  "BORRACHAS FARM": {
-    "idNumerico": "33",
-    "nome": "Borrachas Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:00|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T19:08:35.854Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
@@ -358,5 +326,37 @@
     "disponivelEm": "16:49|05/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T17:52:30.117Z"
+  },
+  "B13 :)": {
+    "idNumerico": "23",
+    "nome": "B13 :)",
+    "status": "INDISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T16:48:23.486Z"
+  },
+  "CHAMA A POLICIA": {
+    "idNumerico": "44",
+    "nome": "CHAMA A POLICIA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:34|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T17:50:29.150Z"
+  },
+  "FARMA DA FAMILIA ELITE": {
+    "idNumerico": "33",
+    "nome": "Farma Da Familia Elite",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:00|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T19:07:57.365Z"
+  },
+  "FAZENDA FELIZ": {
+    "idNumerico": "22",
+    "nome": "fazenda feliz",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:13|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T19:13:31.318Z"
   }
 }

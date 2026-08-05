@@ -75,9 +75,9 @@
     "idNumerico": "19",
     "nome": "GRUPO RANTER",
     "status": "INDISPONIVEL",
-    "disponivelEm": "01:15|05/08/2026",
+    "disponivelEm": "01:16|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T00:06:02.117Z"
+    "roubadaEm": "2026-08-05T00:06:34.651Z"
   },
   "FRANCA": {
     "idNumerico": "28",
@@ -296,32 +296,8 @@
     "roubadaEm": "2026-08-04T23:58:30.047Z"
   },
   "RICK FARM'S": {
-    "idNumerico": "9",
-    "nome": "Rick Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:06|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T00:03:47.373Z"
-  },
-  "FAZENDINHA BETREZE 2": {
-    "idNumerico": "38",
-    "nome": "Fazendinha BeTreZe 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T18:14:09.977Z"
-  },
-  "FARMS DE GALOPISITAS": {
-    "idNumerico": "20",
-    "nome": "Farms de Galopisitas",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:09|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T23:59:53.820Z"
-  },
-  "FARM DO GALO": {
     "idNumerico": "40",
-    "nome": "FARM DO GALO",
+    "nome": "Rick Farm's",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
@@ -334,14 +310,6 @@
     "disponivelEm": "22:15|04/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T23:13:39.598Z"
-  },
-  "..OURO..PR3TO..": {
-    "idNumerico": "5",
-    "nome": "..OURO..PR3TO..",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:52|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T23:26:27.420Z"
   },
   "FAZENDA FELIZ": {
     "idNumerico": "22",
@@ -358,5 +326,29 @@
     "disponivelEm": "23:00|04/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T23:20:32.092Z"
+  },
+  "CHAPADO MY LOVE": {
+    "idNumerico": "20",
+    "nome": "ChaPaDo My Love",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:09|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T23:59:53.820Z"
+  },
+  "FAZENDINHA BETREZE 2": {
+    "idNumerico": "38",
+    "nome": "Fazendinha BeTreZe 2",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T18:14:09.977Z"
+  },
+  "FARM'S NAY E NICK": {
+    "idNumerico": "5",
+    "nome": "FARM'S NAY E NICK",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:52|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T23:26:27.420Z"
   }
 }

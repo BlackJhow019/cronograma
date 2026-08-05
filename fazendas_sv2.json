@@ -314,10 +314,10 @@
   ".": {
     "idNumerico": "31",
     "nome": ".",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:32|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T19:04:33.003Z"
+    "roubadaEm": "2026-08-05T13:32:32.673Z"
   },
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",

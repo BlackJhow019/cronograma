@@ -167,14 +167,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T11:42:16.052Z"
   },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T14:24:29.091Z"
-  },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
@@ -350,5 +342,13 @@
     "disponivelEm": "16:41|05/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T16:59:39.435Z"
+  },
+  "JESUS EA SOLUCAO": {
+    "idNumerico": "0",
+    "nome": "JESUS EA SOLUCAO",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:33|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T17:24:19.923Z"
   }
 }

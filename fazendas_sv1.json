@@ -18,10 +18,10 @@
   "NIKE SHOX": {
     "idNumerico": "42",
     "nome": "NIKE SHOX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:13|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T22:44:19.522Z"
+    "roubadaEm": "2026-08-05T12:20:11.347Z"
   },
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
@@ -252,8 +252,8 @@
     "nome": "roubo off",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:14|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T12:14:28.949Z"
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-05T12:14:45.228Z"
   },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",

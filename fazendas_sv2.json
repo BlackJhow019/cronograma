@@ -175,14 +175,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T10:32:30.470Z"
   },
-  "FAZENDA DO MIRIM": {
-    "idNumerico": "36",
-    "nome": "Fazenda Do MIRIM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:54|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T08:48:08.075Z"
-  },
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
@@ -298,8 +290,8 @@
   "AMO A MAZZI": {
     "idNumerico": "6",
     "nome": "Amo a Mazzi",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:52|05/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T09:12:45.902Z"
   },
@@ -343,6 +335,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T10:40:09.777Z"
   },
+  "AZEROX": {
+    "idNumerico": "23",
+    "nome": "AzeRoX",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:50|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T10:30:50.942Z"
+  },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
@@ -350,13 +350,5 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
-  },
-  "B13 :)": {
-    "idNumerico": "23",
-    "nome": "B13 :)",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:50|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T10:30:50.942Z"
   }
 }

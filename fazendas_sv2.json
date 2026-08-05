@@ -247,14 +247,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T11:38:37.043Z"
   },
-  "021": {
-    "idNumerico": "1",
-    "nome": "021",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:50|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T11:40:33.485Z"
-  },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
@@ -354,9 +346,17 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:22|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T04:41:21.109Z"
+    "roubadaEm": "2026-08-05T12:40:52.431Z"
+  },
+  "FARM DA THATY": {
+    "idNumerico": "1",
+    "nome": "Farm da Thaty",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:50|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T11:40:33.485Z"
   }
 }

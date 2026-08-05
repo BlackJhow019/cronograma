@@ -242,8 +242,8 @@
   "CHAMA A POLICIA": {
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:49|05/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T16:15:18.308Z"
   },
@@ -287,13 +287,13 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T16:41:09.919Z"
   },
-  "PENOSO FARM'S": {
-    "idNumerico": "10",
-    "nome": "Penoso Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+  "021": {
+    "idNumerico": "1",
+    "nome": "021",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:58|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-08-05T16:48:26.501Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -303,6 +303,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T16:43:05.881Z"
   },
+  "B13 :)": {
+    "idNumerico": "23",
+    "nome": "B13 :)",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:27|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T16:48:23.486Z"
+  },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
@@ -310,6 +318,14 @@
     "disponivelEm": "14:13|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T14:53:30.010Z"
+  },
+  "PENOSO FARM'S": {
+    "idNumerico": "10",
+    "nome": "Penoso Farm's",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
   },
   "..OURO..PR3TO..": {
     "idNumerico": "5",
@@ -319,28 +335,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T16:42:25.866Z"
   },
-  "PREFEITO ROADBLOCK": {
+  "SE ROUBAR MORRE": {
     "idNumerico": "41",
-    "nome": "Prefeito Roadblock",
+    "nome": "SE ROUBAR MORRE",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:19|05/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T14:20:22.268Z"
-  },
-  "AZEROX": {
-    "idNumerico": "23",
-    "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:27|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T16:48:23.486Z"
-  },
-  "021": {
-    "idNumerico": "1",
-    "nome": "021",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:58|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T16:48:26.501Z"
   }
 }

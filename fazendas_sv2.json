@@ -103,14 +103,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T10:12:55.772Z"
   },
-  "LA FAMILIA CHIARADIA": {
-    "idNumerico": "43",
-    "nome": "LA FAMILIA CHIARADIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T02:10:45.178Z"
-  },
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",
     "nome": "Fazenda Rei Drogado",
@@ -327,14 +319,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T09:12:45.902Z"
   },
-  "AZEROX": {
-    "idNumerico": "23",
-    "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:24|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T09:45:45.088Z"
-  },
   "CHAPADO MY LOVE": {
     "idNumerico": "20",
     "nome": "ChaPaDo My Love",
@@ -346,17 +330,33 @@
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:25|05/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T09:16:17.321Z"
+    "roubadaEm": null
   },
-  "30PRAUM": {
+  "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
-    "nome": "30PRAUM",
+    "nome": "YellowStone - By Monster",
     "status": "INDISPONIVEL",
     "disponivelEm": "09:47|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T10:14:53.517Z"
+  },
+  "SAO PEDRO 2": {
+    "idNumerico": "43",
+    "nome": "SAO PEDRO 2",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:30|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T10:30:45.959Z"
+  },
+  "B13 :)": {
+    "idNumerico": "23",
+    "nome": "B13 :)",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:50|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T10:30:50.942Z"
   }
 }

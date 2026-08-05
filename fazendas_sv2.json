@@ -239,14 +239,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T15:24:26.406Z"
   },
-  "@FILH_ODOPAII": {
-    "idNumerico": "12",
-    "nome": "@filh_odopaii",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:34|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T14:58:08.648Z"
-  },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
@@ -262,6 +254,30 @@
     "disponivelEm": "16:28|05/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T17:17:00.292Z"
+  },
+  "NIKE SHOX": {
+    "idNumerico": "42",
+    "nome": "NIKE SHOX",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:22|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T17:22:20.545Z"
+  },
+  "JESUS EA SOLUCAO": {
+    "idNumerico": "0",
+    "nome": "JESUS EA SOLUCAO",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:33|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T17:24:19.923Z"
+  },
+  "CHAPADO MY LOVE": {
+    "idNumerico": "20",
+    "nome": "ChaPaDo My Love",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:41|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-05T16:59:39.435Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -295,6 +311,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T16:48:23.486Z"
   },
+  "FARM DO GALO": {
+    "idNumerico": "40",
+    "nome": "FARM DO GALO",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:42|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T17:25:38.363Z"
+  },
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
@@ -302,6 +326,14 @@
     "disponivelEm": "15:50|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T16:56:00.958Z"
+  },
+  "@FILH_ODOPAII": {
+    "idNumerico": "12",
+    "nome": "@filh_odopaii",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:34|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T14:58:08.648Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
@@ -326,29 +358,5 @@
     "disponivelEm": "15:48|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T16:42:25.866Z"
-  },
-  "NIKE SHOX": {
-    "idNumerico": "42",
-    "nome": "NIKE SHOX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:22|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T17:22:20.545Z"
-  },
-  "FARMS DE GALOPISITAS": {
-    "idNumerico": "20",
-    "nome": "Farms de Galopisitas",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:41|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T16:59:39.435Z"
-  },
-  "JESUS EA SOLUCAO": {
-    "idNumerico": "0",
-    "nome": "JESUS EA SOLUCAO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:33|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T17:24:19.923Z"
   }
 }

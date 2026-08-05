@@ -103,14 +103,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T20:23:41.565Z"
   },
-  "GRANJA DO IMONKEY": {
-    "idNumerico": "29",
-    "nome": "Granja do iMonKeY",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:48|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T18:48:21.116Z"
-  },
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
@@ -118,14 +110,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T18:09:38.776Z"
-  },
-  "AMO A MAZZI": {
-    "idNumerico": "6",
-    "nome": "Amo a Mazzi",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
   },
   "FARM DO GALO": {
     "idNumerico": "40",
@@ -311,13 +295,21 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T20:05:52.395Z"
   },
-  "WESKER_U$METRALHA": {
-    "idNumerico": "28",
-    "nome": "Wesker_u$MeTraLha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
+  "ROUBO OFF": {
+    "idNumerico": "7",
+    "nome": "roubo off",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:31|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-05T20:31:34.070Z"
+  },
+  "DM2 FARM": {
+    "idNumerico": "6",
+    "nome": "Dm2 Farm",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:38|06/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-05T23:38:51.552Z"
   },
   "@FILH_ODOPAII": {
     "idNumerico": "12",
@@ -335,14 +327,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T22:44:54.957Z"
   },
-  "ROUBO OFF": {
-    "idNumerico": "7",
-    "nome": "roubo off",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:31|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T20:31:34.070Z"
-  },
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
@@ -358,5 +342,13 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T22:24:15.923Z"
+  },
+  "WESKER_U$METRALHA": {
+    "idNumerico": "28",
+    "nome": "Wesker_u$MeTraLha",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
   }
 }

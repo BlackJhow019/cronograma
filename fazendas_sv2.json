@@ -122,8 +122,8 @@
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:16|04/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T22:32:58.051Z"
   },
@@ -231,13 +231,13 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T19:42:11.313Z"
   },
-  "FARMS DE GALOPISITAS": {
-    "idNumerico": "20",
-    "nome": "Farms de Galopisitas",
+  "NOREX FARM'S": {
+    "idNumerico": "13",
+    "nome": "Norex farm's",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-08-04T23:13:39.598Z"
   },
   "/VENDERPRODUTOS": {
     "idNumerico": "7",
@@ -299,7 +299,7 @@
     "idNumerico": "6",
     "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
-    "disponivelEm": "22:20|04/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T00:37:33.640Z"
   },
@@ -311,6 +311,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T00:30:22.963Z"
   },
+  "AWAKE COMPANY": {
+    "idNumerico": "13",
+    "nome": "AwaKe Company",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
@@ -318,6 +326,14 @@
     "disponivelEm": "00:11|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T01:06:04.898Z"
+  },
+  "FARMS DE GALOPISITAS": {
+    "idNumerico": "20",
+    "nome": "Farms de Galopisitas",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
   },
   "RICO LOUCO": {
     "idNumerico": "11",
@@ -342,13 +358,5 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
-  },
-  "NOREX FARM'S": {
-    "idNumerico": "13",
-    "nome": "Norex farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:15|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T23:13:39.598Z"
   }
 }

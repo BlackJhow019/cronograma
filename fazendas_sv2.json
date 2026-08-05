@@ -338,10 +338,10 @@
   "CHAMA A POLICIA": {
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:56|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T22:32:58.051Z"
+    "roubadaEm": "2026-08-05T04:22:52.624Z"
   },
   "YANINHA_ANTIFALSOS": {
     "idNumerico": "34",

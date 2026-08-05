@@ -202,10 +202,10 @@
   "TA NO GRALI": {
     "idNumerico": "4",
     "nome": "ta no grali",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:50|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T04:30:36.119Z"
+    "roubadaEm": "2026-08-05T10:31:23.218Z"
   },
   "DEAD (:": {
     "idNumerico": "27",
@@ -327,6 +327,22 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T04:41:50.678Z"
   },
+  "SAO PEDRO 2": {
+    "idNumerico": "43",
+    "nome": "SAO PEDRO 2",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:30|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T10:30:45.959Z"
+  },
+  "AZEROX": {
+    "idNumerico": "23",
+    "nome": "AzeRoX",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:50|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T10:30:50.942Z"
+  },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
@@ -342,21 +358,5 @@
     "disponivelEm": "09:47|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T10:14:53.517Z"
-  },
-  "SAO PEDRO 2": {
-    "idNumerico": "43",
-    "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:30|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T10:30:45.959Z"
-  },
-  "B13 :)": {
-    "idNumerico": "23",
-    "nome": "B13 :)",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:50|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T10:30:50.942Z"
   }
 }

@@ -180,7 +180,7 @@
     "nome": "PoLeMiCo$ industri$",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:55|05/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-05T11:55:20.813Z"
   },
   "NOREX FARM'S": {
@@ -250,10 +250,10 @@
   "ROUBO OFF": {
     "idNumerico": "7",
     "nome": "roubo off",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:14|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T00:28:49.187Z"
+    "roubadaEm": "2026-08-05T12:14:28.949Z"
   },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",

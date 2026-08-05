@@ -39,14 +39,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T05:43:09.022Z"
   },
-  "TREMBALA": {
-    "idNumerico": "42",
-    "nome": "TremBala",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T00:03:42.644Z"
-  },
   "DONA SEM RAZAO": {
     "idNumerico": "26",
     "nome": "Dona sem razao",
@@ -303,6 +295,30 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
+  "VENDO 500KM ACEITO TROCAS": {
+    "idNumerico": "24",
+    "nome": "VENDO 500km ACEITO TROCAS",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T08:32:28.635Z"
+  },
+  "QUEM ROUBAR E PETISTA": {
+    "idNumerico": "44",
+    "nome": "Quem Roubar e Petista",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:58|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T12:14:43.447Z"
+  },
+  "ROUBO OFF": {
+    "idNumerico": "7",
+    "nome": "roubo off",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:16|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-05T12:14:43.465Z"
+  },
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",
     "nome": "RAMONZIN_FRANCA",
@@ -335,28 +351,12 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T10:59:38.734Z"
   },
-  "VENDO 500KM ACEITO TROCAS": {
-    "idNumerico": "24",
-    "nome": "VENDO 500km ACEITO TROCAS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T08:32:28.635Z"
-  },
-  "QUEM ROUBAR E PETISTA": {
-    "idNumerico": "44",
-    "nome": "Quem Roubar e Petista",
+  "NIKE SHOX": {
+    "idNumerico": "42",
+    "nome": "NIKE SHOX",
     "status": "INDISPONIVEL",
-    "disponivelEm": "11:58|05/08/2026",
+    "disponivelEm": "14:20|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T12:14:43.447Z"
-  },
-  "ROUBO OFF": {
-    "idNumerico": "7",
-    "nome": "roubo off",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:15|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T12:14:28.820Z"
+    "roubadaEm": "2026-08-05T12:20:10.365Z"
   }
 }

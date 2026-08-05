@@ -162,10 +162,10 @@
   "THUG LIFE": {
     "idNumerico": "21",
     "nome": "THUG LIFE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:37|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T11:42:16.052Z"
+    "roubadaEm": "2026-08-05T17:37:01.412Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
@@ -268,8 +268,16 @@
     "nome": "JESUS EA SOLUCAO",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:33|05/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-05T17:24:19.923Z"
+  },
+  "FARM DO GALO": {
+    "idNumerico": "40",
+    "nome": "FARM DO GALO",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:42|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-05T17:25:58.214Z"
   },
   "CHAPADO MY LOVE": {
     "idNumerico": "20",
@@ -310,14 +318,6 @@
     "disponivelEm": "16:27|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T16:48:23.486Z"
-  },
-  "FARM DO GALO": {
-    "idNumerico": "40",
-    "nome": "FARM DO GALO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:42|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T17:25:58.214Z"
   },
   "30PRAUM": {
     "idNumerico": "16",

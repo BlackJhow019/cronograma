@@ -183,14 +183,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T15:10:41.942Z"
   },
-  "< GAUBRE LTDA >": {
-    "idNumerico": "2",
-    "nome": "< GAUBRE LTDA >",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T14:19:48.441Z"
-  },
   "FARME DO DRAKE": {
     "idNumerico": "35",
     "nome": "Farme do Drake",
@@ -219,7 +211,7 @@
     "idNumerico": "32",
     "nome": "Malvada's Farm",
     "status": "INDISPONIVEL",
-    "disponivelEm": "14:39|05/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T16:20:17.841Z"
   },
@@ -358,5 +350,13 @@
     "disponivelEm": "15:48|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T16:42:25.866Z"
+  },
+  "AMO O LOWER": {
+    "idNumerico": "2",
+    "nome": "Amo o Lower",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:20|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T17:39:19.427Z"
   }
 }

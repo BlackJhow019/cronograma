@@ -271,14 +271,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T20:40:22.870Z"
   },
-  "@FILH_ODOPAII": {
-    "idNumerico": "12",
-    "nome": "@filh_odopaii",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:03|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T22:26:32.519Z"
-  },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
@@ -358,5 +350,13 @@
     "disponivelEm": "20:57|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T22:48:17.523Z"
+  },
+  "FAMILIA KYLES": {
+    "idNumerico": "12",
+    "nome": "Familia KyLeS",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:31|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-05T22:48:30.450Z"
   }
 }

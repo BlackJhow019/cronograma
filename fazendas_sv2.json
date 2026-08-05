@@ -15,6 +15,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T17:58:35.808Z"
   },
+  "QG FARM KHAOS": {
+    "idNumerico": "18",
+    "nome": "QG FARM KHAOS",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T13:53:59.257Z"
+  },
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
@@ -219,7 +227,7 @@
     "idNumerico": "1",
     "nome": "021",
     "status": "INDISPONIVEL",
-    "disponivelEm": "15:58|05/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T16:48:26.501Z"
   },
@@ -270,14 +278,6 @@
     "disponivelEm": "16:29|05/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T18:33:45.663Z"
-  },
-  "YELLOWSTONE - BY MONSTER": {
-    "idNumerico": "16",
-    "nome": "YellowStone - By Monster",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T16:56:00.958Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",

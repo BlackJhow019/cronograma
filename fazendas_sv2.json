@@ -103,14 +103,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T18:56:42.372Z"
   },
-  "ROUBO OFF": {
-    "idNumerico": "7",
-    "nome": "roubo off",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T18:07:43.453Z"
-  },
   "ARIANA_B13": {
     "idNumerico": "10",
     "nome": "Ariana_B13",
@@ -287,6 +279,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T00:09:43.632Z"
   },
+  "VALE DAS SOMBRAS": {
+    "idNumerico": "24",
+    "nome": "Vale das Sombras",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:11|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-05T00:19:05.047Z"
+  },
   "021": {
     "idNumerico": "1",
     "nome": "021",
@@ -343,12 +343,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T00:14:36.924Z"
   },
-  "VENDO 500KM ACEITO TROCAS": {
-    "idNumerico": "24",
-    "nome": "VENDO 500km ACEITO TROCAS",
+  "/VENDERPRODUTOS": {
+    "idNumerico": "7",
+    "nome": "/VENDERPRODUTOS",
     "status": "INDISPONIVEL",
-    "disponivelEm": "00:11|05/08/2026",
+    "disponivelEm": "02:23|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T00:19:05.047Z"
+    "roubadaEm": "2026-08-05T00:23:09.498Z"
   }
 }

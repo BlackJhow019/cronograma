@@ -114,9 +114,9 @@
   "ROUBO OFF": {
     "idNumerico": "7",
     "nome": "roubo off",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:15|05/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-05T12:14:28.652Z"
   },
   "JAH RASTAFARI": {
@@ -287,6 +287,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T14:49:40.537Z"
   },
+  "RAFHA INVESTIMENTOS $": {
+    "idNumerico": "26",
+    "nome": "Rafha investimentos $",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:10|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-05T15:10:41.942Z"
+  },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
@@ -302,14 +310,6 @@
     "disponivelEm": "13:43|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T14:46:07.691Z"
-  },
-  "RAFHA INVESTIMENTOS $": {
-    "idNumerico": "26",
-    "nome": "Rafha investimentos $",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:10|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T15:10:41.942Z"
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",

@@ -287,6 +287,22 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T17:02:21.254Z"
   },
+  "PENOSO FARM'S": {
+    "idNumerico": "10",
+    "nome": "Penoso Farm's",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "@FILH_ODOPAII": {
+    "idNumerico": "12",
+    "nome": "@filh_odopaii",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:03|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-05T22:26:32.519Z"
+  },
   ".": {
     "idNumerico": "31",
     "nome": ".",
@@ -319,14 +335,6 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "PENOSO FARM'S": {
-    "idNumerico": "10",
-    "nome": "Penoso Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:29|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T20:31:53.365Z"
-  },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
@@ -350,13 +358,5 @@
     "disponivelEm": "19:38|05/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T20:34:29.999Z"
-  },
-  "@FILH_ODOPAII": {
-    "idNumerico": "12",
-    "nome": "@filh_odopaii",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:03|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T22:26:32.519Z"
   }
 }

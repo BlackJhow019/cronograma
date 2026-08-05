@@ -322,18 +322,10 @@
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "SUCCUBUS FARMS": {
-    "idNumerico": "29",
-    "nome": "Succubus Farms",
     "status": "INDISPONIVEL",
-    "disponivelEm": "06:09|05/08/2026",
+    "disponivelEm": "03:38|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T04:09:52.013Z"
+    "roubadaEm": "2026-08-05T04:26:55.988Z"
   },
   "YANINHA_ANTIFALSOS": {
     "idNumerico": "34",
@@ -350,5 +342,13 @@
     "disponivelEm": "02:00|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T04:26:36.848Z"
+  },
+  "GRANJA DO IMONKEY": {
+    "idNumerico": "29",
+    "nome": "Granja do iMonKeY",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:09|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T04:09:52.013Z"
   }
 }

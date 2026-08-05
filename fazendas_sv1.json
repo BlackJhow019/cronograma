@@ -146,10 +146,18 @@
   "021": {
     "idNumerico": "1",
     "nome": "021",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:40|05/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T11:40:35.075Z"
+  },
+  "FAMILIA KUSH": {
+    "idNumerico": "34",
+    "nome": "Familia KuSh",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T11:38:37.588Z"
   },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
@@ -283,7 +291,7 @@
     "idNumerico": "21",
     "nome": "THUG LIFE",
     "status": "INDISPONIVEL",
-    "disponivelEm": "13:42|05/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T11:42:10.282Z"
   },
@@ -322,9 +330,9 @@
   "CHAPADO MY LOVE": {
     "idNumerico": "20",
     "nome": "ChaPaDo My Love",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:41|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T09:53:12.180Z"
+    "roubadaEm": "2026-08-05T16:41:10.232Z"
   }
 }

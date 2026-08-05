@@ -188,7 +188,7 @@
     "nome": "Norex farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:15|05/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-05T03:15:55.933Z"
   },
   "JAH RASTAFARI": {
@@ -234,10 +234,10 @@
   "K1NG FARM'S": {
     "idNumerico": "25",
     "nome": "K1NG Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:20|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T18:07:59.789Z"
+    "roubadaEm": "2026-08-05T03:20:58.743Z"
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",

@@ -2,10 +2,10 @@
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:54|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T11:43:08.358Z"
+    "roubadaEm": "2026-08-05T16:54:55.159Z"
   },
   "FAZENDA CUIUDA - BY GAZOLA": {
     "idNumerico": "17",
@@ -263,14 +263,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T14:19:48.441Z"
   },
-  "FAZENDINHA BETREZE 2": {
-    "idNumerico": "38",
-    "nome": "Fazendinha BeTreZe 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:39|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T16:27:36.539Z"
-  },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
@@ -295,22 +287,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T16:48:26.501Z"
   },
-  "SAO PEDRO 2": {
-    "idNumerico": "43",
-    "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:07|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T16:43:05.881Z"
-  },
-  "B13 :)": {
-    "idNumerico": "23",
-    "nome": "B13 :)",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:27|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T16:48:23.486Z"
-  },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
@@ -327,14 +303,6 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "..OURO..PR3TO..": {
-    "idNumerico": "5",
-    "nome": "..OURO..PR3TO..",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:48|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T16:42:25.866Z"
-  },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
@@ -342,5 +310,37 @@
     "disponivelEm": "16:19|05/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T14:20:22.268Z"
+  },
+  "FARM'S NAY E NICK": {
+    "idNumerico": "5",
+    "nome": "FARM'S NAY E NICK",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:48|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T16:42:25.866Z"
+  },
+  "SAO PEDRO 2": {
+    "idNumerico": "43",
+    "nome": "SAO PEDRO 2",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:07|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T16:43:05.881Z"
+  },
+  "B13 :)": {
+    "idNumerico": "23",
+    "nome": "B13 :)",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:27|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T16:48:23.486Z"
+  },
+  "WORK INDUSTRIA'S LIMITED": {
+    "idNumerico": "38",
+    "nome": "Work Industria's Limited",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:39|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T16:27:36.539Z"
   }
 }

@@ -252,7 +252,7 @@
     "nome": "roubo off",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:28|05/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-05T00:28:49.187Z"
   },
   "RANCHO DO DOUTOR": {
@@ -322,10 +322,10 @@
   "FAMILIA KYLES": {
     "idNumerico": "12",
     "nome": "Familia KyLeS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:33|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T19:00:55.911Z"
+    "roubadaEm": "2026-08-05T00:33:26.929Z"
   },
   "RICK FARM'S": {
     "idNumerico": "9",

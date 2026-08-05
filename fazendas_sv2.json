@@ -186,10 +186,10 @@
   "ARIANA_B13": {
     "idNumerico": "10",
     "nome": "Ariana_B13",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:56|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T01:57:45.530Z"
+    "roubadaEm": "2026-08-05T08:59:09.545Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
@@ -338,8 +338,8 @@
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:55|05/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T08:23:25.044Z"
   },

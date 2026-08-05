@@ -303,14 +303,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T13:32:29.618Z"
   },
-  "FARME DO DRAKE": {
-    "idNumerico": "35",
-    "nome": "Farme do Drake",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:23|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T13:37:39.094Z"
-  },
   "021": {
     "idNumerico": "1",
     "nome": "021",
@@ -346,9 +338,17 @@
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:44|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T02:43:55.402Z"
+    "roubadaEm": "2026-08-05T13:44:31.131Z"
+  },
+  "FARME DO DRAKE": {
+    "idNumerico": "35",
+    "nome": "Farme do Drake",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:23|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T13:37:39.094Z"
   }
 }

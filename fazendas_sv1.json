@@ -66,10 +66,10 @@
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
     "nome": "VENDO 500km ACEITO TROCAS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:19|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-03T01:27:03.264Z"
+    "roubadaEm": "2026-08-05T00:19:01.298Z"
   },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
@@ -220,7 +220,7 @@
     "nome": "fazenda feliz",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:04|05/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-05T00:04:00.284Z"
   },
   "OS DE RACA": {
@@ -340,7 +340,7 @@
     "nome": "ChaPaDo My Love",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:00|05/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-05T00:00:13.337Z"
   }
 }

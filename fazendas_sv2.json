@@ -231,6 +231,22 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T19:07:17.674Z"
   },
+  "B13 :)": {
+    "idNumerico": "23",
+    "nome": "B13 :)",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T16:48:23.486Z"
+  },
+  "AURA + EGO": {
+    "idNumerico": "22",
+    "nome": "Aura + Ego",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:13|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T19:13:31.318Z"
+  },
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
@@ -239,13 +255,21 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T18:48:21.116Z"
   },
-  "RICO LOUCO": {
-    "idNumerico": "11",
-    "nome": "rico louco",
+  "FAMILIA ALMANAK": {
+    "idNumerico": "32",
+    "nome": "Familia AlmanaK",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:30|05/08/2026",
+    "disponivelEm": "16:49|05/08/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T18:09:38.776Z"
+    "roubadaEm": "2026-08-05T17:52:30.117Z"
+  },
+  "QUEM ROUBAR E PETISTA": {
+    "idNumerico": "44",
+    "nome": "Quem Roubar e Petista",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:34|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T17:50:29.150Z"
   },
   "AMO A MAZZI": {
     "idNumerico": "6",
@@ -266,10 +290,42 @@
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "FAZENDA DA MILLY": {
+    "idNumerico": "19",
+    "nome": "Fazenda da Milly",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T17:02:21.254Z"
+  },
+  "WORK INDUSTRIA'S LIMITED": {
+    "idNumerico": "38",
+    "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:29|05/08/2026",
+    "disponivelEm": "16:57|05/08/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T18:33:45.663Z"
+    "roubadaEm": "2026-08-05T16:55:40.221Z"
+  },
+  "AZEROX": {
+    "idNumerico": "23",
+    "nome": "AzeRoX",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "BORRACHAS FARM": {
+    "idNumerico": "33",
+    "nome": "Borrachas Farm",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:00|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T19:07:57.365Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
@@ -302,61 +358,5 @@
     "disponivelEm": "20:05|05/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T18:05:07.817Z"
-  },
-  "GRUPO RANTER": {
-    "idNumerico": "19",
-    "nome": "GRUPO RANTER",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T17:02:21.254Z"
-  },
-  "FAZENDINHA BETREZE 2": {
-    "idNumerico": "38",
-    "nome": "Fazendinha BeTreZe 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:57|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T16:55:40.221Z"
-  },
-  "MALVADA'S FARM": {
-    "idNumerico": "32",
-    "nome": "Malvada's Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:49|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T17:52:30.117Z"
-  },
-  "B13 :)": {
-    "idNumerico": "23",
-    "nome": "B13 :)",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T16:48:23.486Z"
-  },
-  "CHAMA A POLICIA": {
-    "idNumerico": "44",
-    "nome": "CHAMA A POLICIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:34|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T17:50:29.150Z"
-  },
-  "FARMA DA FAMILIA ELITE": {
-    "idNumerico": "33",
-    "nome": "Farma Da Familia Elite",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:00|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T19:07:57.365Z"
-  },
-  "FAZENDA FELIZ": {
-    "idNumerico": "22",
-    "nome": "fazenda feliz",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:13|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T19:13:31.318Z"
   }
 }

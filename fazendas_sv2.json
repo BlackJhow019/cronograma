@@ -74,9 +74,9 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:30|05/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-05T10:30:45.959Z"
   },
   "30PRAUM": {
@@ -250,9 +250,9 @@
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:33|05/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-05T14:24:29.091Z"
   },
   "..OURO..PR3TO..": {
@@ -287,6 +287,38 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T15:10:41.942Z"
   },
+  "@FILH_ODOPAII": {
+    "idNumerico": "12",
+    "nome": "@filh_odopaii",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:34|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T14:58:08.648Z"
+  },
+  "TREMBALA": {
+    "idNumerico": "42",
+    "nome": "TremBala",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:16|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-05T14:14:21.025Z"
+  },
+  "FARME DO DRAKE": {
+    "idNumerico": "35",
+    "nome": "Farme do Drake",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:03|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T14:19:48.441Z"
+  },
+  "CLUBE DA LULUZINHA": {
+    "idNumerico": "8",
+    "nome": "Clube da Luluzinha",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:49|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-05T15:24:26.406Z"
+  },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
@@ -303,44 +335,20 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T14:46:07.691Z"
   },
-  "PREFEITO ROADBLOCK": {
+  "SE ROUBAR MORRE": {
     "idNumerico": "41",
-    "nome": "Prefeito Roadblock",
+    "nome": "SE ROUBAR MORRE",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:19|05/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T14:20:22.268Z"
   },
-  "FARME DO DRAKE": {
-    "idNumerico": "35",
-    "nome": "Farme do Drake",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:03|05/08/2026",
+  "< GAUBRE LTDA >": {
+    "idNumerico": "2",
+    "nome": "< GAUBRE LTDA >",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T14:19:48.441Z"
-  },
-  "FAMILIA KYLES": {
-    "idNumerico": "12",
-    "nome": "Familia KyLeS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:34|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T14:58:08.648Z"
-  },
-  "NIKE SHOX": {
-    "idNumerico": "42",
-    "nome": "NIKE SHOX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:16|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T14:14:21.025Z"
-  },
-  "CLUBE DA LULUZINHA": {
-    "idNumerico": "8",
-    "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:49|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T15:24:26.406Z"
+    "roubadaEm": null
   }
 }

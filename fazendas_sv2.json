@@ -23,14 +23,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T13:53:59.257Z"
   },
-  "DONA SEM RAZAO": {
-    "idNumerico": "26",
-    "nome": "Dona sem razao",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T04:36:55.953Z"
-  },
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
@@ -310,6 +302,14 @@
     "disponivelEm": "13:43|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T14:46:07.691Z"
+  },
+  "RAFHA INVESTIMENTOS $": {
+    "idNumerico": "26",
+    "nome": "Rafha investimentos $",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:10|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T15:10:28.272Z"
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",

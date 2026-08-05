@@ -44,7 +44,7 @@
     "nome": "Rancho do Doutor",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:38|05/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-05T19:38:01.398Z"
   },
   "ROUBO OFF": {
@@ -118,14 +118,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
-  },
-  "NIKE SHOX": {
-    "idNumerico": "42",
-    "nome": "NIKE SHOX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:22|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T17:22:20.545Z"
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
@@ -279,6 +271,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T18:48:21.116Z"
   },
+  "DEAD (:": {
+    "idNumerico": "27",
+    "nome": "Dead (:",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:05|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-05T18:05:07.817Z"
+  },
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
@@ -327,6 +327,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T19:07:57.365Z"
   },
+  "LA FAMILIA CHIARADIA": {
+    "idNumerico": "43",
+    "nome": "LA FAMILIA CHIARADIA",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T16:43:05.881Z"
+  },
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
@@ -343,20 +351,12 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T16:59:39.435Z"
   },
-  "SAO PEDRO 2": {
-    "idNumerico": "43",
-    "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T16:43:05.881Z"
-  },
-  "HWD INVESTIMENTOS": {
-    "idNumerico": "27",
-    "nome": "hwd investimentos",
+  "TREMBALA": {
+    "idNumerico": "42",
+    "nome": "TremBala",
     "status": "INDISPONIVEL",
-    "disponivelEm": "20:05|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T18:05:07.817Z"
+    "disponivelEm": "18:46|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T19:41:30.767Z"
   }
 }

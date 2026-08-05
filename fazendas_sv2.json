@@ -127,14 +127,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T13:44:30.972Z"
   },
-  "DM2 FARM": {
-    "idNumerico": "6",
-    "nome": "Dm2 Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:45|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T12:45:11.032Z"
-  },
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
     "nome": "VENDO 500km ACEITO TROCAS",
@@ -210,7 +202,7 @@
   "MALVADA'S FARM": {
     "idNumerico": "32",
     "nome": "Malvada's Farm",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T16:20:17.841Z"
@@ -271,6 +263,30 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T17:25:58.214Z"
   },
+  "AMO O LOWER": {
+    "idNumerico": "2",
+    "nome": "Amo o Lower",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:20|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T17:39:35.095Z"
+  },
+  "FARM'S NAY E NICK": {
+    "idNumerico": "5",
+    "nome": "FARM'S NAY E NICK",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:48|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T16:42:25.866Z"
+  },
+  "CHAPADO MY LOVE": {
+    "idNumerico": "20",
+    "nome": "ChaPaDo My Love",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:41|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-05T16:59:39.435Z"
+  },
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
@@ -303,6 +319,22 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T16:48:23.486Z"
   },
+  "30PRAUM": {
+    "idNumerico": "16",
+    "nome": "30PRAUM",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:50|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T16:56:00.958Z"
+  },
+  "@FILH_ODOPAII": {
+    "idNumerico": "12",
+    "nome": "@filh_odopaii",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:34|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T14:58:08.648Z"
+  },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
@@ -319,44 +351,12 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "..OURO..PR3TO..": {
-    "idNumerico": "5",
-    "nome": "..OURO..PR3TO..",
+  "AMO A MAZZI": {
+    "idNumerico": "6",
+    "nome": "Amo a Mazzi",
     "status": "INDISPONIVEL",
-    "disponivelEm": "15:48|05/08/2026",
+    "disponivelEm": "14:45|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T16:42:25.866Z"
-  },
-  "AMO O LOWER": {
-    "idNumerico": "2",
-    "nome": "Amo o Lower",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:20|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T17:39:35.095Z"
-  },
-  "FAMILIA KYLES": {
-    "idNumerico": "12",
-    "nome": "Familia KyLeS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:34|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T14:58:08.648Z"
-  },
-  "FARMS DE GALOPISITAS": {
-    "idNumerico": "20",
-    "nome": "Farms de Galopisitas",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:41|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T16:59:39.435Z"
-  },
-  "YELLOWSTONE - BY MONSTER": {
-    "idNumerico": "16",
-    "nome": "YellowStone - By Monster",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:50|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T16:56:00.958Z"
+    "roubadaEm": "2026-08-05T12:45:11.032Z"
   }
 }

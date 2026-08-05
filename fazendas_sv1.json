@@ -258,10 +258,10 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:48|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T19:54:50.238Z"
+    "roubadaEm": "2026-08-05T02:48:21.226Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
@@ -274,10 +274,10 @@
   "..OURO..PR3TO..": {
     "idNumerico": "5",
     "nome": "..OURO..PR3TO..",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:13|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T21:37:09.618Z"
+    "roubadaEm": "2026-08-05T03:13:40.670Z"
   },
   "DM2 FARM": {
     "idNumerico": "6",

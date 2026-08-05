@@ -18,10 +18,10 @@
   "QG FARM KHAOS": {
     "idNumerico": "18",
     "nome": "QG FARM KHAOS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:53|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T03:42:55.938Z"
+    "roubadaEm": "2026-08-05T13:53:33.962Z"
   },
   "AMO O LOWER": {
     "idNumerico": "2",
@@ -150,14 +150,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T10:14:53.517Z"
-  },
-  "HWD INVESTIMENTOS": {
-    "idNumerico": "27",
-    "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:51|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T10:39:47.589Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",

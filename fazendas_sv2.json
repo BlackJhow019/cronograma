@@ -1,4 +1,12 @@
 {
+  "999": {
+    "idNumerico": "39",
+    "nome": "999",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:11|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-05T20:40:22.870Z"
+  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -194,9 +202,9 @@
   "YANINHA_ANTIFALSOS": {
     "idNumerico": "34",
     "nome": "yAninha_AntiFalsos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:43|05/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-05T18:19:07.723Z"
   },
   "FARMS DE GALOPISITAS": {
@@ -271,14 +279,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T20:31:34.070Z"
   },
-  "PENOSO FARM'S": {
-    "idNumerico": "10",
-    "nome": "Penoso Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:29|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T20:31:53.365Z"
-  },
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",
     "nome": "RAMONZIN_FRANCA",
@@ -286,6 +286,14 @@
     "disponivelEm": "19:11|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T20:05:52.395Z"
+  },
+  "PENOSO FARM'S": {
+    "idNumerico": "10",
+    "nome": "Penoso Farm's",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:29|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T20:31:53.365Z"
   },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
@@ -311,14 +319,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T19:13:31.318Z"
   },
-  "JAH RASTAFARI": {
-    "idNumerico": "39",
-    "nome": "JAH RASTAFARI",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:11|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T20:40:22.870Z"
-  },
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
@@ -335,6 +335,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T20:29:06.845Z"
   },
+  "DM2 FARM": {
+    "idNumerico": "6",
+    "nome": "Dm2 Farm",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
@@ -342,13 +350,5 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T18:09:38.776Z"
-  },
-  "AMO A MAZZI": {
-    "idNumerico": "6",
-    "nome": "Amo a Mazzi",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
   }
 }

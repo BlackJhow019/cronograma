@@ -103,14 +103,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T11:38:37.043Z"
   },
-  "QUEM ROUBAR E PETISTA": {
-    "idNumerico": "44",
-    "nome": "Quem Roubar e Petista",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T12:14:28.638Z"
-  },
   "ROUBO OFF": {
     "idNumerico": "7",
     "nome": "roubo off",
@@ -342,5 +334,13 @@
     "disponivelEm": "14:03|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T14:19:48.441Z"
+  },
+  "CHAMA A POLICIA": {
+    "idNumerico": "44",
+    "nome": "CHAMA A POLICIA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:48|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T16:14:41.936Z"
   }
 }

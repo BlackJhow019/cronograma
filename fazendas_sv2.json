@@ -10,8 +10,8 @@
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:54|05/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T16:54:55.080Z"
   },
@@ -66,8 +66,8 @@
   "AWAKE COMPANY": {
     "idNumerico": "13",
     "nome": "AwaKe Company",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:58|05/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T19:45:58.342Z"
   },
@@ -203,7 +203,7 @@
     "idNumerico": "1",
     "nome": "Farm da Thaty",
     "status": "INDISPONIVEL",
-    "disponivelEm": "19:02|05/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T20:22:49.256Z"
   },
@@ -311,21 +311,13 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T21:51:57.816Z"
   },
-  "PENOSO FARM'S": {
-    "idNumerico": "10",
-    "nome": "Penoso Farm's",
+  "/VENDERPRODUTOS": {
+    "idNumerico": "7",
+    "nome": "/VENDERPRODUTOS",
     "status": "INDISPONIVEL",
-    "disponivelEm": "19:29|05/08/2026",
+    "disponivelEm": "22:31|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T20:31:53.365Z"
-  },
-  "SE ROUBAR MORRE": {
-    "idNumerico": "41",
-    "nome": "SE ROUBAR MORRE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T20:04:41.190Z"
+    "roubadaEm": "2026-08-05T20:31:34.070Z"
   },
   "CANNABIS": {
     "idNumerico": "8",
@@ -335,6 +327,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T20:34:29.999Z"
   },
+  "PENOSO FARM'S": {
+    "idNumerico": "10",
+    "nome": "Penoso Farm's",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:29|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T20:31:53.365Z"
+  },
   "AURA + EGO": {
     "idNumerico": "22",
     "nome": "Aura + Ego",
@@ -343,12 +343,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T19:13:31.318Z"
   },
-  "ROUBO OFF": {
-    "idNumerico": "7",
-    "nome": "roubo off",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:31|05/08/2026",
+  "SE ROUBAR MORRE": {
+    "idNumerico": "41",
+    "nome": "SE ROUBAR MORRE",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T20:31:34.070Z"
+    "roubadaEm": "2026-08-05T20:04:41.190Z"
   }
 }

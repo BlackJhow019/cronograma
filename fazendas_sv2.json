@@ -47,22 +47,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T00:43:20.401Z"
   },
-  "TREMBALA": {
-    "idNumerico": "42",
-    "nome": "TremBala",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:07|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T00:03:42.644Z"
-  },
-  "DONA SEM RAZAO": {
-    "idNumerico": "26",
-    "nome": "Dona sem razao",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:06|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T21:06:54.765Z"
-  },
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",
     "nome": "RAMONZIN_FRANCA",
@@ -135,14 +119,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T23:33:35.714Z"
   },
-  "SAO PEDRO 2": {
-    "idNumerico": "43",
-    "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:41|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T23:41:33.757Z"
-  },
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
@@ -194,9 +170,9 @@
   "YANINHA_ANTIFALSOS": {
     "idNumerico": "34",
     "nome": "yAninha_AntiFalsos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:00|04/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-04T23:20:32.092Z"
   },
   "FARM'S DE CAFE": {
@@ -231,6 +207,22 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
+  "HWD INVESTIMENTOS": {
+    "idNumerico": "27",
+    "nome": "hwd investimentos",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:57|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T01:57:01.850Z"
+  },
+  "PENOSO FARM'S": {
+    "idNumerico": "10",
+    "nome": "Penoso Farm's",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:54|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-05T01:57:45.530Z"
+  },
   "MALVADA'S FARM": {
     "idNumerico": "32",
     "nome": "Malvada's Farm",
@@ -246,14 +238,6 @@
     "disponivelEm": "02:23|05/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T00:23:17.645Z"
-  },
-  "DEAD (:": {
-    "idNumerico": "27",
-    "nome": "Dead (:",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:57|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T01:57:01.850Z"
   },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
@@ -327,14 +311,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T00:30:22.963Z"
   },
-  "ARIANA_B13": {
-    "idNumerico": "10",
-    "nome": "Ariana_B13",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:54|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T01:57:45.530Z"
-  },
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
@@ -350,5 +326,13 @@
     "disponivelEm": "00:11|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T01:06:04.898Z"
+  },
+  "LA FAMILIA CHIARADIA": {
+    "idNumerico": "43",
+    "nome": "LA FAMILIA CHIARADIA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:34|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T02:10:10.136Z"
   }
 }

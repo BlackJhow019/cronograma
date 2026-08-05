@@ -108,7 +108,7 @@
     "nome": "Farm's de Cafe",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:39|05/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-05T01:39:04.852Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
@@ -134,14 +134,6 @@
     "disponivelEm": "00:32|05/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T22:32:57.300Z"
-  },
-  "GRANJA DO IMONKEY": {
-    "idNumerico": "29",
-    "nome": "Granja do iMonKeY",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:39|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T20:39:20.475Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
@@ -174,6 +166,14 @@
     "disponivelEm": "03:00|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T01:00:14.125Z"
+  },
+  "POLEMICO$ INDUSTRI$": {
+    "idNumerico": "37",
+    "nome": "PoLeMiCo$ industri$",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T20:37:15.516Z"
   },
   "NOREX FARM'S": {
     "idNumerico": "13",

@@ -138,10 +138,10 @@
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:28|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T20:39:20.475Z"
+    "roubadaEm": "2026-08-05T03:28:57.708Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
@@ -236,7 +236,7 @@
     "nome": "K1NG Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:20|05/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-05T03:20:58.743Z"
   },
   "PREFEITO ROADBLOCK": {

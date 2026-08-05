@@ -226,9 +226,9 @@
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:42|05/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-05T00:42:57.404Z"
   },
   "K1NG FARM'S": {
@@ -284,7 +284,7 @@
     "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:38|05/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-05T05:38:01.431Z"
   },
   "SAO PEDRO 2": {

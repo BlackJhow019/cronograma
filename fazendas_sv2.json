@@ -346,9 +346,9 @@
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",
     "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:28|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T12:41:03.936Z"
+    "roubadaEm": "2026-08-05T20:28:46.932Z"
   }
 }

@@ -76,7 +76,7 @@
     "nome": "FRANCA",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:11|05/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-05T07:54:51.765Z"
   },
   "RANCHO DO DOUTOR": {
@@ -86,6 +86,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T02:48:20.946Z"
+  },
+  "SE ROUBAR MORRE": {
+    "idNumerico": "41",
+    "nome": "SE ROUBAR MORRE",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T02:53:41.223Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -294,14 +302,6 @@
     "disponivelEm": "06:01|05/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T05:59:58.880Z"
-  },
-  "AWAKE COMPANY": {
-    "idNumerico": "13",
-    "nome": "AwaKe Company",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:55|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T05:53:21.159Z"
   },
   "FARM'S NAY E NICK": {
     "idNumerico": "5",

@@ -263,14 +263,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T14:20:22.268Z"
   },
-  "TREMBALA": {
-    "idNumerico": "42",
-    "nome": "TremBala",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T14:14:21.025Z"
-  },
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
@@ -278,14 +270,6 @@
     "disponivelEm": "16:28|05/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T17:17:00.292Z"
-  },
-  "CHAPADO MY LOVE": {
-    "idNumerico": "20",
-    "nome": "ChaPaDo My Love",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:41|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T16:59:39.435Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -350,5 +334,21 @@
     "disponivelEm": "15:48|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T16:42:25.866Z"
+  },
+  "NIKE SHOX": {
+    "idNumerico": "42",
+    "nome": "NIKE SHOX",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:22|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T17:22:20.545Z"
+  },
+  "FARMS DE GALOPISITAS": {
+    "idNumerico": "20",
+    "nome": "Farms de Galopisitas",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:41|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-05T16:59:39.435Z"
   }
 }

@@ -314,8 +314,8 @@
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:50|05/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T01:53:57.541Z"
   },
@@ -326,6 +326,14 @@
     "disponivelEm": "01:45|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T01:08:15.980Z"
+  },
+  "JESUS EA SOLUCAO": {
+    "idNumerico": "0",
+    "nome": "JESUS EA SOLUCAO",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:39|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-05T01:30:53.438Z"
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
@@ -342,13 +350,5 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T00:20:27.239Z"
-  },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:39|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T01:30:53.438Z"
   }
 }

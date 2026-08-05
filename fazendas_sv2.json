@@ -3,9 +3,9 @@
     "idNumerico": "39",
     "nome": "999",
     "status": "INDISPONIVEL",
-    "disponivelEm": "22:17|04/08/2026",
+    "disponivelEm": "23:29|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T00:01:12.527Z"
+    "roubadaEm": "2026-08-05T01:13:47.678Z"
   },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
@@ -231,6 +231,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T19:42:11.313Z"
   },
+  "FARMS DE GALOPISITAS": {
+    "idNumerico": "20",
+    "nome": "Farms de Galopisitas",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
   "/VENDERPRODUTOS": {
     "idNumerico": "7",
     "nome": "/VENDERPRODUTOS",
@@ -310,14 +318,6 @@
     "disponivelEm": "00:11|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T01:06:04.898Z"
-  },
-  "FARMS DE GALOPISITAS": {
-    "idNumerico": "20",
-    "nome": "Farms de Galopisitas",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:09|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T23:59:53.820Z"
   },
   "RICO LOUCO": {
     "idNumerico": "11",

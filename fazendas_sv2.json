@@ -36,7 +36,7 @@
     "nome": "FRANCA",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:47|05/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-05T14:31:12.537Z"
   },
   "RANCHO DO DOUTOR": {
@@ -90,18 +90,10 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:36|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T11:35:37.295Z"
-  },
-  "FARM'S NAY E NICK": {
-    "idNumerico": "5",
-    "nome": "FARM'S NAY E NICK",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T04:38:44.328Z"
+    "roubadaEm": "2026-08-05T11:35:37.295Z"
   },
   "FAMILIA KYLES": {
     "idNumerico": "12",
@@ -242,8 +234,8 @@
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:37|05/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T12:40:55.339Z"
   },
@@ -258,8 +250,8 @@
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
     "nome": "Farms de Galopisitas",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:38|05/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T11:55:45.844Z"
   },
@@ -308,32 +300,8 @@
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:33|05/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-05T14:24:29.091Z"
-  },
-  "PREFEITO ROADBLOCK": {
-    "idNumerico": "41",
-    "nome": "Prefeito Roadblock",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:19|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T14:20:22.268Z"
-  },
-  "FARME DO DRAKE": {
-    "idNumerico": "35",
-    "nome": "Farme do Drake",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:03|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T14:19:48.441Z"
-  },
-  "NIKE SHOX": {
-    "idNumerico": "42",
-    "nome": "NIKE SHOX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:16|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T14:14:21.025Z"
   },
   "021": {
     "idNumerico": "1",
@@ -342,5 +310,37 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
+  },
+  "..OURO..PR3TO..": {
+    "idNumerico": "5",
+    "nome": "..OURO..PR3TO..",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T04:38:44.328Z"
+  },
+  "< GAUBRE LTDA >": {
+    "idNumerico": "35",
+    "nome": "< GAUBRE LTDA >",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:03|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T14:19:48.441Z"
+  },
+  "TREMBALA": {
+    "idNumerico": "42",
+    "nome": "TremBala",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:16|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-05T14:14:21.025Z"
+  },
+  "PREFEITO ROADBLOCK": {
+    "idNumerico": "41",
+    "nome": "Prefeito Roadblock",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:19|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-05T14:20:22.268Z"
   }
 }

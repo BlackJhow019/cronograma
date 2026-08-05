@@ -287,14 +287,6 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "YELLOWSTONE - BY MONSTER": {
-    "idNumerico": "16",
-    "nome": "YellowStone - By Monster",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:50|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T16:56:01.139Z"
-  },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
@@ -302,14 +294,6 @@
     "disponivelEm": "16:04|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T16:58:28.017Z"
-  },
-  "AZEROX": {
-    "idNumerico": "23",
-    "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:27|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T16:48:23.486Z"
   },
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
@@ -339,8 +323,24 @@
     "idNumerico": "20",
     "nome": "Farms de Galopisitas",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:41|05/08/2026",
+    "disponivelEm": "16:42|05/08/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T16:59:39.519Z"
+    "roubadaEm": "2026-08-05T17:00:00.436Z"
+  },
+  "B13 :)": {
+    "idNumerico": "23",
+    "nome": "B13 :)",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:27|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T16:48:23.486Z"
+  },
+  "30PRAUM": {
+    "idNumerico": "16",
+    "nome": "30PRAUM",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:50|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-05T16:56:01.139Z"
   }
 }

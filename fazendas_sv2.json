@@ -202,10 +202,10 @@
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:11|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T01:30:53.438Z"
+    "roubadaEm": "2026-08-05T09:02:54.048Z"
   },
   "RICO LOUCO": {
     "idNumerico": "11",
@@ -278,14 +278,6 @@
     "disponivelEm": "06:41|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T04:41:21.109Z"
-  },
-  "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": "38",
-    "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:01|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T05:59:58.880Z"
   },
   "AWAKE COMPANY": {
     "idNumerico": "13",

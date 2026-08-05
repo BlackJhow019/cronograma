@@ -60,7 +60,7 @@
     "nome": "RAMONZIN_FRANCA",
     "status": "INDISPONIVEL",
     "disponivelEm": "10:12|05/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-05T11:14:16.646Z"
   },
   "FRANCA": {
@@ -210,10 +210,10 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:36|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T05:59:58.880Z"
+    "roubadaEm": "2026-08-05T11:35:37.295Z"
   },
   "FARM'S NAY E NICK": {
     "idNumerico": "5",

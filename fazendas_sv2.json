@@ -90,10 +90,10 @@
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:26|04/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T17:43:48.844Z"
+    "roubadaEm": "2026-08-05T00:20:27.239Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",

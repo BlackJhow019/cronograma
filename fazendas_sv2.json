@@ -175,14 +175,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T12:45:11.032Z"
   },
-  "FAMILIA ALMANAK": {
-    "idNumerico": "32",
-    "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T12:40:55.339Z"
-  },
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
     "nome": "VENDO 500km ACEITO TROCAS",
@@ -295,6 +287,38 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T16:15:18.308Z"
   },
+  "FARME DO DRAKE": {
+    "idNumerico": "35",
+    "nome": "Farme do Drake",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:03|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T14:19:48.441Z"
+  },
+  "B13 :)": {
+    "idNumerico": "23",
+    "nome": "B13 :)",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:37|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T16:18:25.965Z"
+  },
+  "MALVADA'S FARM": {
+    "idNumerico": "32",
+    "nome": "Malvada's Farm",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:39|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T16:20:09.611Z"
+  },
+  "CLUBE DA LULUZINHA": {
+    "idNumerico": "8",
+    "nome": "Clube da Luluzinha",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:49|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-05T15:24:26.406Z"
+  },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
@@ -311,36 +335,20 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T14:46:07.691Z"
   },
-  "PREFEITO ROADBLOCK": {
+  "SE ROUBAR MORRE": {
     "idNumerico": "41",
-    "nome": "Prefeito Roadblock",
+    "nome": "SE ROUBAR MORRE",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:19|05/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T14:20:22.268Z"
   },
-  "CANNABIS": {
-    "idNumerico": "8",
-    "nome": "CANNABIS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:49|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T15:24:26.406Z"
-  },
-  "FARME DO DRAKE": {
-    "idNumerico": "35",
-    "nome": "Farme do Drake",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:03|05/08/2026",
+  "< GAUBRE LTDA >": {
+    "idNumerico": "2",
+    "nome": "< GAUBRE LTDA >",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T14:19:48.441Z"
-  },
-  "B13 :)": {
-    "idNumerico": "23",
-    "nome": "B13 :)",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:37|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T16:18:25.965Z"
+    "roubadaEm": null
   }
 }

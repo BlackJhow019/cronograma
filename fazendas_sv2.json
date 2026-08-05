@@ -226,7 +226,7 @@
   "021": {
     "idNumerico": "1",
     "nome": "021",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T16:48:26.501Z"
@@ -278,6 +278,14 @@
     "disponivelEm": "16:29|05/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T18:33:45.663Z"
+  },
+  "YELLOWSTONE - BY MONSTER": {
+    "idNumerico": "16",
+    "nome": "YellowStone - By Monster",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
@@ -350,13 +358,5 @@
     "disponivelEm": "17:34|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T17:50:29.150Z"
-  },
-  "30PRAUM": {
-    "idNumerico": "16",
-    "nome": "30PRAUM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
   }
 }

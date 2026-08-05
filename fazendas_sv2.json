@@ -87,6 +87,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T02:53:41.223Z"
   },
+  "BORRACHAS FARM": {
+    "idNumerico": "33",
+    "nome": "Borrachas Farm",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T23:24:12.850Z"
+  },
   "FAZENDA DO GALIN": {
     "idNumerico": "15",
     "nome": "Fazenda do Galin",
@@ -311,14 +319,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T01:14:20.070Z"
   },
-  "HWD INVESTIMENTOS": {
-    "idNumerico": "27",
-    "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:57|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T01:57:01.850Z"
-  },
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
@@ -350,5 +350,13 @@
     "disponivelEm": "06:09|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T04:09:52.013Z"
+  },
+  "HWD INVESTIMENTOS": {
+    "idNumerico": "27",
+    "nome": "hwd investimentos",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:57|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T01:57:01.850Z"
   }
 }

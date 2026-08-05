@@ -282,10 +282,10 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:45|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T09:12:45.902Z"
+    "roubadaEm": "2026-08-05T12:45:11.032Z"
   },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",

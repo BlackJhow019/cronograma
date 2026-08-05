@@ -31,14 +31,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T19:38:01.398Z"
   },
-  ".": {
-    "idNumerico": "31",
-    "nome": ".",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:47|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T21:47:56.198Z"
-  },
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
     "nome": "VENDO 500km ACEITO TROCAS",
@@ -303,6 +295,30 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T20:40:22.870Z"
   },
+  "FAZENDA DA MILLY": {
+    "idNumerico": "19",
+    "nome": "Fazenda da Milly",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T17:02:21.254Z"
+  },
+  "WESKER_U$METRALHA": {
+    "idNumerico": "28",
+    "nome": "Wesker_u$MeTraLha",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:35|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T22:19:06.780Z"
+  },
+  "FAZENDA REI DROGADO": {
+    "idNumerico": "31",
+    "nome": "Fazenda Rei Drogado",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:58|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-05T22:23:08.377Z"
+  },
   "/VENDERPRODUTOS": {
     "idNumerico": "7",
     "nome": "/VENDERPRODUTOS",
@@ -342,21 +358,5 @@
     "disponivelEm": "19:38|05/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T20:34:29.999Z"
-  },
-  "FAZENDA DA MILLY": {
-    "idNumerico": "19",
-    "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T17:02:21.254Z"
-  },
-  "FRANCA": {
-    "idNumerico": "28",
-    "nome": "FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:35|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T22:19:06.780Z"
   }
 }

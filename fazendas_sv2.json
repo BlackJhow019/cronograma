@@ -1,4 +1,12 @@
 {
+  "999": {
+    "idNumerico": "39",
+    "nome": "999",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T01:14:20.070Z"
+  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -207,14 +215,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T19:04:33.003Z"
   },
-  "AURA + EGO": {
-    "idNumerico": "22",
-    "nome": "Aura + Ego",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T02:43:55.402Z"
-  },
   "FARM DA THATY": {
     "idNumerico": "1",
     "nome": "Farm da Thaty",
@@ -319,14 +319,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T00:20:27.239Z"
   },
-  "HWD INVESTIMENTOS": {
-    "idNumerico": "27",
-    "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:57|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T01:57:01.850Z"
-  },
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
@@ -339,16 +331,16 @@
     "idNumerico": "34",
     "nome": "Familia KuSh",
     "status": "INDISPONIVEL",
-    "disponivelEm": "06:11|05/08/2026",
+    "disponivelEm": "06:12|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T04:11:48.229Z"
+    "roubadaEm": "2026-08-05T04:12:11.978Z"
   },
-  "JAH RASTAFARI": {
-    "idNumerico": "39",
-    "nome": "JAH RASTAFARI",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+  "HWD INVESTIMENTOS": {
+    "idNumerico": "27",
+    "nome": "hwd investimentos",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:57|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T01:14:20.070Z"
+    "roubadaEm": "2026-08-05T01:57:01.850Z"
   }
 }

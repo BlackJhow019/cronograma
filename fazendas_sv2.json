@@ -66,10 +66,10 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:38|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T10:30:45.959Z"
+    "roubadaEm": "2026-08-05T16:38:09.421Z"
   },
   "30PRAUM": {
     "idNumerico": "16",
@@ -197,7 +197,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "16:18|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T16:28:39.404Z"
+    "roubadaEm": "2026-08-05T16:29:12.091Z"
   },
   "AWAKE COMPANY": {
     "idNumerico": "13",
@@ -303,6 +303,22 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T14:19:48.441Z"
   },
+  "FAZENDINHA BETREZE 2": {
+    "idNumerico": "38",
+    "nome": "Fazendinha BeTreZe 2",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:39|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T16:27:36.539Z"
+  },
+  "CLUBE DA LULUZINHA": {
+    "idNumerico": "8",
+    "nome": "Clube da Luluzinha",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:49|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-05T15:24:26.406Z"
+  },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
@@ -326,21 +342,5 @@
     "disponivelEm": "16:19|05/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T14:20:22.268Z"
-  },
-  "CANNABIS": {
-    "idNumerico": "8",
-    "nome": "CANNABIS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:49|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T15:24:26.406Z"
-  },
-  "FAZENDINHA BETREZE 2": {
-    "idNumerico": "38",
-    "nome": "Fazendinha BeTreZe 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:39|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T16:27:36.539Z"
   }
 }

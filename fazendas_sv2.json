@@ -79,6 +79,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T12:41:03.936Z"
   },
+  ".": {
+    "idNumerico": "31",
+    "nome": ".",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T13:32:32.673Z"
+  },
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
@@ -210,8 +218,8 @@
   "FAMILIA KYLES": {
     "idNumerico": "12",
     "nome": "Familia KyLeS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:34|05/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T14:58:08.648Z"
   },
@@ -262,6 +270,14 @@
     "disponivelEm": "16:52|05/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T18:02:24.780Z"
+  },
+  "FAZENDA DO MIRIM": {
+    "idNumerico": "36",
+    "nome": "Fazenda Do MIRIM",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:29|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-05T18:33:45.663Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
@@ -342,13 +358,5 @@
     "disponivelEm": "15:50|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T16:56:00.958Z"
-  },
-  "FAZENDINHA DO IGEZE": {
-    "idNumerico": "36",
-    "nome": "fazendinha do igeze",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:29|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T18:33:45.663Z"
   }
 }

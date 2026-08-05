@@ -34,10 +34,10 @@
   "LEK0ZIKA": {
     "idNumerico": "35",
     "nome": "Lek0zika",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:04|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T19:42:26.306Z"
+    "roubadaEm": "2026-08-05T01:04:39.023Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -302,14 +302,6 @@
     "disponivelEm": "00:37|05/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T22:37:58.889Z"
-  },
-  "FAMILIA ALMANAK": {
-    "idNumerico": "32",
-    "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:03|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T20:03:28.884Z"
   },
   "PENOSO FARM'S": {
     "idNumerico": "10",

@@ -327,14 +327,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T23:13:39.598Z"
   },
-  "..OURO..PR3TO..": {
-    "idNumerico": "5",
-    "nome": "..OURO..PR3TO..",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:52|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T23:26:27.420Z"
-  },
   "FAZENDA DO GALIN": {
     "idNumerico": "15",
     "nome": "Fazenda do Galin",
@@ -346,9 +338,17 @@
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
     "nome": "Vale das Sombras",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:40|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T14:43:55.773Z"
+    "roubadaEm": "2026-08-05T00:10:23.433Z"
+  },
+  "FARM'S NAY E NICK": {
+    "idNumerico": "5",
+    "nome": "FARM'S NAY E NICK",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:52|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T23:26:27.420Z"
   }
 }

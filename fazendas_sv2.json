@@ -299,9 +299,9 @@
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
     "status": "INDISPONIVEL",
-    "disponivelEm": "23:34|05/08/2026",
+    "disponivelEm": "23:35|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T23:25:22.292Z"
+    "roubadaEm": "2026-08-05T23:26:25.126Z"
   },
   "@FILH_ODOPAII": {
     "idNumerico": "12",
@@ -327,14 +327,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T22:44:54.957Z"
   },
-  "ROUBO OFF": {
-    "idNumerico": "7",
-    "nome": "roubo off",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:31|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T20:31:34.070Z"
-  },
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
@@ -358,5 +350,13 @@
     "disponivelEm": "20:35|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T22:19:06.780Z"
+  },
+  "/VENDERPRODUTOS": {
+    "idNumerico": "7",
+    "nome": "/VENDERPRODUTOS",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:31|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-05T20:31:34.070Z"
   }
 }

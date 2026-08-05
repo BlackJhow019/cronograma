@@ -135,14 +135,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T19:44:13.996Z"
   },
-  "FARME DO DRAKE": {
-    "idNumerico": "35",
-    "nome": "Farme do Drake",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T19:42:11.313Z"
-  },
   "TA NO GRALI": {
     "idNumerico": "4",
     "nome": "ta no grali",
@@ -347,8 +339,16 @@
     "idNumerico": "16",
     "nome": "YellowStone - By Monster",
     "status": "INDISPONIVEL",
-    "disponivelEm": "00:08|05/08/2026",
+    "disponivelEm": "00:11|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T01:03:28.938Z"
+    "roubadaEm": "2026-08-05T01:06:04.898Z"
+  },
+  "LEK0ZIKA": {
+    "idNumerico": "35",
+    "nome": "Lek0zika",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T19:42:11.313Z"
   }
 }

@@ -34,10 +34,10 @@
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:02|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T19:00:04.442Z"
+    "roubadaEm": "2026-08-05T00:02:03.648Z"
   },
   "TREMBALA": {
     "idNumerico": "42",
@@ -295,30 +295,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-04T19:04:33.003Z"
   },
-  "FAZENDINHA BETREZE 2": {
-    "idNumerico": "38",
-    "nome": "Fazendinha BeTreZe 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T18:14:09.977Z"
-  },
-  "NOREX FARM'S": {
-    "idNumerico": "13",
-    "nome": "Norex farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:15|04/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-04T23:13:39.598Z"
-  },
-  "..OURO..PR3TO..": {
-    "idNumerico": "5",
-    "nome": "..OURO..PR3TO..",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:52|04/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-04T23:26:27.420Z"
-  },
   "@FILH_ODOPAII": {
     "idNumerico": "12",
     "nome": "@filh_odopaii",
@@ -350,5 +326,29 @@
     "disponivelEm": "23:00|04/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-04T23:20:32.092Z"
+  },
+  "FAZENDINHA BETREZE 2": {
+    "idNumerico": "38",
+    "nome": "Fazendinha BeTreZe 2",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T18:14:09.977Z"
+  },
+  "FARM'S NAY E NICK": {
+    "idNumerico": "5",
+    "nome": "FARM'S NAY E NICK",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:52|04/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-04T23:26:27.420Z"
+  },
+  "AWAKE COMPANY": {
+    "idNumerico": "13",
+    "nome": "AwaKe Company",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:15|04/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-04T23:13:39.598Z"
   }
 }

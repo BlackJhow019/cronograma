@@ -28,7 +28,7 @@
     "nome": "QG FARM KHAOS",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:25|06/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-06T18:25:09.878Z"
   },
   "RANCHO DO DOUTOR": {
@@ -90,10 +90,10 @@
   "TREMBALA": {
     "idNumerico": "42",
     "nome": "TremBala",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:31|06/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T09:21:49.902Z"
+    "roubadaEm": "2026-08-06T18:26:21.705Z"
   },
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",

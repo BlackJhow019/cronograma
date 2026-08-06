@@ -255,14 +255,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-06T01:13:31.528Z"
   },
-  "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": "38",
-    "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:01|06/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T22:01:04.225Z"
-  },
   "..OURO..PR3TO..": {
     "idNumerico": "5",
     "nome": "..OURO..PR3TO..",
@@ -282,10 +274,10 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:02|06/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T21:51:35.952Z"
+    "roubadaEm": "2026-08-06T03:03:26.715Z"
   },
   "THUG LIFE": {
     "idNumerico": "21",

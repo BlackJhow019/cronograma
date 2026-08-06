@@ -204,16 +204,16 @@
     "nome": "30PRAUM",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:25|06/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-06T15:25:07.664Z"
   },
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:27|06/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T19:13:00.823Z"
+    "roubadaEm": "2026-08-06T15:27:12.686Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",

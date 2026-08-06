@@ -50,10 +50,10 @@
   "< GAUBRE LTDA >": {
     "idNumerico": "35",
     "nome": "< GAUBRE LTDA >",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:17|06/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T22:28:18.793Z"
+    "roubadaEm": "2026-08-06T23:35:33.663Z"
   },
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
@@ -308,7 +308,7 @@
     "nome": "Penoso Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:22|07/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-06T23:22:02.853Z"
   },
   "RICK FARM'S": {

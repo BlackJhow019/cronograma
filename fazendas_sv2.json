@@ -178,8 +178,8 @@
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",
     "nome": "Fazendinha BeTreZe 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:10|06/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-06T06:58:11.604Z"
   },
@@ -194,9 +194,9 @@
   "GRUPO RANTER": {
     "idNumerico": "19",
     "nome": "GRUPO RANTER",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:04|06/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-06T05:15:32.542Z"
   },
   "FARM'S NAY E NICK": {
@@ -326,14 +326,6 @@
     "disponivelEm": "09:20|06/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-06T07:20:26.011Z"
-  },
-  "CHAMA A POLICIA": {
-    "idNumerico": "44",
-    "nome": "CHAMA A POLICIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:12|06/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T07:38:09.983Z"
   },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",

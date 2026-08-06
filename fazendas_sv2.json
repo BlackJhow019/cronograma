@@ -95,14 +95,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T18:19:07.723Z"
   },
-  "HWD INVESTIMENTOS": {
-    "idNumerico": "27",
-    "nome": "hwd investimentos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T21:41:59.484Z"
-  },
   "TREMBALA": {
     "idNumerico": "42",
     "nome": "TremBala",
@@ -358,5 +350,13 @@
     "disponivelEm": "07:03|06/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-06T07:39:11.223Z"
+  },
+  "DEAD (:": {
+    "idNumerico": "27",
+    "nome": "Dead (:",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:43|06/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-06T07:43:34.395Z"
   }
 }

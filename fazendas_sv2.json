@@ -247,14 +247,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T22:56:52.490Z"
   },
-  "CHAMA A POLICIA": {
-    "idNumerico": "44",
-    "nome": "CHAMA A POLICIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T23:02:27.231Z"
-  },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
     "nome": "Vale das Sombras",
@@ -319,6 +311,22 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T23:38:51.552Z"
   },
+  "AZEROX": {
+    "idNumerico": "23",
+    "nome": "AzeRoX",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "CHAMA A POLICIA": {
+    "idNumerico": "44",
+    "nome": "CHAMA A POLICIA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:39|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T23:55:51.759Z"
+  },
   "@FILH_ODOPAII": {
     "idNumerico": "12",
     "nome": "@filh_odopaii",
@@ -334,14 +342,6 @@
     "disponivelEm": "22:34|05/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T22:44:54.957Z"
-  },
-  "AZEROX": {
-    "idNumerico": "23",
-    "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:58|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T22:48:49.646Z"
   },
   ".": {
     "idNumerico": "31",

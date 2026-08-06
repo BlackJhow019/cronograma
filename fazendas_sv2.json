@@ -44,7 +44,7 @@
     "nome": "Farme do Drake",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:15|06/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-06T13:50:41.354Z"
   },
   "DONA SEM RAZAO": {
@@ -338,10 +338,10 @@
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
     "nome": "LA FAMILIA CHIARADIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:32|06/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T07:39:11.223Z"
+    "roubadaEm": "2026-08-06T14:08:08.753Z"
   },
   "DEAD (:": {
     "idNumerico": "27",

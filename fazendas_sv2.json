@@ -60,7 +60,7 @@
     "nome": "Dona sem razao",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:09|06/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-06T06:16:51.232Z"
   },
   "~E V O M~": {
@@ -162,10 +162,10 @@
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:29|06/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T23:05:27.074Z"
+    "roubadaEm": "2026-08-06T06:18:41.703Z"
   },
   "ARIANA_B13": {
     "idNumerico": "10",

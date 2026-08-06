@@ -223,14 +223,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-06T06:51:23.216Z"
   },
-  "QUEM ROUBAR E PETISTA": {
-    "idNumerico": "44",
-    "nome": "Quem Roubar e Petista",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T23:55:51.759Z"
-  },
   "AWAKE COMPANY": {
     "idNumerico": "13",
     "nome": "AwaKe Company",
@@ -358,5 +350,13 @@
     "disponivelEm": "09:20|06/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-06T07:20:26.011Z"
+  },
+  "CHAMA A POLICIA": {
+    "idNumerico": "44",
+    "nome": "CHAMA A POLICIA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:11|06/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-06T07:37:42.726Z"
   }
 }

@@ -74,10 +74,10 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:10|07/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T16:40:06.020Z"
+    "roubadaEm": "2026-08-06T22:10:46.334Z"
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
@@ -314,8 +314,8 @@
   "RICK FARM'S": {
     "idNumerico": "9",
     "nome": "Rick Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:05|06/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-06T20:21:57.412Z"
   },

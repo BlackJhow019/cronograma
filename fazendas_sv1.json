@@ -130,17 +130,17 @@
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:22|06/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T18:30:12.929Z"
+    "roubadaEm": "2026-08-06T00:22:47.647Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:11|06/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-06T00:11:54.664Z"
   },
   "021": {

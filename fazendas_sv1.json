@@ -90,10 +90,10 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:37|06/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T14:45:35.753Z"
+    "roubadaEm": "2026-08-06T21:37:18.436Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
@@ -212,7 +212,7 @@
     "nome": "fazenda feliz",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:34|06/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-06T21:34:21.541Z"
   },
   "OS DE RACA": {

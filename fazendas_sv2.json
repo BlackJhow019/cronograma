@@ -167,14 +167,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-06T01:48:33.375Z"
   },
-  "ROUBO OFF": {
-    "idNumerico": "7",
-    "nome": "roubo off",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T20:31:34.070Z"
-  },
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
@@ -311,14 +303,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-06T03:54:14.287Z"
   },
-  "$ COMPANY $R.RC_PLINIODMG $": {
-    "idNumerico": "3",
-    "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T02:16:24.193Z"
-  },
   "TA NO GRALI": {
     "idNumerico": "4",
     "nome": "ta no grali",
@@ -358,5 +342,13 @@
     "disponivelEm": "08:41|06/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-06T06:41:18.371Z"
+  },
+  "/VENDERPRODUTOS": {
+    "idNumerico": "7",
+    "nome": "/VENDERPRODUTOS",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:19|06/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-06T07:19:28.165Z"
   }
 }

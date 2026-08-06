@@ -226,10 +226,10 @@
   "GRUPO RANTER": {
     "idNumerico": "19",
     "nome": "GRUPO RANTER",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:04|06/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T22:44:54.957Z"
+    "roubadaEm": "2026-08-06T05:15:17.048Z"
   },
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
@@ -258,8 +258,8 @@
   "CANNABIS": {
     "idNumerico": "8",
     "nome": "CANNABIS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:09|06/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-06T02:20:49.523Z"
   },

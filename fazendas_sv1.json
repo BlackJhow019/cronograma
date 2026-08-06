@@ -7,14 +7,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-06T15:46:41.454Z"
   },
-  "KODIAK": {
-    "idNumerico": "3",
-    "nome": "KodiaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:24|06/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-06T11:24:59.052Z"
-  },
   "NIKE SHOX": {
     "idNumerico": "42",
     "nome": "NIKE SHOX",
@@ -124,7 +116,7 @@
     "nome": "Quem Roubar e Petista",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:09|06/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-06T16:09:10.608Z"
   },
   "GRANJA DO IMONKEY": {
@@ -242,10 +234,10 @@
   "ROUBO OFF": {
     "idNumerico": "7",
     "nome": "roubo off",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:27|06/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T21:52:25.379Z"
+    "roubadaEm": "2026-08-06T16:27:51.435Z"
   },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",

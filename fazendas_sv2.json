@@ -47,22 +47,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T23:33:21.684Z"
   },
-  "AMO O LOWER": {
-    "idNumerico": "2",
-    "nome": "Amo o Lower",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "TA NO GRALI": {
-    "idNumerico": "4",
-    "nome": "ta no grali",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T18:15:48.220Z"
-  },
   "DONA SEM RAZAO": {
     "idNumerico": "26",
     "nome": "Dona sem razao",
@@ -143,14 +127,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T21:41:59.484Z"
   },
-  "$ COMPANY $R.RC_PLINIODMG $": {
-    "idNumerico": "3",
-    "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:29|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T20:29:06.845Z"
-  },
   "TREMBALA": {
     "idNumerico": "42",
     "nome": "TremBala",
@@ -198,14 +174,6 @@
     "disponivelEm": "00:07|06/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T22:07:08.570Z"
-  },
-  "PREFEITO ROADBLOCK": {
-    "idNumerico": "41",
-    "nome": "Prefeito Roadblock",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T20:04:41.190Z"
   },
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
@@ -270,6 +238,22 @@
     "disponivelEm": "23:20|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-06T00:11:54.387Z"
+  },
+  "FRANCA": {
+    "idNumerico": "28",
+    "nome": "FRANCA",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "KODIAK": {
+    "idNumerico": "3",
+    "nome": "KodiaK",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:29|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T20:29:06.845Z"
   },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
@@ -343,9 +327,25 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T22:24:15.923Z"
   },
-  "WESKER_U$METRALHA": {
-    "idNumerico": "28",
-    "nome": "Wesker_u$MeTraLha",
+  "FARM'S DE CAFE": {
+    "idNumerico": "4",
+    "nome": "Farm's de Cafe",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T18:15:48.220Z"
+  },
+  "SE ROUBAR MORRE": {
+    "idNumerico": "41",
+    "nome": "SE ROUBAR MORRE",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:59|06/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-06T00:59:54.685Z"
+  },
+  "< GAUBRE LTDA >": {
+    "idNumerico": "2",
+    "nome": "< GAUBRE LTDA >",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,

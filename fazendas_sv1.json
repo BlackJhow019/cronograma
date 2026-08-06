@@ -218,10 +218,10 @@
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:29|06/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T15:51:59.866Z"
+    "roubadaEm": "2026-08-06T21:29:53.850Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",
@@ -243,7 +243,7 @@
     "idNumerico": "7",
     "nome": "roubo off",
     "status": "INDISPONIVEL",
-    "disponivelEm": "18:29|06/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-06T16:29:09.527Z"
   },

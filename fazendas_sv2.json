@@ -327,14 +327,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-06T02:03:15.049Z"
   },
-  "KODIAK": {
-    "idNumerico": "3",
-    "nome": "KodiaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:16|06/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T02:16:24.193Z"
-  },
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
@@ -357,6 +349,14 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "02:19|06/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T03:00:07.755Z"
+    "roubadaEm": "2026-08-06T03:00:23.968Z"
+  },
+  "$ COMPANY $R.RC_PLINIODMG $": {
+    "idNumerico": "3",
+    "nome": "$ Company $r.RC_PlinioDmG $",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:16|06/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-06T02:16:24.193Z"
   }
 }

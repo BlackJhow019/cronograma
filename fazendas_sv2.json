@@ -303,17 +303,9 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-06T02:07:24.646Z"
   },
-  "ROCK FARM": {
-    "idNumerico": "11",
-    "nome": "RocK Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:45|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T01:23:59.338Z"
-  },
-  "OS DE RACA": {
+  "JESUS EA SOLUCAO": {
     "idNumerico": "0",
-    "nome": "OS DE RACA",
+    "nome": "JESUS EA SOLUCAO",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
@@ -326,14 +318,6 @@
     "disponivelEm": "04:16|06/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-06T02:16:24.193Z"
-  },
-  "AMO A MAZZI": {
-    "idNumerico": "6",
-    "nome": "Amo a Mazzi",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:28|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-06T00:20:20.044Z"
   },
   "AMO O LOWER": {
     "idNumerico": "2",
@@ -358,5 +342,21 @@
     "disponivelEm": "00:22|06/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-06T02:03:15.049Z"
+  },
+  "DM2 FARM": {
+    "idNumerico": "6",
+    "nome": "Dm2 Farm",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:28|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-06T00:20:20.044Z"
+  },
+  "RICO LOUCO": {
+    "idNumerico": "11",
+    "nome": "rico louco",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:45|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-06T01:23:59.338Z"
   }
 }

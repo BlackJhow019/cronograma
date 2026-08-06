@@ -83,7 +83,7 @@
     "idNumerico": "27",
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
-    "disponivelEm": "04:43|06/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-06T02:43:40.687Z"
   },
@@ -186,10 +186,10 @@
   "JAH RASTAFARI": {
     "idNumerico": "39",
     "nome": "JAH RASTAFARI",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:44|06/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T01:55:29.394Z"
+    "roubadaEm": "2026-08-06T07:44:00.453Z"
   },
   ".": {
     "idNumerico": "31",

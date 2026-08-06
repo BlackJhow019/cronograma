@@ -84,7 +84,7 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:43|06/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-06T02:43:40.687Z"
   },
   "AZEROX": {
@@ -194,9 +194,9 @@
   ".": {
     "idNumerico": "31",
     "nome": ".",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:47|05/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-05T21:47:56.471Z"
   },
   "30PRAUM": {
@@ -243,7 +243,7 @@
     "idNumerico": "7",
     "nome": "roubo off",
     "status": "INDISPONIVEL",
-    "disponivelEm": "23:52|05/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T21:52:25.379Z"
   },
@@ -278,14 +278,6 @@
     "disponivelEm": "01:38|06/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T23:38:31.593Z"
-  },
-  "SAO PEDRO 2": {
-    "idNumerico": "43",
-    "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:50|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T21:51:35.952Z"
   },
   "THUG LIFE": {
     "idNumerico": "21",

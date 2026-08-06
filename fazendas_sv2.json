@@ -114,10 +114,10 @@
   "TREMBALA": {
     "idNumerico": "42",
     "nome": "TremBala",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:24|06/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T19:41:45.645Z"
+    "roubadaEm": "2026-08-06T03:19:43.640Z"
   },
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
@@ -198,14 +198,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
-  },
-  "FARM'S DE CAFE": {
-    "idNumerico": "4",
-    "nome": "Farm's de Cafe",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T18:15:48.220Z"
   },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
@@ -327,6 +319,22 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-06T02:03:15.049Z"
   },
+  "FAZENDA DO GALIN": {
+    "idNumerico": "15",
+    "nome": "Fazenda do Galin",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:19|06/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-06T03:00:23.968Z"
+  },
+  "KODIAK": {
+    "idNumerico": "3",
+    "nome": "KodiaK",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:16|06/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-06T02:16:24.193Z"
+  },
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
@@ -343,20 +351,12 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "FAZENDA DO GALIN": {
-    "idNumerico": "15",
-    "nome": "Fazenda do Galin",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:19|06/08/2026",
+  "TA NO GRALI": {
+    "idNumerico": "4",
+    "nome": "ta no grali",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T03:00:23.968Z"
-  },
-  "$ COMPANY $R.RC_PLINIODMG $": {
-    "idNumerico": "3",
-    "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:16|06/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T02:16:24.193Z"
+    "roubadaEm": "2026-08-05T18:15:48.220Z"
   }
 }

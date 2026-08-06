@@ -287,14 +287,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T20:31:34.070Z"
   },
-  "DM2 FARM": {
-    "idNumerico": "6",
-    "nome": "Dm2 Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:38|06/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T23:38:51.552Z"
-  },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
@@ -302,14 +294,6 @@
     "disponivelEm": "23:20|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-06T00:11:54.387Z"
-  },
-  "CHAMA A POLICIA": {
-    "idNumerico": "44",
-    "nome": "CHAMA A POLICIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:39|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T23:55:51.759Z"
   },
   "@FILH_ODOPAII": {
     "idNumerico": "12",
@@ -358,5 +342,21 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T16:55:40.221Z"
+  },
+  "AMO A MAZZI": {
+    "idNumerico": "6",
+    "nome": "Amo a Mazzi",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:28|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-06T00:20:20.127Z"
+  },
+  "CHAMA A POLICIA": {
+    "idNumerico": "44",
+    "nome": "CHAMA A POLICIA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:39|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T23:55:51.759Z"
   }
 }

@@ -106,10 +106,10 @@
   "FARM DO GALO": {
     "idNumerico": "40",
     "nome": "FARM DO GALO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:00|06/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T18:02:24.780Z"
+    "roubadaEm": "2026-08-06T00:43:45.910Z"
   },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
@@ -279,6 +279,70 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-06T00:11:54.387Z"
   },
+  "CHAMA A POLICIA": {
+    "idNumerico": "44",
+    "nome": "CHAMA A POLICIA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:39|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T23:55:51.759Z"
+  },
+  "FARM'S NAY E NICK": {
+    "idNumerico": "5",
+    "nome": "FARM'S NAY E NICK",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:47|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-06T00:41:25.345Z"
+  },
+  "@FILH_ODOPAII": {
+    "idNumerico": "12",
+    "nome": "@filh_odopaii",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T22:49:46.903Z"
+  },
+  "FAZENDA DA MILLY": {
+    "idNumerico": "19",
+    "nome": "Fazenda da Milly",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:34|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-05T22:44:54.957Z"
+  },
+  "AZEROX": {
+    "idNumerico": "23",
+    "nome": "AzeRoX",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  ".": {
+    "idNumerico": "31",
+    "nome": ".",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T22:24:15.923Z"
+  },
+  "WESKER_U$METRALHA": {
+    "idNumerico": "28",
+    "nome": "Wesker_u$MeTraLha",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "AMO A MAZZI": {
+    "idNumerico": "6",
+    "nome": "Amo a Mazzi",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:28|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-06T00:20:20.044Z"
+  },
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",
     "nome": "Fazendinha BeTreZe 2",
@@ -294,69 +358,5 @@
     "disponivelEm": "23:09|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-06T00:15:04.063Z"
-  },
-  "DM2 FARM": {
-    "idNumerico": "6",
-    "nome": "Dm2 Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:28|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-06T00:20:20.127Z"
-  },
-  "CHAMA A POLICIA": {
-    "idNumerico": "44",
-    "nome": "CHAMA A POLICIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:39|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T23:55:51.759Z"
-  },
-  "B13 :)": {
-    "idNumerico": "23",
-    "nome": "B13 :)",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "GRUPO RANTER": {
-    "idNumerico": "19",
-    "nome": "GRUPO RANTER",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:34|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T22:44:54.957Z"
-  },
-  "FARM'S NAY E NICK": {
-    "idNumerico": "5",
-    "nome": "FARM'S NAY E NICK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:00|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T22:49:44.752Z"
-  },
-  "@FILH_ODOPAII": {
-    "idNumerico": "12",
-    "nome": "@filh_odopaii",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T22:49:46.903Z"
-  },
-  "FAZENDA REI DROGADO": {
-    "idNumerico": "31",
-    "nome": "Fazenda Rei Drogado",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T22:24:15.923Z"
-  },
-  "FRANCA": {
-    "idNumerico": "28",
-    "nome": "FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
   }
 }

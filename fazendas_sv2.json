@@ -79,6 +79,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T19:04:01.733Z"
   },
+  "~E V O M~": {
+    "idNumerico": "25",
+    "nome": "~E V O M~",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T19:07:17.674Z"
+  },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
@@ -86,14 +94,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T17:52:30.117Z"
-  },
-  "FAZENDA DO GALIN": {
-    "idNumerico": "15",
-    "nome": "Fazenda do Galin",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T20:23:41.565Z"
   },
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
@@ -303,6 +303,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T23:38:51.552Z"
   },
+  "CHAMA A POLICIA": {
+    "idNumerico": "44",
+    "nome": "CHAMA A POLICIA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:39|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T23:55:51.759Z"
+  },
   "@FILH_ODOPAII": {
     "idNumerico": "12",
     "nome": "@filh_odopaii",
@@ -310,6 +318,22 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T22:49:46.903Z"
+  },
+  "FRANCA": {
+    "idNumerico": "28",
+    "nome": "FRANCA",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "YT @GANDIA_RP": {
+    "idNumerico": "15",
+    "nome": "YT @GANDIA_RP",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T20:23:41.565Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
@@ -334,21 +358,5 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T22:24:15.923Z"
-  },
-  "WESKER_U$METRALHA": {
-    "idNumerico": "28",
-    "nome": "Wesker_u$MeTraLha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "QUEM ROUBAR E PETISTA": {
-    "idNumerico": "44",
-    "nome": "Quem Roubar e Petista",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:39|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T23:55:51.759Z"
   }
 }

@@ -218,9 +218,9 @@
   "ROUBO OFF": {
     "idNumerico": "7",
     "nome": "roubo off",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:31|05/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-05T20:31:34.070Z"
   },
   "YT @GANDIA_RP": {
@@ -295,6 +295,46 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T22:44:54.957Z"
   },
+  "AMO O LOWER": {
+    "idNumerico": "2",
+    "nome": "Amo o Lower",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "YELLOWSTONE - BY MONSTER": {
+    "idNumerico": "16",
+    "nome": "YellowStone - By Monster",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:09|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-06T00:15:04.063Z"
+  },
+  "DM2 FARM": {
+    "idNumerico": "6",
+    "nome": "Dm2 Farm",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:28|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-06T00:20:20.044Z"
+  },
+  "JESUS EA SOLUCAO": {
+    "idNumerico": "0",
+    "nome": "JESUS EA SOLUCAO",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:13|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-06T00:48:58.183Z"
+  },
+  "RICO LOUCO": {
+    "idNumerico": "11",
+    "nome": "rico louco",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:45|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-06T01:23:59.338Z"
+  },
   "CHAMA A POLICIA": {
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
@@ -303,60 +343,20 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T23:55:51.759Z"
   },
-  "@FILH_ODOPAII": {
+  "FAMILIA KYLES": {
     "idNumerico": "12",
-    "nome": "@filh_odopaii",
+    "nome": "Familia KyLeS",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T22:49:46.903Z"
   },
-  "ROCK FARM": {
-    "idNumerico": "11",
-    "nome": "RocK Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:45|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T01:23:59.338Z"
-  },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:13|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T00:48:58.183Z"
-  },
-  "FARM'S NAY E NICK": {
+  "..OURO..PR3TO..": {
     "idNumerico": "5",
-    "nome": "FARM'S NAY E NICK",
+    "nome": "..OURO..PR3TO..",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:47|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-06T00:41:25.345Z"
-  },
-  "30PRAUM": {
-    "idNumerico": "16",
-    "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:09|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T00:15:04.063Z"
-  },
-  "AMO A MAZZI": {
-    "idNumerico": "6",
-    "nome": "Amo a Mazzi",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:28|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-06T00:20:20.044Z"
-  },
-  "AMO O LOWER": {
-    "idNumerico": "2",
-    "nome": "Amo o Lower",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
   }
 }

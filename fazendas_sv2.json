@@ -83,7 +83,7 @@
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
     "status": "INDISPONIVEL",
-    "disponivelEm": "23:16|05/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-06T00:10:10.073Z"
   },
@@ -303,14 +303,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-06T02:07:24.646Z"
   },
-  "MALVADA'S FARM": {
-    "idNumerico": "32",
-    "nome": "Malvada's Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:22|06/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T02:03:15.049Z"
-  },
   "ROCK FARM": {
     "idNumerico": "11",
     "nome": "RocK Farm",
@@ -333,7 +325,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "04:16|06/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T02:16:14.531Z"
+    "roubadaEm": "2026-08-06T02:16:24.193Z"
   },
   "AMO A MAZZI": {
     "idNumerico": "6",
@@ -358,5 +350,13 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
+  },
+  "FAMILIA ALMANAK": {
+    "idNumerico": "32",
+    "nome": "Familia AlmanaK",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:22|06/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-06T02:03:15.049Z"
   }
 }

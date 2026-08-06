@@ -186,10 +186,10 @@
   "JAH RASTAFARI": {
     "idNumerico": "39",
     "nome": "JAH RASTAFARI",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:55|06/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T20:40:21.617Z"
+    "roubadaEm": "2026-08-06T01:55:15.800Z"
   },
   ".": {
     "idNumerico": "31",
@@ -308,7 +308,7 @@
     "nome": "Penoso Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:43|06/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-06T01:43:25.971Z"
   },
   "FAMILIA KYLES": {

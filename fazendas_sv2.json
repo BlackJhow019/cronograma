@@ -178,10 +178,10 @@
   "B13 :)": {
     "idNumerico": "23",
     "nome": "B13 :)",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:59|06/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T17:52:42.512Z"
+    "roubadaEm": "2026-08-06T23:50:17.643Z"
   },
   "GRUPO RANTER": {
     "idNumerico": "19",
@@ -198,14 +198,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-06T21:29:29.938Z"
-  },
-  "AWAKE COMPANY": {
-    "idNumerico": "13",
-    "nome": "AwaKe Company",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:51|06/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T21:11:30.951Z"
   },
   "CANNABIS": {
     "idNumerico": "8",
@@ -347,9 +339,9 @@
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
     "status": "INDISPONIVEL",
-    "disponivelEm": "23:52|06/08/2026",
+    "disponivelEm": "23:51|06/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T23:43:48.560Z"
+    "roubadaEm": "2026-08-06T23:42:49.125Z"
   },
   "YANINHA_ANTIFALSOS": {
     "idNumerico": "34",

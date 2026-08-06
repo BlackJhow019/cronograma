@@ -117,7 +117,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "02:24|06/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T03:19:43.640Z"
+    "roubadaEm": "2026-08-06T03:19:43.570Z"
   },
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
@@ -194,10 +194,10 @@
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:50|06/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-06T03:34:01.129Z"
   },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
@@ -327,13 +327,21 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-06T03:00:23.968Z"
   },
-  "FARM'S DE CAFE": {
-    "idNumerico": "4",
-    "nome": "Farm's de Cafe",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:55|06/08/2026",
+  "30PRAUM": {
+    "idNumerico": "16",
+    "nome": "30PRAUM",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T03:19:45.860Z"
+    "roubadaEm": null
+  },
+  "< GAUBRE LTDA >": {
+    "idNumerico": "2",
+    "nome": "< GAUBRE LTDA >",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
   },
   "KODIAK": {
     "idNumerico": "3",
@@ -343,20 +351,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-06T02:16:24.193Z"
   },
-  "30PRAUM": {
-    "idNumerico": "16",
-    "nome": "30PRAUM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+  "TA NO GRALI": {
+    "idNumerico": "4",
+    "nome": "ta no grali",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:55|06/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "AMO O LOWER": {
-    "idNumerico": "2",
-    "nome": "Amo o Lower",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-08-06T03:19:45.860Z"
   }
 }

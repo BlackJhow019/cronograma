@@ -58,10 +58,10 @@
   "DONA SEM RAZAO": {
     "idNumerico": "26",
     "nome": "Dona sem razao",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:09|06/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T19:04:01.733Z"
+    "roubadaEm": "2026-08-06T06:16:17.277Z"
   },
   "~E V O M~": {
     "idNumerico": "25",
@@ -92,7 +92,7 @@
     "nome": "Fazenda Do MIRIM",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:19|06/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-06T06:13:20.641Z"
   },
   "FAMILIA KUSH": {

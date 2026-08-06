@@ -47,14 +47,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-06T14:43:52.825Z"
   },
-  "< GAUBRE LTDA >": {
-    "idNumerico": "35",
-    "nome": "< GAUBRE LTDA >",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:10|06/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-06T22:28:18.793Z"
-  },
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
     "nome": "VENDO 500km ACEITO TROCAS",
@@ -204,7 +196,7 @@
     "nome": "30PRAUM",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:57|07/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-06T22:57:52.688Z"
   },
   "FAZENDA FELIZ": {
@@ -306,8 +298,8 @@
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:05|06/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-06T18:05:13.530Z"
   },

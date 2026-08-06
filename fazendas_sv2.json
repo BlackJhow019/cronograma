@@ -42,8 +42,8 @@
   "FARME DO DRAKE": {
     "idNumerico": "35",
     "nome": "Farme do Drake",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:03|06/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-06T04:38:28.964Z"
   },
@@ -138,9 +138,9 @@
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
     "nome": "Farms de Galopisitas",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:09|06/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-06T04:27:20.617Z"
   },
   "VALE DAS SOMBRAS": {
@@ -187,9 +187,9 @@
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
     "status": "INDISPONIVEL",
-    "disponivelEm": "08:54|06/08/2026",
+    "disponivelEm": "08:53|06/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T06:55:00.437Z"
+    "roubadaEm": "2026-08-06T06:54:12.994Z"
   },
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",
@@ -205,7 +205,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "05:10|06/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T06:58:22.441Z"
+    "roubadaEm": "2026-08-06T06:58:11.604Z"
   },
   "B13 :)": {
     "idNumerico": "23",
@@ -283,9 +283,9 @@
     "idNumerico": "6",
     "nome": "Amo a Mazzi",
     "status": "INDISPONIVEL",
-    "disponivelEm": "06:10|06/08/2026",
+    "disponivelEm": "06:09|06/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T07:02:11.557Z"
+    "roubadaEm": "2026-08-06T07:01:25.973Z"
   },
   "MALVADA'S FARM": {
     "idNumerico": "32",
@@ -315,7 +315,7 @@
     "idNumerico": "3",
     "nome": "$ Company $r.RC_PlinioDmG $",
     "status": "INDISPONIVEL",
-    "disponivelEm": "04:16|06/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-06T02:16:24.193Z"
   },

@@ -66,10 +66,10 @@
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
     "nome": "YellowStone - By Monster",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:09|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-08-06T00:15:04.063Z"
   },
   "DONA SEM RAZAO": {
     "idNumerico": "26",
@@ -151,14 +151,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T21:41:59.484Z"
   },
-  "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": "38",
-    "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T16:55:40.221Z"
-  },
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",
     "nome": "$ Company $r.RC_PlinioDmG $",
@@ -182,14 +174,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T19:07:57.365Z"
-  },
-  "AURA + EGO": {
-    "idNumerico": "22",
-    "nome": "Aura + Ego",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:13|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T19:13:31.318Z"
   },
   "JAH RASTAFARI": {
     "idNumerico": "39",
@@ -303,14 +287,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T23:38:51.552Z"
   },
-  "CHAMA A POLICIA": {
-    "idNumerico": "44",
-    "nome": "CHAMA A POLICIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:39|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T23:55:51.759Z"
-  },
   "@FILH_ODOPAII": {
     "idNumerico": "12",
     "nome": "@filh_odopaii",
@@ -358,5 +334,21 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
+  },
+  "FAZENDINHA BETREZE 2": {
+    "idNumerico": "38",
+    "nome": "Fazendinha BeTreZe 2",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T16:55:40.221Z"
+  },
+  "QUEM ROUBAR E PETISTA": {
+    "idNumerico": "44",
+    "nome": "Quem Roubar e Petista",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:39|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T23:55:51.759Z"
   }
 }

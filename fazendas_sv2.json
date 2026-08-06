@@ -130,10 +130,10 @@
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:34|06/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T06:19:26.912Z"
+    "roubadaEm": "2026-08-06T15:23:23.454Z"
   },
   "ARIANA_B13": {
     "idNumerico": "10",

@@ -146,10 +146,10 @@
   "ARIANA_B13": {
     "idNumerico": "10",
     "nome": "Ariana_B13",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:09|06/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T01:48:33.375Z"
+    "roubadaEm": "2026-08-06T13:12:06.406Z"
   },
   "FRANCA": {
     "idNumerico": "28",

@@ -10,10 +10,10 @@
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:49|06/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T11:03:50.988Z"
+    "roubadaEm": "2026-08-06T16:49:18.503Z"
   },
   "FAZENDA CUIUDA - BY GAZOLA": {
     "idNumerico": "17",
@@ -214,14 +214,6 @@
     "disponivelEm": "16:36|06/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-06T16:47:20.475Z"
-  },
-  "ROCK FARM": {
-    "idNumerico": "11",
-    "nome": "RocK Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:47|06/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T15:26:28.307Z"
   },
   "FARM DA THATY": {
     "idNumerico": "1",

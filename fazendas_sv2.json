@@ -333,15 +333,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "04:16|06/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T02:16:00.943Z"
-  },
-  "30PRAUM": {
-    "idNumerico": "16",
-    "nome": "30PRAUM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-08-06T02:16:14.531Z"
   },
   "AMO A MAZZI": {
     "idNumerico": "6",
@@ -354,6 +346,14 @@
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "YELLOWSTONE - BY MONSTER": {
+    "idNumerico": "16",
+    "nome": "YellowStone - By Monster",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,

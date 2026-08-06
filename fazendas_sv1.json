@@ -242,9 +242,9 @@
   "ROUBO OFF": {
     "idNumerico": "7",
     "nome": "roubo off",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-05T21:52:25.379Z"
   },
   "RANCHO DO DOUTOR": {
@@ -278,6 +278,14 @@
     "disponivelEm": "01:38|06/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-05T23:38:31.593Z"
+  },
+  "SAO PEDRO 2": {
+    "idNumerico": "43",
+    "nome": "SAO PEDRO 2",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T21:51:35.952Z"
   },
   "THUG LIFE": {
     "idNumerico": "21",

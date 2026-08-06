@@ -82,9 +82,9 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:35|06/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-06T14:35:08.355Z"
   },
   "AZEROX": {
@@ -246,14 +246,6 @@
     "disponivelEm": "18:29|06/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-06T16:29:09.527Z"
-  },
-  "RANCHO DO DOUTOR": {
-    "idNumerico": "14",
-    "nome": "Rancho do Doutor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:37|06/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T14:37:03.845Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",

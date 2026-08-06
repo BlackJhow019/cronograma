@@ -319,21 +319,13 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T22:49:46.903Z"
   },
-  "FRANCA": {
-    "idNumerico": "28",
-    "nome": "FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:20|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T20:23:41.565Z"
+    "roubadaEm": "2026-08-06T00:11:40.626Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
@@ -358,5 +350,13 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T22:24:15.923Z"
+  },
+  "WESKER_U$METRALHA": {
+    "idNumerico": "28",
+    "nome": "Wesker_u$MeTraLha",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
   }
 }

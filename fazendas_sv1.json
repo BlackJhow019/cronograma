@@ -141,7 +141,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "02:11|06/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T00:11:41.362Z"
+    "roubadaEm": "2026-08-06T00:11:54.664Z"
   },
   "021": {
     "idNumerico": "1",
@@ -210,8 +210,8 @@
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:13|05/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T19:13:00.823Z"
   },

@@ -39,14 +39,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T17:19:14.504Z"
   },
-  "FARME DO DRAKE": {
-    "idNumerico": "35",
-    "nome": "Farme do Drake",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:58|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-05T23:33:21.684Z"
-  },
   "DONA SEM RAZAO": {
     "idNumerico": "26",
     "nome": "Dona sem razao",
@@ -130,10 +122,10 @@
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
     "nome": "Farma Da Familia Elite",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:51|06/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T19:07:57.365Z"
+    "roubadaEm": "2026-08-06T01:59:13.684Z"
   },
   "AURA + EGO": {
     "idNumerico": "22",
@@ -196,7 +188,7 @@
     "nome": "Ariana_B13",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:45|06/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-06T01:48:33.375Z"
   },
   "021": {
@@ -303,6 +295,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T22:49:46.903Z"
   },
+  "FARM'S NAY E NICK": {
+    "idNumerico": "5",
+    "nome": "FARM'S NAY E NICK",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:47|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-06T00:41:25.345Z"
+  },
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
@@ -350,13 +350,5 @@
     "disponivelEm": "23:39|05/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T23:55:51.759Z"
-  },
-  "..OURO..PR3TO..": {
-    "idNumerico": "5",
-    "nome": "..OURO..PR3TO..",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:47|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T00:41:25.345Z"
   }
 }

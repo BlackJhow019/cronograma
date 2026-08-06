@@ -186,10 +186,10 @@
   "JAH RASTAFARI": {
     "idNumerico": "39",
     "nome": "JAH RASTAFARI",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:03|06/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T13:26:43.243Z"
+    "roubadaEm": "2026-08-06T20:03:48.939Z"
   },
   ".": {
     "idNumerico": "31",
@@ -254,14 +254,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-06T14:37:03.845Z"
-  },
-  "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": "38",
-    "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:01|06/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-06T15:01:55.062Z"
   },
   "..OURO..PR3TO..": {
     "idNumerico": "5",

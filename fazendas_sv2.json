@@ -239,14 +239,6 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
   "AMO A MAZZI": {
     "idNumerico": "6",
     "nome": "Amo a Mazzi",
@@ -358,5 +350,13 @@
     "disponivelEm": "09:44|06/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-06T07:44:13.755Z"
+  },
+  "JESUS EA SOLUCAO": {
+    "idNumerico": "0",
+    "nome": "JESUS EA SOLUCAO",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:54|06/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-06T07:45:32.366Z"
   }
 }

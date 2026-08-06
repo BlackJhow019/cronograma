@@ -95,14 +95,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T18:19:07.723Z"
   },
-  "SAO PEDRO 2": {
-    "idNumerico": "43",
-    "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T21:51:57.728Z"
-  },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
@@ -358,5 +350,13 @@
     "disponivelEm": "05:12|06/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-06T07:38:09.983Z"
+  },
+  "LA FAMILIA CHIARADIA": {
+    "idNumerico": "43",
+    "nome": "LA FAMILIA CHIARADIA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:02|06/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-06T07:38:48.525Z"
   }
 }

@@ -194,10 +194,10 @@
   ".": {
     "idNumerico": "31",
     "nome": ".",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:30|06/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T14:47:12.410Z"
+    "roubadaEm": "2026-08-06T21:30:49.472Z"
   },
   "30PRAUM": {
     "idNumerico": "16",
@@ -238,14 +238,6 @@
     "disponivelEm": "21:47|06/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-06T19:47:44.068Z"
-  },
-  "ROUBO OFF": {
-    "idNumerico": "7",
-    "nome": "roubo off",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T16:29:09.527Z"
   },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",

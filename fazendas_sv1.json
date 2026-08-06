@@ -203,7 +203,7 @@
     "idNumerico": "16",
     "nome": "30PRAUM",
     "status": "INDISPONIVEL",
-    "disponivelEm": "02:34|06/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-06T00:34:20.039Z"
   },
@@ -298,10 +298,10 @@
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:34|06/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T17:52:16.438Z"
+    "roubadaEm": "2026-08-06T05:34:38.186Z"
   },
   "PENOSO FARM'S": {
     "idNumerico": "10",

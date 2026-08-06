@@ -59,7 +59,7 @@
     "idNumerico": "24",
     "nome": "VENDO 500km ACEITO TROCAS",
     "status": "INDISPONIVEL",
-    "disponivelEm": "17:21|06/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-06T15:21:34.797Z"
   },
@@ -284,7 +284,7 @@
     "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:18|06/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-06T20:20:06.776Z"
   },
   "THUG LIFE": {
@@ -314,10 +314,10 @@
   "RICK FARM'S": {
     "idNumerico": "9",
     "nome": "Rick Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:05|06/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T16:03:29.042Z"
+    "roubadaEm": "2026-08-06T20:21:57.412Z"
   },
   "CDM FARM'S": {
     "idNumerico": "20",

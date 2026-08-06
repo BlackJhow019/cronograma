@@ -239,14 +239,6 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "JESUS EA SOLUCAO": {
-    "idNumerico": "0",
-    "nome": "JESUS EA SOLUCAO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:34|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T23:25:06.271Z"
-  },
   "021": {
     "idNumerico": "1",
     "nome": "021",
@@ -279,6 +271,22 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-06T00:11:54.387Z"
   },
+  "YELLOWSTONE - BY MONSTER": {
+    "idNumerico": "16",
+    "nome": "YellowStone - By Monster",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:09|05/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-06T00:15:04.063Z"
+  },
+  "DM2 FARM": {
+    "idNumerico": "6",
+    "nome": "Dm2 Farm",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:28|05/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-06T00:20:20.044Z"
+  },
   "CHAMA A POLICIA": {
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
@@ -287,9 +295,9 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T23:55:51.759Z"
   },
-  "FARM'S NAY E NICK": {
+  "..OURO..PR3TO..": {
     "idNumerico": "5",
-    "nome": "FARM'S NAY E NICK",
+    "nome": "..OURO..PR3TO..",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:47|05/08/2026",
     "cofreConsertado": false,
@@ -319,6 +327,14 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
+  "WORK INDUSTRIA'S LIMITED": {
+    "idNumerico": "38",
+    "nome": "Work Industria's Limited",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-05T16:55:40.221Z"
+  },
   ".": {
     "idNumerico": "31",
     "nome": ".",
@@ -335,28 +351,12 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "AMO A MAZZI": {
-    "idNumerico": "6",
-    "nome": "Amo a Mazzi",
+  "OS DE RACA": {
+    "idNumerico": "0",
+    "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
-    "disponivelEm": "23:28|05/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-06T00:20:20.044Z"
-  },
-  "FAZENDINHA BETREZE 2": {
-    "idNumerico": "38",
-    "nome": "Fazendinha BeTreZe 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "disponivelEm": "23:13|05/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T16:55:40.221Z"
-  },
-  "YELLOWSTONE - BY MONSTER": {
-    "idNumerico": "16",
-    "nome": "YellowStone - By Monster",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:09|05/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T00:15:04.063Z"
+    "roubadaEm": "2026-08-06T00:48:58.183Z"
   }
 }

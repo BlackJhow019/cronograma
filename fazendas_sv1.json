@@ -175,14 +175,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T22:24:22.392Z"
   },
-  "NOREX FARM'S": {
-    "idNumerico": "13",
-    "nome": "Norex farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:37|06/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T04:37:01.171Z"
-  },
   "JAH RASTAFARI": {
     "idNumerico": "39",
     "nome": "JAH RASTAFARI",
@@ -282,10 +274,10 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:37|06/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T03:03:26.715Z"
+    "roubadaEm": "2026-08-06T09:38:48.158Z"
   },
   "THUG LIFE": {
     "idNumerico": "21",

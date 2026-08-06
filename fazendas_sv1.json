@@ -60,7 +60,7 @@
     "nome": "VENDO 500km ACEITO TROCAS",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:21|06/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-06T15:21:34.797Z"
   },
   "CLUBE DA LULUZINHA": {
@@ -202,10 +202,10 @@
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:25|06/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T00:34:20.039Z"
+    "roubadaEm": "2026-08-06T15:25:07.664Z"
   },
   "FAZENDA FELIZ": {
     "idNumerico": "22",

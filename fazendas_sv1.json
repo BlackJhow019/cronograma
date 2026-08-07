@@ -50,10 +50,10 @@
   "< GAUBRE LTDA >": {
     "idNumerico": "2",
     "nome": "< GAUBRE LTDA >",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:15|07/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T13:33:44.037Z"
+    "roubadaEm": "2026-08-07T16:33:10.428Z"
   },
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
@@ -171,9 +171,9 @@
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
     "status": "INDISPONIVEL",
-    "disponivelEm": "18:00|07/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T16:00:52.651Z"
+    "disponivelEm": "18:01|07/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-07T16:01:12.500Z"
   },
   "NOREX FARM'S": {
     "idNumerico": "13",

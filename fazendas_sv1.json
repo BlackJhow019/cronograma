@@ -138,9 +138,9 @@
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:49|07/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-07T15:49:17.483Z"
   },
   "021": {
@@ -162,10 +162,10 @@
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:50|07/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T22:54:34.452Z"
+    "roubadaEm": "2026-08-07T20:50:50.131Z"
   },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
@@ -317,7 +317,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "19:11|07/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T20:27:45.595Z"
+    "roubadaEm": "2026-08-07T20:27:45.526Z"
   },
   "CDM FARM'S": {
     "idNumerico": "20",

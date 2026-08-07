@@ -258,10 +258,10 @@
   "@FILH_ODOPAII": {
     "idNumerico": "12",
     "nome": "@filh_odopaii",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:38|07/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T03:41:48.658Z"
+    "roubadaEm": "2026-08-07T13:01:59.309Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",
@@ -292,7 +292,7 @@
     "nome": "Amo o Lower",
     "status": "INDISPONIVEL",
     "disponivelEm": "10:36|07/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-07T12:55:51.361Z"
   },
   "YELLOWSTONE - BY MONSTER": {

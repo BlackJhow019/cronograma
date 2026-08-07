@@ -226,8 +226,8 @@
   "FARM DA THATY": {
     "idNumerico": "1",
     "nome": "Farm da Thaty",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:34|07/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-07T15:55:23.627Z"
   },
@@ -298,10 +298,10 @@
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
     "nome": "YellowStone - By Monster",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:31|07/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T12:01:37.445Z"
+    "roubadaEm": "2026-08-07T17:37:27.168Z"
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {
     "idNumerico": "37",

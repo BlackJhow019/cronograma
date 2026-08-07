@@ -114,9 +114,9 @@
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
     "nome": "Farms de Galopisitas",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:34|07/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-07T12:51:52.513Z"
   },
   "VALE DAS SOMBRAS": {
@@ -242,10 +242,10 @@
   "MALVADA'S FARM": {
     "idNumerico": "32",
     "nome": "Malvada's Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:55|07/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T07:36:09.471Z"
+    "roubadaEm": "2026-08-07T15:36:24.718Z"
   },
   "FAZENDA DO GALIN": {
     "idNumerico": "15",

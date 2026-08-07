@@ -218,10 +218,10 @@
   "ROCK FARM": {
     "idNumerico": "11",
     "nome": "RocK Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:00|07/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T06:13:40.553Z"
+    "roubadaEm": "2026-08-07T14:38:57.805Z"
   },
   "FARM DA THATY": {
     "idNumerico": "1",

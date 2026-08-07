@@ -74,10 +74,10 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:35|07/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T10:15:18.752Z"
+    "roubadaEm": "2026-08-07T16:35:48.557Z"
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",

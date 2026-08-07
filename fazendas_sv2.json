@@ -138,10 +138,10 @@
   "ARIANA_B13": {
     "idNumerico": "10",
     "nome": "Ariana_B13",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:30|07/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T14:17:06.100Z"
+    "roubadaEm": "2026-08-07T19:33:29.848Z"
   },
   "FRANCA": {
     "idNumerico": "28",
@@ -294,14 +294,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-07T18:43:49.769Z"
-  },
-  "YELLOWSTONE - BY MONSTER": {
-    "idNumerico": "16",
-    "nome": "YellowStone - By Monster",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:31|07/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-07T17:37:48.522Z"
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {
     "idNumerico": "37",

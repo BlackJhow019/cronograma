@@ -87,14 +87,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-07T12:02:48.892Z"
   },
-  "AZEROX": {
-    "idNumerico": "23",
-    "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:58|07/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T10:58:14.313Z"
-  },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
@@ -314,10 +306,10 @@
   "RICK FARM'S": {
     "idNumerico": "9",
     "nome": "Rick Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:42|07/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T20:21:57.412Z"
+    "roubadaEm": "2026-08-07T15:59:12.704Z"
   },
   "CDM FARM'S": {
     "idNumerico": "20",

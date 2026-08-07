@@ -138,10 +138,10 @@
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:49|07/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T07:46:13.012Z"
+    "roubadaEm": "2026-08-07T15:49:02.977Z"
   },
   "021": {
     "idNumerico": "1",
@@ -294,14 +294,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-06T17:36:22.677Z"
-  },
-  "FAMILIA ALMANAK": {
-    "idNumerico": "32",
-    "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:44|07/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-07T10:44:20.265Z"
   },
   "PENOSO FARM'S": {
     "idNumerico": "10",

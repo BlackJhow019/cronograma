@@ -2,8 +2,8 @@
   "999": {
     "idNumerico": "39",
     "nome": "999",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:19|07/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-07T05:03:37.363Z"
   },
@@ -42,8 +42,8 @@
   "FARME DO DRAKE": {
     "idNumerico": "35",
     "nome": "Farme do Drake",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:23|07/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-07T03:58:14.828Z"
   },
@@ -106,8 +106,8 @@
   "AURA + EGO": {
     "idNumerico": "22",
     "nome": "Aura + Ego",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:24|07/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-07T04:57:06.138Z"
   },
@@ -220,7 +220,7 @@
     "nome": "RocK Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:34|07/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-07T06:13:40.869Z"
   },
   "FARM DA THATY": {

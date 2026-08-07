@@ -258,10 +258,10 @@
   "@FILH_ODOPAII": {
     "idNumerico": "12",
     "nome": "@filh_odopaii",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:05|07/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T13:01:59.178Z"
+    "roubadaEm": "2026-08-07T20:28:39.763Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",

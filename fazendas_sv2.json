@@ -92,7 +92,7 @@
     "nome": "TremBala",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:06|07/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-07T14:02:12.166Z"
   },
   "FARMA DA FAMILIA ELITE": {
@@ -138,10 +138,10 @@
   "ARIANA_B13": {
     "idNumerico": "10",
     "nome": "Ariana_B13",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:14|07/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T09:10:45.040Z"
+    "roubadaEm": "2026-08-07T14:16:56.143Z"
   },
   "FRANCA": {
     "idNumerico": "28",
@@ -340,7 +340,7 @@
     "nome": "Dead (:",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:03|07/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-07T14:03:43.328Z"
   },
   "JESUS EA SOLUCAO": {

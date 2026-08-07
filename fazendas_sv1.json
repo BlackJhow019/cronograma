@@ -203,7 +203,7 @@
     "idNumerico": "16",
     "nome": "30PRAUM",
     "status": "INDISPONIVEL",
-    "disponivelEm": "14:50|07/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-07T12:50:25.317Z"
   },
@@ -274,10 +274,10 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:50|07/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T12:45:10.062Z"
+    "roubadaEm": "2026-08-07T17:50:48.551Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",

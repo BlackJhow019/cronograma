@@ -55,14 +55,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-06T06:16:51.232Z"
   },
-  "~E V O M~": {
-    "idNumerico": "25",
-    "nome": "~E V O M~",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:11|07/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T16:11:37.122Z"
-  },
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
@@ -130,10 +122,10 @@
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T14:22:18.184Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:25|07/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-07T21:14:05.598Z"
   },
   "ARIANA_B13": {
     "idNumerico": "10",
@@ -147,7 +139,7 @@
     "idNumerico": "28",
     "nome": "FRANCA",
     "status": "INDISPONIVEL",
-    "disponivelEm": "18:16|07/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-07T20:00:23.618Z"
   },
@@ -339,9 +331,9 @@
     "idNumerico": "27",
     "nome": "Dead (:",
     "status": "INDISPONIVEL",
-    "disponivelEm": "22:58|07/08/2026",
+    "disponivelEm": "22:56|07/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T20:58:42.019Z"
+    "roubadaEm": "2026-08-07T20:56:34.684Z"
   },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
@@ -358,5 +350,13 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-07T14:24:32.266Z"
+  },
+  "~E V O M~": {
+    "idNumerico": "25",
+    "nome": "~E V O M~",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
   }
 }

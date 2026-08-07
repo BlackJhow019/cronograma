@@ -130,17 +130,17 @@
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:32|07/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T15:23:55.789Z"
+    "roubadaEm": "2026-08-07T14:21:12.307Z"
   },
   "ARIANA_B13": {
     "idNumerico": "10",
     "nome": "Ariana_B13",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:14|07/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-07T14:17:06.100Z"
   },
   "FRANCA": {

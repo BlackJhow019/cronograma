@@ -191,6 +191,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-06T20:03:48.939Z"
   },
+  ".": {
+    "idNumerico": "31",
+    "nome": ".",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-06T21:31:04.038Z"
+  },
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
@@ -199,13 +207,13 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-06T22:57:52.688Z"
   },
-  "FAZENDA FELIZ": {
-    "idNumerico": "22",
-    "nome": "fazenda feliz",
-    "status": "INDISPONIVEL",
+  "OS DE RACA": {
+    "idNumerico": "0",
+    "nome": "OS DE RACA",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-06T21:34:21.541Z"
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-06T21:29:53.850Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",

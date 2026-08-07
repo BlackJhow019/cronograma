@@ -146,10 +146,10 @@
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:41|07/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T03:47:19.604Z"
+    "roubadaEm": "2026-08-07T14:25:36.253Z"
   },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
@@ -327,6 +327,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-06T07:38:09.983Z"
   },
+  "LA FAMILIA CHIARADIA": {
+    "idNumerico": "43",
+    "nome": "LA FAMILIA CHIARADIA",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-07T11:59:41.809Z"
+  },
   "DEAD (:": {
     "idNumerico": "27",
     "nome": "Dead (:",
@@ -348,7 +356,7 @@
     "nome": "yAninha_AntiFalsos",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:48|07/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-07T14:24:32.266Z"
   }
 }

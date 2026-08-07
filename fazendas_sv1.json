@@ -52,7 +52,7 @@
     "nome": "< GAUBRE LTDA >",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:38|07/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-07T03:56:17.517Z"
   },
   "VENDO 500KM ACEITO TROCAS": {
@@ -159,6 +159,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-07T03:31:47.672Z"
   },
+  "FAZENDINHA DO IGEZE": {
+    "idNumerico": "36",
+    "nome": "fazendinha do igeze",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-06T22:54:34.452Z"
+  },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
@@ -190,14 +198,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-06T21:31:04.038Z"
-  },
-  "30PRAUM": {
-    "idNumerico": "16",
-    "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:57|07/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-06T22:57:52.688Z"
   },
   "FAZENDA FELIZ": {
     "idNumerico": "22",

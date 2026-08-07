@@ -90,10 +90,10 @@
   "TREMBALA": {
     "idNumerico": "42",
     "nome": "TremBala",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:06|07/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T00:24:25.217Z"
+    "roubadaEm": "2026-08-07T14:02:00.324Z"
   },
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
@@ -310,14 +310,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-06T06:41:18.371Z"
-  },
-  "/VENDERPRODUTOS": {
-    "idNumerico": "7",
-    "nome": "/VENDERPRODUTOS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:59|07/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T08:59:51.174Z"
   },
   "CHAMA A POLICIA": {
     "idNumerico": "44",

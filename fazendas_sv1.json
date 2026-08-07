@@ -100,7 +100,7 @@
     "nome": "Farm's de Cafe",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:42|07/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-07T12:42:41.698Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
@@ -274,10 +274,10 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:45|07/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T07:40:33.024Z"
+    "roubadaEm": "2026-08-07T12:45:10.062Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",

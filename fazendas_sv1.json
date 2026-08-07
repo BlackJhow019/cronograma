@@ -12,7 +12,7 @@
     "nome": "KodiaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:05|07/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-07T21:05:11.725Z"
   },
   "NIKE SHOX": {
@@ -166,6 +166,14 @@
     "disponivelEm": "22:50|07/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-07T20:50:50.131Z"
+  },
+  "POLEMICO$ INDUSTRI$": {
+    "idNumerico": "37",
+    "nome": "PoLeMiCo$ industri$",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-07T16:01:12.500Z"
   },
   "NOREX FARM'S": {
     "idNumerico": "13",

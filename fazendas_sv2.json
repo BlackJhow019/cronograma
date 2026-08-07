@@ -132,7 +132,7 @@
     "nome": "FARM DO SAPATO",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:33|07/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-07T14:22:18.184Z"
   },
   "ARIANA_B13": {
@@ -354,9 +354,9 @@
   "YANINHA_ANTIFALSOS": {
     "idNumerico": "34",
     "nome": "yAninha_AntiFalsos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:47|07/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T18:19:07.723Z"
+    "roubadaEm": "2026-08-07T14:23:44.551Z"
   }
 }

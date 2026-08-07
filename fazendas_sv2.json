@@ -226,8 +226,8 @@
   "FARM DA THATY": {
     "idNumerico": "1",
     "nome": "Farm da Thaty",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:53|07/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-07T10:14:17.973Z"
   },
@@ -330,10 +330,10 @@
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
     "nome": "LA FAMILIA CHIARADIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:23|07/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T00:09:38.170Z"
+    "roubadaEm": "2026-08-07T11:59:23.684Z"
   },
   "DEAD (:": {
     "idNumerico": "27",

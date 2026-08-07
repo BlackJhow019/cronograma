@@ -106,10 +106,10 @@
   "AURA + EGO": {
     "idNumerico": "22",
     "nome": "Aura + Ego",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:57|07/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T04:57:06.138Z"
+    "roubadaEm": "2026-08-07T15:30:36.664Z"
   },
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
@@ -250,9 +250,9 @@
   "FAZENDA DO GALIN": {
     "idNumerico": "15",
     "nome": "Fazenda do Galin",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:25|07/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-07T13:05:30.214Z"
   },
   "@FILH_ODOPAII": {

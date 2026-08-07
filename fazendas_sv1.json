@@ -203,7 +203,7 @@
     "idNumerico": "22",
     "nome": "fazenda feliz",
     "status": "INDISPONIVEL",
-    "disponivelEm": "23:34|06/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-06T21:34:21.541Z"
   },
@@ -234,10 +234,10 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:35|07/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T14:37:03.845Z"
+    "roubadaEm": "2026-08-07T02:35:06.534Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",

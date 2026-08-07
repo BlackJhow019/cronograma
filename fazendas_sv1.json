@@ -122,9 +122,9 @@
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:26|06/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-06T21:26:31.856Z"
   },
   "GRANJA DO IMONKEY": {
@@ -191,14 +191,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-06T20:03:48.939Z"
   },
-  ".": {
-    "idNumerico": "31",
-    "nome": ".",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:31|06/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T21:31:04.038Z"
-  },
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
@@ -214,14 +206,6 @@
     "disponivelEm": "23:34|06/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-06T21:34:21.541Z"
-  },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:29|06/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T21:29:53.850Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",
@@ -258,8 +242,8 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:28|06/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-06T21:28:03.683Z"
   },

@@ -42,10 +42,10 @@
   "FARME DO DRAKE": {
     "idNumerico": "35",
     "nome": "Farme do Drake",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:17|07/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T13:19:51.730Z"
+    "roubadaEm": "2026-08-07T19:52:27.347Z"
   },
   "DONA SEM RAZAO": {
     "idNumerico": "26",
@@ -141,7 +141,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "18:31|07/08/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-08-07T19:34:15.302Z"
+    "roubadaEm": "2026-08-07T19:34:15.231Z"
   },
   "FRANCA": {
     "idNumerico": "28",
@@ -173,7 +173,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "17:52|07/08/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-08-07T19:40:36.632Z"
+    "roubadaEm": "2026-08-07T19:40:23.477Z"
   },
   "B13 :)": {
     "idNumerico": "23",
@@ -211,9 +211,9 @@
     "idNumerico": "8",
     "nome": "CANNABIS",
     "status": "INDISPONIVEL",
-    "disponivelEm": "19:28|07/08/2026",
+    "disponivelEm": "19:27|07/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T19:39:07.219Z"
+    "roubadaEm": "2026-08-07T19:38:57.894Z"
   },
   "ROCK FARM": {
     "idNumerico": "11",

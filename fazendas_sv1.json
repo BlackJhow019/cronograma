@@ -199,14 +199,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-06T21:31:04.038Z"
   },
-  "30PRAUM": {
-    "idNumerico": "16",
-    "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-07T12:50:25.317Z"
-  },
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
@@ -266,10 +258,10 @@
   "..OURO..PR3TO..": {
     "idNumerico": "5",
     "nome": "..OURO..PR3TO..",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:52|07/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T18:52:54.584Z"
+    "roubadaEm": "2026-08-07T17:52:52.353Z"
   },
   "DM2 FARM": {
     "idNumerico": "6",

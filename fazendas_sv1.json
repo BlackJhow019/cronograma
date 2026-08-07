@@ -100,7 +100,7 @@
     "nome": "Farm's de Cafe",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:27|07/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-07T18:27:39.673Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
@@ -154,10 +154,10 @@
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:30|07/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T12:57:36.061Z"
+    "roubadaEm": "2026-08-07T18:30:22.234Z"
   },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",

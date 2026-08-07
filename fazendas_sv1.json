@@ -27,7 +27,7 @@
     "idNumerico": "26",
     "nome": "Rafha investimentos $",
     "status": "INDISPONIVEL",
-    "disponivelEm": "00:35|07/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-06T22:35:22.249Z"
   },
@@ -258,10 +258,10 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:35|07/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T21:28:03.683Z"
+    "roubadaEm": "2026-08-07T03:35:56.550Z"
   },
   "..OURO..PR3TO..": {
     "idNumerico": "5",

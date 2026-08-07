@@ -130,9 +130,9 @@
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:33|07/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-07T14:22:18.184Z"
   },
   "ARIANA_B13": {
@@ -255,14 +255,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-07T13:05:30.214Z"
   },
-  "@FILH_ODOPAII": {
-    "idNumerico": "12",
-    "nome": "@filh_odopaii",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:38|07/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-07T13:01:59.178Z"
-  },
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",
     "nome": "$ Company $r.RC_PlinioDmG $",
@@ -322,10 +314,10 @@
   "CHAMA A POLICIA": {
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:14|07/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T07:38:09.983Z"
+    "roubadaEm": "2026-08-07T16:40:17.631Z"
   },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",

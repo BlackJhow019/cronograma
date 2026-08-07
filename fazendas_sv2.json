@@ -194,8 +194,8 @@
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:18|07/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-07T16:12:29.088Z"
   },
@@ -234,10 +234,10 @@
   "AMO A MAZZI": {
     "idNumerico": "6",
     "nome": "Amo a Mazzi",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:46|07/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T14:45:35.440Z"
+    "roubadaEm": "2026-08-07T18:37:54.325Z"
   },
   "MALVADA'S FARM": {
     "idNumerico": "32",

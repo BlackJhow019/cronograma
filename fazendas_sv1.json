@@ -252,7 +252,7 @@
     "nome": "Rancho do Doutor",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:12|07/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-07T12:12:03.729Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
@@ -282,10 +282,10 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:14|07/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T06:55:45.203Z"
+    "roubadaEm": "2026-08-07T12:15:14.857Z"
   },
   "THUG LIFE": {
     "idNumerico": "21",

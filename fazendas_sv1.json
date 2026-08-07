@@ -162,10 +162,10 @@
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:00|07/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T06:10:12.244Z"
+    "roubadaEm": "2026-08-07T16:00:38.872Z"
   },
   "NOREX FARM'S": {
     "idNumerico": "13",

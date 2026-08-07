@@ -82,10 +82,10 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:32|07/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T12:02:48.892Z"
+    "roubadaEm": "2026-08-07T19:32:01.311Z"
   },
   "AZEROX": {
     "idNumerico": "23",
@@ -228,7 +228,7 @@
     "nome": "K1NG Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:27|07/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-07T19:27:06.214Z"
   },
   "PREFEITO ROADBLOCK": {

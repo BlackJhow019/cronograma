@@ -282,10 +282,10 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:19|07/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T12:15:30.126Z"
+    "roubadaEm": "2026-08-07T18:20:12.633Z"
   },
   "THUG LIFE": {
     "idNumerico": "21",
@@ -308,7 +308,7 @@
     "nome": "Penoso Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:16|07/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-07T18:16:38.680Z"
   },
   "RICK FARM'S": {

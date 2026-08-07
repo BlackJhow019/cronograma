@@ -90,10 +90,10 @@
   "TREMBALA": {
     "idNumerico": "42",
     "nome": "TremBala",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:56|07/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T14:02:12.166Z"
+    "roubadaEm": "2026-08-07T20:51:59.296Z"
   },
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
@@ -115,9 +115,9 @@
     "idNumerico": "20",
     "nome": "Farms de Galopisitas",
     "status": "INDISPONIVEL",
-    "disponivelEm": "20:16|07/08/2026",
+    "disponivelEm": "20:14|07/08/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-08-07T20:34:02.232Z"
+    "roubadaEm": "2026-08-07T20:32:38.369Z"
   },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
@@ -167,21 +167,13 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-06T18:55:42.751Z"
   },
-  "FAZENDINHA BETREZE 2": {
-    "idNumerico": "38",
-    "nome": "Fazendinha BeTreZe 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:52|07/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-07T19:40:23.477Z"
-  },
   "B13 :)": {
     "idNumerico": "23",
     "nome": "B13 :)",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T14:59:08.063Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:57|07/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-07T20:48:34.836Z"
   },
   "GRUPO RANTER": {
     "idNumerico": "19",
@@ -259,17 +251,17 @@
     "idNumerico": "12",
     "nome": "@filh_odopaii",
     "status": "INDISPONIVEL",
-    "disponivelEm": "21:06|07/08/2026",
+    "disponivelEm": "21:05|07/08/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-08-07T20:29:40.482Z"
+    "roubadaEm": "2026-08-07T20:28:39.689Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",
     "nome": "$ Company $r.RC_PlinioDmG $",
     "status": "INDISPONIVEL",
-    "disponivelEm": "22:32|07/08/2026",
+    "disponivelEm": "22:30|07/08/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-08-07T20:32:12.272Z"
+    "roubadaEm": "2026-08-07T20:30:42.437Z"
   },
   "TA NO GRALI": {
     "idNumerico": "4",

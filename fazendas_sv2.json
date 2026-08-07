@@ -338,10 +338,10 @@
   "DEAD (:": {
     "idNumerico": "27",
     "nome": "Dead (:",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:56|07/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T14:03:43.328Z"
+    "roubadaEm": "2026-08-07T20:56:18.738Z"
   },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",

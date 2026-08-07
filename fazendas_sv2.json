@@ -116,7 +116,7 @@
     "nome": "Farms de Galopisitas",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:34|07/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-07T12:51:52.513Z"
   },
   "VALE DAS SOMBRAS": {
@@ -290,10 +290,10 @@
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:36|07/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T23:24:28.981Z"
+    "roubadaEm": "2026-08-07T12:55:28.059Z"
   },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",

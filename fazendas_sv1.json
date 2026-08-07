@@ -66,8 +66,8 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:37|07/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-07T03:37:03.247Z"
   },
@@ -125,7 +125,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "10:18|07/08/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-08-07T08:18:24.930Z"
+    "roubadaEm": "2026-08-07T08:18:10.437Z"
   },
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
@@ -237,7 +237,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "10:09|07/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T08:09:14.191Z"
+    "roubadaEm": "2026-08-07T08:09:14.065Z"
   },
   "ROUBO OFF": {
     "idNumerico": "7",
@@ -258,8 +258,8 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:35|07/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-07T03:35:56.550Z"
   },

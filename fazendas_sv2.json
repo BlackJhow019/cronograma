@@ -10,10 +10,10 @@
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T18:00:01.039Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:01|08/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-07T23:01:11.715Z"
   },
   "FAZENDA CUIUDA - BY GAZOLA": {
     "idNumerico": "17",
@@ -123,7 +123,7 @@
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
     "status": "INDISPONIVEL",
-    "disponivelEm": "20:25|07/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-07T21:14:05.598Z"
   },
@@ -187,17 +187,17 @@
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
     "status": "INDISPONIVEL",
-    "disponivelEm": "22:05|07/08/2026",
+    "disponivelEm": "22:04|07/08/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-08-07T22:58:53.109Z"
+    "roubadaEm": "2026-08-07T22:58:53.031Z"
   },
   "AWAKE COMPANY": {
     "idNumerico": "13",
     "nome": "AwaKe Company",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T15:20:20.002Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:45|07/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-07T23:06:26.448Z"
   },
   "CANNABIS": {
     "idNumerico": "8",
@@ -218,8 +218,8 @@
   "FARM DA THATY": {
     "idNumerico": "1",
     "nome": "Farm da Thaty",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:22|07/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-07T21:43:14.713Z"
   },

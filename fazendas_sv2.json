@@ -251,17 +251,17 @@
     "idNumerico": "15",
     "nome": "Fazenda do Galin",
     "status": "INDISPONIVEL",
-    "disponivelEm": "12:26|07/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T13:06:28.018Z"
+    "disponivelEm": "12:25|07/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-07T13:05:30.214Z"
   },
   "@FILH_ODOPAII": {
     "idNumerico": "12",
     "nome": "@filh_odopaii",
     "status": "INDISPONIVEL",
-    "disponivelEm": "13:39|07/08/2026",
+    "disponivelEm": "13:38|07/08/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-08-07T13:02:19.631Z"
+    "roubadaEm": "2026-08-07T13:01:59.178Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",
@@ -274,8 +274,8 @@
   "TA NO GRALI": {
     "idNumerico": "4",
     "nome": "ta no grali",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:08|07/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-07T10:32:31.570Z"
   },

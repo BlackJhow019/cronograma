@@ -50,10 +50,10 @@
   "< GAUBRE LTDA >": {
     "idNumerico": "35",
     "nome": "< GAUBRE LTDA >",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:19|07/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T16:33:10.365Z"
+    "roubadaEm": "2026-08-07T21:37:05.830Z"
   },
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
@@ -70,14 +70,6 @@
     "disponivelEm": "21:58|07/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-07T19:58:21.241Z"
-  },
-  "FAZENDA DA MILLY": {
-    "idNumerico": "19",
-    "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:35|07/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T16:35:48.493Z"
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",

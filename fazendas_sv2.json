@@ -10,10 +10,10 @@
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:26|07/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T23:03:58.554Z"
+    "roubadaEm": "2026-08-07T05:26:05.847Z"
   },
   "FAZENDA CUIUDA - BY GAZOLA": {
     "idNumerico": "17",
@@ -348,7 +348,7 @@
     "nome": "JESUS EA SOLUCAO",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:25|07/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-07T05:16:07.376Z"
   },
   "YANINHA_ANTIFALSOS": {

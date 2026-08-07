@@ -314,10 +314,10 @@
   "/VENDERPRODUTOS": {
     "idNumerico": "7",
     "nome": "/VENDERPRODUTOS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:59|07/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T18:42:39.938Z"
+    "roubadaEm": "2026-08-07T08:59:37.961Z"
   },
   "CHAMA A POLICIA": {
     "idNumerico": "44",

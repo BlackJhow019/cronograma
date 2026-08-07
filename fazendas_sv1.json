@@ -18,10 +18,10 @@
   "NIKE SHOX": {
     "idNumerico": "42",
     "nome": "NIKE SHOX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:36|07/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T03:18:40.027Z"
+    "roubadaEm": "2026-08-07T09:42:52.468Z"
   },
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
@@ -198,14 +198,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-06T21:31:04.038Z"
-  },
-  "30PRAUM": {
-    "idNumerico": "16",
-    "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:41|07/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-07T04:41:29.156Z"
   },
   "FAZENDA FELIZ": {
     "idNumerico": "22",

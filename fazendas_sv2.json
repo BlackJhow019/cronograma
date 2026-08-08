@@ -314,10 +314,10 @@
   "CHAMA A POLICIA": {
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:41|08/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T16:41:13.857Z"
+    "roubadaEm": "2026-08-08T03:07:38.839Z"
   },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",

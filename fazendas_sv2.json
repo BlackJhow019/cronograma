@@ -1,4 +1,12 @@
 {
+  "999": {
+    "idNumerico": "39",
+    "nome": "999",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-08T01:28:44.395Z"
+  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -66,8 +74,8 @@
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:50|07/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-08T00:44:25.574Z"
   },
@@ -100,7 +108,7 @@
     "nome": "Farms de Galopisitas",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:27|08/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-08T02:45:25.755Z"
   },
   "VALE DAS SOMBRAS": {
@@ -218,8 +226,8 @@
   "AMO A MAZZI": {
     "idNumerico": "6",
     "nome": "Amo a Mazzi",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:46|07/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-08T00:37:57.510Z"
   },
@@ -268,7 +276,7 @@
     "nome": "RAMONZIN_FRANCA",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:50|08/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-08T02:44:48.994Z"
   },
   "AMO O LOWER": {

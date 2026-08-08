@@ -18,9 +18,9 @@
   "FAZENDA CUIUDA - BY GAZOLA": {
     "idNumerico": "17",
     "nome": "Fazenda Cuiuda - By GAZOLA",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-08T02:33:53.047Z"
   },
   "QG FARM KHAOS": {
@@ -262,6 +262,14 @@
     "disponivelEm": "07:54|08/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-08T05:54:33.029Z"
+  },
+  "TA NO GRALI": {
+    "idNumerico": "4",
+    "nome": "ta no grali",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-08T04:56:43.390Z"
   },
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",

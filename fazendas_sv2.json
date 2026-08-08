@@ -26,9 +26,9 @@
   "QG FARM KHAOS": {
     "idNumerico": "18",
     "nome": "QG FARM KHAOS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:23|08/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-08T18:23:28.163Z"
   },
   "RANCHO DO DOUTOR": {
@@ -74,8 +74,8 @@
   "TREMBALA": {
     "idNumerico": "42",
     "nome": "TremBala",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:34|08/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-08T21:29:48.111Z"
   },
@@ -131,9 +131,9 @@
     "idNumerico": "28",
     "nome": "FRANCA",
     "status": "INDISPONIVEL",
-    "disponivelEm": "21:27|08/08/2026",
+    "disponivelEm": "21:54|08/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-08T23:11:15.625Z"
+    "roubadaEm": "2026-08-08T23:37:50.991Z"
   },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",

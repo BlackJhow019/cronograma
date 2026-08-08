@@ -271,6 +271,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-08T13:17:18.297Z"
   },
+  "AMO O LOWER": {
+    "idNumerico": "2",
+    "nome": "Amo o Lower",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-08T16:51:27.545Z"
+  },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
     "nome": "YellowStone - By Monster",
@@ -284,7 +292,7 @@
     "nome": "WELCOME > MELHOR FAZENDA DO BPS",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:35|08/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-08T17:35:16.287Z"
   },
   "/VENDERPRODUTOS": {

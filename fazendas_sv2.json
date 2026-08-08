@@ -140,7 +140,7 @@
     "nome": "FRANCA",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:12|08/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-08T01:56:31.836Z"
   },
   "SE ROUBAR MORRE": {
@@ -330,8 +330,8 @@
   "DEAD (:": {
     "idNumerico": "27",
     "nome": "Dead (:",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:56|07/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-07T20:56:34.684Z"
   },

@@ -28,7 +28,7 @@
     "nome": "Rafha investimentos $",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:21|08/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-08T02:21:56.098Z"
   },
   "BORRACHAS FARM": {
@@ -254,6 +254,14 @@
     "disponivelEm": "01:38|08/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-07T23:38:57.712Z"
+  },
+  "WORK INDUSTRIA'S LIMITED": {
+    "idNumerico": "38",
+    "nome": "Work Industria's Limited",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-07T21:22:07.886Z"
   },
   "..OURO..PR3TO..": {
     "idNumerico": "5",

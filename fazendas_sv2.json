@@ -162,9 +162,9 @@
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",
     "nome": "Fazendinha BeTreZe 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:08|08/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-08T05:56:41.356Z"
   },
   "B13 :)": {
@@ -334,14 +334,6 @@
     "disponivelEm": "05:20|08/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-08T03:20:30.156Z"
-  },
-  "JESUS EA SOLUCAO": {
-    "idNumerico": "0",
-    "nome": "JESUS EA SOLUCAO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:09|08/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-08T04:00:24.290Z"
   },
   "YANINHA_ANTIFALSOS": {
     "idNumerico": "34",

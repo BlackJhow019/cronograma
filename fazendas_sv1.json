@@ -10,8 +10,8 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:19|08/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-08T05:19:51.059Z"
   },
@@ -254,14 +254,6 @@
     "disponivelEm": "07:50|08/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-08T05:50:19.539Z"
-  },
-  "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": "38",
-    "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:21|08/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-08T05:21:41.211Z"
   },
   "..OURO..PR3TO..": {
     "idNumerico": "5",

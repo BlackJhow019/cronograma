@@ -20,7 +20,7 @@
     "nome": "Fazenda Cuiuda - By GAZOLA",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:33|08/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-08T02:33:53.047Z"
   },
   "QG FARM KHAOS": {
@@ -114,10 +114,10 @@
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
     "nome": "Vale das Sombras",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:06|08/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T21:29:05.852Z"
+    "roubadaEm": "2026-08-08T02:36:56.106Z"
   },
   "FARM DO SAPATO": {
     "idNumerico": "9",

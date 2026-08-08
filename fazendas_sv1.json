@@ -98,10 +98,10 @@
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:25|08/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T23:44:40.984Z"
+    "roubadaEm": "2026-08-08T14:25:11.484Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
     "idNumerico": "17",
@@ -244,7 +244,7 @@
     "nome": "roubo off",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:57|08/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-08T13:57:24.724Z"
   },
   "RANCHO DO DOUTOR": {

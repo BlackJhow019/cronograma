@@ -92,7 +92,7 @@
     "nome": "Farma Da Familia Elite",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:47|08/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-08T02:54:52.957Z"
   },
   "AURA + EGO": {
@@ -178,10 +178,10 @@
   "GRUPO RANTER": {
     "idNumerico": "19",
     "nome": "GRUPO RANTER",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:49|08/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T21:56:22.385Z"
+    "roubadaEm": "2026-08-08T03:00:23.524Z"
   },
   "FARM'S NAY E NICK": {
     "idNumerico": "5",

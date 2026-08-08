@@ -122,9 +122,9 @@
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-07T21:14:05.598Z"
   },
   "ARIANA_B13": {
@@ -250,9 +250,9 @@
   "@FILH_ODOPAII": {
     "idNumerico": "12",
     "nome": "@filh_odopaii",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:05|07/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-07T20:28:39.689Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {

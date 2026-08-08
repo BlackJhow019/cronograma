@@ -48,11 +48,11 @@
     "roubadaEm": "2026-08-07T13:31:32.872Z"
   },
   "< GAUBRE LTDA >": {
-    "idNumerico": "35",
+    "idNumerico": "2",
     "nome": "< GAUBRE LTDA >",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:24|07/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-08T00:41:47.023Z"
   },
   "VENDO 500KM ACEITO TROCAS": {
@@ -210,10 +210,10 @@
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:25|08/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T17:53:27.005Z"
+    "roubadaEm": "2026-08-08T01:25:56.123Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",

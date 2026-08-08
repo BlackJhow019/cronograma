@@ -119,14 +119,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-08T02:38:05.451Z"
   },
-  "FARM DO SAPATO": {
-    "idNumerico": "9",
-    "nome": "FARM DO SAPATO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:10|08/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-08T09:59:25.511Z"
-  },
   "ARIANA_B13": {
     "idNumerico": "10",
     "nome": "Ariana_B13",
@@ -202,10 +194,10 @@
   "CANNABIS": {
     "idNumerico": "8",
     "nome": "CANNABIS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:01|08/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T19:38:57.894Z"
+    "roubadaEm": "2026-08-08T12:12:16.575Z"
   },
   "ROCK FARM": {
     "idNumerico": "11",

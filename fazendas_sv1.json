@@ -39,14 +39,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-07T15:12:25.644Z"
   },
-  "WESKER_U$METRALHA": {
-    "idNumerico": "28",
-    "nome": "Wesker_u$MeTraLha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:39|08/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-08T03:39:04.356Z"
-  },
   "< GAUBRE LTDA >": {
     "idNumerico": "35",
     "nome": "< GAUBRE LTDA >",
@@ -138,9 +130,9 @@
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:38|08/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-08T03:38:22.600Z"
   },
   "021": {
@@ -298,8 +290,8 @@
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:37|08/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-08T03:37:24.965Z"
   },

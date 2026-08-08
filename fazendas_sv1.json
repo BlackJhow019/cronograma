@@ -7,14 +7,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-08T12:30:36.175Z"
   },
-  "KODIAK": {
-    "idNumerico": "3",
-    "nome": "KodiaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:23|08/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-08T10:23:59.280Z"
-  },
   "NIKE SHOX": {
     "idNumerico": "42",
     "nome": "NIKE SHOX",
@@ -252,7 +244,7 @@
     "nome": "Rancho do Doutor",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:14|08/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-08T15:14:08.790Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
@@ -312,11 +304,11 @@
     "roubadaEm": "2026-08-08T14:36:14.775Z"
   },
   "RICK FARM'S": {
-    "idNumerico": "40",
+    "idNumerico": "9",
     "nome": "Rick Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:22|08/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-08T13:38:48.858Z"
   },
   "CDM FARM'S": {

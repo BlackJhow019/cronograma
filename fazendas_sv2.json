@@ -130,10 +130,10 @@
   "ARIANA_B13": {
     "idNumerico": "10",
     "nome": "Ariana_B13",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:47|08/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T19:34:15.231Z"
+    "roubadaEm": "2026-08-08T01:50:48.229Z"
   },
   "FRANCA": {
     "idNumerico": "28",
@@ -278,6 +278,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-07T15:36:56.554Z"
+  },
+  "AMO O LOWER": {
+    "idNumerico": "2",
+    "nome": "Amo o Lower",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-08T01:07:03.686Z"
   },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",

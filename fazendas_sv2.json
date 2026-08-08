@@ -194,10 +194,10 @@
   "CANNABIS": {
     "idNumerico": "8",
     "nome": "CANNABIS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:44|08/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-08T12:12:33.298Z"
+    "roubadaEm": "2026-08-08T19:55:48.743Z"
   },
   "ROCK FARM": {
     "idNumerico": "11",

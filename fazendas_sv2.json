@@ -82,9 +82,9 @@
   "TREMBALA": {
     "idNumerico": "42",
     "nome": "TremBala",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:15|08/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-08T03:11:14.400Z"
   },
   "FARMA DA FAMILIA ELITE": {
@@ -148,7 +148,7 @@
     "nome": "SE ROUBAR MORRE",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:12|08/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-08T05:12:34.918Z"
   },
   "FAZENDA REI DROGADO": {
@@ -186,10 +186,10 @@
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:31|08/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T22:58:53.031Z"
+    "roubadaEm": "2026-08-08T05:25:02.337Z"
   },
   "AWAKE COMPANY": {
     "idNumerico": "13",
@@ -230,14 +230,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-08T00:37:57.510Z"
-  },
-  "MALVADA'S FARM": {
-    "idNumerico": "32",
-    "nome": "Malvada's Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:24|08/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-08T04:05:08.882Z"
   },
   "FAZENDA DO GALIN": {
     "idNumerico": "15",

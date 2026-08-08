@@ -50,8 +50,8 @@
   "< GAUBRE LTDA >": {
     "idNumerico": "35",
     "nome": "< GAUBRE LTDA >",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:39|08/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-08T22:56:59.961Z"
   },
@@ -220,8 +220,8 @@
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:30|09/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-08T23:30:26.229Z"
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-08T23:30:11.830Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",

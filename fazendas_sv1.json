@@ -59,7 +59,7 @@
     "idNumerico": "24",
     "nome": "VENDO 500km ACEITO TROCAS",
     "status": "INDISPONIVEL",
-    "disponivelEm": "17:28|08/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-08T15:28:20.001Z"
   },
@@ -290,10 +290,10 @@
   "THUG LIFE": {
     "idNumerico": "21",
     "nome": "THUG LIFE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:28|08/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-08T05:13:32.635Z"
+    "roubadaEm": "2026-08-08T20:28:43.780Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",

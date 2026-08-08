@@ -84,7 +84,7 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:55|08/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-08T06:55:19.905Z"
   },
   "AZEROX": {
@@ -202,10 +202,10 @@
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:59|08/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-08T01:33:20.199Z"
+    "roubadaEm": "2026-08-08T06:59:07.885Z"
   },
   "FAZENDA FELIZ": {
     "idNumerico": "22",
@@ -230,14 +230,6 @@
     "disponivelEm": "04:34|08/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-08T02:34:43.316Z"
-  },
-  "PREFEITO ROADBLOCK": {
-    "idNumerico": "41",
-    "nome": "Prefeito Roadblock",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-08T01:55:09.260Z"
   },
   "ROUBO OFF": {
     "idNumerico": "7",

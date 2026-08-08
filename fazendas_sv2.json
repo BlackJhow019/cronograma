@@ -100,7 +100,7 @@
     "nome": "Aura + Ego",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:48|08/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-08T02:21:02.956Z"
   },
   "FARMS DE GALOPISITAS": {
@@ -250,10 +250,10 @@
   "@FILH_ODOPAII": {
     "idNumerico": "12",
     "nome": "@filh_odopaii",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:58|08/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T20:28:39.689Z"
+    "roubadaEm": "2026-08-08T02:21:52.489Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",

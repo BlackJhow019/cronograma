@@ -186,10 +186,10 @@
   "AWAKE COMPANY": {
     "idNumerico": "13",
     "nome": "AwaKe Company",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:48|08/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-08T16:13:03.360Z"
+    "roubadaEm": "2026-08-08T21:09:08.865Z"
   },
   "CANNABIS": {
     "idNumerico": "8",
@@ -342,14 +342,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-08T09:39:50.063Z"
-  },
-  "~E V O M~": {
-    "idNumerico": "25",
-    "nome": "~E V O M~",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:06|08/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-08T16:06:32.099Z"
   },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",

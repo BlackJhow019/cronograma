@@ -151,14 +151,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-08T01:10:52.999Z"
   },
-  "FAMILIA KUSH": {
-    "idNumerico": "34",
-    "nome": "Familia KuSh",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:46|08/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-08T00:46:49.367Z"
-  },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
@@ -250,10 +242,10 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:50|08/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T23:38:57.712Z"
+    "roubadaEm": "2026-08-08T05:50:06.196Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
@@ -270,14 +262,6 @@
     "disponivelEm": "03:32|08/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-08T01:32:37.897Z"
-  },
-  "DM2 FARM": {
-    "idNumerico": "6",
-    "nome": "Dm2 Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:45|08/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-08T00:45:14.617Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",

@@ -44,7 +44,7 @@
     "nome": "Farme do Drake",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:31|08/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-08T02:06:29.156Z"
   },
   "DONA SEM RAZAO": {
@@ -98,10 +98,10 @@
   "AURA + EGO": {
     "idNumerico": "22",
     "nome": "Aura + Ego",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:47|08/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T15:30:36.588Z"
+    "roubadaEm": "2026-08-08T02:20:13.877Z"
   },
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
@@ -286,6 +286,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-08T01:07:03.686Z"
+  },
+  "YELLOWSTONE - BY MONSTER": {
+    "idNumerico": "16",
+    "nome": "YellowStone - By Monster",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-08T00:09:18.449Z"
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {
     "idNumerico": "37",

@@ -178,8 +178,8 @@
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:00|08/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-08T20:54:00.335Z"
   },
@@ -306,10 +306,10 @@
   "CHAMA A POLICIA": {
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:41|08/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-08T03:07:38.740Z"
+    "roubadaEm": "2026-08-08T23:07:09.228Z"
   },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",

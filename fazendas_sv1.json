@@ -51,7 +51,7 @@
     "idNumerico": "35",
     "nome": "< GAUBRE LTDA >",
     "status": "INDISPONIVEL",
-    "disponivelEm": "09:28|08/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-08T11:45:48.158Z"
   },
@@ -282,9 +282,9 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:26|08/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-08T07:27:12.798Z"
   },
   "THUG LIFE": {

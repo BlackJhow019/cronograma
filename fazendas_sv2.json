@@ -42,10 +42,10 @@
   "FARME DO DRAKE": {
     "idNumerico": "35",
     "nome": "Farme do Drake",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:46|08/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-08T08:27:16.178Z"
+    "roubadaEm": "2026-08-08T17:20:56.429Z"
   },
   "DONA SEM RAZAO": {
     "idNumerico": "26",
@@ -98,9 +98,9 @@
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
     "nome": "Farms de Galopisitas",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:55|08/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-08T14:13:21.157Z"
   },
   "VALE DAS SOMBRAS": {
@@ -276,7 +276,7 @@
     "nome": "Amo o Lower",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:32|08/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-08T16:51:27.545Z"
   },
   "YELLOWSTONE - BY MONSTER": {

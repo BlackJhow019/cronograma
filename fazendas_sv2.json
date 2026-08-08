@@ -44,7 +44,7 @@
     "nome": "Farme do Drake",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:48|08/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-08T17:23:14.056Z"
   },
   "DONA SEM RAZAO": {
@@ -130,10 +130,10 @@
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:41|08/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-08T10:42:47.545Z"
+    "roubadaEm": "2026-08-08T17:24:44.967Z"
   },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",

@@ -122,9 +122,9 @@
   "ARIANA_B13": {
     "idNumerico": "10",
     "nome": "Ariana_B13",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:24|08/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-08T18:27:48.555Z"
   },
   "FRANCA": {
@@ -178,10 +178,10 @@
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:00|08/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-08T13:24:02.690Z"
+    "roubadaEm": "2026-08-08T20:54:00.335Z"
   },
   "AWAKE COMPANY": {
     "idNumerico": "13",
@@ -314,8 +314,8 @@
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
     "nome": "LA FAMILIA CHIARADIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:25|08/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-08T18:01:02.876Z"
   },
@@ -350,13 +350,5 @@
     "disponivelEm": "18:06|08/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-08T16:06:32.099Z"
-  },
-  "SUCCUBUS FARMS": {
-    "idNumerico": "29",
-    "nome": "Succubus Farms",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:51|08/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-08T15:51:56.215Z"
   }
 }

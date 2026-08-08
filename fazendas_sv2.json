@@ -26,10 +26,10 @@
   "QG FARM KHAOS": {
     "idNumerico": "18",
     "nome": "QG FARM KHAOS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:29|08/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T15:40:42.131Z"
+    "roubadaEm": "2026-08-08T02:29:47.516Z"
   },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
@@ -252,7 +252,7 @@
     "nome": "@filh_odopaii",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:58|08/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-08T02:22:04.999Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {

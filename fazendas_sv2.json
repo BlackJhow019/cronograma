@@ -127,14 +127,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-08T09:59:25.511Z"
   },
-  "ARIANA_B13": {
-    "idNumerico": "10",
-    "nome": "Ariana_B13",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:02|08/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-08T13:05:39.930Z"
-  },
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
@@ -202,8 +194,8 @@
   "CANNABIS": {
     "idNumerico": "8",
     "nome": "CANNABIS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:01|08/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-08T12:12:33.298Z"
   },

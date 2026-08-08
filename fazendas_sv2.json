@@ -146,10 +146,10 @@
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:11|08/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T16:06:25.685Z"
+    "roubadaEm": "2026-08-08T05:12:04.297Z"
   },
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",

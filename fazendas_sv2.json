@@ -10,8 +10,8 @@
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:34|08/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-08T05:34:01.094Z"
   },
@@ -84,7 +84,7 @@
     "nome": "TremBala",
     "status": "INDISPONIVEL",
     "disponivelEm": "09:27|08/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-08T10:22:27.859Z"
   },
   "FARMA DA FAMILIA ELITE": {

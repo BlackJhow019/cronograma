@@ -1,9 +1,16 @@
 {
   "CLUBE DA LULUZINHA": {
-    "idNumerico": null,
+    "idNumerico": "8",
     "nome": "Clube da Luluzinha",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:07|08/08/2026",
     "cofreConsertado": false
+  },
+  "SAO PEDRO 2": {
+    "idNumerico": "43",
+    "nome": "SAO PEDRO 2",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:03|08/08/2026",
+    "cofreConsertado": true
   }
 }

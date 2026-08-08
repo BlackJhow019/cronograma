@@ -55,14 +55,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-08T03:22:20.143Z"
   },
-  "GRANJA DO IMONKEY": {
-    "idNumerico": "29",
-    "nome": "Granja do iMonKeY",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-05T18:48:21.116Z"
-  },
   "FARM DO GALO": {
     "idNumerico": "40",
     "nome": "FARM DO GALO",
@@ -358,5 +350,13 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-08T01:07:07.120Z"
+  },
+  "SUCCUBUS FARMS": {
+    "idNumerico": "29",
+    "nome": "Succubus Farms",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:51|08/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-08T15:51:09.314Z"
   }
 }

@@ -87,14 +87,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-08T21:42:54.106Z"
   },
-  "AZEROX": {
-    "idNumerico": "23",
-    "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:30|08/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-08T17:30:07.367Z"
-  },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
@@ -146,10 +138,10 @@
   "021": {
     "idNumerico": "1",
     "nome": "021",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:31|09/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-08T11:45:49.554Z"
+    "roubadaEm": "2026-08-08T22:31:22.824Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",

@@ -52,7 +52,7 @@
     "nome": "< GAUBRE LTDA >",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:24|07/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-08T00:41:47.169Z"
   },
   "VENDO 500KM ACEITO TROCAS": {
@@ -274,10 +274,10 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:45|08/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T17:51:03.163Z"
+    "roubadaEm": "2026-08-08T00:45:14.695Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",

@@ -124,15 +124,15 @@
     "nome": "Ariana_B13",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:24|08/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-08T18:27:48.555Z"
   },
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:43|08/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-08T17:27:03.579Z"
   },
   "SE ROUBAR MORRE": {
@@ -234,10 +234,10 @@
   "FAZENDA DO GALIN": {
     "idNumerico": "15",
     "nome": "Fazenda do Galin",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:09|08/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-08T11:45:57.836Z"
+    "roubadaEm": "2026-08-08T18:50:12.833Z"
   },
   "@FILH_ODOPAII": {
     "idNumerico": "12",

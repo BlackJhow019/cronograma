@@ -242,10 +242,10 @@
   "FAZENDA DO GALIN": {
     "idNumerico": "15",
     "nome": "Fazenda do Galin",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:05|08/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-08T06:38:04.123Z"
+    "roubadaEm": "2026-08-08T11:45:44.413Z"
   },
   "@FILH_ODOPAII": {
     "idNumerico": "12",

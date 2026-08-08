@@ -42,10 +42,10 @@
   "FARME DO DRAKE": {
     "idNumerico": "35",
     "nome": "Farme do Drake",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:30|08/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T19:52:27.347Z"
+    "roubadaEm": "2026-08-08T02:05:53.408Z"
   },
   "DONA SEM RAZAO": {
     "idNumerico": "26",
@@ -286,14 +286,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-08T01:07:03.686Z"
-  },
-  "YELLOWSTONE - BY MONSTER": {
-    "idNumerico": "16",
-    "nome": "YellowStone - By Monster",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:03|07/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-08T00:09:18.449Z"
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {
     "idNumerico": "37",

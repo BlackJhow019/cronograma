@@ -7,14 +7,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-08T01:28:44.395Z"
   },
-  "FAZENDA DO TEMOR": {
-    "idNumerico": "30",
-    "nome": "Fazenda do Temor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:01|08/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-07T23:01:11.715Z"
-  },
   "FAZENDA CUIUDA - BY GAZOLA": {
     "idNumerico": "17",
     "nome": "Fazenda Cuiuda - By GAZOLA",
@@ -234,10 +226,10 @@
   "MALVADA'S FARM": {
     "idNumerico": "32",
     "nome": "Malvada's Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:22|08/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T22:50:30.215Z"
+    "roubadaEm": "2026-08-08T04:03:27.123Z"
   },
   "FAZENDA DO GALIN": {
     "idNumerico": "15",

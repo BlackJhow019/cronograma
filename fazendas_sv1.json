@@ -26,10 +26,10 @@
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
     "nome": "Rafha investimentos $",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:21|08/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-06T22:35:22.249Z"
+    "roubadaEm": "2026-08-08T02:21:56.098Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -182,14 +182,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-07T07:04:54.409Z"
-  },
-  "JAH RASTAFARI": {
-    "idNumerico": "39",
-    "nome": "JAH RASTAFARI",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:18|07/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-07T21:18:37.697Z"
   },
   ".": {
     "idNumerico": "31",

@@ -210,17 +210,17 @@
   "ROCK FARM": {
     "idNumerico": "11",
     "nome": "RocK Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:10|08/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T21:56:16.794Z"
+    "roubadaEm": "2026-08-08T04:49:30.791Z"
   },
   "FARM DA THATY": {
     "idNumerico": "1",
     "nome": "Farm da Thaty",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:24|08/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-08T04:45:08.437Z"
   },
   "AMO A MAZZI": {

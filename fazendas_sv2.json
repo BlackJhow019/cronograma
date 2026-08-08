@@ -332,7 +332,7 @@
     "nome": "JESUS EA SOLUCAO",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:58|08/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-08T22:49:47.473Z"
   },
   "YANINHA_ANTIFALSOS": {
@@ -354,9 +354,9 @@
   "SUCCUBUS FARMS": {
     "idNumerico": "29",
     "nome": "Succubus Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:56|09/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-08T15:51:56.215Z"
+    "roubadaEm": "2026-08-08T22:56:05.203Z"
   }
 }

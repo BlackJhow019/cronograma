@@ -10,8 +10,8 @@
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:59|08/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-08T10:59:12.690Z"
   },
@@ -154,8 +154,8 @@
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",
     "nome": "Fazendinha BeTreZe 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:54|08/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-08T14:43:03.503Z"
   },
@@ -356,7 +356,7 @@
     "nome": "Succubus Farms",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:51|08/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-08T15:51:56.215Z"
   }
 }

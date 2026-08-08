@@ -2,9 +2,9 @@
   "999": {
     "idNumerico": "39",
     "nome": "999",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:38|08/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-08T18:22:48.496Z"
   },
   "FAZENDA DO TEMOR": {
@@ -82,8 +82,8 @@
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
     "nome": "Farma Da Familia Elite",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:33|08/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-08T17:41:08.359Z"
   },
@@ -330,8 +330,8 @@
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:40|08/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-08T16:31:18.179Z"
   },

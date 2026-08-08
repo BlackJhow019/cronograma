@@ -130,10 +130,10 @@
   "ARIANA_B13": {
     "idNumerico": "10",
     "nome": "Ariana_B13",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:54|08/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-08T01:53:13.396Z"
+    "roubadaEm": "2026-08-08T06:57:08.189Z"
   },
   "FRANCA": {
     "idNumerico": "28",
@@ -282,7 +282,7 @@
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-08T06:12:47.376Z"

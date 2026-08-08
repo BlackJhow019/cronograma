@@ -18,9 +18,9 @@
   "NIKE SHOX": {
     "idNumerico": "42",
     "nome": "NIKE SHOX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:56|07/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-07T20:02:59.036Z"
   },
   "RAFHA INVESTIMENTOS $": {
@@ -53,7 +53,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "22:24|07/08/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-08-08T00:41:47.169Z"
+    "roubadaEm": "2026-08-08T00:41:47.023Z"
   },
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
@@ -66,8 +66,8 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:58|07/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-07T19:58:21.241Z"
   },
@@ -155,9 +155,9 @@
     "idNumerico": "34",
     "nome": "Familia KuSh",
     "status": "INDISPONIVEL",
-    "disponivelEm": "02:47|08/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-08T00:47:01.389Z"
+    "disponivelEm": "02:46|08/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-08T00:46:49.367Z"
   },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
@@ -277,7 +277,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "02:45|08/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-08T00:45:30.933Z"
+    "roubadaEm": "2026-08-08T00:45:14.617Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",

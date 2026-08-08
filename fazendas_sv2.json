@@ -170,10 +170,10 @@
   "B13 :)": {
     "idNumerico": "23",
     "nome": "B13 :)",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:35|08/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T20:48:34.836Z"
+    "roubadaEm": "2026-08-08T04:26:09.116Z"
   },
   "GRUPO RANTER": {
     "idNumerico": "19",
@@ -196,7 +196,7 @@
     "nome": "AwaKe Company",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:02|08/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-08T04:23:23.888Z"
   },
   "CANNABIS": {

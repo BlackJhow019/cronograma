@@ -140,8 +140,8 @@
     "nome": "SE ROUBAR MORRE",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:44|08/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-08T16:45:08.538Z"
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-08T16:45:17.770Z"
   },
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",
@@ -322,10 +322,10 @@
   "DEAD (:": {
     "idNumerico": "27",
     "nome": "Dead (:",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:49|08/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-08T11:37:04.516Z"
+    "roubadaEm": "2026-08-08T16:49:34.929Z"
   },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",

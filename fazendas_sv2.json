@@ -127,6 +127,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-08T09:59:25.511Z"
   },
+  "ARIANA_B13": {
+    "idNumerico": "10",
+    "nome": "Ariana_B13",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-08T13:05:39.930Z"
+  },
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
@@ -266,8 +274,8 @@
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",
     "nome": "RAMONZIN_FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:23|08/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-08T13:17:18.297Z"
   },

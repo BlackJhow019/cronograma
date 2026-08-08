@@ -39,14 +39,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-05T19:38:01.398Z"
   },
-  "FARME DO DRAKE": {
-    "idNumerico": "35",
-    "nome": "Farme do Drake",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:48|08/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-08T17:23:14.056Z"
-  },
   "DONA SEM RAZAO": {
     "idNumerico": "26",
     "nome": "Dona sem razao",
@@ -202,10 +194,10 @@
   "ROCK FARM": {
     "idNumerico": "11",
     "nome": "RocK Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:11|08/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-08T12:59:17.947Z"
+    "roubadaEm": "2026-08-08T19:50:10.035Z"
   },
   "FARM DA THATY": {
     "idNumerico": "1",
@@ -246,14 +238,6 @@
     "disponivelEm": "19:44|08/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-08T19:07:59.160Z"
-  },
-  "$ COMPANY $R.RC_PLINIODMG $": {
-    "idNumerico": "3",
-    "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:48|08/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-08T14:48:51.135Z"
   },
   "TA NO GRALI": {
     "idNumerico": "4",

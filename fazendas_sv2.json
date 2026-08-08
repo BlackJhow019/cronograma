@@ -226,17 +226,17 @@
   "AMO A MAZZI": {
     "idNumerico": "6",
     "nome": "Amo a Mazzi",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:45|07/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T18:37:54.325Z"
+    "roubadaEm": "2026-08-08T00:37:08.529Z"
   },
   "MALVADA'S FARM": {
     "idNumerico": "32",
     "nome": "Malvada's Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:09|07/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-07T22:50:30.215Z"
   },
   "FAZENDA DO GALIN": {
@@ -266,8 +266,8 @@
   "TA NO GRALI": {
     "idNumerico": "4",
     "nome": "ta no grali",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:25|07/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-07T21:49:27.165Z"
   },
@@ -292,7 +292,7 @@
     "nome": "YellowStone - By Monster",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:03|07/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-08T00:09:18.449Z"
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {

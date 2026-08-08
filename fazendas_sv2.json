@@ -74,10 +74,10 @@
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:53|08/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-08T00:44:25.574Z"
+    "roubadaEm": "2026-08-08T06:47:08.779Z"
   },
   "TREMBALA": {
     "idNumerico": "42",
@@ -308,7 +308,7 @@
     "nome": "/VENDERPRODUTOS",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:40|08/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-08T06:40:49.962Z"
   },
   "CHAMA A POLICIA": {

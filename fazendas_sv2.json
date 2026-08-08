@@ -324,8 +324,8 @@
     "nome": "LA FAMILIA CHIARADIA",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:38|08/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-08T09:14:20.023Z"
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-08T09:14:07.724Z"
   },
   "DEAD (:": {
     "idNumerico": "27",
@@ -346,10 +346,10 @@
   "YANINHA_ANTIFALSOS": {
     "idNumerico": "34",
     "nome": "yAninha_AntiFalsos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:04|08/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T14:24:32.266Z"
+    "roubadaEm": "2026-08-08T09:39:50.063Z"
   },
   "~E V O M~": {
     "idNumerico": "25",

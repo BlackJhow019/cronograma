@@ -226,10 +226,10 @@
   "K1NG FARM'S": {
     "idNumerico": "25",
     "nome": "K1NG Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:38|08/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-08T02:34:43.316Z"
+    "roubadaEm": "2026-08-08T19:38:16.457Z"
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
@@ -302,14 +302,6 @@
     "disponivelEm": "17:38|08/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-08T15:38:47.336Z"
-  },
-  "PENOSO FARM'S": {
-    "idNumerico": "10",
-    "nome": "Penoso Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:36|08/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-08T14:36:14.775Z"
   },
   "RICK FARM'S": {
     "idNumerico": "9",

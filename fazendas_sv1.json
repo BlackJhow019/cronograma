@@ -175,14 +175,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-08T01:19:10.635Z"
   },
-  "NOREX FARM'S": {
-    "idNumerico": "13",
-    "nome": "Norex farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:27|08/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-08T16:27:27.472Z"
-  },
   "JAH RASTAFARI": {
     "idNumerico": "39",
     "nome": "JAH RASTAFARI",
@@ -210,10 +202,10 @@
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:28|08/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-08T01:26:22.562Z"
+    "roubadaEm": "2026-08-08T21:28:31.855Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",

@@ -250,10 +250,10 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:29|09/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-08T15:14:08.790Z"
+    "roubadaEm": "2026-08-08T22:29:15.208Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
@@ -300,7 +300,7 @@
     "nome": "Familia AlmanaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:06|09/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-08T22:06:39.079Z"
   },
   "PENOSO FARM'S": {

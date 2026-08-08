@@ -242,10 +242,10 @@
   "FAZENDA DO GALIN": {
     "idNumerico": "15",
     "nome": "Fazenda do Galin",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:50|08/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T13:05:30.214Z"
+    "roubadaEm": "2026-08-08T01:31:01.877Z"
   },
   "@FILH_ODOPAII": {
     "idNumerico": "12",
@@ -259,7 +259,7 @@
     "idNumerico": "3",
     "nome": "$ Company $r.RC_PlinioDmG $",
     "status": "INDISPONIVEL",
-    "disponivelEm": "22:30|07/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-07T20:30:42.437Z"
   },

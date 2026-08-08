@@ -47,14 +47,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-08T02:06:29.156Z"
   },
-  "DONA SEM RAZAO": {
-    "idNumerico": "26",
-    "nome": "Dona sem razao",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:15|08/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-08T03:22:20.143Z"
-  },
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
@@ -334,6 +326,14 @@
     "disponivelEm": "05:20|08/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-08T03:20:30.156Z"
+  },
+  "JESUS EA SOLUCAO": {
+    "idNumerico": "0",
+    "nome": "JESUS EA SOLUCAO",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-08T04:00:24.290Z"
   },
   "YANINHA_ANTIFALSOS": {
     "idNumerico": "34",

@@ -18,10 +18,10 @@
   "FAZENDA CUIUDA - BY GAZOLA": {
     "idNumerico": "17",
     "nome": "Fazenda Cuiuda - By GAZOLA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:58|09/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-08T02:33:53.047Z"
+    "roubadaEm": "2026-08-09T13:58:18.020Z"
   },
   "QG FARM KHAOS": {
     "idNumerico": "18",
@@ -291,7 +291,7 @@
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
     "status": "INDISPONIVEL",
-    "disponivelEm": "10:58|09/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-09T13:24:16.174Z"
   },

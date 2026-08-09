@@ -66,10 +66,10 @@
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:58|09/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-08T12:20:21.622Z"
+    "roubadaEm": "2026-08-09T01:52:02.400Z"
   },
   "TREMBALA": {
     "idNumerico": "42",
@@ -266,9 +266,9 @@
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:48|08/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-09T01:07:17.094Z"
   },
   "YELLOWSTONE - BY MONSTER": {

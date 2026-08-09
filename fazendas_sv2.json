@@ -68,7 +68,7 @@
     "nome": "TremBala",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:36|09/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-09T21:31:17.199Z"
   },
   "FARMA DA FAMILIA ELITE": {
@@ -266,10 +266,10 @@
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
     "nome": "YellowStone - By Monster",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:33|09/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T16:42:35.086Z"
+    "roubadaEm": "2026-08-09T21:39:45.565Z"
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {
     "idNumerico": "37",

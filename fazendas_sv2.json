@@ -2,10 +2,10 @@
   "999": {
     "idNumerico": "39",
     "nome": "999",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:38|09/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T13:37:17.794Z"
+    "roubadaEm": "2026-08-09T21:23:17.027Z"
   },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
@@ -306,9 +306,9 @@
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:19|09/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-09T18:10:27.347Z"
   },
   "YANINHA_ANTIFALSOS": {

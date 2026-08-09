@@ -146,8 +146,8 @@
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",
     "nome": "Fazendinha BeTreZe 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:14|09/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-09T21:02:13.187Z"
   },
@@ -322,10 +322,10 @@
   "~E V O M~": {
     "idNumerico": "25",
     "nome": "~E V O M~",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:22|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T13:40:41.656Z"
+    "roubadaEm": "2026-08-09T22:22:34.464Z"
   },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",

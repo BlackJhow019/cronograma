@@ -50,10 +50,10 @@
   "FARM DO GALO": {
     "idNumerico": "40",
     "nome": "FARM DO GALO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:29|09/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T02:58:47.429Z"
+    "roubadaEm": "2026-08-09T08:12:27.044Z"
   },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",

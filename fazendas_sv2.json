@@ -82,8 +82,8 @@
   "AURA + EGO": {
     "idNumerico": "22",
     "nome": "Aura + Ego",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:47|09/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-09T13:20:21.251Z"
   },
@@ -107,7 +107,7 @@
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
     "status": "INDISPONIVEL",
-    "disponivelEm": "11:51|09/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-09T12:40:24.388Z"
   },
@@ -252,7 +252,7 @@
     "nome": "RAMONZIN_FRANCA",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:33|09/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-09T14:27:00.521Z"
   },
   "AMO O LOWER": {

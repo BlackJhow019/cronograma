@@ -180,7 +180,7 @@
     "nome": "Norex farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:23|09/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-09T21:23:01.909Z"
   },
   "JAH RASTAFARI": {
@@ -234,10 +234,10 @@
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:37|09/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T16:11:17.901Z"
+    "roubadaEm": "2026-08-09T21:37:29.703Z"
   },
   "ROUBO OFF": {
     "idNumerico": "7",

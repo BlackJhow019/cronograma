@@ -95,21 +95,13 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-09T18:24:04.352Z"
   },
-  "VALE DAS SOMBRAS": {
-    "idNumerico": "24",
-    "nome": "Vale das Sombras",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:32|09/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T20:02:20.300Z"
-  },
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:46|09/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T18:09:40.733Z"
+    "roubadaEm": "2026-08-09T23:35:13.914Z"
   },
   "ARIANA_B13": {
     "idNumerico": "10",
@@ -308,7 +300,7 @@
     "nome": "JESUS EA SOLUCAO",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:37|09/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-09T23:28:14.634Z"
   },
   "YANINHA_ANTIFALSOS": {

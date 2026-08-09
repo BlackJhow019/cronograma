@@ -76,7 +76,7 @@
     "nome": "Farma Da Familia Elite",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:36|09/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-09T16:43:56.577Z"
   },
   "AURA + EGO": {
@@ -99,7 +99,7 @@
     "idNumerico": "24",
     "nome": "Vale das Sombras",
     "status": "INDISPONIVEL",
-    "disponivelEm": "13:50|09/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-09T13:20:50.563Z"
   },
@@ -122,9 +122,9 @@
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:46|09/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-09T15:30:26.292Z"
   },
   "SE ROUBAR MORRE": {
@@ -194,10 +194,10 @@
   "ROCK FARM": {
     "idNumerico": "11",
     "nome": "RocK Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:12|09/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T10:15:43.941Z"
+    "roubadaEm": "2026-08-09T16:51:16.725Z"
   },
   "FARM DA THATY": {
     "idNumerico": "1",

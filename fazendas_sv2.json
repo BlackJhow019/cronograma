@@ -330,10 +330,10 @@
   "~E V O M~": {
     "idNumerico": "25",
     "nome": "~E V O M~",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:40|09/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T02:56:16.899Z"
+    "roubadaEm": "2026-08-09T13:40:41.656Z"
   },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",

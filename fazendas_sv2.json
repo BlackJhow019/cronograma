@@ -82,10 +82,10 @@
   "AURA + EGO": {
     "idNumerico": "22",
     "nome": "Aura + Ego",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:05|09/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T13:20:21.251Z"
+    "roubadaEm": "2026-08-09T20:37:55.350Z"
   },
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
@@ -188,7 +188,7 @@
     "nome": "CANNABIS",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:21|09/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-09T20:32:54.587Z"
   },
   "ROCK FARM": {
@@ -214,14 +214,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-09T18:12:52.901Z"
-  },
-  "FAZENDA DO GALIN": {
-    "idNumerico": "15",
-    "nome": "Fazenda do Galin",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:36|09/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T18:16:50.646Z"
   },
   "@FILH_ODOPAII": {
     "idNumerico": "12",

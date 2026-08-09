@@ -74,10 +74,10 @@
   "TREMBALA": {
     "idNumerico": "42",
     "nome": "TremBala",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:46|09/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-08T21:29:48.111Z"
+    "roubadaEm": "2026-08-09T02:41:26.196Z"
   },
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
@@ -122,9 +122,9 @@
   "ARIANA_B13": {
     "idNumerico": "10",
     "nome": "Ariana_B13",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:33|08/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-09T00:36:08.521Z"
   },
   "FRANCA": {
@@ -198,14 +198,6 @@
     "disponivelEm": "00:58|09/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-09T01:09:34.676Z"
-  },
-  "ROCK FARM": {
-    "idNumerico": "11",
-    "nome": "RocK Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:38|08/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T01:17:37.497Z"
   },
   "FARM DA THATY": {
     "idNumerico": "1",

@@ -1,12 +1,4 @@
 {
-  "RICO LOUCO": {
-    "idNumerico": "11",
-    "nome": "rico louco",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:38|09/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-09T05:38:30.174Z"
-  },
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
@@ -90,10 +82,10 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:39|09/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T04:24:16.005Z"
+    "roubadaEm": "2026-08-09T10:39:08.608Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",

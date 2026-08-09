@@ -74,9 +74,9 @@
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
     "nome": "Farma Da Familia Elite",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:36|09/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-09T16:43:56.577Z"
   },
   "AURA + EGO": {
@@ -266,8 +266,8 @@
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
     "nome": "YellowStone - By Monster",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:36|09/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-09T16:42:35.086Z"
   },
@@ -278,14 +278,6 @@
     "disponivelEm": "16:16|09/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-09T14:16:15.201Z"
-  },
-  "/VENDERPRODUTOS": {
-    "idNumerico": "7",
-    "nome": "/VENDERPRODUTOS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:44|09/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-09T13:44:41.800Z"
   },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
@@ -322,8 +314,8 @@
   "~E V O M~": {
     "idNumerico": "25",
     "nome": "~E V O M~",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:40|09/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-09T13:40:41.656Z"
   },

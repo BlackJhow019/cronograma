@@ -2,9 +2,9 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:27|09/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-09T00:27:37.591Z"
   },
   "KODIAK": {
@@ -140,7 +140,7 @@
     "nome": "YT @GANDIA_RP",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:14|09/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-09T05:14:41.505Z"
   },
   "021": {
@@ -218,10 +218,10 @@
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:34|09/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-08T23:30:11.830Z"
+    "roubadaEm": "2026-08-09T05:34:15.834Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",
@@ -252,7 +252,7 @@
     "nome": "Rancho do Doutor",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:11|09/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-09T05:11:39.209Z"
   },
   "WORK INDUSTRIA'S LIMITED": {

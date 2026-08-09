@@ -138,10 +138,10 @@
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",
     "nome": "Fazenda Rei Drogado",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:39|09/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T08:21:31.324Z"
+    "roubadaEm": "2026-08-09T16:04:28.760Z"
   },
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",

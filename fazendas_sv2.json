@@ -71,14 +71,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-09T21:31:17.199Z"
   },
-  "FARMA DA FAMILIA ELITE": {
-    "idNumerico": "33",
-    "nome": "Farma Da Familia Elite",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:45|09/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T21:52:54.412Z"
-  },
   "AURA + EGO": {
     "idNumerico": "22",
     "nome": "Aura + Ego",
@@ -178,10 +170,10 @@
   "AWAKE COMPANY": {
     "idNumerico": "13",
     "nome": "AwaKe Company",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:29|09/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T17:45:51.884Z"
+    "roubadaEm": "2026-08-09T23:50:00.511Z"
   },
   "CANNABIS": {
     "idNumerico": "8",
@@ -284,7 +276,7 @@
     "nome": "/VENDERPRODUTOS",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:38|10/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-09T23:38:53.564Z"
   },
   "LA FAMILIA CHIARADIA": {

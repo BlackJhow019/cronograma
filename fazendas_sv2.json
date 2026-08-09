@@ -66,10 +66,10 @@
   "TREMBALA": {
     "idNumerico": "42",
     "nome": "TremBala",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:17|09/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T02:45:46.874Z"
+    "roubadaEm": "2026-08-09T10:13:13.894Z"
   },
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
@@ -122,8 +122,8 @@
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:59|09/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-09T08:43:03.189Z"
   },

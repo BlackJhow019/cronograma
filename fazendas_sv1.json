@@ -10,10 +10,10 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:46|09/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-08T20:54:01.360Z"
+    "roubadaEm": "2026-08-09T02:46:43.966Z"
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -84,7 +84,7 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:45|09/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-09T02:45:23.211Z"
   },
   "AZEROX": {

@@ -258,9 +258,9 @@
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-09T22:42:59.604Z"
   },
   "YELLOWSTONE - BY MONSTER": {
@@ -306,10 +306,10 @@
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:37|09/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T18:10:27.347Z"
+    "roubadaEm": "2026-08-09T23:28:14.634Z"
   },
   "YANINHA_ANTIFALSOS": {
     "idNumerico": "34",

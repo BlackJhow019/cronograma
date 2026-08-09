@@ -194,10 +194,10 @@
   "ROCK FARM": {
     "idNumerico": "11",
     "nome": "RocK Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:17|09/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T16:51:16.725Z"
+    "roubadaEm": "2026-08-09T22:56:27.455Z"
   },
   "FARM DA THATY": {
     "idNumerico": "1",
@@ -260,7 +260,7 @@
     "nome": "Amo o Lower",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:23|09/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-09T22:42:59.604Z"
   },
   "YELLOWSTONE - BY MONSTER": {

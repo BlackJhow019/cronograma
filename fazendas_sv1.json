@@ -31,6 +31,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-09T01:59:01.031Z"
   },
+  "BORRACHAS FARM": {
+    "idNumerico": "33",
+    "nome": "Borrachas Farm",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-09T13:41:58.900Z"
+  },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
     "nome": "Wesker_u$MeTraLha",
@@ -154,7 +162,7 @@
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-09T13:43:53.873Z"
@@ -198,14 +206,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-09T06:47:27.455Z"
-  },
-  "FAZENDA FELIZ": {
-    "idNumerico": "22",
-    "nome": "fazenda feliz",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:44|09/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-09T13:44:58.051Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",
@@ -316,7 +316,7 @@
     "nome": "CdM Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:44|09/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-09T18:44:01.997Z"
   },
   "FAZENDADO 171": {

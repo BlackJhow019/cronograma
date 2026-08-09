@@ -7,14 +7,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-09T00:27:37.591Z"
   },
-  "KODIAK": {
-    "idNumerico": "3",
-    "nome": "KodiaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:54|08/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-08T20:54:01.360Z"
-  },
   "NIKE SHOX": {
     "idNumerico": "42",
     "nome": "NIKE SHOX",
@@ -70,14 +62,6 @@
     "disponivelEm": "02:49|09/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-09T00:49:06.931Z"
-  },
-  "FAZENDA DA MILLY": {
-    "idNumerico": "19",
-    "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:53|08/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-08T20:53:46.672Z"
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
@@ -226,10 +210,10 @@
   "K1NG FARM'S": {
     "idNumerico": "25",
     "nome": "K1NG Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:54|09/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-08T19:38:16.457Z"
+    "roubadaEm": "2026-08-09T01:54:55.911Z"
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",

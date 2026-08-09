@@ -274,10 +274,10 @@
   "WELCOME > MELHOR FAZENDA DO BPS": {
     "idNumerico": "37",
     "nome": "WELCOME > MELHOR FAZENDA DO BPS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:42|09/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T14:16:15.201Z"
+    "roubadaEm": "2026-08-09T19:42:47.600Z"
   },
   "/VENDERPRODUTOS": {
     "idNumerico": "7",

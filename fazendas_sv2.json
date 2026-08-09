@@ -130,10 +130,10 @@
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:05|09/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T04:16:38.229Z"
+    "roubadaEm": "2026-08-09T13:05:38.136Z"
   },
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",
@@ -254,14 +254,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-09T09:12:43.397Z"
-  },
-  "AMO O LOWER": {
-    "idNumerico": "2",
-    "nome": "Amo o Lower",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:03|09/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T12:22:14.008Z"
   },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",

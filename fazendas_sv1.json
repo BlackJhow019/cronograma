@@ -154,9 +154,9 @@
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:54|09/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-09T12:54:49.962Z"
   },
   "FAZENDINHA DO IGEZE": {
@@ -182,14 +182,6 @@
     "disponivelEm": "15:48|09/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-09T13:48:22.081Z"
-  },
-  "JAH RASTAFARI": {
-    "idNumerico": "39",
-    "nome": "JAH RASTAFARI",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:57|09/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-09T12:57:28.058Z"
   },
   ".": {
     "idNumerico": "31",
@@ -314,8 +306,8 @@
   "RICK FARM'S": {
     "idNumerico": "40",
     "nome": "Rick Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:54|09/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-09T16:21:50.060Z"
   },

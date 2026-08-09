@@ -52,7 +52,7 @@
     "nome": "< GAUBRE LTDA >",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:24|09/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-09T15:42:27.732Z"
   },
   "VENDO 500KM ACEITO TROCAS": {
@@ -86,6 +86,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-09T02:45:23.211Z"
+  },
+  "AZEROX": {
+    "idNumerico": "23",
+    "nome": "AzeRoX",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-09T10:40:35.642Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",

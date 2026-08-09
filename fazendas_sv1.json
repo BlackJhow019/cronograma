@@ -122,10 +122,10 @@
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:51|09/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T14:33:47.322Z"
+    "roubadaEm": "2026-08-09T19:51:42.727Z"
   },
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
@@ -139,7 +139,7 @@
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:53|09/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-09T14:53:39.426Z"
   },

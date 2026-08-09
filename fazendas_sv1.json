@@ -146,10 +146,10 @@
   "021": {
     "idNumerico": "1",
     "nome": "021",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:08|09/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T16:01:15.961Z"
+    "roubadaEm": "2026-08-09T21:08:02.119Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",

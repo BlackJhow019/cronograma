@@ -215,14 +215,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-09T19:28:25.603Z"
   },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:13|09/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-09T16:13:37.157Z"
-  },
   "K1NG FARM'S": {
     "idNumerico": "25",
     "nome": "K1NG Farm's",
@@ -230,14 +222,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-09T10:22:54.302Z"
-  },
-  "PREFEITO ROADBLOCK": {
-    "idNumerico": "41",
-    "nome": "Prefeito Roadblock",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:11|09/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T16:11:17.901Z"
   },
   "ROUBO OFF": {
     "idNumerico": "7",
@@ -306,10 +290,10 @@
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:14|09/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T15:49:18.039Z"
+    "roubadaEm": "2026-08-09T21:14:06.007Z"
   },
   "RICK FARM'S": {
     "idNumerico": "40",

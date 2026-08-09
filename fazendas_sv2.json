@@ -50,8 +50,8 @@
   "FARM DO GALO": {
     "idNumerico": "40",
     "nome": "FARM DO GALO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:15|09/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-09T02:58:47.429Z"
   },
@@ -228,7 +228,7 @@
     "nome": "@filh_odopaii",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:52|09/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-09T06:15:38.907Z"
   },
   "$ COMPANY $R.RC_PLINIODMG $": {

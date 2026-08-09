@@ -146,10 +146,10 @@
   "021": {
     "idNumerico": "1",
     "nome": "021",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:01|09/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T06:14:26.573Z"
+    "roubadaEm": "2026-08-09T16:01:15.961Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
@@ -214,14 +214,6 @@
     "disponivelEm": "15:44|09/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-09T13:44:58.051Z"
-  },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:59|09/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-09T10:59:16.053Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",
@@ -308,7 +300,7 @@
     "nome": "Penoso Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:49|09/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-09T15:49:18.039Z"
   },
   "RICK FARM'S": {

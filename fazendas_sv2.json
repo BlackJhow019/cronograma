@@ -106,10 +106,10 @@
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:51|09/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-08T22:37:09.843Z"
+    "roubadaEm": "2026-08-09T12:40:02.243Z"
   },
   "ARIANA_B13": {
     "idNumerico": "10",
@@ -180,7 +180,7 @@
     "nome": "AwaKe Company",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:10|09/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-09T12:31:17.599Z"
   },
   "CANNABIS": {
@@ -244,7 +244,7 @@
     "nome": "ta no grali",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:09|09/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-09T12:33:25.937Z"
   },
   "RAMONZIN_FRANCA": {

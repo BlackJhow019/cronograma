@@ -98,8 +98,8 @@
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
     "nome": "Farms de Galopisitas",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:58|08/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-08T21:15:54.686Z"
   },
@@ -210,10 +210,10 @@
   "FARM DA THATY": {
     "idNumerico": "1",
     "nome": "Farm da Thaty",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:05|08/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-08T19:16:43.288Z"
+    "roubadaEm": "2026-08-09T00:26:04.954Z"
   },
   "AMO A MAZZI": {
     "idNumerico": "6",

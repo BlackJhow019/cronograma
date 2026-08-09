@@ -106,10 +106,10 @@
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:20|09/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T12:40:24.388Z"
+    "roubadaEm": "2026-08-09T18:09:08.169Z"
   },
   "ARIANA_B13": {
     "idNumerico": "10",
@@ -126,14 +126,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-09T15:30:26.292Z"
-  },
-  "SE ROUBAR MORRE": {
-    "idNumerico": "41",
-    "nome": "SE ROUBAR MORRE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:05|09/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-09T13:06:06.686Z"
   },
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",
@@ -258,8 +250,8 @@
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:06|09/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-09T17:25:17.338Z"
   },

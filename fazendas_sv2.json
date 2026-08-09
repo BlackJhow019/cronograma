@@ -172,7 +172,7 @@
     "nome": "FARM'S NAY E NICK",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:02|09/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-09T20:56:10.778Z"
   },
   "AWAKE COMPANY": {
@@ -198,14 +198,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-09T16:51:16.725Z"
-  },
-  "FARM DA THATY": {
-    "idNumerico": "1",
-    "nome": "Farm da Thaty",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:56|09/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T19:17:04.452Z"
   },
   "MALVADA'S FARM": {
     "idNumerico": "32",
@@ -234,10 +226,10 @@
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",
     "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:59|09/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T12:02:40.829Z"
+    "roubadaEm": "2026-08-09T20:59:03.731Z"
   },
   "TA NO GRALI": {
     "idNumerico": "4",

@@ -154,10 +154,10 @@
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:32|09/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-08T21:37:55.574Z"
+    "roubadaEm": "2026-08-09T04:32:32.608Z"
   },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
@@ -214,14 +214,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-08T21:28:49.115Z"
-  },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:30|09/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-08T23:30:11.830Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",

@@ -36,7 +36,7 @@
     "nome": "Borrachas Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:41|09/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-09T13:41:58.900Z"
   },
   "WESKER_U$METRALHA": {
@@ -212,7 +212,7 @@
     "nome": "fazenda feliz",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:45|09/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-09T13:45:16.884Z"
   },
   "OS DE RACA": {
@@ -266,10 +266,10 @@
   "..OURO..PR3TO..": {
     "idNumerico": "5",
     "nome": "..OURO..PR3TO..",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:47|09/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-08T15:50:14.468Z"
+    "roubadaEm": "2026-08-09T13:47:56.225Z"
   },
   "DM2 FARM": {
     "idNumerico": "6",
@@ -278,14 +278,6 @@
     "disponivelEm": "14:32|09/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-09T12:32:06.859Z"
-  },
-  "SAO PEDRO 2": {
-    "idNumerico": "43",
-    "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:46|09/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-09T08:47:18.538Z"
   },
   "THUG LIFE": {
     "idNumerico": "21",
@@ -324,7 +316,7 @@
     "nome": "CdM Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:41|09/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-09T13:41:03.383Z"
   },
   "FAZENDADO 171": {

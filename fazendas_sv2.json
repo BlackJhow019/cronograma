@@ -92,7 +92,7 @@
     "nome": "Farms de Galopisitas",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:54|09/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-09T13:12:00.170Z"
   },
   "VALE DAS SOMBRAS": {
@@ -114,10 +114,10 @@
   "ARIANA_B13": {
     "idNumerico": "10",
     "nome": "Ariana_B13",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:12|09/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T05:55:06.738Z"
+    "roubadaEm": "2026-08-09T13:15:24.903Z"
   },
   "FRANCA": {
     "idNumerico": "28",
@@ -156,7 +156,7 @@
     "nome": "B13 :)",
     "status": "INDISPONIVEL",
     "disponivelEm": "11:20|09/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-09T13:10:53.409Z"
   },
   "GRUPO RANTER": {

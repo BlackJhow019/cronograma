@@ -39,14 +39,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-09T22:32:27.475Z"
   },
-  "FARM DO GALO": {
-    "idNumerico": "40",
-    "nome": "FARM DO GALO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:53|10/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T15:36:02.335Z"
-  },
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
     "nome": "Farma Da Familia Elite",
@@ -224,12 +216,12 @@
     "roubadaEm": null
   },
   "RICK FARM'S": {
-    "idNumerico": "9",
+    "idNumerico": "40",
     "nome": "Rick Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:53|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T14:30:22.729Z"
+    "roubadaEm": "2026-08-10T15:36:02.335Z"
   },
   "30PRAUM": {
     "idNumerico": "16",
@@ -357,6 +349,6 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "16:43|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T16:34:17.214Z"
+    "roubadaEm": "2026-08-10T16:34:39.590Z"
   }
 }

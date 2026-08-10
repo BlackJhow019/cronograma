@@ -74,10 +74,10 @@
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
     "nome": "Farms de Galopisitas",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:51|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T05:23:39.152Z"
+    "roubadaEm": "2026-08-10T13:08:52.829Z"
   },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
@@ -126,14 +126,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-09T21:13:41.506Z"
-  },
-  "B13 :)": {
-    "idNumerico": "23",
-    "nome": "B13 :)",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:07|10/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-10T11:58:35.745Z"
   },
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
@@ -218,9 +210,9 @@
   "< GAUBRE LTDA >": {
     "idNumerico": "35",
     "nome": "< GAUBRE LTDA >",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:06|10/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-10T10:22:31.398Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
@@ -287,38 +279,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T12:48:21.007Z"
   },
-  "YELLOWSTONE - BY MONSTER": {
-    "idNumerico": "16",
-    "nome": "YellowStone - By Monster",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:12|10/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T11:39:29.877Z"
-  },
-  "MALVADA'S FARM": {
-    "idNumerico": "32",
-    "nome": "Malvada's Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:46|10/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T11:50:00.661Z"
-  },
-  "FARM DA THATY": {
-    "idNumerico": "1",
-    "nome": "Farm da Thaty",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T11:03:01.727Z"
-  },
-  "FAZENDA DA MILLY": {
-    "idNumerico": "19",
-    "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:26|10/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T11:10:00.279Z"
-  },
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",
     "nome": "$ Company $r.RC_PlinioDmG $",
@@ -326,22 +286,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
-  },
-  "CLUBE DA LULUZINHA": {
-    "idNumerico": "8",
-    "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T10:41:44.024Z"
-  },
-  "TREMBALA": {
-    "idNumerico": "42",
-    "nome": "TremBala",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:30|10/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T12:30:25.704Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -351,12 +295,68 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T09:31:07.917Z"
   },
-  "AWAKE COMPANY": {
+  "NIKE SHOX": {
+    "idNumerico": "42",
+    "nome": "NIKE SHOX",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:30|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T12:30:25.704Z"
+  },
+  "YELLOWSTONE - BY MONSTER": {
+    "idNumerico": "16",
+    "nome": "YellowStone - By Monster",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:12|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T11:39:29.877Z"
+  },
+  "NOREX FARM'S": {
     "idNumerico": "13",
-    "nome": "AwaKe Company",
+    "nome": "Norex farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "11:37|10/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-10T12:19:50.249Z"
+  },
+  "MALVADA'S FARM": {
+    "idNumerico": "32",
+    "nome": "Malvada's Farm",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:46|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T11:50:00.661Z"
+  },
+  "GRUPO RANTER": {
+    "idNumerico": "19",
+    "nome": "GRUPO RANTER",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:26|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T11:10:00.279Z"
+  },
+  "021": {
+    "idNumerico": "1",
+    "nome": "021",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T11:03:01.727Z"
+  },
+  "CANNABIS": {
+    "idNumerico": "8",
+    "nome": "CANNABIS",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T10:41:44.024Z"
+  },
+  "AZEROX": {
+    "idNumerico": "23",
+    "nome": "AzeRoX",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
   }
 }

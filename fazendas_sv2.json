@@ -194,10 +194,10 @@
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
     "nome": "YellowStone - By Monster",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:26|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T21:41:39.855Z"
+    "roubadaEm": "2026-08-10T11:32:47.823Z"
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {
     "idNumerico": "37",
@@ -324,7 +324,7 @@
     "nome": "Norex farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:29|10/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-10T11:29:18.130Z"
   },
   "FARM DA THATY": {

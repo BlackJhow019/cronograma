@@ -178,8 +178,8 @@
   "AWAKE COMPANY": {
     "idNumerico": "13",
     "nome": "AwaKe Company",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:29|09/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-09T23:50:00.511Z"
   },
@@ -234,10 +234,10 @@
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",
     "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:35|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T20:59:22.224Z"
+    "roubadaEm": "2026-08-10T02:35:45.763Z"
   },
   "TA NO GRALI": {
     "idNumerico": "4",
@@ -334,14 +334,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-09T05:44:17.423Z"
-  },
-  "SITIO DO JN": {
-    "idNumerico": "6",
-    "nome": "Sitio do jn",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:32|09/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-09T21:32:37.786Z"
   },
   "CHAMA A POLICIA": {
     "idNumerico": "44",

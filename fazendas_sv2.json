@@ -223,14 +223,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-10T21:43:44.746Z"
   },
-  "FAZENDA DO GALIN": {
-    "idNumerico": "15",
-    "nome": "Fazenda do Galin",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T15:48:00.284Z"
-  },
   "021": {
     "idNumerico": "1",
     "nome": "021",
@@ -358,5 +350,13 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
+  },
+  "YT @GANDIA_RP": {
+    "idNumerico": "15",
+    "nome": "YT @GANDIA_RP",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:49|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T23:40:41.102Z"
   }
 }

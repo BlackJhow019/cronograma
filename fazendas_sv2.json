@@ -26,18 +26,10 @@
   "QG FARM KHAOS": {
     "idNumerico": "18",
     "nome": "QG FARM KHAOS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:50|10/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T16:50:44.493Z"
-  },
-  "DONA SEM RAZAO": {
-    "idNumerico": "26",
-    "nome": "Dona sem razao",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T22:32:27.475Z"
+    "roubadaEm": "2026-08-10T16:50:44.493Z"
   },
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
@@ -279,9 +271,33 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T13:28:17.716Z"
   },
+  "POLEMICO$ INDUSTRI$": {
+    "idNumerico": "37",
+    "nome": "PoLeMiCo$ industri$",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:53|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T21:47:40.774Z"
+  },
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "PENOSO FARM'S": {
+    "idNumerico": "10",
+    "nome": "Penoso Farm's",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T18:50:37.630Z"
+  },
+  "MALVADA'S FARM": {
+    "idNumerico": "32",
+    "nome": "Malvada's Farm",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
@@ -303,6 +319,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-10T21:45:53.207Z"
   },
+  "RAFHA INVESTIMENTOS $": {
+    "idNumerico": "26",
+    "nome": "Rafha investimentos $",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-09T22:32:27.475Z"
+  },
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
@@ -310,6 +334,14 @@
     "disponivelEm": "21:52|10/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-10T21:43:44.746Z"
+  },
+  "FAZENDADO 171": {
+    "idNumerico": "12",
+    "nome": "fazendado 171",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:24|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T21:48:06.821Z"
   },
   "AZEROX": {
     "idNumerico": "23",
@@ -326,37 +358,5 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T18:55:17.283Z"
-  },
-  "WELCOME > MELHOR FAZENDA DO BPS": {
-    "idNumerico": "37",
-    "nome": "WELCOME > MELHOR FAZENDA DO BPS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:53|10/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T21:47:40.774Z"
-  },
-  "ARIANA_B13": {
-    "idNumerico": "10",
-    "nome": "Ariana_B13",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T18:50:37.630Z"
-  },
-  "FAMILIA ALMANAK": {
-    "idNumerico": "32",
-    "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "@FILH_ODOPAII": {
-    "idNumerico": "12",
-    "nome": "@filh_odopaii",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:24|10/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T21:48:06.821Z"
   }
 }

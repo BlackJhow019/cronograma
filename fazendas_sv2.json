@@ -303,14 +303,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T02:06:12.056Z"
   },
-  "CLUBE DA LULUZINHA": {
-    "idNumerico": "8",
-    "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:57|10/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T09:53:53.396Z"
-  },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
@@ -351,12 +343,20 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T09:31:07.917Z"
   },
-  "CHAMA A POLICIA": {
+  "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
-    "nome": "CHAMA A POLICIA",
+    "nome": "Quem Roubar e Petista",
     "status": "INDISPONIVEL",
     "disponivelEm": "09:02|10/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-10T10:34:04.231Z"
+  },
+  "CANNABIS": {
+    "idNumerico": "8",
+    "nome": "CANNABIS",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:58|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T10:40:33.068Z"
   }
 }

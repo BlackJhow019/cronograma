@@ -58,8 +58,8 @@
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:40|09/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-09T22:34:30.263Z"
   },
@@ -274,8 +274,8 @@
   "WELCOME > MELHOR FAZENDA DO BPS": {
     "idNumerico": "37",
     "nome": "WELCOME > MELHOR FAZENDA DO BPS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:42|09/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-09T19:42:47.513Z"
   },

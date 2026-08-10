@@ -109,7 +109,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "21:04|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T19:04:05.378Z"
+    "roubadaEm": "2026-08-10T19:04:37.936Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",
@@ -126,14 +126,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T10:34:04.231Z"
-  },
-  "FAZENDINHA DO IGEZE": {
-    "idNumerico": "36",
-    "nome": "fazendinha do igeze",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T14:29:01.643Z"
   },
   "AWAKE COMPANY": {
     "idNumerico": "13",
@@ -319,33 +311,41 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T18:36:58.789Z"
   },
-  "30PRAUM": {
-    "idNumerico": "16",
-    "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:28|10/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-10T18:14:57.193Z"
-  },
-  "NIKE SHOX": {
+  "TREMBALA": {
     "idNumerico": "42",
-    "nome": "NIKE SHOX",
+    "nome": "TremBala",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:17|10/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T16:53:29.103Z"
   },
-  "RICO LOUCO": {
+  "FAZENDA DO MIRIM": {
+    "idNumerico": "36",
+    "nome": "Fazenda Do MIRIM",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T14:29:01.643Z"
+  },
+  "YELLOWSTONE - BY MONSTER": {
+    "idNumerico": "16",
+    "nome": "YellowStone - By Monster",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:28|10/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-10T18:14:57.193Z"
+  },
+  "ROCK FARM": {
     "idNumerico": "11",
-    "nome": "rico louco",
+    "nome": "RocK Farm",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "TA NO GRALI": {
+  "FARM'S DE CAFE": {
     "idNumerico": "4",
-    "nome": "ta no grali",
+    "nome": "Farm's de Cafe",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:22|10/08/2026",
     "cofreConsertado": true,

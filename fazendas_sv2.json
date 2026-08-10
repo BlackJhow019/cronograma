@@ -215,22 +215,6 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "RICK FARM'S": {
-    "idNumerico": "40",
-    "nome": "Rick Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:53|10/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T15:36:02.335Z"
-  },
-  "30PRAUM": {
-    "idNumerico": "16",
-    "nome": "30PRAUM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T11:39:29.877Z"
-  },
   "PEDRO FARM'S": {
     "idNumerico": "21",
     "nome": "PedrO farm's",
@@ -295,13 +279,13 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T16:30:58.645Z"
   },
-  "SAO PEDRO 2": {
-    "idNumerico": "43",
-    "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
+  "PENOSO FARM'S": {
+    "idNumerico": "10",
+    "nome": "Penoso Farm's",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:04|10/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-10T14:52:05.941Z"
   },
   "FAZENDA DO GALIN": {
     "idNumerico": "15",
@@ -311,6 +295,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T15:48:00.284Z"
   },
+  "FARM DO GALO": {
+    "idNumerico": "40",
+    "nome": "FARM DO GALO",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:53|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T15:36:02.335Z"
+  },
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
@@ -318,14 +310,6 @@
     "disponivelEm": "18:28|10/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T16:28:18.553Z"
-  },
-  "PENOSO FARM'S": {
-    "idNumerico": "10",
-    "nome": "Penoso Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:04|10/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-10T14:52:05.941Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
@@ -335,6 +319,22 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T16:08:14.041Z"
   },
+  "RICK FARM'S": {
+    "idNumerico": "9",
+    "nome": "Rick Farm's",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "SAO PEDRO 2": {
+    "idNumerico": "43",
+    "nome": "SAO PEDRO 2",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
   "FARME DO DRAKE": {
     "idNumerico": "35",
     "nome": "Farme do Drake",
@@ -343,12 +343,20 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T10:22:31.398Z"
   },
-  "JESUS EA SOLUCAO": {
+  "OS DE RACA": {
     "idNumerico": "0",
-    "nome": "JESUS EA SOLUCAO",
+    "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:44|10/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-10T16:35:01.403Z"
+  },
+  "YELLOWSTONE - BY MONSTER": {
+    "idNumerico": "16",
+    "nome": "YellowStone - By Monster",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:34|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T16:40:25.869Z"
   }
 }

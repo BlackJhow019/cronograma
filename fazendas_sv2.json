@@ -87,21 +87,13 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-10T13:29:53.679Z"
   },
-  "FRANCA": {
-    "idNumerico": "28",
-    "nome": "FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T10:46:37.912Z"
-  },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:47|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T01:00:53.985Z"
+    "roubadaEm": "2026-08-10T14:47:33.487Z"
   },
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",
@@ -335,6 +327,22 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T11:39:29.877Z"
   },
+  "WESKER_U$METRALHA": {
+    "idNumerico": "28",
+    "nome": "Wesker_u$MeTraLha",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T10:46:37.912Z"
+  },
+  "SAO PEDRO 2": {
+    "idNumerico": "43",
+    "nome": "SAO PEDRO 2",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:31|10/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-10T14:43:33.262Z"
+  },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
@@ -342,14 +350,6 @@
     "disponivelEm": "12:22|10/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T14:03:24.809Z"
-  },
-  "LA FAMILIA CHIARADIA": {
-    "idNumerico": "43",
-    "nome": "LA FAMILIA CHIARADIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:31|10/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-10T14:43:33.262Z"
   },
   "B13 :)": {
     "idNumerico": "23",

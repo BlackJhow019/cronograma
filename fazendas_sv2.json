@@ -210,10 +210,10 @@
   "MALVADA'S FARM": {
     "idNumerico": "32",
     "nome": "Malvada's Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:10|09/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T18:12:52.901Z"
+    "roubadaEm": "2026-08-10T00:51:49.690Z"
   },
   "FAZENDA DO GALIN": {
     "idNumerico": "15",

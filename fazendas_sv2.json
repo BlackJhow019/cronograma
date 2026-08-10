@@ -138,10 +138,10 @@
   "B13 :)": {
     "idNumerico": "23",
     "nome": "B13 :)",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:07|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T18:30:03.652Z"
+    "roubadaEm": "2026-08-10T11:58:15.117Z"
   },
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
@@ -172,7 +172,7 @@
     "nome": "RAMONZIN_FRANCA",
     "status": "INDISPONIVEL",
     "disponivelEm": "10:53|10/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-10T11:47:23.247Z"
   },
   "AMO O LOWER": {
@@ -230,14 +230,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-09T22:22:34.391Z"
-  },
-  "SUCCUBUS FARMS": {
-    "idNumerico": "29",
-    "nome": "Succubus Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T05:44:17.423Z"
   },
   "SITIO DO JN": {
     "idNumerico": "6",
@@ -311,13 +303,13 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-10T11:29:18.130Z"
   },
-  "$ COMPANY $R.RC_PLINIODMG $": {
-    "idNumerico": "3",
-    "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+  "GRANJA DO IMONKEY": {
+    "idNumerico": "29",
+    "nome": "Granja do iMonKeY",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:55|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-08-10T11:55:09.895Z"
   },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
@@ -326,6 +318,14 @@
     "disponivelEm": "11:12|10/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T11:39:29.877Z"
+  },
+  "MALVADA'S FARM": {
+    "idNumerico": "32",
+    "nome": "Malvada's Farm",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:46|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T11:50:00.661Z"
   },
   "FARM DA THATY": {
     "idNumerico": "1",
@@ -343,6 +343,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T11:10:00.279Z"
   },
+  "$ COMPANY $R.RC_PLINIODMG $": {
+    "idNumerico": "3",
+    "nome": "$ Company $r.RC_PlinioDmG $",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
@@ -350,13 +358,5 @@
     "disponivelEm": "10:00|10/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-10T10:41:44.024Z"
-  },
-  "FAMILIA ALMANAK": {
-    "idNumerico": "32",
-    "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:46|10/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T11:50:00.661Z"
   }
 }

@@ -83,7 +83,7 @@
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
     "status": "INDISPONIVEL",
-    "disponivelEm": "17:42|10/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T18:36:03.217Z"
   },
@@ -218,10 +218,10 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:02|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T14:03:24.809Z"
+    "roubadaEm": "2026-08-10T20:42:44.911Z"
   },
   "FARME DO DRAKE": {
     "idNumerico": "35",

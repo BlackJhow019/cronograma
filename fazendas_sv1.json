@@ -146,10 +146,10 @@
   "021": {
     "idNumerico": "1",
     "nome": "021",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:02|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T02:25:09.825Z"
+    "roubadaEm": "2026-08-10T11:02:22.496Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
@@ -260,7 +260,7 @@
     "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:27|10/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-10T10:27:01.200Z"
   },
   "..OURO..PR3TO..": {

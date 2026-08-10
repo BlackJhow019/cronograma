@@ -162,10 +162,10 @@
   "GRUPO RANTER": {
     "idNumerico": "19",
     "nome": "GRUPO RANTER",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:20|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T13:19:15.538Z"
+    "roubadaEm": "2026-08-10T00:30:43.123Z"
   },
   "FARM'S NAY E NICK": {
     "idNumerico": "5",

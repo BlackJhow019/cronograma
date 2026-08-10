@@ -42,8 +42,8 @@
   "DONA SEM RAZAO": {
     "idNumerico": "26",
     "nome": "Dona sem razao",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:25|09/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-09T22:32:27.475Z"
   },
@@ -148,7 +148,7 @@
     "nome": "Fazendinha BeTreZe 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:36|10/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-10T02:24:37.188Z"
   },
   "B13 :)": {

@@ -202,10 +202,10 @@
   "FARM DA THATY": {
     "idNumerico": "1",
     "nome": "Farm da Thaty",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:11|09/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T19:17:04.452Z"
+    "roubadaEm": "2026-08-10T00:31:47.179Z"
   },
   "MALVADA'S FARM": {
     "idNumerico": "32",

@@ -58,10 +58,10 @@
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
     "nome": "Vale das Sombras",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:29|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T13:16:14.876Z"
+    "roubadaEm": "2026-08-10T20:59:51.721Z"
   },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
@@ -326,14 +326,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T15:24:38.993Z"
-  },
-  "AZEROX": {
-    "idNumerico": "23",
-    "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:58|10/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-10T19:49:44.853Z"
   },
   "AURA + EGO": {
     "idNumerico": "22",

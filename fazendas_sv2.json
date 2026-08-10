@@ -26,10 +26,10 @@
   "QG FARM KHAOS": {
     "idNumerico": "18",
     "nome": "QG FARM KHAOS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:55|11/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T16:50:44.493Z"
+    "roubadaEm": "2026-08-10T22:55:06.502Z"
   },
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
@@ -303,9 +303,17 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "ROLINHA CANSADA FARMS": {
+  "FAZENDINHA DO IGEZE": {
+    "idNumerico": "36",
+    "nome": "fazendinha do igeze",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T19:05:45.104Z"
+  },
+  "RANCHO DO DOUTOR": {
     "idNumerico": "14",
-    "nome": "Rolinha Cansada Farms",
+    "nome": "Rancho do Doutor",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:05|11/08/2026",
     "cofreConsertado": false,
@@ -350,13 +358,5 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
-  },
-  "FAZENDINHA DO IGEZE": {
-    "idNumerico": "36",
-    "nome": "fazendinha do igeze",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T19:05:45.104Z"
   }
 }

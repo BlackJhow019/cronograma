@@ -7,6 +7,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T12:27:37.438Z"
   },
+  "FAZENDA DO TEMOR": {
+    "idNumerico": "30",
+    "nome": "Fazenda do Temor",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T11:50:56.518Z"
+  },
   "FAZENDA CUIUDA - BY GAZOLA": {
     "idNumerico": "17",
     "nome": "Fazenda Cuiuda - By GAZOLA",
@@ -287,14 +295,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-10T14:52:05.941Z"
   },
-  "SAO PEDRO 2": {
-    "idNumerico": "43",
-    "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
   "TREMBALA": {
     "idNumerico": "42",
     "nome": "TremBala",
@@ -302,14 +302,6 @@
     "disponivelEm": "16:17|10/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T16:53:29.270Z"
-  },
-  "FRANCA": {
-    "idNumerico": "28",
-    "nome": "FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:24|10/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T16:08:14.041Z"
   },
   "FAZENDA DO GALIN": {
     "idNumerico": "15",
@@ -342,5 +334,29 @@
     "disponivelEm": "18:28|10/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T16:28:18.553Z"
+  },
+  "WESKER_U$METRALHA": {
+    "idNumerico": "28",
+    "nome": "Wesker_u$MeTraLha",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:24|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T16:08:14.041Z"
+  },
+  "RICK FARM'S": {
+    "idNumerico": "9",
+    "nome": "Rick Farm's",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "SAO PEDRO 2": {
+    "idNumerico": "43",
+    "nome": "SAO PEDRO 2",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
   }
 }

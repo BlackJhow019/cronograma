@@ -298,10 +298,10 @@
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:00|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T14:52:06.300Z"
+    "roubadaEm": "2026-08-10T20:00:19.036Z"
   },
   "RICK FARM'S": {
     "idNumerico": "9",

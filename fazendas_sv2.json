@@ -50,10 +50,10 @@
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:34|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T05:37:42.541Z"
+    "roubadaEm": "2026-08-10T11:28:39.162Z"
   },
   "TREMBALA": {
     "idNumerico": "42",
@@ -150,14 +150,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T02:51:34.562Z"
-  },
-  "AWAKE COMPANY": {
-    "idNumerico": "13",
-    "nome": "AwaKe Company",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T23:50:00.511Z"
   },
   "ROCK FARM": {
     "idNumerico": "11",
@@ -358,5 +350,13 @@
     "disponivelEm": "10:00|10/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-10T10:41:44.024Z"
+  },
+  "NOREX FARM'S": {
+    "idNumerico": "13",
+    "nome": "Norex farm's",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-09T23:50:00.511Z"
   }
 }

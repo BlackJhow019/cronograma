@@ -122,10 +122,10 @@
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:16|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T08:11:27.743Z"
+    "roubadaEm": "2026-08-10T14:16:48.157Z"
   },
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
@@ -284,8 +284,8 @@
     "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:05|10/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T14:06:45.325Z"
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-10T14:07:04.235Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",

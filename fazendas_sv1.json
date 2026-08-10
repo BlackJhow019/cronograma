@@ -124,7 +124,7 @@
     "nome": "Quem Roubar e Petista",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:16|10/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-10T14:16:59.768Z"
   },
   "GRANJA DO IMONKEY": {
@@ -162,10 +162,10 @@
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:28|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T03:21:27.955Z"
+    "roubadaEm": "2026-08-10T14:28:49.871Z"
   },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",

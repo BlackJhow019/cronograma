@@ -138,10 +138,10 @@
   "AWAKE COMPANY": {
     "idNumerico": "13",
     "nome": "AwaKe Company",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:42|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T12:19:50.249Z"
+    "roubadaEm": "2026-08-10T19:24:23.242Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
@@ -311,9 +311,9 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T18:36:58.789Z"
   },
-  "FAZENDINHA BETREZE 2": {
+  "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
-    "nome": "Fazendinha BeTreZe 2",
+    "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:30|10/08/2026",
     "cofreConsertado": false,

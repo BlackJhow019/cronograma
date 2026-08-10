@@ -108,7 +108,7 @@
     "nome": "FARM DO SAPATO",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:50|10/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-10T23:38:50.454Z"
   },
   "HWD INVESTIMENTOS": {
@@ -182,14 +182,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T18:55:17.283Z"
-  },
-  "SITIO DO JN": {
-    "idNumerico": "6",
-    "nome": "Sitio do jn",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T15:22:57.129Z"
   },
   "@FILH_ODOPAII": {
     "idNumerico": "12",
@@ -327,6 +319,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T16:53:29.103Z"
   },
+  "FAZENDA DO GALIN": {
+    "idNumerico": "15",
+    "nome": "Fazenda do Galin",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:50|10/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-10T23:41:08.724Z"
+  },
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
     "nome": "Rafha investimentos $",
@@ -351,12 +351,12 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "YT @GANDIA_RP": {
-    "idNumerico": "15",
-    "nome": "YT @GANDIA_RP",
+  "DM2 FARM": {
+    "idNumerico": "6",
+    "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
-    "disponivelEm": "22:50|10/08/2026",
+    "disponivelEm": "01:44|11/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T23:41:08.724Z"
+    "roubadaEm": "2026-08-10T23:44:57.049Z"
   }
 }

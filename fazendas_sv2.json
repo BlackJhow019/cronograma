@@ -98,8 +98,8 @@
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:11|10/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T13:05:10.727Z"
   },
@@ -138,10 +138,10 @@
   "SITIO DO JN": {
     "idNumerico": "6",
     "nome": "Sitio do jn",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:22|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T09:05:08.553Z"
+    "roubadaEm": "2026-08-10T15:22:57.129Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
@@ -190,14 +190,6 @@
     "disponivelEm": "13:40|10/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T12:48:21.007Z"
-  },
-  "$ COMPANY $R.RC_PLINIODMG $": {
-    "idNumerico": "3",
-    "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -327,6 +319,22 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T15:02:47.013Z"
   },
+  "AZEROX": {
+    "idNumerico": "23",
+    "nome": "AzeRoX",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T11:58:35.745Z"
+  },
+  "KODIAK": {
+    "idNumerico": "3",
+    "nome": "KodiaK",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
@@ -343,19 +351,11 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-10T14:52:05.941Z"
   },
-  "AZEROX": {
-    "idNumerico": "23",
-    "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T11:58:35.745Z"
-  },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
-    "disponivelEm": "12:22|10/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T14:03:24.809Z"
   }

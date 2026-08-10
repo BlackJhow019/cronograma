@@ -251,9 +251,9 @@
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:06|10/08/2026",
+    "disponivelEm": "16:07|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T14:06:43.801Z"
+    "roubadaEm": "2026-08-10T14:07:03.889Z"
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -335,14 +335,6 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "JESUS EA SOLUCAO": {
-    "idNumerico": "0",
-    "nome": "JESUS EA SOLUCAO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:32|10/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-10T11:23:41.492Z"
-  },
   "DEAD (:": {
     "idNumerico": "27",
     "nome": "Dead (:",
@@ -350,5 +342,13 @@
     "disponivelEm": "12:22|10/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T14:03:24.809Z"
+  },
+  "OS DE RACA": {
+    "idNumerico": "0",
+    "nome": "OS DE RACA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:32|10/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-10T11:23:41.492Z"
   }
 }

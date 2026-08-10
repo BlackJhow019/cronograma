@@ -162,10 +162,10 @@
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:43|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-08-10T18:46:38.807Z"
   },
   "PEDRO FARM'S": {
     "idNumerico": "21",
@@ -238,14 +238,6 @@
     "disponivelEm": "16:44|10/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-10T16:35:01.330Z"
-  },
-  "PENOSO FARM'S": {
-    "idNumerico": "10",
-    "nome": "Penoso Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T14:52:05.941Z"
   },
   "< GAUBRE LTDA >": {
     "idNumerico": "35",
@@ -343,14 +335,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-10T17:59:38.611Z"
   },
-  "YT @GANDIA_RP": {
-    "idNumerico": "15",
-    "nome": "YT @GANDIA_RP",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T15:48:00.284Z"
-  },
   "021": {
     "idNumerico": "1",
     "nome": "021",
@@ -358,5 +342,21 @@
     "disponivelEm": "17:16|10/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T18:36:58.789Z"
+  },
+  "FAZENDA DO GALIN": {
+    "idNumerico": "15",
+    "nome": "Fazenda do Galin",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T15:48:00.284Z"
+  },
+  "ARIANA_B13": {
+    "idNumerico": "10",
+    "nome": "Ariana_B13",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T14:52:05.941Z"
   }
 }

@@ -79,14 +79,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T13:16:14.876Z"
   },
-  "FARM DO SAPATO": {
-    "idNumerico": "9",
-    "nome": "FARM DO SAPATO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T11:32:34.556Z"
-  },
   "ARIANA_B13": {
     "idNumerico": "10",
     "nome": "Ariana_B13",
@@ -358,5 +350,13 @@
     "disponivelEm": "12:25|10/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T14:29:01.643Z"
+  },
+  "RICK FARM'S": {
+    "idNumerico": "9",
+    "nome": "Rick Farm's",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:20|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T14:30:22.729Z"
   }
 }

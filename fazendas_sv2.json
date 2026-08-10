@@ -189,7 +189,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "08:45|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T10:06:17.740Z"
+    "roubadaEm": "2026-08-10T10:06:29.406Z"
   },
   "MALVADA'S FARM": {
     "idNumerico": "32",
@@ -343,20 +343,20 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T09:59:47.021Z"
   },
-  "SAO PEDRO 2": {
-    "idNumerico": "43",
-    "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:37|10/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T09:31:07.917Z"
-  },
-  "KODIAK": {
+  "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",
-    "nome": "KodiaK",
+    "nome": "$ Company $r.RC_PlinioDmG $",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:46|10/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-10T10:04:08.727Z"
+  },
+  "LA FAMILIA CHIARADIA": {
+    "idNumerico": "43",
+    "nome": "LA FAMILIA CHIARADIA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:37|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T09:31:07.917Z"
   }
 }

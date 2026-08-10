@@ -11,9 +11,9 @@
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
     "status": "INDISPONIVEL",
-    "disponivelEm": "21:09|10/08/2026",
+    "disponivelEm": "21:08|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T19:09:35.493Z"
+    "roubadaEm": "2026-08-10T19:08:51.623Z"
   },
   "FAZENDA CUIUDA - BY GAZOLA": {
     "idNumerico": "17",
@@ -109,7 +109,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "21:04|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T19:04:37.936Z"
+    "roubadaEm": "2026-08-10T19:04:37.783Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",
@@ -301,7 +301,23 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "18:11|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T19:05:45.298Z"
+    "roubadaEm": "2026-08-10T19:05:45.104Z"
+  },
+  "FAZENDADO 171": {
+    "idNumerico": "12",
+    "nome": "fazendado 171",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:47|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T16:10:18.410Z"
+  },
+  "FARM DA THATY": {
+    "idNumerico": "1",
+    "nome": "Farm da Thaty",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:16|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T18:36:58.789Z"
   },
   "TREMBALA": {
     "idNumerico": "42",
@@ -334,22 +350,6 @@
     "disponivelEm": "17:22|10/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-10T17:59:38.611Z"
-  },
-  "@FILH_ODOPAII": {
-    "idNumerico": "12",
-    "nome": "@filh_odopaii",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:47|10/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T16:10:18.410Z"
-  },
-  "021": {
-    "idNumerico": "1",
-    "nome": "021",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:16|10/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T18:36:58.789Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",

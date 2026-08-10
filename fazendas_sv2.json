@@ -303,14 +303,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-09T23:01:06.573Z"
   },
-  "JESUS EA SOLUCAO": {
-    "idNumerico": "0",
-    "nome": "JESUS EA SOLUCAO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:37|09/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-09T23:28:14.634Z"
-  },
   "YANINHA_ANTIFALSOS": {
     "idNumerico": "34",
     "nome": "yAninha_AntiFalsos",
@@ -334,6 +326,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-09T05:44:17.423Z"
+  },
+  "SITIO DO JN": {
+    "idNumerico": "6",
+    "nome": "Sitio do jn",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-09T21:32:37.786Z"
   },
   "CHAMA A POLICIA": {
     "idNumerico": "44",

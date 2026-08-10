@@ -130,9 +130,9 @@
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:42|10/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-10T03:42:59.110Z"
   },
   "YT @GANDIA_RP": {
@@ -330,8 +330,8 @@
   "PEDRO FARM'S": {
     "idNumerico": "21",
     "nome": "PedrO farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:42|10/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T03:42:27.280Z"
   }

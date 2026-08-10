@@ -239,14 +239,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T12:34:38.710Z"
   },
-  "HWD INVESTIMENTOS": {
-    "idNumerico": "27",
-    "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:03|10/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T12:43:51.974Z"
-  },
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
@@ -311,14 +303,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T10:22:31.398Z"
   },
-  "B13 :)": {
-    "idNumerico": "23",
-    "nome": "B13 :)",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T11:58:35.745Z"
-  },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
@@ -326,6 +310,14 @@
     "disponivelEm": "15:58|10/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T13:58:20.344Z"
+  },
+  "B13 :)": {
+    "idNumerico": "23",
+    "nome": "B13 :)",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T11:58:35.745Z"
   },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
@@ -358,5 +350,13 @@
     "disponivelEm": "11:32|10/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-10T11:23:41.492Z"
+  },
+  "DEAD (:": {
+    "idNumerico": "27",
+    "nome": "Dead (:",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:22|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T14:03:11.634Z"
   }
 }

@@ -114,10 +114,10 @@
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:02|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T03:37:20.293Z"
+    "roubadaEm": "2026-08-10T10:46:09.627Z"
   },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
@@ -340,7 +340,7 @@
     "nome": "CANNABIS",
     "status": "INDISPONIVEL",
     "disponivelEm": "10:00|10/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-10T10:41:44.024Z"
   },
   "SAO PEDRO 2": {

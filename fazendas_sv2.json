@@ -282,10 +282,10 @@
   "@FILH_ODOPAII": {
     "idNumerico": "12",
     "nome": "@filh_odopaii",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:24|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T16:10:18.410Z"
+    "roubadaEm": "2026-08-10T21:47:45.292Z"
   },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",

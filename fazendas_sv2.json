@@ -122,10 +122,10 @@
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",
     "nome": "Fazenda Rei Drogado",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:03|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T21:13:41.506Z"
+    "roubadaEm": "2026-08-10T13:28:07.720Z"
   },
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
@@ -226,9 +226,9 @@
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:23|10/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-10T11:14:54.325Z"
   },
   "CHAMA A POLICIA": {
@@ -306,8 +306,8 @@
   "GRUPO RANTER": {
     "idNumerico": "19",
     "nome": "GRUPO RANTER",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:26|10/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T11:10:00.279Z"
   },

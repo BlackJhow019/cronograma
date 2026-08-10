@@ -98,10 +98,10 @@
   "ARIANA_B13": {
     "idNumerico": "10",
     "nome": "Ariana_B13",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:26|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T00:07:43.316Z"
+    "roubadaEm": "2026-08-10T13:29:41.554Z"
   },
   "FRANCA": {
     "idNumerico": "28",
@@ -214,14 +214,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T10:22:31.398Z"
-  },
-  "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": "38",
-    "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:28|10/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-10T10:26:59.623Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",

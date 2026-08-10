@@ -210,10 +210,10 @@
   "WELCOME > MELHOR FAZENDA DO BPS": {
     "idNumerico": "37",
     "nome": "WELCOME > MELHOR FAZENDA DO BPS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:24|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T19:42:47.513Z"
+    "roubadaEm": "2026-08-10T11:24:50.590Z"
   },
   "/VENDERPRODUTOS": {
     "idNumerico": "7",
@@ -236,7 +236,7 @@
     "nome": "JESUS EA SOLUCAO",
     "status": "INDISPONIVEL",
     "disponivelEm": "11:32|10/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-10T11:23:41.492Z"
   },
   "YANINHA_ANTIFALSOS": {

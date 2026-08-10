@@ -74,10 +74,10 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:51|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T23:23:50.069Z"
+    "roubadaEm": "2026-08-10T04:51:01.415Z"
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
@@ -275,7 +275,7 @@
     "idNumerico": "6",
     "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
-    "disponivelEm": "01:50|10/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-09T23:50:44.760Z"
   },
@@ -327,9 +327,9 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-09T06:44:01.701Z"
   },
-  "THUG LIFE": {
+  "PEDRO FARM'S": {
     "idNumerico": "21",
-    "nome": "THUG LIFE",
+    "nome": "PedrO farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:42|10/08/2026",
     "cofreConsertado": false,

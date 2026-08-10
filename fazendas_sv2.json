@@ -295,6 +295,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T12:43:52.092Z"
   },
+  "RICO LOUCO": {
+    "idNumerico": "11",
+    "nome": "rico louco",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:40|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T12:48:31.433Z"
+  },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
     "nome": "YellowStone - By Monster",
@@ -302,6 +310,14 @@
     "disponivelEm": "11:12|10/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T11:39:29.877Z"
+  },
+  "NOREX FARM'S": {
+    "idNumerico": "13",
+    "nome": "Norex farm's",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:37|10/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-10T12:19:50.249Z"
   },
   "MALVADA'S FARM": {
     "idNumerico": "32",
@@ -311,20 +327,20 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T11:50:00.661Z"
   },
-  "AWAKE COMPANY": {
-    "idNumerico": "13",
-    "nome": "AwaKe Company",
+  "CANNABIS": {
+    "idNumerico": "8",
+    "nome": "CANNABIS",
     "status": "INDISPONIVEL",
-    "disponivelEm": "11:37|10/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
-    "roubadaEm": "2026-08-10T12:19:50.249Z"
+    "roubadaEm": "2026-08-10T10:41:44.024Z"
   },
   "FARM DA THATY": {
     "idNumerico": "1",
     "nome": "Farm da Thaty",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:57|10/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-10T11:03:01.727Z"
   },
   "FAZENDA DA MILLY": {
@@ -342,21 +358,5 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
-  },
-  "CLUBE DA LULUZINHA": {
-    "idNumerico": "8",
-    "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:00|10/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-10T10:41:44.024Z"
-  },
-  "RICO LOUCO": {
-    "idNumerico": "11",
-    "nome": "rico louco",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:40|10/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T12:48:31.433Z"
   }
 }

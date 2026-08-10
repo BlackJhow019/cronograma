@@ -10,10 +10,10 @@
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:08|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T11:50:56.518Z"
+    "roubadaEm": "2026-08-10T19:08:51.796Z"
   },
   "FAZENDA CUIUDA - BY GAZOLA": {
     "idNumerico": "17",
@@ -303,14 +303,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T18:50:49.968Z"
   },
-  "TREMBALA": {
-    "idNumerico": "42",
-    "nome": "TremBala",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:17|10/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T16:53:29.103Z"
-  },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
@@ -318,6 +310,14 @@
     "disponivelEm": "18:11|10/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T19:05:45.298Z"
+  },
+  "TREMBALA": {
+    "idNumerico": "42",
+    "nome": "TremBala",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:17|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T16:53:29.103Z"
   },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",

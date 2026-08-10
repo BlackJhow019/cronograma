@@ -98,10 +98,10 @@
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:43|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T23:35:33.146Z"
+    "roubadaEm": "2026-08-10T11:32:06.159Z"
   },
   "ARIANA_B13": {
     "idNumerico": "10",
@@ -319,6 +319,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T09:31:07.917Z"
   },
+  "NOREX FARM'S": {
+    "idNumerico": "13",
+    "nome": "Norex farm's",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:29|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T11:29:18.130Z"
+  },
   "FARM DA THATY": {
     "idNumerico": "1",
     "nome": "Farm da Thaty",
@@ -350,13 +358,5 @@
     "disponivelEm": "10:00|10/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-10T10:41:44.024Z"
-  },
-  "NOREX FARM'S": {
-    "idNumerico": "13",
-    "nome": "Norex farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:29|10/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T11:29:18.130Z"
   }
 }

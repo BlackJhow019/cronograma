@@ -34,10 +34,10 @@
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:22|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T00:13:26.807Z"
+    "roubadaEm": "2026-08-10T21:22:57.473Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
@@ -134,14 +134,6 @@
     "disponivelEm": "21:48|10/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-10T19:48:47.243Z"
-  },
-  "YT @GANDIA_RP": {
-    "idNumerico": "15",
-    "nome": "YT @GANDIA_RP",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:18|10/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-10T16:18:21.417Z"
   },
   "021": {
     "idNumerico": "1",

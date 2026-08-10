@@ -250,10 +250,10 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:19|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T00:59:43.656Z"
+    "roubadaEm": "2026-08-10T07:19:30.177Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
@@ -316,7 +316,7 @@
     "nome": "CdM Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "09:00|10/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-10T07:00:30.561Z"
   },
   "FAZENDADO 171": {

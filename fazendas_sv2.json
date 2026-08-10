@@ -111,14 +111,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-09T23:35:33.146Z"
   },
-  "ARIANA_B13": {
-    "idNumerico": "10",
-    "nome": "Ariana_B13",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:04|09/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T00:07:43.316Z"
-  },
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
@@ -231,21 +223,13 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-10T00:10:24.263Z"
   },
-  "$ COMPANY $R.RC_PLINIODMG $": {
-    "idNumerico": "3",
-    "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:59|09/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T20:59:22.224Z"
-  },
   "TA NO GRALI": {
     "idNumerico": "4",
     "nome": "ta no grali",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:42|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T20:01:55.305Z"
+    "roubadaEm": "2026-08-10T02:05:54.127Z"
   },
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",

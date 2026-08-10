@@ -130,10 +130,10 @@
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:54|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T03:42:59.110Z"
+    "roubadaEm": "2026-08-10T11:54:56.238Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
@@ -291,9 +291,9 @@
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
     "status": "INDISPONIVEL",
-    "disponivelEm": "13:49|10/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T11:49:49.278Z"
+    "disponivelEm": "13:50|10/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-10T11:50:01.077Z"
   },
   "PENOSO FARM'S": {
     "idNumerico": "10",

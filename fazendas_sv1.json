@@ -140,7 +140,7 @@
     "nome": "YT @GANDIA_RP",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:41|11/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-10T23:41:10.967Z"
   },
   "021": {
@@ -274,10 +274,10 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:45|11/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T17:27:21.984Z"
+    "roubadaEm": "2026-08-10T23:45:27.822Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",

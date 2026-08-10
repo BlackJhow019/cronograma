@@ -82,10 +82,10 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T12:43:37.866Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:42|10/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-10T20:42:45.265Z"
   },
   "AZEROX": {
     "idNumerico": "23",
@@ -156,7 +156,7 @@
     "nome": "Familia KuSh",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:36|10/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-10T20:36:53.192Z"
   },
   "FAZENDINHA DO IGEZE": {
@@ -170,9 +170,9 @@
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:53|10/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-10T15:53:03.244Z"
   },
   "NOREX FARM'S": {

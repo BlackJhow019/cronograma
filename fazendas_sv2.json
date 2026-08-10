@@ -138,10 +138,10 @@
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:29|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T02:06:12.056Z"
+    "roubadaEm": "2026-08-10T16:29:20.245Z"
   },
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",

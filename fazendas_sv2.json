@@ -5,7 +5,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "17:43|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T19:28:00.899Z"
+    "roubadaEm": "2026-08-10T19:28:33.331Z"
   },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
@@ -191,14 +191,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T15:24:38.993Z"
   },
-  "DEAD (:": {
-    "idNumerico": "27",
-    "nome": "Dead (:",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T14:03:24.809Z"
-  },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",
     "nome": "Succubus Farms",
@@ -358,5 +350,13 @@
     "disponivelEm": "17:22|10/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-10T17:59:38.611Z"
+  },
+  "HWD INVESTIMENTOS": {
+    "idNumerico": "27",
+    "nome": "hwd investimentos",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T14:03:24.809Z"
   }
 }

@@ -95,14 +95,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T18:57:32.766Z"
   },
-  "FARM'S DE CAFE": {
-    "idNumerico": "4",
-    "nome": "Farm's de Cafe",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:29|10/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-10T16:29:33.944Z"
-  },
   "FAZENDA ROTA DO CAFÉ": {
     "idNumerico": "17",
     "nome": "Fazenda Rota do Café",
@@ -194,10 +186,10 @@
   ".": {
     "idNumerico": "31",
     "nome": ".",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:32|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-07T18:25:30.086Z"
+    "roubadaEm": "2026-08-10T21:32:00.408Z"
   },
   "30PRAUM": {
     "idNumerico": "16",

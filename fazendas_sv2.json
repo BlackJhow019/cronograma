@@ -47,14 +47,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-10T20:59:51.721Z"
   },
-  "SE ROUBAR MORRE": {
-    "idNumerico": "41",
-    "nome": "SE ROUBAR MORRE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:51|10/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T20:51:35.028Z"
-  },
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
@@ -355,8 +347,16 @@
     "idNumerico": "16",
     "nome": "YellowStone - By Monster",
     "status": "INDISPONIVEL",
-    "disponivelEm": "20:59|10/08/2026",
+    "disponivelEm": "21:00|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T22:05:47.861Z"
+    "roubadaEm": "2026-08-10T22:06:07.912Z"
+  },
+  "PREFEITO ROADBLOCK": {
+    "idNumerico": "41",
+    "nome": "Prefeito Roadblock",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:51|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T20:51:35.028Z"
   }
 }

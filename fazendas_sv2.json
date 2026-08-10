@@ -90,10 +90,10 @@
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:40|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T13:05:10.727Z"
+    "roubadaEm": "2026-08-10T18:34:31.213Z"
   },
   "@FILH_ODOPAII": {
     "idNumerico": "12",
@@ -295,6 +295,22 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T16:28:18.553Z"
   },
+  "FARM DO SAPATO": {
+    "idNumerico": "9",
+    "nome": "FARM DO SAPATO",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:37|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T18:26:33.760Z"
+  },
+  "DM2 FARM": {
+    "idNumerico": "6",
+    "nome": "Dm2 Farm",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:22|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T15:22:57.129Z"
+  },
   "TREMBALA": {
     "idNumerico": "42",
     "nome": "TremBala",
@@ -342,21 +358,5 @@
     "disponivelEm": "15:53|10/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T15:36:02.335Z"
-  },
-  "SITIO DO JN": {
-    "idNumerico": "6",
-    "nome": "Sitio do jn",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:22|10/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T15:22:57.129Z"
-  },
-  "FARM DO SAPATO": {
-    "idNumerico": "9",
-    "nome": "FARM DO SAPATO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:37|10/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T18:26:33.760Z"
   }
 }

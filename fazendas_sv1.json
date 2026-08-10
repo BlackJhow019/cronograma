@@ -51,7 +51,7 @@
     "idNumerico": "35",
     "nome": "< GAUBRE LTDA >",
     "status": "INDISPONIVEL",
-    "disponivelEm": "13:29|10/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-10T15:47:16.732Z"
   },
@@ -98,10 +98,10 @@
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:29|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T13:27:56.833Z"
+    "roubadaEm": "2026-08-10T16:29:33.944Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
     "idNumerico": "17",
@@ -140,7 +140,7 @@
     "nome": "YT @GANDIA_RP",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:18|10/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-10T16:18:21.417Z"
   },
   "021": {
@@ -179,7 +179,7 @@
     "idNumerico": "13",
     "nome": "Norex farm's",
     "status": "INDISPONIVEL",
-    "disponivelEm": "13:29|10/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-10T11:29:16.922Z"
   },

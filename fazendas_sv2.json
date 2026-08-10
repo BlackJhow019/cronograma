@@ -2,10 +2,10 @@
   "999": {
     "idNumerico": "39",
     "nome": "999",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:42|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T05:35:35.752Z"
+    "roubadaEm": "2026-08-10T12:27:13.526Z"
   },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
@@ -311,6 +311,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T11:39:29.877Z"
   },
+  "NOREX FARM'S": {
+    "idNumerico": "13",
+    "nome": "Norex farm's",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:37|10/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-10T12:19:50.249Z"
+  },
   "MALVADA'S FARM": {
     "idNumerico": "32",
     "nome": "Malvada's Farm",
@@ -350,13 +358,5 @@
     "disponivelEm": "10:00|10/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-10T10:41:44.024Z"
-  },
-  "AWAKE COMPANY": {
-    "idNumerico": "13",
-    "nome": "AwaKe Company",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:37|10/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-10T12:19:50.249Z"
   }
 }

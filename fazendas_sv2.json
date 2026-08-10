@@ -114,9 +114,9 @@
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-10T14:54:51.496Z"
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {
@@ -170,8 +170,8 @@
   "K1NG FARM'S": {
     "idNumerico": "25",
     "nome": "K1NG Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:44|10/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T12:02:05.516Z"
   },
@@ -198,14 +198,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T11:03:01.727Z"
-  },
-  "FARME DO DRAKE": {
-    "idNumerico": "35",
-    "nome": "Farme do Drake",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T10:22:31.398Z"
   },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
@@ -327,6 +319,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T10:41:44.024Z"
   },
+  "YANINHA_ANTIFALSOS": {
+    "idNumerico": "34",
+    "nome": "yAninha_AntiFalsos",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:53|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T15:24:38.993Z"
+  },
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
@@ -351,12 +351,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T14:03:24.809Z"
   },
-  "FAMILIA KUSH": {
-    "idNumerico": "34",
-    "nome": "Familia KuSh",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:53|10/08/2026",
+  "< GAUBRE LTDA >": {
+    "idNumerico": "35",
+    "nome": "< GAUBRE LTDA >",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T15:24:38.993Z"
+    "roubadaEm": "2026-08-10T10:22:31.398Z"
   }
 }

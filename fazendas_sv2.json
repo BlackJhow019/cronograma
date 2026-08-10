@@ -117,7 +117,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "09:02|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T10:46:09.627Z"
+    "roubadaEm": "2026-08-10T10:46:26.173Z"
   },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
@@ -327,22 +327,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-10T10:26:59.623Z"
   },
-  "$ COMPANY $R.RC_PLINIODMG $": {
-    "idNumerico": "3",
-    "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:46|10/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-10T10:04:08.727Z"
-  },
-  "CANNABIS": {
-    "idNumerico": "8",
-    "nome": "CANNABIS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:00|10/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-10T10:41:44.024Z"
-  },
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
@@ -351,12 +335,28 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T09:31:07.917Z"
   },
-  "QUEM ROUBAR E PETISTA": {
+  "CHAMA A POLICIA": {
     "idNumerico": "44",
-    "nome": "Quem Roubar e Petista",
+    "nome": "CHAMA A POLICIA",
     "status": "INDISPONIVEL",
     "disponivelEm": "09:02|10/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-10T10:34:04.231Z"
+  },
+  "$ COMPANY $R.RC_PLINIODMG $": {
+    "idNumerico": "3",
+    "nome": "$ Company $r.RC_PlinioDmG $",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:46|10/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-10T10:04:08.727Z"
+  },
+  "CLUBE DA LULUZINHA": {
+    "idNumerico": "8",
+    "nome": "Clube da Luluzinha",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:00|10/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-10T10:41:44.024Z"
   }
 }

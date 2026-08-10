@@ -122,10 +122,10 @@
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:35|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T09:48:13.848Z"
+    "roubadaEm": "2026-08-10T14:54:38.155Z"
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {
     "idNumerico": "37",
@@ -327,14 +327,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T10:46:37.912Z"
   },
-  "B13 :)": {
-    "idNumerico": "23",
-    "nome": "B13 :)",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T11:58:35.745Z"
-  },
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
@@ -343,14 +335,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-10T14:43:33.262Z"
   },
-  "DEAD (:": {
-    "idNumerico": "27",
-    "nome": "Dead (:",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:22|10/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T14:03:24.809Z"
-  },
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
@@ -358,5 +342,21 @@
     "disponivelEm": "14:04|10/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-10T14:52:05.941Z"
+  },
+  "HWD INVESTIMENTOS": {
+    "idNumerico": "27",
+    "nome": "hwd investimentos",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:22|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T14:03:24.809Z"
+  },
+  "B13 :)": {
+    "idNumerico": "23",
+    "nome": "B13 :)",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T11:58:35.745Z"
   }
 }

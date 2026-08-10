@@ -31,14 +31,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-09T16:41:50.797Z"
   },
-  "FARME DO DRAKE": {
-    "idNumerico": "35",
-    "nome": "Farme do Drake",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T19:18:26.125Z"
-  },
   "DONA SEM RAZAO": {
     "idNumerico": "26",
     "nome": "Dona sem razao",
@@ -188,7 +180,7 @@
     "nome": "Farm da Thaty",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:45|10/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-10T10:06:29.406Z"
   },
   "MALVADA'S FARM": {
@@ -351,9 +343,17 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-10T10:04:08.727Z"
   },
-  "LA FAMILIA CHIARADIA": {
+  "< GAUBRE LTDA >": {
+    "idNumerico": "35",
+    "nome": "< GAUBRE LTDA >",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:06|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T10:22:03.817Z"
+  },
+  "SAO PEDRO 2": {
     "idNumerico": "43",
-    "nome": "LA FAMILIA CHIARADIA",
+    "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:37|10/08/2026",
     "cofreConsertado": false,

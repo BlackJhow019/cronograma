@@ -159,14 +159,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-09T18:30:03.652Z"
   },
-  "GRUPO RANTER": {
-    "idNumerico": "19",
-    "nome": "GRUPO RANTER",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T00:30:43.039Z"
-  },
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
@@ -228,7 +220,7 @@
     "nome": "$ Company $r.RC_PlinioDmG $",
     "status": "INDISPONIVEL",
     "disponivelEm": "11:57|10/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-10T09:57:22.548Z"
   },
   "RAMONZIN_FRANCA": {
@@ -358,5 +350,13 @@
     "disponivelEm": "08:37|10/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T09:31:07.917Z"
+  },
+  "FAZENDA DA MILLY": {
+    "idNumerico": "19",
+    "nome": "Fazenda da Milly",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:58|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T09:59:33.379Z"
   }
 }

@@ -90,10 +90,10 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:53|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T22:22:24.180Z"
+    "roubadaEm": "2026-08-10T03:53:06.608Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
@@ -132,7 +132,7 @@
     "nome": "Granja do iMonKeY",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:42|10/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-10T03:42:59.110Z"
   },
   "YT @GANDIA_RP": {
@@ -182,14 +182,6 @@
     "disponivelEm": "04:34|10/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-10T02:34:32.113Z"
-  },
-  "JAH RASTAFARI": {
-    "idNumerico": "39",
-    "nome": "JAH RASTAFARI",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:50|10/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-09T22:50:04.314Z"
   },
   ".": {
     "idNumerico": "31",

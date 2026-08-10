@@ -90,8 +90,8 @@
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
     "nome": "Farms de Galopisitas",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:47|09/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T00:05:02.652Z"
   },
@@ -170,10 +170,10 @@
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:55|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T20:56:10.778Z"
+    "roubadaEm": "2026-08-10T02:49:39.368Z"
   },
   "AWAKE COMPANY": {
     "idNumerico": "13",

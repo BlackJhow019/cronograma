@@ -114,8 +114,8 @@
   "/VENDERPRODUTOS": {
     "idNumerico": "7",
     "nome": "/VENDERPRODUTOS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:16|10/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T13:16:20.258Z"
   },
@@ -287,6 +287,14 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
+  "$ COMPANY $R.RC_PLINIODMG $": {
+    "idNumerico": "3",
+    "nome": "$ Company $r.RC_PlinioDmG $",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:28|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T16:28:18.553Z"
+  },
   "TREMBALA": {
     "idNumerico": "42",
     "nome": "TremBala",
@@ -295,6 +303,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T16:53:29.103Z"
   },
+  "YELLOWSTONE - BY MONSTER": {
+    "idNumerico": "16",
+    "nome": "YellowStone - By Monster",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:28|10/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-10T18:14:57.193Z"
+  },
   "ROCK FARM": {
     "idNumerico": "11",
     "nome": "RocK Farm",
@@ -302,14 +318,6 @@
     "disponivelEm": "15:39|10/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T16:30:58.645Z"
-  },
-  "$ COMPANY $R.RC_PLINIODMG $": {
-    "idNumerico": "3",
-    "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:28|10/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T16:28:18.553Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
@@ -342,13 +350,5 @@
     "disponivelEm": "17:22|10/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T15:22:57.129Z"
-  },
-  "30PRAUM": {
-    "idNumerico": "16",
-    "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:28|10/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T18:14:57.193Z"
   }
 }

@@ -234,10 +234,10 @@
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:32|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T04:56:58.696Z"
+    "roubadaEm": "2026-08-10T11:23:08.403Z"
   },
   "YANINHA_ANTIFALSOS": {
     "idNumerico": "34",
@@ -303,6 +303,22 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-10T10:26:59.623Z"
   },
+  "YT @GANDIA_RP": {
+    "idNumerico": "15",
+    "nome": "YT @GANDIA_RP",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:23|10/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-10T11:14:54.325Z"
+  },
+  "CHAMA A POLICIA": {
+    "idNumerico": "44",
+    "nome": "CHAMA A POLICIA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:02|10/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-10T10:34:04.231Z"
+  },
   "FARM DA THATY": {
     "idNumerico": "1",
     "nome": "Farm da Thaty",
@@ -335,28 +351,12 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-10T10:41:44.024Z"
   },
-  "SAO PEDRO 2": {
+  "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
-    "nome": "SAO PEDRO 2",
+    "nome": "LA FAMILIA CHIARADIA",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:37|10/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T09:31:07.917Z"
-  },
-  "QUEM ROUBAR E PETISTA": {
-    "idNumerico": "44",
-    "nome": "Quem Roubar e Petista",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:02|10/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-10T10:34:04.231Z"
-  },
-  "YT @GANDIA_RP": {
-    "idNumerico": "15",
-    "nome": "YT @GANDIA_RP",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:23|10/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T11:14:54.325Z"
   }
 }

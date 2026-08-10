@@ -66,10 +66,10 @@
   "TREMBALA": {
     "idNumerico": "42",
     "nome": "TremBala",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:38|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T21:31:17.199Z"
+    "roubadaEm": "2026-08-10T03:33:29.267Z"
   },
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",

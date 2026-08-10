@@ -132,7 +132,7 @@
     "nome": "Granja do iMonKeY",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:55|10/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-10T11:55:09.863Z"
   },
   "YT @GANDIA_RP": {
@@ -226,10 +226,10 @@
   "K1NG FARM'S": {
     "idNumerico": "25",
     "nome": "K1NG Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:01|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T23:19:20.114Z"
+    "roubadaEm": "2026-08-10T12:01:53.426Z"
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
@@ -310,14 +310,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-09T22:21:10.929Z"
-  },
-  "CDM FARM'S": {
-    "idNumerico": "20",
-    "nome": "CdM Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:00|10/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-10T07:00:30.561Z"
   },
   "FAZENDADO 171": {
     "idNumerico": "12",

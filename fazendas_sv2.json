@@ -282,9 +282,9 @@
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-10T18:14:57.193Z"
   },
   "GRANJA DO IMONKEY": {
@@ -323,7 +323,7 @@
     "idNumerico": "38",
     "nome": "Fazendinha BeTreZe 2",
     "status": "INDISPONIVEL",
-    "disponivelEm": "17:30|10/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T19:18:42.497Z"
   },

@@ -319,21 +319,13 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "FAZENDINHA BETREZE 2": {
-    "idNumerico": "38",
-    "nome": "Fazendinha BeTreZe 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:30|10/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T19:18:42.497Z"
-  },
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
     "status": "INDISPONIVEL",
-    "disponivelEm": "20:02|10/08/2026",
+    "disponivelEm": "20:03|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T20:17:32.617Z"
+    "roubadaEm": "2026-08-10T20:18:04.260Z"
   },
   "AZEROX": {
     "idNumerico": "23",
@@ -358,5 +350,13 @@
     "disponivelEm": "18:00|10/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T19:47:37.403Z"
+  },
+  "WORK INDUSTRIA'S LIMITED": {
+    "idNumerico": "38",
+    "nome": "Work Industria's Limited",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:30|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T19:18:42.497Z"
   }
 }

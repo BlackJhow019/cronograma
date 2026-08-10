@@ -151,6 +151,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-09T22:56:27.455Z"
   },
+  "@FILH_ODOPAII": {
+    "idNumerico": "12",
+    "nome": "@filh_odopaii",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T08:56:42.414Z"
+  },
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",
     "nome": "RAMONZIN_FRANCA",
@@ -279,6 +287,38 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T12:02:05.516Z"
   },
+  "$ COMPANY $R.RC_PLINIODMG $": {
+    "idNumerico": "3",
+    "nome": "$ Company $r.RC_PlinioDmG $",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "CLUBE DA LULUZINHA": {
+    "idNumerico": "8",
+    "nome": "Clube da Luluzinha",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:00|10/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-10T10:41:44.024Z"
+  },
+  "FAMILIA KUSH": {
+    "idNumerico": "34",
+    "nome": "Familia KuSh",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:34|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T12:34:38.710Z"
+  },
+  "NIKE SHOX": {
+    "idNumerico": "42",
+    "nome": "NIKE SHOX",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:30|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T12:30:25.704Z"
+  },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
     "nome": "YellowStone - By Monster",
@@ -303,52 +343,20 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T11:50:00.661Z"
   },
-  "FARM DA THATY": {
-    "idNumerico": "1",
-    "nome": "Farm da Thaty",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:57|10/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-10T11:03:01.727Z"
-  },
-  "FAZENDA DA MILLY": {
+  "GRUPO RANTER": {
     "idNumerico": "19",
-    "nome": "Fazenda da Milly",
+    "nome": "GRUPO RANTER",
     "status": "INDISPONIVEL",
     "disponivelEm": "10:26|10/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T11:10:00.279Z"
   },
-  "$ COMPANY $R.RC_PLINIODMG $": {
-    "idNumerico": "3",
-    "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "CLUBE DA LULUZINHA": {
-    "idNumerico": "8",
-    "nome": "Clube da Luluzinha",
+  "021": {
+    "idNumerico": "1",
+    "nome": "021",
     "status": "INDISPONIVEL",
-    "disponivelEm": "10:00|10/08/2026",
+    "disponivelEm": "09:57|10/08/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-08-10T10:41:44.024Z"
-  },
-  "TREMBALA": {
-    "idNumerico": "42",
-    "nome": "TremBala",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:30|10/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T12:30:25.704Z"
-  },
-  "FAMILIA KUSH": {
-    "idNumerico": "34",
-    "nome": "Familia KuSh",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:34|10/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T12:34:20.702Z"
+    "roubadaEm": "2026-08-10T11:03:01.727Z"
   }
 }

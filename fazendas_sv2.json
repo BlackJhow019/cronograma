@@ -66,8 +66,8 @@
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
     "nome": "Vale das Sombras",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:46|10/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T13:16:14.876Z"
   },
@@ -271,61 +271,29 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T16:30:58.645Z"
   },
-  "PENOSO FARM'S": {
-    "idNumerico": "10",
-    "nome": "Penoso Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:04|10/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-10T14:52:05.941Z"
-  },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
     "nome": "YellowStone - By Monster",
     "status": "INDISPONIVEL",
-    "disponivelEm": "15:36|10/08/2026",
+    "disponivelEm": "15:34|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T16:42:38.500Z"
+    "roubadaEm": "2026-08-10T16:40:25.791Z"
   },
-  "FAZENDA DO GALIN": {
-    "idNumerico": "15",
-    "nome": "Fazenda do Galin",
+  "SUCCUBUS FARMS": {
+    "idNumerico": "29",
+    "nome": "Succubus Farms",
     "status": "INDISPONIVEL",
-    "disponivelEm": "15:07|10/08/2026",
+    "disponivelEm": "18:32|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T15:48:00.284Z"
+    "roubadaEm": "2026-08-10T16:43:54.643Z"
   },
-  "FARM DO GALO": {
+  "RICK FARM'S": {
     "idNumerico": "40",
-    "nome": "FARM DO GALO",
+    "nome": "Rick Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:53|10/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T15:36:02.335Z"
-  },
-  "KODIAK": {
-    "idNumerico": "3",
-    "nome": "KodiaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:28|10/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T16:28:18.553Z"
-  },
-  "WESKER_U$METRALHA": {
-    "idNumerico": "28",
-    "nome": "Wesker_u$MeTraLha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:24|10/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T16:08:14.041Z"
-  },
-  "RICK FARM'S": {
-    "idNumerico": "9",
-    "nome": "Rick Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -335,28 +303,52 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "FARME DO DRAKE": {
+  "ARIANA_B13": {
+    "idNumerico": "10",
+    "nome": "Ariana_B13",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:04|10/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-10T14:52:05.941Z"
+  },
+  "JESUS EA SOLUCAO": {
+    "idNumerico": "0",
+    "nome": "JESUS EA SOLUCAO",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:44|10/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-10T16:35:01.330Z"
+  },
+  "$ COMPANY $R.RC_PLINIODMG $": {
+    "idNumerico": "3",
+    "nome": "$ Company $r.RC_PlinioDmG $",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:28|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T16:28:18.553Z"
+  },
+  "FRANCA": {
+    "idNumerico": "28",
+    "nome": "FRANCA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:24|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T16:08:14.041Z"
+  },
+  "FAZENDA DO GALIN": {
+    "idNumerico": "15",
+    "nome": "Fazenda do Galin",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:07|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T15:48:00.284Z"
+  },
+  "< GAUBRE LTDA >": {
     "idNumerico": "35",
-    "nome": "Farme do Drake",
+    "nome": "< GAUBRE LTDA >",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T10:22:31.398Z"
-  },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:44|10/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-10T16:35:01.403Z"
-  },
-  "SUCCUBUS FARMS": {
-    "idNumerico": "29",
-    "nome": "Succubus Farms",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:32|10/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T16:44:14.291Z"
   }
 }

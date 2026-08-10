@@ -143,14 +143,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-10T19:25:36.779Z"
   },
-  "FAZENDA DA MILLY": {
-    "idNumerico": "19",
-    "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T15:02:47.013Z"
-  },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
@@ -327,6 +319,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-10T20:18:26.562Z"
   },
+  "FAZENDINHA BETREZE 2": {
+    "idNumerico": "38",
+    "nome": "Fazendinha BeTreZe 2",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:30|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T19:18:42.497Z"
+  },
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
@@ -334,6 +334,14 @@
     "disponivelEm": "17:58|10/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-10T19:49:44.853Z"
+  },
+  "GRUPO RANTER": {
+    "idNumerico": "19",
+    "nome": "GRUPO RANTER",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:44|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T20:28:11.760Z"
   },
   "ARIANA_B13": {
     "idNumerico": "10",
@@ -350,13 +358,5 @@
     "disponivelEm": "18:00|10/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T19:47:37.403Z"
-  },
-  "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": "38",
-    "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:30|10/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T19:18:42.497Z"
   }
 }

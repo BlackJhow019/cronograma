@@ -322,10 +322,10 @@
   "SITIO DO JN": {
     "idNumerico": "6",
     "nome": "Sitio do jn",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:04|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T03:06:08.937Z"
+    "roubadaEm": "2026-08-10T09:04:34.875Z"
   },
   "ROLINHA CANSADA FARMS": {
     "idNumerico": "14",

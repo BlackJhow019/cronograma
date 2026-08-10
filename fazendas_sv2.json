@@ -111,20 +111,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T08:56:42.414Z"
   },
-  "RAMONZIN_FRANCA": {
-    "idNumerico": "21",
-    "nome": "RAMONZIN_FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T11:47:23.247Z"
-  },
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:35|10/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-10T14:54:51.496Z"
   },
   "WELCOME > MELHOR FAZENDA DO BPS": {
@@ -335,9 +327,9 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-10T14:43:33.262Z"
   },
-  "PENOSO FARM'S": {
+  "ARIANA_B13": {
     "idNumerico": "10",
-    "nome": "Penoso Farm's",
+    "nome": "Ariana_B13",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:04|10/08/2026",
     "cofreConsertado": true,
@@ -358,5 +350,13 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T11:58:35.745Z"
+  },
+  "PEDRO FARM'S": {
+    "idNumerico": "21",
+    "nome": "PedrO farm's",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:00|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T15:00:43.032Z"
   }
 }

@@ -146,9 +146,9 @@
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",
     "nome": "RAMONZIN_FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:53|10/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-10T11:47:23.247Z"
   },
   "AMO O LOWER": {
@@ -183,14 +183,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T09:05:08.553Z"
   },
-  "ROLINHA CANSADA FARMS": {
-    "idNumerico": "14",
-    "nome": "Rolinha Cansada Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
@@ -198,14 +190,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T02:06:12.056Z"
-  },
-  "< GAUBRE LTDA >": {
-    "idNumerico": "35",
-    "nome": "< GAUBRE LTDA >",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T10:22:31.398Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
@@ -319,6 +303,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T10:41:44.024Z"
   },
+  "FARME DO DRAKE": {
+    "idNumerico": "35",
+    "nome": "Farme do Drake",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T10:22:31.398Z"
+  },
   "B13 :)": {
     "idNumerico": "23",
     "nome": "B13 :)",
@@ -326,6 +318,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T11:58:35.745Z"
+  },
+  "RANCHO DO DOUTOR": {
+    "idNumerico": "14",
+    "nome": "Rancho do Doutor",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:58|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T13:58:05.955Z"
   },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
@@ -346,14 +346,14 @@
   "MALVADA'S FARM": {
     "idNumerico": "32",
     "nome": "Malvada's Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:46|10/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T11:50:00.661Z"
+    "roubadaEm": null
   },
-  "OS DE RACA": {
+  "JESUS EA SOLUCAO": {
     "idNumerico": "0",
-    "nome": "OS DE RACA",
+    "nome": "JESUS EA SOLUCAO",
     "status": "INDISPONIVEL",
     "disponivelEm": "11:32|10/08/2026",
     "cofreConsertado": true,

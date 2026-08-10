@@ -154,8 +154,8 @@
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:34|10/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T12:34:38.689Z"
   },
@@ -260,7 +260,7 @@
     "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:26|10/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-10T17:26:25.027Z"
   },
   "..OURO..PR3TO..": {
@@ -276,7 +276,7 @@
     "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:27|10/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-10T17:27:21.984Z"
   },
   "SAO PEDRO 2": {

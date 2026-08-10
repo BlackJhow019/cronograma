@@ -311,37 +311,13 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "SAO PEDRO 2": {
-    "idNumerico": "43",
-    "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "FAZENDA DA MILLY": {
-    "idNumerico": "19",
-    "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T20:28:35.462Z"
-  },
-  "PREFEITO ROADBLOCK": {
-    "idNumerico": "41",
-    "nome": "Prefeito Roadblock",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:00|10/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T22:06:39.428Z"
-  },
   "ROLINHA CANSADA FARMS": {
     "idNumerico": "14",
     "nome": "Rolinha Cansada Farms",
     "status": "INDISPONIVEL",
-    "disponivelEm": "00:03|11/08/2026",
+    "disponivelEm": "00:05|11/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T22:47:21.687Z"
+    "roubadaEm": "2026-08-10T22:48:48.583Z"
   },
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
@@ -358,5 +334,29 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T13:28:17.716Z"
+  },
+  "SE ROUBAR MORRE": {
+    "idNumerico": "41",
+    "nome": "SE ROUBAR MORRE",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:00|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T22:06:39.428Z"
+  },
+  "GRUPO RANTER": {
+    "idNumerico": "19",
+    "nome": "GRUPO RANTER",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T20:28:35.462Z"
+  },
+  "SAO PEDRO 2": {
+    "idNumerico": "43",
+    "nome": "SAO PEDRO 2",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
   }
 }

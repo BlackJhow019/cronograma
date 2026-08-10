@@ -298,10 +298,26 @@
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:32|10/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-10T11:23:41.492Z"
+  },
+  "FAZENDINHA DO IGEZE": {
+    "idNumerico": "36",
+    "nome": "fazendinha do igeze",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:25|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T14:29:01.643Z"
+  },
+  "AWAKE COMPANY": {
+    "idNumerico": "13",
+    "nome": "AwaKe Company",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:37|10/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-10T12:19:50.249Z"
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
@@ -319,6 +335,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T11:58:35.745Z"
   },
+  "FAMILIA ALMANAK": {
+    "idNumerico": "32",
+    "nome": "Familia AlmanaK",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
     "nome": "YellowStone - By Monster",
@@ -327,36 +351,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T11:39:29.877Z"
   },
-  "NOREX FARM'S": {
-    "idNumerico": "13",
-    "nome": "Norex farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:37|10/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-10T12:19:50.249Z"
-  },
-  "MALVADA'S FARM": {
-    "idNumerico": "32",
-    "nome": "Malvada's Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "FAZENDINHA DO IGEZE": {
-    "idNumerico": "36",
-    "nome": "fazendinha do igeze",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:25|10/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T14:29:01.643Z"
-  },
-  "RICK FARM'S": {
+  "FARM DO SAPATO": {
     "idNumerico": "9",
-    "nome": "Rick Farm's",
+    "nome": "FARM DO SAPATO",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:20|10/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-10T14:30:22.729Z"
   }
 }

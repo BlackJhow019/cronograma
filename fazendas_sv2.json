@@ -114,9 +114,9 @@
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:02|10/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-10T10:46:37.912Z"
   },
   "SE ROUBAR MORRE": {
@@ -140,7 +140,7 @@
     "nome": "B13 :)",
     "status": "INDISPONIVEL",
     "disponivelEm": "10:07|10/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-10T11:58:35.745Z"
   },
   "FARM'S NAY E NICK": {
@@ -274,9 +274,9 @@
   "CHAMA A POLICIA": {
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:02|10/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-10T10:34:04.231Z"
   },
   "LA FAMILIA CHIARADIA": {

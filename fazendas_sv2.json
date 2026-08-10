@@ -43,9 +43,9 @@
     "idNumerico": "33",
     "nome": "Farma Da Familia Elite",
     "status": "INDISPONIVEL",
-    "disponivelEm": "18:28|10/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T19:35:47.307Z"
+    "disponivelEm": "18:29|10/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-10T19:37:03.574Z"
   },
   "AURA + EGO": {
     "idNumerico": "22",
@@ -327,14 +327,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-10T17:59:38.611Z"
   },
-  "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": "38",
-    "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:30|10/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T19:18:42.497Z"
-  },
   "TREMBALA": {
     "idNumerico": "42",
     "nome": "TremBala",
@@ -351,9 +343,17 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-10T18:14:57.193Z"
   },
-  "JESUS EA SOLUCAO": {
+  "FAZENDINHA BETREZE 2": {
+    "idNumerico": "38",
+    "nome": "Fazendinha BeTreZe 2",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:30|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T19:18:42.497Z"
+  },
+  "OS DE RACA": {
     "idNumerico": "0",
-    "nome": "JESUS EA SOLUCAO",
+    "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:46|10/08/2026",
     "cofreConsertado": true,

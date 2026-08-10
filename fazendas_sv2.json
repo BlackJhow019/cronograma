@@ -231,14 +231,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T17:59:38.611Z"
   },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T19:10:35.294Z"
-  },
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",
     "nome": "RAMONZIN_FRANCA",
@@ -303,14 +295,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T15:24:38.993Z"
   },
-  "FARMA DA FAMILIA ELITE": {
-    "idNumerico": "33",
-    "nome": "Farma Da Familia Elite",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
   ".": {
     "idNumerico": "31",
     "nome": ".",
@@ -326,6 +310,22 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
+  },
+  "FARMA DA FAMILIA ELITE": {
+    "idNumerico": "33",
+    "nome": "Farma Da Familia Elite",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "JESUS EA SOLUCAO": {
+    "idNumerico": "0",
+    "nome": "JESUS EA SOLUCAO",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:52|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T21:43:11.555Z"
   },
   "AZEROX": {
     "idNumerico": "23",

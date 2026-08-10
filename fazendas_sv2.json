@@ -74,9 +74,9 @@
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
     "nome": "Farma Da Familia Elite",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:06|10/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-10T03:14:35.938Z"
   },
   "AURA + EGO": {
@@ -218,10 +218,10 @@
   "FAZENDA DO GALIN": {
     "idNumerico": "15",
     "nome": "Fazenda do Galin",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:38|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T00:01:15.678Z"
+    "roubadaEm": "2026-08-10T05:19:14.643Z"
   },
   "@FILH_ODOPAII": {
     "idNumerico": "12",

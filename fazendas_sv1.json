@@ -138,10 +138,10 @@
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:40|11/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T16:18:21.417Z"
+    "roubadaEm": "2026-08-10T23:40:43.607Z"
   },
   "021": {
     "idNumerico": "1",
@@ -316,7 +316,7 @@
     "nome": "CdM Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:36|11/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-10T23:36:06.441Z"
   },
   "FAZENDADO 171": {

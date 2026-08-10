@@ -42,10 +42,10 @@
   "FARM DO GALO": {
     "idNumerico": "40",
     "nome": "FARM DO GALO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:52|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T04:48:53.144Z"
+    "roubadaEm": "2026-08-10T15:35:11.680Z"
   },
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
@@ -319,6 +319,14 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
+  "CLUBE DA LULUZINHA": {
+    "idNumerico": "8",
+    "nome": "Clube da Luluzinha",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T10:41:44.024Z"
+  },
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
@@ -350,13 +358,5 @@
     "disponivelEm": "14:53|10/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T15:24:38.993Z"
-  },
-  "CLUBE DA LULUZINHA": {
-    "idNumerico": "8",
-    "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T10:41:44.024Z"
   }
 }

@@ -287,6 +287,22 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-10T14:52:05.941Z"
   },
+  "YELLOWSTONE - BY MONSTER": {
+    "idNumerico": "16",
+    "nome": "YellowStone - By Monster",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:36|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T16:42:38.500Z"
+  },
+  "JESUS EA SOLUCAO": {
+    "idNumerico": "0",
+    "nome": "JESUS EA SOLUCAO",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:44|10/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-10T16:35:01.403Z"
+  },
   "FAZENDA DO GALIN": {
     "idNumerico": "15",
     "nome": "Fazenda do Galin",
@@ -294,6 +310,14 @@
     "disponivelEm": "15:07|10/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T15:48:00.284Z"
+  },
+  "< GAUBRE LTDA >": {
+    "idNumerico": "35",
+    "nome": "< GAUBRE LTDA >",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T10:22:31.398Z"
   },
   "FARM DO GALO": {
     "idNumerico": "40",
@@ -334,29 +358,5 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
-  },
-  "FARME DO DRAKE": {
-    "idNumerico": "35",
-    "nome": "Farme do Drake",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T10:22:31.398Z"
-  },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:44|10/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-10T16:35:01.403Z"
-  },
-  "YELLOWSTONE - BY MONSTER": {
-    "idNumerico": "16",
-    "nome": "YellowStone - By Monster",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:34|10/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T16:40:37.148Z"
   }
 }

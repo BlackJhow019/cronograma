@@ -231,6 +231,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T16:10:18.410Z"
   },
+  "FARM DA THATY": {
+    "idNumerico": "1",
+    "nome": "Farm da Thaty",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T18:36:58.789Z"
+  },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
@@ -311,22 +319,6 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "PENOSO FARM'S": {
-    "idNumerico": "10",
-    "nome": "Penoso Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:47|10/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-10T18:50:37.630Z"
-  },
-  "MALVADA'S FARM": {
-    "idNumerico": "32",
-    "nome": "Malvada's Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:00|10/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T19:47:37.403Z"
-  },
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",
     "nome": "Fazendinha BeTreZe 2",
@@ -341,7 +333,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "20:02|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T20:17:18.976Z"
+    "roubadaEm": "2026-08-10T20:17:32.617Z"
   },
   "AZEROX": {
     "idNumerico": "23",
@@ -350,5 +342,21 @@
     "disponivelEm": "17:58|10/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-10T19:49:44.853Z"
+  },
+  "ARIANA_B13": {
+    "idNumerico": "10",
+    "nome": "Ariana_B13",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:47|10/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-10T18:50:37.630Z"
+  },
+  "FAMILIA ALMANAK": {
+    "idNumerico": "32",
+    "nome": "Familia AlmanaK",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:00|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T19:47:37.403Z"
   }
 }

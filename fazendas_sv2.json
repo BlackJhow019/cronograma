@@ -42,10 +42,10 @@
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
     "nome": "Farma Da Familia Elite",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:27|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T03:14:35.938Z"
+    "roubadaEm": "2026-08-10T19:35:28.701Z"
   },
   "AURA + EGO": {
     "idNumerico": "22",
@@ -295,6 +295,46 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T18:36:58.789Z"
   },
+  "HWD INVESTIMENTOS": {
+    "idNumerico": "27",
+    "nome": "hwd investimentos",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T14:03:24.809Z"
+  },
+  "FARME DO DRAKE": {
+    "idNumerico": "35",
+    "nome": "Farme do Drake",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:57|10/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-10T19:32:40.589Z"
+  },
+  "RICO LOUCO": {
+    "idNumerico": "11",
+    "nome": "rico louco",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "TA NO GRALI": {
+    "idNumerico": "4",
+    "nome": "ta no grali",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:22|10/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-10T17:59:38.611Z"
+  },
+  "WORK INDUSTRIA'S LIMITED": {
+    "idNumerico": "38",
+    "nome": "Work Industria's Limited",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:30|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T19:18:42.497Z"
+  },
   "TREMBALA": {
     "idNumerico": "42",
     "nome": "TremBala",
@@ -311,49 +351,9 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-10T18:14:57.193Z"
   },
-  "ROCK FARM": {
-    "idNumerico": "11",
-    "nome": "RocK Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "FARM'S DE CAFE": {
-    "idNumerico": "4",
-    "nome": "Farm's de Cafe",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:22|10/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-10T17:59:38.611Z"
-  },
-  "HWD INVESTIMENTOS": {
-    "idNumerico": "27",
-    "nome": "hwd investimentos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T14:03:24.809Z"
-  },
-  "FARME DO DRAKE": {
-    "idNumerico": "35",
-    "nome": "Farme do Drake",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:57|10/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T19:32:40.589Z"
-  },
-  "FAZENDINHA BETREZE 2": {
-    "idNumerico": "38",
-    "nome": "Fazendinha BeTreZe 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:30|10/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T19:18:42.497Z"
-  },
-  "OS DE RACA": {
+  "JESUS EA SOLUCAO": {
     "idNumerico": "0",
-    "nome": "OS DE RACA",
+    "nome": "JESUS EA SOLUCAO",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:46|10/08/2026",
     "cofreConsertado": true,

@@ -210,8 +210,8 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:01|10/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T15:02:47.013Z"
   },
@@ -290,9 +290,9 @@
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:04|10/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-10T14:52:05.941Z"
   },
   "TREMBALA": {
@@ -303,14 +303,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T16:53:29.270Z"
   },
-  "FAZENDA DO GALIN": {
-    "idNumerico": "15",
-    "nome": "Fazenda do Galin",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:07|10/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T15:48:00.284Z"
-  },
   "< GAUBRE LTDA >": {
     "idNumerico": "35",
     "nome": "< GAUBRE LTDA >",
@@ -319,37 +311,13 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T10:22:31.398Z"
   },
-  "FARM DO GALO": {
+  "RICK FARM'S": {
     "idNumerico": "40",
-    "nome": "FARM DO GALO",
+    "nome": "Rick Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:53|10/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T15:36:02.335Z"
-  },
-  "KODIAK": {
-    "idNumerico": "3",
-    "nome": "KodiaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:28|10/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T16:28:18.553Z"
-  },
-  "WESKER_U$METRALHA": {
-    "idNumerico": "28",
-    "nome": "Wesker_u$MeTraLha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:24|10/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T16:08:14.041Z"
-  },
-  "RICK FARM'S": {
-    "idNumerico": "9",
-    "nome": "Rick Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -358,5 +326,29 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
+  },
+  "$ COMPANY $R.RC_PLINIODMG $": {
+    "idNumerico": "3",
+    "nome": "$ Company $r.RC_PlinioDmG $",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:28|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T16:28:18.553Z"
+  },
+  "YT @GANDIA_RP": {
+    "idNumerico": "15",
+    "nome": "YT @GANDIA_RP",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:07|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T15:48:00.284Z"
+  },
+  "FRANCA": {
+    "idNumerico": "28",
+    "nome": "FRANCA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:24|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T16:08:14.041Z"
   }
 }

@@ -116,7 +116,7 @@
     "nome": "FRANCA",
     "status": "INDISPONIVEL",
     "disponivelEm": "09:02|10/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-10T10:46:37.912Z"
   },
   "SE ROUBAR MORRE": {
@@ -166,14 +166,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-09T22:56:27.455Z"
-  },
-  "FARM DA THATY": {
-    "idNumerico": "1",
-    "nome": "Farm da Thaty",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:45|10/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-10T10:06:29.406Z"
   },
   "MALVADA'S FARM": {
     "idNumerico": "32",
@@ -327,14 +319,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-10T10:26:59.623Z"
   },
-  "CHAMA A POLICIA": {
-    "idNumerico": "44",
-    "nome": "CHAMA A POLICIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:02|10/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-10T10:34:04.231Z"
-  },
   "$ COMPANY $R.RC_PLINIODMG $": {
     "idNumerico": "3",
     "nome": "$ Company $r.RC_PlinioDmG $",
@@ -351,12 +335,28 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-10T10:41:44.024Z"
   },
-  "LA FAMILIA CHIARADIA": {
+  "SAO PEDRO 2": {
     "idNumerico": "43",
-    "nome": "LA FAMILIA CHIARADIA",
+    "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:37|10/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T09:31:07.917Z"
+  },
+  "QUEM ROUBAR E PETISTA": {
+    "idNumerico": "44",
+    "nome": "Quem Roubar e Petista",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:02|10/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-10T10:34:04.231Z"
+  },
+  "021": {
+    "idNumerico": "1",
+    "nome": "021",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:56|10/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-10T11:02:01.525Z"
   }
 }

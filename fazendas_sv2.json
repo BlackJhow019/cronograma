@@ -122,10 +122,10 @@
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:53|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-09T20:33:01.569Z"
+    "roubadaEm": "2026-08-10T03:37:08.905Z"
   },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
@@ -142,14 +142,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-09T21:13:41.506Z"
-  },
-  "FAZENDINHA BETREZE 2": {
-    "idNumerico": "38",
-    "nome": "Fazendinha BeTreZe 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:36|10/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-10T02:24:37.188Z"
   },
   "B13 :)": {
     "idNumerico": "23",

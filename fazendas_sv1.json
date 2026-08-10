@@ -76,7 +76,7 @@
     "nome": "Fazenda da Milly",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:43|11/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-10T22:43:25.548Z"
   },
   "HWD INVESTIMENTOS": {
@@ -122,10 +122,10 @@
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:51|11/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T14:16:59.768Z"
+    "roubadaEm": "2026-08-10T22:51:48.427Z"
   },
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",

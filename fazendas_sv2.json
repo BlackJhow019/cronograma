@@ -79,14 +79,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T12:02:05.516Z"
   },
-  "RANCHO DO DOUTOR": {
-    "idNumerico": "14",
-    "nome": "Rancho do Doutor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:37|11/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T22:37:09.901Z"
-  },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
@@ -199,14 +191,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T19:18:42.497Z"
   },
-  "GRUPO RANTER": {
-    "idNumerico": "19",
-    "nome": "GRUPO RANTER",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:44|10/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T20:28:35.462Z"
-  },
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
@@ -214,14 +198,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T15:24:38.993Z"
-  },
-  ".": {
-    "idNumerico": "31",
-    "nome": ".",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T13:28:17.716Z"
   },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
@@ -327,13 +303,13 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-10T21:45:53.207Z"
   },
-  "SE ROUBAR MORRE": {
-    "idNumerico": "41",
-    "nome": "SE ROUBAR MORRE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:00|10/08/2026",
+  "BORRACHAS FARM": {
+    "idNumerico": "33",
+    "nome": "Borrachas Farm",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T22:06:39.428Z"
+    "roubadaEm": null
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -343,20 +319,44 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "FARMA DA FAMILIA ELITE": {
-    "idNumerico": "33",
-    "nome": "Farma Da Familia Elite",
+  "FAZENDA DA MILLY": {
+    "idNumerico": "19",
+    "nome": "Fazenda da Milly",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-08-10T20:28:35.462Z"
   },
-  "DONA SEM RAZAO": {
+  "PREFEITO ROADBLOCK": {
+    "idNumerico": "41",
+    "nome": "Prefeito Roadblock",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:00|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T22:06:39.428Z"
+  },
+  "ROLINHA CANSADA FARMS": {
+    "idNumerico": "14",
+    "nome": "Rolinha Cansada Farms",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:03|11/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T22:47:21.687Z"
+  },
+  "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
-    "nome": "Dona sem razao",
+    "nome": "Rafha investimentos $",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:12|10/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T22:19:43.364Z"
+  },
+  ".": {
+    "idNumerico": "31",
+    "nome": ".",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T13:28:17.716Z"
   }
 }

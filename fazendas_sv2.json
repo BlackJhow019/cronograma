@@ -91,9 +91,9 @@
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
     "status": "INDISPONIVEL",
-    "disponivelEm": "17:41|10/08/2026",
+    "disponivelEm": "17:42|10/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T18:35:14.793Z"
+    "roubadaEm": "2026-08-10T18:36:03.217Z"
   },
   "@FILH_ODOPAII": {
     "idNumerico": "12",
@@ -126,14 +126,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T12:02:05.516Z"
-  },
-  "021": {
-    "idNumerico": "1",
-    "nome": "021",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T16:09:12.500Z"
   },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
@@ -358,5 +350,13 @@
     "disponivelEm": "15:53|10/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T15:36:02.335Z"
+  },
+  "FARM DA THATY": {
+    "idNumerico": "1",
+    "nome": "Farm da Thaty",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T16:09:12.500Z"
   }
 }

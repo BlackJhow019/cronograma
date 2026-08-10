@@ -111,6 +111,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T10:34:04.231Z"
   },
+  "AWAKE COMPANY": {
+    "idNumerico": "13",
+    "nome": "AwaKe Company",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T19:25:36.779Z"
+  },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
@@ -174,14 +182,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T19:05:45.104Z"
-  },
-  "FAZENDADO 171": {
-    "idNumerico": "12",
-    "nome": "fazendado 171",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T16:10:18.410Z"
   },
   "FARM DA THATY": {
     "idNumerico": "1",
@@ -350,5 +350,13 @@
     "disponivelEm": "21:19|10/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-10T21:45:39.226Z"
+  },
+  "@FILH_ODOPAII": {
+    "idNumerico": "12",
+    "nome": "@filh_odopaii",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T16:10:18.410Z"
   }
 }

@@ -50,8 +50,8 @@
   "< GAUBRE LTDA >": {
     "idNumerico": "35",
     "nome": "< GAUBRE LTDA >",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:11|11/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T22:28:52.748Z"
   },
@@ -263,20 +263,12 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-11T20:44:01.777Z"
   },
-  "DM2 FARM": {
-    "idNumerico": "6",
-    "nome": "Dm2 Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:13|11/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-11T18:13:56.681Z"
-  },
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:11|11/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-11T18:13:04.090Z"
   },
   "FAMILIA ALMANAK": {
@@ -342,5 +334,13 @@
     "disponivelEm": "23:15|11/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T21:15:55.269Z"
+  },
+  "/CARIDADE": {
+    "idNumerico": "40",
+    "nome": "/caridade",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
   }
 }

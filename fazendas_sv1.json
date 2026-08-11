@@ -2,10 +2,10 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:04|11/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T04:51:31.146Z"
+    "roubadaEm": "2026-08-11T11:04:40.793Z"
   },
   "KODIAK": {
     "idNumerico": "3",
@@ -66,8 +66,8 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:45|11/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T05:45:23.284Z"
   },

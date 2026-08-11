@@ -202,10 +202,10 @@
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",
     "nome": "RAMONZIN_FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:08|11/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T08:00:08.341Z"
+    "roubadaEm": "2026-08-11T13:28:36.520Z"
   },
   "CANNABIS": {
     "idNumerico": "8",
@@ -311,6 +311,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T12:53:03.978Z"
   },
+  "DEAD (:": {
+    "idNumerico": "27",
+    "nome": "Dead (:",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:13|11/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-11T13:23:23.326Z"
+  },
   "MALVADA'S FARM": {
     "idNumerico": "32",
     "nome": "Malvada's Farm",
@@ -350,13 +358,5 @@
     "disponivelEm": "10:51|11/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T12:08:25.443Z"
-  },
-  "HWD INVESTIMENTOS": {
-    "idNumerico": "27",
-    "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:13|11/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-11T13:23:23.326Z"
   }
 }

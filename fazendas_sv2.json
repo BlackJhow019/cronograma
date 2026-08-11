@@ -58,10 +58,10 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:57|11/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T08:49:10.201Z"
+    "roubadaEm": "2026-08-11T13:55:43.990Z"
   },
   "FARM DO GALO": {
     "idNumerico": "40",
@@ -183,14 +183,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T05:13:25.943Z"
   },
-  "RAMONZIN_FRANCA": {
-    "idNumerico": "21",
-    "nome": "RAMONZIN_FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:08|11/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-11T13:28:36.415Z"
-  },
   "CANNABIS": {
     "idNumerico": "8",
     "nome": "CANNABIS",
@@ -303,6 +295,22 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T13:47:29.433Z"
   },
+  "VENDO 500KM ACEITO TROCAS": {
+    "idNumerico": "24",
+    "nome": "VENDO 500km ACEITO TROCAS",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:10|11/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-11T11:53:22.735Z"
+  },
+  "AWAKE COMPANY": {
+    "idNumerico": "13",
+    "nome": "AwaKe Company",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:00|11/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-11T13:54:20.117Z"
+  },
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
     "nome": "Farma Da Familia Elite",
@@ -311,13 +319,13 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T12:53:03.978Z"
   },
-  "VENDO 500KM ACEITO TROCAS": {
-    "idNumerico": "24",
-    "nome": "VENDO 500km ACEITO TROCAS",
+  "DEAD (:": {
+    "idNumerico": "27",
+    "nome": "Dead (:",
     "status": "INDISPONIVEL",
-    "disponivelEm": "11:10|11/08/2026",
+    "disponivelEm": "13:13|11/08/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-08-11T11:53:22.735Z"
+    "roubadaEm": "2026-08-11T13:23:23.223Z"
   },
   "MALVADA'S FARM": {
     "idNumerico": "32",
@@ -327,14 +335,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T13:14:03.646Z"
   },
-  "FARM DA THATY": {
-    "idNumerico": "1",
-    "nome": "Farm da Thaty",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:54|11/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T12:11:13.348Z"
-  },
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
@@ -343,20 +343,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T11:59:28.020Z"
   },
-  "NOREX FARM'S": {
-    "idNumerico": "13",
-    "nome": "Norex farm's",
+  "PEDRO FARM'S": {
+    "idNumerico": "21",
+    "nome": "PedrO farm's",
     "status": "INDISPONIVEL",
-    "disponivelEm": "12:00|11/08/2026",
+    "disponivelEm": "13:08|11/08/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-08-11T13:54:20.117Z"
-  },
-  "HWD INVESTIMENTOS": {
-    "idNumerico": "27",
-    "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:13|11/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-11T13:23:23.223Z"
+    "roubadaEm": "2026-08-11T13:28:36.415Z"
   }
 }

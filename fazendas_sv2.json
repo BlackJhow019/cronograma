@@ -100,7 +100,7 @@
     "nome": "Ariana_B13",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:33|11/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-11T13:36:00.264Z"
   },
   "FAZENDA REI DROGADO": {
@@ -226,8 +226,8 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:37|11/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T11:38:04.148Z"
   },
@@ -287,14 +287,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-11T13:10:31.058Z"
   },
-  "FARMA DA FAMILIA ELITE": {
-    "idNumerico": "33",
-    "nome": "Farma Da Familia Elite",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:53|11/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T12:53:03.978Z"
-  },
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
@@ -311,6 +303,22 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T12:08:25.443Z"
   },
+  "30PRAUM": {
+    "idNumerico": "16",
+    "nome": "30PRAUM",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-11T11:35:24.214Z"
+  },
+  "FARMA DA FAMILIA ELITE": {
+    "idNumerico": "33",
+    "nome": "Farma Da Familia Elite",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:53|11/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-11T12:53:03.978Z"
+  },
   "DEAD (:": {
     "idNumerico": "27",
     "nome": "Dead (:",
@@ -326,14 +334,6 @@
     "disponivelEm": "12:10|11/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T13:14:03.646Z"
-  },
-  "30PRAUM": {
-    "idNumerico": "16",
-    "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:39|11/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T11:35:24.214Z"
   },
   "FARM DA THATY": {
     "idNumerico": "1",

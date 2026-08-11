@@ -314,9 +314,9 @@
   "CDM FARM'S": {
     "idNumerico": "20",
     "nome": "CdM Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:36|11/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-10T23:36:06.441Z"
   },
   "FAZENDADO 171": {

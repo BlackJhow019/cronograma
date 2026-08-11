@@ -106,10 +106,10 @@
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:34|11/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T06:54:41.756Z"
+    "roubadaEm": "2026-08-11T14:27:56.702Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
@@ -134,14 +134,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T08:39:27.150Z"
-  },
-  "FARM DO SAPATO": {
-    "idNumerico": "9",
-    "nome": "FARM DO SAPATO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:27|11/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-11T12:16:23.883Z"
   },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",

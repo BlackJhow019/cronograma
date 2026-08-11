@@ -53,7 +53,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "04:49|11/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T05:45:21.470Z"
+    "roubadaEm": "2026-08-11T05:45:31.505Z"
   },
   "RICO LOUCO": {
     "idNumerico": "11",
@@ -279,6 +279,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-11T05:25:03.459Z"
   },
+  "B13 :)": {
+    "idNumerico": "23",
+    "nome": "B13 :)",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-11T04:33:35.386Z"
+  },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
@@ -319,30 +327,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-11T05:28:03.275Z"
   },
-  "FARM DA THATY": {
-    "idNumerico": "1",
-    "nome": "Farm da Thaty",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:04|11/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T05:24:48.956Z"
-  },
-  "DM2 FARM": {
-    "idNumerico": "6",
-    "nome": "Dm2 Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:00|11/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T05:00:38.293Z"
-  },
-  "NIKE SHOX": {
-    "idNumerico": "42",
-    "nome": "NIKE SHOX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:45|11/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-11T04:20:56.414Z"
-  },
   "DEAD (:": {
     "idNumerico": "27",
     "nome": "Dead (:",
@@ -350,5 +334,29 @@
     "disponivelEm": "03:19|11/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-11T04:43:42.151Z"
+  },
+  "SITIO DO JN": {
+    "idNumerico": "6",
+    "nome": "Sitio do jn",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:00|11/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-11T05:00:38.293Z"
+  },
+  "021": {
+    "idNumerico": "1",
+    "nome": "021",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:04|11/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-11T05:24:48.956Z"
+  },
+  "TREMBALA": {
+    "idNumerico": "42",
+    "nome": "TremBala",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:45|11/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-11T04:20:56.414Z"
   }
 }

@@ -140,7 +140,7 @@
     "nome": "Familia KuSh",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:20|11/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-11T13:20:00.582Z"
   },
   "RANCHO DO DOUTOR": {
@@ -230,14 +230,6 @@
     "disponivelEm": "10:37|11/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T11:38:04.148Z"
-  },
-  "DEAD (:": {
-    "idNumerico": "27",
-    "nome": "Dead (:",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:37|11/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-11T12:01:45.296Z"
   },
   "< GAUBRE LTDA >": {
     "idNumerico": "35",
@@ -358,5 +350,13 @@
     "disponivelEm": "10:51|11/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T12:08:25.443Z"
+  },
+  "HWD INVESTIMENTOS": {
+    "idNumerico": "27",
+    "nome": "hwd investimentos",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:13|11/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-11T13:23:23.326Z"
   }
 }

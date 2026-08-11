@@ -63,14 +63,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T15:53:46.498Z"
   },
-  "SUCCUBUS FARMS": {
-    "idNumerico": "29",
-    "nome": "Succubus Farms",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T14:25:58.578Z"
-  },
   "~E V O M~": {
     "idNumerico": "25",
     "nome": "~E V O M~",
@@ -150,14 +142,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T14:32:28.896Z"
-  },
-  ".": {
-    "idNumerico": "31",
-    "nome": ".",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-11T14:15:24.891Z"
   },
   "30PRAUM": {
     "idNumerico": "16",
@@ -319,14 +303,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-11T18:13:04.313Z"
   },
-  "FAMILIA ALMANAK": {
-    "idNumerico": "32",
-    "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T13:14:03.646Z"
-  },
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
@@ -343,6 +319,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T13:55:51.966Z"
   },
+  "FARM'S NAY E NICK": {
+    "idNumerico": "5",
+    "nome": "FARM'S NAY E NICK",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:20|11/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-11T19:14:01.563Z"
+  },
   "FARM DA THATY": {
     "idNumerico": "1",
     "nome": "Farm da Thaty",
@@ -351,12 +335,12 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-11T18:48:29.449Z"
   },
-  "FARM'S NAY E NICK": {
-    "idNumerico": "5",
-    "nome": "FARM'S NAY E NICK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:20|11/08/2026",
+  "MALVADA'S FARM": {
+    "idNumerico": "32",
+    "nome": "Malvada's Farm",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T19:14:33.731Z"
+    "roubadaEm": "2026-08-11T13:14:03.646Z"
   }
 }

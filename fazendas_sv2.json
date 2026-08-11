@@ -59,7 +59,7 @@
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
-    "disponivelEm": "08:50|11/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T08:49:10.201Z"
   },
@@ -162,10 +162,10 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:51|11/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T05:25:03.459Z"
+    "roubadaEm": "2026-08-11T11:51:03.309Z"
   },
   "FARM'S NAY E NICK": {
     "idNumerico": "5",

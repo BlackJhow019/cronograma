@@ -1,12 +1,4 @@
 {
-  "999": {
-    "idNumerico": "39",
-    "nome": "999",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:18|11/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T12:47:20.853Z"
-  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -42,10 +34,10 @@
   "/VENDERPRODUTOS": {
     "idNumerico": "7",
     "nome": "/VENDERPRODUTOS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:21|11/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T11:48:39.442Z"
+    "roubadaEm": "2026-08-11T17:21:27.068Z"
   },
   "@FILH_ODOPAII": {
     "idNumerico": "12",
@@ -146,9 +138,9 @@
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:16|11/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-11T14:32:28.896Z"
   },
   ".": {
@@ -343,17 +335,17 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T15:41:07.428Z"
   },
-  "FAZENDA FELIZ": {
-    "idNumerico": "22",
-    "nome": "fazenda feliz",
+  "FAZENDINHA DO IGEZE": {
+    "idNumerico": "36",
+    "nome": "fazendinha do igeze",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "FAZENDA DO MIRIM": {
-    "idNumerico": "36",
-    "nome": "Fazenda Do MIRIM",
+  "AURA + EGO": {
+    "idNumerico": "22",
+    "nome": "Aura + Ego",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,

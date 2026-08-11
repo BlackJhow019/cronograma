@@ -50,10 +50,10 @@
   "FARM DO GALO": {
     "idNumerico": "40",
     "nome": "FARM DO GALO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:10|11/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T06:19:36.383Z"
+    "roubadaEm": "2026-08-11T15:53:46.539Z"
   },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",
@@ -295,14 +295,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-11T15:42:37.794Z"
   },
-  "SE ROUBAR MORRE": {
-    "idNumerico": "41",
-    "nome": "SE ROUBAR MORRE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:40|11/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T14:40:42.667Z"
-  },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
@@ -358,5 +350,13 @@
     "disponivelEm": "14:10|11/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T14:35:35.383Z"
+  },
+  "PREFEITO ROADBLOCK": {
+    "idNumerico": "41",
+    "nome": "Prefeito Roadblock",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:40|11/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-11T14:40:42.667Z"
   }
 }

@@ -154,7 +154,7 @@
   "FARME DO DRAKE": {
     "idNumerico": "35",
     "nome": "Farme do Drake",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T19:34:16.803Z"
@@ -335,14 +335,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-11T19:51:07.758Z"
   },
-  "YELLOWSTONE - BY MONSTER": {
-    "idNumerico": "16",
-    "nome": "YellowStone - By Monster",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:34|11/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T21:40:44.412Z"
-  },
   "SITIO DO JN": {
     "idNumerico": "6",
     "nome": "Sitio do jn",
@@ -358,5 +350,13 @@
     "disponivelEm": "21:35|11/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T21:32:02.992Z"
+  },
+  "30PRAUM": {
+    "idNumerico": "16",
+    "nome": "30PRAUM",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:34|11/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-11T21:40:44.412Z"
   }
 }

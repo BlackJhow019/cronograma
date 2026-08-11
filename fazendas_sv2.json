@@ -116,7 +116,7 @@
     "nome": "Dona sem razao",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:02|11/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-11T13:10:03.588Z"
   },
   "AURA + EGO": {
@@ -190,14 +190,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T21:47:40.774Z"
-  },
-  "MALVADA'S FARM": {
-    "idNumerico": "32",
-    "nome": "Malvada's Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T11:52:52.932Z"
   },
   "CHAMA A POLICIA": {
     "idNumerico": "44",
@@ -356,7 +348,15 @@
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "11:58|11/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-11T13:10:31.058Z"
+  },
+  "FAMILIA ALMANAK": {
+    "idNumerico": "32",
+    "nome": "Familia AlmanaK",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:10|11/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-11T13:13:52.399Z"
   }
 }

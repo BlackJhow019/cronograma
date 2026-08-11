@@ -167,14 +167,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-11T12:16:23.883Z"
   },
-  "FRANCA": {
-    "idNumerico": "28",
-    "nome": "FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T08:38:06.890Z"
-  },
   "FAZENDA DO GALIN": {
     "idNumerico": "15",
     "nome": "Fazenda do Galin",
@@ -358,5 +350,13 @@
     "disponivelEm": "11:10|11/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-11T11:53:22.735Z"
+  },
+  "WESKER_U$METRALHA": {
+    "idNumerico": "28",
+    "nome": "Wesker_u$MeTraLha",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:43|11/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-11T13:43:06.755Z"
   }
 }

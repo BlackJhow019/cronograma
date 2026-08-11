@@ -55,14 +55,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T14:00:00.427Z"
   },
-  "FARM DO GALO": {
-    "idNumerico": "40",
-    "nome": "FARM DO GALO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:10|11/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-11T15:53:46.498Z"
-  },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",
     "nome": "Succubus Farms",
@@ -158,14 +150,6 @@
     "disponivelEm": "16:15|11/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-11T14:15:24.891Z"
-  },
-  "..OURO..PR3TO..": {
-    "idNumerico": "5",
-    "nome": "..OURO..PR3TO..",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T08:39:27.150Z"
   },
   "30PRAUM": {
     "idNumerico": "16",
@@ -358,5 +342,13 @@
     "disponivelEm": "17:27|11/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-11T18:48:29.449Z"
+  },
+  "FARM'S NAY E NICK": {
+    "idNumerico": "5",
+    "nome": "FARM'S NAY E NICK",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:20|11/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-11T19:14:01.751Z"
   }
 }

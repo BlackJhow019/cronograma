@@ -103,14 +103,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T23:23:53.284Z"
   },
-  "FAZENDA DA MILLY": {
-    "idNumerico": "19",
-    "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T20:28:35.462Z"
-  },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",
     "nome": "Succubus Farms",
@@ -250,8 +242,8 @@
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:05|11/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T02:56:31.199Z"
   },
@@ -295,22 +287,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T05:13:25.943Z"
   },
-  "VENDO 500KM ACEITO TROCAS": {
-    "idNumerico": "24",
-    "nome": "VENDO 500km ACEITO TROCAS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:21|11/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-11T03:51:21.970Z"
-  },
-  "SAO PEDRO 2": {
-    "idNumerico": "43",
-    "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
   "< GAUBRE LTDA >": {
     "idNumerico": "35",
     "nome": "< GAUBRE LTDA >",
@@ -319,14 +295,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T21:45:53.207Z"
   },
-  "YT @GANDIA_RP": {
-    "idNumerico": "15",
-    "nome": "YT @GANDIA_RP",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:34|11/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-11T05:28:03.275Z"
-  },
   "DEAD (:": {
     "idNumerico": "27",
     "nome": "Dead (:",
@@ -334,6 +302,14 @@
     "disponivelEm": "03:19|11/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-11T04:43:42.151Z"
+  },
+  "LA FAMILIA CHIARADIA": {
+    "idNumerico": "43",
+    "nome": "LA FAMILIA CHIARADIA",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
   },
   "SITIO DO JN": {
     "idNumerico": "6",
@@ -358,5 +334,29 @@
     "disponivelEm": "03:45|11/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-11T04:20:56.414Z"
+  },
+  "VENDO 500KM ACEITO TROCAS": {
+    "idNumerico": "24",
+    "nome": "VENDO 500km ACEITO TROCAS",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:21|11/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-11T03:51:21.970Z"
+  },
+  "FAZENDA DO GALIN": {
+    "idNumerico": "15",
+    "nome": "Fazenda do Galin",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:34|11/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-11T05:28:03.275Z"
+  },
+  "GRUPO RANTER": {
+    "idNumerico": "19",
+    "nome": "GRUPO RANTER",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T20:28:35.462Z"
   }
 }

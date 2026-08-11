@@ -82,26 +82,10 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:05|10/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T23:01:32.641Z"
-  },
-  "FRANCA": {
-    "idNumerico": "28",
-    "nome": "FRANCA",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "FARM DO SAPATO": {
-    "idNumerico": "9",
-    "nome": "FARM DO SAPATO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:50|10/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-10T23:38:50.454Z"
+    "roubadaEm": "2026-08-10T23:01:32.641Z"
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
@@ -279,6 +263,30 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
+  "DONA SEM RAZAO": {
+    "idNumerico": "26",
+    "nome": "Dona sem razao",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:12|10/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T22:19:43.364Z"
+  },
+  "DM2 FARM": {
+    "idNumerico": "6",
+    "nome": "Dm2 Farm",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:45|11/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T23:45:23.315Z"
+  },
+  "30PRAUM": {
+    "idNumerico": "16",
+    "nome": "30PRAUM",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:11|11/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-11T00:58:04.874Z"
+  },
   "CDM FARM'S": {
     "idNumerico": "20",
     "nome": "CdM Farm's",
@@ -294,6 +302,14 @@
     "disponivelEm": "22:25|10/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T23:03:14.138Z"
+  },
+  "WESKER_U$METRALHA": {
+    "idNumerico": "28",
+    "nome": "Wesker_u$MeTraLha",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
   },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
@@ -335,28 +351,12 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-10T23:41:08.724Z"
   },
-  "DONA SEM RAZAO": {
-    "idNumerico": "26",
-    "nome": "Dona sem razao",
+  "RICK FARM'S": {
+    "idNumerico": "9",
+    "nome": "Rick Farm's",
     "status": "INDISPONIVEL",
-    "disponivelEm": "23:12|10/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T22:19:43.364Z"
-  },
-  "SITIO DO JN": {
-    "idNumerico": "6",
-    "nome": "Sitio do jn",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:45|11/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T23:45:23.315Z"
-  },
-  "30PRAUM": {
-    "idNumerico": "16",
-    "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:11|11/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T00:58:04.874Z"
+    "disponivelEm": "23:55|10/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-11T01:11:14.047Z"
   }
 }

@@ -2,10 +2,10 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T11:05:10.723Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:24|11/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-11T19:24:44.953Z"
   },
   "KODIAK": {
     "idNumerico": "3",
@@ -82,10 +82,10 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:48|11/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T13:23:26.372Z"
+    "roubadaEm": "2026-08-11T19:48:05.917Z"
   },
   "AZEROX": {
     "idNumerico": "23",
@@ -170,10 +170,10 @@
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T03:10:57.534Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:20|11/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-11T19:20:54.953Z"
   },
   "NOREX FARM'S": {
     "idNumerico": "13",
@@ -298,10 +298,10 @@
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T14:11:21.835Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:28|11/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-11T19:28:51.790Z"
   },
   "RICK FARM'S": {
     "idNumerico": "9",

@@ -239,54 +239,6 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "FARM DA THATY": {
-    "idNumerico": "1",
-    "nome": "Farm da Thaty",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T12:11:13.348Z"
-  },
-  "RICO LOUCO": {
-    "idNumerico": "11",
-    "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T11:59:28.020Z"
-  },
-  "VALE DAS SOMBRAS": {
-    "idNumerico": "24",
-    "nome": "Vale das Sombras",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T11:53:22.735Z"
-  },
-  "SITIO DO JN": {
-    "idNumerico": "6",
-    "nome": "Sitio do jn",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T12:08:25.443Z"
-  },
-  "B13 :)": {
-    "idNumerico": "23",
-    "nome": "B13 :)",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:58|11/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T12:19:56.816Z"
-  },
-  "YELLOWSTONE - BY MONSTER": {
-    "idNumerico": "16",
-    "nome": "YellowStone - By Monster",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T11:35:24.214Z"
-  },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
@@ -301,7 +253,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "16:15|11/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T14:15:12.820Z"
+    "roubadaEm": "2026-08-11T14:15:24.891Z"
   },
   "KODIAK": {
     "idNumerico": "3",
@@ -319,14 +271,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-11T14:11:20.504Z"
   },
-  "HWD INVESTIMENTOS": {
-    "idNumerico": "27",
-    "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:13|11/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-11T13:23:23.223Z"
-  },
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",
     "nome": "RAMONZIN_FRANCA",
@@ -334,14 +278,6 @@
     "disponivelEm": "15:55|11/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-11T13:55:51.966Z"
-  },
-  "FAMILIA ALMANAK": {
-    "idNumerico": "32",
-    "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:10|11/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T13:14:03.646Z"
   },
   "AWAKE COMPANY": {
     "idNumerico": "13",
@@ -358,5 +294,69 @@
     "disponivelEm": "14:53|11/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T12:53:03.978Z"
+  },
+  "AZEROX": {
+    "idNumerico": "23",
+    "nome": "AzeRoX",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:58|11/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-11T12:19:56.816Z"
+  },
+  "DM2 FARM": {
+    "idNumerico": "6",
+    "nome": "Dm2 Farm",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-11T12:08:25.443Z"
+  },
+  "DEAD (:": {
+    "idNumerico": "27",
+    "nome": "Dead (:",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:13|11/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-11T13:23:23.223Z"
+  },
+  "ROCK FARM": {
+    "idNumerico": "11",
+    "nome": "RocK Farm",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-11T11:59:28.020Z"
+  },
+  "VENDO 500KM ACEITO TROCAS": {
+    "idNumerico": "24",
+    "nome": "VENDO 500km ACEITO TROCAS",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-11T11:53:22.735Z"
+  },
+  "MALVADA'S FARM": {
+    "idNumerico": "32",
+    "nome": "Malvada's Farm",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:10|11/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-11T13:14:03.646Z"
+  },
+  "30PRAUM": {
+    "idNumerico": "16",
+    "nome": "30PRAUM",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-11T11:35:24.214Z"
+  },
+  "FARM DA THATY": {
+    "idNumerico": "1",
+    "nome": "Farm da Thaty",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-11T12:11:13.348Z"
   }
 }

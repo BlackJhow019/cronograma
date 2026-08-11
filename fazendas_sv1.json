@@ -11,7 +11,7 @@
     "idNumerico": "3",
     "nome": "KodiaK",
     "status": "INDISPONIVEL",
-    "disponivelEm": "15:47|11/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T13:47:30.349Z"
   },
@@ -290,10 +290,10 @@
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:47|11/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T13:14:04.053Z"
+    "roubadaEm": "2026-08-11T18:47:45.697Z"
   },
   "PENOSO FARM'S": {
     "idNumerico": "10",

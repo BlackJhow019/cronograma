@@ -20,7 +20,7 @@
     "nome": "NIKE SHOX",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:51|11/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-11T04:58:23.971Z"
   },
   "RAFHA INVESTIMENTOS $": {
@@ -276,7 +276,7 @@
     "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:00|11/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-11T05:00:40.733Z"
   },
   "SAO PEDRO 2": {
@@ -330,10 +330,10 @@
   "PEDRO FARM'S": {
     "idNumerico": "21",
     "nome": "PedrO farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:07|11/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T15:00:41.896Z"
+    "roubadaEm": "2026-08-11T05:07:43.744Z"
   },
   "PLANTAÇÃO DE COCA DO CARTEL DE MEDELLIN": {
     "idNumerico": "30",

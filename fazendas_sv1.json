@@ -52,7 +52,7 @@
     "nome": "< GAUBRE LTDA >",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:53|11/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-11T17:10:59.196Z"
   },
   "VENDO 500KM ACEITO TROCAS": {
@@ -142,6 +142,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T05:28:02.906Z"
+  },
+  "021": {
+    "idNumerico": "1",
+    "nome": "021",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-11T12:11:14.700Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",

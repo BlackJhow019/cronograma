@@ -138,10 +138,10 @@
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:19|11/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T02:25:39.727Z"
+    "roubadaEm": "2026-08-11T13:19:46.760Z"
   },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
@@ -295,6 +295,22 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T09:21:15.081Z"
   },
+  "AZEROX": {
+    "idNumerico": "23",
+    "nome": "AzeRoX",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:58|11/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-11T12:19:56.816Z"
+  },
+  "OS DE RACA": {
+    "idNumerico": "0",
+    "nome": "OS DE RACA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:58|11/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-11T13:10:31.058Z"
+  },
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
     "nome": "Farma Da Familia Elite",
@@ -303,13 +319,13 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T12:53:03.978Z"
   },
-  "AZEROX": {
-    "idNumerico": "23",
-    "nome": "AzeRoX",
+  "MALVADA'S FARM": {
+    "idNumerico": "32",
+    "nome": "Malvada's Farm",
     "status": "INDISPONIVEL",
-    "disponivelEm": "11:58|11/08/2026",
+    "disponivelEm": "12:10|11/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T12:19:56.816Z"
+    "roubadaEm": "2026-08-11T13:14:03.646Z"
   },
   "FARM DA THATY": {
     "idNumerico": "1",
@@ -342,21 +358,5 @@
     "disponivelEm": "10:51|11/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T12:08:25.443Z"
-  },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:58|11/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-11T13:10:31.058Z"
-  },
-  "FAMILIA ALMANAK": {
-    "idNumerico": "32",
-    "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:10|11/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T13:14:03.646Z"
   }
 }

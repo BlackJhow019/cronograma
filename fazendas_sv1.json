@@ -66,10 +66,10 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:45|11/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T23:01:34.339Z"
+    "roubadaEm": "2026-08-11T05:45:23.392Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
@@ -214,14 +214,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T20:35:29.212Z"
-  },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:40|11/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T00:40:55.212Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",

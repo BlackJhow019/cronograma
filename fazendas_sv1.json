@@ -154,9 +154,9 @@
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:36|10/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-10T20:36:53.192Z"
   },
   "FAZENDINHA DO IGEZE": {
@@ -210,8 +210,8 @@
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:35|10/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T20:35:29.212Z"
   },
@@ -267,9 +267,9 @@
     "idNumerico": "5",
     "nome": "..OURO..PR3TO..",
     "status": "INDISPONIVEL",
-    "disponivelEm": "03:33|11/08/2026",
+    "disponivelEm": "03:32|11/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T01:33:09.777Z"
+    "roubadaEm": "2026-08-11T01:32:54.890Z"
   },
   "DM2 FARM": {
     "idNumerico": "6",

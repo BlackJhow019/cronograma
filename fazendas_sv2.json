@@ -1,12 +1,4 @@
 {
-  "999": {
-    "idNumerico": "39",
-    "nome": "999",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:32|11/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T22:16:42.703Z"
-  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -42,8 +34,8 @@
   "/VENDERPRODUTOS": {
     "idNumerico": "7",
     "nome": "/VENDERPRODUTOS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:22|11/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T17:22:39.358Z"
   },
@@ -119,6 +111,22 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T14:15:24.891Z"
   },
+  "SE ROUBAR MORRE": {
+    "idNumerico": "41",
+    "nome": "SE ROUBAR MORRE",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:50|11/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-11T19:51:07.758Z"
+  },
+  "JAH RASTAFARI": {
+    "idNumerico": "39",
+    "nome": "JAH RASTAFARI",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:32|11/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-11T22:16:42.703Z"
+  },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
@@ -142,6 +150,14 @@
     "disponivelEm": "20:44|11/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-11T20:14:14.963Z"
+  },
+  "NOREX FARM'S": {
+    "idNumerico": "13",
+    "nome": "Norex farm's",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-11T19:54:16.857Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -207,6 +223,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T20:26:20.921Z"
   },
+  "30PRAUM": {
+    "idNumerico": "16",
+    "nome": "30PRAUM",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:34|11/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-11T21:40:44.412Z"
+  },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
@@ -234,10 +258,10 @@
   "AWAKE COMPANY": {
     "idNumerico": "13",
     "nome": "AwaKe Company",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:21|11/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T19:54:16.857Z"
+    "roubadaEm": null
   },
   "AZEROX": {
     "idNumerico": "23",
@@ -342,21 +366,5 @@
     "disponivelEm": "19:45|11/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-11T20:53:49.395Z"
-  },
-  "PREFEITO ROADBLOCK": {
-    "idNumerico": "41",
-    "nome": "Prefeito Roadblock",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:50|11/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-11T19:51:07.758Z"
-  },
-  "YELLOWSTONE - BY MONSTER": {
-    "idNumerico": "16",
-    "nome": "YellowStone - By Monster",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:34|11/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T21:40:44.412Z"
   }
 }

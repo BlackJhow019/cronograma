@@ -42,10 +42,10 @@
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
     "nome": "Wesker_u$MeTraLha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:43|11/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T01:08:29.664Z"
+    "roubadaEm": "2026-08-11T13:43:10.972Z"
   },
   "< GAUBRE LTDA >": {
     "idNumerico": "35",
@@ -84,7 +84,7 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:23|11/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-11T13:23:26.372Z"
   },
   "AZEROX": {

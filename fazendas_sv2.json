@@ -279,14 +279,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T07:09:09.510Z"
   },
-  "FARM DA THATY": {
-    "idNumerico": "1",
-    "nome": "Farm da Thaty",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:03|11/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T11:23:41.117Z"
-  },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
@@ -303,6 +295,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-11T12:01:45.296Z"
   },
+  "< GAUBRE LTDA >": {
+    "idNumerico": "35",
+    "nome": "< GAUBRE LTDA >",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:41|11/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-11T12:07:40.513Z"
+  },
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
@@ -318,6 +318,14 @@
     "disponivelEm": "11:10|11/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-11T11:53:22.735Z"
+  },
+  "SITIO DO JN": {
+    "idNumerico": "6",
+    "nome": "Sitio do jn",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:51|11/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-11T12:08:25.443Z"
   },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
@@ -343,20 +351,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T11:15:49.739Z"
   },
-  "< GAUBRE LTDA >": {
-    "idNumerico": "35",
-    "nome": "< GAUBRE LTDA >",
+  "021": {
+    "idNumerico": "1",
+    "nome": "021",
     "status": "INDISPONIVEL",
-    "disponivelEm": "11:41|11/08/2026",
+    "disponivelEm": "10:53|11/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T12:07:40.513Z"
-  },
-  "DM2 FARM": {
-    "idNumerico": "6",
-    "nome": "Dm2 Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:51|11/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T12:08:25.443Z"
+    "roubadaEm": "2026-08-11T12:10:26.388Z"
   }
 }

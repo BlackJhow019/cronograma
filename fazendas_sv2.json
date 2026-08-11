@@ -167,14 +167,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-11T14:32:28.896Z"
   },
-  "FAZENDA FELIZ": {
-    "idNumerico": "22",
-    "nome": "fazenda feliz",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:42|11/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-11T14:42:00.680Z"
-  },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
     "nome": "YellowStone - By Monster",
@@ -358,5 +350,13 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
+  },
+  "AURA + EGO": {
+    "idNumerico": "22",
+    "nome": "Aura + Ego",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:00|11/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-11T15:42:20.691Z"
   }
 }

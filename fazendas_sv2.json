@@ -26,9 +26,9 @@
   "AMO O LOWER": {
     "idNumerico": "2",
     "nome": "Amo o Lower",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:30|11/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-11T08:49:10.763Z"
   },
   "/VENDERPRODUTOS": {
@@ -276,7 +276,7 @@
     "nome": "JESUS EA SOLUCAO",
     "status": "INDISPONIVEL",
     "disponivelEm": "09:31|11/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-11T09:22:39.137Z"
   },
   "HWD INVESTIMENTOS": {
@@ -311,14 +311,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T08:00:08.341Z"
   },
-  "CANNABIS": {
-    "idNumerico": "8",
-    "nome": "CANNABIS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:31|11/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T07:21:54.505Z"
-  },
   "ROCK FARM": {
     "idNumerico": "11",
     "nome": "RocK Farm",
@@ -343,14 +335,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-11T09:19:31.132Z"
   },
-  "JAH RASTAFARI": {
-    "idNumerico": "39",
-    "nome": "JAH RASTAFARI",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T07:09:09.510Z"
-  },
   "LA FAMILIA CHIARADIA": {
     "idNumerico": "43",
     "nome": "LA FAMILIA CHIARADIA",
@@ -358,5 +342,13 @@
     "disponivelEm": "08:14|11/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T09:25:42.468Z"
+  },
+  "JAH RASTAFARI": {
+    "idNumerico": "39",
+    "nome": "JAH RASTAFARI",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-11T07:09:09.510Z"
   }
 }

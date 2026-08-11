@@ -295,13 +295,13 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-11T04:33:35.386Z"
   },
-  "SAO PEDRO 2": {
-    "idNumerico": "43",
-    "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+  "PEDRO FARM'S": {
+    "idNumerico": "21",
+    "nome": "PedrO farm's",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:07|11/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-08-11T05:07:57.584Z"
   },
   "SITIO DO JN": {
     "idNumerico": "6",
@@ -327,6 +327,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-11T03:51:21.970Z"
   },
+  "SAO PEDRO 2": {
+    "idNumerico": "43",
+    "nome": "SAO PEDRO 2",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
@@ -334,14 +342,6 @@
     "disponivelEm": "03:19|11/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-11T04:43:42.151Z"
-  },
-  "CHAMA A POLICIA": {
-    "idNumerico": "44",
-    "nome": "CHAMA A POLICIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T22:51:37.409Z"
   },
   "FARME DO DRAKE": {
     "idNumerico": "35",
@@ -351,12 +351,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T21:45:53.207Z"
   },
-  "PEDRO FARM'S": {
-    "idNumerico": "21",
-    "nome": "PedrO farm's",
+  "QUEM ROUBAR E PETISTA": {
+    "idNumerico": "44",
+    "nome": "Quem Roubar e Petista",
     "status": "INDISPONIVEL",
-    "disponivelEm": "07:07|11/08/2026",
+    "disponivelEm": "04:56|11/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T05:07:57.584Z"
+    "roubadaEm": "2026-08-11T05:13:11.266Z"
   }
 }

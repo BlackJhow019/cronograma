@@ -282,9 +282,9 @@
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:50|10/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-10T23:41:08.724Z"
   },
   "FARM DA THATY": {
@@ -295,14 +295,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T18:36:58.789Z"
   },
-  "CDM FARM'S": {
-    "idNumerico": "20",
-    "nome": "CdM Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:36|11/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T00:54:11.911Z"
-  },
   "NIKE SHOX": {
     "idNumerico": "42",
     "nome": "NIKE SHOX",
@@ -310,6 +302,46 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T16:53:29.103Z"
+  },
+  "ROLINHA CANSADA FARMS": {
+    "idNumerico": "14",
+    "nome": "Rolinha Cansada Farms",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:05|11/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T22:48:48.583Z"
+  },
+  "AURA + EGO": {
+    "idNumerico": "22",
+    "nome": "Aura + Ego",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:08|11/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-11T01:41:02.071Z"
+  },
+  "FARM'S NAY E NICK": {
+    "idNumerico": "5",
+    "nome": "FARM'S NAY E NICK",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T18:36:03.217Z"
+  },
+  "FARM DO SAPATO": {
+    "idNumerico": "9",
+    "nome": "FARM DO SAPATO",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:55|10/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-11T01:11:28.686Z"
+  },
+  "CDM FARM'S": {
+    "idNumerico": "20",
+    "nome": "CdM Farm's",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:36|11/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-11T00:54:11.911Z"
   },
   "TA NO GRALI": {
     "idNumerico": "4",
@@ -326,37 +358,5 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T19:05:45.104Z"
-  },
-  "ROLINHA CANSADA FARMS": {
-    "idNumerico": "14",
-    "nome": "Rolinha Cansada Farms",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:05|11/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T22:48:48.583Z"
-  },
-  "..OURO..PR3TO..": {
-    "idNumerico": "5",
-    "nome": "..OURO..PR3TO..",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T18:36:03.217Z"
-  },
-  "RICK FARM'S": {
-    "idNumerico": "9",
-    "nome": "Rick Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:55|10/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-11T01:11:28.686Z"
-  },
-  "AURA + EGO": {
-    "idNumerico": "22",
-    "nome": "Aura + Ego",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:08|11/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T01:41:02.071Z"
   }
 }

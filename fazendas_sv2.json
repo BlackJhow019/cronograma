@@ -135,6 +135,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T20:18:26.562Z"
   },
+  "FARM DO GALO": {
+    "idNumerico": "40",
+    "nome": "FARM DO GALO",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T23:23:53.284Z"
+  },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
@@ -327,6 +335,22 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T00:54:11.911Z"
   },
+  "RICK FARM'S": {
+    "idNumerico": "9",
+    "nome": "Rick Farm's",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:55|10/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-11T01:11:28.686Z"
+  },
+  "WESKER_U$METRALHA": {
+    "idNumerico": "28",
+    "nome": "Wesker_u$MeTraLha",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:57|11/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-11T02:41:27.258Z"
+  },
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
@@ -334,21 +358,5 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T18:36:03.217Z"
-  },
-  "FARM DO SAPATO": {
-    "idNumerico": "9",
-    "nome": "FARM DO SAPATO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:55|10/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-11T01:11:28.686Z"
-  },
-  "FRANCA": {
-    "idNumerico": "28",
-    "nome": "FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:57|11/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T02:41:27.258Z"
   }
 }

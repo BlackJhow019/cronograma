@@ -36,7 +36,7 @@
     "nome": "Borrachas Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:53|11/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-11T12:53:03.670Z"
   },
   "WESKER_U$METRALHA": {
@@ -218,10 +218,10 @@
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:10|11/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T00:40:55.212Z"
+    "roubadaEm": "2026-08-11T13:10:18.739Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",
@@ -234,10 +234,10 @@
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:00|11/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T22:06:40.441Z"
+    "roubadaEm": "2026-08-11T13:00:57.454Z"
   },
   "ROUBO OFF": {
     "idNumerico": "7",

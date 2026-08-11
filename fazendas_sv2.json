@@ -146,10 +146,10 @@
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
     "nome": "Farma Da Familia Elite",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:55|11/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T12:53:03.978Z"
+    "roubadaEm": "2026-08-11T20:03:25.370Z"
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -311,20 +311,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T19:48:24.762Z"
   },
-  "FARME DO DRAKE": {
-    "idNumerico": "35",
-    "nome": "Farme do Drake",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:59|11/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T19:34:16.803Z"
-  },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
     "nome": "Wesker_u$MeTraLha",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:56|11/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-11T19:56:10.096Z"
   },
   "FAMILIA KUSH": {
@@ -358,5 +350,13 @@
     "disponivelEm": "17:37|11/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T18:38:42.998Z"
+  },
+  "< GAUBRE LTDA >": {
+    "idNumerico": "35",
+    "nome": "< GAUBRE LTDA >",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:59|11/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-11T19:34:16.803Z"
   }
 }

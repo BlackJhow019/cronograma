@@ -34,10 +34,10 @@
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:33|11/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T12:53:03.670Z"
+    "roubadaEm": "2026-08-11T20:33:25.751Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
@@ -125,7 +125,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "22:19|11/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T20:19:48.493Z"
+    "roubadaEm": "2026-08-11T20:19:35.630Z"
   },
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
@@ -253,7 +253,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "22:24|11/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T20:24:45.926Z"
+    "roubadaEm": "2026-08-11T20:24:06.491Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",

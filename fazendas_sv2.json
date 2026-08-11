@@ -279,6 +279,62 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T12:53:03.978Z"
   },
+  "SITIO DO JN": {
+    "idNumerico": "6",
+    "nome": "Sitio do jn",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:37|11/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-11T15:50:56.669Z"
+  },
+  "FAZENDA FELIZ": {
+    "idNumerico": "22",
+    "nome": "fazenda feliz",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:00|11/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-11T15:42:37.794Z"
+  },
+  "SE ROUBAR MORRE": {
+    "idNumerico": "41",
+    "nome": "SE ROUBAR MORRE",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:40|11/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-11T14:40:42.667Z"
+  },
+  "WORK INDUSTRIA'S LIMITED": {
+    "idNumerico": "38",
+    "nome": "Work Industria's Limited",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:09|11/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-11T15:41:07.428Z"
+  },
+  "NOREX FARM'S": {
+    "idNumerico": "13",
+    "nome": "Norex farm's",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "KODIAK": {
+    "idNumerico": "3",
+    "nome": "KodiaK",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:05|11/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-11T15:26:35.517Z"
+  },
+  "WESKER_U$METRALHA": {
+    "idNumerico": "28",
+    "nome": "Wesker_u$MeTraLha",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:38|11/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-11T15:15:08.746Z"
+  },
   "ARIANA_B13": {
     "idNumerico": "10",
     "nome": "Ariana_B13",
@@ -302,61 +358,5 @@
     "disponivelEm": "14:10|11/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T14:35:35.383Z"
-  },
-  "PREFEITO ROADBLOCK": {
-    "idNumerico": "41",
-    "nome": "Prefeito Roadblock",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:40|11/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T14:40:42.667Z"
-  },
-  "AWAKE COMPANY": {
-    "idNumerico": "13",
-    "nome": "AwaKe Company",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "SITIO DO JN": {
-    "idNumerico": "6",
-    "nome": "Sitio do jn",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:36|11/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T15:50:25.780Z"
-  },
-  "AURA + EGO": {
-    "idNumerico": "22",
-    "nome": "Aura + Ego",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:00|11/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-11T15:42:37.794Z"
-  },
-  "FAZENDINHA BETREZE 2": {
-    "idNumerico": "38",
-    "nome": "Fazendinha BeTreZe 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:09|11/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T15:41:07.428Z"
-  },
-  "$ COMPANY $R.RC_PLINIODMG $": {
-    "idNumerico": "3",
-    "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:05|11/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T15:26:35.517Z"
-  },
-  "FRANCA": {
-    "idNumerico": "28",
-    "nome": "FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:38|11/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T15:15:08.746Z"
   }
 }

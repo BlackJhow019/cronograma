@@ -76,7 +76,7 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:10|11/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-11T02:50:47.148Z"
   },
   "RICO LOUCO": {
@@ -182,14 +182,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T13:28:17.716Z"
-  },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T00:40:57.490Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
@@ -327,6 +319,22 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-11T01:11:28.686Z"
   },
+  "SAO PEDRO 2": {
+    "idNumerico": "43",
+    "nome": "SAO PEDRO 2",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:51|11/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-11T02:51:58.860Z"
+  },
+  "FARME DO DRAKE": {
+    "idNumerico": "35",
+    "nome": "Farme do Drake",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T21:45:53.207Z"
+  },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
     "nome": "Wesker_u$MeTraLha",
@@ -343,20 +351,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T18:36:03.217Z"
   },
-  "< GAUBRE LTDA >": {
-    "idNumerico": "35",
-    "nome": "< GAUBRE LTDA >",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T21:45:53.207Z"
-  },
-  "SAO PEDRO 2": {
-    "idNumerico": "43",
-    "nome": "SAO PEDRO 2",
+  "JESUS EA SOLUCAO": {
+    "idNumerico": "0",
+    "nome": "JESUS EA SOLUCAO",
     "status": "INDISPONIVEL",
-    "disponivelEm": "04:51|11/08/2026",
+    "disponivelEm": "03:04|11/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T02:51:43.516Z"
+    "roubadaEm": "2026-08-11T02:55:07.890Z"
   }
 }

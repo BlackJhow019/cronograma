@@ -10,10 +10,10 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:47|11/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T02:19:46.836Z"
+    "roubadaEm": "2026-08-11T13:47:30.433Z"
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -44,7 +44,7 @@
     "nome": "Wesker_u$MeTraLha",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:43|11/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-11T13:43:40.351Z"
   },
   "< GAUBRE LTDA >": {

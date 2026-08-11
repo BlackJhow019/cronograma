@@ -42,10 +42,10 @@
   "@FILH_ODOPAII": {
     "idNumerico": "12",
     "nome": "@filh_odopaii",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:03|11/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T21:48:06.821Z"
+    "roubadaEm": "2026-08-11T08:26:41.465Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",

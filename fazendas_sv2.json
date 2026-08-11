@@ -3,9 +3,9 @@
     "idNumerico": "39",
     "nome": "999",
     "status": "INDISPONIVEL",
-    "disponivelEm": "10:45|11/08/2026",
+    "disponivelEm": "10:44|11/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T12:29:43.479Z"
+    "roubadaEm": "2026-08-11T12:29:26.816Z"
   },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
@@ -301,7 +301,15 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "11:26|11/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T12:33:55.510Z"
+    "roubadaEm": "2026-08-11T12:33:55.419Z"
+  },
+  "NIKE SHOX": {
+    "idNumerico": "42",
+    "nome": "NIKE SHOX",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:06|11/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-11T11:52:07.257Z"
   },
   "FARM DA THATY": {
     "idNumerico": "1",
@@ -350,13 +358,5 @@
     "disponivelEm": "10:39|11/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T11:35:24.214Z"
-  },
-  "TREMBALA": {
-    "idNumerico": "42",
-    "nome": "TremBala",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:06|11/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T11:52:07.257Z"
   }
 }

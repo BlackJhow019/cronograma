@@ -74,10 +74,10 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:10|11/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T20:42:44.911Z"
+    "roubadaEm": "2026-08-11T02:50:47.148Z"
   },
   "RICO LOUCO": {
     "idNumerico": "11",
@@ -108,7 +108,7 @@
     "nome": "Borrachas Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:47|11/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-11T02:47:23.080Z"
   },
   "LA FAMILIA CHIARADIA": {
@@ -303,14 +303,6 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "FARME DO DRAKE": {
-    "idNumerico": "35",
-    "nome": "Farme do Drake",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T21:45:53.207Z"
-  },
   "CHAMA A POLICIA": {
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
@@ -343,14 +335,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-11T01:11:28.686Z"
   },
-  "..OURO..PR3TO..": {
-    "idNumerico": "5",
-    "nome": "..OURO..PR3TO..",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T18:36:03.217Z"
-  },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
     "nome": "Wesker_u$MeTraLha",
@@ -358,5 +342,21 @@
     "disponivelEm": "00:57|11/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T02:41:27.258Z"
+  },
+  "FARM'S NAY E NICK": {
+    "idNumerico": "5",
+    "nome": "FARM'S NAY E NICK",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T18:36:03.217Z"
+  },
+  "< GAUBRE LTDA >": {
+    "idNumerico": "35",
+    "nome": "< GAUBRE LTDA >",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-10T21:45:53.207Z"
   }
 }

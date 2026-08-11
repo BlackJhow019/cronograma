@@ -29,7 +29,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "06:30|11/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T08:49:10.845Z"
+    "roubadaEm": "2026-08-11T08:49:25.392Z"
   },
   "/VENDERPRODUTOS": {
     "idNumerico": "7",
@@ -343,6 +343,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T08:38:06.890Z"
   },
+  "CANNABIS": {
+    "idNumerico": "8",
+    "nome": "CANNABIS",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:31|11/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-11T07:21:54.505Z"
+  },
   "JAH RASTAFARI": {
     "idNumerico": "39",
     "nome": "JAH RASTAFARI",
@@ -350,13 +358,5 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T07:09:09.510Z"
-  },
-  "CLUBE DA LULUZINHA": {
-    "idNumerico": "8",
-    "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:31|11/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T07:21:54.505Z"
   }
 }

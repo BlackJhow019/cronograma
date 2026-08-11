@@ -55,11 +55,19 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T14:00:00.427Z"
   },
+  "FARM DO GALO": {
+    "idNumerico": "40",
+    "nome": "FARM DO GALO",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-11T15:53:46.498Z"
+  },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",
     "nome": "Succubus Farms",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:14|11/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T14:25:58.578Z"
   },
@@ -147,7 +155,7 @@
     "idNumerico": "31",
     "nome": ".",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:15|11/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-11T14:15:24.891Z"
   },

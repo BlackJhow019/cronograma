@@ -235,7 +235,7 @@
     "idNumerico": "14",
     "nome": "Rolinha Cansada Farms",
     "status": "INDISPONIVEL",
-    "disponivelEm": "00:05|11/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-10T22:48:48.583Z"
   },
@@ -354,9 +354,9 @@
   "MALVADA'S FARM": {
     "idNumerico": "32",
     "nome": "Malvada's Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:18|11/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-08-11T03:05:16.860Z"
   }
 }

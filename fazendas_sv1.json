@@ -50,10 +50,10 @@
   "< GAUBRE LTDA >": {
     "idNumerico": "35",
     "nome": "< GAUBRE LTDA >",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:52|11/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T12:07:41.301Z"
+    "roubadaEm": "2026-08-11T17:10:39.440Z"
   },
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
@@ -204,7 +204,7 @@
     "nome": "30PRAUM",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:58|11/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-11T16:58:34.725Z"
   },
   "FAZENDA FELIZ": {
@@ -270,14 +270,6 @@
     "disponivelEm": "17:03|11/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-11T15:03:44.370Z"
-  },
-  "DM2 FARM": {
-    "idNumerico": "6",
-    "nome": "Dm2 Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:08|11/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T12:08:24.129Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",

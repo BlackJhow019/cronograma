@@ -114,10 +114,10 @@
   "DONA SEM RAZAO": {
     "idNumerico": "26",
     "nome": "Dona sem razao",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:02|11/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T07:46:47.559Z"
+    "roubadaEm": "2026-08-11T13:10:03.588Z"
   },
   "AURA + EGO": {
     "idNumerico": "22",
@@ -198,14 +198,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T11:52:52.932Z"
-  },
-  "JESUS EA SOLUCAO": {
-    "idNumerico": "0",
-    "nome": "JESUS EA SOLUCAO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T09:22:39.137Z"
   },
   "CHAMA A POLICIA": {
     "idNumerico": "44",
@@ -303,6 +295,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T07:58:54.444Z"
   },
+  "CDM FARM'S": {
+    "idNumerico": "20",
+    "nome": "CdM Farm's",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-11T09:21:15.081Z"
+  },
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
     "nome": "Farma Da Familia Elite",
@@ -311,13 +311,13 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T12:53:03.978Z"
   },
-  "CDM FARM'S": {
-    "idNumerico": "20",
-    "nome": "CdM Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+  "AZEROX": {
+    "idNumerico": "23",
+    "nome": "AzeRoX",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:58|11/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T09:21:15.081Z"
+    "roubadaEm": "2026-08-11T12:19:56.816Z"
   },
   "FARM DA THATY": {
     "idNumerico": "1",
@@ -351,12 +351,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T12:08:25.443Z"
   },
-  "B13 :)": {
-    "idNumerico": "23",
-    "nome": "B13 :)",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:58|11/08/2026",
+  "OS DE RACA": {
+    "idNumerico": "0",
+    "nome": "OS DE RACA",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T12:19:56.816Z"
+    "roubadaEm": "2026-08-11T09:22:39.137Z"
   }
 }

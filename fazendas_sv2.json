@@ -1,12 +1,4 @@
 {
-  "999": {
-    "idNumerico": "39",
-    "nome": "999",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:18|11/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T12:47:20.853Z"
-  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -154,9 +146,9 @@
   "TA NO GRALI": {
     "idNumerico": "4",
     "nome": "ta no grali",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:36|11/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-11T13:00:24.875Z"
   },
   "CDM FARM'S": {
@@ -292,8 +284,24 @@
     "nome": "YT @GANDIA_RP",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:30|11/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-11T15:24:32.621Z"
+  },
+  "JAH RASTAFARI": {
+    "idNumerico": "39",
+    "nome": "JAH RASTAFARI",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:18|11/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-11T12:47:20.853Z"
+  },
+  "KODIAK": {
+    "idNumerico": "3",
+    "nome": "KodiaK",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:05|11/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-11T15:26:35.517Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
@@ -302,14 +310,6 @@
     "disponivelEm": "13:38|11/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T15:15:08.746Z"
-  },
-  "$ COMPANY $R.RC_PLINIODMG $": {
-    "idNumerico": "3",
-    "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:05|11/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T15:26:35.517Z"
   },
   "ARIANA_B13": {
     "idNumerico": "10",
@@ -343,6 +343,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T14:40:42.667Z"
   },
+  "BORRACHAS FARM": {
+    "idNumerico": "33",
+    "nome": "Borrachas Farm",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:53|11/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-11T12:53:03.978Z"
+  },
   "AWAKE COMPANY": {
     "idNumerico": "13",
     "nome": "AwaKe Company",
@@ -350,13 +358,5 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
-  },
-  "FARMA DA FAMILIA ELITE": {
-    "idNumerico": "33",
-    "nome": "Farma Da Familia Elite",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:53|11/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T12:53:03.978Z"
   }
 }

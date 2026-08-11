@@ -52,7 +52,7 @@
     "nome": "< GAUBRE LTDA >",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:32|11/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-11T02:50:28.534Z"
   },
   "VENDO 500KM ACEITO TROCAS": {
@@ -85,7 +85,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "04:51|11/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T02:51:01.046Z"
+    "roubadaEm": "2026-08-11T02:51:03.291Z"
   },
   "AZEROX": {
     "idNumerico": "23",
@@ -282,10 +282,10 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:50|11/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T20:01:59.485Z"
+    "roubadaEm": "2026-08-11T02:51:58.542Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",

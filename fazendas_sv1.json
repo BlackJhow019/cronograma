@@ -138,10 +138,10 @@
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:53|11/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T05:28:02.906Z"
+    "roubadaEm": "2026-08-11T20:53:49.176Z"
   },
   "021": {
     "idNumerico": "1",
@@ -260,7 +260,7 @@
     "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:44|11/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-11T20:44:01.777Z"
   },
   "DM2 FARM": {

@@ -18,10 +18,10 @@
   "NIKE SHOX": {
     "idNumerico": "42",
     "nome": "NIKE SHOX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:20|12/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T21:25:57.035Z"
+    "roubadaEm": "2026-08-12T02:27:12.880Z"
   },
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
@@ -54,6 +54,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T11:53:22.550Z"
+  },
+  "CLUBE DA LULUZINHA": {
+    "idNumerico": "8",
+    "nome": "Clube da Luluzinha",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-11T21:22:04.771Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",

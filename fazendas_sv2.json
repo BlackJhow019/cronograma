@@ -5,7 +5,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "10:18|12/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-12T12:02:58.717Z"
+    "roubadaEm": "2026-08-12T12:03:08.130Z"
   },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
@@ -94,14 +94,6 @@
     "disponivelEm": "13:32|12/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-12T11:32:07.576Z"
-  },
-  "FAZENDINHA BETREZE 2": {
-    "idNumerico": "38",
-    "nome": "Fazendinha BeTreZe 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-12T04:37:09.986Z"
   },
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",
@@ -350,5 +342,13 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-12T09:33:38.343Z"
+  },
+  "WORK INDUSTRIA'S LIMITED": {
+    "idNumerico": "38",
+    "nome": "Work Industria's Limited",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-12T04:37:09.986Z"
   }
 }

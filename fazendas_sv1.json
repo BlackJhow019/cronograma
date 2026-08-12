@@ -82,10 +82,10 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:48|12/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T22:07:18.072Z"
+    "roubadaEm": "2026-08-12T04:48:23.696Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
@@ -258,9 +258,9 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:44|12/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-11T23:44:43.057Z"
   },
   "SAO PEDRO 2": {

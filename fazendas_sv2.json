@@ -87,14 +87,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-12T12:15:01.564Z"
   },
-  "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": "38",
-    "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
@@ -146,10 +138,10 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:31|12/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-12T10:40:52.311Z"
+    "roubadaEm": null
   },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",
@@ -162,10 +154,10 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T11:59:28.020Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:19|12/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-12T13:27:17.748Z"
   },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
@@ -182,6 +174,14 @@
     "disponivelEm": "12:50|12/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-12T10:50:48.185Z"
+  },
+  "FARM DA THATY": {
+    "idNumerico": "1",
+    "nome": "Farm da Thaty",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:07|12/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-12T13:24:27.871Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
@@ -247,6 +247,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-12T09:33:38.343Z"
   },
+  "YT @GANDIA_RP": {
+    "idNumerico": "15",
+    "nome": "YT @GANDIA_RP",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:25|12/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-12T13:25:38.493Z"
+  },
   "B13 :)": {
     "idNumerico": "23",
     "nome": "B13 :)",
@@ -303,9 +311,9 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-12T11:27:31.049Z"
   },
-  "NOREX FARM'S": {
-    "idNumerico": "13",
-    "nome": "Norex farm's",
+  "WORK INDUSTRIA'S LIMITED": {
+    "idNumerico": "38",
+    "nome": "Work Industria's Limited",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
@@ -343,20 +351,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-12T12:18:04.938Z"
   },
-  "021": {
-    "idNumerico": "1",
-    "nome": "021",
+  "AWAKE COMPANY": {
+    "idNumerico": "13",
+    "nome": "AwaKe Company",
     "status": "INDISPONIVEL",
-    "disponivelEm": "12:07|12/08/2026",
+    "disponivelEm": "13:02|12/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-12T13:24:27.871Z"
-  },
-  "FAZENDA DO GALIN": {
-    "idNumerico": "15",
-    "nome": "Fazenda do Galin",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:25|12/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-12T13:25:38.493Z"
+    "roubadaEm": "2026-08-12T13:34:35.939Z"
   }
 }

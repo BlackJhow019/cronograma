@@ -90,10 +90,10 @@
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:04|12/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-12T10:30:14.449Z"
+    "roubadaEm": "2026-08-12T16:04:47.382Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
     "idNumerico": "17",
@@ -262,14 +262,6 @@
     "disponivelEm": "17:00|12/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-12T15:00:04.718Z"
-  },
-  "SAO PEDRO 2": {
-    "idNumerico": "43",
-    "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:03|12/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-12T11:04:38.314Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",

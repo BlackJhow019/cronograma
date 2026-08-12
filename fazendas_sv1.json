@@ -71,18 +71,10 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-12T13:52:55.899Z"
   },
-  "HWD INVESTIMENTOS": {
-    "idNumerico": "27",
-    "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:40|12/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-12T10:40:52.746Z"
-  },
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-12T10:38:26.364Z"
@@ -114,9 +106,9 @@
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:39|12/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-12T10:39:34.685Z"
   },
   "GRANJA DO IMONKEY": {

@@ -90,10 +90,10 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:38|12/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T23:00:01.026Z"
+    "roubadaEm": "2026-08-12T13:38:47.574Z"
   },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",

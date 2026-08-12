@@ -1,12 +1,4 @@
 {
-  "999": {
-    "idNumerico": "39",
-    "nome": "999",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:18|12/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-12T12:03:08.130Z"
-  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -239,14 +231,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-12T11:27:31.049Z"
   },
-  "SAO PEDRO 2": {
-    "idNumerico": "43",
-    "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:57|12/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-12T12:51:43.987Z"
-  },
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
@@ -301,7 +285,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "12:36|12/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-12T13:16:26.753Z"
+    "roubadaEm": "2026-08-12T13:16:35.179Z"
   },
   "SITIO DO JN": {
     "idNumerico": "6",
@@ -358,5 +342,21 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-12T07:31:58.829Z"
+  },
+  "JAH RASTAFARI": {
+    "idNumerico": "39",
+    "nome": "JAH RASTAFARI",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:18|12/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-12T12:03:08.130Z"
+  },
+  "LA FAMILIA CHIARADIA": {
+    "idNumerico": "43",
+    "nome": "LA FAMILIA CHIARADIA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:57|12/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-12T12:51:43.987Z"
   }
 }

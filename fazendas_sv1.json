@@ -2,10 +2,10 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:57|12/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T19:24:44.953Z"
+    "roubadaEm": "2026-08-12T00:57:01.735Z"
   },
   "KODIAK": {
     "idNumerico": "3",
@@ -30,14 +30,6 @@
     "disponivelEm": "23:32|11/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-11T21:32:01.172Z"
-  },
-  "BORRACHAS FARM": {
-    "idNumerico": "33",
-    "nome": "Borrachas Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:33|11/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-11T20:33:25.751Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
@@ -130,10 +122,10 @@
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:37|12/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-10T19:48:47.243Z"
+    "roubadaEm": "2026-08-11T23:37:37.840Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
@@ -146,18 +138,18 @@
   "021": {
     "idNumerico": "1",
     "nome": "021",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:00|12/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T18:58:36.606Z"
+    "roubadaEm": "2026-08-12T01:00:39.666Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T19:10:55.204Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:19|12/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-12T00:19:11.445Z"
   },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
@@ -266,10 +258,10 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T18:13:56.681Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:44|12/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-11T23:44:43.057Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -290,10 +282,10 @@
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T19:28:51.790Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:46|12/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-12T00:46:15.048Z"
   },
   "RICK FARM'S": {
     "idNumerico": "9",
@@ -346,6 +338,14 @@
   "/CARIDADE": {
     "idNumerico": "40",
     "nome": "/caridade",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "BORRACHAS FARM": {
+    "idNumerico": "33",
+    "nome": "Borrachas Farm",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,

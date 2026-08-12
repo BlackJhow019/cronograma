@@ -68,7 +68,7 @@
     "nome": "Fazenda da Milly",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:52|12/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-12T13:52:55.899Z"
   },
   "HWD INVESTIMENTOS": {
@@ -178,10 +178,10 @@
   "JAH RASTAFARI": {
     "idNumerico": "39",
     "nome": "JAH RASTAFARI",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:56|12/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-12T05:15:34.710Z"
+    "roubadaEm": "2026-08-12T13:56:14.976Z"
   },
   ".": {
     "idNumerico": "31",

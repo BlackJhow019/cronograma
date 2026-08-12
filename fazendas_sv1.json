@@ -66,10 +66,10 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:23|12/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T18:38:55.612Z"
+    "roubadaEm": "2026-08-12T05:23:50.914Z"
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
@@ -146,9 +146,9 @@
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:19|12/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-12T00:19:11.445Z"
   },
   "FAZENDINHA DO IGEZE": {

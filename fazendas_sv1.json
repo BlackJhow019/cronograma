@@ -4,7 +4,7 @@
     "nome": "rico louco",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:27|12/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-12T13:27:18.031Z"
   },
   "KODIAK": {
@@ -194,10 +194,10 @@
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:37|12/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-12T05:38:17.348Z"
+    "roubadaEm": "2026-08-12T13:37:44.935Z"
   },
   "FAZENDA FELIZ": {
     "idNumerico": "22",

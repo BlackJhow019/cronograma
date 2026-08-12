@@ -83,7 +83,7 @@
     "idNumerico": "23",
     "nome": "AzeRoX",
     "status": "INDISPONIVEL",
-    "disponivelEm": "12:38|12/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-12T10:38:26.364Z"
   },
@@ -346,8 +346,8 @@
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:34|12/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-12T10:34:33.930Z"
   }

@@ -58,10 +58,10 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:14|12/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-12T09:19:18.457Z"
+    "roubadaEm": "2026-08-12T16:14:24.915Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
@@ -164,7 +164,7 @@
     "nome": "PoLeMiCo$ industri$",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:09|12/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-12T16:09:19.995Z"
   },
   "NOREX FARM'S": {

@@ -242,10 +242,10 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:39|12/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-12T02:08:16.779Z"
+    "roubadaEm": "2026-08-12T13:39:03.904Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",

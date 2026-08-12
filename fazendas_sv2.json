@@ -77,7 +77,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "08:22|12/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-12T09:18:51.392Z"
+    "roubadaEm": "2026-08-12T09:19:02.675Z"
   },
   "FARM DO GALO": {
     "idNumerico": "40",
@@ -142,14 +142,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-12T06:13:24.778Z"
-  },
-  "..OURO..PR3TO..": {
-    "idNumerico": "5",
-    "nome": "..OURO..PR3TO..",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:05|12/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-12T08:59:37.124Z"
   },
   "FAZENDA FELIZ": {
     "idNumerico": "22",
@@ -335,14 +327,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-12T05:15:32.362Z"
   },
-  "JESUS EA SOLUCAO": {
-    "idNumerico": "0",
-    "nome": "JESUS EA SOLUCAO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:49|12/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-12T09:01:11.586Z"
-  },
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
     "nome": "Farms de Galopisitas",
@@ -358,5 +342,21 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
+  },
+  "OS DE RACA": {
+    "idNumerico": "0",
+    "nome": "OS DE RACA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:49|12/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-12T09:01:11.586Z"
+  },
+  "FARM'S NAY E NICK": {
+    "idNumerico": "5",
+    "nome": "FARM'S NAY E NICK",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:05|12/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-12T08:59:37.124Z"
   }
 }

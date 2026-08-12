@@ -125,7 +125,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "06:46|12/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-12T05:15:17.755Z"
+    "roubadaEm": "2026-08-12T05:15:35.469Z"
   },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
@@ -134,14 +134,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-11T21:40:44.412Z"
-  },
-  "RAFHA INVESTIMENTOS $": {
-    "idNumerico": "26",
-    "nome": "Rafha investimentos $",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-11T21:32:02.992Z"
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -358,5 +350,13 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-12T01:16:33.391Z"
+  },
+  "DONA SEM RAZAO": {
+    "idNumerico": "26",
+    "nome": "Dona sem razao",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-11T21:32:02.992Z"
   }
 }

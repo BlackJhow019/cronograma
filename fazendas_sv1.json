@@ -196,8 +196,8 @@
     "nome": "30PRAUM",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:38|12/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-12T05:38:34.056Z"
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-12T05:38:17.348Z"
   },
   "FAZENDA FELIZ": {
     "idNumerico": "22",
@@ -283,7 +283,7 @@
     "idNumerico": "10",
     "nome": "Penoso Farm's",
     "status": "INDISPONIVEL",
-    "disponivelEm": "02:46|12/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-12T00:46:15.048Z"
   },

@@ -154,10 +154,10 @@
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:28|12/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-12T03:45:17.581Z"
+    "roubadaEm": "2026-08-12T14:28:48.704Z"
   },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
@@ -212,7 +212,7 @@
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:21|12/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-12T14:21:31.629Z"
   },
   "K1NG FARM'S": {

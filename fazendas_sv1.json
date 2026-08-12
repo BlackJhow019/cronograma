@@ -7,14 +7,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-12T00:57:01.735Z"
   },
-  "KODIAK": {
-    "idNumerico": "3",
-    "nome": "KodiaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:01|12/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-12T05:01:37.005Z"
-  },
   "NIKE SHOX": {
     "idNumerico": "42",
     "nome": "NIKE SHOX",
@@ -42,10 +34,10 @@
   "< GAUBRE LTDA >": {
     "idNumerico": "35",
     "nome": "< GAUBRE LTDA >",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:43|12/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-12T03:51:05.287Z"
+    "roubadaEm": "2026-08-12T10:01:48.233Z"
   },
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
@@ -250,9 +242,9 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:59|12/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-12T04:59:06.927Z"
   },
   "DM2 FARM": {

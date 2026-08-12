@@ -159,14 +159,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-12T12:45:41.649Z"
   },
-  "FAZENDA FELIZ": {
-    "idNumerico": "22",
-    "nome": "fazenda feliz",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:32|12/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-12T11:32:07.576Z"
-  },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
@@ -207,22 +199,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-12T13:07:57.520Z"
   },
-  "FARMS DE GALOPISITAS": {
-    "idNumerico": "20",
-    "nome": "Farms de Galopisitas",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:35|12/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-12T12:53:32.501Z"
-  },
-  "FAZENDINHA BETREZE 2": {
-    "idNumerico": "38",
-    "nome": "Fazendinha BeTreZe 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:18|12/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-12T12:08:38.925Z"
-  },
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",
     "nome": "Fazenda Rei Drogado",
@@ -230,14 +206,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-12T11:27:31.049Z"
-  },
-  "AZEROX": {
-    "idNumerico": "23",
-    "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:17|12/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-12T10:38:26.628Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -285,7 +253,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "12:36|12/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-12T13:16:35.179Z"
+    "roubadaEm": "2026-08-12T13:16:48.595Z"
   },
   "SITIO DO JN": {
     "idNumerico": "6",
@@ -351,9 +319,41 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-12T12:03:08.130Z"
   },
-  "LA FAMILIA CHIARADIA": {
+  "CDM FARM'S": {
+    "idNumerico": "20",
+    "nome": "CdM Farm's",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:35|12/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-12T12:53:32.501Z"
+  },
+  "AURA + EGO": {
+    "idNumerico": "22",
+    "nome": "Aura + Ego",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:32|12/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-12T11:32:07.576Z"
+  },
+  "AZEROX": {
+    "idNumerico": "23",
+    "nome": "AzeRoX",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:17|12/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-12T10:38:26.628Z"
+  },
+  "FAZENDINHA BETREZE 2": {
+    "idNumerico": "38",
+    "nome": "Fazendinha BeTreZe 2",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:18|12/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-12T12:08:38.925Z"
+  },
+  "SAO PEDRO 2": {
     "idNumerico": "43",
-    "nome": "LA FAMILIA CHIARADIA",
+    "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "11:57|12/08/2026",
     "cofreConsertado": false,

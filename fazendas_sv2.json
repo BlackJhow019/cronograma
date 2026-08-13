@@ -218,10 +218,10 @@
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:47|13/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T02:52:09.928Z"
+    "roubadaEm": "2026-08-13T08:47:36.464Z"
   },
   "FARM DO GALO": {
     "idNumerico": "40",

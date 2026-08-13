@@ -60,7 +60,7 @@
     "nome": "fazenda feliz",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:44|13/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-13T14:44:28.147Z"
   },
   "K1NG FARM'S": {
@@ -114,10 +114,10 @@
   "FAZENDADO 171": {
     "idNumerico": "12",
     "nome": "fazendado 171",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:01|13/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T02:42:21.750Z"
+    "roubadaEm": "2026-08-13T15:01:20.871Z"
   },
   "PEDRO FARM'S": {
     "idNumerico": "21",

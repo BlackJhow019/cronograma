@@ -82,10 +82,10 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:24|13/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T07:07:03.109Z"
+    "roubadaEm": "2026-08-13T12:26:04.385Z"
   },
   "PENOSO FARM'S": {
     "idNumerico": "10",
@@ -263,14 +263,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T07:02:50.548Z"
   },
-  "30PRAUM": {
-    "idNumerico": "16",
-    "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:24|13/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-13T07:24:52.504Z"
-  },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
@@ -333,7 +325,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "14:20|13/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T12:20:22.585Z"
+    "roubadaEm": "2026-08-13T12:20:38.763Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",

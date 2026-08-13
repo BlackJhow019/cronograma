@@ -79,6 +79,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-12T23:31:07.658Z"
   },
+  "FAZENDA FELIZ": {
+    "idNumerico": "22",
+    "nome": "fazenda feliz",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:28|13/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-13T14:44:30.919Z"
+  },
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
@@ -86,14 +94,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T09:14:39.990Z"
-  },
-  "FAZENDINHA BETREZE 2": {
-    "idNumerico": "38",
-    "nome": "Fazendinha BeTreZe 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:48|13/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T14:38:39.992Z"
   },
   "MALVADA'S FARM": {
     "idNumerico": "32",
@@ -118,6 +118,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T09:56:53.559Z"
+  },
+  "FAZENDINHA BETREZE 2": {
+    "idNumerico": "38",
+    "nome": "Fazendinha BeTreZe 2",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:48|13/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T14:38:39.992Z"
   },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
@@ -163,7 +171,7 @@
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
     "status": "INDISPONIVEL",
-    "disponivelEm": "11:53|13/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-13T13:01:20.156Z"
   },
@@ -198,22 +206,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
-  },
-  "/CARIDADE": {
-    "idNumerico": "40",
-    "nome": "/caridade",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T07:52:17.428Z"
-  },
-  "SAO PEDRO 2": {
-    "idNumerico": "43",
-    "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:52|13/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T12:57:29.677Z"
   },
   "PENOSO FARM'S": {
     "idNumerico": "10",
@@ -316,7 +308,7 @@
     "nome": "Prefeito Roadblock",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:38|13/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-13T14:38:50.571Z"
   },
   "FARM'S NAY E NICK": {
@@ -351,12 +343,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T12:46:10.235Z"
   },
-  "FAZENDA FELIZ": {
-    "idNumerico": "22",
-    "nome": "fazenda feliz",
+  "FARM DO GALO": {
+    "idNumerico": "40",
+    "nome": "FARM DO GALO",
     "status": "INDISPONIVEL",
-    "disponivelEm": "12:28|13/08/2026",
+    "disponivelEm": "15:10|13/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T14:44:30.919Z"
+    "roubadaEm": "2026-08-13T14:53:55.490Z"
   }
 }

@@ -47,14 +47,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T17:16:26.370Z"
   },
-  "FRANCA": {
-    "idNumerico": "28",
-    "nome": "FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
   "AURA + EGO": {
     "idNumerico": "22",
     "nome": "Aura + Ego",
@@ -287,13 +279,13 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T14:38:50.571Z"
   },
-  "FAZENDA REI DROGADO": {
-    "idNumerico": "31",
-    "nome": "Fazenda Rei Drogado",
+  "SAO PEDRO 2": {
+    "idNumerico": "43",
+    "nome": "SAO PEDRO 2",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T22:23:41.476Z"
+    "roubadaEm": "2026-08-13T17:40:43.257Z"
   },
   "/CARIDADE": {
     "idNumerico": "40",
@@ -302,6 +294,14 @@
     "disponivelEm": "22:02|13/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T21:45:07.866Z"
+  },
+  "FAZENDA DA MILLY": {
+    "idNumerico": "19",
+    "nome": "Fazenda da Milly",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:04|13/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-13T23:02:10.196Z"
   },
   ".": {
     "idNumerico": "31",
@@ -351,20 +351,12 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "LA FAMILIA CHIARADIA": {
-    "idNumerico": "43",
-    "nome": "LA FAMILIA CHIARADIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T17:40:43.257Z"
-  },
-  "GRUPO RANTER": {
-    "idNumerico": "19",
-    "nome": "GRUPO RANTER",
+  "WESKER_U$METRALHA": {
+    "idNumerico": "28",
+    "nome": "Wesker_u$MeTraLha",
     "status": "INDISPONIVEL",
-    "disponivelEm": "22:04|13/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-13T23:02:10.196Z"
+    "disponivelEm": "01:12|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T23:12:02.723Z"
   }
 }

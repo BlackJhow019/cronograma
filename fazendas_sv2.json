@@ -103,14 +103,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-12T19:50:23.071Z"
   },
-  "POLEMICO$ INDUSTRI$": {
-    "idNumerico": "37",
-    "nome": "PoLeMiCo$ industri$",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:21|13/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T17:16:26.370Z"
-  },
   ".": {
     "idNumerico": "31",
     "nome": ".",
@@ -271,14 +263,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T14:38:50.571Z"
   },
-  "FAZENDA DO MIRIM": {
-    "idNumerico": "36",
-    "nome": "Fazenda Do MIRIM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
   "FARM DA THATY": {
     "idNumerico": "1",
     "nome": "Farm da Thaty",
@@ -319,14 +303,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T17:13:16.915Z"
   },
-  "AWAKE COMPANY": {
-    "idNumerico": "13",
-    "nome": "AwaKe Company",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T12:54:50.507Z"
-  },
   "NIKE SHOX": {
     "idNumerico": "42",
     "nome": "NIKE SHOX",
@@ -351,12 +327,20 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "PENOSO FARM'S": {
-    "idNumerico": "10",
-    "nome": "Penoso Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:23|13/08/2026",
+  "NOREX FARM'S": {
+    "idNumerico": "13",
+    "nome": "Norex farm's",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T18:41:21.890Z"
+    "roubadaEm": "2026-08-13T12:54:50.507Z"
+  },
+  "FAZENDINHA DO IGEZE": {
+    "idNumerico": "36",
+    "nome": "fazendinha do igeze",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
   }
 }

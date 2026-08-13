@@ -63,14 +63,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-12T23:01:25.460Z"
   },
-  "AURA + EGO": {
-    "idNumerico": "22",
-    "nome": "Aura + Ego",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T05:01:15.298Z"
-  },
   "~E V O M~": {
     "idNumerico": "25",
     "nome": "~E V O M~",
@@ -78,6 +70,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-12T14:13:30.151Z"
+  },
+  "WESKER_U$METRALHA": {
+    "idNumerico": "28",
+    "nome": "Wesker_u$MeTraLha",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T11:19:47.278Z"
   },
   "30PRAUM": {
     "idNumerico": "16",
@@ -174,14 +174,6 @@
     "disponivelEm": "10:57|13/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T12:20:38.626Z"
-  },
-  "SE ROUBAR MORRE": {
-    "idNumerico": "41",
-    "nome": "SE ROUBAR MORRE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
   },
   "OS DE RACA": {
     "idNumerico": "0",
@@ -346,6 +338,22 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "FAZENDA FELIZ": {
+    "idNumerico": "22",
+    "nome": "fazenda feliz",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T05:01:15.298Z"
+  },
+  "PREFEITO ROADBLOCK": {
+    "idNumerico": "41",
+    "nome": "Prefeito Roadblock",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,

@@ -194,8 +194,8 @@
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:31|13/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T10:31:44.149Z"
   },
@@ -218,10 +218,10 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:55|13/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T10:24:54.222Z"
+    "roubadaEm": "2026-08-13T15:55:28.724Z"
   },
   "DM2 FARM": {
     "idNumerico": "6",

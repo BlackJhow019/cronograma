@@ -124,7 +124,7 @@
     "nome": "PedrO farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:13|13/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-13T14:13:02.353Z"
   },
   "PLANTAÇÃO DE COCA DO CARTEL DE MEDELLIN": {
@@ -178,10 +178,10 @@
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:21|13/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T03:13:11.208Z"
+    "roubadaEm": "2026-08-13T14:21:19.229Z"
   },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",

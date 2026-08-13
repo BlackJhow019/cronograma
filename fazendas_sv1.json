@@ -10,10 +10,10 @@
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
     "nome": "Rafha investimentos $",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:25|13/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-12T23:02:48.561Z"
+    "roubadaEm": "2026-08-13T17:25:31.565Z"
   },
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
@@ -78,14 +78,6 @@
     "disponivelEm": "18:39|13/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T16:39:32.832Z"
-  },
-  "SAO PEDRO 2": {
-    "idNumerico": "43",
-    "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:24|13/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T12:26:04.385Z"
   },
   "PENOSO FARM'S": {
     "idNumerico": "10",
@@ -330,8 +322,8 @@
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:20|13/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T12:20:38.763Z"
   },

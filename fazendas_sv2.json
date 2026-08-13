@@ -135,14 +135,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T17:40:43.257Z"
   },
-  "FARMA DA FAMILIA ELITE": {
-    "idNumerico": "33",
-    "nome": "Farma Da Familia Elite",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",
     "nome": "RAMONZIN_FRANCA",
@@ -158,14 +150,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T17:43:27.226Z"
-  },
-  "/CARIDADE": {
-    "idNumerico": "40",
-    "nome": "/caridade",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T16:19:24.975Z"
   },
   "TA NO GRALI": {
     "idNumerico": "4",
@@ -350,5 +334,21 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T13:01:20.156Z"
+  },
+  "BORRACHAS FARM": {
+    "idNumerico": "33",
+    "nome": "Borrachas Farm",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "FARM DO GALO": {
+    "idNumerico": "40",
+    "nome": "FARM DO GALO",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T16:19:24.975Z"
   }
 }

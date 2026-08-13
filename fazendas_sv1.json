@@ -114,8 +114,8 @@
   "FAZENDADO 171": {
     "idNumerico": "12",
     "nome": "fazendado 171",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:01|13/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T15:01:20.871Z"
   },
@@ -278,14 +278,6 @@
     "disponivelEm": "18:48|13/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T16:48:16.061Z"
-  },
-  "BORRACHAS FARM": {
-    "idNumerico": "33",
-    "nome": "Borrachas Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:03|13/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T15:03:52.715Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",

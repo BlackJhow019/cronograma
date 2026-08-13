@@ -203,9 +203,9 @@
     "idNumerico": "3",
     "nome": "KodiaK",
     "status": "INDISPONIVEL",
-    "disponivelEm": "17:15|13/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T15:15:56.852Z"
+    "disponivelEm": "17:16|13/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-13T15:16:23.728Z"
   },
   "AZEROX": {
     "idNumerico": "23",
@@ -218,8 +218,8 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:24|13/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T10:24:54.222Z"
   },

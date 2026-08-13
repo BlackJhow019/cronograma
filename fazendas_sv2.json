@@ -42,10 +42,10 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:10|13/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T02:12:45.489Z"
+    "roubadaEm": "2026-08-13T11:10:20.450Z"
   },
   "QG FARM KHAOS": {
     "idNumerico": "18",

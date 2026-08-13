@@ -170,8 +170,8 @@
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:51|13/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T04:51:35.638Z"
   },
@@ -306,10 +306,10 @@
   ".": {
     "idNumerico": "31",
     "nome": ".",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:01|13/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-12T21:40:48.037Z"
+    "roubadaEm": "2026-08-13T10:01:49.691Z"
   },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
@@ -343,9 +343,9 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-12T19:56:02.520Z"
   },
-  "JAH RASTAFARI": {
+  "ODYSSEY LTDA": {
     "idNumerico": "39",
-    "nome": "JAH RASTAFARI",
+    "nome": "odyssey ltda",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,

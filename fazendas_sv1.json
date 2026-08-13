@@ -194,10 +194,10 @@
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:31|13/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T02:52:35.364Z"
+    "roubadaEm": "2026-08-13T10:31:44.149Z"
   },
   "KODIAK": {
     "idNumerico": "3",
@@ -218,10 +218,10 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:24|13/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T02:16:48.421Z"
+    "roubadaEm": "2026-08-13T10:24:54.222Z"
   },
   "DM2 FARM": {
     "idNumerico": "6",
@@ -343,9 +343,9 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-12T19:56:02.520Z"
   },
-  "JAH RASTAFARI": {
+  "ODYSSEY LTDA": {
     "idNumerico": "39",
-    "nome": "JAH RASTAFARI",
+    "nome": "odyssey ltda",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,

@@ -82,10 +82,10 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:05|13/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-12T22:54:17.176Z"
+    "roubadaEm": "2026-08-13T07:06:50.517Z"
   },
   "PENOSO FARM'S": {
     "idNumerico": "10",
@@ -343,9 +343,9 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-12T19:56:02.520Z"
   },
-  "JAH RASTAFARI": {
+  "ODYSSEY LTDA": {
     "idNumerico": "39",
-    "nome": "JAH RASTAFARI",
+    "nome": "odyssey ltda",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,

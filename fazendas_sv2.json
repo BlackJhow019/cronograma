@@ -319,14 +319,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T14:38:50.571Z"
   },
-  "JESUS EA SOLUCAO": {
-    "idNumerico": "0",
-    "nome": "JESUS EA SOLUCAO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
@@ -349,11 +341,19 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "00:07|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T22:07:13.755Z"
+    "roubadaEm": "2026-08-13T22:07:31.217Z"
   },
   "< GAUBRE LTDA >": {
     "idNumerico": "35",
     "nome": "< GAUBRE LTDA >",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "OS DE RACA": {
+    "idNumerico": "0",
+    "nome": "OS DE RACA",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,

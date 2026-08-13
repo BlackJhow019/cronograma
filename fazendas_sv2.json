@@ -202,8 +202,8 @@
   "B13 :)": {
     "idNumerico": "23",
     "nome": "B13 :)",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:12|13/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T22:03:17.627Z"
   },
@@ -287,6 +287,22 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T17:40:43.257Z"
   },
+  "OS DE RACA": {
+    "idNumerico": "0",
+    "nome": "OS DE RACA",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "WESKER_U$METRALHA": {
+    "idNumerico": "28",
+    "nome": "Wesker_u$MeTraLha",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:12|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T23:12:02.723Z"
+  },
   "/CARIDADE": {
     "idNumerico": "40",
     "nome": "/caridade",
@@ -327,36 +343,20 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "FAZENDINHA BETREZE 2": {
-    "idNumerico": "38",
-    "nome": "Fazendinha BeTreZe 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T14:38:39.992Z"
-  },
-  "FARM'S DE CAFE": {
+  "TA NO GRALI": {
     "idNumerico": "4",
-    "nome": "Farm's de Cafe",
+    "nome": "ta no grali",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T15:23:49.935Z"
   },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
+  "WORK INDUSTRIA'S LIMITED": {
+    "idNumerico": "38",
+    "nome": "Work Industria's Limited",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "WESKER_U$METRALHA": {
-    "idNumerico": "28",
-    "nome": "Wesker_u$MeTraLha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:12|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T23:12:02.723Z"
+    "roubadaEm": "2026-08-13T14:38:39.992Z"
   }
 }

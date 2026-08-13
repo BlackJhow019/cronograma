@@ -114,8 +114,8 @@
   "FAZENDADO 171": {
     "idNumerico": "12",
     "nome": "fazendado 171",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:42|13/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T02:42:21.750Z"
   },
@@ -207,14 +207,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-13T02:47:01.730Z"
   },
-  "AZEROX": {
-    "idNumerico": "23",
-    "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:45|13/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T02:45:25.720Z"
-  },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
@@ -236,7 +228,7 @@
     "nome": "< GAUBRE LTDA >",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:11|13/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-13T07:29:09.914Z"
   },
   "YT @GANDIA_RP": {

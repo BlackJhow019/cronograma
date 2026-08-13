@@ -122,10 +122,10 @@
   "PEDRO FARM'S": {
     "idNumerico": "21",
     "nome": "PedrO farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:55|13/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T14:12:47.096Z"
+    "roubadaEm": "2026-08-13T21:55:19.235Z"
   },
   "PLANTAÇÃO DE COCA DO CARTEL DE MEDELLIN": {
     "idNumerico": "30",
@@ -274,8 +274,8 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:48|13/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T16:48:16.061Z"
   },

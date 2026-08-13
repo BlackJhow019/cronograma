@@ -159,14 +159,6 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "RICK FARM'S": {
-    "idNumerico": "9",
-    "nome": "Rick Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-12T19:50:23.071Z"
-  },
   "CHAMA A POLICIA": {
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
@@ -258,10 +250,10 @@
   "ARIANA_B13": {
     "idNumerico": "10",
     "nome": "Ariana_B13",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:10|13/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-08-13T17:22:02.991Z"
   },
   "RICO LOUCO": {
     "idNumerico": "11",
@@ -358,5 +350,13 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T12:57:29.677Z"
+  },
+  "FARM DO SAPATO": {
+    "idNumerico": "9",
+    "nome": "FARM DO SAPATO",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-12T19:50:23.071Z"
   }
 }

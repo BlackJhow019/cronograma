@@ -231,14 +231,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-13T21:55:39.253Z"
   },
-  "FAZENDA DA MILLY": {
-    "idNumerico": "19",
-    "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:41|13/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-13T21:42:13.174Z"
-  },
   "ROLINHA CANSADA FARMS": {
     "idNumerico": "14",
     "nome": "Rolinha Cansada Farms",
@@ -306,10 +298,10 @@
   ".": {
     "idNumerico": "31",
     "nome": ".",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:58|13/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-13T22:23:41.476Z"
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
   },
   "K1NG FARM'S": {
     "idNumerico": "25",
@@ -358,5 +350,13 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T17:40:43.257Z"
+  },
+  "GRUPO RANTER": {
+    "idNumerico": "19",
+    "nome": "GRUPO RANTER",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:04|13/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-13T23:02:10.196Z"
   }
 }

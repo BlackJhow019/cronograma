@@ -167,14 +167,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-13T22:07:31.217Z"
   },
-  "B13 :)": {
-    "idNumerico": "23",
-    "nome": "B13 :)",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T22:03:17.627Z"
-  },
   "RICK FARM'S": {
     "idNumerico": "9",
     "nome": "Rick Farm's",
@@ -287,22 +279,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T15:23:49.935Z"
   },
-  "VALE DAS SOMBRAS": {
-    "idNumerico": "24",
-    "nome": "Vale das Sombras",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:10|13/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T22:56:15.993Z"
-  },
-  "SITIO DO JN": {
-    "idNumerico": "6",
-    "nome": "Sitio do jn",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:36|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T23:50:00.431Z"
-  },
   "/CARIDADE": {
     "idNumerico": "40",
     "nome": "/caridade",
@@ -310,22 +286,6 @@
     "disponivelEm": "22:02|13/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T21:45:07.866Z"
-  },
-  "FAZENDA DA MILLY": {
-    "idNumerico": "19",
-    "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:04|13/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-13T23:02:10.196Z"
-  },
-  ".": {
-    "idNumerico": "31",
-    "nome": ".",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
   },
   "K1NG FARM'S": {
     "idNumerico": "25",
@@ -335,22 +295,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-12T14:13:30.151Z"
   },
-  "MALVADA'S FARM": {
-    "idNumerico": "32",
-    "nome": "Malvada's Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "ROLINHA CANSADA FARMS": {
-    "idNumerico": "14",
-    "nome": "Rolinha Cansada Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T11:10:44.545Z"
-  },
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",
     "nome": "Fazendinha BeTreZe 2",
@@ -358,5 +302,61 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T14:38:39.992Z"
+  },
+  "RANCHO DO DOUTOR": {
+    "idNumerico": "14",
+    "nome": "Rancho do Doutor",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T11:10:44.545Z"
+  },
+  "DM2 FARM": {
+    "idNumerico": "6",
+    "nome": "Dm2 Farm",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:36|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T23:50:00.431Z"
+  },
+  "GRUPO RANTER": {
+    "idNumerico": "19",
+    "nome": "GRUPO RANTER",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:04|13/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-13T23:02:10.196Z"
+  },
+  "VALE DAS SOMBRAS": {
+    "idNumerico": "24",
+    "nome": "Vale das Sombras",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:10|13/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T22:56:15.993Z"
+  },
+  "FAMILIA ALMANAK": {
+    "idNumerico": "32",
+    "nome": "Familia AlmanaK",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "FAZENDA REI DROGADO": {
+    "idNumerico": "31",
+    "nome": "Fazenda Rei Drogado",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "AZEROX": {
+    "idNumerico": "23",
+    "nome": "AzeRoX",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:34|13/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T23:55:37.437Z"
   }
 }

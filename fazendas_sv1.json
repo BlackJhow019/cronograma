@@ -71,14 +71,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-12T17:10:00.585Z"
   },
-  "ROUBO OFF": {
-    "idNumerico": "7",
-    "nome": "roubo off",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:25|13/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T11:25:43.167Z"
-  },
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
@@ -149,7 +141,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "18:19|13/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T16:19:27.196Z"
+    "roubadaEm": "2026-08-13T16:19:10.308Z"
   },
   "RICO LOUCO": {
     "idNumerico": "11",
@@ -274,8 +266,8 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:20|13/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T11:20:57.160Z"
   },

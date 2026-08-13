@@ -47,14 +47,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-13T13:08:16.772Z"
   },
-  "VALE DAS SOMBRAS": {
-    "idNumerico": "24",
-    "nome": "Vale das Sombras",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-12T23:31:07.658Z"
-  },
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
@@ -162,22 +154,6 @@
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
     "nome": "Farms de Galopisitas",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": "38",
-    "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:48|13/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T14:38:39.992Z"
-  },
-  "KODIAK": {
-    "idNumerico": "3",
-    "nome": "KodiaK",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
@@ -327,14 +303,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T13:09:21.325Z"
   },
-  "@FILH_ODOPAII": {
-    "idNumerico": "12",
-    "nome": "@filh_odopaii",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T09:56:53.559Z"
-  },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
@@ -347,8 +315,40 @@
     "idNumerico": "6",
     "nome": "Sitio do jn",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:46|13/08/2026",
+    "disponivelEm": "16:47|13/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T15:00:25.874Z"
+    "roubadaEm": "2026-08-13T15:00:39.792Z"
+  },
+  "$ COMPANY $R.RC_PLINIODMG $": {
+    "idNumerico": "3",
+    "nome": "$ Company $r.RC_PlinioDmG $",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "FAZENDADO 171": {
+    "idNumerico": "12",
+    "nome": "fazendado 171",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T09:56:53.559Z"
+  },
+  "VENDO 500KM ACEITO TROCAS": {
+    "idNumerico": "24",
+    "nome": "VENDO 500km ACEITO TROCAS",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-12T23:31:07.658Z"
+  },
+  "FAZENDINHA BETREZE 2": {
+    "idNumerico": "38",
+    "nome": "Fazendinha BeTreZe 2",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:48|13/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T14:38:39.992Z"
   }
 }

@@ -23,14 +23,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-13T11:34:10.595Z"
   },
-  "RAMONZIN_FRANCA": {
-    "idNumerico": "21",
-    "nome": "RAMONZIN_FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:16|13/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-13T11:37:05.981Z"
-  },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
@@ -47,6 +39,22 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-12T14:45:10.503Z"
   },
+  "HWD INVESTIMENTOS": {
+    "idNumerico": "27",
+    "nome": "hwd investimentos",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:58|13/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-13T13:08:16.772Z"
+  },
+  "FARMS DE GALOPISITAS": {
+    "idNumerico": "20",
+    "nome": "Farms de Galopisitas",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:18|13/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-13T11:35:43.907Z"
+  },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
     "nome": "Vale das Sombras",
@@ -55,13 +63,53 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-12T23:31:07.658Z"
   },
-  "AURA + EGO": {
+  "FAZENDA FELIZ": {
     "idNumerico": "22",
-    "nome": "Aura + Ego",
+    "nome": "fazenda feliz",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:45|13/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T14:00:06.787Z"
+  },
+  "AZEROX": {
+    "idNumerico": "23",
+    "nome": "AzeRoX",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T09:14:39.990Z"
+  },
+  "TA NO GRALI": {
+    "idNumerico": "4",
+    "nome": "ta no grali",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:33|13/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T12:33:20.758Z"
+  },
+  "MALVADA'S FARM": {
+    "idNumerico": "32",
+    "nome": "Malvada's Farm",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T12:20:38.626Z"
+  },
+  "021": {
+    "idNumerico": "1",
+    "nome": "021",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:29|13/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T12:46:10.235Z"
+  },
+  "OS DE RACA": {
+    "idNumerico": "0",
+    "nome": "OS DE RACA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:41|13/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T13:53:53.930Z"
   },
   "@FILH_ODOPAII": {
     "idNumerico": "12",
@@ -71,6 +119,70 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T09:56:53.559Z"
   },
+  "WESKER_U$METRALHA": {
+    "idNumerico": "28",
+    "nome": "Wesker_u$MeTraLha",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "RICK FARM'S": {
+    "idNumerico": "9",
+    "nome": "Rick Farm's",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-12T19:50:23.071Z"
+  },
+  "FAZENDINHA BETREZE 2": {
+    "idNumerico": "38",
+    "nome": "Fazendinha BeTreZe 2",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T10:24:54.103Z"
+  },
+  "SE ROUBAR MORRE": {
+    "idNumerico": "41",
+    "nome": "SE ROUBAR MORRE",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "WELCOME > MELHOR FAZENDA DO BPS": {
+    "idNumerico": "37",
+    "nome": "WELCOME > MELHOR FAZENDA DO BPS",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-12T23:01:25.460Z"
+  },
+  "YELLOWSTONE - BY MONSTER": {
+    "idNumerico": "16",
+    "nome": "YellowStone - By Monster",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:33|13/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T12:29:01.326Z"
+  },
+  "YANINHA_ANTIFALSOS": {
+    "idNumerico": "34",
+    "nome": "yAninha_AntiFalsos",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:43|13/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T13:43:03.430Z"
+  },
+  "ROUBO OFF": {
+    "idNumerico": "7",
+    "nome": "roubo off",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:51|13/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T14:08:52.938Z"
+  },
   "SUCCUBUS FARMS": {
     "idNumerico": "29",
     "nome": "Succubus Farms",
@@ -78,6 +190,22 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T02:48:13.950Z"
+  },
+  "FAZENDA REI DROGADO": {
+    "idNumerico": "31",
+    "nome": "Fazenda Rei Drogado",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:01|13/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T10:01:51.395Z"
+  },
+  "RICO LOUCO": {
+    "idNumerico": "11",
+    "nome": "rico louco",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:52|13/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T13:00:35.514Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
@@ -103,6 +231,30 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T09:07:08.395Z"
   },
+  "FAZENDA DO MIRIM": {
+    "idNumerico": "36",
+    "nome": "Fazenda Do MIRIM",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:28|13/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T13:13:32.968Z"
+  },
+  "GRUPO RANTER": {
+    "idNumerico": "19",
+    "nome": "GRUPO RANTER",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "PEDRO FARM'S": {
+    "idNumerico": "21",
+    "nome": "PedrO farm's",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:48|13/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-13T14:13:01.646Z"
+  },
   "/CARIDADE": {
     "idNumerico": "40",
     "nome": "/caridade",
@@ -110,102 +262,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T07:52:17.428Z"
-  },
-  "QUEM ROUBAR E PETISTA": {
-    "idNumerico": "44",
-    "nome": "Quem Roubar e Petista",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:25|13/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T12:42:12.596Z"
-  },
-  "CLUBE DA LULUZINHA": {
-    "idNumerico": "8",
-    "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T11:21:12.498Z"
-  },
-  "POLEMICO$ INDUSTRI$": {
-    "idNumerico": "37",
-    "nome": "PoLeMiCo$ industri$",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-12T23:01:25.460Z"
-  },
-  "FARM'S NAY E NICK": {
-    "idNumerico": "5",
-    "nome": "FARM'S NAY E NICK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T08:45:24.899Z"
-  },
-  "DM2 FARM": {
-    "idNumerico": "6",
-    "nome": "Dm2 Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-12T20:36:18.573Z"
-  },
-  "RICK FARM'S": {
-    "idNumerico": "9",
-    "nome": "Rick Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-12T19:50:23.071Z"
-  },
-  "~E V O M~": {
-    "idNumerico": "25",
-    "nome": "~E V O M~",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-12T14:13:30.151Z"
-  },
-  "TREMBALA": {
-    "idNumerico": "42",
-    "nome": "TremBala",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:17|13/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T14:02:44.892Z"
-  },
-  "HWD INVESTIMENTOS": {
-    "idNumerico": "27",
-    "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:58|13/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T13:08:16.772Z"
-  },
-  "RICO LOUCO": {
-    "idNumerico": "11",
-    "nome": "rico louco",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:52|13/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T13:00:35.514Z"
-  },
-  "NOREX FARM'S": {
-    "idNumerico": "13",
-    "nome": "Norex farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T12:54:50.507Z"
-  },
-  "30PRAUM": {
-    "idNumerico": "16",
-    "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:33|13/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T12:29:01.326Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -215,53 +271,61 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T12:57:29.677Z"
   },
-  "FARMA DA FAMILIA ELITE": {
-    "idNumerico": "33",
-    "nome": "Farma Da Familia Elite",
+  "K1NG FARM'S": {
+    "idNumerico": "25",
+    "nome": "K1NG Farm's",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T11:41:00.793Z"
+    "roubadaEm": "2026-08-12T14:13:30.151Z"
   },
-  "FARMS DE GALOPISITAS": {
-    "idNumerico": "20",
-    "nome": "Farms de Galopisitas",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:18|13/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-13T11:35:43.907Z"
-  },
-  "ARIANA_B13": {
+  "PENOSO FARM'S": {
     "idNumerico": "10",
-    "nome": "Ariana_B13",
+    "nome": "Penoso Farm's",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "/VENDERPRODUTOS": {
-    "idNumerico": "7",
-    "nome": "/VENDERPRODUTOS",
+  "SITIO DO JN": {
+    "idNumerico": "6",
+    "nome": "Sitio do jn",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-12T20:36:18.573Z"
+  },
+  "..OURO..PR3TO..": {
+    "idNumerico": "5",
+    "nome": "..OURO..PR3TO..",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T08:45:24.899Z"
+  },
+  "NOREX FARM'S": {
+    "idNumerico": "13",
+    "nome": "Norex farm's",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T12:54:50.507Z"
+  },
+  "NIKE SHOX": {
+    "idNumerico": "42",
+    "nome": "NIKE SHOX",
     "status": "INDISPONIVEL",
-    "disponivelEm": "13:51|13/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T14:08:52.938Z"
+    "disponivelEm": "13:17|13/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-13T14:02:44.892Z"
   },
-  "FRANCA": {
-    "idNumerico": "28",
-    "nome": "FRANCA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+  "QUEM ROUBAR E PETISTA": {
+    "idNumerico": "44",
+    "nome": "Quem Roubar e Petista",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:25|13/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": "38",
-    "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T10:24:54.103Z"
+    "roubadaEm": "2026-08-13T12:42:12.596Z"
   },
   "KODIAK": {
     "idNumerico": "3",
@@ -271,61 +335,13 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  ".": {
-    "idNumerico": "31",
-    "nome": ".",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:01|13/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T10:01:51.395Z"
-  },
-  "TA NO GRALI": {
-    "idNumerico": "4",
-    "nome": "ta no grali",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:33|13/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T12:33:20.758Z"
-  },
-  "B13 :)": {
-    "idNumerico": "23",
-    "nome": "B13 :)",
+  "BORRACHAS FARM": {
+    "idNumerico": "33",
+    "nome": "Borrachas Farm",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T09:14:39.990Z"
-  },
-  "MALVADA'S FARM": {
-    "idNumerico": "32",
-    "nome": "Malvada's Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T12:20:38.626Z"
-  },
-  "SE ROUBAR MORRE": {
-    "idNumerico": "41",
-    "nome": "SE ROUBAR MORRE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "FAZENDA DO MIRIM": {
-    "idNumerico": "36",
-    "nome": "Fazenda Do MIRIM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:28|13/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T13:13:32.968Z"
-  },
-  "FARM DA THATY": {
-    "idNumerico": "1",
-    "nome": "Farm da Thaty",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:29|13/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T12:46:10.235Z"
+    "roubadaEm": "2026-08-13T11:41:00.793Z"
   },
   "< GAUBRE LTDA >": {
     "idNumerico": "35",
@@ -335,28 +351,12 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:41|13/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T13:53:53.930Z"
-  },
-  "FAZENDA DA MILLY": {
-    "idNumerico": "19",
-    "nome": "Fazenda da Milly",
+  "CLUBE DA LULUZINHA": {
+    "idNumerico": "8",
+    "nome": "Clube da Luluzinha",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "FAMILIA KUSH": {
-    "idNumerico": "34",
-    "nome": "Familia KuSh",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:43|13/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T13:43:03.430Z"
+    "roubadaEm": "2026-08-13T11:21:12.498Z"
   }
 }

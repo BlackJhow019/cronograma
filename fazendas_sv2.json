@@ -127,14 +127,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-12T19:50:23.071Z"
   },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:50|13/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T07:02:48.670Z"
-  },
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
@@ -166,14 +158,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-12T23:47:36.378Z"
-  },
-  "FARM DA THATY": {
-    "idNumerico": "1",
-    "nome": "Farm da Thaty",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-12T23:18:50.116Z"
   },
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
@@ -285,7 +269,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "06:08|13/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T07:15:54.343Z"
+    "roubadaEm": "2026-08-13T07:16:06.554Z"
   },
   "AZEROX": {
     "idNumerico": "23",
@@ -350,5 +334,21 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T02:09:36.080Z"
+  },
+  "JESUS EA SOLUCAO": {
+    "idNumerico": "0",
+    "nome": "JESUS EA SOLUCAO",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:50|13/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T07:02:48.670Z"
+  },
+  "021": {
+    "idNumerico": "1",
+    "nome": "021",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-12T23:18:50.116Z"
   }
 }

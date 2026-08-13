@@ -100,7 +100,7 @@
     "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:47|13/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-13T15:00:47.856Z"
   },
   "TA NO GRALI": {
@@ -140,7 +140,7 @@
     "nome": "@filh_odopaii",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:11|13/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-13T17:45:12.360Z"
   },
   "OS DE RACA": {
@@ -218,10 +218,10 @@
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
     "nome": "YellowStone - By Monster",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:40|13/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T12:29:01.326Z"
+    "roubadaEm": "2026-08-13T17:46:57.654Z"
   },
   "YANINHA_ANTIFALSOS": {
     "idNumerico": "34",

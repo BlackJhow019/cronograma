@@ -4,7 +4,7 @@
     "nome": "999",
     "status": "INDISPONIVEL",
     "disponivelEm": "09:45|13/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-13T11:30:19.911Z"
   },
   "FAZENDA DO TEMOR": {
@@ -36,7 +36,7 @@
     "nome": "RAMONZIN_FRANCA",
     "status": "INDISPONIVEL",
     "disponivelEm": "11:16|13/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-13T11:37:05.981Z"
   },
   "RANCHO DO DOUTOR": {
@@ -102,14 +102,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-12T19:35:01.588Z"
-  },
-  "BORRACHAS FARM": {
-    "idNumerico": "33",
-    "nome": "Borrachas Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-12T18:32:25.153Z"
   },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
@@ -358,5 +350,13 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T08:30:49.694Z"
+  },
+  "FARMA DA FAMILIA ELITE": {
+    "idNumerico": "33",
+    "nome": "Farma Da Familia Elite",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:33|13/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T11:40:47.746Z"
   }
 }

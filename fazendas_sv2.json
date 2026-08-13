@@ -44,7 +44,7 @@
     "nome": "Rancho do Doutor",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:10|13/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-13T11:10:44.545Z"
   },
   "QG FARM KHAOS": {
@@ -199,14 +199,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-12T14:13:30.151Z"
   },
-  "WESKER_U$METRALHA": {
-    "idNumerico": "28",
-    "nome": "Wesker_u$MeTraLha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-12T14:11:03.955Z"
-  },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
@@ -222,6 +214,14 @@
     "disponivelEm": "09:08|13/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-13T10:29:18.090Z"
+  },
+  "FRANCA": {
+    "idNumerico": "28",
+    "nome": "FRANCA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:39|13/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T11:19:34.492Z"
   },
   "30PRAUM": {
     "idNumerico": "16",

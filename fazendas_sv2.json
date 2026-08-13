@@ -210,10 +210,10 @@
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:40|13/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T03:10:34.837Z"
+    "roubadaEm": "2026-08-13T08:34:36.056Z"
   },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
@@ -270,14 +270,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T04:55:07.288Z"
-  },
-  "SAO PEDRO 2": {
-    "idNumerico": "43",
-    "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:31|13/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T07:07:03.185Z"
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",

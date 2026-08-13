@@ -274,10 +274,10 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:21|13/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T01:11:21.928Z"
+    "roubadaEm": "2026-08-13T11:21:10.595Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -316,14 +316,14 @@
     "nome": "Rancho do Doutor",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:10|13/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-13T11:10:43.711Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:11|13/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T06:11:30.337Z"
   },
@@ -343,9 +343,9 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-12T19:56:02.520Z"
   },
-  "ODYSSEY LTDA": {
+  "JAH RASTAFARI": {
     "idNumerico": "39",
-    "nome": "odyssey ltda",
+    "nome": "JAH RASTAFARI",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,

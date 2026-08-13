@@ -47,14 +47,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-28T13:08:50.464Z"
   },
-  "NOREX FARM'S": {
-    "idNumerico": "13",
-    "nome": "Norex farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:54|13/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T12:54:48.716Z"
-  },
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
@@ -250,10 +242,10 @@
   "021": {
     "idNumerico": "1",
     "nome": "021",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:58|13/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T12:46:08.905Z"
+    "roubadaEm": "2026-08-13T17:58:27.923Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",
@@ -268,7 +260,7 @@
     "nome": "30PRAUM",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:49|13/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-13T17:49:25.578Z"
   },
   "CLUBE DA LULUZINHA": {

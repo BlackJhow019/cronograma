@@ -242,8 +242,8 @@
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:16|13/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T07:16:05.138Z"
   },
@@ -330,10 +330,10 @@
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:20|13/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-12T20:32:12.035Z"
+    "roubadaEm": "2026-08-13T12:20:22.585Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",

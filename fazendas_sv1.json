@@ -266,10 +266,10 @@
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:24|13/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T01:20:55.096Z"
+    "roubadaEm": "2026-08-13T07:24:39.140Z"
   },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
@@ -343,9 +343,9 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-12T19:56:02.520Z"
   },
-  "JAH RASTAFARI": {
+  "ODYSSEY LTDA": {
     "idNumerico": "39",
-    "nome": "JAH RASTAFARI",
+    "nome": "odyssey ltda",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,

@@ -124,7 +124,7 @@
     "nome": "PedrO farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:55|13/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-13T21:55:19.235Z"
   },
   "PLANTAÇÃO DE COCA DO CARTEL DE MEDELLIN": {
@@ -282,10 +282,10 @@
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:07|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T15:03:52.715Z"
+    "roubadaEm": "2026-08-13T22:07:31.701Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
@@ -314,8 +314,8 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:57|13/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T16:57:35.437Z"
   },

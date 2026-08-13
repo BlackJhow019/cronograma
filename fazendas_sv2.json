@@ -212,7 +212,7 @@
     "nome": "Fazenda Do MIRIM",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:40|13/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-13T08:34:46.643Z"
   },
   "SE ROUBAR MORRE": {
@@ -222,14 +222,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T02:52:09.928Z"
-  },
-  "FARM DO GALO": {
-    "idNumerico": "40",
-    "nome": "FARM DO GALO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:52|13/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T07:52:17.428Z"
   },
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",
@@ -355,8 +347,16 @@
     "idNumerico": "42",
     "nome": "TremBala",
     "status": "INDISPONIVEL",
-    "disponivelEm": "07:56|13/08/2026",
+    "disponivelEm": "07:57|13/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T08:37:06.364Z"
+    "roubadaEm": "2026-08-13T08:37:26.047Z"
+  },
+  "/CARIDADE": {
+    "idNumerico": "40",
+    "nome": "/caridade",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:52|13/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T07:52:17.428Z"
   }
 }

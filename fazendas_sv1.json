@@ -156,7 +156,7 @@
     "nome": "rico louco",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:04|13/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-13T18:04:54.752Z"
   },
   "FAMILIA KUSH": {
@@ -182,14 +182,6 @@
     "disponivelEm": "16:21|13/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-13T14:21:04.951Z"
-  },
-  "FAZENDINHA DO IGEZE": {
-    "idNumerico": "36",
-    "nome": "fazendinha do igeze",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:13|13/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T13:13:33.798Z"
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
@@ -342,5 +334,13 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-12T19:56:02.520Z"
+  },
+  "ODYSSEY LTDA": {
+    "idNumerico": "39",
+    "nome": "odyssey ltda",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T13:09:20.809Z"
   }
 }

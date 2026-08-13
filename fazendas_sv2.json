@@ -59,9 +59,9 @@
     "idNumerico": "31",
     "nome": ".",
     "status": "INDISPONIVEL",
-    "disponivelEm": "23:27|13/08/2026",
+    "disponivelEm": "23:28|13/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T21:27:51.524Z"
+    "roubadaEm": "2026-08-13T21:28:06.770Z"
   },
   "PEDRO FARM'S": {
     "idNumerico": "21",
@@ -70,14 +70,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T17:04:19.390Z"
-  },
-  "30PRAUM": {
-    "idNumerico": "16",
-    "nome": "30PRAUM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T17:48:42.863Z"
   },
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",
@@ -215,14 +207,6 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "021": {
-    "idNumerico": "1",
-    "nome": "021",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T17:44:20.906Z"
-  },
   "@FILH_ODOPAII": {
     "idNumerico": "12",
     "nome": "@filh_odopaii",
@@ -295,14 +279,6 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "LA FAMILIA CHIARADIA": {
-    "idNumerico": "43",
-    "nome": "LA FAMILIA CHIARADIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T17:40:43.257Z"
-  },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
@@ -366,5 +342,29 @@
     "disponivelEm": "18:57|13/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T18:04:55.346Z"
+  },
+  "YELLOWSTONE - BY MONSTER": {
+    "idNumerico": "16",
+    "nome": "YellowStone - By Monster",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T17:48:42.863Z"
+  },
+  "FARM DA THATY": {
+    "idNumerico": "1",
+    "nome": "Farm da Thaty",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T17:44:20.906Z"
+  },
+  "SAO PEDRO 2": {
+    "idNumerico": "43",
+    "nome": "SAO PEDRO 2",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T17:40:43.257Z"
   }
 }

@@ -87,14 +87,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T09:07:08.395Z"
   },
-  "GRUPO RANTER": {
-    "idNumerico": "19",
-    "nome": "GRUPO RANTER",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
   "/CARIDADE": {
     "idNumerico": "40",
     "nome": "/caridade",
@@ -221,7 +213,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "16:21|13/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T14:21:04.898Z"
+    "roubadaEm": "2026-08-13T14:21:20.496Z"
   },
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
@@ -327,14 +319,6 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "JESUS EA SOLUCAO": {
-    "idNumerico": "0",
-    "nome": "JESUS EA SOLUCAO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:41|13/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T13:53:53.930Z"
-  },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
@@ -354,6 +338,22 @@
   "< GAUBRE LTDA >": {
     "idNumerico": "35",
     "nome": "< GAUBRE LTDA >",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "OS DE RACA": {
+    "idNumerico": "0",
+    "nome": "OS DE RACA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:41|13/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T13:53:53.930Z"
+  },
+  "FAZENDA DA MILLY": {
+    "idNumerico": "19",
+    "nome": "Fazenda da Milly",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,

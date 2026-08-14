@@ -247,14 +247,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T06:31:17.380Z"
   },
-  "FAZENDINHA BETREZE 2": {
-    "idNumerico": "38",
-    "nome": "Fazendinha BeTreZe 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T05:22:09.418Z"
-  },
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
     "nome": "VENDO 500km ACEITO TROCAS",
@@ -319,6 +311,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-14T09:25:58.593Z"
   },
+  "CANNABIS": {
+    "idNumerico": "8",
+    "nome": "CANNABIS",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:51|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T09:48:06.012Z"
+  },
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
@@ -343,12 +343,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T08:33:56.603Z"
   },
-  "CLUBE DA LULUZINHA": {
-    "idNumerico": "8",
-    "nome": "Clube da Luluzinha",
+  "WORK INDUSTRIA'S LIMITED": {
+    "idNumerico": "38",
+    "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
-    "disponivelEm": "08:51|14/08/2026",
+    "disponivelEm": "09:55|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T09:48:06.012Z"
+    "roubadaEm": "2026-08-14T09:54:26.934Z"
   }
 }

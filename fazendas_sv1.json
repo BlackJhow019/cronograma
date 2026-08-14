@@ -50,9 +50,9 @@
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:36|14/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-14T14:36:00.553Z"
   },
   "FAZENDA FELIZ": {
@@ -186,10 +186,10 @@
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:38|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T13:13:33.798Z"
+    "roubadaEm": "2026-08-14T19:38:40.742Z"
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
@@ -232,10 +232,10 @@
     "roubadaEm": "2026-08-14T18:49:39.459Z"
   },
   "< GAUBRE LTDA >": {
-    "idNumerico": "2",
+    "idNumerico": "35",
     "nome": "< GAUBRE LTDA >",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:36|14/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T18:54:23.144Z"
   },

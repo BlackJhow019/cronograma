@@ -202,10 +202,10 @@
   "ODYSSEY LTDA": {
     "idNumerico": "39",
     "nome": "odyssey ltda",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:00|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T11:31:01.891Z"
+    "roubadaEm": "2026-08-14T18:00:58.190Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
@@ -222,14 +222,6 @@
     "disponivelEm": "15:48|14/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-14T17:04:27.896Z"
-  },
-  "CLUBE DA LULUZINHA": {
-    "idNumerico": "8",
-    "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:00|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T15:56:20.171Z"
   },
   ".": {
     "idNumerico": "31",

@@ -279,14 +279,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T11:27:41.081Z"
   },
-  "AWAKE COMPANY": {
-    "idNumerico": "13",
-    "nome": "AwaKe Company",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T11:52:42.115Z"
-  },
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
@@ -350,5 +342,13 @@
     "disponivelEm": "13:17|14/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T14:00:58.042Z"
+  },
+  "NOREX FARM'S": {
+    "idNumerico": "13",
+    "nome": "Norex farm's",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:42|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T14:35:42.077Z"
   }
 }

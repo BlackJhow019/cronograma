@@ -236,7 +236,7 @@
     "nome": "Familia AlmanaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:59|14/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-14T09:23:26.838Z"
   },
   "QUEM ROUBAR E PETISTA": {
@@ -262,14 +262,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T06:31:17.380Z"
-  },
-  "$ COMPANY $R.RC_PLINIODMG $": {
-    "idNumerico": "3",
-    "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T06:13:24.849Z"
   },
   "FAZENDINHA BETREZE 2": {
     "idNumerico": "38",
@@ -327,14 +319,6 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "FARME DO DRAKE": {
-    "idNumerico": "35",
-    "nome": "Farme do Drake",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:41|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T09:23:28.342Z"
-  },
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
@@ -343,12 +327,28 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T09:02:08.978Z"
   },
-  "TREMBALA": {
+  "< GAUBRE LTDA >": {
+    "idNumerico": "35",
+    "nome": "< GAUBRE LTDA >",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:41|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T09:23:28.342Z"
+  },
+  "NIKE SHOX": {
     "idNumerico": "42",
-    "nome": "TremBala",
+    "nome": "NIKE SHOX",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:45|14/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T08:33:56.603Z"
+  },
+  "KODIAK": {
+    "idNumerico": "3",
+    "nome": "KodiaK",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:24|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T09:25:42.680Z"
   }
 }

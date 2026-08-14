@@ -122,8 +122,8 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:36|14/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T16:11:19.618Z"
   },
@@ -277,7 +277,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "16:06|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T17:22:59.188Z"
+    "roubadaEm": "2026-08-14T17:23:12.412Z"
   },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
@@ -288,11 +288,11 @@
     "roubadaEm": "2026-08-14T16:31:40.281Z"
   },
   "< GAUBRE LTDA >": {
-    "idNumerico": "35",
+    "idNumerico": "2",
     "nome": "< GAUBRE LTDA >",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:43|14/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-14T15:22:08.653Z"
   },
   "PREFEITO ROADBLOCK": {
@@ -322,9 +322,9 @@
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:37|14/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-14T15:45:14.270Z"
   },
   "NOREX FARM'S": {

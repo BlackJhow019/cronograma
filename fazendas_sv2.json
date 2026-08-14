@@ -26,8 +26,8 @@
   "QG FARM KHAOS": {
     "idNumerico": "18",
     "nome": "QG FARM KHAOS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:55|14/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T05:55:04.473Z"
   },
@@ -311,6 +311,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T09:23:28.342Z"
   },
+  "SE ROUBAR MORRE": {
+    "idNumerico": "41",
+    "nome": "SE ROUBAR MORRE",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:51|14/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-14T10:51:58.217Z"
+  },
   "FAZENDA REI DROGADO": {
     "idNumerico": "31",
     "nome": "Fazenda Rei Drogado",
@@ -342,13 +350,5 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T09:02:08.978Z"
-  },
-  "SE ROUBAR MORRE": {
-    "idNumerico": "41",
-    "nome": "SE ROUBAR MORRE",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:51|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T10:51:58.217Z"
   }
 }

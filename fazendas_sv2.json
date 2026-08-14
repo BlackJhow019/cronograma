@@ -191,14 +191,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T06:26:11.070Z"
   },
-  "FARM DO GALO": {
-    "idNumerico": "40",
-    "nome": "FARM DO GALO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T05:26:15.439Z"
-  },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
@@ -322,10 +314,26 @@
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:51|14/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T11:10:54.320Z"
+  },
+  "NIKE SHOX": {
+    "idNumerico": "42",
+    "nome": "NIKE SHOX",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:55|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T12:40:59.560Z"
+  },
+  "/CARIDADE": {
+    "idNumerico": "40",
+    "nome": "/caridade",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T05:26:15.439Z"
   },
   "FARM DA THATY": {
     "idNumerico": "1",
@@ -342,13 +350,5 @@
     "disponivelEm": "10:45|14/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T11:21:46.687Z"
-  },
-  "NIKE SHOX": {
-    "idNumerico": "42",
-    "nome": "NIKE SHOX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:55|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T12:40:59.560Z"
   }
 }

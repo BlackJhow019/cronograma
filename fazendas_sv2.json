@@ -290,10 +290,10 @@
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
     "nome": "Farms de Galopisitas",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:07|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T22:47:34.073Z"
+    "roubadaEm": "2026-08-14T05:25:02.267Z"
   },
   "FARM DO GALO": {
     "idNumerico": "40",
@@ -302,30 +302,6 @@
     "disponivelEm": "05:41|14/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T05:24:50.101Z"
-  },
-  "30PRAUM": {
-    "idNumerico": "16",
-    "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:35|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T04:34:53.612Z"
-  },
-  "PREFEITO ROADBLOCK": {
-    "idNumerico": "41",
-    "nome": "Prefeito Roadblock",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T14:38:50.571Z"
-  },
-  "RICK FARM'S": {
-    "idNumerico": "9",
-    "nome": "Rick Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T02:49:10.617Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
@@ -358,5 +334,29 @@
     "disponivelEm": "07:06|14/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T05:06:16.173Z"
+  },
+  "FARM DO SAPATO": {
+    "idNumerico": "9",
+    "nome": "FARM DO SAPATO",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T02:49:10.617Z"
+  },
+  "YELLOWSTONE - BY MONSTER": {
+    "idNumerico": "16",
+    "nome": "YellowStone - By Monster",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:35|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T04:34:53.612Z"
+  },
+  "SE ROUBAR MORRE": {
+    "idNumerico": "41",
+    "nome": "SE ROUBAR MORRE",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T14:38:50.571Z"
   }
 }

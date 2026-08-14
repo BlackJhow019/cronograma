@@ -220,7 +220,7 @@
     "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
     "disponivelEm": "11:54|14/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-14T09:54:58.593Z"
   },
   "DM2 FARM": {
@@ -306,10 +306,10 @@
   ".": {
     "idNumerico": "31",
     "nome": ".",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:00|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T02:39:11.616Z"
+    "roubadaEm": "2026-08-14T10:00:30.542Z"
   },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",

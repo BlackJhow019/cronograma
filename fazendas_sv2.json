@@ -77,7 +77,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "13:17|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T12:35:29.413Z"
+    "roubadaEm": "2026-08-14T12:35:29.329Z"
   },
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",
@@ -309,7 +309,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "13:19|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T12:27:19.771Z"
+    "roubadaEm": "2026-08-14T12:27:03.108Z"
   },
   "FAZENDA DO GALIN": {
     "idNumerico": "15",
@@ -318,6 +318,22 @@
     "disponivelEm": "10:27|14/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T11:27:41.081Z"
+  },
+  "AWAKE COMPANY": {
+    "idNumerico": "13",
+    "nome": "AwaKe Company",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:20|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T11:52:42.115Z"
+  },
+  "PENOSO FARM'S": {
+    "idNumerico": "10",
+    "nome": "Penoso Farm's",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:51|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T11:10:54.320Z"
   },
   "FARM DA THATY": {
     "idNumerico": "1",
@@ -334,21 +350,5 @@
     "disponivelEm": "10:45|14/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T11:21:46.687Z"
-  },
-  "ARIANA_B13": {
-    "idNumerico": "10",
-    "nome": "Ariana_B13",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:51|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T11:10:54.320Z"
-  },
-  "NOREX FARM'S": {
-    "idNumerico": "13",
-    "nome": "Norex farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:20|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T11:52:42.115Z"
   }
 }

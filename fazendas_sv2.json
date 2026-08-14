@@ -180,7 +180,7 @@
     "nome": "Familia AlmanaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:25|14/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-14T14:48:32.497Z"
   },
   "DM2 FARM": {
@@ -290,8 +290,8 @@
   "NIKE SHOX": {
     "idNumerico": "42",
     "nome": "NIKE SHOX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:55|14/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T12:40:41.854Z"
   },
@@ -343,9 +343,9 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T14:00:58.042Z"
   },
-  "AWAKE COMPANY": {
+  "NOREX FARM'S": {
     "idNumerico": "13",
-    "nome": "AwaKe Company",
+    "nome": "Norex farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:42|14/08/2026",
     "cofreConsertado": true,

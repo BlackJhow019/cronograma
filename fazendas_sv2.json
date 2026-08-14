@@ -106,10 +106,10 @@
   "< GAUBRE LTDA >": {
     "idNumerico": "35",
     "nome": "< GAUBRE LTDA >",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:00|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-08-14T00:26:37.642Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
@@ -126,14 +126,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T18:12:53.269Z"
-  },
-  "ARIANA_B13": {
-    "idNumerico": "10",
-    "nome": "Ariana_B13",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:27|13/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T22:38:21.845Z"
   },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
@@ -279,6 +271,22 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T00:09:13.076Z"
   },
+  "FAZENDA FELIZ": {
+    "idNumerico": "22",
+    "nome": "fazenda feliz",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:01|13/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T00:17:32.295Z"
+  },
+  "RANCHO DO DOUTOR": {
+    "idNumerico": "14",
+    "nome": "Rancho do Doutor",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T11:10:44.545Z"
+  },
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
@@ -294,6 +302,22 @@
     "disponivelEm": "22:10|13/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T22:56:15.993Z"
+  },
+  "FAMILIA ALMANAK": {
+    "idNumerico": "32",
+    "nome": "Familia AlmanaK",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "ARIANA_B13": {
+    "idNumerico": "10",
+    "nome": "Ariana_B13",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:27|13/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T22:38:21.845Z"
   },
   "B13 :)": {
     "idNumerico": "23",
@@ -334,29 +358,5 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-12T14:13:30.151Z"
-  },
-  "MALVADA'S FARM": {
-    "idNumerico": "32",
-    "nome": "Malvada's Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "ROLINHA CANSADA FARMS": {
-    "idNumerico": "14",
-    "nome": "Rolinha Cansada Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T11:10:44.545Z"
-  },
-  "FAZENDA FELIZ": {
-    "idNumerico": "22",
-    "nome": "fazenda feliz",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:01|13/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T00:17:32.295Z"
   }
 }

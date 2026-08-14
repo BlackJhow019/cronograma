@@ -31,14 +31,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-12T14:45:10.503Z"
   },
-  "HWD INVESTIMENTOS": {
-    "idNumerico": "27",
-    "nome": "hwd investimentos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T13:08:16.772Z"
-  },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
@@ -279,53 +271,13 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T15:23:49.935Z"
   },
-  "/CARIDADE": {
-    "idNumerico": "40",
-    "nome": "/caridade",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:02|13/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T21:45:07.866Z"
-  },
-  "K1NG FARM'S": {
-    "idNumerico": "25",
-    "nome": "K1NG Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-12T14:13:30.151Z"
-  },
-  "FAZENDINHA BETREZE 2": {
+  "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
-    "nome": "Fazendinha BeTreZe 2",
+    "nome": "Work Industria's Limited",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T14:38:39.992Z"
-  },
-  "RANCHO DO DOUTOR": {
-    "idNumerico": "14",
-    "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T11:10:44.545Z"
-  },
-  "DM2 FARM": {
-    "idNumerico": "6",
-    "nome": "Dm2 Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:36|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T23:50:00.431Z"
-  },
-  "GRUPO RANTER": {
-    "idNumerico": "19",
-    "nome": "GRUPO RANTER",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:04|13/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-13T23:02:10.196Z"
   },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
@@ -335,21 +287,61 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T22:56:15.993Z"
   },
-  "FAMILIA ALMANAK": {
-    "idNumerico": "32",
-    "nome": "Familia AlmanaK",
+  "/CARIDADE": {
+    "idNumerico": "40",
+    "nome": "/caridade",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:02|13/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T21:45:07.866Z"
+  },
+  "FAZENDA DA MILLY": {
+    "idNumerico": "19",
+    "nome": "Fazenda da Milly",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:04|13/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-13T23:02:10.196Z"
+  },
+  ".": {
+    "idNumerico": "31",
+    "nome": ".",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "FAZENDA REI DROGADO": {
-    "idNumerico": "31",
-    "nome": "Fazenda Rei Drogado",
+  "K1NG FARM'S": {
+    "idNumerico": "25",
+    "nome": "K1NG Farm's",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-12T14:13:30.151Z"
+  },
+  "MALVADA'S FARM": {
+    "idNumerico": "32",
+    "nome": "Malvada's Farm",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
+  },
+  "ROLINHA CANSADA FARMS": {
+    "idNumerico": "14",
+    "nome": "Rolinha Cansada Farms",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T11:10:44.545Z"
+  },
+  "DEAD (:": {
+    "idNumerico": "27",
+    "nome": "Dead (:",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:45|13/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T00:09:13.076Z"
   },
   "AZEROX": {
     "idNumerico": "23",
@@ -358,5 +350,13 @@
     "disponivelEm": "23:34|13/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T23:55:37.437Z"
+  },
+  "SITIO DO JN": {
+    "idNumerico": "6",
+    "nome": "Sitio do jn",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:36|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T23:50:00.431Z"
   }
 }

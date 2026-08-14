@@ -164,7 +164,7 @@
     "nome": "Norex farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:40|14/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-14T09:33:58.125Z"
   },
   "OS DE RACA": {
@@ -271,14 +271,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T06:43:38.726Z"
   },
-  "PENOSO FARM'S": {
-    "idNumerico": "10",
-    "nome": "Penoso Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T05:28:21.668Z"
-  },
   "GRUPO RANTER": {
     "idNumerico": "19",
     "nome": "GRUPO RANTER",
@@ -350,5 +342,13 @@
     "disponivelEm": "07:45|14/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T08:33:56.603Z"
+  },
+  "ARIANA_B13": {
+    "idNumerico": "10",
+    "nome": "Ariana_B13",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:26|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T09:37:43.597Z"
   }
 }

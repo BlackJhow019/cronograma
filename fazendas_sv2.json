@@ -226,10 +226,10 @@
   "RICK FARM'S": {
     "idNumerico": "9",
     "nome": "Rick Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:48|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T09:02:08.978Z"
+    "roubadaEm": "2026-08-14T17:04:11.351Z"
   },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
@@ -260,7 +260,7 @@
     "nome": "Penoso Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:35|14/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-14T16:54:22.678Z"
   },
   "NIKE SHOX": {

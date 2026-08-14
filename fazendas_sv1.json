@@ -26,10 +26,10 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:56|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T08:25:00.475Z"
+    "roubadaEm": "2026-08-14T13:56:00.809Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
     "idNumerico": "17",
@@ -195,9 +195,9 @@
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
     "status": "INDISPONIVEL",
-    "disponivelEm": "15:52|14/08/2026",
+    "disponivelEm": "15:53|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T13:52:49.930Z"
+    "roubadaEm": "2026-08-14T13:53:07.078Z"
   },
   "KODIAK": {
     "idNumerico": "3",

@@ -354,9 +354,9 @@
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:00|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-12T19:50:23.071Z"
+    "roubadaEm": "2026-08-14T02:48:56.516Z"
   }
 }

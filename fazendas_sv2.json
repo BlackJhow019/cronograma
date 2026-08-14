@@ -327,11 +327,27 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T05:22:09.418Z"
   },
+  "VENDO 500KM ACEITO TROCAS": {
+    "idNumerico": "24",
+    "nome": "VENDO 500km ACEITO TROCAS",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:00|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T06:43:54.401Z"
+  },
+  "PENOSO FARM'S": {
+    "idNumerico": "10",
+    "nome": "Penoso Farm's",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:10|14/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-14T05:28:21.668Z"
+  },
   "FARM DO GALO": {
     "idNumerico": "40",
     "nome": "FARM DO GALO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:51|14/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T05:26:15.439Z"
   },
@@ -342,21 +358,5 @@
     "disponivelEm": "04:27|14/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T05:42:20.030Z"
-  },
-  "ARIANA_B13": {
-    "idNumerico": "10",
-    "nome": "Ariana_B13",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:10|14/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-14T05:28:21.668Z"
-  },
-  "VENDO 500KM ACEITO TROCAS": {
-    "idNumerico": "24",
-    "nome": "VENDO 500km ACEITO TROCAS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:00|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T06:43:54.401Z"
   }
 }

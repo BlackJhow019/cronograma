@@ -108,7 +108,7 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:46|14/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-14T13:56:01.378Z"
   },
   "AURA + EGO": {
@@ -146,8 +146,8 @@
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
     "nome": "Farms de Galopisitas",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:57|14/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T11:15:07.895Z"
   },
@@ -214,14 +214,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T09:54:57.150Z"
-  },
-  "VALE DAS SOMBRAS": {
-    "idNumerico": "24",
-    "nome": "Vale das Sombras",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T10:20:41.996Z"
   },
   "ODYSSEY LTDA": {
     "idNumerico": "39",
@@ -350,5 +342,13 @@
     "disponivelEm": "12:48|14/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-14T13:53:07.051Z"
+  },
+  "VENDO 500KM ACEITO TROCAS": {
+    "idNumerico": "24",
+    "nome": "VENDO 500km ACEITO TROCAS",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:17|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T14:00:31.203Z"
   }
 }

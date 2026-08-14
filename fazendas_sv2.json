@@ -42,10 +42,10 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:13|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T11:24:56.857Z"
+    "roubadaEm": "2026-08-14T18:13:29.102Z"
   },
   "DONA SEM RAZAO": {
     "idNumerico": "26",

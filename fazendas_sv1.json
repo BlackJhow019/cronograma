@@ -250,10 +250,10 @@
   "021": {
     "idNumerico": "1",
     "nome": "021",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:31|15/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T17:23:11.560Z"
+    "roubadaEm": "2026-08-14T22:31:28.750Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",

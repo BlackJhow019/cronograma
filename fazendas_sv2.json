@@ -165,7 +165,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "07:39|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T09:33:14.835Z"
+    "roubadaEm": "2026-08-14T09:33:28.361Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",
@@ -319,6 +319,22 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-14T09:25:58.593Z"
   },
+  "YT @GANDIA_RP": {
+    "idNumerico": "15",
+    "nome": "YT @GANDIA_RP",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:23|14/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-14T09:31:29.044Z"
+  },
+  "FARME DO DRAKE": {
+    "idNumerico": "35",
+    "nome": "Farme do Drake",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:41|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T09:23:28.342Z"
+  },
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
@@ -327,28 +343,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T09:02:08.978Z"
   },
-  "< GAUBRE LTDA >": {
-    "idNumerico": "35",
-    "nome": "< GAUBRE LTDA >",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:41|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T09:23:28.342Z"
-  },
-  "NIKE SHOX": {
+  "TREMBALA": {
     "idNumerico": "42",
-    "nome": "NIKE SHOX",
+    "nome": "TremBala",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:45|14/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T08:33:56.603Z"
-  },
-  "YT @GANDIA_RP": {
-    "idNumerico": "15",
-    "nome": "YT @GANDIA_RP",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:23|14/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-14T09:31:29.044Z"
   }
 }

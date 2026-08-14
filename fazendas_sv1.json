@@ -108,7 +108,7 @@
     "nome": "CdM Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:41|15/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-14T23:41:04.427Z"
   },
   "FAZENDADO 171": {
@@ -314,10 +314,10 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:48|15/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T18:13:58.313Z"
+    "roubadaEm": "2026-08-14T23:48:12.532Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",

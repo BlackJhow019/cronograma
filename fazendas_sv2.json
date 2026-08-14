@@ -251,17 +251,9 @@
     "idNumerico": "31",
     "nome": ".",
     "status": "INDISPONIVEL",
-    "disponivelEm": "12:00|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T10:00:45.363Z"
-  },
-  "FARM'S NAY E NICK": {
-    "idNumerico": "5",
-    "nome": "FARM'S NAY E NICK",
-    "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T09:58:13.371Z"
+    "roubadaEm": "2026-08-14T10:00:45.363Z"
   },
   "RICO LOUCO": {
     "idNumerico": "11",
@@ -350,5 +342,13 @@
     "disponivelEm": "12:42|14/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-14T14:36:01.744Z"
+  },
+  "..OURO..PR3TO..": {
+    "idNumerico": "5",
+    "nome": "..OURO..PR3TO..",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:07|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T15:00:46.062Z"
   }
 }

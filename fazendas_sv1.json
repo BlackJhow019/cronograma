@@ -146,10 +146,10 @@
   "/CARIDADE": {
     "idNumerico": "40",
     "nome": "/caridade",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:42|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T21:43:05.864Z"
+    "roubadaEm": "2026-08-14T12:42:13.198Z"
   },
   "RICO LOUCO": {
     "idNumerico": "11",

@@ -114,10 +114,10 @@
   "FAZENDADO 171": {
     "idNumerico": "12",
     "nome": "fazendado 171",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:31|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T15:01:20.871Z"
+    "roubadaEm": "2026-08-14T01:31:33.648Z"
   },
   "PEDRO FARM'S": {
     "idNumerico": "21",
@@ -181,7 +181,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "03:24|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T01:24:46.646Z"
+    "roubadaEm": "2026-08-14T01:24:32.172Z"
   },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",

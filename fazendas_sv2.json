@@ -295,14 +295,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T05:25:02.267Z"
   },
-  "FARM DO GALO": {
-    "idNumerico": "40",
-    "nome": "FARM DO GALO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:42|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T05:25:22.291Z"
-  },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
@@ -358,5 +350,13 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T14:38:50.571Z"
+  },
+  "/CARIDADE": {
+    "idNumerico": "40",
+    "nome": "/caridade",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:51|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T05:26:04.547Z"
   }
 }

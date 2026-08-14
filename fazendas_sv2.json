@@ -202,8 +202,8 @@
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:06|14/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T05:06:16.173Z"
   },
@@ -303,6 +303,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T09:56:47.026Z"
   },
+  "FAZENDA REI DROGADO": {
+    "idNumerico": "31",
+    "nome": "Fazenda Rei Drogado",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:00|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T10:00:45.363Z"
+  },
   "..OURO..PR3TO..": {
     "idNumerico": "5",
     "nome": "..OURO..PR3TO..",
@@ -342,13 +350,5 @@
     "disponivelEm": "07:45|14/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T08:33:56.603Z"
-  },
-  ".": {
-    "idNumerico": "31",
-    "nome": ".",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:00|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T10:00:45.363Z"
   }
 }

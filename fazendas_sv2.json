@@ -245,7 +245,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "10:17|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T11:18:19.588Z"
+    "roubadaEm": "2026-08-14T11:18:32.991Z"
   },
   "KODIAK": {
     "idNumerico": "3",
@@ -262,14 +262,6 @@
     "disponivelEm": "09:56|14/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-14T09:54:57.150Z"
-  },
-  "CHAMA A POLICIA": {
-    "idNumerico": "44",
-    "nome": "CHAMA A POLICIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:24|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T09:56:47.026Z"
   },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
@@ -350,5 +342,13 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T09:02:08.978Z"
+  },
+  "QUEM ROUBAR E PETISTA": {
+    "idNumerico": "44",
+    "nome": "Quem Roubar e Petista",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:45|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T11:21:33.497Z"
   }
 }

@@ -27,9 +27,9 @@
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
     "status": "INDISPONIVEL",
-    "disponivelEm": "11:41|14/08/2026",
+    "disponivelEm": "11:40|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T11:35:32.288Z"
+    "roubadaEm": "2026-08-14T11:35:15.608Z"
   },
   "/VENDERPRODUTOS": {
     "idNumerico": "7",
@@ -285,7 +285,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "13:31|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T11:31:22.139Z"
+    "roubadaEm": "2026-08-14T11:31:01.891Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
@@ -293,7 +293,47 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "13:31|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T11:31:35.411Z"
+    "roubadaEm": "2026-08-14T11:31:12.143Z"
+  },
+  "FARM DO SAPATO": {
+    "idNumerico": "9",
+    "nome": "FARM DO SAPATO",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T09:02:08.978Z"
+  },
+  "FAZENDA DO GALIN": {
+    "idNumerico": "15",
+    "nome": "Fazenda do Galin",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:27|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T11:27:41.081Z"
+  },
+  "PENOSO FARM'S": {
+    "idNumerico": "10",
+    "nome": "Penoso Farm's",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:51|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T11:10:54.320Z"
+  },
+  ".": {
+    "idNumerico": "31",
+    "nome": ".",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:00|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T10:00:45.363Z"
+  },
+  "FARM'S NAY E NICK": {
+    "idNumerico": "5",
+    "nome": "FARM'S NAY E NICK",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:49|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T09:58:13.371Z"
   },
   "CHAMA A POLICIA": {
     "idNumerico": "44",
@@ -303,52 +343,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T11:21:46.687Z"
   },
-  "ARIANA_B13": {
-    "idNumerico": "10",
-    "nome": "Ariana_B13",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:51|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T11:10:54.320Z"
-  },
-  "YT @GANDIA_RP": {
-    "idNumerico": "15",
-    "nome": "YT @GANDIA_RP",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:27|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T11:27:53.356Z"
-  },
-  "FAZENDA REI DROGADO": {
-    "idNumerico": "31",
-    "nome": "Fazenda Rei Drogado",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:00|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T10:00:45.363Z"
-  },
-  "..OURO..PR3TO..": {
-    "idNumerico": "5",
-    "nome": "..OURO..PR3TO..",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:49|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T09:58:13.371Z"
-  },
-  "CANNABIS": {
+  "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
-    "nome": "CANNABIS",
+    "nome": "Clube da Luluzinha",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:51|14/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T09:48:06.012Z"
-  },
-  "FARM DO SAPATO": {
-    "idNumerico": "9",
-    "nome": "FARM DO SAPATO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T09:02:08.978Z"
   }
 }

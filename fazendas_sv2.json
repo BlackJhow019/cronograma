@@ -135,14 +135,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T17:40:43.257Z"
   },
-  "WESKER_U$METRALHA": {
-    "idNumerico": "28",
-    "nome": "Wesker_u$MeTraLha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:12|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T23:12:02.723Z"
-  },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
@@ -303,6 +295,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-14T00:50:16.680Z"
   },
+  "ODYSSEY LTDA": {
+    "idNumerico": "39",
+    "nome": "odyssey ltda",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T17:58:52.886Z"
+  },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
@@ -310,6 +310,14 @@
     "disponivelEm": "00:04|14/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T01:04:30.742Z"
+  },
+  "CLUBE DA LULUZINHA": {
+    "idNumerico": "8",
+    "nome": "Clube da Luluzinha",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T17:21:25.781Z"
   },
   "021": {
     "idNumerico": "1",
@@ -327,6 +335,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T23:50:00.431Z"
   },
+  "FRANCA": {
+    "idNumerico": "28",
+    "nome": "FRANCA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:49|13/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T01:20:41.453Z"
+  },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
     "nome": "Vale das Sombras",
@@ -342,21 +358,5 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
-  },
-  "ODYSSEY LTDA": {
-    "idNumerico": "39",
-    "nome": "odyssey ltda",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T17:58:52.886Z"
-  },
-  "CANNABIS": {
-    "idNumerico": "8",
-    "nome": "CANNABIS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T17:21:25.781Z"
   }
 }

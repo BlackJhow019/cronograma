@@ -28,7 +28,7 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "10:25|14/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-14T08:25:00.561Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
@@ -202,9 +202,9 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:30|14/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-14T03:30:51.608Z"
   },
   "AZEROX": {
@@ -232,10 +232,10 @@
     "roubadaEm": "2026-08-14T06:26:12.103Z"
   },
   "< GAUBRE LTDA >": {
-    "idNumerico": "2",
+    "idNumerico": "35",
     "nome": "< GAUBRE LTDA >",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:27|14/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T07:44:54.166Z"
   },

@@ -210,9 +210,9 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:56|14/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-14T09:54:57.150Z"
   },
   "VALE DAS SOMBRAS": {
@@ -335,6 +335,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T05:26:15.439Z"
   },
+  "QUEM ROUBAR E PETISTA": {
+    "idNumerico": "44",
+    "nome": "Quem Roubar e Petista",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:45|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T11:21:46.687Z"
+  },
   "FARM DA THATY": {
     "idNumerico": "1",
     "nome": "Farm da Thaty",
@@ -342,13 +350,5 @@
     "disponivelEm": "10:39|14/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T11:55:55.647Z"
-  },
-  "CHAMA A POLICIA": {
-    "idNumerico": "44",
-    "nome": "CHAMA A POLICIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:45|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T11:21:46.687Z"
   }
 }

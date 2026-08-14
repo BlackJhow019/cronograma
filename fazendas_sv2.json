@@ -1,4 +1,12 @@
 {
+  "999": {
+    "idNumerico": "39",
+    "nome": "999",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T17:58:52.886Z"
+  },
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
@@ -95,14 +103,6 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "AWAKE COMPANY": {
-    "idNumerico": "13",
-    "nome": "AwaKe Company",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T12:54:50.507Z"
-  },
   "FAZENDA DO MIRIM": {
     "idNumerico": "36",
     "nome": "Fazenda Do MIRIM",
@@ -146,10 +146,10 @@
   "K1NG FARM'S": {
     "idNumerico": "25",
     "nome": "K1NG Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:48|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-12T14:13:30.151Z"
+    "roubadaEm": "2026-08-14T04:06:36.491Z"
   },
   "SITIO DO JN": {
     "idNumerico": "6",
@@ -191,14 +191,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T00:50:16.680Z"
   },
-  "FARM DA THATY": {
-    "idNumerico": "1",
-    "nome": "Farm da Thaty",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T17:44:20.906Z"
-  },
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
@@ -206,14 +198,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T23:55:37.437Z"
-  },
-  "SE ROUBAR MORRE": {
-    "idNumerico": "41",
-    "nome": "SE ROUBAR MORRE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T14:38:50.571Z"
   },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
@@ -327,29 +311,21 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "MALVADA'S FARM": {
-    "idNumerico": "32",
-    "nome": "Malvada's Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:32|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T03:55:52.378Z"
-  },
-  "FARM DO SAPATO": {
-    "idNumerico": "9",
-    "nome": "FARM DO SAPATO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:00|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T02:49:10.617Z"
-  },
-  "ODYSSEY LTDA": {
-    "idNumerico": "39",
-    "nome": "odyssey ltda",
+  "NOREX FARM'S": {
+    "idNumerico": "13",
+    "nome": "Norex farm's",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T17:58:52.886Z"
+    "roubadaEm": "2026-08-13T12:54:50.507Z"
+  },
+  "PREFEITO ROADBLOCK": {
+    "idNumerico": "41",
+    "nome": "Prefeito Roadblock",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T14:38:50.571Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -358,5 +334,29 @@
     "disponivelEm": "02:30|14/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T04:05:55.568Z"
+  },
+  "FAMILIA ALMANAK": {
+    "idNumerico": "32",
+    "nome": "Familia AlmanaK",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:32|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T03:55:52.378Z"
+  },
+  "RICK FARM'S": {
+    "idNumerico": "9",
+    "nome": "Rick Farm's",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:00|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T02:49:10.617Z"
+  },
+  "021": {
+    "idNumerico": "1",
+    "nome": "021",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:08|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T04:25:27.421Z"
   }
 }

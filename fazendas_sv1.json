@@ -146,8 +146,8 @@
   "/CARIDADE": {
     "idNumerico": "40",
     "nome": "/caridade",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:43|13/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T21:43:05.864Z"
   },
@@ -322,9 +322,9 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:42|13/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-13T21:42:14.412Z"
   },
   "FAMILIA ALMANAK": {

@@ -162,10 +162,10 @@
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:39|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T12:54:50.507Z"
+    "roubadaEm": "2026-08-14T09:33:14.835Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",
@@ -348,7 +348,7 @@
     "nome": "YT @GANDIA_RP",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:23|14/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-14T09:31:29.044Z"
   }
 }

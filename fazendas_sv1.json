@@ -268,7 +268,7 @@
     "nome": "30PRAUM",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:00|14/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-14T12:00:14.495Z"
   },
   "CLUBE DA LULUZINHA": {
@@ -290,10 +290,10 @@
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:11|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T05:06:16.326Z"
+    "roubadaEm": "2026-08-14T12:11:49.797Z"
   },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",

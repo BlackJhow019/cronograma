@@ -26,10 +26,10 @@
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:41|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T17:16:26.370Z"
+    "roubadaEm": "2026-08-14T11:35:32.288Z"
   },
   "/VENDERPRODUTOS": {
     "idNumerico": "7",
@@ -279,6 +279,22 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-14T10:51:58.217Z"
   },
+  "ODYSSEY LTDA": {
+    "idNumerico": "39",
+    "nome": "odyssey ltda",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:31|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T11:31:22.139Z"
+  },
+  "WESKER_U$METRALHA": {
+    "idNumerico": "28",
+    "nome": "Wesker_u$MeTraLha",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:31|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T11:31:35.411Z"
+  },
   "CHAMA A POLICIA": {
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
@@ -334,21 +350,5 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T09:02:08.978Z"
-  },
-  "ODYSSEY LTDA": {
-    "idNumerico": "39",
-    "nome": "odyssey ltda",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:31|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T11:31:22.139Z"
-  },
-  "WESKER_U$METRALHA": {
-    "idNumerico": "28",
-    "nome": "Wesker_u$MeTraLha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:31|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T11:31:12.312Z"
   }
 }

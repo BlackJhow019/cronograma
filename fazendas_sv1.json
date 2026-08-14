@@ -68,7 +68,7 @@
     "nome": "K1NG Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:07|14/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-14T04:07:18.108Z"
   },
   "ROUBO OFF": {
@@ -194,10 +194,10 @@
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:09|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T10:31:44.149Z"
+    "roubadaEm": "2026-08-14T04:09:52.255Z"
   },
   "KODIAK": {
     "idNumerico": "3",
@@ -227,7 +227,7 @@
     "idNumerico": "6",
     "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
-    "disponivelEm": "01:09|14/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T23:09:37.644Z"
   },

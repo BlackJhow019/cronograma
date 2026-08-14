@@ -163,9 +163,9 @@
     "idNumerico": "13",
     "nome": "Norex farm's",
     "status": "INDISPONIVEL",
-    "disponivelEm": "07:39|14/08/2026",
+    "disponivelEm": "07:40|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T09:33:28.361Z"
+    "roubadaEm": "2026-08-14T09:33:44.715Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",
@@ -327,14 +327,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-14T09:31:29.044Z"
   },
-  "FARME DO DRAKE": {
-    "idNumerico": "35",
-    "nome": "Farme do Drake",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:41|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T09:23:28.342Z"
-  },
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
@@ -343,9 +335,17 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T09:02:08.978Z"
   },
-  "TREMBALA": {
+  "< GAUBRE LTDA >": {
+    "idNumerico": "35",
+    "nome": "< GAUBRE LTDA >",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:41|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T09:23:28.342Z"
+  },
+  "NIKE SHOX": {
     "idNumerico": "42",
-    "nome": "TremBala",
+    "nome": "NIKE SHOX",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:45|14/08/2026",
     "cofreConsertado": false,

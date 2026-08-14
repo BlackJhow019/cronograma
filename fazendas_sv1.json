@@ -194,10 +194,10 @@
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:52|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T04:10:31.683Z"
+    "roubadaEm": "2026-08-14T13:52:49.930Z"
   },
   "KODIAK": {
     "idNumerico": "3",
@@ -226,17 +226,17 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:42|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T06:26:12.103Z"
+    "roubadaEm": "2026-08-14T13:42:06.564Z"
   },
   "< GAUBRE LTDA >": {
     "idNumerico": "35",
     "nome": "< GAUBRE LTDA >",
     "status": "INDISPONIVEL",
     "disponivelEm": "11:17|14/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-14T13:35:16.054Z"
   },
   "YT @GANDIA_RP": {

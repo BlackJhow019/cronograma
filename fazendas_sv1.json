@@ -58,10 +58,10 @@
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:16|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T00:17:32.757Z"
+    "roubadaEm": "2026-08-14T17:16:35.218Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",
@@ -100,7 +100,7 @@
     "nome": "Rick Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:36|14/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-14T17:04:27.942Z"
   },
   "CDM FARM'S": {
@@ -290,9 +290,9 @@
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:12|14/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-14T12:12:03.156Z"
   },
   "POLEMICO$ INDUSTRI$": {

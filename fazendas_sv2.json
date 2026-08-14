@@ -138,9 +138,9 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:57|14/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-14T10:32:28.735Z"
   },
   "FARMS DE GALOPISITAS": {
@@ -154,10 +154,10 @@
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:00|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T04:34:53.612Z"
+    "roubadaEm": "2026-08-14T12:00:13.516Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
@@ -287,6 +287,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T09:02:08.978Z"
   },
+  "FARM DA THATY": {
+    "idNumerico": "1",
+    "nome": "Farm da Thaty",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:39|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T11:55:55.647Z"
+  },
   "CHAMA A POLICIA": {
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
@@ -294,6 +302,14 @@
     "disponivelEm": "10:45|14/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T11:21:46.687Z"
+  },
+  "CLUBE DA LULUZINHA": {
+    "idNumerico": "8",
+    "nome": "Clube da Luluzinha",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T09:48:06.012Z"
   },
   "ARIANA_B13": {
     "idNumerico": "10",
@@ -334,21 +350,5 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T09:58:13.371Z"
-  },
-  "CANNABIS": {
-    "idNumerico": "8",
-    "nome": "CANNABIS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T09:48:06.012Z"
-  },
-  "021": {
-    "idNumerico": "1",
-    "nome": "021",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:39|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T11:55:55.647Z"
   }
 }

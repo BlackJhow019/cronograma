@@ -111,14 +111,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T04:06:36.491Z"
   },
-  "SITIO DO JN": {
-    "idNumerico": "6",
-    "nome": "Sitio do jn",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T23:50:00.431Z"
-  },
   "RAMONZIN_FRANCA": {
     "idNumerico": "21",
     "nome": "RAMONZIN_FRANCA",
@@ -351,12 +343,20 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T05:22:09.418Z"
   },
-  "$ COMPANY $R.RC_PLINIODMG $": {
+  "KODIAK": {
     "idNumerico": "3",
-    "nome": "$ Company $r.RC_PlinioDmG $",
+    "nome": "KodiaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:27|14/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T06:13:24.849Z"
+  },
+  "DM2 FARM": {
+    "idNumerico": "6",
+    "nome": "Dm2 Farm",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:28|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T06:25:07.346Z"
   }
 }

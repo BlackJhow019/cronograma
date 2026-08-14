@@ -82,18 +82,18 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:10|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T16:23:00.501Z"
+    "roubadaEm": "2026-08-14T21:31:09.940Z"
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T13:56:01.378Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:21|14/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-14T21:31:30.180Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
@@ -114,10 +114,10 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:49|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T16:11:19.618Z"
+    "roubadaEm": "2026-08-14T21:24:26.363Z"
   },
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
@@ -138,10 +138,10 @@
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T12:12:04.192Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:35|14/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-14T21:35:05.741Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
@@ -219,7 +219,7 @@
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
     "status": "INDISPONIVEL",
-    "disponivelEm": "18:41|14/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T19:46:39.095Z"
   },
@@ -246,14 +246,6 @@
     "disponivelEm": "19:44|14/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T20:37:38.473Z"
-  },
-  "CHAMA A POLICIA": {
-    "idNumerico": "44",
-    "nome": "CHAMA A POLICIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T16:31:40.281Z"
   },
   "ARIANA_B13": {
     "idNumerico": "10",
@@ -307,7 +299,7 @@
     "idNumerico": "11",
     "nome": "RocK Farm",
     "status": "INDISPONIVEL",
-    "disponivelEm": "18:40|14/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T17:48:31.893Z"
   },
@@ -342,6 +334,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T05:26:15.439Z"
+  },
+  "QUEM ROUBAR E PETISTA": {
+    "idNumerico": "44",
+    "nome": "Quem Roubar e Petista",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:59|14/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-14T21:35:18.828Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",

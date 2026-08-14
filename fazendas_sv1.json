@@ -171,7 +171,7 @@
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
     "status": "INDISPONIVEL",
-    "disponivelEm": "18:31|14/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T16:31:40.268Z"
   },
@@ -210,10 +210,10 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:31|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T16:23:00.718Z"
+    "roubadaEm": "2026-08-14T21:31:43.649Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",

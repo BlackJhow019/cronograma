@@ -50,10 +50,10 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:24|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T11:10:44.545Z"
+    "roubadaEm": "2026-08-14T11:24:32.453Z"
   },
   "DONA SEM RAZAO": {
     "idNumerico": "26",
@@ -223,14 +223,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T06:31:17.380Z"
   },
-  "YT @GANDIA_RP": {
-    "idNumerico": "15",
-    "nome": "YT @GANDIA_RP",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:23|14/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-14T09:31:14.529Z"
-  },
   "FARM DO GALO": {
     "idNumerico": "40",
     "nome": "FARM DO GALO",
@@ -303,6 +295,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-14T10:51:58.217Z"
   },
+  "CHAMA A POLICIA": {
+    "idNumerico": "44",
+    "nome": "CHAMA A POLICIA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:45|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T11:21:46.687Z"
+  },
   "ARIANA_B13": {
     "idNumerico": "10",
     "nome": "Ariana_B13",
@@ -342,13 +342,5 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T09:02:08.978Z"
-  },
-  "QUEM ROUBAR E PETISTA": {
-    "idNumerico": "44",
-    "nome": "Quem Roubar e Petista",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:45|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T11:21:46.687Z"
   }
 }

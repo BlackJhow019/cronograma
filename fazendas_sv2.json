@@ -10,10 +10,10 @@
   "FAZENDA DO TEMOR": {
     "idNumerico": "30",
     "nome": "Fazenda do Temor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:07|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T13:14:27.806Z"
+    "roubadaEm": "2026-08-14T08:07:41.280Z"
   },
   "FAZENDA CUIUDA - BY GAZOLA": {
     "idNumerico": "17",
@@ -335,6 +335,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T05:28:21.668Z"
   },
+  "GRUPO RANTER": {
+    "idNumerico": "19",
+    "nome": "GRUPO RANTER",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
   "FARM DO GALO": {
     "idNumerico": "40",
     "nome": "FARM DO GALO",
@@ -342,13 +350,5 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T05:26:15.439Z"
-  },
-  "FAZENDA DA MILLY": {
-    "idNumerico": "19",
-    "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
   }
 }

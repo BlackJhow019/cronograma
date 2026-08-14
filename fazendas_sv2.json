@@ -287,6 +287,38 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-14T09:31:14.529Z"
   },
+  "FARM DO GALO": {
+    "idNumerico": "40",
+    "nome": "FARM DO GALO",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T05:26:15.439Z"
+  },
+  "FAZENDA DA MILLY": {
+    "idNumerico": "19",
+    "nome": "Fazenda da Milly",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "ARIANA_B13": {
+    "idNumerico": "10",
+    "nome": "Ariana_B13",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:26|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T09:37:43.522Z"
+  },
+  "KODIAK": {
+    "idNumerico": "3",
+    "nome": "KodiaK",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:24|14/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-14T09:25:58.593Z"
+  },
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
@@ -311,52 +343,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T08:33:56.603Z"
   },
-  "$ COMPANY $R.RC_PLINIODMG $": {
-    "idNumerico": "3",
-    "nome": "$ Company $r.RC_PlinioDmG $",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:24|14/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-14T09:25:58.593Z"
-  },
-  "FARM DO GALO": {
-    "idNumerico": "40",
-    "nome": "FARM DO GALO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T05:26:15.439Z"
-  },
-  "FAZENDA DA MILLY": {
-    "idNumerico": "19",
-    "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
     "status": "INDISPONIVEL",
-    "disponivelEm": "08:45|14/08/2026",
+    "disponivelEm": "08:51|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T09:41:49.786Z"
-  },
-  "ARIANA_B13": {
-    "idNumerico": "10",
-    "nome": "Ariana_B13",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:26|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T09:37:43.522Z"
-  },
-  "KODIAK": {
-    "idNumerico": "3",
-    "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-08-14T09:48:06.012Z"
   }
 }

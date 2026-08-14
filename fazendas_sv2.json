@@ -314,10 +314,10 @@
   "CHAMA A POLICIA": {
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:35|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T16:33:48.890Z"
+    "roubadaEm": "2026-08-14T03:07:21.408Z"
   },
   "ODYSSEY LTDA": {
     "idNumerico": "39",

@@ -295,14 +295,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-14T12:12:03.156Z"
   },
-  "POLEMICO$ INDUSTRI$": {
-    "idNumerico": "37",
-    "nome": "PoLeMiCo$ industri$",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:35|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T11:35:15.476Z"
-  },
   ".": {
     "idNumerico": "31",
     "nome": ".",
@@ -322,10 +314,10 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:38|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T11:18:32.902Z"
+    "roubadaEm": "2026-08-14T16:38:28.646Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",

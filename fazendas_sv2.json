@@ -164,7 +164,7 @@
     "nome": "Farm's de Cafe",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:12|14/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-14T12:12:04.192Z"
   },
   "@FILH_ODOPAII": {
@@ -191,14 +191,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T06:26:11.070Z"
   },
-  "ROCK FARM": {
-    "idNumerico": "11",
-    "nome": "RocK Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T06:31:17.380Z"
-  },
   "FARM DO GALO": {
     "idNumerico": "40",
     "nome": "FARM DO GALO",
@@ -218,9 +210,9 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:24|14/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-14T09:25:58.593Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
@@ -303,6 +295,22 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T11:55:55.647Z"
   },
+  ".": {
+    "idNumerico": "31",
+    "nome": ".",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:00|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T10:00:45.363Z"
+  },
+  "FARM'S NAY E NICK": {
+    "idNumerico": "5",
+    "nome": "FARM'S NAY E NICK",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T09:58:13.371Z"
+  },
   "CHAMA A POLICIA": {
     "idNumerico": "44",
     "nome": "CHAMA A POLICIA",
@@ -335,20 +343,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T11:27:41.081Z"
   },
-  "FAZENDA REI DROGADO": {
-    "idNumerico": "31",
-    "nome": "Fazenda Rei Drogado",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:00|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T10:00:45.363Z"
-  },
-  "..OURO..PR3TO..": {
-    "idNumerico": "5",
-    "nome": "..OURO..PR3TO..",
+  "RICO LOUCO": {
+    "idNumerico": "11",
+    "nome": "rico louco",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T09:58:13.371Z"
+    "roubadaEm": "2026-08-14T06:31:17.380Z"
   }
 }

@@ -244,7 +244,7 @@
     "nome": "YT @GANDIA_RP",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:45|14/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-14T15:45:12.776Z"
   },
   "021": {
@@ -274,10 +274,10 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:55|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T09:41:48.486Z"
+    "roubadaEm": "2026-08-14T15:55:36.664Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",

@@ -170,10 +170,10 @@
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:31|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T11:21:45.700Z"
+    "roubadaEm": "2026-08-14T16:31:25.333Z"
   },
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
@@ -334,21 +334,5 @@
     "disponivelEm": "16:48|14/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-14T14:48:33.279Z"
-  },
-  "WESKER_U$METRALHA": {
-    "idNumerico": "28",
-    "nome": "Wesker_u$MeTraLha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:31|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T11:31:12.800Z"
-  },
-  "ODYSSEY LTDA": {
-    "idNumerico": "39",
-    "nome": "odyssey ltda",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:31|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T11:31:02.686Z"
   }
 }

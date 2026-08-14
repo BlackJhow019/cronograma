@@ -162,7 +162,7 @@
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T08:09:58.940Z"
@@ -247,14 +247,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T06:43:38.726Z"
   },
-  "FAZENDA REI DROGADO": {
-    "idNumerico": "31",
-    "nome": "Fazenda Rei Drogado",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
@@ -295,6 +287,30 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-14T09:25:58.593Z"
   },
+  "WORK INDUSTRIA'S LIMITED": {
+    "idNumerico": "38",
+    "nome": "Work Industria's Limited",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:56|14/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-14T09:54:57.150Z"
+  },
+  "CHAMA A POLICIA": {
+    "idNumerico": "44",
+    "nome": "CHAMA A POLICIA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:24|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T09:56:47.026Z"
+  },
+  "..OURO..PR3TO..": {
+    "idNumerico": "5",
+    "nome": "..OURO..PR3TO..",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:49|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T09:58:13.371Z"
+  },
   "CANNABIS": {
     "idNumerico": "8",
     "nome": "CANNABIS",
@@ -327,28 +343,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T08:33:56.603Z"
   },
-  "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": "38",
-    "nome": "Work Industria's Limited",
+  ".": {
+    "idNumerico": "31",
+    "nome": ".",
     "status": "INDISPONIVEL",
-    "disponivelEm": "09:56|14/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-14T09:54:57.150Z"
-  },
-  "CHAMA A POLICIA": {
-    "idNumerico": "44",
-    "nome": "CHAMA A POLICIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:24|14/08/2026",
+    "disponivelEm": "11:59|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T09:56:47.026Z"
-  },
-  "FARM'S NAY E NICK": {
-    "idNumerico": "5",
-    "nome": "FARM'S NAY E NICK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:49|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T09:58:13.371Z"
+    "roubadaEm": "2026-08-14T09:59:41.501Z"
   }
 }

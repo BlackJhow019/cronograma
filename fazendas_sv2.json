@@ -199,14 +199,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T23:55:37.437Z"
   },
-  "YELLOWSTONE - BY MONSTER": {
-    "idNumerico": "16",
-    "nome": "YellowStone - By Monster",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:42|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T02:48:37.440Z"
-  },
   "CANNABIS": {
     "idNumerico": "8",
     "nome": "CANNABIS",
@@ -311,6 +303,30 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T04:25:56.710Z"
   },
+  "JESUS EA SOLUCAO": {
+    "idNumerico": "0",
+    "nome": "JESUS EA SOLUCAO",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "NOREX FARM'S": {
+    "idNumerico": "13",
+    "nome": "Norex farm's",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T12:54:50.507Z"
+  },
+  "SAO PEDRO 2": {
+    "idNumerico": "43",
+    "nome": "SAO PEDRO 2",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:30|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T04:05:55.568Z"
+  },
   "MALVADA'S FARM": {
     "idNumerico": "32",
     "nome": "Malvada's Farm",
@@ -335,28 +351,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T14:38:50.571Z"
   },
-  "LA FAMILIA CHIARADIA": {
-    "idNumerico": "43",
-    "nome": "LA FAMILIA CHIARADIA",
+  "30PRAUM": {
+    "idNumerico": "16",
+    "nome": "30PRAUM",
     "status": "INDISPONIVEL",
-    "disponivelEm": "02:30|14/08/2026",
+    "disponivelEm": "03:35|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T04:05:55.568Z"
-  },
-  "JESUS EA SOLUCAO": {
-    "idNumerico": "0",
-    "nome": "JESUS EA SOLUCAO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "AWAKE COMPANY": {
-    "idNumerico": "13",
-    "nome": "AwaKe Company",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T12:54:50.507Z"
+    "roubadaEm": "2026-08-14T04:34:53.612Z"
   }
 }

@@ -37,15 +37,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "00:39|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T02:58:51.963Z"
-  },
-  "< GAUBRE LTDA >": {
-    "idNumerico": "35",
-    "nome": "< GAUBRE LTDA >",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T00:26:37.642Z"
+    "roubadaEm": "2026-08-14T02:58:51.853Z"
   },
   "/VENDERPRODUTOS": {
     "idNumerico": "7",
@@ -234,9 +226,9 @@
   "FARMA DA FAMILIA ELITE": {
     "idNumerico": "33",
     "nome": "Farma Da Familia Elite",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:07|14/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-14T00:50:16.680Z"
   },
   "FARM DA THATY": {
@@ -303,6 +295,30 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T01:31:32.930Z"
   },
+  "CHAMA A POLICIA": {
+    "idNumerico": "44",
+    "nome": "CHAMA A POLICIA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:35|14/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-14T03:07:21.330Z"
+  },
+  "HWD INVESTIMENTOS": {
+    "idNumerico": "27",
+    "nome": "hwd investimentos",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:37|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T02:47:29.619Z"
+  },
+  "FAZENDA DO GALIN": {
+    "idNumerico": "15",
+    "nome": "Fazenda do Galin",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T01:04:30.742Z"
+  },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
@@ -310,14 +326,6 @@
     "disponivelEm": "01:02|14/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T01:51:15.601Z"
-  },
-  "CHAMA A POLICIA": {
-    "idNumerico": "44",
-    "nome": "CHAMA A POLICIA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:35|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T03:07:21.408Z"
   },
   "ODYSSEY LTDA": {
     "idNumerico": "39",
@@ -343,20 +351,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T14:26:25.188Z"
   },
-  "YT @GANDIA_RP": {
-    "idNumerico": "15",
-    "nome": "YT @GANDIA_RP",
+  "FARME DO DRAKE": {
+    "idNumerico": "35",
+    "nome": "Farme do Drake",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T01:04:30.742Z"
-  },
-  "DEAD (:": {
-    "idNumerico": "27",
-    "nome": "Dead (:",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:37|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T02:47:29.619Z"
+    "roubadaEm": "2026-08-14T00:26:37.642Z"
   }
 }

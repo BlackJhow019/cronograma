@@ -156,16 +156,16 @@
     "nome": "30PRAUM",
     "status": "INDISPONIVEL",
     "disponivelEm": "11:00|14/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-14T12:00:13.516Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:12|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T05:06:16.173Z"
+    "roubadaEm": "2026-08-14T12:12:04.192Z"
   },
   "@FILH_ODOPAII": {
     "idNumerico": "12",
@@ -287,6 +287,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T09:02:08.978Z"
   },
+  "CLUBE DA LULUZINHA": {
+    "idNumerico": "8",
+    "nome": "Clube da Luluzinha",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T09:48:06.012Z"
+  },
   "FARM DA THATY": {
     "idNumerico": "1",
     "nome": "Farm da Thaty",
@@ -302,14 +310,6 @@
     "disponivelEm": "10:45|14/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T11:21:46.687Z"
-  },
-  "CLUBE DA LULUZINHA": {
-    "idNumerico": "8",
-    "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T09:48:06.012Z"
   },
   "ARIANA_B13": {
     "idNumerico": "10",

@@ -266,10 +266,10 @@
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:35|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T23:21:30.124Z"
+    "roubadaEm": "2026-08-14T04:35:45.386Z"
   },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
@@ -310,14 +310,6 @@
     "disponivelEm": "04:39|14/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-14T02:39:11.616Z"
-  },
-  "RANCHO DO DOUTOR": {
-    "idNumerico": "14",
-    "nome": "Rancho do Doutor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:34|14/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-13T23:34:20.127Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",

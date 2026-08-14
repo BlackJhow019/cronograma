@@ -242,8 +242,8 @@
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:35|14/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T04:34:53.612Z"
   },
@@ -311,6 +311,30 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T06:26:11.070Z"
   },
+  "WORK INDUSTRIA'S LIMITED": {
+    "idNumerico": "38",
+    "nome": "Work Industria's Limited",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T05:22:09.418Z"
+  },
+  "ROCK FARM": {
+    "idNumerico": "11",
+    "nome": "RocK Farm",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:13|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T06:31:17.380Z"
+  },
+  "$ COMPANY $R.RC_PLINIODMG $": {
+    "idNumerico": "3",
+    "nome": "$ Company $r.RC_PlinioDmG $",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:27|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T06:13:24.849Z"
+  },
   "FARM DO GALO": {
     "idNumerico": "40",
     "nome": "FARM DO GALO",
@@ -318,6 +342,14 @@
     "disponivelEm": "03:51|14/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T05:26:15.439Z"
+  },
+  "FAZENDINHA BETREZE 2": {
+    "idNumerico": "38",
+    "nome": "Fazendinha BeTreZe 2",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
@@ -334,29 +366,5 @@
     "disponivelEm": "04:10|14/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-14T05:28:21.668Z"
-  },
-  "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": "38",
-    "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T05:22:09.418Z"
-  },
-  "KODIAK": {
-    "idNumerico": "3",
-    "nome": "KodiaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:27|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T06:13:24.849Z"
-  },
-  "ROCK FARM": {
-    "idNumerico": "11",
-    "nome": "RocK Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:13|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T06:31:17.380Z"
   }
 }

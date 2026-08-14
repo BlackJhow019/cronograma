@@ -274,8 +274,8 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:30|14/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T04:05:55.568Z"
   },
@@ -286,6 +286,22 @@
     "disponivelEm": "05:09|14/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T05:27:00.736Z"
+  },
+  "FARM DO GALO": {
+    "idNumerico": "40",
+    "nome": "FARM DO GALO",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:51|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T05:26:15.439Z"
+  },
+  "ARIANA_B13": {
+    "idNumerico": "10",
+    "nome": "Ariana_B13",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:10|14/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-14T05:28:21.668Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
@@ -299,7 +315,7 @@
     "idNumerico": "32",
     "nome": "Malvada's Farm",
     "status": "INDISPONIVEL",
-    "disponivelEm": "02:32|14/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T03:55:52.378Z"
   },
@@ -342,21 +358,5 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T14:38:50.571Z"
-  },
-  "/CARIDADE": {
-    "idNumerico": "40",
-    "nome": "/caridade",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:51|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T05:26:15.439Z"
-  },
-  "PENOSO FARM'S": {
-    "idNumerico": "10",
-    "nome": "Penoso Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:10|14/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-14T05:28:21.668Z"
   }
 }

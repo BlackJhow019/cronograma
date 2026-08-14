@@ -199,14 +199,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T13:53:07.078Z"
   },
-  "KODIAK": {
-    "idNumerico": "3",
-    "nome": "KodiaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:25|14/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-14T09:25:43.393Z"
-  },
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
@@ -330,9 +322,9 @@
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-14T09:23:27.697Z"
   },
   "WESKER_U$METRALHA": {

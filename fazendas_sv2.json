@@ -178,10 +178,10 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:18|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T16:05:06.149Z"
+    "roubadaEm": "2026-08-14T21:16:54.196Z"
   },
   "ODYSSEY LTDA": {
     "idNumerico": "39",
@@ -270,14 +270,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T16:31:40.281Z"
-  },
-  "< GAUBRE LTDA >": {
-    "idNumerico": "2",
-    "nome": "< GAUBRE LTDA >",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:16|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T18:54:23.235Z"
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",

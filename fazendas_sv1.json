@@ -202,10 +202,10 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:25|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T03:30:51.608Z"
+    "roubadaEm": "2026-08-14T09:25:43.562Z"
   },
   "AZEROX": {
     "idNumerico": "23",
@@ -332,7 +332,7 @@
     "nome": "Familia AlmanaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "11:23|14/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-14T09:23:27.697Z"
   },
   "WESKER_U$METRALHA": {

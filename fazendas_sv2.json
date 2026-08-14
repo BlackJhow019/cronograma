@@ -167,14 +167,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T01:31:32.930Z"
   },
-  "CHAMA A POLICIA": {
-    "idNumerico": "44",
-    "nome": "CHAMA A POLICIA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T03:07:21.330Z"
-  },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
@@ -358,5 +350,13 @@
     "disponivelEm": "04:27|14/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T05:42:20.030Z"
+  },
+  "QUEM ROUBAR E PETISTA": {
+    "idNumerico": "44",
+    "nome": "Quem Roubar e Petista",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:26|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T05:43:08.725Z"
   }
 }

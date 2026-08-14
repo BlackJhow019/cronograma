@@ -119,14 +119,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T23:55:37.437Z"
   },
-  "CANNABIS": {
-    "idNumerico": "8",
-    "nome": "CANNABIS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:03|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T08:53:35.703Z"
-  },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
@@ -218,8 +210,8 @@
   "@FILH_ODOPAII": {
     "idNumerico": "12",
     "nome": "@filh_odopaii",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:40|14/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T06:03:24.355Z"
   },
@@ -319,21 +311,13 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-14T09:31:29.044Z"
   },
-  "FARM DO SAPATO": {
-    "idNumerico": "9",
-    "nome": "FARM DO SAPATO",
+  "ARIANA_B13": {
+    "idNumerico": "10",
+    "nome": "Ariana_B13",
     "status": "INDISPONIVEL",
-    "disponivelEm": "07:46|14/08/2026",
+    "disponivelEm": "08:26|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T09:02:08.978Z"
-  },
-  "< GAUBRE LTDA >": {
-    "idNumerico": "35",
-    "nome": "< GAUBRE LTDA >",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:41|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T09:23:28.342Z"
+    "roubadaEm": "2026-08-14T09:38:08.887Z"
   },
   "NIKE SHOX": {
     "idNumerico": "42",
@@ -343,12 +327,28 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T08:33:56.603Z"
   },
-  "ARIANA_B13": {
-    "idNumerico": "10",
-    "nome": "Ariana_B13",
+  "FARME DO DRAKE": {
+    "idNumerico": "35",
+    "nome": "Farme do Drake",
     "status": "INDISPONIVEL",
-    "disponivelEm": "08:26|14/08/2026",
+    "disponivelEm": "08:41|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T09:38:08.887Z"
+    "roubadaEm": "2026-08-14T09:23:28.342Z"
+  },
+  "CANNABIS": {
+    "idNumerico": "8",
+    "nome": "CANNABIS",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:03|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T08:53:35.703Z"
+  },
+  "FARM DO SAPATO": {
+    "idNumerico": "9",
+    "nome": "FARM DO SAPATO",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:46|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T09:02:08.978Z"
   }
 }

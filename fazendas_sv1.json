@@ -98,9 +98,9 @@
   "RICK FARM'S": {
     "idNumerico": "9",
     "nome": "Rick Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:36|14/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-14T17:04:27.942Z"
   },
   "CDM FARM'S": {
@@ -261,7 +261,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "20:32|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T18:32:25.152Z"
+    "roubadaEm": "2026-08-14T18:32:43.326Z"
   },
   "30PRAUM": {
     "idNumerico": "16",

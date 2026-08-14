@@ -338,9 +338,9 @@
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:10|14/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-14T05:28:21.668Z"
   },
   "FARM DO GALO": {
@@ -351,9 +351,9 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T05:26:15.439Z"
   },
-  "FAZENDA DA MILLY": {
+  "GRUPO RANTER": {
     "idNumerico": "19",
-    "nome": "Fazenda da Milly",
+    "nome": "GRUPO RANTER",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:27|14/08/2026",
     "cofreConsertado": false,

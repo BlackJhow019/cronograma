@@ -138,10 +138,10 @@
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:21|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T12:00:13.516Z"
+    "roubadaEm": "2026-08-14T17:20:32.662Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",

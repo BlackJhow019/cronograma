@@ -210,10 +210,10 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:10|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T23:55:37.735Z"
+    "roubadaEm": "2026-08-14T05:10:40.329Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
@@ -236,7 +236,7 @@
     "nome": "< GAUBRE LTDA >",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:45|14/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-14T05:03:21.717Z"
   },
   "YT @GANDIA_RP": {
@@ -291,9 +291,9 @@
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
     "status": "INDISPONIVEL",
-    "disponivelEm": "07:05|14/08/2026",
+    "disponivelEm": "07:06|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T05:05:40.759Z"
+    "roubadaEm": "2026-08-14T05:06:16.326Z"
   },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",

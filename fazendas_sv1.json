@@ -211,7 +211,7 @@
     "idNumerico": "23",
     "nome": "AzeRoX",
     "status": "INDISPONIVEL",
-    "disponivelEm": "01:55|14/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T23:55:37.735Z"
   },
@@ -274,8 +274,8 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:51|14/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T23:51:40.698Z"
   },

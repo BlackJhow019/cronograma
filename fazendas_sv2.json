@@ -117,7 +117,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "10:52|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T11:13:38.930Z"
+    "roubadaEm": "2026-08-14T11:13:53.093Z"
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
@@ -311,22 +311,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-14T10:51:58.217Z"
   },
-  "FARM DO SAPATO": {
-    "idNumerico": "9",
-    "nome": "FARM DO SAPATO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T09:02:08.978Z"
-  },
-  "CLUBE DA LULUZINHA": {
-    "idNumerico": "8",
-    "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:51|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T09:48:06.012Z"
-  },
   "ARIANA_B13": {
     "idNumerico": "10",
     "nome": "Ariana_B13",
@@ -350,5 +334,21 @@
     "disponivelEm": "08:49|14/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T09:58:13.371Z"
+  },
+  "CANNABIS": {
+    "idNumerico": "8",
+    "nome": "CANNABIS",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:51|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T09:48:06.012Z"
+  },
+  "FARM DO SAPATO": {
+    "idNumerico": "9",
+    "nome": "FARM DO SAPATO",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T09:02:08.978Z"
   }
 }

@@ -186,10 +186,10 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:37|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T11:18:32.991Z"
+    "roubadaEm": "2026-08-14T16:38:30.295Z"
   },
   "KODIAK": {
     "idNumerico": "3",

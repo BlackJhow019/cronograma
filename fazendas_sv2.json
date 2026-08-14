@@ -159,14 +159,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T00:17:32.295Z"
   },
-  "FARME DO DRAKE": {
-    "idNumerico": "35",
-    "nome": "Farme do Drake",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T00:26:37.642Z"
-  },
   "FARM'S NAY E NICK": {
     "idNumerico": "5",
     "nome": "FARM'S NAY E NICK",
@@ -264,12 +256,12 @@
     "roubadaEm": "2026-08-14T05:06:16.173Z"
   },
   "< GAUBRE LTDA >": {
-    "idNumerico": "2",
+    "idNumerico": "35",
     "nome": "< GAUBRE LTDA >",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:18|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T05:03:22.187Z"
+    "roubadaEm": "2026-08-14T07:44:53.953Z"
   },
   "@FILH_ODOPAII": {
     "idNumerico": "12",

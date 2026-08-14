@@ -42,26 +42,10 @@
   "FARMS DE GALOPISITAS": {
     "idNumerico": "20",
     "nome": "Farms de Galopisitas",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:29|13/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T22:47:34.073Z"
-  },
-  "SUCCUBUS FARMS": {
-    "idNumerico": "29",
-    "nome": "Succubus Farms",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "@FILH_ODOPAII": {
-    "idNumerico": "12",
-    "nome": "@filh_odopaii",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T17:45:12.360Z"
   },
   "AMO O LOWER": {
     "idNumerico": "2",
@@ -303,6 +287,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T17:58:52.886Z"
   },
+  "GRANJA DO IMONKEY": {
+    "idNumerico": "29",
+    "nome": "Granja do iMonKeY",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
@@ -310,14 +302,6 @@
     "disponivelEm": "00:04|14/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T01:04:30.742Z"
-  },
-  "CLUBE DA LULUZINHA": {
-    "idNumerico": "8",
-    "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T17:21:25.781Z"
   },
   "021": {
     "idNumerico": "1",
@@ -335,14 +319,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T23:50:00.431Z"
   },
-  "FRANCA": {
-    "idNumerico": "28",
-    "nome": "FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:49|13/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T01:20:41.453Z"
-  },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
     "nome": "Vale das Sombras",
@@ -358,5 +334,29 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": null
+  },
+  "FAZENDADO 171": {
+    "idNumerico": "12",
+    "nome": "fazendado 171",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:31|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T01:31:32.930Z"
+  },
+  "FRANCA": {
+    "idNumerico": "28",
+    "nome": "FRANCA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:49|13/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T01:20:41.346Z"
+  },
+  "CANNABIS": {
+    "idNumerico": "8",
+    "nome": "CANNABIS",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T17:21:25.781Z"
   }
 }

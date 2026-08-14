@@ -79,14 +79,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T01:57:54.342Z"
   },
-  "VALE DAS SOMBRAS": {
-    "idNumerico": "24",
-    "nome": "Vale das Sombras",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T22:56:15.993Z"
-  },
   ".": {
     "idNumerico": "31",
     "nome": ".",
@@ -311,14 +303,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T06:26:11.070Z"
   },
-  "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": "38",
-    "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T05:22:09.418Z"
-  },
   "ROCK FARM": {
     "idNumerico": "11",
     "nome": "RocK Farm",
@@ -335,6 +319,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T06:13:24.849Z"
   },
+  "FAZENDINHA BETREZE 2": {
+    "idNumerico": "38",
+    "nome": "Fazendinha BeTreZe 2",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T05:22:09.418Z"
+  },
   "FARM DO GALO": {
     "idNumerico": "40",
     "nome": "FARM DO GALO",
@@ -342,14 +334,6 @@
     "disponivelEm": "03:51|14/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T05:26:15.439Z"
-  },
-  "FAZENDINHA BETREZE 2": {
-    "idNumerico": "38",
-    "nome": "Fazendinha BeTreZe 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
@@ -366,5 +350,13 @@
     "disponivelEm": "04:10|14/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-14T05:28:21.668Z"
+  },
+  "VENDO 500KM ACEITO TROCAS": {
+    "idNumerico": "24",
+    "nome": "VENDO 500km ACEITO TROCAS",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:00|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T06:43:25.688Z"
   }
 }

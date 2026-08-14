@@ -223,14 +223,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T10:20:41.996Z"
   },
-  "FARME DO DRAKE": {
-    "idNumerico": "35",
-    "nome": "Farme do Drake",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T09:23:28.342Z"
-  },
   "SE ROUBAR MORRE": {
     "idNumerico": "41",
     "nome": "SE ROUBAR MORRE",
@@ -335,20 +327,28 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T05:26:15.439Z"
   },
-  "FARM DA THATY": {
+  "021": {
     "idNumerico": "1",
-    "nome": "Farm da Thaty",
+    "nome": "021",
     "status": "INDISPONIVEL",
     "disponivelEm": "10:39|14/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T11:55:55.647Z"
   },
-  "CHAMA A POLICIA": {
+  "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
-    "nome": "CHAMA A POLICIA",
+    "nome": "Quem Roubar e Petista",
     "status": "INDISPONIVEL",
     "disponivelEm": "10:45|14/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T11:21:46.687Z"
+  },
+  "< GAUBRE LTDA >": {
+    "idNumerico": "35",
+    "nome": "< GAUBRE LTDA >",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:08|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T13:35:03.412Z"
   }
 }

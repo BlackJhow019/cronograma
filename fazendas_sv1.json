@@ -156,7 +156,7 @@
     "nome": "rico louco",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:57|14/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-14T00:57:50.214Z"
   },
   "FAMILIA KUSH": {
@@ -230,14 +230,6 @@
     "disponivelEm": "01:09|14/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T23:09:37.644Z"
-  },
-  "< GAUBRE LTDA >": {
-    "idNumerico": "35",
-    "nome": "< GAUBRE LTDA >",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:09|13/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T00:26:51.283Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
@@ -346,9 +338,9 @@
   "ODYSSEY LTDA": {
     "idNumerico": "39",
     "nome": "odyssey ltda",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:10|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T18:50:12.833Z"
+    "roubadaEm": "2026-08-14T01:10:42.535Z"
   }
 }

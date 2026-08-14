@@ -307,7 +307,7 @@
     "idNumerico": "24",
     "nome": "VENDO 500km ACEITO TROCAS",
     "status": "INDISPONIVEL",
-    "disponivelEm": "06:00|14/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T06:43:38.726Z"
   },
@@ -335,14 +335,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T05:26:15.439Z"
   },
-  "FARM DO SAPATO": {
-    "idNumerico": "9",
-    "nome": "FARM DO SAPATO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:54|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T08:43:41.913Z"
-  },
   "NIKE SHOX": {
     "idNumerico": "42",
     "nome": "NIKE SHOX",
@@ -350,5 +342,13 @@
     "disponivelEm": "07:45|14/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T08:33:56.603Z"
+  },
+  "RICK FARM'S": {
+    "idNumerico": "9",
+    "nome": "Rick Farm's",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:45|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T09:01:00.060Z"
   }
 }

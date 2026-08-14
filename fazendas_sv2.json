@@ -191,14 +191,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T01:57:54.342Z"
   },
-  "021": {
-    "idNumerico": "1",
-    "nome": "021",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T17:44:20.906Z"
-  },
   "VALE DAS SOMBRAS": {
     "idNumerico": "24",
     "nome": "Vale das Sombras",
@@ -207,26 +199,10 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T22:56:15.993Z"
   },
-  "ARIANA_B13": {
-    "idNumerico": "10",
-    "nome": "Ariana_B13",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "BORRACHAS FARM": {
-    "idNumerico": "33",
-    "nome": "Borrachas Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:07|14/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-14T00:50:16.680Z"
-  },
   "B13 :)": {
     "idNumerico": "23",
     "nome": "B13 :)",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T23:55:37.437Z"
@@ -271,14 +247,6 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
-  "NIKE SHOX": {
-    "idNumerico": "42",
-    "nome": "NIKE SHOX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T14:02:44.892Z"
-  },
   "SITIO DO JN": {
     "idNumerico": "6",
     "nome": "Sitio do jn",
@@ -311,22 +279,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T01:46:15.993Z"
   },
-  "FARM'S NAY E NICK": {
-    "idNumerico": "5",
-    "nome": "FARM'S NAY E NICK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T14:26:25.188Z"
-  },
-  "FAZENDADO 171": {
-    "idNumerico": "12",
-    "nome": "fazendado 171",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:31|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T01:31:32.930Z"
-  },
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
@@ -335,22 +287,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T01:20:41.346Z"
   },
-  "CANNABIS": {
-    "idNumerico": "8",
-    "nome": "CANNABIS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T17:21:25.781Z"
-  },
-  "FAZENDA DO GALIN": {
-    "idNumerico": "15",
-    "nome": "Fazenda do Galin",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:04|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T01:04:30.742Z"
-  },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
@@ -358,5 +294,77 @@
     "disponivelEm": "01:02|14/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T01:51:15.601Z"
+  },
+  "TREMBALA": {
+    "idNumerico": "42",
+    "nome": "TremBala",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T14:02:44.892Z"
+  },
+  "FARMA DA FAMILIA ELITE": {
+    "idNumerico": "33",
+    "nome": "Farma Da Familia Elite",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:07|14/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-14T00:50:16.680Z"
+  },
+  "FARM DA THATY": {
+    "idNumerico": "1",
+    "nome": "Farm da Thaty",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T17:44:20.906Z"
+  },
+  "PENOSO FARM'S": {
+    "idNumerico": "10",
+    "nome": "Penoso Farm's",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "YT @GANDIA_RP": {
+    "idNumerico": "15",
+    "nome": "YT @GANDIA_RP",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:04|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T01:04:30.742Z"
+  },
+  "FARM'S NAY E NICK": {
+    "idNumerico": "5",
+    "nome": "FARM'S NAY E NICK",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T14:26:25.188Z"
+  },
+  "@FILH_ODOPAII": {
+    "idNumerico": "12",
+    "nome": "@filh_odopaii",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:31|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T01:31:32.930Z"
+  },
+  "AZEROX": {
+    "idNumerico": "23",
+    "nome": "AzeRoX",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
+  "CLUBE DA LULUZINHA": {
+    "idNumerico": "8",
+    "nome": "Clube da Luluzinha",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T17:21:25.781Z"
   }
 }

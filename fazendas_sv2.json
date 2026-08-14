@@ -183,14 +183,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T16:38:47.704Z"
   },
-  "KODIAK": {
-    "idNumerico": "3",
-    "nome": "KodiaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:01|14/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-14T15:03:11.270Z"
-  },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
@@ -222,6 +214,14 @@
     "disponivelEm": "15:48|14/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-14T17:04:27.896Z"
+  },
+  "CLUBE DA LULUZINHA": {
+    "idNumerico": "8",
+    "nome": "Clube da Luluzinha",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T15:56:20.171Z"
   },
   ".": {
     "idNumerico": "31",
@@ -338,7 +338,7 @@
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T17:17:04.051Z"

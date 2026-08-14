@@ -151,6 +151,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T04:06:36.491Z"
   },
+  "SITIO DO JN": {
+    "idNumerico": "6",
+    "nome": "Sitio do jn",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T23:50:00.431Z"
+  },
   "CDM FARM'S": {
     "idNumerico": "20",
     "nome": "CdM Farm's",
@@ -303,22 +311,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T12:54:50.507Z"
   },
-  "JESUS EA SOLUCAO": {
-    "idNumerico": "0",
-    "nome": "JESUS EA SOLUCAO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "SAO PEDRO 2": {
-    "idNumerico": "43",
-    "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:30|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T04:05:55.568Z"
-  },
   "MALVADA'S FARM": {
     "idNumerico": "32",
     "nome": "Malvada's Farm",
@@ -350,5 +342,21 @@
     "disponivelEm": "03:35|14/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T04:34:53.612Z"
+  },
+  "LA FAMILIA CHIARADIA": {
+    "idNumerico": "43",
+    "nome": "LA FAMILIA CHIARADIA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:30|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T04:05:55.568Z"
+  },
+  "OS DE RACA": {
+    "idNumerico": "0",
+    "nome": "OS DE RACA",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
   }
 }

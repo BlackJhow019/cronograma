@@ -47,14 +47,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T02:58:51.963Z"
   },
-  "< GAUBRE LTDA >": {
-    "idNumerico": "35",
-    "nome": "< GAUBRE LTDA >",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:00|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T00:26:37.642Z"
-  },
   "/VENDERPRODUTOS": {
     "idNumerico": "7",
     "nome": "/VENDERPRODUTOS",
@@ -295,6 +287,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T02:49:10.617Z"
   },
+  "CANNABIS": {
+    "idNumerico": "8",
+    "nome": "CANNABIS",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T17:21:25.781Z"
+  },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
     "nome": "JESUS EA SOLUCAO",
@@ -303,13 +303,13 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T01:51:15.601Z"
   },
-  "CANNABIS": {
-    "idNumerico": "8",
-    "nome": "CANNABIS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+  "FAZENDADO 171": {
+    "idNumerico": "12",
+    "nome": "fazendado 171",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:31|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T17:21:25.781Z"
+    "roubadaEm": "2026-08-14T01:31:32.930Z"
   },
   "ODYSSEY LTDA": {
     "idNumerico": "39",
@@ -350,13 +350,5 @@
     "disponivelEm": "02:37|14/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T02:47:29.619Z"
-  },
-  "@FILH_ODOPAII": {
-    "idNumerico": "12",
-    "nome": "@filh_odopaii",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:31|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T01:31:32.930Z"
   }
 }

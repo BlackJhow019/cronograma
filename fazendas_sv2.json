@@ -234,8 +234,8 @@
   "FRANCA": {
     "idNumerico": "28",
     "nome": "FRANCA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:49|13/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T01:20:41.346Z"
   },
@@ -270,6 +270,30 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T23:55:37.437Z"
+  },
+  "SE ROUBAR MORRE": {
+    "idNumerico": "41",
+    "nome": "SE ROUBAR MORRE",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T14:38:50.571Z"
+  },
+  "YELLOWSTONE - BY MONSTER": {
+    "idNumerico": "16",
+    "nome": "YellowStone - By Monster",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:42|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T02:48:37.440Z"
+  },
+  "FARM DO SAPATO": {
+    "idNumerico": "9",
+    "nome": "FARM DO SAPATO",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:00|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T02:49:10.617Z"
   },
   "JESUS EA SOLUCAO": {
     "idNumerico": "0",
@@ -311,6 +335,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T01:04:30.742Z"
   },
+  "DEAD (:": {
+    "idNumerico": "27",
+    "nome": "Dead (:",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:37|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T02:47:29.619Z"
+  },
   "@FILH_ODOPAII": {
     "idNumerico": "12",
     "nome": "@filh_odopaii",
@@ -326,37 +358,5 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T17:21:25.781Z"
-  },
-  "HWD INVESTIMENTOS": {
-    "idNumerico": "27",
-    "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:37|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T02:47:29.619Z"
-  },
-  "SE ROUBAR MORRE": {
-    "idNumerico": "41",
-    "nome": "SE ROUBAR MORRE",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T14:38:50.571Z"
-  },
-  "YELLOWSTONE - BY MONSTER": {
-    "idNumerico": "16",
-    "nome": "YellowStone - By Monster",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:42|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T02:48:37.440Z"
-  },
-  "FARM DO SAPATO": {
-    "idNumerico": "9",
-    "nome": "FARM DO SAPATO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:00|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T02:49:10.617Z"
   }
 }

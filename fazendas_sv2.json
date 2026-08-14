@@ -42,8 +42,8 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:24|14/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T11:24:56.857Z"
   },
@@ -178,9 +178,9 @@
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:25|14/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-14T14:48:32.497Z"
   },
   "DM2 FARM": {
@@ -335,20 +335,20 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-14T15:00:46.062Z"
   },
-  "AWAKE COMPANY": {
-    "idNumerico": "13",
-    "nome": "AwaKe Company",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T14:36:01.744Z"
-  },
-  "FAZENDA DO GALIN": {
+  "YT @GANDIA_RP": {
     "idNumerico": "15",
-    "nome": "Fazenda do Galin",
+    "nome": "YT @GANDIA_RP",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:37|14/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-14T15:45:14.270Z"
+  },
+  "NOREX FARM'S": {
+    "idNumerico": "13",
+    "nome": "Norex farm's",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T14:36:01.744Z"
   }
 }

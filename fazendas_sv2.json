@@ -170,10 +170,10 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:52|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T13:42:06.397Z"
+    "roubadaEm": "2026-08-14T18:49:00.430Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
@@ -219,7 +219,7 @@
     "idNumerico": "9",
     "nome": "Rick Farm's",
     "status": "INDISPONIVEL",
-    "disponivelEm": "15:48|14/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-14T17:04:27.896Z"
   },

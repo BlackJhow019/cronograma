@@ -223,14 +223,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-14T09:23:26.838Z"
   },
-  "QUEM ROUBAR E PETISTA": {
-    "idNumerico": "44",
-    "nome": "Quem Roubar e Petista",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T05:44:59.439Z"
-  },
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
@@ -350,5 +342,13 @@
     "disponivelEm": "09:56|14/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T09:54:57.150Z"
+  },
+  "CHAMA A POLICIA": {
+    "idNumerico": "44",
+    "nome": "CHAMA A POLICIA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:24|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T09:56:28.437Z"
   }
 }

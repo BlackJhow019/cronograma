@@ -135,14 +135,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-14T08:25:00.888Z"
   },
-  "FAZENDA DO GALIN": {
-    "idNumerico": "15",
-    "nome": "Fazenda do Galin",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T01:04:30.742Z"
-  },
   "AURA + EGO": {
     "idNumerico": "22",
     "nome": "Aura + Ego",
@@ -319,6 +311,14 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
+  "KODIAK": {
+    "idNumerico": "3",
+    "nome": "KodiaK",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:24|14/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-14T09:25:58.593Z"
+  },
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
@@ -343,12 +343,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T08:33:56.603Z"
   },
-  "KODIAK": {
-    "idNumerico": "3",
-    "nome": "KodiaK",
+  "YT @GANDIA_RP": {
+    "idNumerico": "15",
+    "nome": "YT @GANDIA_RP",
     "status": "INDISPONIVEL",
-    "disponivelEm": "09:24|14/08/2026",
+    "disponivelEm": "08:22|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T09:25:58.593Z"
+    "roubadaEm": "2026-08-14T09:30:35.367Z"
   }
 }

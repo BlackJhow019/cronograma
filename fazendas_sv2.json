@@ -47,14 +47,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-14T03:47:18.339Z"
   },
-  "TA NO GRALI": {
-    "idNumerico": "4",
-    "nome": "ta no grali",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T15:23:49.935Z"
-  },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
@@ -311,6 +303,14 @@
     "cofreConsertado": false,
     "roubadaEm": null
   },
+  "SAO PEDRO 2": {
+    "idNumerico": "43",
+    "nome": "SAO PEDRO 2",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:30|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T04:05:55.568Z"
+  },
   "MALVADA'S FARM": {
     "idNumerico": "32",
     "nome": "Malvada's Farm",
@@ -318,6 +318,14 @@
     "disponivelEm": "02:32|14/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T03:55:52.378Z"
+  },
+  "AMO O LOWER": {
+    "idNumerico": "2",
+    "nome": "Amo o Lower",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:36|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T05:03:22.187Z"
   },
   "FARM DO SAPATO": {
     "idNumerico": "9",
@@ -343,20 +351,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T14:38:50.571Z"
   },
-  "LA FAMILIA CHIARADIA": {
-    "idNumerico": "43",
-    "nome": "LA FAMILIA CHIARADIA",
+  "FARM'S DE CAFE": {
+    "idNumerico": "4",
+    "nome": "Farm's de Cafe",
     "status": "INDISPONIVEL",
-    "disponivelEm": "02:30|14/08/2026",
+    "disponivelEm": "07:05|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T04:05:55.568Z"
-  },
-  "< GAUBRE LTDA >": {
-    "idNumerico": "2",
-    "nome": "< GAUBRE LTDA >",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:36|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T05:03:22.187Z"
+    "roubadaEm": "2026-08-14T05:05:40.213Z"
   }
 }

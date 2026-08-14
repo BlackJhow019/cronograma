@@ -39,14 +39,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T17:16:26.370Z"
   },
-  "AMO O LOWER": {
-    "idNumerico": "2",
-    "nome": "Amo o Lower",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T02:58:51.853Z"
-  },
   "/VENDERPRODUTOS": {
     "idNumerico": "7",
     "nome": "/VENDERPRODUTOS",
@@ -130,10 +122,10 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:01|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T23:02:10.196Z"
+    "roubadaEm": "2026-08-14T05:02:34.666Z"
   },
   ".": {
     "idNumerico": "31",
@@ -311,6 +303,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T12:54:50.507Z"
   },
+  "OS DE RACA": {
+    "idNumerico": "0",
+    "nome": "OS DE RACA",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
+  },
   "MALVADA'S FARM": {
     "idNumerico": "32",
     "nome": "Malvada's Farm",
@@ -318,14 +318,6 @@
     "disponivelEm": "02:32|14/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T03:55:52.378Z"
-  },
-  "FARM DO SAPATO": {
-    "idNumerico": "9",
-    "nome": "FARM DO SAPATO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:00|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T02:49:10.617Z"
   },
   "YELLOWSTONE - BY MONSTER": {
     "idNumerico": "16",
@@ -351,12 +343,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T04:05:55.568Z"
   },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
+  "< GAUBRE LTDA >": {
+    "idNumerico": "2",
+    "nome": "< GAUBRE LTDA >",
     "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
-    "roubadaEm": null
+    "roubadaEm": "2026-08-14T02:58:51.853Z"
   }
 }

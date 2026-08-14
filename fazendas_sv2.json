@@ -82,9 +82,9 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:49|14/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-14T00:57:51.711Z"
   },
   "DONA SEM RAZAO": {
@@ -311,52 +311,52 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-13T12:54:50.507Z"
   },
-  "30PRAUM": {
-    "idNumerico": "16",
-    "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:35|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T04:34:53.612Z"
-  },
-  "JESUS EA SOLUCAO": {
-    "idNumerico": "0",
-    "nome": "JESUS EA SOLUCAO",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
-  },
-  "PREFEITO ROADBLOCK": {
-    "idNumerico": "41",
-    "nome": "Prefeito Roadblock",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T14:38:50.571Z"
-  },
-  "SAO PEDRO 2": {
-    "idNumerico": "43",
-    "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:30|14/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T04:05:55.568Z"
-  },
-  "FAMILIA ALMANAK": {
+  "MALVADA'S FARM": {
     "idNumerico": "32",
-    "nome": "Familia AlmanaK",
+    "nome": "Malvada's Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:32|14/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T03:55:52.378Z"
   },
-  "RICK FARM'S": {
+  "FARM DO SAPATO": {
     "idNumerico": "9",
-    "nome": "Rick Farm's",
+    "nome": "FARM DO SAPATO",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:00|14/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T02:49:10.617Z"
+  },
+  "YELLOWSTONE - BY MONSTER": {
+    "idNumerico": "16",
+    "nome": "YellowStone - By Monster",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:35|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T04:34:53.612Z"
+  },
+  "SE ROUBAR MORRE": {
+    "idNumerico": "41",
+    "nome": "SE ROUBAR MORRE",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-13T14:38:50.571Z"
+  },
+  "LA FAMILIA CHIARADIA": {
+    "idNumerico": "43",
+    "nome": "LA FAMILIA CHIARADIA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:30|14/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T04:05:55.568Z"
+  },
+  "OS DE RACA": {
+    "idNumerico": "0",
+    "nome": "OS DE RACA",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
   }
 }

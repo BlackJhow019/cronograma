@@ -26,10 +26,10 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:47|14/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T13:08:16.133Z"
+    "roubadaEm": "2026-08-14T02:47:09.242Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
     "idNumerico": "17",
@@ -308,7 +308,7 @@
     "nome": ".",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:39|14/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-14T02:39:23.328Z"
   },
   "RANCHO DO DOUTOR": {

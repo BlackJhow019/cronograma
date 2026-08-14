@@ -306,8 +306,8 @@
   "TREMBALA": {
     "idNumerico": "42",
     "nome": "TremBala",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:45|14/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T08:33:56.603Z"
   },
@@ -338,8 +338,8 @@
   "FARM DO SAPATO": {
     "idNumerico": "9",
     "nome": "FARM DO SAPATO",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:46|14/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T09:02:08.978Z"
   },

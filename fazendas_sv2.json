@@ -34,10 +34,10 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:32|15/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-15T07:29:07.886Z"
+    "roubadaEm": "2026-08-15T18:32:37.227Z"
   },
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
@@ -52,7 +52,7 @@
     "nome": "K1NG Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:55|15/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-15T18:13:51.669Z"
   },
   "RAMONZIN_FRANCA": {
@@ -66,10 +66,10 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:26|15/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-15T13:43:40.591Z"
+    "roubadaEm": "2026-08-15T18:47:50.967Z"
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
@@ -98,10 +98,10 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-15T13:54:49.846Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:26|15/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-15T19:01:44.541Z"
   },
   "30PRAUM": {
     "idNumerico": "16",
@@ -114,18 +114,18 @@
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:28|15/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-15T06:44:15.635Z"
+    "roubadaEm": "2026-08-15T18:28:33.517Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-15T14:02:18.348Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:03|15/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-15T19:26:46.108Z"
   },
   "DM2 FARM": {
     "idNumerico": "6",
@@ -170,10 +170,10 @@
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:59|15/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-15T13:16:30.518Z"
+    "roubadaEm": "2026-08-15T18:44:10.859Z"
   },
   "ROUBO OFF": {
     "idNumerico": "7",
@@ -234,18 +234,10 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-15T13:54:49.245Z"
-  },
-  "FAZENDA REI DROGADO": {
-    "idNumerico": "31",
-    "nome": "Fazenda Rei Drogado",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-15T00:00:04.677Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:50|15/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-15T18:58:49.373Z"
   },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
@@ -258,18 +250,18 @@
   "< GAUBRE LTDA >": {
     "idNumerico": "2",
     "nome": "< GAUBRE LTDA >",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-15T15:43:44.070Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:53|15/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-15T19:31:50.058Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:41|15/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-15T11:35:21.838Z"
+    "roubadaEm": "2026-08-15T18:49:36.545Z"
   },
   "021": {
     "idNumerico": "1",
@@ -332,7 +324,7 @@
     "nome": "NIKE SHOX",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:31|15/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-15T18:17:07.320Z"
   },
   "..OURO..PR3TO..": {
@@ -350,5 +342,13 @@
     "disponivelEm": "20:05|15/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-15T18:05:40.406Z"
+  },
+  ".": {
+    "idNumerico": "31",
+    "nome": ".",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:09|15/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-15T19:09:01.283Z"
   }
 }

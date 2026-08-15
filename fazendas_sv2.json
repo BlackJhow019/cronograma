@@ -138,9 +138,9 @@
   "ODYSSEY LTDA": {
     "idNumerico": "39",
     "nome": "odyssey ltda",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:31|15/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-15T01:31:31.247Z"
   },
   "WESKER_U$METRALHA": {
@@ -150,14 +150,6 @@
     "disponivelEm": "04:52|15/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-15T02:52:34.085Z"
-  },
-  "BORRACHAS FARM": {
-    "idNumerico": "33",
-    "nome": "Borrachas Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:33|15/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-15T01:33:15.893Z"
   },
   "FAZENDA FELIZ": {
     "idNumerico": "22",

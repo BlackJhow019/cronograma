@@ -211,7 +211,7 @@
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
-    "disponivelEm": "11:49|15/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-15T11:47:57.814Z"
   },
@@ -230,14 +230,6 @@
     "disponivelEm": "12:47|15/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-15T12:49:01.543Z"
-  },
-  "FARM'S NAY E NICK": {
-    "idNumerico": "5",
-    "nome": "FARM'S NAY E NICK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T09:57:55.431Z"
   },
   "RICO LOUCO": {
     "idNumerico": "11",
@@ -276,7 +268,7 @@
     "nome": "< GAUBRE LTDA >",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:51|15/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-15T14:29:27.782Z"
   },
   "YT @GANDIA_RP": {
@@ -347,8 +339,16 @@
     "idNumerico": "42",
     "nome": "NIKE SHOX",
     "status": "INDISPONIVEL",
-    "disponivelEm": "11:49|15/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-15T12:34:47.775Z"
+  },
+  "..OURO..PR3TO..": {
+    "idNumerico": "5",
+    "nome": "..OURO..PR3TO..",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-14T09:57:55.431Z"
   }
 }

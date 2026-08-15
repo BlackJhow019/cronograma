@@ -23,19 +23,11 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T05:55:04.473Z"
   },
-  "POLEMICO$ INDUSTRI$": {
-    "idNumerico": "37",
-    "nome": "PoLeMiCo$ industri$",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:31|15/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-15T20:26:15.557Z"
-  },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
     "status": "INDISPONIVEL",
-    "disponivelEm": "20:32|15/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-15T18:32:37.227Z"
   },
@@ -114,8 +106,8 @@
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:28|15/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-15T18:28:33.517Z"
   },
@@ -126,14 +118,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-15T19:26:46.108Z"
-  },
-  "DM2 FARM": {
-    "idNumerico": "6",
-    "nome": "Dm2 Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:32|15/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-15T21:29:01.571Z"
   },
   "ODYSSEY LTDA": {
     "idNumerico": "39",

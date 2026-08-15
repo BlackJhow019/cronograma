@@ -114,9 +114,9 @@
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:35|14/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-14T21:35:05.741Z"
   },
   "FAMILIA ALMANAK": {
@@ -271,14 +271,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-15T01:10:12.175Z"
   },
-  "< GAUBRE LTDA >": {
-    "idNumerico": "35",
-    "nome": "< GAUBRE LTDA >",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:37|14/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-15T00:15:46.850Z"
-  },
   "FAZENDADO 171": {
     "idNumerico": "12",
     "nome": "fazendado 171",
@@ -306,8 +298,8 @@
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
     "nome": "Rafha investimentos $",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:35|14/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T23:32:40.135Z"
   },

@@ -114,10 +114,10 @@
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:43|16/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-15T18:28:33.517Z"
+    "roubadaEm": "2026-08-16T02:43:33.537Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
@@ -180,7 +180,7 @@
     "nome": "roubo off",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:52|16/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-16T02:01:34.755Z"
   },
   "RAFHA INVESTIMENTOS $": {
@@ -194,10 +194,10 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:24|16/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-15T20:26:02.155Z"
+    "roubadaEm": "2026-08-16T02:25:31.704Z"
   },
   "/CARIDADE": {
     "idNumerico": "40",
@@ -218,10 +218,10 @@
   "FAZENDADO 171": {
     "idNumerico": "12",
     "nome": "fazendado 171",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:44|16/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-15T20:24:34.025Z"
+    "roubadaEm": "2026-08-16T02:44:04.718Z"
   },
   "KODIAK": {
     "idNumerico": "3",

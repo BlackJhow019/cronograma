@@ -346,9 +346,9 @@
   ".": {
     "idNumerico": "31",
     "nome": ".",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:09|15/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-15T19:09:01.283Z"
   }
 }

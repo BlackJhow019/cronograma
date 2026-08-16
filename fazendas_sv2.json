@@ -122,10 +122,10 @@
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-16T01:31:26.029Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:09|16/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-16T11:32:49.008Z"
   },
   "DM2 FARM": {
     "idNumerico": "6",
@@ -302,14 +302,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-15T08:56:40.553Z"
-  },
-  "NOREX FARM'S": {
-    "idNumerico": "13",
-    "nome": "Norex farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-16T10:31:55.894Z"
   },
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",

@@ -79,14 +79,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-15T22:27:03.365Z"
   },
-  "FAMILIA KUSH": {
-    "idNumerico": "34",
-    "nome": "Familia KuSh",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:40|16/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-15T22:40:38.888Z"
-  },
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
@@ -210,10 +202,10 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:42|16/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-15T22:11:28.946Z"
+    "roubadaEm": "2026-08-16T03:41:22.284Z"
   },
   "FAZENDADO 171": {
     "idNumerico": "12",
@@ -346,9 +338,9 @@
   ".": {
     "idNumerico": "31",
     "nome": ".",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:38|16/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-15T19:09:01.283Z"
+    "roubadaEm": "2026-08-16T03:38:25.622Z"
   }
 }

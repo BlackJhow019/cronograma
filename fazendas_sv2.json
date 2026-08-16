@@ -28,7 +28,7 @@
     "nome": "PoLeMiCo$ industri$",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:07|16/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-16T04:01:53.615Z"
   },
   "RANCHO DO DOUTOR": {
@@ -74,18 +74,18 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-15T22:27:03.365Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:21|16/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-16T04:30:59.037Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-15T22:40:38.888Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:33|16/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-16T04:33:25.191Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",
@@ -138,10 +138,10 @@
   "ODYSSEY LTDA": {
     "idNumerico": "39",
     "nome": "odyssey ltda",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-15T22:22:05.153Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:17|16/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-16T04:17:31.995Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
@@ -202,10 +202,10 @@
   "/CARIDADE": {
     "idNumerico": "40",
     "nome": "/caridade",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:29|16/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-15T17:41:47.855Z"
+    "roubadaEm": "2026-08-16T04:03:55.511Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",

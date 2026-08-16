@@ -130,9 +130,9 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:34|16/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-16T09:31:42.017Z"
   },
   "ODYSSEY LTDA": {
@@ -307,7 +307,7 @@
     "idNumerico": "13",
     "nome": "Norex farm's",
     "status": "INDISPONIVEL",
-    "disponivelEm": "08:38|16/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-16T10:31:55.894Z"
   },

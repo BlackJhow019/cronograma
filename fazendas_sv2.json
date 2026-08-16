@@ -66,8 +66,8 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:20|16/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-16T00:41:22.628Z"
   },
@@ -134,14 +134,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-15T21:29:01.571Z"
-  },
-  "ODYSSEY LTDA": {
-    "idNumerico": "39",
-    "nome": "odyssey ltda",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:22|16/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-15T22:22:05.153Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",

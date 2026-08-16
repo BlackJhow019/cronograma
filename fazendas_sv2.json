@@ -34,10 +34,10 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:21|16/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-16T01:33:45.782Z"
+    "roubadaEm": "2026-08-16T08:21:17.174Z"
   },
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
@@ -130,10 +130,10 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-16T02:55:32.324Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:34|16/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-16T09:31:42.017Z"
   },
   "ODYSSEY LTDA": {
     "idNumerico": "39",
@@ -154,10 +154,10 @@
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:11|16/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-16T00:33:01.178Z"
+    "roubadaEm": "2026-08-16T08:11:28.377Z"
   },
   "FAZENDA FELIZ": {
     "idNumerico": "22",

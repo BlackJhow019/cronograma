@@ -1,12 +1,4 @@
 {
-  "NIKE SHOX": {
-    "idNumerico": "42",
-    "nome": "NIKE SHOX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:40|18/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-18T02:46:36.481Z"
-  },
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
     "nome": "Rafha investimentos $",
@@ -186,9 +178,9 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:38|18/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-18T02:38:29.895Z"
   },
   "AZEROX": {
@@ -270,14 +262,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T18:32:30.964Z"
-  },
-  "FARM'S DE CAFE": {
-    "idNumerico": "4",
-    "nome": "Farm's de Cafe",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:40|18/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-18T02:40:15.997Z"
   },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",

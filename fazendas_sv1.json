@@ -242,18 +242,18 @@
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-18T15:36:35.276Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:47|19/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-18T22:47:24.223Z"
   },
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:49|19/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-18T11:31:45.963Z"
+    "roubadaEm": "2026-08-18T22:49:22.893Z"
   },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",

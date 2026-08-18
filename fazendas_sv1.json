@@ -50,10 +50,10 @@
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T17:16:35.129Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:44|18/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-18T20:44:05.000Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",
@@ -90,10 +90,10 @@
   "RICK FARM'S": {
     "idNumerico": "9",
     "nome": "Rick Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-18T11:38:05.606Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:19|18/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-18T20:47:23.678Z"
   },
   "CDM FARM'S": {
     "idNumerico": "20",
@@ -170,10 +170,10 @@
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:34|18/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-18T12:49:06.165Z"
+    "roubadaEm": "2026-08-18T20:34:04.245Z"
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
@@ -194,10 +194,10 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:58|18/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-18T15:47:35.888Z"
+    "roubadaEm": "2026-08-18T20:58:56.489Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
@@ -218,10 +218,10 @@
   "< GAUBRE LTDA >": {
     "idNumerico": "35",
     "nome": "< GAUBRE LTDA >",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-18T20:13:55.766Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:34|18/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-18T20:52:40.169Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
@@ -298,10 +298,10 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:05|18/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-18T14:59:32.029Z"
+    "roubadaEm": "2026-08-18T21:05:18.858Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",

@@ -124,7 +124,7 @@
     "nome": "..OURO..PR3TO..",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:36|18/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-18T15:36:53.996Z"
   },
   "/CARIDADE": {
@@ -194,10 +194,10 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:47|18/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-18T04:39:50.884Z"
+    "roubadaEm": "2026-08-18T15:47:35.888Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
@@ -244,7 +244,7 @@
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:36|18/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-18T15:36:35.276Z"
   },
   "30PRAUM": {

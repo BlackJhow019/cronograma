@@ -26,10 +26,10 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:33|18/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-18T03:40:52.529Z"
+    "roubadaEm": "2026-08-18T17:33:00.419Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
     "idNumerico": "17",
@@ -167,14 +167,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-18T13:10:40.316Z"
   },
-  "FAZENDINHA DO IGEZE": {
-    "idNumerico": "36",
-    "nome": "fazendinha do igeze",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:49|18/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-18T12:49:06.165Z"
-  },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
@@ -202,18 +194,18 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-18T11:57:39.337Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:43|18/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-18T17:43:26.674Z"
   },
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-18T05:02:06.860Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:38|18/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-18T17:38:41.726Z"
   },
   "< GAUBRE LTDA >": {
     "idNumerico": "35",
@@ -314,10 +306,10 @@
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:29|18/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-18T03:39:10.773Z"
+    "roubadaEm": "2026-08-18T17:29:43.800Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",

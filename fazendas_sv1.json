@@ -119,14 +119,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-14T18:57:35.353Z"
   },
-  "PEDRO FARM'S": {
-    "idNumerico": "21",
-    "nome": "PedrO farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-13T21:55:19.235Z"
-  },
   "PLANTAÇÃO DE COCA DO CARTEL DE MEDELLIN": {
     "idNumerico": "30",
     "nome": "PLANTAÇÃO DE COCA DO CARTEL DE MEDELLIN",
@@ -258,10 +250,10 @@
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T18:32:25.026Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:08|18/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-18T03:08:09.417Z"
   },
   "30PRAUM": {
     "idNumerico": "16",
@@ -274,10 +266,10 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:18|18/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T15:55:49.734Z"
+    "roubadaEm": "2026-08-18T03:18:26.605Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -350,5 +342,13 @@
     "disponivelEm": "02:55|18/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-18T00:55:12.781Z"
+  },
+  "ADMIRO": {
+    "idNumerico": "21",
+    "nome": "admiro",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:10|18/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-18T03:10:21.503Z"
   }
 }

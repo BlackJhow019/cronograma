@@ -74,10 +74,10 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-18T02:34:48.156Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:34|18/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-18T09:35:40.998Z"
   },
   "PENOSO FARM'S": {
     "idNumerico": "10",
@@ -242,10 +242,10 @@
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:44|18/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-18T03:08:09.417Z"
+    "roubadaEm": "2026-08-18T08:44:05.342Z"
   },
   "30PRAUM": {
     "idNumerico": "16",

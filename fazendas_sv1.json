@@ -162,10 +162,10 @@
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:32|18/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-18T13:10:40.316Z"
+    "roubadaEm": "2026-08-18T21:32:31.864Z"
   },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
@@ -282,10 +282,10 @@
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:38|18/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-18T13:46:19.133Z"
+    "roubadaEm": "2026-08-18T21:38:53.895Z"
   },
   ".": {
     "idNumerico": "31",
@@ -300,7 +300,7 @@
     "nome": "Rancho do Doutor",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:05|18/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-18T21:05:18.858Z"
   },
   "FAZENDA DA MILLY": {

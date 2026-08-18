@@ -82,10 +82,10 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T21:26:38.933Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:33|18/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-18T02:34:48.156Z"
   },
   "PENOSO FARM'S": {
     "idNumerico": "10",
@@ -194,18 +194,18 @@
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:34|18/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T19:46:38.953Z"
+    "roubadaEm": "2026-08-18T02:34:21.744Z"
   },
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T22:10:15.507Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:38|18/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-18T02:38:29.895Z"
   },
   "AZEROX": {
     "idNumerico": "23",
@@ -290,10 +290,10 @@
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T21:35:19.669Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:40|18/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-18T02:40:15.997Z"
   },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
@@ -314,10 +314,10 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:01|18/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T23:48:12.436Z"
+    "roubadaEm": "2026-08-18T02:01:24.911Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",

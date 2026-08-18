@@ -330,10 +330,10 @@
   "ODYSSEY LTDA": {
     "idNumerico": "39",
     "nome": "odyssey ltda",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-18T00:55:12.781Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:36|18/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-18T14:36:11.433Z"
   },
   "ADMIRO": {
     "idNumerico": "21",

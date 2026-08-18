@@ -138,10 +138,10 @@
   "..OURO..PR3TO..": {
     "idNumerico": "5",
     "nome": "..OURO..PR3TO..",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:30|18/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T20:37:25.297Z"
+    "roubadaEm": "2026-08-18T01:30:59.318Z"
   },
   "/CARIDADE": {
     "idNumerico": "40",
@@ -234,10 +234,10 @@
   "< GAUBRE LTDA >": {
     "idNumerico": "35",
     "nome": "< GAUBRE LTDA >",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-14T18:54:03.666Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:05|17/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-18T01:22:52.158Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",

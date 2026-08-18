@@ -107,7 +107,7 @@
     "idNumerico": "12",
     "nome": "fazendado 171",
     "status": "INDISPONIVEL",
-    "disponivelEm": "17:32|18/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-18T15:32:49.704Z"
   },
@@ -218,10 +218,10 @@
   "< GAUBRE LTDA >": {
     "idNumerico": "35",
     "nome": "< GAUBRE LTDA >",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-18T15:39:55.583Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:56|18/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-18T20:13:55.766Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",

@@ -106,10 +106,10 @@
   "FAZENDADO 171": {
     "idNumerico": "12",
     "nome": "fazendado 171",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:50|18/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-18T15:32:49.704Z"
+    "roubadaEm": "2026-08-18T21:50:17.856Z"
   },
   "PLANTAÇÃO DE COCA DO CARTEL DE MEDELLIN": {
     "idNumerico": "30",
@@ -138,18 +138,18 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:44|18/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-18T14:22:41.724Z"
+    "roubadaEm": "2026-08-18T21:44:24.020Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:50|18/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-18T04:43:32.363Z"
+    "roubadaEm": "2026-08-18T21:50:13.313Z"
   },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
@@ -276,7 +276,7 @@
     "nome": "PoLeMiCo$ industri$",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:38|18/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-18T21:38:53.895Z"
   },
   ".": {

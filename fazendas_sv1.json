@@ -58,10 +58,10 @@
   "K1NG FARM'S": {
     "idNumerico": "25",
     "nome": "K1NG Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:03|19/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-18T13:15:11.921Z"
+    "roubadaEm": "2026-08-18T22:03:06.566Z"
   },
   "ROUBO OFF": {
     "idNumerico": "7",
@@ -70,14 +70,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-18T16:52:29.022Z"
-  },
-  "SAO PEDRO 2": {
-    "idNumerico": "43",
-    "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:03|18/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-18T17:04:49.607Z"
   },
   "PENOSO FARM'S": {
     "idNumerico": "10",
@@ -234,10 +226,10 @@
   "021": {
     "idNumerico": "1",
     "nome": "021",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:53|18/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-18T11:42:53.881Z"
+    "roubadaEm": "2026-08-18T21:53:36.561Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",
@@ -274,10 +266,10 @@
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:53|18/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-18T15:20:55.949Z"
+    "roubadaEm": "2026-08-18T21:53:56.973Z"
   },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",

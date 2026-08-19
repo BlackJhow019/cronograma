@@ -186,10 +186,10 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-18T16:40:49.148Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:37|19/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-19T02:37:24.252Z"
   },
   "AZEROX": {
     "idNumerico": "23",
@@ -283,7 +283,7 @@
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
     "status": "INDISPONIVEL",
-    "disponivelEm": "23:38|18/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-18T21:38:53.895Z"
   },

@@ -82,10 +82,10 @@
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-18T12:04:21.975Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:13|19/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-19T00:13:02.377Z"
   },
   "RICK FARM'S": {
     "idNumerico": "9",
@@ -266,10 +266,10 @@
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:19|19/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-18T19:03:33.741Z"
+    "roubadaEm": "2026-08-19T00:19:26.170Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
@@ -346,9 +346,9 @@
   "BARTTT INVESTIMENTOS": {
     "idNumerico": "18",
     "nome": "Barttt Investimentos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-18T18:31:13.649Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:09|19/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-19T00:09:17.882Z"
   }
 }

@@ -50,10 +50,10 @@
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-18T20:44:05.000Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:21|19/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-19T07:21:07.342Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",
@@ -218,10 +218,10 @@
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-19T02:06:53.553Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:11|19/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-19T07:11:27.361Z"
   },
   "021": {
     "idNumerico": "1",
@@ -258,10 +258,10 @@
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:35|19/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-19T00:19:26.170Z"
+    "roubadaEm": "2026-08-19T06:35:45.809Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
@@ -274,10 +274,10 @@
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-18T21:38:53.895Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:04|19/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-19T07:04:22.936Z"
   },
   ".": {
     "idNumerico": "31",
@@ -330,9 +330,9 @@
   "BARTTT INVESTIMENTOS": {
     "idNumerico": "18",
     "nome": "Barttt Investimentos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:14|19/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-19T00:09:17.882Z"
+    "roubadaEm": "2026-08-19T06:14:30.188Z"
   }
 }

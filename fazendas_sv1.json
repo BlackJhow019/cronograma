@@ -26,10 +26,10 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:15|19/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-19T14:46:23.230Z"
+    "roubadaEm": "2026-08-19T20:15:33.641Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
     "idNumerico": "17",
@@ -90,18 +90,18 @@
   "RICK FARM'S": {
     "idNumerico": "9",
     "nome": "Rick Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:46|19/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-19T14:23:00.069Z"
+    "roubadaEm": "2026-08-19T20:13:45.724Z"
   },
   "CDM FARM'S": {
     "idNumerico": "20",
     "nome": "CdM Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-18T23:34:12.042Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:08|19/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-19T20:08:53.082Z"
   },
   "FAZENDADO 171": {
     "idNumerico": "12",
@@ -138,10 +138,10 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-19T13:50:14.055Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:56|19/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-19T19:56:00.999Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
@@ -159,21 +159,13 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-19T18:37:34.576Z"
   },
-  "GRANJA DO IMONKEY": {
-    "idNumerico": "29",
-    "nome": "Granja do iMonKeY",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:15|19/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-19T15:15:17.683Z"
-  },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:12|19/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-19T13:26:46.666Z"
+    "roubadaEm": "2026-08-19T20:12:15.319Z"
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",

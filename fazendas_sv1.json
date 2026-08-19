@@ -106,10 +106,10 @@
   "FAZENDADO 171": {
     "idNumerico": "12",
     "nome": "fazendado 171",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-19T12:20:51.460Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:33|19/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-19T19:33:51.559Z"
   },
   "PLANTAÇÃO DE COCA DO CARTEL DE MEDELLIN": {
     "idNumerico": "30",
@@ -194,10 +194,10 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-19T14:01:44.810Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:38|19/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-19T19:38:28.008Z"
   },
   "DM2 FARM": {
     "idNumerico": "6",
@@ -266,10 +266,10 @@
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:32|19/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-19T05:24:44.417Z"
+    "roubadaEm": "2026-08-19T19:32:38.542Z"
   },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
@@ -290,10 +290,10 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:58|19/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-19T13:38:55.832Z"
+    "roubadaEm": "2026-08-19T18:58:01.385Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",

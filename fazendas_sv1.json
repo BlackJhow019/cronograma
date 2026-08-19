@@ -27,7 +27,7 @@
     "idNumerico": "27",
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
-    "disponivelEm": "01:19|19/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-18T23:19:21.531Z"
   },
@@ -306,16 +306,16 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:16|19/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-18T23:16:34.439Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:16|19/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-18T23:16:56.656Z"
   },

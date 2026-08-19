@@ -82,10 +82,10 @@
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:51|19/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-19T10:17:19.624Z"
+    "roubadaEm": "2026-08-19T16:51:17.795Z"
   },
   "RICK FARM'S": {
     "idNumerico": "9",
@@ -186,10 +186,10 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:05|19/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-19T11:39:53.624Z"
+    "roubadaEm": "2026-08-19T17:05:25.251Z"
   },
   "AZEROX": {
     "idNumerico": "23",
@@ -234,18 +234,18 @@
   "021": {
     "idNumerico": "1",
     "nome": "021",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:26|19/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-19T12:11:27.241Z"
+    "roubadaEm": "2026-08-19T17:26:46.285Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:56|19/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-19T11:37:42.429Z"
+    "roubadaEm": "2026-08-19T16:56:52.845Z"
   },
   "30PRAUM": {
     "idNumerico": "16",
@@ -258,10 +258,10 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-19T11:44:05.906Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:12|19/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-19T17:12:16.712Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -314,10 +314,10 @@
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:20|19/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-19T11:36:03.736Z"
+    "roubadaEm": "2026-08-19T17:20:49.787Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",

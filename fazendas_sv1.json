@@ -58,9 +58,9 @@
   "K1NG FARM'S": {
     "idNumerico": "25",
     "nome": "K1NG Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:26|19/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-19T15:26:47.324Z"
   },
   "ROUBO OFF": {
@@ -278,14 +278,6 @@
     "disponivelEm": "21:32|19/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-19T19:32:38.542Z"
-  },
-  "POLEMICO$ INDUSTRI$": {
-    "idNumerico": "37",
-    "nome": "PoLeMiCo$ industri$",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:29|19/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-19T15:29:29.561Z"
   },
   ".": {
     "idNumerico": "31",

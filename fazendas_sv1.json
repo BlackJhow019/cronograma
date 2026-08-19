@@ -18,10 +18,10 @@
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
     "nome": "VENDO 500km ACEITO TROCAS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:42|19/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-19T11:46:40.702Z"
+    "roubadaEm": "2026-08-19T20:42:19.011Z"
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
@@ -149,7 +149,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "22:23|19/08/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-08-19T20:23:34.234Z"
+    "roubadaEm": "2026-08-19T20:23:46.673Z"
   },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
@@ -284,7 +284,7 @@
     "nome": "PoLeMiCo$ industri$",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:32|19/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-19T20:32:45.204Z"
   },
   ".": {

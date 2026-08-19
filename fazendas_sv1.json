@@ -58,10 +58,10 @@
   "K1NG FARM'S": {
     "idNumerico": "25",
     "nome": "K1NG Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:08|20/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-19T15:26:47.324Z"
+    "roubadaEm": "2026-08-19T22:08:47.874Z"
   },
   "ROUBO OFF": {
     "idNumerico": "7",
@@ -186,10 +186,10 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:24|20/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-19T17:05:25.251Z"
+    "roubadaEm": "2026-08-19T22:24:29.908Z"
   },
   "AZEROX": {
     "idNumerico": "23",
@@ -230,14 +230,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-19T14:53:42.933Z"
-  },
-  "021": {
-    "idNumerico": "1",
-    "nome": "021",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:26|19/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-19T17:26:46.285Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",

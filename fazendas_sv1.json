@@ -202,9 +202,9 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:20|19/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-19T00:20:02.154Z"
   },
   "DM2 FARM": {
@@ -266,9 +266,9 @@
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:19|19/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-19T00:19:26.170Z"
   },
   "FARM'S DE CAFE": {
@@ -326,14 +326,6 @@
     "disponivelEm": "04:54|19/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-19T02:54:09.047Z"
-  },
-  "ODYSSEY LTDA": {
-    "idNumerico": "39",
-    "nome": "odyssey ltda",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:21|19/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-19T00:21:42.212Z"
   },
   "ADMIRO": {
     "idNumerico": "21",

@@ -122,10 +122,10 @@
   "..OURO..PR3TO..": {
     "idNumerico": "5",
     "nome": "..OURO..PR3TO..",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-18T15:36:53.996Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:20|19/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-19T02:20:53.162Z"
   },
   "/CARIDADE": {
     "idNumerico": "40",
@@ -178,10 +178,10 @@
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:23|19/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-18T18:25:16.555Z"
+    "roubadaEm": "2026-08-19T02:23:28.630Z"
   },
   "KODIAK": {
     "idNumerico": "3",

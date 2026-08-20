@@ -98,8 +98,8 @@
   "CDM FARM'S": {
     "idNumerico": "20",
     "nome": "CdM Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:20|20/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-20T04:20:29.730Z"
   },
@@ -122,8 +122,8 @@
   "..OURO..PR3TO..": {
     "idNumerico": "5",
     "nome": "..OURO..PR3TO..",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:20|20/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-20T04:20:38.528Z"
   },
@@ -186,8 +186,8 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:22|20/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-20T04:22:41.942Z"
   },

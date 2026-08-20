@@ -234,8 +234,8 @@
   "021": {
     "idNumerico": "1",
     "nome": "021",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:34|20/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-20T15:34:18.950Z"
   },
@@ -246,14 +246,6 @@
     "disponivelEm": "19:46|20/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-20T17:46:02.742Z"
-  },
-  "30PRAUM": {
-    "idNumerico": "16",
-    "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:36|20/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-20T15:36:27.124Z"
   },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
@@ -326,14 +318,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-19T11:53:48.376Z"
-  },
-  "ODYSSEY LTDA": {
-    "idNumerico": "39",
-    "nome": "odyssey ltda",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:36|20/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-20T15:36:15.018Z"
   },
   "ADMIRO": {
     "idNumerico": "21",

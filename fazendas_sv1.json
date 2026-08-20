@@ -26,10 +26,10 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-19T20:15:33.641Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:17|20/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-20T01:17:38.423Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
     "idNumerico": "17",
@@ -154,10 +154,10 @@
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:27|20/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-19T18:37:34.576Z"
+    "roubadaEm": "2026-08-20T01:27:48.050Z"
   },
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
@@ -247,14 +247,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-19T22:39:03.232Z"
   },
-  "30PRAUM": {
-    "idNumerico": "16",
-    "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:29|19/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-19T20:29:18.250Z"
-  },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
@@ -278,14 +270,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-19T19:32:38.542Z"
-  },
-  "POLEMICO$ INDUSTRI$": {
-    "idNumerico": "37",
-    "nome": "PoLeMiCo$ industri$",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:32|19/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-19T20:32:45.204Z"
   },
   ".": {
     "idNumerico": "31",

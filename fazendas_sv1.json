@@ -90,10 +90,10 @@
   "RICK FARM'S": {
     "idNumerico": "9",
     "nome": "Rick Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-19T20:13:45.724Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:56|20/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-20T15:23:50.779Z"
   },
   "CDM FARM'S": {
     "idNumerico": "20",

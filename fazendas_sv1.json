@@ -202,10 +202,10 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-19T19:38:28.008Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:03|20/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-20T01:03:01.572Z"
   },
   "DM2 FARM": {
     "idNumerico": "6",

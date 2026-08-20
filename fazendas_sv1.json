@@ -138,18 +138,18 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-19T19:56:00.999Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:35|20/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-20T01:35:58.544Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-19T20:23:46.673Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:37|20/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-20T01:37:52.661Z"
   },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
@@ -298,10 +298,10 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-19T18:58:01.385Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:12|20/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-20T02:12:40.722Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
@@ -330,10 +330,10 @@
   "ODYSSEY LTDA": {
     "idNumerico": "39",
     "nome": "odyssey ltda",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:37|20/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-19T13:51:38.954Z"
+    "roubadaEm": "2026-08-20T01:37:01.688Z"
   },
   "ADMIRO": {
     "idNumerico": "21",

@@ -66,10 +66,10 @@
   "ROUBO OFF": {
     "idNumerico": "7",
     "nome": "roubo off",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:38|20/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-20T02:59:01.921Z"
+    "roubadaEm": "2026-08-20T17:38:59.067Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -98,10 +98,10 @@
   "CDM FARM'S": {
     "idNumerico": "20",
     "nome": "CdM Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-20T04:20:29.730Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:34|20/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-20T17:34:52.968Z"
   },
   "FAZENDADO 171": {
     "idNumerico": "12",
@@ -154,10 +154,10 @@
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-20T11:51:17.946Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:32|20/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-20T17:32:23.229Z"
   },
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
@@ -179,7 +179,7 @@
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
     "status": "INDISPONIVEL",
-    "disponivelEm": "15:17|20/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-20T13:17:48.014Z"
   },
@@ -242,10 +242,10 @@
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:46|20/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-20T11:24:42.941Z"
+    "roubadaEm": "2026-08-20T17:46:02.742Z"
   },
   "30PRAUM": {
     "idNumerico": "16",
@@ -338,10 +338,10 @@
   "ADMIRO": {
     "idNumerico": "21",
     "nome": "admiro",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-20T00:08:15.996Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:57|20/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-20T17:57:17.108Z"
   },
   "BARTTT INVESTIMENTOS": {
     "idNumerico": "18",

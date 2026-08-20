@@ -159,14 +159,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-20T17:32:23.229Z"
   },
-  "GRANJA DO IMONKEY": {
-    "idNumerico": "29",
-    "nome": "Granja do iMonKeY",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:05|20/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-20T16:05:51.929Z"
-  },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
@@ -282,8 +274,8 @@
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:02|20/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-20T16:02:55.012Z"
   },

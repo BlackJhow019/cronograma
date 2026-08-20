@@ -106,9 +106,9 @@
   "FAZENDADO 171": {
     "idNumerico": "12",
     "nome": "fazendado 171",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:33|19/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-19T19:33:51.559Z"
   },
   "PLANTAÇÃO DE COCA DO CARTEL DE MEDELLIN": {
@@ -274,8 +274,8 @@
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:32|19/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-19T19:32:38.542Z"
   },

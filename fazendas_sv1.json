@@ -26,10 +26,10 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-20T15:02:42.935Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:53|20/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-20T20:53:25.288Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
     "idNumerico": "17",
@@ -54,14 +54,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-19T22:34:48.877Z"
-  },
-  "K1NG FARM'S": {
-    "idNumerico": "25",
-    "nome": "K1NG Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:11|20/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-20T16:11:55.039Z"
   },
   "ROUBO OFF": {
     "idNumerico": "7",
@@ -298,10 +290,10 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-20T13:18:30.374Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:48|20/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-20T20:48:24.027Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",

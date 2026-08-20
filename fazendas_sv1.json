@@ -130,8 +130,8 @@
   "/CARIDADE": {
     "idNumerico": "40",
     "nome": "/caridade",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:01|20/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-19T23:01:48.987Z"
   },

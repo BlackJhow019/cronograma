@@ -146,9 +146,9 @@
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:37|20/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-20T01:37:52.661Z"
   },
   "QUEM ROUBAR E PETISTA": {
@@ -330,8 +330,8 @@
   "ODYSSEY LTDA": {
     "idNumerico": "39",
     "nome": "odyssey ltda",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:37|20/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-20T01:37:01.688Z"
   },

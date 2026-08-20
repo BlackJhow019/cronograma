@@ -82,10 +82,10 @@
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:41|20/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-19T22:36:25.106Z"
+    "roubadaEm": "2026-08-20T03:41:42.491Z"
   },
   "RICK FARM'S": {
     "idNumerico": "9",
@@ -98,10 +98,10 @@
   "CDM FARM'S": {
     "idNumerico": "20",
     "nome": "CdM Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:20|20/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-19T20:08:53.082Z"
+    "roubadaEm": "2026-08-20T04:20:29.730Z"
   },
   "FAZENDADO 171": {
     "idNumerico": "12",
@@ -122,10 +122,10 @@
   "..OURO..PR3TO..": {
     "idNumerico": "5",
     "nome": "..OURO..PR3TO..",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:20|20/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-19T14:14:05.428Z"
+    "roubadaEm": "2026-08-20T04:20:38.528Z"
   },
   "/CARIDADE": {
     "idNumerico": "40",
@@ -186,10 +186,10 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:22|20/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-19T22:24:29.908Z"
+    "roubadaEm": "2026-08-20T04:22:41.942Z"
   },
   "AZEROX": {
     "idNumerico": "23",
@@ -242,10 +242,10 @@
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-19T22:39:03.232Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:03|20/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-20T04:03:20.852Z"
   },
   "30PRAUM": {
     "idNumerico": "16",
@@ -346,9 +346,9 @@
   "BARTTT INVESTIMENTOS": {
     "idNumerico": "18",
     "nome": "Barttt Investimentos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-19T20:51:40.460Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:12|20/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-20T04:12:41.098Z"
   }
 }

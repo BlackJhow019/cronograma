@@ -26,10 +26,10 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-20T01:17:38.423Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:38|20/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-20T08:38:06.064Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
     "idNumerico": "17",
@@ -146,10 +146,10 @@
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:40|20/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-20T01:37:52.661Z"
+    "roubadaEm": "2026-08-20T08:40:58.298Z"
   },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
@@ -228,7 +228,7 @@
     "nome": "YT @GANDIA_RP",
     "status": "INDISPONIVEL",
     "disponivelEm": "10:29|20/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-20T08:29:21.979Z"
   },
   "021": {

@@ -82,10 +82,10 @@
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:07|20/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-20T15:04:20.559Z"
+    "roubadaEm": "2026-08-20T20:07:08.571Z"
   },
   "RICK FARM'S": {
     "idNumerico": "9",
@@ -138,10 +138,10 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:52|20/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-20T13:57:05.968Z"
+    "roubadaEm": "2026-08-20T19:52:32.624Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
@@ -186,18 +186,18 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:21|20/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-20T13:52:57.985Z"
+    "roubadaEm": "2026-08-20T20:21:10.016Z"
   },
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:13|20/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-20T13:01:37.941Z"
+    "roubadaEm": "2026-08-20T20:13:12.970Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
@@ -218,10 +218,10 @@
   "< GAUBRE LTDA >": {
     "idNumerico": "35",
     "nome": "< GAUBRE LTDA >",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-20T14:58:58.614Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:42|20/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-20T20:00:28.316Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",

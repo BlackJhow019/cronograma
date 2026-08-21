@@ -23,14 +23,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-21T12:50:46.446Z"
   },
-  "HWD INVESTIMENTOS": {
-    "idNumerico": "27",
-    "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:14|21/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-21T14:14:16.064Z"
-  },
   "FAZENDA ROTA DO CAFÉ": {
     "idNumerico": "17",
     "nome": "Fazenda Rota do Café",
@@ -247,14 +239,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-21T15:58:54.912Z"
   },
-  "30PRAUM": {
-    "idNumerico": "16",
-    "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:13|21/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-21T14:13:18.274Z"
-  },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
@@ -314,9 +298,9 @@
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:12|21/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-21T14:12:02.588Z"
   },
   "WESKER_U$METRALHA": {

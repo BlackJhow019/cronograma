@@ -135,14 +135,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-21T15:21:10.224Z"
   },
-  "RICO LOUCO": {
-    "idNumerico": "11",
-    "nome": "rico louco",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:25|21/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-21T11:25:32.968Z"
-  },
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
@@ -234,10 +226,10 @@
   "021": {
     "idNumerico": "1",
     "nome": "021",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:26|21/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-21T03:57:14.257Z"
+    "roubadaEm": "2026-08-21T16:26:09.983Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",

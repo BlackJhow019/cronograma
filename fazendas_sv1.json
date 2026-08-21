@@ -82,10 +82,10 @@
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:42|21/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-21T07:16:00.124Z"
+    "roubadaEm": "2026-08-21T16:42:35.932Z"
   },
   "RICK FARM'S": {
     "idNumerico": "9",
@@ -175,14 +175,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-20T22:14:19.769Z"
   },
-  "PREFEITO ROADBLOCK": {
-    "idNumerico": "41",
-    "nome": "Prefeito Roadblock",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:42|21/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-21T11:42:51.492Z"
-  },
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
@@ -268,8 +260,8 @@
     "nome": "Borrachas Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:36|21/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-21T16:36:54.166Z"
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-21T16:36:54.120Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",

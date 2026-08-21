@@ -108,7 +108,7 @@
     "nome": "fazendado 171",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:00|22/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-21T22:00:55.718Z"
   },
   "PLANTAÇÃO DE COCA DO CARTEL DE MEDELLIN": {
@@ -282,10 +282,10 @@
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:06|22/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-20T16:02:55.012Z"
+    "roubadaEm": "2026-08-21T22:06:55.541Z"
   },
   ".": {
     "idNumerico": "31",

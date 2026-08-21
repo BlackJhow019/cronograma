@@ -82,10 +82,10 @@
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:14|21/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-20T20:07:08.571Z"
+    "roubadaEm": "2026-08-21T01:14:30.488Z"
   },
   "RICK FARM'S": {
     "idNumerico": "9",
@@ -138,10 +138,10 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-20T19:52:32.624Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:15|21/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-21T01:15:21.265Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
@@ -194,10 +194,10 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:18|21/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-20T20:13:12.970Z"
+    "roubadaEm": "2026-08-21T01:18:44.788Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",

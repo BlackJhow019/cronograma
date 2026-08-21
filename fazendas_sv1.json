@@ -130,9 +130,9 @@
   "/CARIDADE": {
     "idNumerico": "40",
     "nome": "/caridade",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:21|21/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-21T15:21:10.224Z"
   },
   "RICO LOUCO": {
@@ -212,7 +212,7 @@
     "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:19|21/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-21T20:19:49.348Z"
   },
   "< GAUBRE LTDA >": {

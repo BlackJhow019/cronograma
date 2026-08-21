@@ -28,7 +28,7 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:14|21/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-21T14:14:16.064Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
@@ -183,14 +183,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-21T11:42:51.492Z"
   },
-  "KODIAK": {
-    "idNumerico": "3",
-    "nome": "KodiaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:53|21/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-21T09:53:41.601Z"
-  },
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
@@ -252,7 +244,7 @@
     "nome": "30PRAUM",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:13|21/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-21T14:13:18.274Z"
   },
   "CLUBE DA LULUZINHA": {
@@ -298,10 +290,10 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:56|21/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-21T02:33:11.501Z"
+    "roubadaEm": "2026-08-21T14:56:28.962Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",

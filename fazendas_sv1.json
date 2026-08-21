@@ -74,10 +74,10 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-20T22:25:17.894Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:40|21/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-21T05:41:31.582Z"
   },
   "PENOSO FARM'S": {
     "idNumerico": "10",
@@ -226,10 +226,10 @@
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:47|21/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-20T21:43:45.191Z"
+    "roubadaEm": "2026-08-21T05:47:03.839Z"
   },
   "021": {
     "idNumerico": "1",
@@ -250,10 +250,10 @@
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:19|21/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-20T22:38:57.690Z"
+    "roubadaEm": "2026-08-21T05:19:29.552Z"
   },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
@@ -314,10 +314,10 @@
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:31|21/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-21T00:29:31.642Z"
+    "roubadaEm": "2026-08-21T05:31:06.532Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",

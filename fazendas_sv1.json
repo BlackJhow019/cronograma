@@ -28,7 +28,7 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:27|21/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-21T19:27:53.191Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
@@ -250,10 +250,10 @@
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:39|21/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-21T14:13:18.274Z"
+    "roubadaEm": "2026-08-21T19:39:23.542Z"
   },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",

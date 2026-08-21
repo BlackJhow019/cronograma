@@ -212,7 +212,7 @@
     "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:06|21/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-21T14:06:46.767Z"
   },
   "< GAUBRE LTDA >": {
@@ -314,10 +314,10 @@
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:12|21/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-21T05:31:06.532Z"
+    "roubadaEm": "2026-08-21T14:12:02.588Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",

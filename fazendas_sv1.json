@@ -66,10 +66,10 @@
   "ROUBO OFF": {
     "idNumerico": "7",
     "nome": "roubo off",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-20T17:38:59.067Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:11|21/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-21T02:11:30.466Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -186,10 +186,10 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-20T20:21:10.016Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:08|21/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-21T02:08:11.758Z"
   },
   "AZEROX": {
     "idNumerico": "23",
@@ -258,10 +258,10 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-20T20:34:54.199Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:06|21/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-21T02:06:10.699Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",

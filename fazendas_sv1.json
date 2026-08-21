@@ -175,14 +175,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-21T17:18:03.376Z"
   },
-  "PREFEITO ROADBLOCK": {
-    "idNumerico": "41",
-    "nome": "Prefeito Roadblock",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:24|21/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-21T17:24:29.634Z"
-  },
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
@@ -190,6 +182,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-21T09:53:41.601Z"
+  },
+  "AZEROX": {
+    "idNumerico": "23",
+    "nome": "AzeRoX",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-21T17:21:11.648Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
@@ -218,9 +218,9 @@
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:23|21/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-21T17:23:44.281Z"
   },
   "021": {

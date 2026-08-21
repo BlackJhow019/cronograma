@@ -220,7 +220,7 @@
     "nome": "< GAUBRE LTDA >",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:55|21/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-21T21:13:37.665Z"
   },
   "YT @GANDIA_RP": {
@@ -338,9 +338,9 @@
   "ADMIRO": {
     "idNumerico": "21",
     "nome": "admiro",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:16|21/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-21T16:16:33.261Z"
   },
   "BARTTT INVESTIMENTOS": {

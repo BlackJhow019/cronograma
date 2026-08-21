@@ -210,9 +210,9 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:06|21/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-21T04:06:20.083Z"
   },
   "< GAUBRE LTDA >": {

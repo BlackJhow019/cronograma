@@ -250,10 +250,10 @@
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:13|21/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-21T05:19:29.552Z"
+    "roubadaEm": "2026-08-21T14:13:04.768Z"
   },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",

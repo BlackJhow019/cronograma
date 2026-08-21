@@ -74,9 +74,9 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:17|21/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-21T13:18:26.970Z"
   },
   "PENOSO FARM'S": {
@@ -140,7 +140,7 @@
     "nome": "rico louco",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:08|21/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-21T18:08:22.095Z"
   },
   "FAMILIA KUSH": {

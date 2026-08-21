@@ -122,9 +122,9 @@
   "..OURO..PR3TO..": {
     "idNumerico": "5",
     "nome": "..OURO..PR3TO..",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:24|21/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-21T16:24:56.448Z"
   },
   "/CARIDADE": {
@@ -234,8 +234,8 @@
   "021": {
     "idNumerico": "1",
     "nome": "021",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:26|21/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-21T16:26:25.393Z"
   },
@@ -340,7 +340,7 @@
     "nome": "admiro",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:23|21/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-21T21:23:09.752Z"
   },
   "BARTTT INVESTIMENTOS": {

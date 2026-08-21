@@ -178,10 +178,10 @@
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:30|21/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-21T00:01:09.384Z"
+    "roubadaEm": "2026-08-21T06:30:27.559Z"
   },
   "KODIAK": {
     "idNumerico": "3",
@@ -306,10 +306,10 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:04|21/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-21T00:11:47.685Z"
+    "roubadaEm": "2026-08-21T06:04:53.775Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
@@ -330,10 +330,10 @@
   "ODYSSEY LTDA": {
     "idNumerico": "39",
     "nome": "odyssey ltda",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:49|21/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-20T15:36:15.018Z"
+    "roubadaEm": "2026-08-21T06:49:58.416Z"
   },
   "ADMIRO": {
     "idNumerico": "21",

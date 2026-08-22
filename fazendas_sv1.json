@@ -58,10 +58,10 @@
   "K1NG FARM'S": {
     "idNumerico": "25",
     "nome": "K1NG Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:01|22/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-20T16:11:55.039Z"
+    "roubadaEm": "2026-08-22T04:01:53.582Z"
   },
   "ROUBO OFF": {
     "idNumerico": "7",
@@ -173,7 +173,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "05:47|22/08/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-08-22T03:47:08.185Z"
+    "roubadaEm": "2026-08-22T03:47:08.113Z"
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
@@ -301,7 +301,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "05:49|22/08/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-08-22T03:49:20.649Z"
+    "roubadaEm": "2026-08-22T03:49:04.633Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
@@ -341,7 +341,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "05:50|22/08/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-08-22T03:50:54.168Z"
+    "roubadaEm": "2026-08-22T03:50:37.714Z"
   },
   "BARTTT INVESTIMENTOS": {
     "idNumerico": "18",

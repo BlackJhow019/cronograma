@@ -28,7 +28,7 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:45|22/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-22T01:45:08.471Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
@@ -346,9 +346,9 @@
   "BARTTT INVESTIMENTOS": {
     "idNumerico": "18",
     "nome": "Barttt Investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:37|21/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-21T21:37:31.458Z"
   }
 }

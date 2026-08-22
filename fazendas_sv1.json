@@ -82,9 +82,9 @@
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:54|21/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-21T21:54:56.458Z"
   },
   "RICK FARM'S": {
@@ -332,7 +332,7 @@
     "nome": "odyssey ltda",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:49|22/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-22T02:49:49.810Z"
   },
   "ADMIRO": {

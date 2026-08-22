@@ -159,14 +159,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-21T10:35:36.347Z"
   },
-  "GRANJA DO IMONKEY": {
-    "idNumerico": "29",
-    "nome": "Granja do iMonKeY",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:11|21/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-21T19:11:15.507Z"
-  },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
@@ -306,10 +298,10 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:15|22/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-21T15:10:57.778Z"
+    "roubadaEm": "2026-08-22T00:15:56.973Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",

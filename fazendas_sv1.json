@@ -74,10 +74,10 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:24|22/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-21T18:31:38.702Z"
+    "roubadaEm": "2026-08-22T00:25:29.045Z"
   },
   "PENOSO FARM'S": {
     "idNumerico": "10",
@@ -308,7 +308,7 @@
     "nome": "Fazenda da Milly",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:15|22/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-22T00:15:56.973Z"
   },
   "FAMILIA ALMANAK": {

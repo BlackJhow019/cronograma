@@ -298,9 +298,9 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:49|22/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-22T03:49:04.633Z"
   },
   "FAZENDA DA MILLY": {
@@ -334,14 +334,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-22T02:49:49.810Z"
-  },
-  "ADMIRO": {
-    "idNumerico": "21",
-    "nome": "admiro",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:50|22/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-22T03:50:37.714Z"
   },
   "BARTTT INVESTIMENTOS": {
     "idNumerico": "18",

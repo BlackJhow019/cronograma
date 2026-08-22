@@ -98,10 +98,10 @@
   "CDM FARM'S": {
     "idNumerico": "20",
     "nome": "CdM Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:30|22/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-20T17:34:52.968Z"
+    "roubadaEm": "2026-08-22T06:30:47.378Z"
   },
   "FAZENDADO 171": {
     "idNumerico": "12",
@@ -190,14 +190,6 @@
     "disponivelEm": "04:47|22/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-22T02:47:31.580Z"
-  },
-  "AZEROX": {
-    "idNumerico": "23",
-    "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:28|22/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-22T01:28:15.081Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",

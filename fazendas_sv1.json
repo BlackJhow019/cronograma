@@ -42,10 +42,10 @@
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:04|22/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-22T14:00:50.246Z"
+    "roubadaEm": "2026-08-22T20:04:44.872Z"
   },
   "FAZENDA FELIZ": {
     "idNumerico": "22",

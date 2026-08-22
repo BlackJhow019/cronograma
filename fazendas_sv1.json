@@ -156,7 +156,7 @@
     "nome": "Quem Roubar e Petista",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:13|22/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-22T21:13:31.034Z"
   },
   "GRANJA DO IMONKEY": {
@@ -183,14 +183,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-22T17:42:52.543Z"
   },
-  "KODIAK": {
-    "idNumerico": "3",
-    "nome": "KodiaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:15|22/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-22T16:15:28.237Z"
-  },
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
@@ -210,10 +202,10 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:18|22/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-22T14:46:11.966Z"
+    "roubadaEm": "2026-08-22T21:18:46.533Z"
   },
   "< GAUBRE LTDA >": {
     "idNumerico": "2",

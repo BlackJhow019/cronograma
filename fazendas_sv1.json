@@ -146,10 +146,10 @@
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:18|22/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-21T20:40:55.863Z"
+    "roubadaEm": "2026-08-22T02:18:41.079Z"
   },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
@@ -212,7 +212,7 @@
     "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:05|22/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-22T02:05:37.058Z"
   },
   "< GAUBRE LTDA >": {

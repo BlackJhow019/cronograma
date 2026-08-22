@@ -154,10 +154,10 @@
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:31|22/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-21T10:35:36.347Z"
+    "roubadaEm": "2026-08-22T01:31:35.521Z"
   },
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
@@ -196,7 +196,7 @@
     "nome": "AzeRoX",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:28|22/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-22T01:28:15.081Z"
   },
   "WORK INDUSTRIA'S LIMITED": {

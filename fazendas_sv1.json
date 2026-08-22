@@ -71,14 +71,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-21T17:11:50.453Z"
   },
-  "SAO PEDRO 2": {
-    "idNumerico": "43",
-    "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:00|22/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-22T13:01:13.279Z"
-  },
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
@@ -258,10 +250,10 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:01|22/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-22T03:22:57.500Z"
+    "roubadaEm": "2026-08-22T18:01:08.796Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",

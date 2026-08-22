@@ -44,7 +44,7 @@
     "nome": "Norex farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:40|22/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-22T03:40:04.260Z"
   },
   "FAZENDA FELIZ": {
@@ -170,10 +170,10 @@
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:46|22/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-21T17:18:03.376Z"
+    "roubadaEm": "2026-08-22T03:46:55.454Z"
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",

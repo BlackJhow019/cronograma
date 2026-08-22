@@ -47,6 +47,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-21T22:32:43.593Z"
   },
+  "FAZENDA FELIZ": {
+    "idNumerico": "22",
+    "nome": "fazenda feliz",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-21T20:08:40.396Z"
+  },
   "K1NG FARM'S": {
     "idNumerico": "25",
     "nome": "K1NG Farm's",
@@ -308,7 +316,7 @@
     "nome": "Familia AlmanaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:12|22/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-22T01:12:03.821Z"
   },
   "WESKER_U$METRALHA": {

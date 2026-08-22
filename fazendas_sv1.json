@@ -52,7 +52,7 @@
     "nome": "fazenda feliz",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:18|22/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-22T15:18:29.733Z"
   },
   "K1NG FARM'S": {
@@ -338,10 +338,10 @@
   "ADMIRO": {
     "idNumerico": "21",
     "nome": "admiro",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:25|22/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-22T03:50:37.714Z"
+    "roubadaEm": "2026-08-22T15:25:47.319Z"
   },
   "BARTTT INVESTIMENTOS": {
     "idNumerico": "18",

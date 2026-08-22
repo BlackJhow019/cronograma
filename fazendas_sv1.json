@@ -58,9 +58,9 @@
   "K1NG FARM'S": {
     "idNumerico": "25",
     "nome": "K1NG Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:45|22/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-22T14:45:11.325Z"
   },
   "ROUBO OFF": {
@@ -84,7 +84,7 @@
     "nome": "Penoso Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:43|22/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-22T19:43:31.414Z"
   },
   "RICK FARM'S": {
@@ -210,9 +210,9 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:46|22/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-22T14:46:11.966Z"
   },
   "< GAUBRE LTDA >": {

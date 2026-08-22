@@ -172,7 +172,7 @@
     "nome": "fazendinha do igeze",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:47|22/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-22T03:47:08.185Z"
   },
   "PREFEITO ROADBLOCK": {
@@ -218,9 +218,9 @@
   "< GAUBRE LTDA >": {
     "idNumerico": "35",
     "nome": "< GAUBRE LTDA >",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:51|22/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-22T03:09:08.746Z"
   },
   "YT @GANDIA_RP": {
@@ -234,9 +234,9 @@
   "021": {
     "idNumerico": "1",
     "nome": "021",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:57|22/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-21T22:57:01.732Z"
   },
   "OS DE RACA": {
@@ -300,7 +300,7 @@
     "nome": "Rancho do Doutor",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:49|22/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-22T03:49:20.649Z"
   },
   "FAZENDA DA MILLY": {
@@ -340,7 +340,7 @@
     "nome": "admiro",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:50|22/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-22T03:50:54.168Z"
   },
   "BARTTT INVESTIMENTOS": {

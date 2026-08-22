@@ -148,7 +148,7 @@
     "nome": "Familia KuSh",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:21|22/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-22T02:21:11.931Z"
   },
   "QUEM ROUBAR E PETISTA": {
@@ -338,9 +338,9 @@
   "ADMIRO": {
     "idNumerico": "21",
     "nome": "admiro",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:23|21/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-21T21:23:09.752Z"
   },
   "BARTTT INVESTIMENTOS": {

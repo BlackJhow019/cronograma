@@ -228,7 +228,7 @@
     "nome": "YT @GANDIA_RP",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:50|22/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-22T20:50:29.950Z"
   },
   "021": {
@@ -322,10 +322,10 @@
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
     "nome": "Wesker_u$MeTraLha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:55|22/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-19T11:53:48.376Z"
+    "roubadaEm": "2026-08-22T20:55:57.192Z"
   },
   "ODYSSEY LTDA": {
     "idNumerico": "39",

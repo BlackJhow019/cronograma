@@ -188,7 +188,7 @@
     "nome": "KodiaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:47|22/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-22T02:47:31.580Z"
   },
   "AZEROX": {
@@ -330,10 +330,10 @@
   "ODYSSEY LTDA": {
     "idNumerico": "39",
     "nome": "odyssey ltda",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:49|22/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-21T15:35:32.485Z"
+    "roubadaEm": "2026-08-22T02:49:36.910Z"
   },
   "ADMIRO": {
     "idNumerico": "21",

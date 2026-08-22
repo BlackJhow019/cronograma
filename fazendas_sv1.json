@@ -239,14 +239,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-21T22:57:01.732Z"
   },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:21|22/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-21T22:21:36.289Z"
-  },
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
@@ -258,10 +250,10 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:22|22/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-21T19:50:14.921Z"
+    "roubadaEm": "2026-08-22T03:22:41.316Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -284,7 +276,7 @@
     "nome": "PoLeMiCo$ industri$",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:19|22/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-22T03:19:01.460Z"
   },
   ".": {

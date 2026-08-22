@@ -178,10 +178,10 @@
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:42|22/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-22T05:27:25.418Z"
+    "roubadaEm": "2026-08-22T17:42:36.452Z"
   },
   "KODIAK": {
     "idNumerico": "3",
@@ -292,7 +292,7 @@
     "nome": ".",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:33|22/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-22T17:33:10.256Z"
   },
   "RANCHO DO DOUTOR": {

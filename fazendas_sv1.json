@@ -226,10 +226,10 @@
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:37|22/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-21T23:50:10.120Z"
+    "roubadaEm": "2026-08-22T05:37:56.822Z"
   },
   "021": {
     "idNumerico": "1",
@@ -308,7 +308,7 @@
     "nome": "Fazenda da Milly",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:28|22/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-22T05:28:53.149Z"
   },
   "FAMILIA ALMANAK": {

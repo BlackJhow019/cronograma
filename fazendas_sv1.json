@@ -106,9 +106,9 @@
   "FAZENDADO 171": {
     "idNumerico": "12",
     "nome": "fazendado 171",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:00|22/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-21T22:00:55.718Z"
   },
   "PLANTAÇÃO DE COCA DO CARTEL DE MEDELLIN": {

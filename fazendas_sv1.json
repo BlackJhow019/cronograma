@@ -239,14 +239,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-22T04:39:42.989Z"
   },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:24|22/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-22T03:24:08.004Z"
-  },
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
@@ -258,8 +250,8 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:22|22/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-22T03:22:57.500Z"
   },

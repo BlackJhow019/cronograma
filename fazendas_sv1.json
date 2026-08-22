@@ -212,7 +212,7 @@
     "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:46|22/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-22T14:46:11.966Z"
   },
   "< GAUBRE LTDA >": {
@@ -276,7 +276,7 @@
     "nome": "Farm's de Cafe",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:51|22/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-22T14:51:29.190Z"
   },
   "POLEMICO$ INDUSTRI$": {
@@ -298,10 +298,10 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:55|22/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-22T03:49:04.633Z"
+    "roubadaEm": "2026-08-22T14:55:33.464Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",

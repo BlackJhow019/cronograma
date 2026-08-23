@@ -146,10 +146,10 @@
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:29|23/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-23T14:20:26.582Z"
+    "roubadaEm": "2026-08-23T19:29:18.364Z"
   },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
@@ -220,7 +220,7 @@
     "nome": "< GAUBRE LTDA >",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:05|23/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-23T19:23:45.260Z"
   },
   "YT @GANDIA_RP": {
@@ -259,7 +259,7 @@
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:28|23/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-23T14:28:31.070Z"
   },

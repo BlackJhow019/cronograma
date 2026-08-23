@@ -26,10 +26,10 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:59|23/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-23T08:29:16.006Z"
+    "roubadaEm": "2026-08-23T14:59:00.053Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
     "idNumerico": "17",
@@ -231,14 +231,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-23T13:31:12.364Z"
   },
-  "021": {
-    "idNumerico": "1",
-    "nome": "021",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:56|23/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-23T09:56:32.961Z"
-  },
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
@@ -316,7 +308,7 @@
     "nome": "Familia AlmanaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:53|23/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-23T14:53:20.514Z"
   },
   "WESKER_U$METRALHA": {

@@ -186,9 +186,9 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:27|23/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-23T13:27:00.429Z"
   },
   "AZEROX": {
@@ -212,7 +212,7 @@
     "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:21|23/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-23T18:21:23.173Z"
   },
   "< GAUBRE LTDA >": {
@@ -222,14 +222,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-23T16:08:06.193Z"
-  },
-  "YT @GANDIA_RP": {
-    "idNumerico": "15",
-    "nome": "YT @GANDIA_RP",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:31|23/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-23T13:31:12.364Z"
   },
   "021": {
     "idNumerico": "1",

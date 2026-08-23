@@ -162,10 +162,10 @@
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:19|23/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-22T18:21:17.652Z"
+    "roubadaEm": "2026-08-23T17:19:56.549Z"
   },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
@@ -332,7 +332,7 @@
     "nome": "odyssey ltda",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:13|23/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-23T17:13:17.015Z"
   },
   "BARTTT INVESTIMENTOS": {

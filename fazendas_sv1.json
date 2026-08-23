@@ -191,14 +191,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-23T18:44:43.542Z"
   },
-  "AZEROX": {
-    "idNumerico": "23",
-    "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:10|23/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-23T16:10:17.649Z"
-  },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
@@ -234,10 +226,10 @@
   "021": {
     "idNumerico": "1",
     "nome": "021",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:13|23/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-23T16:02:31.216Z"
+    "roubadaEm": "2026-08-23T21:13:17.713Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",

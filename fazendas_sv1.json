@@ -74,10 +74,10 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:49|23/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-23T15:01:59.629Z"
+    "roubadaEm": "2026-08-23T20:50:28.775Z"
   },
   "PENOSO FARM'S": {
     "idNumerico": "10",
@@ -134,14 +134,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-22T17:10:17.236Z"
-  },
-  "RICO LOUCO": {
-    "idNumerico": "11",
-    "nome": "rico louco",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:49|23/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-23T15:49:47.371Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
@@ -202,10 +194,10 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-23T15:16:22.901Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:49|23/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-23T20:49:10.566Z"
   },
   "DM2 FARM": {
     "idNumerico": "6",
@@ -317,7 +309,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "22:25|23/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-23T20:25:50.849Z"
+    "roubadaEm": "2026-08-23T20:25:23.013Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",

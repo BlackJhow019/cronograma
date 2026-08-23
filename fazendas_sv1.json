@@ -84,7 +84,7 @@
     "nome": "Penoso Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:54|23/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-23T10:54:00.625Z"
   },
   "RICK FARM'S": {
@@ -218,10 +218,10 @@
   "< GAUBRE LTDA >": {
     "idNumerico": "35",
     "nome": "< GAUBRE LTDA >",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:39|23/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-22T20:53:25.074Z"
+    "roubadaEm": "2026-08-23T10:57:17.445Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",

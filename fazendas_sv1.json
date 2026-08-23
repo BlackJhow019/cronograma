@@ -242,8 +242,8 @@
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:11|23/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-23T17:11:08.212Z"
   },
@@ -326,14 +326,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-23T14:44:20.625Z"
-  },
-  "ODYSSEY LTDA": {
-    "idNumerico": "39",
-    "nome": "odyssey ltda",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:13|23/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-23T17:13:17.015Z"
   },
   "BARTTT INVESTIMENTOS": {
     "idNumerico": "18",

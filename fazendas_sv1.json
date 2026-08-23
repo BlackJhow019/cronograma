@@ -226,10 +226,10 @@
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:42|23/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-23T13:31:12.364Z"
+    "roubadaEm": "2026-08-23T18:42:45.337Z"
   },
   "021": {
     "idNumerico": "1",
@@ -348,7 +348,7 @@
     "nome": "pode isso adm?",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:26|23/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-23T17:26:30.136Z"
   }
 }

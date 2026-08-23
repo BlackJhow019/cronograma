@@ -211,7 +211,7 @@
     "idNumerico": "6",
     "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
-    "disponivelEm": "05:14|23/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-23T03:14:16.268Z"
   },
@@ -303,21 +303,13 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-22T21:52:41.133Z"
   },
-  "FAZENDA DA MILLY": {
-    "idNumerico": "19",
-    "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:13|23/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-23T03:13:52.789Z"
-  },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:14|23/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-22T20:19:55.718Z"
+    "roubadaEm": "2026-08-23T08:14:36.097Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",

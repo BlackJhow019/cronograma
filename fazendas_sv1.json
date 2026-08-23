@@ -143,14 +143,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-23T15:49:47.371Z"
   },
-  "FAMILIA KUSH": {
-    "idNumerico": "34",
-    "nome": "Familia KuSh",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:20|23/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-23T14:20:26.582Z"
-  },
   "QUEM ROUBAR E PETISTA": {
     "idNumerico": "44",
     "nome": "Quem Roubar e Petista",
@@ -180,7 +172,7 @@
     "nome": "Prefeito Roadblock",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:06|23/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-23T19:06:37.030Z"
   },
   "KODIAK": {
@@ -218,10 +210,10 @@
   "< GAUBRE LTDA >": {
     "idNumerico": "35",
     "nome": "< GAUBRE LTDA >",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:05|23/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-23T16:08:06.193Z"
+    "roubadaEm": "2026-08-23T19:23:45.260Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",

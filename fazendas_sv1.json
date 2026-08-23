@@ -82,9 +82,9 @@
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:54|23/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-23T10:54:00.625Z"
   },
   "RICK FARM'S": {
@@ -140,7 +140,7 @@
     "nome": "rico louco",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:49|23/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-23T15:49:47.371Z"
   },
   "FAMILIA KUSH": {

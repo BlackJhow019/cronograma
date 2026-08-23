@@ -290,10 +290,10 @@
   ".": {
     "idNumerico": "31",
     "nome": ".",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:02|23/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-22T17:33:10.256Z"
+    "roubadaEm": "2026-08-23T15:02:10.378Z"
   },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",

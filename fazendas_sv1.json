@@ -250,9 +250,9 @@
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:40|23/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-23T16:40:57.643Z"
   },
   "CLUBE DA LULUZINHA": {
@@ -302,14 +302,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-23T15:07:36.934Z"
-  },
-  "FAZENDA DA MILLY": {
-    "idNumerico": "19",
-    "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:41|23/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-23T16:41:33.874Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",

@@ -26,8 +26,8 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:59|23/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-23T14:59:00.053Z"
   },
@@ -70,14 +70,6 @@
     "disponivelEm": "19:01|23/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-23T17:01:16.877Z"
-  },
-  "SAO PEDRO 2": {
-    "idNumerico": "43",
-    "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:00|23/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-23T15:01:59.629Z"
   },
   "PENOSO FARM'S": {
     "idNumerico": "10",

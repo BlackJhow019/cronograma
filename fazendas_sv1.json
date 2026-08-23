@@ -124,16 +124,16 @@
     "nome": "/caridade",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:02|24/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-23T22:02:40.221Z"
   },
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:04|24/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-23T15:49:47.371Z"
+    "roubadaEm": "2026-08-23T22:04:13.770Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",

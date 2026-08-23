@@ -69,7 +69,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "19:01|23/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-23T17:01:16.965Z"
+    "roubadaEm": "2026-08-23T17:01:16.877Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -108,7 +108,7 @@
     "nome": "fazendado 171",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:05|23/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-23T17:05:42.294Z"
   },
   "PLANTAÇÃO DE COCA DO CARTEL DE MEDELLIN": {
@@ -242,10 +242,10 @@
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:11|23/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-23T11:25:53.786Z"
+    "roubadaEm": "2026-08-23T17:11:08.212Z"
   },
   "30PRAUM": {
     "idNumerico": "16",
@@ -338,9 +338,9 @@
   "BARTTT INVESTIMENTOS": {
     "idNumerico": "18",
     "nome": "Barttt Investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:08|23/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-23T12:08:51.826Z"
   },
   "ADMIRO": {

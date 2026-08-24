@@ -210,9 +210,9 @@
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:08|24/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-24T18:08:27.019Z"
   },
   "021": {
@@ -333,7 +333,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "00:46|25/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-24T22:55:33.431Z"
+    "roubadaEm": "2026-08-24T22:55:33.337Z"
   },
   "GRUPO MOBIUS DE EMPREENDIMENTOS LTDA": {
     "idNumerico": "30",

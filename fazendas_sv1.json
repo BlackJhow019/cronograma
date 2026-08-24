@@ -114,10 +114,10 @@
   "..OURO..PR3TO..": {
     "idNumerico": "5",
     "nome": "..OURO..PR3TO..",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:23|24/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-24T12:33:59.326Z"
+    "roubadaEm": "2026-08-24T20:23:55.001Z"
   },
   "/CARIDADE": {
     "idNumerico": "40",
@@ -324,7 +324,7 @@
     "nome": "pode isso adm?",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:50|24/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-24T16:50:18.946Z"
   },
   "AGROBOY LTDA": {

@@ -231,12 +231,20 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-24T19:47:38.695Z"
   },
+  "30PRAUM": {
+    "idNumerico": "16",
+    "nome": "30PRAUM",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-24T18:30:05.058Z"
+  },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:31|25/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-24T23:31:00.540Z"
   },
   "BORRACHAS FARM": {

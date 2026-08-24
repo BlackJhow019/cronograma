@@ -220,7 +220,7 @@
     "nome": "021",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:08|24/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-24T20:08:17.204Z"
   },
   "OS DE RACA": {
@@ -314,8 +314,8 @@
   "BARTTT INVESTIMENTOS": {
     "idNumerico": "18",
     "nome": "Barttt Investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:12|24/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-24T15:12:54.950Z"
   },

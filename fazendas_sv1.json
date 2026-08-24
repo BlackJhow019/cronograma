@@ -18,10 +18,10 @@
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
     "nome": "VENDO 500km ACEITO TROCAS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:53|24/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-21T12:50:46.446Z"
+    "roubadaEm": "2026-08-24T09:53:22.675Z"
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
@@ -236,7 +236,7 @@
     "nome": "30PRAUM",
     "status": "INDISPONIVEL",
     "disponivelEm": "11:51|24/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-24T09:51:20.057Z"
   },
   "CLUBE DA LULUZINHA": {

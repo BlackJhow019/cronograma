@@ -159,14 +159,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-24T01:38:46.515Z"
   },
-  "FAZENDINHA DO IGEZE": {
-    "idNumerico": "36",
-    "nome": "fazendinha do igeze",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:51|23/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-23T21:51:05.101Z"
-  },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
@@ -242,8 +234,8 @@
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:49|23/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-23T21:49:56.534Z"
   },
@@ -254,6 +246,14 @@
     "disponivelEm": "00:09|24/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-23T22:09:02.855Z"
+  },
+  "BORRACHAS FARM": {
+    "idNumerico": "33",
+    "nome": "Borrachas Farm",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-23T22:25:45.268Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",

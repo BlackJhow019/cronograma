@@ -60,7 +60,7 @@
     "nome": "K1NG Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:29|24/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-24T16:29:12.181Z"
   },
   "ROUBO OFF": {
@@ -82,10 +82,10 @@
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:36|24/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-24T11:18:36.165Z"
+    "roubadaEm": "2026-08-24T16:36:55.646Z"
   },
   "RICK FARM'S": {
     "idNumerico": "9",

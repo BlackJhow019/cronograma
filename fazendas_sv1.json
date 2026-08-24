@@ -130,10 +130,10 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:18|25/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-24T16:45:55.765Z"
+    "roubadaEm": "2026-08-24T22:18:04.951Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
@@ -340,7 +340,7 @@
     "nome": "GRUPO MOBIUS DE EMPREENDIMENTOS LTDA",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:04|25/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-24T22:04:49.684Z"
   }
 }

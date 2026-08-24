@@ -235,9 +235,17 @@
     "idNumerico": "16",
     "nome": "30PRAUM",
     "status": "INDISPONIVEL",
-    "disponivelEm": "20:30|24/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-24T18:30:05.058Z"
+  },
+  "CLUBE DA LULUZINHA": {
+    "idNumerico": "8",
+    "nome": "Clube da Luluzinha",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-24T18:26:58.927Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",

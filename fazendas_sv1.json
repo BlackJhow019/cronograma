@@ -74,10 +74,10 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:45|24/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-24T16:43:59.565Z"
+    "roubadaEm": "2026-08-24T21:46:45.705Z"
   },
   "PENOSO FARM'S": {
     "idNumerico": "10",
@@ -131,7 +131,7 @@
     "idNumerico": "11",
     "nome": "rico louco",
     "status": "INDISPONIVEL",
-    "disponivelEm": "18:45|24/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-24T16:45:55.765Z"
   },

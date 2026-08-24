@@ -156,7 +156,7 @@
     "nome": "fazendinha do igeze",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:41|24/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-24T13:41:26.245Z"
   },
   "PREFEITO ROADBLOCK": {
@@ -218,10 +218,10 @@
   "021": {
     "idNumerico": "1",
     "nome": "021",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:45|24/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-24T03:09:06.306Z"
+    "roubadaEm": "2026-08-24T13:45:53.646Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",

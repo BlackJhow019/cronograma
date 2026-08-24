@@ -106,8 +106,8 @@
   "FAZENDADO 171": {
     "idNumerico": "12",
     "nome": "fazendado 171",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:11|24/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-24T13:11:54.695Z"
   },
@@ -212,7 +212,7 @@
     "nome": "YT @GANDIA_RP",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:08|24/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-24T18:08:27.019Z"
   },
   "021": {

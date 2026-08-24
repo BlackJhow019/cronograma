@@ -74,10 +74,10 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:42|24/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-24T11:18:35.155Z"
+    "roubadaEm": "2026-08-24T16:43:59.667Z"
   },
   "PENOSO FARM'S": {
     "idNumerico": "10",
@@ -190,14 +190,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-24T11:30:21.108Z"
-  },
-  "DM2 FARM": {
-    "idNumerico": "6",
-    "nome": "Dm2 Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:40|24/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-24T11:40:14.271Z"
   },
   "< GAUBRE LTDA >": {
     "idNumerico": "35",

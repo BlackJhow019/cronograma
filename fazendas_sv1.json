@@ -308,7 +308,7 @@
     "nome": "Familia AlmanaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:40|24/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-24T01:40:45.342Z"
   },
   "WESKER_U$METRALHA": {
@@ -338,10 +338,10 @@
   "PODE ISSO ADM?": {
     "idNumerico": "21",
     "nome": "pode isso adm?",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:47|24/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-23T17:26:30.136Z"
+    "roubadaEm": "2026-08-24T01:47:32.873Z"
   },
   "AGROBOY LTDA": {
     "idNumerico": "44",

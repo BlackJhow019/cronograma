@@ -1,7 +1,7 @@
 {
   "roubos": {
     "CM": "08:04|24/08/2026",
-    "RES": "EM_ANDAMENTO",
+    "RES": "DISPONIVEL",
     "PIZ": "DISPONIVEL",
     "BLS": "DISPONIVEL",
     "BARLS": "DISPONIVEL",
@@ -15,6 +15,7 @@
     "PUT": "08:13|24/08/2026",
     "CC": "DISPONIVEL",
     "NP": "07:26|24/08/2026",
+    "NC": "DESATUALIZADO",
     "IP": "DISPONIVEL",
     "PT": "DISPONIVEL",
     "LOTLV": "DISPONIVEL",
@@ -28,5 +29,5 @@
     "CAIXA": "DISPONIVEL",
     "BPS": "DISPONIVEL"
   },
-  "atualizadoEm": "2026-08-24T09:37:08.601Z"
+  "atualizadoEm": "2026-08-24T09:40:48.965Z"
 }

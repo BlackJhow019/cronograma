@@ -162,10 +162,10 @@
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:00|24/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-24T08:06:48.895Z"
+    "roubadaEm": "2026-08-24T14:00:08.250Z"
   },
   "KODIAK": {
     "idNumerico": "3",
@@ -228,7 +228,7 @@
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:48|24/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-24T13:48:57.312Z"
   },
   "30PRAUM": {

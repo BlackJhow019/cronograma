@@ -28,7 +28,7 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:17|24/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-24T12:17:11.769Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
@@ -250,10 +250,10 @@
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:46|24/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-24T06:23:28.524Z"
+    "roubadaEm": "2026-08-24T12:23:01.909Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",

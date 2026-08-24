@@ -122,10 +122,10 @@
   "..OURO..PR3TO..": {
     "idNumerico": "5",
     "nome": "..OURO..PR3TO..",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:17|24/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-23T10:29:27.478Z"
+    "roubadaEm": "2026-08-24T00:17:28.150Z"
   },
   "/CARIDADE": {
     "idNumerico": "40",
@@ -284,7 +284,7 @@
     "nome": ".",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:09|24/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-24T00:09:42.688Z"
   },
   "RANCHO DO DOUTOR": {

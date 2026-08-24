@@ -23,14 +23,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-21T12:50:46.446Z"
   },
-  "HWD INVESTIMENTOS": {
-    "idNumerico": "27",
-    "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:17|24/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-24T01:17:27.107Z"
-  },
   "FAZENDA ROTA DO CAFÉ": {
     "idNumerico": "17",
     "nome": "Fazenda Rota do Café",
@@ -132,7 +124,7 @@
     "nome": "/caridade",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:50|24/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-24T05:50:26.053Z"
   },
   "RICO LOUCO": {
@@ -314,9 +306,9 @@
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
     "nome": "Wesker_u$MeTraLha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:14|24/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-24T02:07:42.447Z"
   },
   "BARTTT INVESTIMENTOS": {

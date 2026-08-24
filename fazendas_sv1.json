@@ -132,7 +132,7 @@
     "nome": "rico louco",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:29|24/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-24T11:29:34.356Z"
   },
   "FAMILIA KUSH": {
@@ -186,10 +186,10 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:30|24/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-24T03:38:49.300Z"
+    "roubadaEm": "2026-08-24T11:30:09.189Z"
   },
   "DM2 FARM": {
     "idNumerico": "6",

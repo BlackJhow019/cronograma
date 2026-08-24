@@ -28,7 +28,7 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:19|25/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-24T23:19:33.395Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
@@ -138,8 +138,8 @@
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:22|24/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-24T18:22:01.650Z"
   },
@@ -238,14 +238,6 @@
     "disponivelEm": "20:30|24/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-24T18:30:05.058Z"
-  },
-  "CLUBE DA LULUZINHA": {
-    "idNumerico": "8",
-    "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:26|24/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-24T18:26:58.927Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",

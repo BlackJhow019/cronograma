@@ -44,7 +44,7 @@
     "nome": "Norex farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:14|24/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-24T14:14:35.984Z"
   },
   "FAZENDA FELIZ": {
@@ -290,10 +290,10 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:17|24/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-23T22:15:52.936Z"
+    "roubadaEm": "2026-08-24T14:17:14.253Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",

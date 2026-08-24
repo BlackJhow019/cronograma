@@ -106,10 +106,10 @@
   "FAZENDADO 171": {
     "idNumerico": "12",
     "nome": "fazendado 171",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:11|24/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-23T22:52:23.376Z"
+    "roubadaEm": "2026-08-24T13:11:38.751Z"
   },
   "..OURO..PR3TO..": {
     "idNumerico": "5",
@@ -158,22 +158,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-24T07:40:43.063Z"
-  },
-  "PREFEITO ROADBLOCK": {
-    "idNumerico": "41",
-    "nome": "Prefeito Roadblock",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:06|24/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-24T08:06:48.895Z"
-  },
-  "KODIAK": {
-    "idNumerico": "3",
-    "nome": "KodiaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:09|24/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-24T08:09:06.240Z"
   },
   "AZEROX": {
     "idNumerico": "23",

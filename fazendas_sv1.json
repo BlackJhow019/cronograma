@@ -82,9 +82,9 @@
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:56|24/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-24T02:56:44.210Z"
   },
   "RICK FARM'S": {
@@ -110,14 +110,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-23T22:52:23.376Z"
-  },
-  "PLANTAÇÃO DE COCA DO CARTEL DE MEDELLIN": {
-    "idNumerico": "30",
-    "nome": "PLANTAÇÃO DE COCA DO CARTEL DE MEDELLIN",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": null
   },
   "..OURO..PR3TO..": {
     "idNumerico": "5",
@@ -342,5 +334,13 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-23T17:13:17.015Z"
+  },
+  "GRUPO MOBIUS DE EMPREENDIMENTOS LTDA": {
+    "idNumerico": "30",
+    "nome": "GRUPO MOBIUS DE EMPREENDIMENTOS LTDA",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": null
   }
 }

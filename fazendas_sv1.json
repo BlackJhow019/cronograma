@@ -175,14 +175,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-24T00:19:49.376Z"
   },
-  "KODIAK": {
-    "idNumerico": "3",
-    "nome": "KodiaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-24T00:22:25.070Z"
-  },
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
@@ -282,10 +274,10 @@
   ".": {
     "idNumerico": "31",
     "nome": ".",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:23|24/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-24T00:09:42.688Z"
+    "roubadaEm": "2026-08-24T05:23:56.005Z"
   },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",

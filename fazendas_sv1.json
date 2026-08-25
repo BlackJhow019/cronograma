@@ -82,9 +82,9 @@
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:41|25/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-25T12:41:53.573Z"
   },
   "RICK FARM'S": {
@@ -214,14 +214,6 @@
     "disponivelEm": "14:54|25/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-25T12:54:30.628Z"
-  },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:44|25/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-25T12:44:47.514Z"
   },
   "30PRAUM": {
     "idNumerico": "16",

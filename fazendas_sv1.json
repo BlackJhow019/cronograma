@@ -178,10 +178,10 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:25|25/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-25T00:03:18.644Z"
+    "roubadaEm": "2026-08-25T07:25:08.875Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
@@ -262,14 +262,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-22T14:51:29.190Z"
-  },
-  "POLEMICO$ INDUSTRI$": {
-    "idNumerico": "37",
-    "nome": "PoLeMiCo$ industri$",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:23|25/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-25T02:23:31.783Z"
   },
   ".": {
     "idNumerico": "31",

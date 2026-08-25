@@ -27,7 +27,7 @@
     "idNumerico": "27",
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
-    "disponivelEm": "14:09|25/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-25T12:09:57.084Z"
   },
@@ -66,10 +66,10 @@
   "ROUBO OFF": {
     "idNumerico": "7",
     "nome": "roubo off",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:10|25/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-24T14:50:08.915Z"
+    "roubadaEm": "2026-08-25T17:10:13.981Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -316,7 +316,7 @@
     "nome": "pode isso adm?",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:57|25/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-25T16:57:41.384Z"
   },
   "AGROBOY LTDA": {

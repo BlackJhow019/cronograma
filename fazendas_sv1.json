@@ -58,10 +58,10 @@
   "K1NG FARM'S": {
     "idNumerico": "25",
     "nome": "K1NG Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:40|25/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-25T08:45:32.159Z"
+    "roubadaEm": "2026-08-25T16:40:11.135Z"
   },
   "ROUBO OFF": {
     "idNumerico": "7",
@@ -148,7 +148,7 @@
     "nome": "fazendinha do igeze",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:37|25/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-25T16:37:45.102Z"
   },
   "PREFEITO ROADBLOCK": {

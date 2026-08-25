@@ -258,10 +258,10 @@
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:08|25/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-25T11:20:08.432Z"
+    "roubadaEm": "2026-08-25T18:08:55.961Z"
   },
   ".": {
     "idNumerico": "31",

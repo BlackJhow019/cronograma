@@ -299,7 +299,7 @@
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
     "status": "INDISPONIVEL",
-    "disponivelEm": "11:56|25/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-25T09:56:17.328Z"
   },
@@ -330,10 +330,10 @@
   "AGROBOY LTDA": {
     "idNumerico": "44",
     "nome": "AgroBoy LTDA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:39|25/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-25T01:31:18.878Z"
+    "roubadaEm": "2026-08-25T14:56:22.312Z"
   },
   "GRUPO MOBIUS DE EMPREENDIMENTOS LTDA": {
     "idNumerico": "30",

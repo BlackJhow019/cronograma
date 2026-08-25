@@ -13,7 +13,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "04:37|25/08/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-08-25T02:37:32.264Z"
+    "roubadaEm": "2026-08-25T02:37:20.042Z"
   },
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
@@ -130,9 +130,9 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:18|25/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-24T22:18:19.807Z"
   },
   "FAMILIA KUSH": {
@@ -157,7 +157,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "04:46|25/08/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-08-25T02:46:28.961Z"
+    "roubadaEm": "2026-08-25T02:46:28.780Z"
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",

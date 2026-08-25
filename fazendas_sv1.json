@@ -60,7 +60,7 @@
     "nome": "K1NG Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "10:45|25/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-25T08:45:32.159Z"
   },
   "ROUBO OFF": {
@@ -202,10 +202,10 @@
   "< GAUBRE LTDA >": {
     "idNumerico": "35",
     "nome": "< GAUBRE LTDA >",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:36|25/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-24T22:34:48.338Z"
+    "roubadaEm": "2026-08-25T08:55:46.422Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
@@ -299,7 +299,7 @@
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
     "status": "INDISPONIVEL",
-    "disponivelEm": "05:55|25/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-25T03:55:10.399Z"
   },

@@ -90,9 +90,9 @@
   "RICK FARM'S": {
     "idNumerico": "9",
     "nome": "Rick Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:25|25/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-25T04:53:03.931Z"
   },
   "CDM FARM'S": {
@@ -186,8 +186,8 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:24|25/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-25T01:24:50.191Z"
   },

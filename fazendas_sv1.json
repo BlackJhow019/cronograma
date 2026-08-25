@@ -74,10 +74,10 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:24|25/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-25T06:10:03.980Z"
+    "roubadaEm": "2026-08-25T12:26:04.745Z"
   },
   "PENOSO FARM'S": {
     "idNumerico": "10",
@@ -174,14 +174,6 @@
     "disponivelEm": "09:28|25/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-25T07:28:41.919Z"
-  },
-  "AZEROX": {
-    "idNumerico": "23",
-    "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:25|25/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-25T07:25:21.998Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",

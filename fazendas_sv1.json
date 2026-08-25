@@ -60,7 +60,7 @@
     "nome": "K1NG Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:47|25/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-25T21:47:04.242Z"
   },
   "ROUBO OFF": {
@@ -106,10 +106,10 @@
   "..OURO..PR3TO..": {
     "idNumerico": "5",
     "nome": "..OURO..PR3TO..",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:58|25/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-25T14:59:59.388Z"
+    "roubadaEm": "2026-08-25T21:58:43.743Z"
   },
   "/CARIDADE": {
     "idNumerico": "40",
@@ -310,14 +310,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-24T22:28:49.546Z"
-  },
-  "PODE ISSO ADM?": {
-    "idNumerico": "21",
-    "nome": "pode isso adm?",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:57|25/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-25T16:57:41.384Z"
   },
   "AGROBOY LTDA": {
     "idNumerico": "39",

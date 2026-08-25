@@ -178,17 +178,17 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:08|25/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-25T07:25:21.998Z"
+    "roubadaEm": "2026-08-25T14:08:54.849Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:00|25/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-25T14:00:01.615Z"
   },
   "DM2 FARM": {

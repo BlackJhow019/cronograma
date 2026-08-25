@@ -239,6 +239,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-25T15:40:40.660Z"
   },
+  "BORRACHAS FARM": {
+    "idNumerico": "33",
+    "nome": "Borrachas Farm",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-25T15:21:09.408Z"
+  },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
@@ -268,7 +276,7 @@
     "nome": "Rancho do Doutor",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:44|25/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-25T19:44:43.535Z"
   },
   "FAZENDA DA MILLY": {

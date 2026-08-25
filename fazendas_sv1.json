@@ -26,10 +26,10 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:09|25/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-25T05:43:55.300Z"
+    "roubadaEm": "2026-08-25T12:09:38.073Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
     "idNumerico": "17",
@@ -227,7 +227,7 @@
     "idNumerico": "0",
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
-    "disponivelEm": "09:09|25/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-25T07:09:17.949Z"
   },

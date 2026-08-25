@@ -60,7 +60,7 @@
     "nome": "K1NG Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:40|25/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-25T16:40:26.706Z"
   },
   "ROUBO OFF": {
@@ -226,10 +226,10 @@
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:49|25/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-24T18:30:05.058Z"
+    "roubadaEm": "2026-08-25T16:49:41.934Z"
   },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
@@ -278,14 +278,6 @@
     "disponivelEm": "16:02|25/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-25T14:02:08.186Z"
-  },
-  "FAZENDA DA MILLY": {
-    "idNumerico": "19",
-    "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:45|25/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-25T11:45:56.456Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",

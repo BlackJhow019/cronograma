@@ -44,7 +44,7 @@
     "nome": "Norex farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "11:50|25/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-25T09:50:54.585Z"
   },
   "FAZENDA FELIZ": {
@@ -298,10 +298,10 @@
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:55|25/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-25T03:55:10.399Z"
+    "roubadaEm": "2026-08-25T09:55:54.897Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
@@ -324,7 +324,7 @@
     "nome": "pode isso adm?",
     "status": "INDISPONIVEL",
     "disponivelEm": "11:49|25/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-25T09:49:03.972Z"
   },
   "AGROBOY LTDA": {

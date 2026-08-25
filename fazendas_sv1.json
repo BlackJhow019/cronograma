@@ -58,10 +58,10 @@
   "K1NG FARM'S": {
     "idNumerico": "25",
     "nome": "K1NG Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:46|25/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-25T16:40:26.706Z"
+    "roubadaEm": "2026-08-25T21:46:52.076Z"
   },
   "ROUBO OFF": {
     "idNumerico": "7",
@@ -332,7 +332,7 @@
     "nome": "GRUPO MOBIUS DE EMPREENDIMENTOS LTDA",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:40|25/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-25T21:40:07.186Z"
   },
   "VENDE-SE": {

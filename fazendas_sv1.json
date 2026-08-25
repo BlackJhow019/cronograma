@@ -115,7 +115,7 @@
     "idNumerico": "5",
     "nome": "..OURO..PR3TO..",
     "status": "INDISPONIVEL",
-    "disponivelEm": "22:24|24/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-24T20:24:08.526Z"
   },
@@ -186,17 +186,17 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:24|25/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-24T19:15:13.726Z"
+    "roubadaEm": "2026-08-25T01:24:50.191Z"
   },
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:18|25/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-25T01:18:37.494Z"
   },
   "< GAUBRE LTDA >": {

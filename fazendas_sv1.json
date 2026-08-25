@@ -220,7 +220,7 @@
     "nome": "021",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:07|25/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-25T02:07:05.407Z"
   },
   "OS DE RACA": {
@@ -266,10 +266,10 @@
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:23|25/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-24T12:27:30.414Z"
+    "roubadaEm": "2026-08-25T02:23:00.932Z"
   },
   ".": {
     "idNumerico": "31",

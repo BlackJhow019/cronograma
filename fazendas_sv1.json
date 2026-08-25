@@ -28,7 +28,7 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:43|25/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-25T05:43:55.300Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
@@ -74,10 +74,10 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:08|25/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-24T21:46:45.705Z"
+    "roubadaEm": "2026-08-25T06:09:47.273Z"
   },
   "PENOSO FARM'S": {
     "idNumerico": "10",

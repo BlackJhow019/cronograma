@@ -116,7 +116,7 @@
     "nome": "/caridade",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:07|27/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-26T22:07:27.460Z"
   },
   "RICO LOUCO": {
@@ -338,9 +338,9 @@
   "VENDE-SE": {
     "idNumerico": "20",
     "nome": "Vende-Se",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:13|26/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-26T17:13:28.382Z"
   }
 }

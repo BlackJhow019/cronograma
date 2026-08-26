@@ -156,7 +156,7 @@
     "nome": "Prefeito Roadblock",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:20|26/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-26T18:20:50.363Z"
   },
   "KODIAK": {
@@ -226,10 +226,10 @@
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:29|26/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-25T16:49:41.831Z"
+    "roubadaEm": "2026-08-26T18:29:47.738Z"
   },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",

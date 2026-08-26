@@ -138,10 +138,10 @@
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:30|27/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-25T19:49:48.015Z"
+    "roubadaEm": "2026-08-26T22:30:37.368Z"
   },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",

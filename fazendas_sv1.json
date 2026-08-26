@@ -156,7 +156,7 @@
     "nome": "Prefeito Roadblock",
     "status": "INDISPONIVEL",
     "disponivelEm": "11:09|26/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-26T09:09:02.520Z"
   },
   "KODIAK": {
@@ -234,8 +234,8 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:16|26/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-26T04:16:08.363Z"
   },

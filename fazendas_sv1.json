@@ -50,10 +50,10 @@
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:27|26/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-26T03:14:25.158Z"
+    "roubadaEm": "2026-08-26T16:27:30.460Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",
@@ -172,7 +172,7 @@
     "nome": "AzeRoX",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:21|26/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-26T16:21:35.213Z"
   },
   "WORK INDUSTRIA'S LIMITED": {

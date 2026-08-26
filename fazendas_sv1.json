@@ -74,17 +74,17 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:42|26/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-26T06:00:15.265Z"
+    "roubadaEm": "2026-08-26T12:43:58.336Z"
   },
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:36|26/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-26T12:36:36.348Z"
   },
   "RICK FARM'S": {

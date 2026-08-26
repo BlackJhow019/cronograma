@@ -314,9 +314,9 @@
   "PODE ISSO ADM?": {
     "idNumerico": "21",
     "nome": "pode isso adm?",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:10|26/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-26T15:10:38.614Z"
   },
   "AGROBOY LTDA": {
@@ -324,7 +324,7 @@
     "nome": "AgroBoy LTDA",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:51|26/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-26T20:08:00.969Z"
   },
   "GRUPO MOBIUS DE EMPREENDIMENTOS LTDA": {

@@ -338,9 +338,9 @@
   "VENDE-SE": {
     "idNumerico": "20",
     "nome": "Vende-Se",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:13|26/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-25T15:13:19.537Z"
+    "roubadaEm": "2026-08-26T17:13:28.538Z"
   }
 }

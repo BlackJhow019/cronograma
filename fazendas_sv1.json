@@ -124,7 +124,7 @@
     "nome": "rico louco",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:16|26/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-26T14:16:06.136Z"
   },
   "FAMILIA KUSH": {
@@ -234,10 +234,10 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:20|26/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-26T04:16:08.363Z"
+    "roubadaEm": "2026-08-26T14:20:35.218Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",

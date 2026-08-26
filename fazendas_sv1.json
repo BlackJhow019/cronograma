@@ -66,10 +66,10 @@
   "ROUBO OFF": {
     "idNumerico": "7",
     "nome": "roubo off",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:43|26/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-25T17:13:36.763Z"
+    "roubadaEm": "2026-08-26T21:43:03.625Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -252,7 +252,7 @@
     "nome": "Farm's de Cafe",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:31|26/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-26T21:31:14.491Z"
   },
   "POLEMICO$ INDUSTRI$": {

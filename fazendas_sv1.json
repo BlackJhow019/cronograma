@@ -47,14 +47,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-26T12:48:02.842Z"
   },
-  "FAZENDA FELIZ": {
-    "idNumerico": "22",
-    "nome": "fazenda feliz",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:27|26/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-26T16:27:29.546Z"
-  },
   "K1NG FARM'S": {
     "idNumerico": "25",
     "nome": "K1NG Farm's",
@@ -282,10 +274,10 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:29|26/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-26T14:41:16.772Z"
+    "roubadaEm": "2026-08-26T21:29:01.580Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",

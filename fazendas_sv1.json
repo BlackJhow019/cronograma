@@ -74,10 +74,10 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:36|26/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-26T12:44:29.175Z"
+    "roubadaEm": "2026-08-26T18:37:15.222Z"
   },
   "PENOSO FARM'S": {
     "idNumerico": "10",
@@ -204,7 +204,7 @@
     "nome": "YT @GANDIA_RP",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:30|26/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-26T18:30:31.030Z"
   },
   "021": {

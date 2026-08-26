@@ -42,10 +42,10 @@
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:47|26/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-26T05:55:05.553Z"
+    "roubadaEm": "2026-08-26T12:47:45.060Z"
   },
   "FAZENDA FELIZ": {
     "idNumerico": "22",
@@ -76,7 +76,7 @@
     "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:43|26/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-26T12:44:29.175Z"
   },
   "PENOSO FARM'S": {

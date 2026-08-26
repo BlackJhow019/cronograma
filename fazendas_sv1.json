@@ -92,7 +92,7 @@
     "nome": "Rick Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:47|26/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-26T16:14:52.797Z"
   },
   "FAZENDADO 171": {
@@ -210,10 +210,10 @@
   "021": {
     "idNumerico": "1",
     "nome": "021",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:18|26/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-26T06:00:53.393Z"
+    "roubadaEm": "2026-08-26T16:18:18.283Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",

@@ -60,7 +60,7 @@
     "nome": "K1NG Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:56|26/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-26T03:56:45.140Z"
   },
   "ROUBO OFF": {
@@ -234,10 +234,10 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:15|26/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-25T20:58:30.613Z"
+    "roubadaEm": "2026-08-26T04:15:38.982Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",

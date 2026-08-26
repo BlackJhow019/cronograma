@@ -108,8 +108,8 @@
     "nome": "..OURO..PR3TO..",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:14|26/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-26T19:14:47.167Z"
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-26T19:14:21.015Z"
   },
   "/CARIDADE": {
     "idNumerico": "40",
@@ -122,9 +122,9 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:16|26/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-26T14:16:06.136Z"
   },
   "FAMILIA KUSH": {
@@ -133,7 +133,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "21:08|26/08/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-08-26T19:08:49.592Z"
+    "roubadaEm": "2026-08-26T19:08:49.415Z"
   },
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
@@ -245,7 +245,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "20:35|26/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-26T19:11:58.730Z"
+    "roubadaEm": "2026-08-26T19:11:42.656Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",

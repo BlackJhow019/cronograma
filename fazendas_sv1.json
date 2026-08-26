@@ -178,10 +178,10 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:06|26/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-26T09:43:39.074Z"
+    "roubadaEm": "2026-08-26T18:06:41.770Z"
   },
   "DM2 FARM": {
     "idNumerico": "6",
@@ -259,9 +259,9 @@
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
     "status": "INDISPONIVEL",
-    "disponivelEm": "19:52|26/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-26T17:52:19.235Z"
+    "disponivelEm": "19:50|26/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-26T17:50:13.340Z"
   },
   ".": {
     "idNumerico": "31",

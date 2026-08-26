@@ -43,7 +43,7 @@
     "idNumerico": "13",
     "nome": "Norex farm's",
     "status": "INDISPONIVEL",
-    "disponivelEm": "14:48|26/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-26T12:48:02.842Z"
   },
@@ -74,9 +74,9 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-26T12:44:29.175Z"
   },
   "PENOSO FARM'S": {
@@ -85,15 +85,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "19:43|26/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-26T17:43:53.426Z"
-  },
-  "RICK FARM'S": {
-    "idNumerico": "9",
-    "nome": "Rick Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:47|26/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-26T16:14:52.797Z"
+    "roubadaEm": "2026-08-26T17:43:37.857Z"
   },
   "FAZENDADO 171": {
     "idNumerico": "12",

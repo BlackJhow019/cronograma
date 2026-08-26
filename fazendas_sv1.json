@@ -26,10 +26,10 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:02|26/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-26T13:39:46.152Z"
+    "roubadaEm": "2026-08-26T19:02:57.020Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
     "idNumerico": "17",
@@ -77,7 +77,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "20:36|26/08/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-08-26T18:37:29.442Z"
+    "roubadaEm": "2026-08-26T18:37:15.072Z"
   },
   "PENOSO FARM'S": {
     "idNumerico": "10",
@@ -203,9 +203,9 @@
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
     "status": "INDISPONIVEL",
-    "disponivelEm": "20:30|26/08/2026",
+    "disponivelEm": "20:29|26/08/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-08-26T18:30:31.030Z"
+    "roubadaEm": "2026-08-26T18:29:48.138Z"
   },
   "021": {
     "idNumerico": "1",
@@ -227,9 +227,9 @@
     "idNumerico": "16",
     "nome": "30PRAUM",
     "status": "INDISPONIVEL",
-    "disponivelEm": "20:30|26/08/2026",
+    "disponivelEm": "20:29|26/08/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-08-26T18:30:02.277Z"
+    "roubadaEm": "2026-08-26T18:29:47.616Z"
   },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",

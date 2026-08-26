@@ -306,17 +306,17 @@
   "BARTTT INVESTIMENTOS": {
     "idNumerico": "18",
     "nome": "Barttt Investimentos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:17|26/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-26T00:23:58.035Z"
+    "roubadaEm": "2026-08-26T15:17:55.042Z"
   },
   "PODE ISSO ADM?": {
     "idNumerico": "21",
     "nome": "pode isso adm?",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:10|26/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-26T15:10:38.614Z"
   },
   "AGROBOY LTDA": {

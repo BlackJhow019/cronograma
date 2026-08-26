@@ -114,10 +114,10 @@
   "/CARIDADE": {
     "idNumerico": "40",
     "nome": "/caridade",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:07|27/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-25T21:28:29.695Z"
+    "roubadaEm": "2026-08-26T22:07:13.571Z"
   },
   "RICO LOUCO": {
     "idNumerico": "11",
@@ -196,7 +196,7 @@
     "nome": "< GAUBRE LTDA >",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:34|26/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-26T21:54:41.776Z"
   },
   "YT @GANDIA_RP": {
@@ -316,7 +316,7 @@
     "nome": "pode isso adm?",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:54|26/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-26T21:54:12.381Z"
   },
   "AGROBOY LTDA": {

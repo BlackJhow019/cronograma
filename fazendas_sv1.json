@@ -236,7 +236,7 @@
     "nome": "Clube da Luluzinha",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:20|26/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-26T14:20:48.469Z"
   },
   "BORRACHAS FARM": {
@@ -250,10 +250,10 @@
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:30|26/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-25T20:35:04.910Z"
+    "roubadaEm": "2026-08-26T14:30:15.957Z"
   },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",

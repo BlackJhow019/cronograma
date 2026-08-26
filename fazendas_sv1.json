@@ -132,7 +132,7 @@
     "nome": "Familia KuSh",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:08|26/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-26T19:08:49.592Z"
   },
   "GRANJA DO IMONKEY": {
@@ -242,10 +242,10 @@
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:35|26/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-25T15:21:09.408Z"
+    "roubadaEm": "2026-08-26T19:11:42.761Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",

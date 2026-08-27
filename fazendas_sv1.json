@@ -116,7 +116,7 @@
     "nome": "/caridade",
     "status": "INDISPONIVEL",
     "disponivelEm": "09:52|27/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-27T07:52:23.945Z"
   },
   "RICO LOUCO": {
@@ -234,8 +234,8 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:52|27/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-27T02:52:29.304Z"
   },

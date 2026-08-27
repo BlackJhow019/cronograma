@@ -98,8 +98,8 @@
   "FAZENDADO 171": {
     "idNumerico": "12",
     "nome": "fazendado 171",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:13|27/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-27T15:13:51.190Z"
   },
@@ -307,7 +307,7 @@
     "idNumerico": "18",
     "nome": "Barttt Investimentos",
     "status": "INDISPONIVEL",
-    "disponivelEm": "17:16|27/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-27T15:16:39.129Z"
   },

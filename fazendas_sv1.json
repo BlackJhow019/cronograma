@@ -108,7 +108,7 @@
     "nome": "..OURO..PR3TO..",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:28|27/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-27T13:28:25.846Z"
   },
   "/CARIDADE": {
@@ -162,10 +162,10 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:34|27/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-27T05:35:02.309Z"
+    "roubadaEm": "2026-08-27T13:34:24.936Z"
   },
   "AZEROX": {
     "idNumerico": "23",

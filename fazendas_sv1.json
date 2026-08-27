@@ -108,8 +108,8 @@
     "nome": "..OURO..PR3TO..",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:28|27/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-27T05:28:35.417Z"
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-27T05:28:21.741Z"
   },
   "/CARIDADE": {
     "idNumerico": "40",
@@ -155,17 +155,17 @@
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
     "status": "INDISPONIVEL",
-    "disponivelEm": "07:31|27/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-27T05:31:08.981Z"
+    "disponivelEm": "07:30|27/08/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-27T05:30:55.390Z"
   },
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:35|27/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-26T23:30:57.257Z"
+    "roubadaEm": "2026-08-27T05:35:02.309Z"
   },
   "AZEROX": {
     "idNumerico": "23",

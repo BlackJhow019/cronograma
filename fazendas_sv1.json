@@ -68,7 +68,7 @@
     "nome": "roubo off",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:11|27/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-27T14:11:49.859Z"
   },
   "SAO PEDRO 2": {
@@ -114,10 +114,10 @@
   "/CARIDADE": {
     "idNumerico": "40",
     "nome": "/caridade",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:39|27/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-27T07:52:23.945Z"
+    "roubadaEm": "2026-08-27T14:39:42.486Z"
   },
   "RICO LOUCO": {
     "idNumerico": "11",

@@ -12,7 +12,7 @@
     "nome": "Rafha investimentos $",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:35|27/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-27T02:35:12.453Z"
   },
   "VENDO 500KM ACEITO TROCAS": {
@@ -62,14 +62,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-26T21:14:10.501Z"
-  },
-  "ROUBO OFF": {
-    "idNumerico": "7",
-    "nome": "roubo off",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:43|26/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-26T21:43:03.537Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -290,10 +282,10 @@
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:46|27/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-26T21:25:30.996Z"
+    "roubadaEm": "2026-08-27T02:46:43.154Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",

@@ -39,14 +39,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-14T18:14:33.184Z"
   },
-  "NOREX FARM'S": {
-    "idNumerico": "13",
-    "nome": "Norex farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:08|27/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-27T02:08:07.751Z"
-  },
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
@@ -122,10 +114,10 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:11|27/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-27T00:26:47.233Z"
+    "roubadaEm": "2026-08-27T07:11:12.446Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",

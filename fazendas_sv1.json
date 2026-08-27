@@ -194,10 +194,10 @@
   "< GAUBRE LTDA >": {
     "idNumerico": "35",
     "nome": "< GAUBRE LTDA >",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:24|27/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-26T21:54:41.776Z"
+    "roubadaEm": "2026-08-27T03:44:35.036Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
@@ -270,14 +270,6 @@
     "disponivelEm": "02:15|27/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-27T00:15:08.696Z"
-  },
-  "RANCHO DO DOUTOR": {
-    "idNumerico": "14",
-    "nome": "Rancho do Doutor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:42|27/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-26T22:42:47.622Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",

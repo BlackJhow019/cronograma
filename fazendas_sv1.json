@@ -191,14 +191,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-27T01:36:10.379Z"
   },
-  "< GAUBRE LTDA >": {
-    "idNumerico": "35",
-    "nome": "< GAUBRE LTDA >",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:25|27/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-27T16:45:04.882Z"
-  },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
@@ -210,9 +202,9 @@
   "021": {
     "idNumerico": "1",
     "nome": "021",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:24|27/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-27T12:24:32.090Z"
   },
   "OS DE RACA": {

@@ -179,7 +179,7 @@
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
-    "disponivelEm": "10:17|27/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-27T08:17:29.716Z"
   },
@@ -322,10 +322,10 @@
   "AGROBOY LTDA": {
     "idNumerico": "39",
     "nome": "AgroBoy LTDA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:01|27/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-26T20:08:00.969Z"
+    "roubadaEm": "2026-08-27T13:17:34.286Z"
   },
   "GRUPO MOBIUS DE EMPREENDIMENTOS LTDA": {
     "idNumerico": "30",

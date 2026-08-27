@@ -84,7 +84,7 @@
     "nome": "Penoso Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:54|27/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-27T11:54:04.763Z"
   },
   "RICK FARM'S": {
@@ -130,10 +130,10 @@
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:04|27/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-27T01:00:48.691Z"
+    "roubadaEm": "2026-08-27T12:04:47.521Z"
   },
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
@@ -244,7 +244,7 @@
     "nome": "Borrachas Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:12|27/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-27T11:48:51.815Z"
   },
   "FARM'S DE CAFE": {

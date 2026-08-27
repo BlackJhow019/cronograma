@@ -76,7 +76,7 @@
     "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:17|27/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-27T12:18:10.973Z"
   },
   "PENOSO FARM'S": {
@@ -124,7 +124,7 @@
     "nome": "rico louco",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:13|27/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-27T12:13:31.661Z"
   },
   "FAMILIA KUSH": {
@@ -195,7 +195,7 @@
     "idNumerico": "35",
     "nome": "< GAUBRE LTDA >",
     "status": "INDISPONIVEL",
-    "disponivelEm": "09:24|27/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-27T11:43:44.539Z"
   },
@@ -211,9 +211,9 @@
     "idNumerico": "1",
     "nome": "021",
     "status": "INDISPONIVEL",
-    "disponivelEm": "09:22|27/08/2026",
+    "disponivelEm": "14:24|27/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-27T07:22:55.518Z"
+    "roubadaEm": "2026-08-27T12:24:18.483Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",

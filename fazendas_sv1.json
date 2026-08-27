@@ -90,10 +90,10 @@
   "RICK FARM'S": {
     "idNumerico": "9",
     "nome": "Rick Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:22|27/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-27T00:40:49.378Z"
+    "roubadaEm": "2026-08-27T07:49:52.656Z"
   },
   "FAZENDADO 171": {
     "idNumerico": "12",
@@ -204,7 +204,7 @@
     "nome": "YT @GANDIA_RP",
     "status": "INDISPONIVEL",
     "disponivelEm": "09:43|27/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-27T07:43:39.698Z"
   },
   "021": {
@@ -286,14 +286,6 @@
     "disponivelEm": "05:33|27/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-27T03:33:31.189Z"
-  },
-  "FAMILIA ALMANAK": {
-    "idNumerico": "32",
-    "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:46|27/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-27T02:46:43.154Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",

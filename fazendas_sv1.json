@@ -82,10 +82,10 @@
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:30|28/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-27T11:53:50.806Z"
+    "roubadaEm": "2026-08-28T18:30:44.165Z"
   },
   "RICK FARM'S": {
     "idNumerico": "9",
@@ -148,7 +148,7 @@
     "nome": "fazendinha do igeze",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:14|28/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-28T18:14:27.534Z"
   },
   "PREFEITO ROADBLOCK": {

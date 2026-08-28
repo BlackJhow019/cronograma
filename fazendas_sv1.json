@@ -244,16 +244,16 @@
     "nome": "Borrachas Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:58|28/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-28T16:35:31.605Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:43|28/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-27T03:02:41.811Z"
+    "roubadaEm": "2026-08-28T16:43:21.482Z"
   },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",

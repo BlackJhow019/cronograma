@@ -212,7 +212,7 @@
     "nome": "021",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:48|29/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-28T23:48:32.540Z"
   },
   "OS DE RACA": {
@@ -242,10 +242,10 @@
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:19|29/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-28T22:05:10.164Z"
+    "roubadaEm": "2026-08-28T23:56:40.116Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",

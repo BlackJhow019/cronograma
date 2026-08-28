@@ -122,10 +122,10 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:34|28/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-27T12:13:17.962Z"
+    "roubadaEm": "2026-08-28T15:34:07.609Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
@@ -190,14 +190,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-27T01:35:54.148Z"
-  },
-  "< GAUBRE LTDA >": {
-    "idNumerico": "35",
-    "nome": "< GAUBRE LTDA >",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:33|28/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-28T14:53:23.021Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",

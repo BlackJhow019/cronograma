@@ -252,7 +252,7 @@
     "nome": "Farm's de Cafe",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:43|28/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-28T16:43:41.076Z"
   },
   "POLEMICO$ INDUSTRI$": {
@@ -314,10 +314,10 @@
   "PODE ISSO ADM?": {
     "idNumerico": "21",
     "nome": "pode isso adm?",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:17|28/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-27T10:13:05.812Z"
+    "roubadaEm": "2026-08-28T17:17:25.854Z"
   },
   "AGROBOY LTDA": {
     "idNumerico": "44",

@@ -66,8 +66,8 @@
   "ROUBO OFF": {
     "idNumerico": "7",
     "nome": "roubo off",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:24|28/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-28T15:24:50.245Z"
   },
@@ -270,6 +270,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-27T13:58:34.914Z"
+  },
+  "RANCHO DO DOUTOR": {
+    "idNumerico": "14",
+    "nome": "Rancho do Doutor",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-28T15:22:21.003Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",

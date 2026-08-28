@@ -108,7 +108,7 @@
     "nome": "..OURO..PR3TO..",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:32|28/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-28T16:32:07.036Z"
   },
   "/CARIDADE": {
@@ -242,10 +242,10 @@
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:58|28/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-27T11:48:36.100Z"
+    "roubadaEm": "2026-08-28T16:34:51.151Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
@@ -324,7 +324,7 @@
     "nome": "AgroBoy LTDA",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:15|28/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-28T16:31:41.898Z"
   },
   "GRUPO MOBIUS DE EMPREENDIMENTOS LTDA": {

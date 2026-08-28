@@ -1,12 +1,4 @@
 {
-  "NIKE SHOX": {
-    "idNumerico": "42",
-    "nome": "NIKE SHOX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:52|28/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-28T14:59:03.645Z"
-  },
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
     "nome": "Rafha investimentos $",
@@ -167,6 +159,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-28T18:11:13.955Z"
   },
+  "AZEROX": {
+    "idNumerico": "23",
+    "nome": "AzeRoX",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-28T14:50:48.853Z"
+  },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
@@ -276,7 +276,7 @@
     "nome": "Fazenda da Milly",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:51|28/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-28T19:51:58.660Z"
   },
   "FAMILIA ALMANAK": {

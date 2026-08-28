@@ -18,10 +18,10 @@
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
     "nome": "VENDO 500km ACEITO TROCAS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:58|28/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-27T16:46:16.879Z"
+    "roubadaEm": "2026-08-28T17:58:07.080Z"
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
@@ -292,7 +292,7 @@
     "nome": "Familia AlmanaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:24|28/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-28T17:24:53.489Z"
   },
   "WESKER_U$METRALHA": {

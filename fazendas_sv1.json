@@ -28,7 +28,7 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:03|28/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-28T15:03:44.038Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
@@ -76,7 +76,7 @@
     "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:03|28/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-28T15:04:33.128Z"
   },
   "PENOSO FARM'S": {
@@ -220,7 +220,7 @@
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:03|28/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-28T15:03:50.712Z"
   },
   "30PRAUM": {
@@ -274,10 +274,10 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:21|28/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-27T16:34:01.304Z"
+    "roubadaEm": "2026-08-28T15:21:52.910Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",

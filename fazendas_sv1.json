@@ -156,7 +156,7 @@
     "nome": "Prefeito Roadblock",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:47|28/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-28T19:47:53.118Z"
   },
   "KODIAK": {
@@ -167,20 +167,12 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-28T18:11:13.955Z"
   },
-  "AZEROX": {
-    "idNumerico": "23",
-    "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:50|28/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-28T14:50:48.853Z"
-  },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:41|28/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-28T19:41:13.385Z"
   },
   "DM2 FARM": {
@@ -282,10 +274,10 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:51|28/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-28T14:42:13.521Z"
+    "roubadaEm": "2026-08-28T19:51:43.140Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",

@@ -164,7 +164,7 @@
     "nome": "KodiaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:30|29/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-28T23:30:50.738Z"
   },
   "AZEROX": {
@@ -202,10 +202,10 @@
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:35|29/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-28T15:41:21.984Z"
+    "roubadaEm": "2026-08-28T23:35:12.796Z"
   },
   "021": {
     "idNumerico": "1",
@@ -324,7 +324,7 @@
     "nome": "AgroBoy LTDA",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:12|29/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-28T23:29:16.231Z"
   },
   "GRUPO MOBIUS DE EMPREENDIMENTOS LTDA": {

@@ -236,7 +236,7 @@
     "nome": "Clube da Luluzinha",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:18|29/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-28T23:18:24.512Z"
   },
   "BORRACHAS FARM": {
@@ -322,10 +322,10 @@
   "AGROBOY LTDA": {
     "idNumerico": "44",
     "nome": "AgroBoy LTDA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:12|29/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-28T22:16:26.717Z"
+    "roubadaEm": "2026-08-28T23:29:03.565Z"
   },
   "GRUPO MOBIUS DE EMPREENDIMENTOS LTDA": {
     "idNumerico": "30",

@@ -196,7 +196,7 @@
     "nome": "< GAUBRE LTDA >",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:21|28/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-28T23:41:33.932Z"
   },
   "YT @GANDIA_RP": {
@@ -210,10 +210,10 @@
   "021": {
     "idNumerico": "1",
     "nome": "021",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:48|29/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-28T19:08:38.600Z"
+    "roubadaEm": "2026-08-28T23:48:32.540Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",

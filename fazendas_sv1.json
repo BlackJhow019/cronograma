@@ -82,9 +82,9 @@
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:03|29/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-29T05:03:01.750Z"
   },
   "RICK FARM'S": {
@@ -134,14 +134,6 @@
     "disponivelEm": "07:17|29/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-29T05:17:09.939Z"
-  },
-  "GRANJA DO IMONKEY": {
-    "idNumerico": "29",
-    "nome": "Granja do iMonKeY",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:06|29/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-29T05:06:43.075Z"
   },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",

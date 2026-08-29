@@ -106,10 +106,10 @@
   "..OURO..PR3TO..": {
     "idNumerico": "5",
     "nome": "..OURO..PR3TO..",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:39|29/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-29T08:39:33.498Z"
+    "roubadaEm": "2026-08-29T16:39:36.168Z"
   },
   "/CARIDADE": {
     "idNumerico": "40",
@@ -334,13 +334,5 @@
     "disponivelEm": "17:09|29/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-29T15:09:57.258Z"
-  },
-  "GRUPO SANTINO DE EMPREENDIMENTOS LTDA": {
-    "idNumerico": "30",
-    "nome": "GRUPO SANTINO DE EMPREENDIMENTOS LTDA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:38|29/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-29T11:38:22.246Z"
   }
 }

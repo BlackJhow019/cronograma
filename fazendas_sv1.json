@@ -162,10 +162,10 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:58|30/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-29T18:33:37.474Z"
+    "roubadaEm": "2026-08-29T23:58:12.002Z"
   },
   "AZEROX": {
     "idNumerico": "23",
@@ -190,6 +190,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-29T17:05:48.109Z"
+  },
+  "< GAUBRE LTDA >": {
+    "idNumerico": "35",
+    "nome": "< GAUBRE LTDA >",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-29T22:54:07.522Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
@@ -228,7 +236,7 @@
     "nome": "Clube da Luluzinha",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:35|30/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-29T23:35:13.985Z"
   },
   "BORRACHAS FARM": {

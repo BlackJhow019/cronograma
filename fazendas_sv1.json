@@ -84,7 +84,7 @@
     "nome": "Penoso Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:03|29/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-29T05:03:01.750Z"
   },
   "RICK FARM'S": {
@@ -140,7 +140,7 @@
     "nome": "Granja do iMonKeY",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:06|29/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-29T05:06:43.075Z"
   },
   "FAZENDINHA DO IGEZE": {
@@ -164,7 +164,7 @@
     "nome": "KodiaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:08|29/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-29T05:08:49.203Z"
   },
   "AZEROX": {
@@ -274,10 +274,10 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:16|29/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-28T23:23:46.988Z"
+    "roubadaEm": "2026-08-29T05:16:31.580Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
@@ -286,14 +286,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-29T00:02:34.721Z"
-  },
-  "FAMILIA ALMANAK": {
-    "idNumerico": "32",
-    "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:14|29/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-29T00:14:57.742Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",

@@ -159,14 +159,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-29T18:58:31.306Z"
   },
-  "KODIAK": {
-    "idNumerico": "3",
-    "nome": "KodiaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:33|29/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-29T18:33:37.474Z"
-  },
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
@@ -195,7 +187,7 @@
     "idNumerico": "35",
     "nome": "< GAUBRE LTDA >",
     "status": "INDISPONIVEL",
-    "disponivelEm": "20:34|29/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-29T22:54:07.522Z"
   },
@@ -234,10 +226,10 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:35|30/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-29T18:14:29.687Z"
+    "roubadaEm": "2026-08-29T23:35:02.138Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -252,7 +244,7 @@
     "nome": "Farm's de Cafe",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:29|30/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-29T23:29:00.093Z"
   },
   "POLEMICO$ INDUSTRI$": {

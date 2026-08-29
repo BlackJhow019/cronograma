@@ -124,7 +124,7 @@
     "nome": "rico louco",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:43|29/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-29T15:43:25.041Z"
   },
   "FAMILIA KUSH": {
@@ -314,9 +314,9 @@
   "PODE ISSO ADM?": {
     "idNumerico": "21",
     "nome": "pode isso adm?",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:59|29/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-29T10:59:42.268Z"
   },
   "AGROBOY LTDA": {

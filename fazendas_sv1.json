@@ -156,7 +156,7 @@
     "nome": "Prefeito Roadblock",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:24|29/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-29T12:24:21.298Z"
   },
   "KODIAK": {
@@ -178,10 +178,10 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:27|29/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-29T06:12:34.579Z"
+    "roubadaEm": "2026-08-29T12:27:11.095Z"
   },
   "DM2 FARM": {
     "idNumerico": "6",

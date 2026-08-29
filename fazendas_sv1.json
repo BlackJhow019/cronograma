@@ -28,7 +28,7 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:18|29/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-29T20:18:08.640Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
@@ -148,7 +148,7 @@
     "nome": "fazendinha do igeze",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:19|29/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-29T20:19:58.685Z"
   },
   "PREFEITO ROADBLOCK": {
@@ -242,10 +242,10 @@
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:49|29/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-29T15:21:11.049Z"
+    "roubadaEm": "2026-08-29T20:26:29.199Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",

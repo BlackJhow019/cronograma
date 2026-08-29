@@ -132,7 +132,7 @@
     "nome": "Familia KuSh",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:39|29/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-29T10:39:24.626Z"
   },
   "GRANJA DO IMONKEY": {
@@ -314,10 +314,10 @@
   "PODE ISSO ADM?": {
     "idNumerico": "21",
     "nome": "pode isso adm?",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:59|29/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-28T17:17:43.422Z"
+    "roubadaEm": "2026-08-29T10:59:26.102Z"
   },
   "AGROBOY LTDA": {
     "idNumerico": "39",

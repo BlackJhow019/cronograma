@@ -28,7 +28,7 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:23|29/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-29T10:23:03.406Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
@@ -74,10 +74,10 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:32|29/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-29T04:02:38.889Z"
+    "roubadaEm": "2026-08-29T10:33:40.145Z"
   },
   "PENOSO FARM'S": {
     "idNumerico": "10",
@@ -204,7 +204,7 @@
     "nome": "YT @GANDIA_RP",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:22|29/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-29T10:22:21.591Z"
   },
   "021": {
@@ -283,7 +283,7 @@
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
     "status": "INDISPONIVEL",
-    "disponivelEm": "07:33|29/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-29T05:33:33.597Z"
   },

@@ -212,7 +212,7 @@
     "nome": "021",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:11|29/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-29T18:11:19.797Z"
   },
   "OS DE RACA": {
@@ -234,10 +234,10 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:14|29/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-29T13:04:20.320Z"
+    "roubadaEm": "2026-08-29T18:14:17.778Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",

@@ -76,7 +76,7 @@
     "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:31|29/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-29T17:32:57.238Z"
   },
   "PENOSO FARM'S": {
@@ -194,10 +194,10 @@
   "< GAUBRE LTDA >": {
     "idNumerico": "35",
     "nome": "< GAUBRE LTDA >",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:19|29/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-29T12:29:56.173Z"
+    "roubadaEm": "2026-08-29T17:39:34.577Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",

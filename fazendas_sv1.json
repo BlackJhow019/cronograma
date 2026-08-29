@@ -180,7 +180,7 @@
     "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:27|29/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-29T12:27:30.200Z"
   },
   "DM2 FARM": {
@@ -194,10 +194,10 @@
   "< GAUBRE LTDA >": {
     "idNumerico": "2",
     "nome": "< GAUBRE LTDA >",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:10|29/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-29T09:04:06.229Z"
+    "roubadaEm": "2026-08-29T12:29:56.284Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",

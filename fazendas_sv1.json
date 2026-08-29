@@ -170,9 +170,9 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:12|29/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-29T16:12:44.237Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
@@ -318,14 +318,6 @@
     "disponivelEm": "19:22|29/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-29T17:22:44.621Z"
-  },
-  "AGROBOY LTDA": {
-    "idNumerico": "44",
-    "nome": "AgroBoy LTDA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:13|29/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-29T17:29:59.669Z"
   },
   "VENDE-SE": {
     "idNumerico": "20",

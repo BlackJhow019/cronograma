@@ -4,7 +4,7 @@
     "nome": "NIKE SHOX",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:41|29/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-29T13:47:36.517Z"
   },
   "RAFHA INVESTIMENTOS $": {
@@ -66,10 +66,10 @@
   "ROUBO OFF": {
     "idNumerico": "7",
     "nome": "roubo off",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:57|29/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-28T15:24:50.245Z"
+    "roubadaEm": "2026-08-29T13:57:58.878Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -148,7 +148,7 @@
     "nome": "fazendinha do igeze",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:39|29/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-29T13:39:12.211Z"
   },
   "PREFEITO ROADBLOCK": {

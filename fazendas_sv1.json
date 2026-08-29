@@ -108,7 +108,7 @@
     "nome": "..OURO..PR3TO..",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:40|29/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-29T16:40:10.401Z"
   },
   "/CARIDADE": {
@@ -220,7 +220,7 @@
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:40|29/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-29T16:40:07.454Z"
   },
   "30PRAUM": {
@@ -320,11 +320,11 @@
     "roubadaEm": "2026-08-29T10:59:42.268Z"
   },
   "AGROBOY LTDA": {
-    "idNumerico": "39",
+    "idNumerico": "44",
     "nome": "AgroBoy LTDA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:53|29/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-29T13:10:20.818Z"
   },
   "VENDE-SE": {
@@ -334,5 +334,13 @@
     "disponivelEm": "17:09|29/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-29T15:09:57.258Z"
+  },
+  "GRUPO SANTINO DE EMPREENDIMENTOS LTDA": {
+    "idNumerico": "30",
+    "nome": "GRUPO SANTINO DE EMPREENDIMENTOS LTDA",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-29T11:38:22.246Z"
   }
 }

@@ -122,10 +122,10 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:31|29/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-28T23:18:52.704Z"
+    "roubadaEm": "2026-08-29T04:31:59.915Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
@@ -158,14 +158,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-28T19:47:53.118Z"
-  },
-  "KODIAK": {
-    "idNumerico": "3",
-    "nome": "KodiaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:30|29/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-28T23:30:50.738Z"
   },
   "AZEROX": {
     "idNumerico": "23",

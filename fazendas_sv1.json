@@ -330,10 +330,10 @@
   "VENDE-SE": {
     "idNumerico": "20",
     "nome": "Vende-Se",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:14|29/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-29T15:09:57.258Z"
+    "roubadaEm": "2026-08-29T20:14:58.045Z"
   },
   "GRUPO SANTINO DE EMPREENDIMENTOS LTDA": {
     "idNumerico": "30",

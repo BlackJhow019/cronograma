@@ -10,10 +10,10 @@
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
     "nome": "Rafha investimentos $",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:30|29/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-27T02:35:00.377Z"
+    "roubadaEm": "2026-08-29T19:30:10.685Z"
   },
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
@@ -276,7 +276,7 @@
     "nome": "Rancho do Doutor",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:18|29/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-29T19:18:45.374Z"
   },
   "FAZENDA DA MILLY": {

@@ -228,7 +228,7 @@
     "nome": "30PRAUM",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:20|29/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-29T14:20:56.548Z"
   },
   "CLUBE DA LULUZINHA": {
@@ -290,10 +290,10 @@
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:31|29/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-29T08:26:23.232Z"
+    "roubadaEm": "2026-08-29T14:31:36.412Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",

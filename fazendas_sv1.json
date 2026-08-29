@@ -84,7 +84,7 @@
     "nome": "Penoso Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:19|30/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-29T23:19:09.169Z"
   },
   "RICK FARM'S": {
@@ -250,10 +250,10 @@
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:29|30/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-28T16:43:41.076Z"
+    "roubadaEm": "2026-08-29T23:29:00.093Z"
   },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",

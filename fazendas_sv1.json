@@ -228,7 +228,7 @@
     "nome": "30PRAUM",
     "status": "INDISPONIVEL",
     "disponivelEm": "10:07|29/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-29T08:07:52.671Z"
   },
   "CLUBE DA LULUZINHA": {
@@ -258,10 +258,10 @@
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:11|29/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-27T16:45:44.941Z"
+    "roubadaEm": "2026-08-29T08:11:01.447Z"
   },
   ".": {
     "idNumerico": "31",

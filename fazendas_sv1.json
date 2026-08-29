@@ -92,7 +92,7 @@
     "nome": "Rick Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:44|29/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-29T06:12:17.281Z"
   },
   "FAZENDADO 171": {
@@ -154,10 +154,10 @@
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:57|29/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-28T19:47:53.118Z"
+    "roubadaEm": "2026-08-29T06:57:59.429Z"
   },
   "KODIAK": {
     "idNumerico": "3",

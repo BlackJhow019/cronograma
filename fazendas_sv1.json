@@ -244,7 +244,7 @@
     "nome": "Borrachas Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:20|29/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-28T23:56:51.490Z"
   },
   "FARM'S DE CAFE": {
@@ -327,14 +327,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-28T23:29:16.231Z"
   },
-  "GRUPO MOBIUS DE EMPREENDIMENTOS LTDA": {
-    "idNumerico": "30",
-    "nome": "GRUPO MOBIUS DE EMPREENDIMENTOS LTDA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-25T21:40:07.186Z"
-  },
   "VENDE-SE": {
     "idNumerico": "20",
     "nome": "Vende-Se",
@@ -342,5 +334,13 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-28T18:12:16.956Z"
+  },
+  "GRUPO SANTINO DE EMPREENDIMENTOS LTDA": {
+    "idNumerico": "30",
+    "nome": "GRUPO SANTINO DE EMPREENDIMENTOS LTDA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:02|29/08/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-29T00:02:15.587Z"
   }
 }

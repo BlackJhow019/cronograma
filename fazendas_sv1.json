@@ -130,10 +130,10 @@
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:26|29/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-29T10:39:24.626Z"
+    "roubadaEm": "2026-08-29T16:26:55.253Z"
   },
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
@@ -172,7 +172,7 @@
     "nome": "AzeRoX",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:12|29/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-29T16:12:44.237Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
@@ -340,7 +340,7 @@
     "nome": "GRUPO SANTINO DE EMPREENDIMENTOS LTDA",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:38|29/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-29T11:38:22.246Z"
   }
 }

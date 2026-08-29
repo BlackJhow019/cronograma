@@ -106,10 +106,10 @@
   "..OURO..PR3TO..": {
     "idNumerico": "5",
     "nome": "..OURO..PR3TO..",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:30|30/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-29T16:40:10.401Z"
+    "roubadaEm": "2026-08-29T22:30:08.028Z"
   },
   "/CARIDADE": {
     "idNumerico": "40",
@@ -179,7 +179,7 @@
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
-    "disponivelEm": "19:29|29/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-29T17:29:35.409Z"
   },

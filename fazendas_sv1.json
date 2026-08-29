@@ -42,10 +42,10 @@
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:06|29/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-29T00:48:04.099Z"
+    "roubadaEm": "2026-08-29T06:06:54.356Z"
   },
   "FAZENDA FELIZ": {
     "idNumerico": "22",
@@ -194,9 +194,9 @@
   "< GAUBRE LTDA >": {
     "idNumerico": "35",
     "nome": "< GAUBRE LTDA >",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:04|29/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-29T05:24:12.767Z"
   },
   "YT @GANDIA_RP": {
@@ -244,7 +244,7 @@
     "nome": "Borrachas Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:16|29/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-29T05:53:17.447Z"
   },
   "FARM'S DE CAFE": {

@@ -84,7 +84,7 @@
     "nome": "Penoso Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:14|29/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-29T12:14:00.239Z"
   },
   "RICK FARM'S": {
@@ -154,10 +154,10 @@
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:24|29/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-29T06:58:34.199Z"
+    "roubadaEm": "2026-08-29T12:24:03.255Z"
   },
   "KODIAK": {
     "idNumerico": "3",

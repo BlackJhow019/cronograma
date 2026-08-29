@@ -148,7 +148,7 @@
     "nome": "fazendinha do igeze",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:50|29/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-29T00:50:12.036Z"
   },
   "PREFEITO ROADBLOCK": {
@@ -226,10 +226,10 @@
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:54|29/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-28T22:29:44.416Z"
+    "roubadaEm": "2026-08-29T00:54:40.492Z"
   },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",

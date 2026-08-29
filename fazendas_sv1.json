@@ -234,9 +234,9 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:14|29/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-29T18:14:29.687Z"
   },
   "BORRACHAS FARM": {
@@ -324,7 +324,7 @@
     "nome": "AgroBoy LTDA",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:56|29/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-29T23:13:08.810Z"
   },
   "VENDE-SE": {

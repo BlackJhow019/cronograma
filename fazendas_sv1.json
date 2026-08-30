@@ -170,10 +170,10 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:58|30/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-30T04:46:25.247Z"
+    "roubadaEm": "2026-08-30T09:58:38.060Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
@@ -230,14 +230,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-30T01:36:39.442Z"
-  },
-  "CLUBE DA LULUZINHA": {
-    "idNumerico": "8",
-    "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:57|30/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-30T04:57:06.493Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",

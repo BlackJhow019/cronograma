@@ -154,9 +154,9 @@
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:58|29/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-29T18:58:31.306Z"
   },
   "KODIAK": {
@@ -164,8 +164,8 @@
     "nome": "KodiaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:58|30/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-29T23:58:12.002Z"
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-29T23:58:25.011Z"
   },
   "AZEROX": {
     "idNumerico": "23",

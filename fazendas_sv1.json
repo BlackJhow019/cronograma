@@ -108,7 +108,7 @@
     "nome": "..OURO..PR3TO..",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:43|30/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-30T14:43:15.266Z"
   },
   "/CARIDADE": {
@@ -242,10 +242,10 @@
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:15|30/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-29T20:26:42.249Z"
+    "roubadaEm": "2026-08-30T14:51:56.849Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",

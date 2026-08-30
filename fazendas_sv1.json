@@ -106,10 +106,10 @@
   "..OURO..PR3TO..": {
     "idNumerico": "5",
     "nome": "..OURO..PR3TO..",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:42|30/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-29T22:30:07.923Z"
+    "roubadaEm": "2026-08-30T14:42:57.483Z"
   },
   "/CARIDADE": {
     "idNumerico": "40",
@@ -228,7 +228,7 @@
     "nome": "30PRAUM",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:39|30/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-30T14:39:26.383Z"
   },
   "CLUBE DA LULUZINHA": {

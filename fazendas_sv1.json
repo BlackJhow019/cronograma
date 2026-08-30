@@ -42,8 +42,8 @@
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:13|29/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-29T20:13:12.480Z"
   },
@@ -308,7 +308,7 @@
     "nome": "Barttt Investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:10|30/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-30T01:10:00.998Z"
   },
   "PODE ISSO ADM?": {
@@ -330,8 +330,8 @@
   "VENDE-SE": {
     "idNumerico": "20",
     "nome": "Vende-Se",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:14|29/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-29T20:14:58.045Z"
   },

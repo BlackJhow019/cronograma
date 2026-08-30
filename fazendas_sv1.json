@@ -178,10 +178,10 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:36|30/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-29T22:51:32.826Z"
+    "roubadaEm": "2026-08-30T04:36:49.806Z"
   },
   "DM2 FARM": {
     "idNumerico": "6",
@@ -230,14 +230,6 @@
     "disponivelEm": "03:36|30/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-30T01:36:39.442Z"
-  },
-  "CLUBE DA LULUZINHA": {
-    "idNumerico": "8",
-    "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:35|30/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-29T23:35:13.985Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",

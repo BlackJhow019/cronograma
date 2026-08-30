@@ -93,7 +93,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "00:58|30/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-30T02:26:34.154Z"
+    "roubadaEm": "2026-08-30T02:26:34.042Z"
   },
   "FAZENDADO 171": {
     "idNumerico": "12",
@@ -274,10 +274,10 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:26|30/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-29T19:18:45.374Z"
+    "roubadaEm": "2026-08-30T02:26:42.577Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
@@ -300,8 +300,8 @@
     "nome": "Wesker_u$MeTraLha",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:31|30/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-30T02:24:46.471Z"
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-30T02:24:32.007Z"
   },
   "BARTTT INVESTIMENTOS": {
     "idNumerico": "18",

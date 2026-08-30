@@ -79,14 +79,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-30T19:47:44.646Z"
   },
-  "PENOSO FARM'S": {
-    "idNumerico": "10",
-    "nome": "Penoso Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:17|30/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-30T18:17:04.282Z"
-  },
   "RICK FARM'S": {
     "idNumerico": "9",
     "nome": "Rick Farm's",
@@ -130,10 +122,10 @@
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:19|31/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-30T15:05:12.602Z"
+    "roubadaEm": "2026-08-30T23:19:43.916Z"
   },
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",

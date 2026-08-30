@@ -100,7 +100,7 @@
     "nome": "fazendado 171",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:13|30/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-30T14:13:47.453Z"
   },
   "..OURO..PR3TO..": {
@@ -274,10 +274,10 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:18|30/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-30T02:26:42.577Z"
+    "roubadaEm": "2026-08-30T14:18:01.275Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",

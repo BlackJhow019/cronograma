@@ -26,10 +26,10 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:38|30/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-30T15:29:37.058Z"
+    "roubadaEm": "2026-08-30T20:38:43.130Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
     "idNumerico": "17",
@@ -171,7 +171,7 @@
     "idNumerico": "23",
     "nome": "AzeRoX",
     "status": "INDISPONIVEL",
-    "disponivelEm": "17:38|30/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-30T15:38:30.529Z"
   },

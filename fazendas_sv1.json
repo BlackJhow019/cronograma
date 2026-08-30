@@ -45,7 +45,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "21:00|30/08/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-08-30T19:00:40.013Z"
+    "roubadaEm": "2026-08-30T19:00:23.083Z"
   },
   "FAZENDA FELIZ": {
     "idNumerico": "22",
@@ -94,6 +94,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-30T15:06:13.855Z"
+  },
+  "FAZENDADO 171": {
+    "idNumerico": "12",
+    "nome": "fazendado 171",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-30T14:13:47.453Z"
   },
   "..OURO..PR3TO..": {
     "idNumerico": "5",
@@ -235,7 +243,7 @@
     "idNumerico": "33",
     "nome": "Borrachas Farm",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:16|30/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-30T14:53:26.118Z"
   },
@@ -285,7 +293,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "21:07|30/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-30T19:07:44.139Z"
+    "roubadaEm": "2026-08-30T19:07:31.593Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",

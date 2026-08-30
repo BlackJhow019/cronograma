@@ -114,10 +114,10 @@
   "/CARIDADE": {
     "idNumerico": "40",
     "nome": "/caridade",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:57|30/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-30T02:49:33.434Z"
+    "roubadaEm": "2026-08-30T18:57:30.623Z"
   },
   "RICO LOUCO": {
     "idNumerico": "11",
@@ -278,22 +278,6 @@
     "disponivelEm": "16:18|30/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-30T14:18:48.816Z"
-  },
-  "FAZENDA DA MILLY": {
-    "idNumerico": "19",
-    "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:56|30/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-30T13:56:30.295Z"
-  },
-  "FAMILIA ALMANAK": {
-    "idNumerico": "32",
-    "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:55|30/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-30T13:55:57.711Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",

@@ -130,10 +130,10 @@
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:05|30/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-30T02:44:48.620Z"
+    "roubadaEm": "2026-08-30T15:05:12.664Z"
   },
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
@@ -142,14 +142,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-29T19:44:09.674Z"
-  },
-  "FAZENDINHA DO IGEZE": {
-    "idNumerico": "36",
-    "nome": "fazendinha do igeze",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:04|30/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-30T10:04:38.334Z"
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",

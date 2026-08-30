@@ -90,10 +90,10 @@
   "RICK FARM'S": {
     "idNumerico": "9",
     "nome": "Rick Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:38|30/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-30T02:26:34.042Z"
+    "roubadaEm": "2026-08-30T15:06:13.991Z"
   },
   "FAZENDADO 171": {
     "idNumerico": "12",
@@ -132,7 +132,7 @@
     "nome": "Familia KuSh",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:05|30/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-30T15:05:12.664Z"
   },
   "GRANJA DO IMONKEY": {

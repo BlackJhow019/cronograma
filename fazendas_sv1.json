@@ -138,8 +138,8 @@
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:18|30/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-30T15:18:35.556Z"
   },
@@ -212,7 +212,7 @@
     "nome": "021",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:04|30/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-30T20:04:30.371Z"
   },
   "OS DE RACA": {

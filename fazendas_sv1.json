@@ -250,10 +250,10 @@
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:01|30/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-29T23:29:00.093Z"
+    "roubadaEm": "2026-08-30T14:01:05.866Z"
   },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
@@ -284,7 +284,7 @@
     "nome": "Fazenda da Milly",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:56|30/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-30T13:56:30.295Z"
   },
   "FAMILIA ALMANAK": {

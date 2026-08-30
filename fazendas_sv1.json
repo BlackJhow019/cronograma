@@ -84,7 +84,7 @@
     "nome": "Penoso Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:17|30/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-30T18:17:04.282Z"
   },
   "RICK FARM'S": {
@@ -322,10 +322,10 @@
   "AGROBOY LTDA": {
     "idNumerico": "39",
     "nome": "AgroBoy LTDA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:51|30/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-30T12:59:16.963Z"
+    "roubadaEm": "2026-08-30T18:23:17.463Z"
   },
   "VENDE-SE": {
     "idNumerico": "20",

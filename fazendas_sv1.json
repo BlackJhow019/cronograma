@@ -172,7 +172,7 @@
     "nome": "AzeRoX",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:36|30/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-30T21:36:01.008Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
@@ -306,10 +306,18 @@
   "BARTTT INVESTIMENTOS": {
     "idNumerico": "18",
     "nome": "Barttt Investimentos",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-30T16:35:38.588Z"
+  },
+  "PODE ISSO ADM?": {
+    "idNumerico": "21",
+    "nome": "pode isso adm?",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-30T16:34:53.760Z"
   },
   "AGROBOY LTDA": {
     "idNumerico": "39",

@@ -162,9 +162,9 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:30|30/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-30T05:30:01.638Z"
   },
   "AZEROX": {
@@ -316,7 +316,7 @@
     "nome": "pode isso adm?",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:29|30/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-30T10:29:56.887Z"
   },
   "AGROBOY LTDA": {

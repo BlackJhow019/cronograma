@@ -3,7 +3,7 @@
     "idNumerico": "42",
     "nome": "NIKE SHOX",
     "status": "INDISPONIVEL",
-    "disponivelEm": "17:03|30/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-30T15:09:50.226Z"
   },
@@ -210,10 +210,10 @@
   "021": {
     "idNumerico": "1",
     "nome": "021",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:04|30/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-30T14:57:43.150Z"
+    "roubadaEm": "2026-08-30T20:04:10.372Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",

@@ -74,10 +74,10 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:46|30/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-30T14:23:00.532Z"
+    "roubadaEm": "2026-08-30T19:47:32.262Z"
   },
   "PENOSO FARM'S": {
     "idNumerico": "10",
@@ -102,14 +102,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-30T14:13:47.453Z"
-  },
-  "..OURO..PR3TO..": {
-    "idNumerico": "5",
-    "nome": "..OURO..PR3TO..",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:43|30/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-30T14:43:15.266Z"
   },
   "/CARIDADE": {
     "idNumerico": "40",

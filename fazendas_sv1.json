@@ -95,14 +95,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-30T15:06:13.855Z"
   },
-  "FAZENDADO 171": {
-    "idNumerico": "12",
-    "nome": "fazendado 171",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:13|30/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-30T14:13:47.453Z"
-  },
   "..OURO..PR3TO..": {
     "idNumerico": "5",
     "nome": "..OURO..PR3TO..",
@@ -186,9 +178,9 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:12|30/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-30T14:12:43.010Z"
   },
   "< GAUBRE LTDA >": {

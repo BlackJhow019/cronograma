@@ -52,7 +52,7 @@
     "nome": "fazenda feliz",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:27|30/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-30T16:27:56.136Z"
   },
   "K1NG FARM'S": {
@@ -314,10 +314,10 @@
   "PODE ISSO ADM?": {
     "idNumerico": "21",
     "nome": "pode isso adm?",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:33|30/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-30T10:29:40.140Z"
+    "roubadaEm": "2026-08-30T16:33:22.459Z"
   },
   "AGROBOY LTDA": {
     "idNumerico": "39",

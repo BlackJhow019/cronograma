@@ -90,9 +90,9 @@
   "RICK FARM'S": {
     "idNumerico": "9",
     "nome": "Rick Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:38|30/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-30T15:06:13.855Z"
   },
   "FAZENDADO 171": {
@@ -308,7 +308,7 @@
     "nome": "Barttt Investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:35|30/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-30T16:35:38.588Z"
   },
   "PODE ISSO ADM?": {
@@ -316,7 +316,7 @@
     "nome": "pode isso adm?",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:34|30/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-30T16:34:53.760Z"
   },
   "AGROBOY LTDA": {

@@ -239,14 +239,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-29T23:35:13.985Z"
   },
-  "BORRACHAS FARM": {
-    "idNumerico": "33",
-    "nome": "Borrachas Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:50|29/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-29T20:26:42.249Z"
-  },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
@@ -290,9 +282,9 @@
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:48|29/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-29T19:48:16.825Z"
   },
   "WESKER_U$METRALHA": {

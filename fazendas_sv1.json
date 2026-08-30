@@ -140,7 +140,7 @@
     "nome": "Granja do iMonKeY",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:11|30/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-30T21:11:11.216Z"
   },
   "FAZENDINHA DO IGEZE": {
@@ -178,10 +178,10 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:16|30/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-30T16:06:07.537Z"
+    "roubadaEm": "2026-08-30T21:16:08.545Z"
   },
   "DM2 FARM": {
     "idNumerico": "6",

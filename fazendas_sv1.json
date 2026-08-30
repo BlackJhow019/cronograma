@@ -106,10 +106,10 @@
   "..OURO..PR3TO..": {
     "idNumerico": "5",
     "nome": "..OURO..PR3TO..",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:26|30/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-30T14:43:15.266Z"
+    "roubadaEm": "2026-08-30T20:26:20.886Z"
   },
   "/CARIDADE": {
     "idNumerico": "40",
@@ -204,7 +204,7 @@
     "nome": "YT @GANDIA_RP",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:24|30/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-30T20:24:40.600Z"
   },
   "021": {

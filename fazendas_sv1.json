@@ -23,14 +23,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-28T17:58:07.080Z"
   },
-  "HWD INVESTIMENTOS": {
-    "idNumerico": "27",
-    "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:18|29/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-29T20:18:08.640Z"
-  },
   "FAZENDA ROTA DO CAFÉ": {
     "idNumerico": "17",
     "nome": "Fazenda Rota do Café",
@@ -330,10 +322,10 @@
   "VENDE-SE": {
     "idNumerico": "20",
     "nome": "Vende-Se",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:19|30/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-29T20:14:58.045Z"
+    "roubadaEm": "2026-08-30T01:19:52.260Z"
   },
   "GRUPO SANTINO DE EMPREENDIMENTOS LTDA": {
     "idNumerico": "30",

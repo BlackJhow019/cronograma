@@ -130,10 +130,10 @@
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:44|30/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-29T21:30:33.198Z"
+    "roubadaEm": "2026-08-30T02:44:48.770Z"
   },
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
@@ -219,7 +219,7 @@
     "idNumerico": "0",
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
-    "disponivelEm": "23:44|29/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-29T21:44:21.591Z"
   },

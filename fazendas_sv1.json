@@ -66,8 +66,8 @@
   "ROUBO OFF": {
     "idNumerico": "7",
     "nome": "roubo off",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:24|30/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-30T00:24:48.162Z"
   },
@@ -260,7 +260,7 @@
     "nome": "PoLeMiCo$ industri$",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:09|30/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-30T05:09:46.710Z"
   },
   ".": {

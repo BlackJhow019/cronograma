@@ -146,10 +146,10 @@
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:03|30/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-29T20:19:58.685Z"
+    "roubadaEm": "2026-08-30T10:03:59.953Z"
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
@@ -172,7 +172,7 @@
     "nome": "AzeRoX",
     "status": "INDISPONIVEL",
     "disponivelEm": "11:58|30/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-30T09:58:57.160Z"
   },
   "WORK INDUSTRIA'S LIMITED": {

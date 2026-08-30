@@ -2,10 +2,10 @@
   "NIKE SHOX": {
     "idNumerico": "42",
     "nome": "NIKE SHOX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:00|30/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-29T20:32:59.079Z"
+    "roubadaEm": "2026-08-30T10:06:45.026Z"
   },
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
@@ -148,7 +148,7 @@
     "nome": "fazendinha do igeze",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:04|30/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-30T10:04:38.334Z"
   },
   "PREFEITO ROADBLOCK": {

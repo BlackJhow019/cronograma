@@ -84,7 +84,7 @@
     "nome": "Penoso Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:00|30/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-30T06:00:17.071Z"
   },
   "RICK FARM'S": {
@@ -306,9 +306,9 @@
   "BARTTT INVESTIMENTOS": {
     "idNumerico": "18",
     "nome": "Barttt Investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:10|30/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-30T01:10:00.998Z"
   },
   "PODE ISSO ADM?": {

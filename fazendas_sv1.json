@@ -186,10 +186,10 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:31|30/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-29T17:05:48.109Z"
+    "roubadaEm": "2026-08-30T04:31:33.421Z"
   },
   "< GAUBRE LTDA >": {
     "idNumerico": "35",
@@ -246,14 +246,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-29T20:26:42.249Z"
-  },
-  "FARM'S DE CAFE": {
-    "idNumerico": "4",
-    "nome": "Farm's de Cafe",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:29|30/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-29T23:29:00.093Z"
   },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",

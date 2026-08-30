@@ -314,10 +314,10 @@
   "PODE ISSO ADM?": {
     "idNumerico": "21",
     "nome": "pode isso adm?",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:00|31/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-30T16:34:53.760Z"
+    "roubadaEm": "2026-08-30T22:00:36.000Z"
   },
   "AGROBOY LTDA": {
     "idNumerico": "39",

@@ -92,7 +92,7 @@
     "nome": "Rick Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:58|30/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-30T02:26:34.042Z"
   },
   "FAZENDADO 171": {
@@ -282,10 +282,10 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:29|30/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-29T19:37:18.187Z"
+    "roubadaEm": "2026-08-30T02:29:58.500Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",

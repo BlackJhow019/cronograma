@@ -154,8 +154,8 @@
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:08|30/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-30T17:08:39.544Z"
   },
@@ -316,7 +316,7 @@
     "nome": "pode isso adm?",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:00|31/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-30T22:00:36.000Z"
   },
   "AGROBOY LTDA": {

@@ -76,7 +76,7 @@
     "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:22|30/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-30T14:23:14.655Z"
   },
   "PENOSO FARM'S": {
@@ -162,10 +162,10 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:29|30/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-30T05:30:01.638Z"
+    "roubadaEm": "2026-08-30T14:29:23.263Z"
   },
   "AZEROX": {
     "idNumerico": "23",
@@ -276,7 +276,7 @@
     "nome": "Rancho do Doutor",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:18|30/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-30T14:18:48.816Z"
   },
   "FAZENDA DA MILLY": {

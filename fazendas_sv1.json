@@ -107,7 +107,7 @@
     "idNumerico": "5",
     "nome": "..OURO..PR3TO..",
     "status": "INDISPONIVEL",
-    "disponivelEm": "14:22|31/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-31T12:22:30.733Z"
   },
@@ -194,8 +194,8 @@
   "< GAUBRE LTDA >": {
     "idNumerico": "35",
     "nome": "< GAUBRE LTDA >",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "14:21|31/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-31T16:41:06.662Z"
   },

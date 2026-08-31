@@ -98,10 +98,10 @@
   "FAZENDADO 171": {
     "idNumerico": "12",
     "nome": "fazendado 171",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:41|31/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-30T20:37:47.765Z"
+    "roubadaEm": "2026-08-31T15:41:22.285Z"
   },
   "..OURO..PR3TO..": {
     "idNumerico": "5",
@@ -212,7 +212,7 @@
     "nome": "021",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:28|31/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-31T15:28:55.979Z"
   },
   "OS DE RACA": {

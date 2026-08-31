@@ -71,14 +71,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-31T00:31:50.466Z"
   },
-  "SAO PEDRO 2": {
-    "idNumerico": "43",
-    "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:46|30/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-30T19:47:44.646Z"
-  },
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
@@ -242,8 +234,8 @@
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:46|30/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-30T20:22:43.486Z"
   },

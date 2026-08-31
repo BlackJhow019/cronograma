@@ -68,7 +68,7 @@
     "nome": "roubo off",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:55|31/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-31T10:55:02.218Z"
   },
   "SAO PEDRO 2": {
@@ -76,7 +76,7 @@
     "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:55|31/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-31T10:56:19.895Z"
   },
   "PENOSO FARM'S": {
@@ -276,16 +276,16 @@
     "nome": "Rancho do Doutor",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:50|31/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-31T10:50:54.966Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:03|31/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-31T02:26:34.888Z"
+    "roubadaEm": "2026-08-31T11:03:48.526Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",

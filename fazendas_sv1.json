@@ -218,10 +218,10 @@
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:00|31/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-30T20:29:47.500Z"
+    "roubadaEm": "2026-08-31T03:00:45.885Z"
   },
   "30PRAUM": {
     "idNumerico": "16",
@@ -260,7 +260,7 @@
     "nome": "PoLeMiCo$ industri$",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:53|31/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-31T02:53:08.088Z"
   },
   ".": {
@@ -315,7 +315,7 @@
     "idNumerico": "21",
     "nome": "pode isso adm?",
     "status": "INDISPONIVEL",
-    "disponivelEm": "00:00|31/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-30T22:00:35.822Z"
   },

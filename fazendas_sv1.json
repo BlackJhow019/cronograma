@@ -242,10 +242,10 @@
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:40|31/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-31T01:40:05.676Z"
+    "roubadaEm": "2026-08-31T14:17:15.693Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
@@ -310,14 +310,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-31T04:46:46.356Z"
-  },
-  "PODE ISSO ADM?": {
-    "idNumerico": "21",
-    "nome": "pode isso adm?",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:15|31/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-31T09:15:55.328Z"
   },
   "AGROBOY LTDA": {
     "idNumerico": "44",

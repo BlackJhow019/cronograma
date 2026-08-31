@@ -12,7 +12,7 @@
     "nome": "Rafha investimentos $",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:55|31/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-31T18:55:13.811Z"
   },
   "VENDO 500KM ACEITO TROCAS": {
@@ -134,6 +134,14 @@
     "disponivelEm": "20:32|31/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-31T18:32:38.103Z"
+  },
+  "GRANJA DO IMONKEY": {
+    "idNumerico": "29",
+    "nome": "Granja do iMonKeY",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-31T13:55:16.086Z"
   },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",

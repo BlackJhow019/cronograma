@@ -188,7 +188,7 @@
     "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:45|31/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-31T17:45:07.879Z"
   },
   "< GAUBRE LTDA >": {
@@ -204,7 +204,7 @@
     "nome": "YT @GANDIA_RP",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:51|31/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-31T17:51:11.325Z"
   },
   "021": {
@@ -228,15 +228,15 @@
     "nome": "30PRAUM",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:52|31/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-31T17:52:59.987Z"
   },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:07|31/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-31T13:07:43.369Z"
   },
   "BORRACHAS FARM": {

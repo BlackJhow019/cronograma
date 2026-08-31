@@ -68,7 +68,7 @@
     "nome": "roubo off",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:31|31/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-31T00:31:50.466Z"
   },
   "SAO PEDRO 2": {
@@ -258,9 +258,9 @@
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:34|30/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-30T19:34:08.353Z"
   },
   ".": {

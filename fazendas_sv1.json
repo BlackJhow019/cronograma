@@ -28,7 +28,7 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:43|31/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-31T14:43:25.396Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
@@ -42,9 +42,9 @@
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:45|31/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-31T09:45:14.927Z"
   },
   "FAZENDA FELIZ": {
@@ -314,10 +314,10 @@
   "PODE ISSO ADM?": {
     "idNumerico": "21",
     "nome": "pode isso adm?",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:55|31/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-31T09:15:55.328Z"
+    "roubadaEm": "2026-08-31T14:55:27.134Z"
   },
   "AGROBOY LTDA": {
     "idNumerico": "44",

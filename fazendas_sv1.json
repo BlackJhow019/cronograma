@@ -10,10 +10,10 @@
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
     "nome": "Rafha investimentos $",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:54|31/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-29T19:30:10.685Z"
+    "roubadaEm": "2026-08-31T18:54:57.195Z"
   },
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
@@ -334,13 +334,5 @@
     "disponivelEm": "20:44|31/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-31T18:44:19.342Z"
-  },
-  "GRUPO SANTINO DE EMPREENDIMENTOS LTDA": {
-    "idNumerico": "30",
-    "nome": "GRUPO SANTINO DE EMPREENDIMENTOS LTDA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:53|31/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-31T13:53:20.056Z"
   }
 }

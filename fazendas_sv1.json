@@ -135,14 +135,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-31T18:32:38.103Z"
   },
-  "GRANJA DO IMONKEY": {
-    "idNumerico": "29",
-    "nome": "Granja do iMonKeY",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-31T13:55:16.086Z"
-  },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
@@ -334,5 +326,13 @@
     "disponivelEm": "20:44|31/08/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-08-31T18:44:19.342Z"
+  },
+  "GRUPO SANTINO DE EMPREENDIMENTOS LTDA": {
+    "idNumerico": "30",
+    "nome": "GRUPO SANTINO DE EMPREENDIMENTOS LTDA",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-31T13:53:20.056Z"
   }
 }

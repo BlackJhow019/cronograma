@@ -66,10 +66,10 @@
   "ROUBO OFF": {
     "idNumerico": "7",
     "nome": "roubo off",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:54|31/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-31T00:31:50.466Z"
+    "roubadaEm": "2026-08-31T10:54:39.453Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -228,7 +228,7 @@
     "nome": "30PRAUM",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:47|31/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-31T10:47:03.903Z"
   },
   "CLUBE DA LULUZINHA": {
@@ -292,7 +292,7 @@
     "nome": "Familia AlmanaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:49|31/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-31T10:49:45.678Z"
   },
   "WESKER_U$METRALHA": {

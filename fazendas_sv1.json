@@ -18,10 +18,10 @@
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
     "nome": "VENDO 500km ACEITO TROCAS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "08:07|31/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-30T22:54:21.179Z"
+    "roubadaEm": "2026-08-31T06:07:04.369Z"
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
@@ -186,9 +186,9 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-31T01:05:19.727Z"
   },
   "< GAUBRE LTDA >": {
@@ -293,7 +293,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "07:30|31/08/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-08-31T05:30:20.497Z"
+    "roubadaEm": "2026-08-31T05:30:08.671Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",

@@ -42,10 +42,10 @@
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:05|31/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-31T09:45:14.927Z"
+    "roubadaEm": "2026-08-31T19:05:52.105Z"
   },
   "FAZENDA FELIZ": {
     "idNumerico": "22",
@@ -236,7 +236,7 @@
     "nome": "Clube da Luluzinha",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:01|31/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-31T19:01:08.479Z"
   },
   "BORRACHAS FARM": {

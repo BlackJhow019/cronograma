@@ -178,10 +178,10 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:14|31/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-30T21:16:26.274Z"
+    "roubadaEm": "2026-08-31T04:14:04.077Z"
   },
   "DM2 FARM": {
     "idNumerico": "6",
@@ -196,7 +196,7 @@
     "nome": "< GAUBRE LTDA >",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:47|31/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-31T04:07:09.274Z"
   },
   "YT @GANDIA_RP": {
@@ -326,14 +326,6 @@
     "disponivelEm": "03:33|31/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-31T03:25:18.042Z"
-  },
-  "VENDE-SE": {
-    "idNumerico": "20",
-    "nome": "Vende-Se",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:12|31/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-30T23:12:57.432Z"
   },
   "GRUPO SANTINO DE EMPREENDIMENTOS LTDA": {
     "idNumerico": "30",

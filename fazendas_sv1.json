@@ -1,12 +1,4 @@
 {
-  "NIKE SHOX": {
-    "idNumerico": "42",
-    "nome": "NIKE SHOX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:38|30/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-30T20:45:14.569Z"
-  },
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
     "nome": "Rafha investimentos $",
@@ -22,14 +14,6 @@
     "disponivelEm": "00:54|31/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-30T22:54:21.179Z"
-  },
-  "HWD INVESTIMENTOS": {
-    "idNumerico": "27",
-    "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:38|30/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-30T20:38:43.130Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
     "idNumerico": "17",
@@ -94,14 +78,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-30T23:57:47.754Z"
-  },
-  "FAZENDADO 171": {
-    "idNumerico": "12",
-    "nome": "fazendado 171",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:37|30/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-30T20:37:47.765Z"
   },
   "..OURO..PR3TO..": {
     "idNumerico": "5",
@@ -242,10 +218,10 @@
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:03|31/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-30T20:22:43.486Z"
+    "roubadaEm": "2026-08-31T01:40:05.770Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",

@@ -43,7 +43,7 @@
     "idNumerico": "13",
     "nome": "Norex farm's",
     "status": "INDISPONIVEL",
-    "disponivelEm": "21:00|30/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-30T19:00:23.083Z"
   },
@@ -82,10 +82,10 @@
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:00|31/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-30T18:17:04.282Z"
+    "roubadaEm": "2026-08-31T00:00:40.635Z"
   },
   "RICK FARM'S": {
     "idNumerico": "9",

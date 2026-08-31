@@ -98,10 +98,10 @@
   "FAZENDADO 171": {
     "idNumerico": "12",
     "nome": "fazendado 171",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:27|01/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-31T15:41:35.478Z"
+    "roubadaEm": "2026-08-31T22:27:44.564Z"
   },
   "..OURO..PR3TO..": {
     "idNumerico": "5",
@@ -191,14 +191,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-31T17:44:50.597Z"
   },
-  "< GAUBRE LTDA >": {
-    "idNumerico": "35",
-    "nome": "< GAUBRE LTDA >",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:26|31/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-31T21:46:15.587Z"
-  },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
@@ -286,14 +278,6 @@
     "disponivelEm": "23:52|31/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-31T21:52:44.729Z"
-  },
-  "FAMILIA ALMANAK": {
-    "idNumerico": "32",
-    "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:25|31/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-31T17:25:54.667Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",

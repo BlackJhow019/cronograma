@@ -194,10 +194,10 @@
   "< GAUBRE LTDA >": {
     "idNumerico": "35",
     "nome": "< GAUBRE LTDA >",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:46|31/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-30T22:27:39.474Z"
+    "roubadaEm": "2026-08-31T04:06:41.108Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
@@ -316,7 +316,7 @@
     "nome": "pode isso adm?",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:00|31/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-31T04:00:29.191Z"
   },
   "AGROBOY LTDA": {

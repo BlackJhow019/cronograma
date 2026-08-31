@@ -215,14 +215,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-31T15:28:55.979Z"
   },
-  "OS DE RACA": {
-    "idNumerico": "0",
-    "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:56|31/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-31T14:56:06.693Z"
-  },
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
@@ -311,21 +303,13 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-31T16:00:24.401Z"
   },
-  "PODE ISSO ADM?": {
-    "idNumerico": "21",
-    "nome": "pode isso adm?",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:55|31/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-31T14:55:47.475Z"
-  },
   "AGROBOY LTDA": {
     "idNumerico": "44",
     "nome": "AgroBoy LTDA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:07|31/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-31T03:25:18.042Z"
+    "roubadaEm": "2026-08-31T19:59:20.872Z"
   },
   "VENDE-SE": {
     "idNumerico": "20",

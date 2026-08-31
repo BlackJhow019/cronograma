@@ -82,10 +82,10 @@
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:45|31/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-31T00:00:55.632Z"
+    "roubadaEm": "2026-08-31T10:45:17.127Z"
   },
   "RICK FARM'S": {
     "idNumerico": "9",
@@ -204,7 +204,7 @@
     "nome": "YT @GANDIA_RP",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:41|31/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-31T10:41:56.039Z"
   },
   "021": {

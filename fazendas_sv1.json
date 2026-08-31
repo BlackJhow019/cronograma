@@ -183,6 +183,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-31T13:30:52.483Z"
   },
+  "DM2 FARM": {
+    "idNumerico": "6",
+    "nome": "Dm2 Farm",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-31T12:25:26.274Z"
+  },
   "< GAUBRE LTDA >": {
     "idNumerico": "35",
     "nome": "< GAUBRE LTDA >",
@@ -284,7 +292,7 @@
     "nome": "Familia AlmanaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:25|31/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-31T17:25:54.667Z"
   },
   "WESKER_U$METRALHA": {

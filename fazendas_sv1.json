@@ -103,14 +103,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-08-31T15:41:35.478Z"
   },
-  "..OURO..PR3TO..": {
-    "idNumerico": "5",
-    "nome": "..OURO..PR3TO..",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-31T12:22:30.733Z"
-  },
   "/CARIDADE": {
     "idNumerico": "40",
     "nome": "/caridade",
@@ -290,10 +282,10 @@
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:25|31/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-31T10:49:45.678Z"
+    "roubadaEm": "2026-08-31T17:25:22.260Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",

@@ -50,10 +50,10 @@
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:08|01/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-31T17:47:46.360Z"
+    "roubadaEm": "2026-08-31T23:08:51.976Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",
@@ -204,7 +204,7 @@
     "nome": "YT @GANDIA_RP",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:57|01/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-31T22:57:09.325Z"
   },
   "021": {
@@ -323,7 +323,7 @@
     "idNumerico": "44",
     "nome": "AgroBoy LTDA",
     "status": "INDISPONIVEL",
-    "disponivelEm": "20:08|31/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-31T20:00:36.984Z"
   },

@@ -236,7 +236,7 @@
     "nome": "Clube da Luluzinha",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:07|31/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-31T13:07:43.369Z"
   },
   "BORRACHAS FARM": {
@@ -330,10 +330,10 @@
   "VENDE-SE": {
     "idNumerico": "20",
     "nome": "Vende-Se",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:24|31/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-30T23:12:57.432Z"
+    "roubadaEm": "2026-08-31T13:24:33.108Z"
   },
   "GRUPO SANTINO DE EMPREENDIMENTOS LTDA": {
     "idNumerico": "30",

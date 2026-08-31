@@ -20,7 +20,7 @@
     "nome": "VENDO 500km ACEITO TROCAS",
     "status": "INDISPONIVEL",
     "disponivelEm": "08:07|31/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-31T06:07:21.694Z"
   },
   "HWD INVESTIMENTOS": {
@@ -320,11 +320,11 @@
     "roubadaEm": "2026-08-31T04:00:29.191Z"
   },
   "AGROBOY LTDA": {
-    "idNumerico": "39",
+    "idNumerico": "44",
     "nome": "AgroBoy LTDA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:33|31/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-31T03:25:18.042Z"
   },
   "VENDE-SE": {

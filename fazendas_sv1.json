@@ -211,17 +211,17 @@
     "idNumerico": "1",
     "nome": "021",
     "status": "INDISPONIVEL",
-    "disponivelEm": "11:56|31/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-31T09:56:04.588Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:56|31/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-31T09:11:41.314Z"
+    "roubadaEm": "2026-08-31T14:56:06.890Z"
   },
   "30PRAUM": {
     "idNumerico": "16",

@@ -3,9 +3,9 @@
     "idNumerico": "42",
     "nome": "NIKE SHOX",
     "status": "INDISPONIVEL",
-    "disponivelEm": "21:04|31/08/2026",
+    "disponivelEm": "21:03|31/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-31T19:10:39.567Z"
+    "roubadaEm": "2026-08-31T19:10:28.118Z"
   },
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
@@ -26,9 +26,9 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:43|31/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-31T14:43:25.396Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
@@ -124,8 +124,8 @@
     "nome": "rico louco",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:10|31/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-31T19:10:53.466Z"
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-31T19:10:37.594Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
@@ -194,9 +194,9 @@
   "< GAUBRE LTDA >": {
     "idNumerico": "35",
     "nome": "< GAUBRE LTDA >",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:35|31/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-31T18:55:19.901Z"
   },
   "YT @GANDIA_RP": {
@@ -340,7 +340,7 @@
     "nome": "GRUPO SANTINO DE EMPREENDIMENTOS LTDA",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:18|31/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-31T19:18:34.469Z"
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-31T19:18:18.893Z"
   }
 }

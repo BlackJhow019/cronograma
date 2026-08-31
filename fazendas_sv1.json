@@ -130,8 +130,8 @@
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:59|31/08/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-31T11:59:28.071Z"
   },
@@ -172,7 +172,7 @@
     "nome": "AzeRoX",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:44|31/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-31T16:44:31.781Z"
   },
   "WORK INDUSTRIA'S LIMITED": {

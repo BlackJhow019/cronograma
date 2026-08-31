@@ -28,7 +28,7 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:01|31/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-31T02:01:52.133Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
@@ -138,9 +138,9 @@
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:11|30/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-30T21:11:11.216Z"
   },
   "FAZENDINHA DO IGEZE": {

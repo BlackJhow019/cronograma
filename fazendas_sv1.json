@@ -244,8 +244,8 @@
     "nome": "Borrachas Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:03|31/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-31T01:40:26.669Z"
+    "cofreConsertado": true,
+    "roubadaEm": "2026-08-31T01:40:05.676Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
@@ -270,14 +270,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-30T05:42:46.283Z"
-  },
-  "RANCHO DO DOUTOR": {
-    "idNumerico": "14",
-    "nome": "Rancho do Doutor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:43|30/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-30T20:43:16.653Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",

@@ -239,14 +239,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-08-31T13:07:43.369Z"
   },
-  "BORRACHAS FARM": {
-    "idNumerico": "33",
-    "nome": "Borrachas Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:40|31/08/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-08-31T14:17:27.390Z"
-  },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
@@ -330,10 +322,10 @@
   "VENDE-SE": {
     "idNumerico": "20",
     "nome": "Vende-Se",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:44|31/08/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-31T13:24:46.926Z"
+    "roubadaEm": "2026-08-31T18:44:02.084Z"
   },
   "GRUPO SANTINO DE EMPREENDIMENTOS LTDA": {
     "idNumerico": "30",

@@ -274,9 +274,9 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:50|31/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-31T10:50:54.966Z"
   },
   "FAZENDA DA MILLY": {
@@ -286,6 +286,14 @@
     "disponivelEm": "13:04|31/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-31T11:04:02.483Z"
+  },
+  "FAMILIA ALMANAK": {
+    "idNumerico": "32",
+    "nome": "Familia AlmanaK",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-08-31T10:49:45.678Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",

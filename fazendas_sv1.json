@@ -66,9 +66,9 @@
   "ROUBO OFF": {
     "idNumerico": "7",
     "nome": "roubo off",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:31|31/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-31T00:31:50.466Z"
   },
   "SAO PEDRO 2": {
@@ -292,7 +292,7 @@
     "nome": "Familia AlmanaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:30|31/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-31T05:30:20.497Z"
   },
   "WESKER_U$METRALHA": {

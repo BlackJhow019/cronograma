@@ -187,7 +187,7 @@
     "idNumerico": "6",
     "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
-    "disponivelEm": "03:05|31/08/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-08-31T01:05:19.727Z"
   },
@@ -242,9 +242,9 @@
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:03|31/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-31T01:40:05.676Z"
   },
   "FARM'S DE CAFE": {

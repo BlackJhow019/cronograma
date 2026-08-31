@@ -18,9 +18,9 @@
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
     "nome": "VENDO 500km ACEITO TROCAS",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "08:07|31/08/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-08-31T06:07:21.694Z"
   },
   "HWD INVESTIMENTOS": {
@@ -284,7 +284,7 @@
     "nome": "Fazenda da Milly",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:04|31/08/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-08-31T11:04:02.483Z"
   },
   "FAMILIA ALMANAK": {

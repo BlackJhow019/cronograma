@@ -266,10 +266,10 @@
   ".": {
     "idNumerico": "31",
     "nome": ".",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:28|01/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-31T22:21:42.433Z"
+    "roubadaEm": "2026-09-01T14:28:36.716Z"
   },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
@@ -302,14 +302,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-09-01T01:12:21.185Z"
-  },
-  "BARTTT INVESTIMENTOS": {
-    "idNumerico": "18",
-    "nome": "Barttt Investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:27|01/09/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-09-01T09:27:19.205Z"
   },
   "PODE ISSO ADM?": {
     "idNumerico": "21",

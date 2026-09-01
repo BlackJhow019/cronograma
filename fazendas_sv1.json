@@ -18,10 +18,10 @@
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
     "nome": "VENDO 500km ACEITO TROCAS",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:39|01/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-31T06:07:21.694Z"
+    "roubadaEm": "2026-09-01T02:39:04.172Z"
   },
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
@@ -78,14 +78,6 @@
     "disponivelEm": "23:45|31/08/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-08-31T21:46:25.853Z"
-  },
-  "PENOSO FARM'S": {
-    "idNumerico": "10",
-    "nome": "Penoso Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:38|31/08/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-08-31T21:38:08.059Z"
   },
   "RICK FARM'S": {
     "idNumerico": "9",
@@ -188,7 +180,7 @@
     "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:09|01/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-01T02:09:42.111Z"
   },
   "< GAUBRE LTDA >": {

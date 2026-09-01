@@ -68,7 +68,7 @@
     "nome": "roubo off",
     "status": "INDISPONIVEL",
     "disponivelEm": "11:18|01/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-01T09:18:12.413Z"
   },
   "SAO PEDRO 2": {
@@ -82,10 +82,10 @@
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:24|01/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-01T04:00:09.490Z"
+    "roubadaEm": "2026-09-01T09:24:35.774Z"
   },
   "RICK FARM'S": {
     "idNumerico": "9",
@@ -164,7 +164,7 @@
     "nome": "KodiaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "11:17|01/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-01T09:17:04.199Z"
   },
   "AZEROX": {

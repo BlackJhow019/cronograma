@@ -122,9 +122,9 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:18|01/09/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-09-01T15:18:29.265Z"
   },
   "FAMILIA KUSH": {
@@ -306,9 +306,9 @@
   "BARTTT INVESTIMENTOS": {
     "idNumerico": "18",
     "nome": "Barttt Investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:18|01/09/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-09-01T15:18:30.300Z"
   },
   "PODE ISSO ADM?": {

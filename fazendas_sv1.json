@@ -10,8 +10,8 @@
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
     "nome": "Rafha investimentos $",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:35|01/09/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-09-01T10:35:57.815Z"
   },
@@ -276,7 +276,7 @@
     "nome": "Rancho do Doutor",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:29|01/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-01T15:29:37.207Z"
   },
   "FAZENDA DA MILLY": {

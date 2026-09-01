@@ -68,7 +68,7 @@
     "nome": "roubo off",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:35|02/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-01T22:35:37.707Z"
   },
   "SAO PEDRO 2": {
@@ -90,9 +90,9 @@
   "RICK FARM'S": {
     "idNumerico": "9",
     "nome": "Rick Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:45|01/09/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-09-01T21:12:51.597Z"
   },
   "FAZENDADO 171": {
@@ -195,9 +195,9 @@
     "idNumerico": "35",
     "nome": "< GAUBRE LTDA >",
     "status": "INDISPONIVEL",
-    "disponivelEm": "19:56|01/09/2026",
+    "disponivelEm": "20:31|01/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-01T22:16:14.187Z"
+    "roubadaEm": "2026-09-01T22:52:35.214Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",

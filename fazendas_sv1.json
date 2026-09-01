@@ -2,10 +2,10 @@
   "NIKE SHOX": {
     "idNumerico": "42",
     "nome": "NIKE SHOX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:49|01/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-31T19:10:28.118Z"
+    "roubadaEm": "2026-09-01T14:56:09.198Z"
   },
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
@@ -188,7 +188,7 @@
     "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:53|01/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-01T14:53:53.134Z"
   },
   "< GAUBRE LTDA >": {
@@ -236,7 +236,7 @@
     "nome": "Clube da Luluzinha",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:55|01/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-01T14:55:18.814Z"
   },
   "BORRACHAS FARM": {

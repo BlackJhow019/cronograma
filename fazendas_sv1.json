@@ -171,7 +171,7 @@
     "idNumerico": "23",
     "nome": "AzeRoX",
     "status": "INDISPONIVEL",
-    "disponivelEm": "12:52|01/09/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-09-01T10:52:33.745Z"
   },
@@ -194,10 +194,10 @@
   "< GAUBRE LTDA >": {
     "idNumerico": "35",
     "nome": "< GAUBRE LTDA >",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:33|01/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-01T11:00:36.629Z"
+    "roubadaEm": "2026-09-01T15:53:03.942Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",

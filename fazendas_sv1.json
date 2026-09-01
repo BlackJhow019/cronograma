@@ -2,9 +2,9 @@
   "NIKE SHOX": {
     "idNumerico": "42",
     "nome": "NIKE SHOX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:49|01/09/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-09-01T14:56:09.004Z"
   },
   "RAFHA INVESTIMENTOS $": {
@@ -84,7 +84,7 @@
     "nome": "Penoso Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:48|01/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-01T19:48:32.222Z"
   },
   "RICK FARM'S": {
@@ -162,9 +162,9 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:52|01/09/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-09-01T14:52:05.392Z"
   },
   "AZEROX": {

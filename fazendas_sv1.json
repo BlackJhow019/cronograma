@@ -60,7 +60,7 @@
     "nome": "K1NG Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:29|01/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-01T20:29:54.302Z"
   },
   "ROUBO OFF": {
@@ -124,7 +124,7 @@
     "nome": "rico louco",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:31|01/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-01T20:31:52.051Z"
   },
   "FAMILIA KUSH": {
@@ -220,7 +220,7 @@
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:32|01/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-01T20:32:40.182Z"
   },
   "30PRAUM": {
@@ -314,10 +314,10 @@
   "PODE ISSO ADM?": {
     "idNumerico": "21",
     "nome": "pode isso adm?",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:39|01/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-01T14:32:50.411Z"
+    "roubadaEm": "2026-09-01T20:39:08.259Z"
   },
   "AGROBOY LTDA": {
     "idNumerico": "39",

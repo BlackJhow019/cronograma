@@ -79,14 +79,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-09-01T15:47:59.348Z"
   },
-  "PENOSO FARM'S": {
-    "idNumerico": "10",
-    "nome": "Penoso Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:43|01/09/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-09-01T14:43:40.150Z"
-  },
   "RICK FARM'S": {
     "idNumerico": "9",
     "nome": "Rick Farm's",
@@ -108,7 +100,7 @@
     "nome": "..OURO..PR3TO..",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:38|01/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-01T19:38:58.284Z"
   },
   "/CARIDADE": {
@@ -170,10 +162,10 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:45|01/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-01T10:52:33.745Z"
+    "roubadaEm": "2026-09-01T19:45:06.953Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",

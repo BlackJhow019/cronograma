@@ -156,8 +156,8 @@
     "nome": "Prefeito Roadblock",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:22|01/09/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-09-01T19:22:40.999Z"
+    "cofreConsertado": true,
+    "roubadaEm": "2026-09-01T19:22:23.012Z"
   },
   "KODIAK": {
     "idNumerico": "3",
@@ -179,9 +179,9 @@
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
     "status": "INDISPONIVEL",
-    "disponivelEm": "21:28|01/09/2026",
+    "disponivelEm": "21:27|01/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-01T19:28:02.487Z"
+    "roubadaEm": "2026-09-01T19:27:48.267Z"
   },
   "DM2 FARM": {
     "idNumerico": "6",
@@ -250,9 +250,9 @@
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:29|01/09/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-09-01T14:29:33.970Z"
   },
   "POLEMICO$ INDUSTRI$": {
@@ -262,6 +262,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-09-01T09:07:27.351Z"
+  },
+  ".": {
+    "idNumerico": "31",
+    "nome": ".",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-09-01T14:28:50.915Z"
   },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",

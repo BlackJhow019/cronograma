@@ -290,10 +290,10 @@
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:25|02/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-01T14:20:37.334Z"
+    "roubadaEm": "2026-09-01T22:25:07.406Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
@@ -323,7 +323,7 @@
     "idNumerico": "39",
     "nome": "AgroBoy LTDA",
     "status": "INDISPONIVEL",
-    "disponivelEm": "19:24|01/09/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-09-01T19:16:43.670Z"
   },

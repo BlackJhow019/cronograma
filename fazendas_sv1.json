@@ -74,8 +74,8 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:18|01/09/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-09-01T10:20:04.473Z"
   },
@@ -124,7 +124,7 @@
     "nome": "rico louco",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:18|01/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-01T15:18:29.265Z"
   },
   "FAMILIA KUSH": {
@@ -308,8 +308,8 @@
     "nome": "Barttt Investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:18|01/09/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-09-01T15:18:08.548Z"
+    "cofreConsertado": true,
+    "roubadaEm": "2026-09-01T15:18:30.300Z"
   },
   "PODE ISSO ADM?": {
     "idNumerico": "21",

@@ -106,10 +106,10 @@
   "..OURO..PR3TO..": {
     "idNumerico": "5",
     "nome": "..OURO..PR3TO..",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:38|01/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-01T12:45:22.328Z"
+    "roubadaEm": "2026-09-01T19:38:58.284Z"
   },
   "/CARIDADE": {
     "idNumerico": "40",
@@ -140,7 +140,7 @@
     "nome": "Granja do iMonKeY",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:33|01/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-01T19:33:19.725Z"
   },
   "FAZENDINHA DO IGEZE": {

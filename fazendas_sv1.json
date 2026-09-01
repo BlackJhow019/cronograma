@@ -239,14 +239,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-09-01T14:55:03.589Z"
   },
-  "BORRACHAS FARM": {
-    "idNumerico": "33",
-    "nome": "Borrachas Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:25|01/09/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-09-01T15:02:16.122Z"
-  },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
@@ -278,6 +270,14 @@
     "disponivelEm": "17:29|01/09/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-09-01T15:29:37.207Z"
+  },
+  "FAZENDA DA MILLY": {
+    "idNumerico": "19",
+    "nome": "Fazenda da Milly",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-09-01T14:22:31.414Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
@@ -316,7 +316,7 @@
     "nome": "AgroBoy LTDA",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:24|01/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-01T19:16:43.670Z"
   },
   "VENDE-SE": {

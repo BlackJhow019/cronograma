@@ -211,7 +211,7 @@
     "idNumerico": "1",
     "nome": "021",
     "status": "INDISPONIVEL",
-    "disponivelEm": "10:56|01/09/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-09-01T08:56:21.444Z"
   },
@@ -314,8 +314,8 @@
   "PODE ISSO ADM?": {
     "idNumerico": "21",
     "nome": "pode isso adm?",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "10:53|01/09/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-09-01T08:53:31.844Z"
   },

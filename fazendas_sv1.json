@@ -154,10 +154,10 @@
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:28|02/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-01T19:22:23.012Z"
+    "roubadaEm": "2026-09-02T05:28:19.569Z"
   },
   "KODIAK": {
     "idNumerico": "3",
@@ -194,8 +194,8 @@
   "< GAUBRE LTDA >": {
     "idNumerico": "35",
     "nome": "< GAUBRE LTDA >",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:14|02/09/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-09-02T04:35:41.948Z"
   },
@@ -308,7 +308,7 @@
     "nome": "Barttt Investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:03|02/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-02T05:03:12.479Z"
   },
   "PODE ISSO ADM?": {

@@ -194,10 +194,10 @@
   "< GAUBRE LTDA >": {
     "idNumerico": "2",
     "nome": "< GAUBRE LTDA >",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:45|02/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-02T19:56:53.817Z"
+    "roubadaEm": "2026-09-02T23:05:56.202Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
@@ -244,7 +244,7 @@
     "nome": "Borrachas Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:24|03/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-02T23:01:09.559Z"
   },
   "FARM'S DE CAFE": {

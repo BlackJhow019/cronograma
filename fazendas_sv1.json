@@ -258,10 +258,10 @@
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:10|02/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-01T09:07:27.351Z"
+    "roubadaEm": "2026-09-02T03:10:21.025Z"
   },
   ".": {
     "idNumerico": "31",
@@ -316,7 +316,7 @@
     "nome": "pode isso adm?",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:03|02/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-02T03:03:36.303Z"
   },
   "AGROBOY LTDA": {

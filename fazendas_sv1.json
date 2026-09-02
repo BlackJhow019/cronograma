@@ -26,8 +26,8 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "06:24|02/09/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-09-02T04:24:45.783Z"
   },
@@ -140,7 +140,7 @@
     "nome": "Granja do iMonKeY",
     "status": "INDISPONIVEL",
     "disponivelEm": "11:17|02/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-02T09:17:04.292Z"
   },
   "FAZENDINHA DO IGEZE": {

@@ -140,7 +140,7 @@
     "nome": "Granja do iMonKeY",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:16|02/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-02T01:16:49.681Z"
   },
   "FAZENDINHA DO IGEZE": {
@@ -338,9 +338,9 @@
   "GRUPO SANTINO DE EMPREENDIMENTOS LTDA": {
     "idNumerico": "30",
     "nome": "GRUPO SANTINO DE EMPREENDIMENTOS LTDA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:21|02/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-08-31T19:18:18.893Z"
+    "roubadaEm": "2026-09-02T01:21:40.258Z"
   }
 }

@@ -122,10 +122,10 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:10|02/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-02T02:13:43.222Z"
+    "roubadaEm": "2026-09-02T08:10:13.536Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",

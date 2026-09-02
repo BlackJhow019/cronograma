@@ -74,10 +74,10 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:06|02/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-01T15:47:46.243Z"
+    "roubadaEm": "2026-09-02T21:07:31.799Z"
   },
   "PENOSO FARM'S": {
     "idNumerico": "10",
@@ -140,7 +140,7 @@
     "nome": "Granja do iMonKeY",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:52|02/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-02T20:52:20.862Z"
   },
   "FAZENDINHA DO IGEZE": {

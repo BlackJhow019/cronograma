@@ -138,10 +138,10 @@
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:52|02/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-02T09:17:04.199Z"
+    "roubadaEm": "2026-09-02T20:52:20.862Z"
   },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
@@ -308,7 +308,7 @@
     "nome": "Barttt Investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:41|02/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-02T20:41:13.815Z"
   },
   "PODE ISSO ADM?": {

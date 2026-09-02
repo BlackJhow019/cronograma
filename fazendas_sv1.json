@@ -58,9 +58,9 @@
   "K1NG FARM'S": {
     "idNumerico": "25",
     "nome": "K1NG Farm's",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
-    "cofreConsertado": true,
+    "cofreConsertado": false,
     "roubadaEm": "2026-09-01T20:29:54.302Z"
   },
   "ROUBO OFF": {
@@ -118,14 +118,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-08-30T18:58:09.630Z"
-  },
-  "RICO LOUCO": {
-    "idNumerico": "11",
-    "nome": "rico louco",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:31|01/09/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-09-01T20:31:52.051Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",

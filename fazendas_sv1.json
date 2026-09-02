@@ -194,10 +194,10 @@
   "< GAUBRE LTDA >": {
     "idNumerico": "35",
     "nome": "< GAUBRE LTDA >",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:14|02/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-01T22:52:50.569Z"
+    "roubadaEm": "2026-09-02T04:35:05.308Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
@@ -278,14 +278,6 @@
     "disponivelEm": "03:33|02/09/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-09-02T01:33:58.317Z"
-  },
-  "FAZENDA DA MILLY": {
-    "idNumerico": "19",
-    "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:34|02/09/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-09-01T23:34:03.425Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",

@@ -194,10 +194,10 @@
   "< GAUBRE LTDA >": {
     "idNumerico": "35",
     "nome": "< GAUBRE LTDA >",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:36|02/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-02T04:35:41.584Z"
+    "roubadaEm": "2026-09-02T19:56:53.892Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
@@ -340,7 +340,7 @@
     "nome": "GRUPO SANTINO DE EMPREENDIMENTOS LTDA",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:44|02/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-02T19:44:51.722Z"
   }
 }

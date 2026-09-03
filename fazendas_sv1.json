@@ -282,10 +282,10 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:39|03/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-03T16:36:35.910Z"
+    "roubadaEm": "2026-09-03T21:39:57.122Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",

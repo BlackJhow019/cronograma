@@ -282,10 +282,10 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:26|03/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-02T04:50:38.448Z"
+    "roubadaEm": "2026-09-03T00:26:53.166Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
@@ -332,7 +332,7 @@
     "nome": "Vende-Se",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:06|03/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-03T00:06:35.404Z"
   },
   "GRUPO SANTINO DE EMPREENDIMENTOS LTDA": {

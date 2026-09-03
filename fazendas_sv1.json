@@ -132,7 +132,7 @@
     "nome": "Familia KuSh",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:07|03/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-03T13:07:06.263Z"
   },
   "GRANJA DO IMONKEY": {
@@ -170,10 +170,10 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:10|03/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-03T04:12:37.738Z"
+    "roubadaEm": "2026-09-03T13:10:57.879Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",

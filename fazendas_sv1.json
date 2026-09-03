@@ -66,10 +66,10 @@
   "ROUBO OFF": {
     "idNumerico": "7",
     "nome": "roubo off",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:02|03/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-03T02:10:52.798Z"
+    "roubadaEm": "2026-09-03T08:02:05.308Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",

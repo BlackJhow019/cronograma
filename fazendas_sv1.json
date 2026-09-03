@@ -140,7 +140,7 @@
     "nome": "Granja do iMonKeY",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:29|03/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-03T20:29:08.717Z"
   },
   "FAZENDINHA DO IGEZE": {
@@ -162,10 +162,10 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:36|03/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-03T15:31:18.811Z"
+    "roubadaEm": "2026-09-03T20:36:35.844Z"
   },
   "AZEROX": {
     "idNumerico": "23",

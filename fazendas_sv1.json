@@ -60,7 +60,7 @@
     "nome": "K1NG Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:21|03/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-03T01:21:47.562Z"
   },
   "ROUBO OFF": {
@@ -318,6 +318,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-09-02T03:03:13.085Z"
+  },
+  "AGROBOY LTDA": {
+    "idNumerico": "44",
+    "nome": "AgroBoy LTDA",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-09-02T22:13:23.567Z"
   },
   "VENDE-SE": {
     "idNumerico": "20",

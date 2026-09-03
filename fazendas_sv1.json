@@ -146,10 +146,10 @@
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:34|03/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-02T22:15:45.652Z"
+    "roubadaEm": "2026-09-03T14:34:44.691Z"
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
@@ -190,14 +190,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-09-02T02:41:41.327Z"
-  },
-  "< GAUBRE LTDA >": {
-    "idNumerico": "35",
-    "nome": "< GAUBRE LTDA >",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "11:32|03/09/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-09-03T13:53:11.257Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",

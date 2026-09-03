@@ -223,14 +223,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-09-03T17:14:45.963Z"
   },
-  "30PRAUM": {
-    "idNumerico": "16",
-    "nome": "30PRAUM",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:27|03/09/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-09-03T16:27:10.741Z"
-  },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
@@ -316,7 +308,7 @@
     "nome": "pode isso adm?",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:12|03/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-03T21:12:00.201Z"
   },
   "AGROBOY LTDA": {
@@ -330,10 +322,10 @@
   "VENDE-SE": {
     "idNumerico": "20",
     "nome": "Vende-Se",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:28|03/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-03T14:10:45.205Z"
+    "roubadaEm": "2026-09-03T21:28:13.039Z"
   },
   "GRUPO SANTINO DE EMPREENDIMENTOS LTDA": {
     "idNumerico": "30",

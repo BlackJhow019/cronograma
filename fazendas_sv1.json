@@ -90,10 +90,10 @@
   "RICK FARM'S": {
     "idNumerico": "9",
     "nome": "Rick Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:34|03/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-02T03:16:47.398Z"
+    "roubadaEm": "2026-09-03T03:02:09.536Z"
   },
   "FAZENDADO 171": {
     "idNumerico": "12",
@@ -236,7 +236,7 @@
     "nome": "Clube da Luluzinha",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:32|03/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-03T02:32:01.135Z"
   },
   "BORRACHAS FARM": {
@@ -268,7 +268,7 @@
     "nome": ".",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:36|03/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-03T02:36:35.739Z"
   },
   "RANCHO DO DOUTOR": {

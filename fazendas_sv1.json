@@ -90,9 +90,9 @@
   "RICK FARM'S": {
     "idNumerico": "9",
     "nome": "Rick Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "01:34|03/09/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-09-03T03:02:27.931Z"
   },
   "FAZENDADO 171": {
@@ -172,7 +172,7 @@
     "nome": "AzeRoX",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:12|03/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-03T04:12:37.738Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
@@ -290,10 +290,10 @@
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:43|03/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-02T22:09:44.419Z"
+    "roubadaEm": "2026-09-03T04:43:51.458Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",

@@ -42,10 +42,10 @@
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "10:35|03/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-02T05:36:48.063Z"
+    "roubadaEm": "2026-09-03T08:35:16.260Z"
   },
   "FAZENDA FELIZ": {
     "idNumerico": "22",
@@ -164,7 +164,7 @@
     "nome": "KodiaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "10:25|03/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-03T08:25:39.350Z"
   },
   "AZEROX": {

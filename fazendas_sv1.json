@@ -132,7 +132,7 @@
     "nome": "Familia KuSh",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:50|03/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-03T18:50:14.411Z"
   },
   "GRANJA DO IMONKEY": {
@@ -174,14 +174,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-09-03T13:11:18.518Z"
-  },
-  "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": "38",
-    "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:14|03/09/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-09-03T14:14:21.966Z"
   },
   "DM2 FARM": {
     "idNumerico": "6",
@@ -330,8 +322,8 @@
   "VENDE-SE": {
     "idNumerico": "20",
     "nome": "Vende-Se",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:10|03/09/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-09-03T14:10:45.205Z"
   },

@@ -84,7 +84,7 @@
     "nome": "Penoso Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:17|03/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-03T15:17:52.992Z"
   },
   "RICK FARM'S": {
@@ -162,10 +162,10 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:31|03/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-03T08:25:39.350Z"
+    "roubadaEm": "2026-09-03T15:31:04.056Z"
   },
   "AZEROX": {
     "idNumerico": "23",

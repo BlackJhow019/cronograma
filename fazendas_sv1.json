@@ -279,14 +279,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-09-03T01:56:28.006Z"
   },
-  "FAZENDA DA MILLY": {
-    "idNumerico": "19",
-    "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:28|03/09/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-09-03T00:28:12.162Z"
-  },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
@@ -322,10 +314,10 @@
   "AGROBOY LTDA": {
     "idNumerico": "39",
     "nome": "AgroBoy LTDA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:37|03/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-03T01:43:52.401Z"
+    "roubadaEm": "2026-09-03T05:29:13.346Z"
   },
   "VENDE-SE": {
     "idNumerico": "20",

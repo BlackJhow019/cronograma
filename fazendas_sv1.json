@@ -175,14 +175,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-09-02T23:08:03.758Z"
   },
-  "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": "38",
-    "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:46|02/09/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-09-02T19:46:32.047Z"
-  },
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
@@ -338,9 +330,9 @@
   "GRUPO SANTINO DE EMPREENDIMENTOS LTDA": {
     "idNumerico": "30",
     "nome": "GRUPO SANTINO DE EMPREENDIMENTOS LTDA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:44|02/09/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-09-02T19:44:51.722Z"
   }
 }

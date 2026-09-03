@@ -66,8 +66,8 @@
   "ROUBO OFF": {
     "idNumerico": "7",
     "nome": "roubo off",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "04:10|03/09/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-09-03T02:10:52.798Z"
   },
@@ -229,7 +229,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "09:05|03/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-03T07:05:07.918Z"
+    "roubadaEm": "2026-09-03T07:05:31.050Z"
   },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",

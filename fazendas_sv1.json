@@ -39,6 +39,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-14T18:14:33.184Z"
   },
+  "NOREX FARM'S": {
+    "idNumerico": "13",
+    "nome": "Norex farm's",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-09-03T14:37:54.230Z"
+  },
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
@@ -95,6 +103,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-09-03T16:04:59.213Z"
   },
+  "..OURO..PR3TO..": {
+    "idNumerico": "5",
+    "nome": "..OURO..PR3TO..",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-09-03T14:38:25.382Z"
+  },
   "/CARIDADE": {
     "idNumerico": "40",
     "nome": "/caridade",
@@ -134,14 +150,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-09-03T14:35:01.394Z"
-  },
-  "PREFEITO ROADBLOCK": {
-    "idNumerico": "41",
-    "nome": "Prefeito Roadblock",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:40|03/09/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-09-03T14:40:50.134Z"
   },
   "KODIAK": {
     "idNumerico": "3",
@@ -218,9 +226,9 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:39|03/09/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-09-03T14:39:23.483Z"
   },
   "BORRACHAS FARM": {

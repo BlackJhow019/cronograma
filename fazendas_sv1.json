@@ -147,7 +147,7 @@
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
     "status": "INDISPONIVEL",
-    "disponivelEm": "00:15|03/09/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-09-02T22:15:45.652Z"
   },
@@ -298,10 +298,10 @@
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
     "nome": "Wesker_u$MeTraLha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:23|03/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-01T23:18:46.362Z"
+    "roubadaEm": "2026-09-03T03:15:56.487Z"
   },
   "BARTTT INVESTIMENTOS": {
     "idNumerico": "18",

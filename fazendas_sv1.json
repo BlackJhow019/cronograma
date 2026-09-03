@@ -207,14 +207,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-09-03T12:39:29.486Z"
   },
-  "021": {
-    "idNumerico": "1",
-    "nome": "021",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:32|03/09/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-09-03T13:32:14.588Z"
-  },
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
@@ -250,10 +242,10 @@
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:32|03/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-02T02:09:52.823Z"
+    "roubadaEm": "2026-09-03T18:32:57.684Z"
   },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",

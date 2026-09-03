@@ -100,7 +100,7 @@
     "nome": "fazendado 171",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:06|03/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-03T03:06:55.128Z"
   },
   "..OURO..PR3TO..": {
@@ -138,10 +138,10 @@
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:11|03/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-02T20:52:20.862Z"
+    "roubadaEm": "2026-09-03T03:11:33.558Z"
   },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
@@ -286,14 +286,6 @@
     "disponivelEm": "02:28|03/09/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-09-03T00:28:12.162Z"
-  },
-  "FAMILIA ALMANAK": {
-    "idNumerico": "32",
-    "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:09|03/09/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-09-02T22:09:44.419Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",

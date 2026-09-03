@@ -26,10 +26,10 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:52|03/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-02T22:19:05.172Z"
+    "roubadaEm": "2026-09-03T04:52:06.655Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
     "idNumerico": "17",
@@ -292,7 +292,7 @@
     "nome": "Familia AlmanaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:44|03/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-03T04:44:04.139Z"
   },
   "WESKER_U$METRALHA": {
@@ -323,7 +323,7 @@
     "idNumerico": "44",
     "nome": "AgroBoy LTDA",
     "status": "INDISPONIVEL",
-    "disponivelEm": "01:51|03/09/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-09-03T01:43:52.401Z"
   },

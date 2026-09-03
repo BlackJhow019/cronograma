@@ -92,16 +92,16 @@
     "nome": "Rick Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:34|03/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-03T03:02:27.931Z"
   },
   "FAZENDADO 171": {
     "idNumerico": "12",
     "nome": "fazendado 171",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:06|03/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-02T03:13:15.256Z"
+    "roubadaEm": "2026-09-03T03:06:39.889Z"
   },
   "..OURO..PR3TO..": {
     "idNumerico": "5",

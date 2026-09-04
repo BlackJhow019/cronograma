@@ -108,7 +108,7 @@
     "nome": "..OURO..PR3TO..",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:31|04/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-04T21:31:30.745Z"
   },
   "/CARIDADE": {
@@ -322,10 +322,10 @@
   "AGROBOY LTDA": {
     "idNumerico": "39",
     "nome": "AgroBoy LTDA",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:37|04/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-04T16:23:51.376Z"
+    "roubadaEm": "2026-09-04T21:35:57.641Z"
   },
   "VENDE-SE": {
     "idNumerico": "20",

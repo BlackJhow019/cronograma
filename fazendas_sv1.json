@@ -52,7 +52,7 @@
     "nome": "fazenda feliz",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:55|04/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-04T14:55:31.280Z"
   },
   "K1NG FARM'S": {
@@ -178,10 +178,10 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:03|04/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-03T19:34:11.595Z"
+    "roubadaEm": "2026-09-04T15:03:22.072Z"
   },
   "DM2 FARM": {
     "idNumerico": "6",

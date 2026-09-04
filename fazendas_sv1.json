@@ -170,10 +170,10 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:24|05/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-04T16:39:43.083Z"
+    "roubadaEm": "2026-09-04T22:24:06.241Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
@@ -276,7 +276,7 @@
     "nome": "Rancho do Doutor",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:10|05/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-04T22:10:09.213Z"
   },
   "FAZENDA DA MILLY": {

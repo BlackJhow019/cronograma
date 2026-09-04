@@ -124,7 +124,7 @@
     "nome": "rico louco",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:21|04/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-04T16:21:50.271Z"
   },
   "FAMILIA KUSH": {
@@ -290,10 +290,10 @@
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:26|04/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-03T23:00:28.017Z"
+    "roubadaEm": "2026-09-04T16:26:53.502Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
@@ -324,7 +324,7 @@
     "nome": "AgroBoy LTDA",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:25|04/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-04T16:23:51.376Z"
   },
   "VENDE-SE": {

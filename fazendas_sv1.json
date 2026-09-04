@@ -50,9 +50,9 @@
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:55|04/09/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-09-04T14:55:31.280Z"
   },
   "K1NG FARM'S": {
@@ -190,14 +190,6 @@
     "disponivelEm": "21:39|04/09/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-09-04T19:39:28.334Z"
-  },
-  "< GAUBRE LTDA >": {
-    "idNumerico": "2",
-    "nome": "< GAUBRE LTDA >",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:55|04/09/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-09-04T19:16:25.426Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",

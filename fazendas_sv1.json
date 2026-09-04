@@ -108,7 +108,7 @@
     "nome": "..OURO..PR3TO..",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:14|04/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-04T16:14:48.185Z"
   },
   "/CARIDADE": {
@@ -122,10 +122,10 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:21|04/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-03T14:25:37.413Z"
+    "roubadaEm": "2026-09-04T16:21:38.996Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",

@@ -116,7 +116,7 @@
     "nome": "/caridade",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:13|04/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-04T19:13:49.248Z"
   },
   "RICO LOUCO": {
@@ -194,10 +194,10 @@
   "< GAUBRE LTDA >": {
     "idNumerico": "2",
     "nome": "< GAUBRE LTDA >",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:55|04/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-03T15:35:48.837Z"
+    "roubadaEm": "2026-09-04T19:15:59.085Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",

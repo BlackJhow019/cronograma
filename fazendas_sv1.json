@@ -2,9 +2,9 @@
   "NIKE SHOX": {
     "idNumerico": "42",
     "nome": "NIKE SHOX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:50|04/09/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-09-04T18:57:02.936Z"
   },
   "RAFHA INVESTIMENTOS $": {
@@ -134,14 +134,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-09-03T18:49:55.193Z"
-  },
-  "GRANJA DO IMONKEY": {
-    "idNumerico": "29",
-    "nome": "Granja do iMonKeY",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:53|04/09/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-09-04T18:53:24.654Z"
   },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
@@ -282,9 +274,9 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:50|04/09/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-09-04T18:50:57.858Z"
   },
   "FAMILIA ALMANAK": {

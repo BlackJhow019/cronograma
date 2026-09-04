@@ -76,7 +76,7 @@
     "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:54|04/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-04T21:55:35.343Z"
   },
   "PENOSO FARM'S": {
@@ -274,10 +274,10 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:09|05/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-03T17:59:46.403Z"
+    "roubadaEm": "2026-09-04T22:09:54.735Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",

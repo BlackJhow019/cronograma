@@ -122,10 +122,10 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:39|05/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-04T16:21:50.271Z"
+    "roubadaEm": "2026-09-04T22:39:04.092Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
@@ -172,7 +172,7 @@
     "nome": "AzeRoX",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:24|05/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-04T22:24:23.806Z"
   },
   "WORK INDUSTRIA'S LIMITED": {

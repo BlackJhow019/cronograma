@@ -68,7 +68,7 @@
     "nome": "roubo off",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:46|04/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-04T19:46:38.020Z"
   },
   "SAO PEDRO 2": {
@@ -234,10 +234,10 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:54|04/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-03T20:11:17.038Z"
+    "roubadaEm": "2026-09-04T19:54:19.827Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",

@@ -138,10 +138,10 @@
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:38|05/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-05T03:02:38.316Z"
+    "roubadaEm": "2026-09-05T18:38:07.729Z"
   },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
@@ -310,14 +310,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-09-05T01:23:36.768Z"
-  },
-  "PODE ISSO ADM?": {
-    "idNumerico": "21",
-    "nome": "pode isso adm?",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:37|05/09/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-09-05T13:37:24.889Z"
   },
   "AGROBOY LTDA": {
     "idNumerico": "44",

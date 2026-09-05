@@ -162,17 +162,17 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:27|05/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-05T09:18:11.524Z"
+    "roubadaEm": "2026-09-05T16:27:55.700Z"
   },
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:17|05/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-05T16:17:47.612Z"
   },
   "WORK INDUSTRIA'S LIMITED": {

@@ -108,7 +108,7 @@
     "nome": "..OURO..PR3TO..",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:34|05/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-05T15:34:15.903Z"
   },
   "/CARIDADE": {
@@ -298,10 +298,10 @@
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
     "nome": "Wesker_u$MeTraLha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:44|05/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-03T03:15:56.410Z"
+    "roubadaEm": "2026-09-05T15:37:34.109Z"
   },
   "BARTTT INVESTIMENTOS": {
     "idNumerico": "18",

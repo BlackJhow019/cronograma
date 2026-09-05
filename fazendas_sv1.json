@@ -242,10 +242,10 @@
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:54|05/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-04T16:02:36.126Z"
+    "roubadaEm": "2026-09-05T01:31:26.008Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
@@ -308,7 +308,7 @@
     "nome": "Barttt Investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:23|05/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-05T01:23:36.768Z"
   },
   "PODE ISSO ADM?": {

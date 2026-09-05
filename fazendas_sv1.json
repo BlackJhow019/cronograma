@@ -66,10 +66,10 @@
   "ROUBO OFF": {
     "idNumerico": "7",
     "nome": "roubo off",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:32|05/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-04T19:46:38.020Z"
+    "roubadaEm": "2026-09-05T20:32:12.104Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -308,7 +308,7 @@
     "nome": "Barttt Investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:28|05/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-05T20:28:11.067Z"
   },
   "PODE ISSO ADM?": {

@@ -82,10 +82,10 @@
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:09|06/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-05T12:01:50.643Z"
+    "roubadaEm": "2026-09-05T23:09:09.313Z"
   },
   "RICK FARM'S": {
     "idNumerico": "9",
@@ -188,7 +188,7 @@
     "nome": "Dm2 Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "01:06|06/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-05T23:06:19.648Z"
   },
   "< GAUBRE LTDA >": {

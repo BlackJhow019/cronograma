@@ -330,10 +330,10 @@
   "VENDE-SE": {
     "idNumerico": "20",
     "nome": "Vende-Se",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:26|05/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-05T11:45:47.154Z"
+    "roubadaEm": "2026-09-05T17:26:03.721Z"
   },
   "VITIM FARM'S": {
     "idNumerico": "30",

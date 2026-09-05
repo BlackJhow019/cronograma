@@ -84,7 +84,7 @@
     "nome": "Penoso Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:01|05/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-05T12:01:50.643Z"
   },
   "RICK FARM'S": {
@@ -290,10 +290,10 @@
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:05|05/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-04T23:27:58.162Z"
+    "roubadaEm": "2026-09-05T12:05:13.398Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",

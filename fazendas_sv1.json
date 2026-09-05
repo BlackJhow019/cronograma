@@ -106,10 +106,10 @@
   "..OURO..PR3TO..": {
     "idNumerico": "5",
     "nome": "..OURO..PR3TO..",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:34|05/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-04T21:31:30.745Z"
+    "roubadaEm": "2026-09-05T05:34:40.611Z"
   },
   "/CARIDADE": {
     "idNumerico": "40",

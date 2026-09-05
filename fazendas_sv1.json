@@ -123,9 +123,9 @@
     "idNumerico": "11",
     "nome": "rico louco",
     "status": "INDISPONIVEL",
-    "disponivelEm": "12:13|05/09/2026",
+    "disponivelEm": "12:12|05/09/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-09-05T10:13:13.117Z"
+    "roubadaEm": "2026-09-05T10:12:48.775Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
@@ -274,10 +274,10 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:37|05/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-04T22:10:09.213Z"
+    "roubadaEm": "2026-09-05T11:37:11.343Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
@@ -325,7 +325,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "10:09|05/09/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-09-05T10:07:56.813Z"
+    "roubadaEm": "2026-09-05T10:07:38.013Z"
   },
   "VENDE-SE": {
     "idNumerico": "20",

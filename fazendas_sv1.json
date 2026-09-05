@@ -98,10 +98,10 @@
   "FAZENDADO 171": {
     "idNumerico": "12",
     "nome": "fazendado 171",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:26|05/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-04T17:48:43.093Z"
+    "roubadaEm": "2026-09-05T01:26:46.101Z"
   },
   "..OURO..PR3TO..": {
     "idNumerico": "5",
@@ -228,7 +228,7 @@
     "nome": "30PRAUM",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:17|05/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-05T01:17:26.740Z"
   },
   "CLUBE DA LULUZINHA": {

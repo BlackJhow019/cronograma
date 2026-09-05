@@ -122,10 +122,10 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:27|05/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-05T10:12:48.775Z"
+    "roubadaEm": "2026-09-05T15:27:50.829Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
@@ -220,7 +220,7 @@
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:22|05/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-05T15:22:05.311Z"
   },
   "30PRAUM": {

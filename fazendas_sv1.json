@@ -178,10 +178,10 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:58|05/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-05T16:32:39.469Z"
+    "roubadaEm": "2026-09-05T21:58:31.040Z"
   },
   "DM2 FARM": {
     "idNumerico": "6",
@@ -220,7 +220,7 @@
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:55|05/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-05T21:55:55.640Z"
   },
   "30PRAUM": {

@@ -186,10 +186,10 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:45|05/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-05T02:00:43.487Z"
+    "roubadaEm": "2026-09-05T15:45:42.915Z"
   },
   "< GAUBRE LTDA >": {
     "idNumerico": "35",
@@ -204,7 +204,7 @@
     "nome": "YT @GANDIA_RP",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:34|05/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-05T15:34:49.405Z"
   },
   "021": {
@@ -300,7 +300,7 @@
     "nome": "Wesker_u$MeTraLha",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:45|05/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-05T15:37:55.201Z"
   },
   "BARTTT INVESTIMENTOS": {

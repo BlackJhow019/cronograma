@@ -28,8 +28,8 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "19:34|05/09/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-09-05T17:34:57.135Z"
+    "cofreConsertado": true,
+    "roubadaEm": "2026-09-05T17:34:57.056Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
     "idNumerico": "17",
@@ -242,10 +242,10 @@
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:03|05/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-05T01:31:37.544Z"
+    "roubadaEm": "2026-09-05T17:40:36.944Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
@@ -333,7 +333,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "19:26|05/09/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-09-05T17:26:15.854Z"
+    "roubadaEm": "2026-09-05T17:26:03.640Z"
   },
   "VITIM FARM'S": {
     "idNumerico": "30",

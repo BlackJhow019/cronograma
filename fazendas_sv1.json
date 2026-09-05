@@ -164,7 +164,7 @@
     "nome": "KodiaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:28|05/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-05T16:28:09.826Z"
   },
   "AZEROX": {
@@ -178,10 +178,10 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:32|05/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-05T05:16:45.084Z"
+    "roubadaEm": "2026-09-05T16:32:24.495Z"
   },
   "DM2 FARM": {
     "idNumerico": "6",

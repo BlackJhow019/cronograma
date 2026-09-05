@@ -122,10 +122,10 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:12|05/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-05T03:47:52.976Z"
+    "roubadaEm": "2026-09-05T10:12:48.861Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
@@ -324,7 +324,7 @@
     "nome": "AgroBoy LTDA",
     "status": "INDISPONIVEL",
     "disponivelEm": "10:09|05/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-05T10:07:56.813Z"
   },
   "VENDE-SE": {

@@ -314,10 +314,10 @@
   "PODE ISSO ADM?": {
     "idNumerico": "21",
     "nome": "pode isso adm?",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:54|05/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-04T19:40:25.824Z"
+    "roubadaEm": "2026-09-05T01:54:34.230Z"
   },
   "AGROBOY LTDA": {
     "idNumerico": "39",
@@ -332,8 +332,8 @@
     "nome": "Vende-Se",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:44|05/09/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-09-05T01:44:47.973Z"
+    "cofreConsertado": true,
+    "roubadaEm": "2026-09-05T01:44:47.818Z"
   },
   "VITIM FARM'S": {
     "idNumerico": "30",

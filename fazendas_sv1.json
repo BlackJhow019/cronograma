@@ -210,10 +210,10 @@
   "021": {
     "idNumerico": "1",
     "nome": "021",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:20|05/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-05T14:45:31.330Z"
+    "roubadaEm": "2026-09-05T20:20:33.892Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",
@@ -228,7 +228,7 @@
     "nome": "30PRAUM",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:18|05/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-05T20:18:39.130Z"
   },
   "CLUBE DA LULUZINHA": {

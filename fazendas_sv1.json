@@ -103,14 +103,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-09-05T01:27:51.642Z"
   },
-  "..OURO..PR3TO..": {
-    "idNumerico": "5",
-    "nome": "..OURO..PR3TO..",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "00:43|06/09/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-09-06T03:12:43.546Z"
-  },
   "/CARIDADE": {
     "idNumerico": "40",
     "nome": "/caridade",
@@ -282,10 +274,10 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:44|06/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-05T22:13:26.330Z"
+    "roubadaEm": "2026-09-06T03:44:01.254Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",

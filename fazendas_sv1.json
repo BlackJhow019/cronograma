@@ -42,8 +42,8 @@
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:56|06/09/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-09-06T20:25:23.611Z"
   },
@@ -192,11 +192,11 @@
     "roubadaEm": "2026-09-06T21:48:35.387Z"
   },
   "< GAUBRE LTDA >": {
-    "idNumerico": "2",
+    "idNumerico": "35",
     "nome": "< GAUBRE LTDA >",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:56|06/09/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-09-06T23:17:17.883Z"
   },
   "YT @GANDIA_RP": {

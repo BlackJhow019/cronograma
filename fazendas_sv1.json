@@ -207,6 +207,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-09-06T06:30:30.342Z"
   },
+  "021": {
+    "idNumerico": "1",
+    "nome": "021",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-09-06T08:35:46.254Z"
+  },
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
@@ -306,9 +314,9 @@
   "PODE ISSO ADM?": {
     "idNumerico": "21",
     "nome": "pode isso adm?",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:03|06/09/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-09-06T05:19:41.180Z"
   },
   "AGROBOY LTDA": {

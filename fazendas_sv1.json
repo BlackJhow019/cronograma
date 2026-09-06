@@ -170,10 +170,10 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:34|06/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-06T04:54:57.725Z"
+    "roubadaEm": "2026-09-06T10:34:34.151Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
@@ -286,14 +286,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-09-06T03:44:15.004Z"
-  },
-  "FAMILIA ALMANAK": {
-    "idNumerico": "32",
-    "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:32|06/09/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-09-06T08:20:21.847Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",

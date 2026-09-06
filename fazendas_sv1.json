@@ -242,8 +242,8 @@
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "05:59|06/09/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-09-06T04:36:39.489Z"
   },
@@ -339,7 +339,7 @@
     "idNumerico": "30",
     "nome": "Vitim Farm's",
     "status": "INDISPONIVEL",
-    "disponivelEm": "06:02|06/09/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-09-06T04:02:21.475Z"
   }

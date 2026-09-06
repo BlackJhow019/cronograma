@@ -12,7 +12,7 @@
     "nome": "Rafha investimentos $",
     "status": "INDISPONIVEL",
     "disponivelEm": "20:02|06/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-06T18:02:39.647Z"
   },
   "VENDO 500KM ACEITO TROCAS": {
@@ -162,10 +162,10 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:10|06/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-06T11:49:02.399Z"
+    "roubadaEm": "2026-09-06T18:10:49.842Z"
   },
   "AZEROX": {
     "idNumerico": "23",

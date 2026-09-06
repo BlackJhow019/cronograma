@@ -83,7 +83,7 @@
     "idNumerico": "10",
     "nome": "Penoso Farm's",
     "status": "INDISPONIVEL",
-    "disponivelEm": "16:42|06/09/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-09-06T15:30:54.554Z"
   },
@@ -314,8 +314,8 @@
   "PODE ISSO ADM?": {
     "idNumerico": "21",
     "nome": "pode isso adm?",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "16:39|06/09/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-09-06T14:55:31.157Z"
   },

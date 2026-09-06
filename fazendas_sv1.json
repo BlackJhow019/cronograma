@@ -79,14 +79,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-09-06T12:01:49.865Z"
   },
-  "PENOSO FARM'S": {
-    "idNumerico": "10",
-    "nome": "Penoso Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-09-06T15:30:54.554Z"
-  },
   "RICK FARM'S": {
     "idNumerico": "9",
     "nome": "Rick Farm's",
@@ -178,10 +170,10 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:44|06/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-06T13:52:54.322Z"
+    "roubadaEm": "2026-09-06T19:44:49.279Z"
   },
   "DM2 FARM": {
     "idNumerico": "6",
@@ -244,7 +236,7 @@
     "nome": "Borrachas Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:01|06/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-06T19:37:46.818Z"
   },
   "FARM'S DE CAFE": {

@@ -42,10 +42,10 @@
   "NOREX FARM'S": {
     "idNumerico": "13",
     "nome": "Norex farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:16|06/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-05T13:44:34.198Z"
+    "roubadaEm": "2026-09-06T00:16:53.302Z"
   },
   "FAZENDA FELIZ": {
     "idNumerico": "22",
@@ -132,7 +132,7 @@
     "nome": "Familia KuSh",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:14|06/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-06T00:14:43.247Z"
   },
   "GRANJA DO IMONKEY": {

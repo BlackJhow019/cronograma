@@ -92,7 +92,7 @@
     "nome": "Rick Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:16|06/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-06T13:43:47.474Z"
   },
   "FAZENDADO 171": {
@@ -138,10 +138,10 @@
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:40|06/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-06T03:54:20.148Z"
+    "roubadaEm": "2026-09-06T13:47:51.432Z"
   },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",

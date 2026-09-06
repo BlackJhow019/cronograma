@@ -50,10 +50,10 @@
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-09-05T18:27:08.725Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:46|06/09/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-09-06T21:46:50.640Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",
@@ -82,10 +82,10 @@
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:58|06/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-06T15:30:54.554Z"
+    "roubadaEm": "2026-09-06T21:47:28.852Z"
   },
   "RICK FARM'S": {
     "idNumerico": "9",
@@ -186,10 +186,10 @@
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:48|06/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-06T15:40:14.796Z"
+    "roubadaEm": "2026-09-06T21:48:35.387Z"
   },
   "< GAUBRE LTDA >": {
     "idNumerico": "35",
@@ -197,7 +197,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "19:22|06/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-06T21:43:05.771Z"
+    "roubadaEm": "2026-09-06T21:42:45.223Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",

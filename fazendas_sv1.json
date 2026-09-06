@@ -154,10 +154,10 @@
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:10|06/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-04T20:41:14.575Z"
+    "roubadaEm": "2026-09-06T01:10:27.230Z"
   },
   "KODIAK": {
     "idNumerico": "3",

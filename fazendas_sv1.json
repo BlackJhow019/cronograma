@@ -122,8 +122,8 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "17:10|06/09/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-09-06T16:12:02.936Z"
   },
@@ -212,7 +212,7 @@
     "nome": "021",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:29|06/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-06T20:06:48.067Z"
   },
   "OS DE RACA": {

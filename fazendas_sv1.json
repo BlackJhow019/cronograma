@@ -90,10 +90,10 @@
   "RICK FARM'S": {
     "idNumerico": "9",
     "nome": "Rick Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:26|05/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-04T21:17:54.920Z"
+    "roubadaEm": "2026-09-06T00:54:21.347Z"
   },
   "FAZENDADO 171": {
     "idNumerico": "12",
@@ -230,14 +230,6 @@
     "disponivelEm": "22:18|05/09/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-09-05T20:18:39.130Z"
-  },
-  "CLUBE DA LULUZINHA": {
-    "idNumerico": "8",
-    "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:53|05/09/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-09-05T19:53:13.004Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",

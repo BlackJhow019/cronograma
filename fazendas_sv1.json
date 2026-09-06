@@ -156,7 +156,7 @@
     "nome": "Prefeito Roadblock",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:11|06/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-06T21:11:07.306Z"
   },
   "KODIAK": {
@@ -330,10 +330,10 @@
   "VENDE-SE": {
     "idNumerico": "20",
     "nome": "Vende-Se",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:21|06/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-06T12:49:50.068Z"
+    "roubadaEm": "2026-09-06T21:21:13.938Z"
   },
   "VITIM FARM'S": {
     "idNumerico": "30",

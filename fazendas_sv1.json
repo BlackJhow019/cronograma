@@ -255,14 +255,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-09-05T22:12:08.804Z"
   },
-  "POLEMICO$ INDUSTRI$": {
-    "idNumerico": "37",
-    "nome": "PoLeMiCo$ industri$",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "21:41|05/09/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-09-05T19:41:35.727Z"
-  },
   ".": {
     "idNumerico": "31",
     "nome": ".",
@@ -290,10 +282,10 @@
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:42|06/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-05T12:05:27.536Z"
+    "roubadaEm": "2026-09-06T00:42:10.692Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",

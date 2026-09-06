@@ -68,7 +68,7 @@
     "nome": "roubo off",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:47|06/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-06T15:47:36.293Z"
   },
   "SAO PEDRO 2": {
@@ -170,10 +170,10 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:52|06/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-06T10:34:46.714Z"
+    "roubadaEm": "2026-09-06T15:52:09.773Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",

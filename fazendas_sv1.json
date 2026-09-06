@@ -202,17 +202,17 @@
   "YT @GANDIA_RP": {
     "idNumerico": "15",
     "nome": "YT @GANDIA_RP",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:56|06/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-05T15:34:49.405Z"
+    "roubadaEm": "2026-09-06T01:56:09.963Z"
   },
   "021": {
     "idNumerico": "1",
     "nome": "021",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:43|06/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-06T01:43:41.891Z"
   },
   "OS DE RACA": {

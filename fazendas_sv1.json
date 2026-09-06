@@ -74,10 +74,10 @@
   "SAO PEDRO 2": {
     "idNumerico": "43",
     "nome": "SAO PEDRO 2",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:04|07/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-06T12:01:49.865Z"
+    "roubadaEm": "2026-09-06T22:20:32.708Z"
   },
   "PENOSO FARM'S": {
     "idNumerico": "10",
@@ -132,8 +132,8 @@
     "nome": "Familia KuSh",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:16|07/09/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-09-06T22:16:00.072Z"
+    "cofreConsertado": true,
+    "roubadaEm": "2026-09-06T22:16:20.143Z"
   },
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",

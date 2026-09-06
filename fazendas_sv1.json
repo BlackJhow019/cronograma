@@ -95,6 +95,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-09-06T20:05:45.611Z"
   },
+  "FAZENDADO 171": {
+    "idNumerico": "12",
+    "nome": "fazendado 171",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-09-06T16:08:32.763Z"
+  },
   "..OURO..PR3TO..": {
     "idNumerico": "5",
     "nome": "..OURO..PR3TO..",
@@ -196,7 +204,7 @@
     "nome": "YT @GANDIA_RP",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:43|06/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-06T21:10:19.372Z"
   },
   "021": {
@@ -283,7 +291,7 @@
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
     "status": "INDISPONIVEL",
-    "disponivelEm": "18:11|06/09/2026",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-09-06T18:59:18.570Z"
   },

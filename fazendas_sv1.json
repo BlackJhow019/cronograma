@@ -130,17 +130,17 @@
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "02:14|06/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-03T18:49:55.193Z"
+    "roubadaEm": "2026-09-06T00:14:43.247Z"
   },
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:01|06/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-06T00:01:30.905Z"
   },
   "FAZENDINHA DO IGEZE": {

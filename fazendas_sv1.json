@@ -18,7 +18,7 @@
   "VENDO 500KM ACEITO TROCAS": {
     "idNumerico": "24",
     "nome": "VENDO 500km ACEITO TROCAS",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-09-07T13:04:15.659Z"
@@ -271,6 +271,14 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-09-07T15:38:25.742Z"
   },
+  "RANCHO DO DOUTOR": {
+    "idNumerico": "14",
+    "nome": "Rancho do Doutor",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-09-07T13:02:40.150Z"
+  },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
@@ -278,6 +286,14 @@
     "disponivelEm": "17:08|07/09/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-09-07T15:08:06.080Z"
+  },
+  "FAMILIA ALMANAK": {
+    "idNumerico": "32",
+    "nome": "Familia AlmanaK",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-09-07T15:50:15.657Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",

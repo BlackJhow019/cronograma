@@ -76,7 +76,7 @@
     "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:38|07/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-07T03:55:00.158Z"
   },
   "PENOSO FARM'S": {
@@ -302,6 +302,14 @@
     "disponivelEm": "02:59|07/09/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-09-07T01:52:01.717Z"
+  },
+  "BARTTT INVESTIMENTOS": {
+    "idNumerico": "18",
+    "nome": "Barttt Investimentos",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-09-06T22:53:46.825Z"
   },
   "PODE ISSO ADM?": {
     "idNumerico": "21",

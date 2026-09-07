@@ -47,14 +47,6 @@
     "cofreConsertado": true,
     "roubadaEm": "2026-09-07T01:26:35.243Z"
   },
-  "FAZENDA FELIZ": {
-    "idNumerico": "22",
-    "nome": "fazenda feliz",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:46|06/09/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-09-06T21:46:50.640Z"
-  },
   "K1NG FARM'S": {
     "idNumerico": "25",
     "nome": "K1NG Farm's",
@@ -173,7 +165,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "04:31|07/09/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-09-07T02:31:19.904Z"
+    "roubadaEm": "2026-09-07T02:31:08.439Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
@@ -330,10 +322,10 @@
   "VENDE-SE": {
     "idNumerico": "20",
     "nome": "Vende-Se",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:48|07/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-06T21:21:40.578Z"
+    "roubadaEm": "2026-09-07T02:48:15.084Z"
   },
   "VITIM FARM'S": {
     "idNumerico": "30",

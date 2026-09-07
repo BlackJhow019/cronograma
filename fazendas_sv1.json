@@ -138,10 +138,10 @@
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:25|07/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-07T11:43:20.555Z"
+    "roubadaEm": "2026-09-07T18:33:24.159Z"
   },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
@@ -326,21 +326,5 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-09-07T13:43:11.149Z"
-  },
-  "VENDE-SE": {
-    "idNumerico": "20",
-    "nome": "Vende-Se",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:32|07/09/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-09-07T13:32:03.112Z"
-  },
-  "VITIM FARM'S": {
-    "idNumerico": "30",
-    "nome": "Vitim Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "15:32|07/09/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-09-07T13:32:00.961Z"
   }
 }

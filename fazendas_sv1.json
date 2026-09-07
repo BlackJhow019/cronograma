@@ -27,7 +27,7 @@
     "idNumerico": "27",
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
-    "disponivelEm": "13:43|07/09/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-09-07T11:43:53.479Z"
   },
@@ -258,9 +258,9 @@
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:43|07/09/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-09-07T13:20:23.174Z"
   },
   ".": {

@@ -68,7 +68,7 @@
     "nome": "roubo off",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:04|07/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-07T20:04:00.181Z"
   },
   "SAO PEDRO 2": {
@@ -90,10 +90,10 @@
   "RICK FARM'S": {
     "idNumerico": "9",
     "nome": "Rick Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:39|07/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-07T14:26:58.017Z"
+    "roubadaEm": "2026-09-07T20:07:07.105Z"
   },
   "FAZENDADO 171": {
     "idNumerico": "12",

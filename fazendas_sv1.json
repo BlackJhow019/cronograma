@@ -258,10 +258,10 @@
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
     "nome": "PoLeMiCo$ industri$",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:43|07/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-07T04:42:43.542Z"
+    "roubadaEm": "2026-09-07T13:20:11.112Z"
   },
   ".": {
     "idNumerico": "31",
@@ -276,7 +276,7 @@
     "nome": "Rancho do Doutor",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:02|07/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-07T13:02:40.150Z"
   },
   "FAZENDA DA MILLY": {
@@ -324,7 +324,7 @@
     "nome": "AgroBoy LTDA",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:42|07/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-07T13:06:03.788Z"
   },
   "VENDE-SE": {

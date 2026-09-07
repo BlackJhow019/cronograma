@@ -28,7 +28,7 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:51|07/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-07T03:51:52.402Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
@@ -122,10 +122,10 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:06|07/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-06T22:40:54.069Z"
+    "roubadaEm": "2026-09-07T04:07:52.894Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",

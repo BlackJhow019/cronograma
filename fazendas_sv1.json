@@ -155,7 +155,7 @@
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
     "status": "INDISPONIVEL",
-    "disponivelEm": "23:11|06/09/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-09-06T21:11:07.306Z"
   },
@@ -210,10 +210,10 @@
   "021": {
     "idNumerico": "1",
     "nome": "021",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:34|07/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-06T20:06:48.067Z"
+    "roubadaEm": "2026-09-07T02:11:19.335Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",

@@ -98,10 +98,10 @@
   "FAZENDADO 171": {
     "idNumerico": "12",
     "nome": "fazendado 171",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:40|07/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-06T21:28:12.016Z"
+    "roubadaEm": "2026-09-07T16:40:53.247Z"
   },
   "..OURO..PR3TO..": {
     "idNumerico": "5",
@@ -166,14 +166,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-09-07T10:24:27.678Z"
-  },
-  "AZEROX": {
-    "idNumerico": "23",
-    "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:40|07/09/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-09-07T11:40:23.595Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",

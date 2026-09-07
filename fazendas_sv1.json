@@ -220,7 +220,7 @@
     "nome": "OS DE RACA",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:04|07/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-07T12:04:05.054Z"
   },
   "30PRAUM": {
@@ -262,6 +262,14 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-09-07T04:42:43.542Z"
+  },
+  ".": {
+    "idNumerico": "31",
+    "nome": ".",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-09-07T07:02:16.579Z"
   },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",

@@ -172,7 +172,7 @@
     "nome": "AzeRoX",
     "status": "INDISPONIVEL",
     "disponivelEm": "13:40|07/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-07T11:40:23.595Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
@@ -194,10 +194,10 @@
   "< GAUBRE LTDA >": {
     "idNumerico": "35",
     "nome": "< GAUBRE LTDA >",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "09:21|07/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-06T23:17:17.883Z"
+    "roubadaEm": "2026-09-07T11:42:03.113Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",

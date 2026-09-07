@@ -50,10 +50,10 @@
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "05:25|07/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-06T21:46:50.640Z"
+    "roubadaEm": "2026-09-07T03:25:48.607Z"
   },
   "K1NG FARM'S": {
     "idNumerico": "25",

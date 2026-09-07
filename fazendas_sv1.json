@@ -76,7 +76,7 @@
     "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "10:46|07/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-07T09:02:54.329Z"
   },
   "PENOSO FARM'S": {
@@ -226,10 +226,10 @@
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:10|07/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-07T00:07:00.222Z"
+    "roubadaEm": "2026-09-07T09:10:15.728Z"
   },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",

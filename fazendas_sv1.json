@@ -138,10 +138,10 @@
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
     "nome": "Granja do iMonKeY",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "12:35|07/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-07T00:43:29.145Z"
+    "roubadaEm": "2026-09-07T11:43:04.501Z"
   },
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
@@ -196,7 +196,7 @@
     "nome": "< GAUBRE LTDA >",
     "status": "INDISPONIVEL",
     "disponivelEm": "09:21|07/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-07T11:42:18.424Z"
   },
   "YT @GANDIA_RP": {

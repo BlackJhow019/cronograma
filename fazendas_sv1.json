@@ -84,7 +84,7 @@
     "nome": "Penoso Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:08|07/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-07T14:57:25.570Z"
   },
   "RICK FARM'S": {
@@ -282,10 +282,10 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:07|07/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-07T08:43:55.206Z"
+    "roubadaEm": "2026-09-07T15:07:46.310Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",

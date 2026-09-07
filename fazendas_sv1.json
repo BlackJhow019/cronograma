@@ -90,8 +90,8 @@
   "RICK FARM'S": {
     "idNumerico": "9",
     "nome": "Rick Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:59|07/09/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-09-07T14:26:58.017Z"
   },
@@ -292,7 +292,7 @@
     "nome": "Familia AlmanaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:02|07/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-07T15:50:15.657Z"
   },
   "WESKER_U$METRALHA": {
@@ -320,11 +320,11 @@
     "roubadaEm": "2026-09-07T11:52:44.674Z"
   },
   "AGROBOY LTDA": {
-    "idNumerico": "39",
+    "idNumerico": "44",
     "nome": "AgroBoy LTDA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:04|07/09/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-09-07T13:43:11.149Z"
   },
   "VENDE-SE": {

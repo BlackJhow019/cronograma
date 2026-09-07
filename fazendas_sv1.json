@@ -58,10 +58,10 @@
   "K1NG FARM'S": {
     "idNumerico": "25",
     "nome": "K1NG Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:02|07/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-03T14:58:07.829Z"
+    "roubadaEm": "2026-09-07T14:02:48.350Z"
   },
   "ROUBO OFF": {
     "idNumerico": "7",
@@ -204,7 +204,7 @@
     "nome": "YT @GANDIA_RP",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:29|07/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-07T13:56:21.453Z"
   },
   "021": {

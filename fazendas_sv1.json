@@ -268,7 +268,7 @@
     "nome": ".",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:24|09/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-09T16:24:45.699Z"
   },
   "RANCHO DO DOUTOR": {
@@ -290,10 +290,10 @@
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:42|09/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-07T15:49:59.858Z"
+    "roubadaEm": "2026-09-09T16:29:46.052Z"
   },
   "WESKER_U$METRALHA": {
     "idNumerico": "28",

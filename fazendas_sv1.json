@@ -122,10 +122,10 @@
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:17|09/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-07T14:56:35.092Z"
+    "roubadaEm": "2026-09-09T21:17:57.495Z"
   },
   "GRANJA DO IMONKEY": {
     "idNumerico": "29",
@@ -202,10 +202,10 @@
   "021": {
     "idNumerico": "1",
     "nome": "021",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-09-07T18:14:23.005Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:39|09/09/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-09-09T21:16:34.866Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",
@@ -326,14 +326,6 @@
     "disponivelEm": "23:15|09/09/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-09-09T21:15:17.715Z"
-  },
-  "VITIM FARM'S": {
-    "idNumerico": "30",
-    "nome": "Vitim Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-09-09T16:14:31.755Z"
   },
   "PKB PEAKY BLINDERS$$": {
     "idNumerico": "7",

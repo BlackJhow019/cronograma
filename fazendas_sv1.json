@@ -2,10 +2,10 @@
   "NIKE SHOX": {
     "idNumerico": "42",
     "nome": "NIKE SHOX",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-09-07T18:39:06.138Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:16|09/09/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-09-09T21:22:37.166Z"
   },
   "RAFHA INVESTIMENTOS $": {
     "idNumerico": "26",
@@ -124,7 +124,7 @@
     "nome": "Familia KuSh",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:18|09/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-09T21:18:12.576Z"
   },
   "GRANJA DO IMONKEY": {
@@ -196,7 +196,7 @@
     "nome": "YT @GANDIA_RP",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:47|09/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-09T21:14:49.219Z"
   },
   "021": {
@@ -258,9 +258,9 @@
   ".": {
     "idNumerico": "31",
     "nome": ".",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:24|09/09/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-09-09T16:24:45.699Z"
   },
   "RANCHO DO DOUTOR": {
@@ -324,7 +324,7 @@
     "nome": "Vende-Se",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:15|09/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-09T21:15:17.715Z"
   },
   "VITIM FARM'S": {

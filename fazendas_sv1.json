@@ -50,9 +50,9 @@
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:19|09/09/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-09-09T18:19:04.747Z"
   },
   "K1NG FARM'S": {
@@ -98,9 +98,9 @@
   "..OURO..PR3TO..": {
     "idNumerico": "5",
     "nome": "..OURO..PR3TO..",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:09|09/09/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-09-09T22:38:57.962Z"
   },
   "/CARIDADE": {
@@ -116,7 +116,7 @@
     "nome": "rico louco",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:48|09/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-09T22:49:52.449Z"
   },
   "FAMILIA KUSH": {

@@ -186,10 +186,10 @@
   "< GAUBRE LTDA >": {
     "idNumerico": "35",
     "nome": "< GAUBRE LTDA >",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "19:09|09/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-07T16:46:53.225Z"
+    "roubadaEm": "2026-09-09T21:29:52.042Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
@@ -222,14 +222,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-09-07T14:55:13.019Z"
-  },
-  "CLUBE DA LULUZINHA": {
-    "idNumerico": "8",
-    "nome": "Clube da Luluzinha",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:28|09/09/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-09-09T17:24:03.453Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",
@@ -307,7 +299,7 @@
     "idNumerico": "21",
     "nome": "pode isso adm?",
     "status": "INDISPONIVEL",
-    "disponivelEm": "18:29|09/09/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-09-09T16:45:40.569Z"
   },

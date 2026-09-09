@@ -28,7 +28,7 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "23:05|09/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-09T21:05:21.474Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
@@ -62,14 +62,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-09-07T14:03:31.941Z"
-  },
-  "ROUBO OFF": {
-    "idNumerico": "7",
-    "nome": "roubo off",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-09-07T20:03:59.968Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -118,14 +110,6 @@
     "disponivelEm": "21:12|09/09/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-09-09T19:12:17.019Z"
-  },
-  "RICO LOUCO": {
-    "idNumerico": "11",
-    "nome": "rico louco",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "18:05|09/09/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-09-09T17:07:01.377Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",
@@ -342,5 +326,13 @@
     "disponivelEm": "18:14|09/09/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-09-09T16:14:31.755Z"
+  },
+  "PKB PEAKY BLINDERS$$": {
+    "idNumerico": "7",
+    "nome": "PKB Peaky Blinders$$",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:08|09/09/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-09-09T21:08:37.869Z"
   }
 }

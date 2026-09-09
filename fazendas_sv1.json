@@ -156,7 +156,7 @@
     "nome": "Prefeito Roadblock",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:39|09/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-09T16:39:36.010Z"
   },
   "KODIAK": {
@@ -164,7 +164,7 @@
     "nome": "KodiaK",
     "status": "INDISPONIVEL",
     "disponivelEm": "18:42|09/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-09T16:42:11.980Z"
   },
   "AZEROX": {
@@ -314,10 +314,10 @@
   "PODE ISSO ADM?": {
     "idNumerico": "21",
     "nome": "pode isso adm?",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:29|09/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-07T17:33:38.251Z"
+    "roubadaEm": "2026-09-09T16:45:04.694Z"
   },
   "AGROBOY LTDA": {
     "idNumerico": "44",

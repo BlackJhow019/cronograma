@@ -108,7 +108,7 @@
     "nome": "/caridade",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:33|10/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-10T01:33:48.967Z"
   },
   "RICO LOUCO": {
@@ -282,9 +282,9 @@
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:43|09/09/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-09-09T23:30:29.276Z"
   },
   "WESKER_U$METRALHA": {

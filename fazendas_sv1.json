@@ -52,7 +52,7 @@
     "nome": "fazenda feliz",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:00|10/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-10T01:00:16.359Z"
   },
   "K1NG FARM'S": {
@@ -162,9 +162,9 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:09|09/09/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-09-09T20:09:31.895Z"
   },
   "WORK INDUSTRIA'S LIMITED": {
@@ -230,14 +230,6 @@
     "disponivelEm": "00:45|10/09/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-09-09T23:41:02.235Z"
-  },
-  "BORRACHAS FARM": {
-    "idNumerico": "33",
-    "nome": "Borrachas Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:10|09/09/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-09-09T20:47:12.242Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",

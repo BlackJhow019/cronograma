@@ -266,10 +266,10 @@
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
     "nome": "Rancho do Doutor",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:38|10/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-07T18:34:15.449Z"
+    "roubadaEm": "2026-09-10T02:38:51.929Z"
   },
   "FAZENDA DA MILLY": {
     "idNumerico": "19",

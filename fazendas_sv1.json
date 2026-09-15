@@ -71,14 +71,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-09-09T22:31:15.437Z"
   },
-  "RICK FARM'S": {
-    "idNumerico": "9",
-    "nome": "Rick Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-09-10T02:24:56.335Z"
-  },
   "FAZENDADO 171": {
     "idNumerico": "12",
     "nome": "fazendado 171",
@@ -342,5 +334,13 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-09-10T02:33:10.701Z"
+  },
+  "GRINGAZINHA": {
+    "idNumerico": "9",
+    "nome": "GringAzinhA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:41|16/09/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-09-15T23:41:48.986Z"
   }
 }

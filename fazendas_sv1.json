@@ -90,8 +90,8 @@
   "..OURO..PR3TO..": {
     "idNumerico": "5",
     "nome": "..OURO..PR3TO..",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "20:18|15/09/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-09-15T22:47:29.437Z"
   },
@@ -188,7 +188,7 @@
     "nome": "021",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:38|15/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-15T23:15:34.318Z"
   },
   "OS DE RACA": {

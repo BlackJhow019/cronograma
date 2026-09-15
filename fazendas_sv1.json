@@ -90,10 +90,10 @@
   "..OURO..PR3TO..": {
     "idNumerico": "5",
     "nome": "..OURO..PR3TO..",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "20:18|15/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-09T22:38:44.539Z"
+    "roubadaEm": "2026-09-15T22:47:29.576Z"
   },
   "RICO LOUCO": {
     "idNumerico": "11",
@@ -228,7 +228,7 @@
     "nome": "Farm's de Cafe",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:23|16/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-15T22:23:55.107Z"
   },
   "POLEMICO$ INDUSTRI$": {

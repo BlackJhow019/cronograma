@@ -103,14 +103,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-09-09T22:38:44.539Z"
   },
-  "/CARIDADE": {
-    "idNumerico": "40",
-    "nome": "/caridade",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-09-10T01:33:32.205Z"
-  },
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
@@ -342,5 +334,13 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-09-09T21:08:37.680Z"
+  },
+  "PUTEIRO DO KILER": {
+    "idNumerico": "40",
+    "nome": "Puteiro do KiLeR",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:38|15/09/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-09-15T19:38:16.943Z"
   }
 }

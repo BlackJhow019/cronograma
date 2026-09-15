@@ -282,10 +282,10 @@
   "WESKER_U$METRALHA": {
     "idNumerico": "28",
     "nome": "Wesker_u$MeTraLha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "21:36|15/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-07T15:13:43.738Z"
+    "roubadaEm": "2026-09-15T20:29:40.844Z"
   },
   "BARTTT INVESTIMENTOS": {
     "idNumerico": "18",
@@ -340,7 +340,7 @@
     "nome": "CEiFaDoR LMTD$$",
     "status": "INDISPONIVEL",
     "disponivelEm": "22:11|15/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-15T20:11:35.135Z"
   }
 }

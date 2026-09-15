@@ -327,20 +327,20 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-09-09T23:05:22.910Z"
   },
-  "PKB PEAKY BLINDERS$$": {
-    "idNumerico": "7",
-    "nome": "PKB Peaky Blinders$$",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-09-09T21:08:37.680Z"
-  },
   "PUTEIRO DO KILER": {
     "idNumerico": "40",
     "nome": "Puteiro do KiLeR",
     "status": "INDISPONIVEL",
     "disponivelEm": "21:38|15/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-15T19:38:16.821Z"
+  },
+  "CEIFADOR LMTD$$": {
+    "idNumerico": "7",
+    "nome": "CEiFaDoR LMTD$$",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "22:11|15/09/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-09-15T20:11:03.747Z"
   }
 }

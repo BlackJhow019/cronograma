@@ -39,14 +39,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-14T18:14:33.184Z"
   },
-  "NOREX FARM'S": {
-    "idNumerico": "13",
-    "nome": "Norex farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-09-10T02:33:10.701Z"
-  },
   "FAZENDA FELIZ": {
     "idNumerico": "22",
     "nome": "fazenda feliz",
@@ -116,7 +108,7 @@
     "nome": "Familia KuSh",
     "status": "INDISPONIVEL",
     "disponivelEm": "00:18|16/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-15T22:18:26.170Z"
   },
   "GRANJA DO IMONKEY": {
@@ -234,10 +226,10 @@
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "00:23|16/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-07T17:10:30.046Z"
+    "roubadaEm": "2026-09-15T22:23:55.107Z"
   },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",
@@ -342,5 +334,13 @@
     "disponivelEm": "00:14|16/09/2026",
     "cofreConsertado": false,
     "roubadaEm": "2026-09-15T22:14:37.528Z"
+  },
+  "BLACKOUT'S FARM": {
+    "idNumerico": "13",
+    "nome": "blackout's Farm",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-09-10T02:33:10.701Z"
   }
 }

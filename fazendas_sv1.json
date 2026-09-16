@@ -28,7 +28,7 @@
     "nome": "hwd investimentos",
     "status": "INDISPONIVEL",
     "disponivelEm": "02:16|16/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-16T00:16:19.044Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
@@ -342,5 +342,13 @@
     "disponivelEm": "01:41|16/09/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-09-15T23:41:48.846Z"
+  },
+  "AGROBOY LTDA": {
+    "idNumerico": "39",
+    "nome": "AgroBoy LTDA",
+    "status": "INDISPONIVEL",
+    "disponivelEm": "23:48|15/09/2026",
+    "cofreConsertado": false,
+    "roubadaEm": "2026-09-16T00:27:31.348Z"
   }
 }

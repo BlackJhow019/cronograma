@@ -330,9 +330,9 @@
   "BLACKOUT'S FARM": {
     "idNumerico": "13",
     "nome": "blackout's Farm",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "07:13|16/09/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-09-16T05:13:05.328Z"
   },
   "GRINGAZINHA": {

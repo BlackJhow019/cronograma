@@ -196,7 +196,7 @@
     "nome": "30PRAUM",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:47|16/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-16T01:47:32.869Z"
   },
   "CLUBE DA LULUZINHA": {
@@ -314,10 +314,10 @@
   "CEIFADOR LMTD$$": {
     "idNumerico": "7",
     "nome": "CEiFaDoR LMTD$$",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:48|16/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-15T20:11:35.135Z"
+    "roubadaEm": "2026-09-16T01:48:07.084Z"
   },
   "ETERNO FIEL": {
     "idNumerico": "44",

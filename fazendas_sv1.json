@@ -258,7 +258,7 @@
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
+    "status": "DISPONIVEL",
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-09-16T02:57:08.159Z"
@@ -330,10 +330,10 @@
   "BLACKOUT'S FARM": {
     "idNumerico": "13",
     "nome": "blackout's Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:12|16/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-10T02:33:10.701Z"
+    "roubadaEm": "2026-09-16T05:12:43.729Z"
   },
   "GRINGAZINHA": {
     "idNumerico": "9",

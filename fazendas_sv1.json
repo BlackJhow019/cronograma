@@ -74,10 +74,10 @@
   "FAZENDADO 171": {
     "idNumerico": "12",
     "nome": "fazendado 171",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:53|16/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-09T18:44:45.554Z"
+    "roubadaEm": "2026-09-16T01:53:05.463Z"
   },
   "..OURO..PR3TO..": {
     "idNumerico": "5",
@@ -294,14 +294,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-09-09T21:15:04.245Z"
-  },
-  "VITIM FARM'S": {
-    "idNumerico": "30",
-    "nome": "Vitim Farm's",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:50|15/09/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-09-15T20:50:31.591Z"
   },
   "PUTEIRO DO KILER": {
     "idNumerico": "40",

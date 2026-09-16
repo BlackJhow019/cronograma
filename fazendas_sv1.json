@@ -106,10 +106,10 @@
   "FAZENDINHA DO IGEZE": {
     "idNumerico": "36",
     "nome": "fazendinha do igeze",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:08|17/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-16T12:24:09.946Z"
+    "roubadaEm": "2026-09-16T23:08:51.555Z"
   },
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
@@ -250,8 +250,8 @@
   "FAMILIA ALMANAK": {
     "idNumerico": "32",
     "nome": "Familia AlmanaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "19:54|16/09/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-09-16T20:42:24.855Z"
   },

@@ -211,7 +211,7 @@
     "idNumerico": "33",
     "nome": "Borrachas Farm",
     "status": "INDISPONIVEL",
-    "disponivelEm": "01:53|16/09/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-09-16T00:30:05.815Z"
   },
@@ -322,10 +322,10 @@
   "ETERNO FIEL": {
     "idNumerico": "44",
     "nome": "eterno fiel",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:54|16/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-15T22:14:37.528Z"
+    "roubadaEm": "2026-09-16T04:54:17.551Z"
   },
   "BLACKOUT'S FARM": {
     "idNumerico": "13",

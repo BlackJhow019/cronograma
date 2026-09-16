@@ -189,7 +189,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "02:59|16/09/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-09-16T00:59:40.902Z"
+    "roubadaEm": "2026-09-16T00:59:24.450Z"
   },
   "30PRAUM": {
     "idNumerico": "16",
@@ -229,7 +229,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "01:19|16/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-16T00:56:49.992Z"
+    "roubadaEm": "2026-09-16T00:56:33.953Z"
   },
   ".": {
     "idNumerico": "31",
@@ -237,7 +237,7 @@
     "status": "INDISPONIVEL",
     "disponivelEm": "02:53|16/09/2026",
     "cofreConsertado": true,
-    "roubadaEm": "2026-09-16T00:53:44.598Z"
+    "roubadaEm": "2026-09-16T00:53:30.200Z"
   },
   "RANCHO DO DOUTOR": {
     "idNumerico": "14",
@@ -250,10 +250,10 @@
   "FAZENDA DA MILLY": {
     "idNumerico": "19",
     "nome": "Fazenda da Milly",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:29|16/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-10T02:53:09.498Z"
+    "roubadaEm": "2026-09-16T01:29:59.953Z"
   },
   "FAMILIA ALMANAK": {
     "idNumerico": "32",

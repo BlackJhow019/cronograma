@@ -66,10 +66,10 @@
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "17:54|16/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-16T07:06:48.377Z"
+    "roubadaEm": "2026-09-16T16:42:53.183Z"
   },
   "FAZENDADO 171": {
     "idNumerico": "12",
@@ -158,14 +158,6 @@
     "disponivelEm": "17:13|16/09/2026",
     "cofreConsertado": true,
     "roubadaEm": "2026-09-16T15:13:43.635Z"
-  },
-  "< GAUBRE LTDA >": {
-    "idNumerico": "2",
-    "nome": "< GAUBRE LTDA >",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:41|16/09/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-09-16T16:02:40.655Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",

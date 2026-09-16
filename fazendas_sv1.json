@@ -26,9 +26,9 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:16|16/09/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-09-16T00:16:19.044Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
@@ -180,7 +180,7 @@
     "nome": "021",
     "status": "INDISPONIVEL",
     "disponivelEm": "03:29|16/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-16T05:05:52.878Z"
   },
   "OS DE RACA": {
@@ -332,7 +332,7 @@
     "nome": "blackout's Farm",
     "status": "INDISPONIVEL",
     "disponivelEm": "07:13|16/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-16T05:13:05.328Z"
   },
   "GRINGAZINHA": {

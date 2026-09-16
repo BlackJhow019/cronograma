@@ -130,9 +130,9 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:01|16/09/2026",
-    "cofreConsertado": true,
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
     "roubadaEm": "2026-09-16T00:01:37.974Z"
   },
   "AZEROX": {
@@ -324,7 +324,7 @@
     "nome": "eterno fiel",
     "status": "INDISPONIVEL",
     "disponivelEm": "06:54|16/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-16T04:54:36.916Z"
   },
   "BLACKOUT'S FARM": {

@@ -52,7 +52,7 @@
     "nome": "K1NG Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "17:35|16/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-16T15:35:04.245Z"
   },
   "SAO PEDRO 2": {
@@ -342,5 +342,13 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-09-15T23:41:48.846Z"
+  },
+  "AGROBOY LTDA": {
+    "idNumerico": "39",
+    "nome": "AgroBoy LTDA",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-09-16T13:12:15.433Z"
   }
 }

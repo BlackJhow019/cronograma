@@ -210,10 +210,10 @@
   "FARM'S DE CAFE": {
     "idNumerico": "4",
     "nome": "Farm's de Cafe",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:56|17/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-16T17:08:59.927Z"
+    "roubadaEm": "2026-09-16T23:56:05.652Z"
   },
   "POLEMICO$ INDUSTRI$": {
     "idNumerico": "37",

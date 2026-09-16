@@ -87,14 +87,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-09-15T22:47:29.437Z"
   },
-  "RICO LOUCO": {
-    "idNumerico": "11",
-    "nome": "rico louco",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:04|16/09/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-09-16T12:06:16.354Z"
-  },
   "FAMILIA KUSH": {
     "idNumerico": "34",
     "nome": "Familia KuSh",
@@ -180,7 +172,7 @@
     "nome": "021",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:25|16/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-16T16:02:31.599Z"
   },
   "OS DE RACA": {
@@ -298,10 +290,10 @@
   "VITIM FARM'S": {
     "idNumerico": "30",
     "nome": "Vitim Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "18:06|16/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-16T02:15:03.148Z"
+    "roubadaEm": "2026-09-16T16:06:24.006Z"
   },
   "PUTEIRO DO KILER": {
     "idNumerico": "40",
@@ -310,14 +302,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-09-16T07:59:12.439Z"
-  },
-  "CEIFADOR LMTD$$": {
-    "idNumerico": "7",
-    "nome": "CEiFaDoR LMTD$$",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:05|16/09/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-09-16T11:05:12.023Z"
   },
   "ETERNO FIEL": {
     "idNumerico": "44",

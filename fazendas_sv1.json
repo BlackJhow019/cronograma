@@ -138,10 +138,10 @@
   "WORK INDUSTRIA'S LIMITED": {
     "idNumerico": "38",
     "nome": "Work Industria's Limited",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:55|17/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-17T01:42:03.809Z"
+    "roubadaEm": "2026-09-17T12:55:00.498Z"
   },
   "DM2 FARM": {
     "idNumerico": "6",
@@ -300,7 +300,7 @@
     "nome": "Puteiro do KiLeR",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:46|17/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-17T12:46:03.466Z"
   },
   "CEIFADOR LMTD$$": {
@@ -308,7 +308,7 @@
     "nome": "CEiFaDoR LMTD$$",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:51|17/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-17T12:51:34.021Z"
   },
   "ETERNO FIEL": {

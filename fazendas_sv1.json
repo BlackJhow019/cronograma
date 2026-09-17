@@ -42,10 +42,10 @@
   "K1NG FARM'S": {
     "idNumerico": "25",
     "nome": "K1NG Farm's",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "13:19|17/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-16T15:34:47.231Z"
+    "roubadaEm": "2026-09-17T11:19:11.444Z"
   },
   "SAO PEDRO 2": {
     "idNumerico": "43",
@@ -196,7 +196,7 @@
     "nome": "Clube da Luluzinha",
     "status": "INDISPONIVEL",
     "disponivelEm": "12:20|17/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-17T11:16:07.021Z"
   },
   "BORRACHAS FARM": {

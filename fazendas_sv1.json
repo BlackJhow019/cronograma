@@ -170,10 +170,10 @@
   "021": {
     "idNumerico": "1",
     "nome": "021",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "01:12|17/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-16T21:22:26.373Z"
+    "roubadaEm": "2026-09-17T02:48:59.419Z"
   },
   "OS DE RACA": {
     "idNumerico": "0",
@@ -236,7 +236,7 @@
     "nome": "Rancho do Doutor",
     "status": "INDISPONIVEL",
     "disponivelEm": "04:37|17/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-17T02:37:23.063Z"
   },
   "FAZENDA DA MILLY": {

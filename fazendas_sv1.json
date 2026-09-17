@@ -18,10 +18,10 @@
   "HWD INVESTIMENTOS": {
     "idNumerico": "27",
     "nome": "hwd investimentos",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
-    "cofreConsertado": false,
-    "roubadaEm": "2026-09-16T21:14:54.382Z"
+    "status": "INDISPONIVEL",
+    "disponivelEm": "16:50|17/09/2026",
+    "cofreConsertado": true,
+    "roubadaEm": "2026-09-17T14:50:35.028Z"
   },
   "FAZENDA ROTA DO CAFÉ": {
     "idNumerico": "17",
@@ -212,7 +212,7 @@
     "nome": "Farm's de Cafe",
     "status": "INDISPONIVEL",
     "disponivelEm": "16:47|17/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-17T14:47:49.789Z"
   },
   "POLEMICO$ INDUSTRI$": {

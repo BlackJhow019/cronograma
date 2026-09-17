@@ -274,10 +274,10 @@
   "PODE ISSO ADM?": {
     "idNumerico": "21",
     "nome": "pode isso adm?",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:55|17/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-09T23:57:21.131Z"
+    "roubadaEm": "2026-09-17T03:11:34.873Z"
   },
   "VENDE-SE": {
     "idNumerico": "20",
@@ -316,7 +316,7 @@
     "nome": "eterno fiel",
     "status": "INDISPONIVEL",
     "disponivelEm": "05:06|17/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-17T03:06:18.728Z"
   },
   "BLACKOUT'S FARM": {

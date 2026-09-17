@@ -31,14 +31,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-14T18:14:33.184Z"
   },
-  "FAZENDA FELIZ": {
-    "idNumerico": "22",
-    "nome": "fazenda feliz",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:12|17/09/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-09-17T00:12:48.023Z"
-  },
   "K1NG FARM'S": {
     "idNumerico": "25",
     "nome": "K1NG Farm's",
@@ -186,10 +178,10 @@
   "30PRAUM": {
     "idNumerico": "16",
     "nome": "30PRAUM",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "07:14|17/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-16T22:44:52.474Z"
+    "roubadaEm": "2026-09-17T05:14:40.378Z"
   },
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",

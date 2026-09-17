@@ -63,14 +63,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-09-17T05:08:15.458Z"
   },
-  "FAZENDADO 171": {
-    "idNumerico": "12",
-    "nome": "fazendado 171",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "02:19|17/09/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-09-17T00:19:23.733Z"
-  },
   "..OURO..PR3TO..": {
     "idNumerico": "5",
     "nome": "..OURO..PR3TO..",
@@ -194,10 +186,10 @@
   "CLUBE DA LULUZINHA": {
     "idNumerico": "8",
     "nome": "Clube da Luluzinha",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "06:25|17/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-17T00:05:00.589Z"
+    "roubadaEm": "2026-09-17T05:21:11.516Z"
   },
   "BORRACHAS FARM": {
     "idNumerico": "33",

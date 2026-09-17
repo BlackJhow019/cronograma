@@ -114,8 +114,8 @@
   "PREFEITO ROADBLOCK": {
     "idNumerico": "41",
     "nome": "Prefeito Roadblock",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:04|17/09/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-09-17T11:04:56.660Z"
   },
@@ -326,14 +326,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-09-16T05:13:05.328Z"
-  },
-  "GRINGAZINHA": {
-    "idNumerico": "9",
-    "nome": "GringAzinhA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "13:05|17/09/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-09-17T11:05:56.148Z"
   },
   "AGROBOY LTDA": {
     "idNumerico": "39",

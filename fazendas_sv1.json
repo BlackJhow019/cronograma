@@ -31,6 +31,14 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-07-14T18:14:33.184Z"
   },
+  "FAZENDA FELIZ": {
+    "idNumerico": "22",
+    "nome": "fazenda feliz",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
+    "cofreConsertado": false,
+    "roubadaEm": "2026-09-17T07:00:10.778Z"
+  },
   "K1NG FARM'S": {
     "idNumerico": "25",
     "nome": "K1NG Farm's",
@@ -308,7 +316,7 @@
     "nome": "eterno fiel",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:01|17/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-17T12:01:25.639Z"
   },
   "BLACKOUT'S FARM": {

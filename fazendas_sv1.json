@@ -52,7 +52,7 @@
     "nome": "SAO PEDRO 2",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:35|17/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-17T12:52:07.248Z"
   },
   "PENOSO FARM'S": {
@@ -66,10 +66,10 @@
   "FAZENDADO 171": {
     "idNumerico": "12",
     "nome": "fazendado 171",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:01|17/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-17T00:19:23.733Z"
+    "roubadaEm": "2026-09-17T13:01:56.386Z"
   },
   "..OURO..PR3TO..": {
     "idNumerico": "5",

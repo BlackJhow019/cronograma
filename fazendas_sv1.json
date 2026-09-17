@@ -292,7 +292,7 @@
     "nome": "Vitim Farm's",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:26|17/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-17T13:26:34.419Z"
   },
   "PUTEIRO DO KILER": {
@@ -346,9 +346,9 @@
   "USMETRALHA S/A": {
     "idNumerico": "24",
     "nome": "usMETRALHA S/A",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:42|17/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-17T07:40:09.518Z"
+    "roubadaEm": "2026-09-17T13:42:36.524Z"
   }
 }

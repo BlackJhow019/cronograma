@@ -154,10 +154,10 @@
   "< GAUBRE LTDA >": {
     "idNumerico": "35",
     "nome": "< GAUBRE LTDA >",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:50|17/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-17T11:15:54.855Z"
+    "roubadaEm": "2026-09-17T14:10:52.052Z"
   },
   "YT @GANDIA_RP": {
     "idNumerico": "15",
@@ -348,7 +348,7 @@
     "nome": "usMETRALHA S/A",
     "status": "INDISPONIVEL",
     "disponivelEm": "15:42|17/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-17T13:42:50.622Z"
   }
 }

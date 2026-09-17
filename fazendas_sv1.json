@@ -108,7 +108,7 @@
     "nome": "fazendinha do igeze",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:29|17/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-17T12:29:55.904Z"
   },
   "PREFEITO ROADBLOCK": {
@@ -346,8 +346,8 @@
   "USMETRALHA S/A": {
     "idNumerico": "24",
     "nome": "usMETRALHA S/A",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "09:40|17/09/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-09-17T07:40:09.518Z"
   }

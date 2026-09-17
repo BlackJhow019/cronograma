@@ -74,10 +74,10 @@
   "..OURO..PR3TO..": {
     "idNumerico": "5",
     "nome": "..OURO..PR3TO..",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "04:25|17/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-17T00:19:18.022Z"
+    "roubadaEm": "2026-09-17T06:54:54.831Z"
   },
   "RICO LOUCO": {
     "idNumerico": "11",
@@ -214,14 +214,6 @@
     "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-09-16T23:56:20.671Z"
-  },
-  "POLEMICO$ INDUSTRI$": {
-    "idNumerico": "37",
-    "nome": "PoLeMiCo$ industri$",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "03:53|17/09/2026",
-    "cofreConsertado": true,
-    "roubadaEm": "2026-09-17T03:30:52.957Z"
   },
   ".": {
     "idNumerico": "31",

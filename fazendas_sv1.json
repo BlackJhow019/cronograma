@@ -122,10 +122,10 @@
   "KODIAK": {
     "idNumerico": "3",
     "nome": "KodiaK",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "15:03|17/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-16T20:16:26.821Z"
+    "roubadaEm": "2026-09-17T13:03:06.866Z"
   },
   "AZEROX": {
     "idNumerico": "23",

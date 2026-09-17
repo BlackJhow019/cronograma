@@ -135,14 +135,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-09-16T23:45:16.780Z"
   },
-  "WORK INDUSTRIA'S LIMITED": {
-    "idNumerico": "38",
-    "nome": "Work Industria's Limited",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:05|16/09/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-09-16T20:05:57.822Z"
-  },
   "DM2 FARM": {
     "idNumerico": "6",
     "nome": "Dm2 Farm",
@@ -346,8 +338,8 @@
   "USMETRALHA S/A": {
     "idNumerico": "24",
     "nome": "usMETRALHA S/A",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "22:04|16/09/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-09-16T20:04:01.287Z"
   }

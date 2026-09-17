@@ -92,7 +92,7 @@
     "nome": "Familia KuSh",
     "status": "INDISPONIVEL",
     "disponivelEm": "14:43|17/09/2026",
-    "cofreConsertado": false,
+    "cofreConsertado": true,
     "roubadaEm": "2026-09-17T12:43:43.065Z"
   },
   "GRANJA DO IMONKEY": {
@@ -306,10 +306,10 @@
   "CEIFADOR LMTD$$": {
     "idNumerico": "7",
     "nome": "CEiFaDoR LMTD$$",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "14:51|17/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-17T02:49:50.195Z"
+    "roubadaEm": "2026-09-17T12:51:11.250Z"
   },
   "ETERNO FIEL": {
     "idNumerico": "44",

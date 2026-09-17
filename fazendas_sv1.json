@@ -47,14 +47,6 @@
     "cofreConsertado": false,
     "roubadaEm": "2026-09-16T15:34:47.231Z"
   },
-  "SAO PEDRO 2": {
-    "idNumerico": "43",
-    "nome": "SAO PEDRO 2",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "23:26|16/09/2026",
-    "cofreConsertado": false,
-    "roubadaEm": "2026-09-16T21:43:10.054Z"
-  },
   "PENOSO FARM'S": {
     "idNumerico": "10",
     "nome": "Penoso Farm's",
@@ -82,10 +74,10 @@
   "RICO LOUCO": {
     "idNumerico": "11",
     "nome": "rico louco",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "03:26|17/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-16T19:44:33.057Z"
+    "roubadaEm": "2026-09-17T02:27:41.034Z"
   },
   "FAMILIA KUSH": {
     "idNumerico": "34",

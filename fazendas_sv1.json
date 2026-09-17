@@ -11,7 +11,7 @@
     "idNumerico": "26",
     "nome": "Rafha investimentos $",
     "status": "INDISPONIVEL",
-    "disponivelEm": "12:30|17/09/2026",
+    "disponivelEm": null,
     "cofreConsertado": true,
     "roubadaEm": "2026-09-17T10:30:17.594Z"
   },
@@ -130,8 +130,8 @@
   "AZEROX": {
     "idNumerico": "23",
     "nome": "AzeRoX",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:28|17/09/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-09-17T10:28:24.428Z"
   },
@@ -178,8 +178,8 @@
   "OS DE RACA": {
     "idNumerico": "0",
     "nome": "OS DE RACA",
-    "status": "INDISPONIVEL",
-    "disponivelEm": "12:28|17/09/2026",
+    "status": "DISPONIVEL",
+    "disponivelEm": null,
     "cofreConsertado": false,
     "roubadaEm": "2026-09-17T10:28:37.078Z"
   },

@@ -202,10 +202,10 @@
   "BORRACHAS FARM": {
     "idNumerico": "33",
     "nome": "Borrachas Farm",
-    "status": "DISPONIVEL",
-    "disponivelEm": null,
+    "status": "INDISPONIVEL",
+    "disponivelEm": "11:54|17/09/2026",
     "cofreConsertado": false,
-    "roubadaEm": "2026-09-17T04:06:31.876Z"
+    "roubadaEm": "2026-09-17T10:31:03.232Z"
   },
   "FARM'S DE CAFE": {
     "idNumerico": "4",
